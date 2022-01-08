@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./file_manager.sh</path>
+		<name>文件管理器</name>
+		<desc>MC文件管理器.不需要键盘</desc>
+		<developer>shantigilbert </developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/File Manager.png</image>
+	</game>
+	<game>
+		<path>./wifi.sh</path>
+		<name>备用 WiFi 方法</name>
+		<desc>使用 /storage/.config/wifi.txt 连接到 WiFi</desc>
+		<developer>shantigilbert </developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/wifi.png</image>
+	</game>
+	<game>
+		<path>./install_drastic.sh</path>
+		<name>安装NDS模拟器</name>
+		<desc>下载并安装Drastic, 需要互联网!</desc>
+		<developer>shantigilbert </developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/drastic.png</image>
+	</game>
+	<game>
+		<path>./sselphs_scraper.sh</path>
+		<name>Sselphs 抓取元数据</name>
+		<desc>替代 ROM 抓取元数据. 需要配置!</desc>
+		<developer>shantigilbert </developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/help.png</image>
+	</game>
+	<game>
+		<path>./skyscraper.sh</path>
+		<name>Skyscraper</name>
+		<desc>替代 ROM 抓取元数据. 需要配置!</desc>
+		<developer>shantigilbert </developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/sh.png</image>
+	</game>
+	<game>
+		<path>./send_logs.sh</path>
+		<name>发送日志</name>
+		<desc>在寻求帮助时，使用这个方法可以获得一个可以共享的URL</desc>
+		<developer>shantigilbert </developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/logs.png</image>
+	</game>
+	<game>
+		<path>./system_info.sh</path>
+		<name>系统信息</name>
+		<desc>显示系统信息</desc>
+		<developer>shantigilbert </developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/info.png</image>
+	</game>
+	<game>
+		<path>./copy_usb_roms_to_device.sh</path>
+		<name>将 USB roms 复制到设备</name>
+		<desc>轻松将ROM从任何外部设备复制到SD/安装EmuELEC的MMC</desc>
+		<developer>shantigilbert </developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/usb.png</image>
+	</game>
+	<game>
+		<path>./show_last_emuelec.log.sh</path>
+		<name>显示最后的 emuelec</name>
+		<desc>在屏幕上显示最后一个 emuelec.log 来调试游戏启动问题</desc>
+		<developer>shantigilbert </developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/last.png</image>
+	</game>
+	<game>
+		<path>./launch_terminal_(kb).sh</path>
+		<name>启动终端</name>
+		<desc>启动终端, 需要键盘用来输入命令!</desc>
+		<developer>shantigilbert </developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/terminal.png</image>
+	</game>
+	<game>
+		<path>./youtube_search.sh</path>
+		<name>油管搜索</name>
+		<desc>根据Emuelec设置菜单中预定义的单词进行快速youtube搜索</desc>
+		<developer>shantigilbert </developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/youtube.png</image>
+	</game>
+	<game>
+		<path>./bt_controller_management.sh</path>
+		<name>蓝牙控制器管理</name>
+		<desc>代替蓝牙配置菜单</desc>
+		<developer>shantigilbert </developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/bluetooth.png</image>
+	</game>
+	<game>
+		<path>./scan_scummVM_games.sh</path>
+		<name>扫描 ScummVM 游戏</name>
+		<desc>扫描 Scummvm 游戏并将它们添加到游戏列表中!</desc>
+		<developer>shantigilbert </developer>
+		<publisher>Emuelec</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/scummvm.png</image>
+	</game>
+</gameList>
