@@ -19,7 +19,7 @@
 ################################################################################
 
 PKG_NAME="retroarch"
-PKG_VERSION="f43b19db4fdb0374a7f341b1ec63a2e4608d3daa"
+PKG_VERSION="aa642e5786c8483dc36ee8900cdfc64fae0769d2"
 PKG_SITE="https://github.com/libretro/RetroArch"
 PKG_URL="$PKG_SITE.git"
 PKG_LICENSE="GPLv3"
@@ -195,8 +195,10 @@ fi
   sed -i -e "s/# input_overlay_opacity = 1.0/input_overlay_opacity = 0.15/" $INSTALL/etc/retroarch.cfg
   sed -i -e "s/# audio_volume = 0.0/audio_volume = "0.000000"/" $INSTALL/etc/retroarch.cfg
   sed -i -e "s/# cache_directory =/cache_directory = \/tmp\/cache/" $INSTALL/etc/retroarch.cfg
-  echo "user_language = \"0\"" >> $INSTALL/etc/retroarch.cfg
+  echo "user_language = \"12\"" >> $INSTALL/etc/retroarch.cfg
   echo "menu_show_shutdown = \"false\"" >> $INSTALL/etc/retroarch.cfg
+  echo "menu_show_reboot = \"false\"" >> $INSTALL/etc/retroarch.cfg
+  echo "menu_timedate_style = \"12\"" >> $INSTALL/etc/retroarch.cfg
   echo "menu_show_reboot = \"false\"" >> $INSTALL/etc/retroarch.cfg
   echo "input_player1_analog_dpad_mode = \"1\"" >> $INSTALL/etc/retroarch.cfg
   echo "input_player2_analog_dpad_mode = \"1\"" >> $INSTALL/etc/retroarch.cfg
@@ -221,7 +223,8 @@ fi
 
   mkdir -p $INSTALL/usr/config/retroarch/
   mv $INSTALL/etc/retroarch.cfg $INSTALL/usr/config/retroarch/
-  
+  cp -rf $PKG_DIR/cheats $INSTALL/usr/config/retroarch/
+
 }
 
 post_install() {  

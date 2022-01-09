@@ -7,12 +7,12 @@
 . /etc/profile
 
 function drastic_confirm() {
-    text_viewer -y -w -t "Install Drastic" -f 24 -m "This will install Drastic and enable it on Emulationstation\n\nNOTE: You need to have an active internet connection and you will need to restart ES after this script ends, continue?"
+    text_viewer -y -w -t "安装NDS模拟器" -f 24 -m "这将安装并启用NDS模拟器\n\n注意: 您需要连接互联网，并且在安装结束后重新启动，是否继续?"
         if [[ $? == 21 ]]; then
             if drastic_install; then
-                text_viewer -w -t "Install Drastic Complete!" -f 24 -m "Drastic installation is done!, don't forget to install roms to /storage/roms/nds and restart Emulationstation!"
+                text_viewer -w -t "安装成功!" -f 24 -m "安装完成了！请不要忘记将roms安装到/storage/roms/nds，然后重新启动前端!"
             else
-                text_viewer -e -w -t "Install Drastic FAILED!" -f 24 -m "Drastic installation was not completed!, Are you sure you are connected to the internet?"
+                text_viewer -e -w -t "安装失败!" -f 24 -m "安装失败!, 请确认已连接到互联网!"
             fi
       fi
     ee_console disable
@@ -22,7 +22,7 @@ function drastic_install() {
 ee_console enable
 
 if grep -q "aarch64" /etc/motd; then
-    LINK="https://raw.githubusercontent.com/shantigilbert/binaries-1/master/drastic.tar.gz"
+    LINK="https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbzBxb2U5eUt6RzRnWkFfY2FxUW5sLWtkbDRUcUE_ZT1xbVVuSWI..tar.gz"
 else
 	LINK="https://raw.githubusercontent.com/shantigilbert/binaries/master/odroid-xu4/drastic.tar.gz"
 fi
@@ -99,7 +99,7 @@ esac
 
 fi
 
-echo "Done, restart ES"
+echo "完成后, 重新启动前端"
 ee_console disable
 rm /tmp/display > /dev/null 2>&1
 return 0

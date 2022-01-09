@@ -2,8 +2,8 @@
 <gameList>
 	<game>
 		<path>./file_manager.sh</path>
-		<name>File Manager</name>
-		<desc>MC File Manager. NO keyboard required</desc>
+		<name>文件管理器</name>
+		<desc>MC文件管理器.不需要键盘</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
@@ -11,8 +11,8 @@
 	</game>
 	<game>
 		<path>./wifi.sh</path>
-		<name>Alternate WiFi method</name>
-		<desc>Connect to WiFi using wifi.txt in /storage/.config/wifi.txt</desc>
+		<name>备用 WiFi 方法</name>
+		<desc>使用 /storage/.config/wifi.txt 连接到 WiFi</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
@@ -20,8 +20,8 @@
 	</game>
 	<game>
 		<path>./install_drastic.sh</path>
-		<name>Install Drastic</name>
-		<desc>Download and install Drastic, internet is required!</desc>
+		<name>安装NDS模拟器</name>
+		<desc>下载并安装Drastic, 需要互联网!</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
@@ -29,8 +29,8 @@
 	</game>
 	<game>
 		<path>./sselphs_scraper.sh</path>
-		<name>Sselphs scraper</name>
-		<desc>Alternative ROM Scraper. Configuration is required!</desc>
+		<name>Sselphs 抓取元数据</name>
+		<desc>替代 ROM 抓取元数据. 需要配置!</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
@@ -39,7 +39,7 @@
 	<game>
 		<path>./skyscraper.sh</path>
 		<name>Skyscraper</name>
-		<desc>Alternative ROM Scraper. Configuration is required!</desc>
+		<desc>替代 ROM 抓取元数据. 需要配置!</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
@@ -47,8 +47,8 @@
 	</game>
 	<game>
 		<path>./send_logs.sh</path>
-		<name>Send logs</name>
-		<desc>Use this to get a URL that you can share when asking for help</desc>
+		<name>发送日志</name>
+		<desc>在寻求帮助时，使用这个方法可以获得一个可以共享的URL</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
@@ -56,8 +56,8 @@
 	</game>
 	<game>
 		<path>./system_info.sh</path>
-		<name>System info</name>
-		<desc>Display System info</desc>
+		<name>系统信息</name>
+		<desc>显示系统信息</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
@@ -65,8 +65,8 @@
 	</game>
 	<game>
 		<path>./copy_usb_roms_to_device.sh</path>
-		<name>Copy USB roms to device</name>
-		<desc>Easily copy ROMS from any external device to the SD/MMC where EmuELEC is installed</desc>
+		<name>将 USB roms 复制到设备</name>
+		<desc>轻松将ROM从任何外部设备复制到SD/安装EmuELEC的MMC</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
@@ -74,8 +74,8 @@
 	</game>
 	<game>
 		<path>./show_last_emuelec.log.sh</path>
-		<name>Show last emuelec</name>
-		<desc>Display the last emuelec.log on screen to debug game launching problems</desc>
+		<name>显示最后的 emuelec</name>
+		<desc>在屏幕上显示最后一个 emuelec.log 来调试游戏启动问题</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
@@ -83,8 +83,8 @@
 	</game>
 	<game>
 		<path>./launch_terminal_(kb).sh</path>
-		<name>Launch Terminal</name>
-		<desc>Start a terminal, a keybord is required!</desc>
+		<name>启动终端</name>
+		<desc>启动终端, 需要键盘用来输入命令!</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
@@ -92,8 +92,8 @@
 	</game>
 	<game>
 		<path>./youtube_search.sh</path>
-		<name>YouTube Search</name>
-		<desc>Do a quick youtube search based on the word predefined in the EmuELEC settings menu</desc>
+		<name>油管搜索</name>
+		<desc>根据Emuelec设置菜单中预定义的单词进行快速youtube搜索</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
@@ -101,8 +101,8 @@
 	</game>
 	<game>
 		<path>./bt_controller_management.sh</path>
-		<name>Bluetooth controller management</name>
-		<desc>Alternative Bluetooth configuration menu</desc>
+		<name>蓝牙控制器管理</name>
+		<desc>代替蓝牙配置菜单</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
@@ -110,8 +110,8 @@
 	</game>
 	<game>
 		<path>./scan_scummVM_games.sh</path>
-		<name>Scan ScummVM Games</name>
-		<desc>Scan Scummvm and add them to the gamelist!</desc>
+		<name>扫描 ScummVM 游戏</name>
+		<desc>扫描 Scummvm 游戏并将它们添加到游戏列表中!</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>

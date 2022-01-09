@@ -255,10 +255,7 @@
 
 LAKKA_MIRROR="http://sources.lakka.tv"
 
-LIBRETRO_CORES="2048 \
-81 \
-atari800 \
-beetle-lynx \
+LIBRETRO_CORES="beetle-lynx \
 beetle-ngp \
 beetle-pce \
 beetle-pcfx \
@@ -272,11 +269,9 @@ daphne \
 dinothawr \
 dosbox-svn \
 easyrpg \
-fbalpha2012 \
 fbneo \
 fceumm \
 fceumm-mod \
-flycast \
 freeintv \
 fuse-libretro \
 gambatte \
@@ -289,8 +284,7 @@ gpsp \
 gw-libretro \
 handy \
 hatari \
-mame2003-plus \
-mame2010 \
+hbfbneo \
 meowpc98 \
 mgba \
 mrboom \
@@ -305,7 +299,6 @@ pcsx_rearmed \
 picodrive \
 pocketcdg \
 pokemini \
-ppsspp \
 prboom \
 prosystem \
 puae \
@@ -320,7 +313,6 @@ snes9x2010 \
 spring \
 stella \
 tgbdual \
-tic-80 \
 tyrquake \
 xrick \
 uae4arm \
