@@ -1,0 +1,57 @@
+cheat0_desc = "BOSS 一擊必殺"
+cheat0_handler = "0"
+cheat0_code = "80032F06#A100"
+
+cheat1_desc = "体力不減"
+cheat1_handler = "0"
+cheat1_code = "800327EE#0040;8003AA2C#1821;8003AA2E#0062;30987BC#0020"
+
+cheat2_desc = "不受攻撃"
+cheat2_handler = "0"
+cheat2_code = "80032804#0000;80032806#0000"
+
+cheat3_desc = "不按任何按鈕時體力回復"
+cheat3_handler = "0"
+cheat3_code = "D00D0FE2#FFFF,800987BC#2020"
+
+cheat4_desc = "隻數不減"
+cheat4_handler = "0"
+cheat4_code = "300CE5C9#0009"
+
+cheat5_desc = "連射可能"
+cheat5_handler = "0"
+cheat5_code = "80096910#0000"
+
+cheat6_desc = "集氣等級3"
+cheat6_handler = "0"
+cheat6_code = "800987FC#0003"
+
+cheat7_desc = "救出者全滿"
+cheat7_handler = "0"
+cheat7_code = "B0200002#00000000,800CE668#2222"
+
+cheat8_desc = "地上無限衝刺"
+cheat8_handler = "0"
+cheat8_code = "D00987E6#0003,800987E4#12FF"
+
+cheat9_desc = "空中無限衝刺"
+cheat9_handler = "0"
+cheat9_code = "D00987E6#0001,800987E4#0A01"
+
+cheat10_desc = "頭目體力超低(L2+R2)"
+cheat10_handler = "0"
+cheat10_code = "D00D0FE2#FCFF,80090664#0101"
+
+cheat11_desc = "所有特殊武器(START+L1+R1)"
+cheat11_handler = "0"
+cheat11_code = "D00D0FE2#F3F7,30098829#00FF"
+
+cheat12_desc = "特殊武器能源不減"
+cheat12_handler = "0"
+cheat12_code = "B0100002#00000000,80098808#0120"
+
+cheat13_desc = "透明"
+cheat13_handler = "0"
+cheat13_code = "30987C1#0050"
+
+cheats = 14

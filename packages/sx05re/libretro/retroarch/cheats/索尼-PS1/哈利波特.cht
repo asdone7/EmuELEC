@@ -1,0 +1,13 @@
+cheat0_desc = "HP不减"
+cheat0_handler = "0"
+cheat0_code = "30082965#0080"
+
+cheat1_desc = "无敌"
+cheat1_handler = "0"
+cheat1_code = "3007C9F9#00E0"
+
+cheat2_desc = "飞行训练中时间增加 SELECT"
+cheat2_handler = "0"
+cheat2_code = "D0078D0E#FFFE;30115196#0040"
+
+cheats = 3

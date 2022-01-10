@@ -1,0 +1,37 @@
+cheat0_desc = "战后LEVEL 上升至99"
+cheat0_handler = "0"
+cheat0_code = "D004DF8A#1040;8004DF8A#1440"
+
+cheat1_desc = "无限金钱"
+cheat1_handler = "0"
+cheat1_code = "D0074A66#1040;80074A66#1440"
+
+cheat2_desc = "不减TP"
+cheat2_handler = "0"
+cheat2_code = "D005BAEE#0062;8005BAEE#0060"
+
+cheat3_desc = "不减道具"
+cheat3_handler = "0"
+cheat3_code = "D0074EF8#1021;80074EFA#0040"
+
+cheat4_desc = "一击必杀"
+cheat4_handler = "0"
+cheat4_code = "D00640A8#1023;800640AA#0063"
+
+cheat5_desc = "金钱"
+cheat5_handler = "0"
+cheat5_code = "800B63E0#967F;800B63E2#0098"
+
+cheat6_desc = "战斗后LV-UP"
+cheat6_handler = "0"
+cheat6_code = "D004DF88#0004;8004DF88#0001"
+
+cheat7_desc = "道具不减"
+cheat7_handler = "0"
+cheat7_code = "D0074EFA#0045;80074EFA#0040"
+
+cheat8_desc = "战斗中TP不减"
+cheat8_handler = "0"
+cheat8_code = "D005BACE#1823;8005BACE#0023"
+
+cheats = 9

@@ -1,0 +1,229 @@
+cheat0_desc = "不遇小敌人"
+cheat0_handler = "0"
+cheat0_code = "8008C236#0000"
+
+cheat1_desc = "金钱不减"
+cheat1_handler = "0"
+cheat1_code = "8008C254#869F;8008C256#0001"
+
+cheat2_desc = "主角能力最大"
+cheat2_handler = "0"
+cheat2_code = "B0080002#00000000,8008C260#03E7"
+
+cheat3_desc = "所有武功"
+cheat3_handler = "0"
+cheat3_code = "8008C25A#FFFF;8008C270#FFFF;B0070002#00000000"
+
+cheat4_desc = "第一个人等级"
+cheat4_handler = "0"
+cheat4_code = "8008C26E#03E7"
+
+cheat5_desc = "第一个人经验值"
+cheat5_handler = "0"
+cheat5_code = "8008C26C#03E7"
+
+cheat6_desc = "第一个人外功最大值"
+cheat6_handler = "0"
+cheat6_code = "8008C260#03E7"
+
+cheat7_desc = "第一个人外功现在值"
+cheat7_handler = "0"
+cheat7_code = "8008C262#03E7"
+
+cheat8_desc = "第一个人内功最大值"
+cheat8_handler = "0"
+cheat8_code = "8008C264#03E7"
+
+cheat9_desc = "第一个人内功现在值"
+cheat9_handler = "0"
+cheat9_code = "8008C266#03E7"
+
+cheat10_desc = "第一个人轻功最大值"
+cheat10_handler = "0"
+cheat10_code = "8008C268#03E7"
+
+cheat11_desc = "第一个人轻功现在值"
+cheat11_handler = "0"
+cheat11_code = "8008C26A#03E7"
+
+cheat12_desc = "第一个人侠义值"
+cheat12_handler = "0"
+cheat12_code = "8008C250#03E7"
+
+cheat13_desc = "第二个人等级"
+cheat13_handler = "0"
+cheat13_code = "8008C42E#03E7"
+
+cheat14_desc = "第二个人外功最大值"
+cheat14_handler = "0"
+cheat14_code = "8008C420#03E7"
+
+cheat15_desc = "第二个人外功现在值"
+cheat15_handler = "0"
+cheat15_code = "8008C422#03E7"
+
+cheat16_desc = "第二个人内功最大值"
+cheat16_handler = "0"
+cheat16_code = "8008C424#03E7"
+
+cheat17_desc = "第二个人内功现在值"
+cheat17_handler = "0"
+cheat17_code = "8008C426#03E7"
+
+cheat18_desc = "第二个人轻功最大值"
+cheat18_handler = "0"
+cheat18_code = "8008C428#03E7"
+
+cheat19_desc = "第二个人轻功现在值"
+cheat19_handler = "0"
+cheat19_code = "8008C42A#03E7"
+
+cheat20_desc = "全癖好"
+cheat20_handler = "0"
+cheat20_code = "3008C290#0001;3008C28E#00FF;3008C297#0001;3008C295#00FF;3008C29E#0001;3008C29C#00FF;3008C2A5#0001;3008C2A3#00FF;3008C2AC#0001;3008C2AA#00FF;3008C2B3#0001;3008C2B1#00FF;3008C2BA#0001;3008C2B8#00FF;3008C2C1#0001;3008C2BF#00FF;3008C2C8#0001;3008C2C6#00FF;3008C2CF#0001;3008C2CD#00FF;3008C2D6#0001;3008C2D4#00FF;3008C2DD#0001;3008C2DB#00FF;3008C2E4#0001;3008C2E2#00FF;3008C2E8#0001;3008C2E9#00FF;3008C2F2#0001;3008C2F0#00FF;3008C2F9#0001;3008C2F7#00FF;3008C300#0001;3008C2FE#00FF;3008C307#0001;3008C305#00FF;3008C30E#0001;3008C30C#00FF;3008C315#0001;3008C313#00FF;3008C31C#0001;3008C31A#00FF;3008C323#0001;3008C321#00FF"
+
+cheat21_desc = "强打"
+cheat21_handler = "0"
+cheat21_code = "3008C290#0001;3008C28E#00FF"
+
+cheat22_desc = "铁壁"
+cheat22_handler = "0"
+cheat22_code = "3008C297#0001;3008C295#00FF"
+
+cheat23_desc = "音速"
+cheat23_handler = "0"
+cheat23_code = "3008C29E#0001;3008C29C#00FF"
+
+cheat24_desc = "冥思"
+cheat24_handler = "0"
+cheat24_code = "3008C2A5#0001;3008C2A3#00FF"
+
+cheat25_desc = "忘却"
+cheat25_handler = "0"
+cheat25_code = "3008C2AC#0001;3008C2AA#00FF"
+
+cheat26_desc = "假死"
+cheat26_handler = "0"
+cheat26_code = "3008C2B3#0001;3008C2B1#00FF"
+
+cheat27_desc = "腹痛"
+cheat27_handler = "0"
+cheat27_code = "3008C2BA#0001;3008C2B8#00FF"
+
+cheat28_desc = "大话"
+cheat28_handler = "0"
+cheat28_code = "3008C2C1#0001;3008C2BF#00FF"
+
+cheat29_desc = "激怒"
+cheat29_handler = "0"
+cheat29_code = "3008C2C8#0001;3008C2C6#00FF"
+
+cheat30_desc = "原力"
+cheat30_handler = "0"
+cheat30_code = "3008C2CF#0001;3008C2CD#00FF"
+
+cheat31_desc = "小心"
+cheat31_handler = "0"
+cheat31_code = "3008C2D6#0001;3008C2D4#00FF"
+
+cheat32_desc = "挑发"
+cheat32_handler = "0"
+cheat32_code = "3008C2DD#0001;3008C2DB#00FF"
+
+cheat33_desc = "午睡"
+cheat33_handler = "0"
+cheat33_code = "3008C2E4#0001;3008C2E2#00FF"
+
+cheat34_desc = "解毒"
+cheat34_handler = "0"
+cheat34_code = "3008C2E8#0001;3008C2E9#00FF"
+
+cheat35_desc = "喷嚏"
+cheat35_handler = "0"
+cheat35_code = "3008C2F2#0001;3008C2F0#00FF"
+
+cheat36_desc = "粉失"
+cheat36_handler = "0"
+cheat36_code = "3008C2F9#0001;3008C2F7#00FF"
+
+cheat37_desc = "满腹"
+cheat37_handler = "0"
+cheat37_code = "3008C300#0001;3008C2FE#00FF"
+
+cheat38_desc = "记忆"
+cheat38_handler = "0"
+cheat38_code = "3008C307#0001;3008C305#00FF"
+
+cheat39_desc = "华丽"
+cheat39_handler = "0"
+cheat39_code = "3008C30E#0001;3008C30C#00FF"
+
+cheat40_desc = "兴奋"
+cheat40_handler = "0"
+cheat40_code = "3008C315#0001;3008C313#00FF"
+
+cheat41_desc = "饮酒"
+cheat41_handler = "0"
+cheat41_code = "3008C31C#0001;3008C31A#00FF"
+
+cheat42_desc = "说酒"
+cheat42_handler = "0"
+cheat42_code = "3008C323#0001;3008C321#00FF"
+
+cheat43_desc = "全武器"
+cheat43_handler = "0"
+cheat43_code = "30083166#0001;300831DA#0001;3008324E#0001;300832C2#0001;30083336#0001;300833AA#0001;3008341E#0001;30083492#0001;30083506#0001;300840CE#0001;30084142#0001;300841B6#0001;3008422A#0001"
+
+cheat44_desc = "朴刀"
+cheat44_handler = "0"
+cheat44_code = "30083166#0001"
+
+cheat45_desc = "吴钩"
+cheat45_handler = "0"
+cheat45_code = "300831DA#0001"
+
+cheat46_desc = "直刀"
+cheat46_handler = "0"
+cheat46_code = "3008324E#0001"
+
+cheat47_desc = "枪"
+cheat47_handler = "0"
+cheat47_code = "300832C2#0001"
+
+cheat48_desc = "铁扇"
+cheat48_handler = "0"
+cheat48_code = "30083336#0001"
+
+cheat49_desc = "青铜剑"
+cheat49_handler = "0"
+cheat49_code = "300833AA#0001"
+
+cheat50_desc = "越女剑"
+cheat50_handler = "0"
+cheat50_code = "3008341E#0001"
+
+cheat51_desc = "弓"
+cheat51_handler = "0"
+cheat51_code = "30083492#0001"
+
+cheat52_desc = "箭"
+cheat52_handler = "0"
+cheat52_code = "30083506#0001"
+
+cheat53_desc = "红宝石"
+cheat53_handler = "0"
+cheat53_code = "300840CE#0001"
+
+cheat54_desc = "蓝宝石"
+cheat54_handler = "0"
+cheat54_code = "30084142#0001"
+
+cheat55_desc = "绿宝石"
+cheat55_handler = "0"
+cheat55_code = "300841B6#0001"
+
+cheat56_desc = "紫宝石"
+cheat56_handler = "0"
+cheat56_code = "3008422A#0001"
+
+cheats = 57

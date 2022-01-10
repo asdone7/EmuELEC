@@ -1,0 +1,9 @@
+cheat0_desc = "全人物"
+cheat0_handler = "0"
+cheat0_code = "801D06F4#FF7F;801D06F6#FFFF;801D06F8#00FE"
+
+cheat1_desc = "星星点数最大"
+cheat1_handler = "0"
+cheat1_code = "801D07E0#423F;801D07E2#000F"
+
+cheats = 2

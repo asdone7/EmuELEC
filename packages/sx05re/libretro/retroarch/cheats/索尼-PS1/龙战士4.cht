@@ -1,0 +1,213 @@
+cheat0_desc = "戰鬥時AP不減(包含龍變身)"
+cheat0_handler = "0"
+cheat0_code = "D01CE160#1823,801CE162#0060;D01D8FEE#8CC2,801D8FEE#8CC0"
+
+cheat1_desc = "金錢無限"
+cheat1_handler = "0"
+cheat1_code = "80112D80#967F;80112D82#0098"
+
+cheat2_desc = "快速升級"
+cheat2_handler = "0"
+cheat2_code = "80115F48#FFFF;80115F4A#7FFF"
+
+cheat3_desc = "所有道具"
+cheat3_handler = "0"
+cheat3_code = "B0760002#00000001,80112D98#6201"
+
+cheat4_desc = "全武器"
+cheat4_handler = "0"
+cheat4_code = "B0570002#00000001,80112F98#6201"
+
+cheat5_desc = "全防具"
+cheat5_handler = "0"
+cheat5_code = "B0450002#00000001,80113198#6201"
+
+cheat6_desc = "全強化道具"
+cheat6_handler = "0"
+cheat6_code = "B0550002#00000001,80113398#6201"
+
+cheat7_desc = "時間不增"
+cheat7_handler = "0"
+cheat7_code = "30112D94#0010"
+
+cheat8_desc = "龍???HP9999"
+cheat8_handler = "0"
+cheat8_code = "801129A8#270F"
+
+cheat9_desc = "龍???AP999"
+cheat9_handler = "0"
+cheat9_code = "801129AC#03E7"
+
+cheat10_desc = "龍???攻"
+cheat10_handler = "0"
+cheat10_code = "801129B2#0058"
+
+cheat11_desc = "龍???防"
+cheat11_handler = "0"
+cheat11_code = "801129B4#0060"
+
+cheat12_desc = "龍???早"
+cheat12_handler = "0"
+cheat12_code = "801129B6#0022"
+
+cheat13_desc = "龍???賢"
+cheat13_handler = "0"
+cheat13_code = "801129B8#0014"
+
+cheat14_desc = "妮娜???HP9999/AP999"
+cheat14_handler = "0"
+cheat14_code = "80112A40#270F;80112A44#03E7"
+
+cheat15_desc = "妮娜???攻"
+cheat15_handler = "0"
+cheat15_code = "80112A4A#005F"
+
+cheat16_desc = "妮娜???防"
+cheat16_handler = "0"
+cheat16_code = "80112A4C#005E"
+
+cheat17_desc = "妮娜???袄"
+cheat17_handler = "0"
+cheat17_code = "80112A4E#002B"
+
+cheat18_desc = "妮娜???賢"
+cheat18_handler = "0"
+cheat18_code = "80112A50#0023"
+
+cheat19_desc = "古雷伊???HP9999/AP999"
+cheat19_handler = "0"
+cheat19_code = "80112AD8#270F;80112ADC#03E7"
+
+cheat20_desc = "古雷伊???攻"
+cheat20_handler = "0"
+cheat20_code = "80112AE2#0057"
+
+cheat21_desc = "古雷伊???防"
+cheat21_handler = "0"
+cheat21_code = "80112AE4#0059"
+
+cheat22_desc = "古雷伊???早"
+cheat22_handler = "0"
+cheat22_code = "80112AE6#0030"
+
+cheat23_desc = "古雷伊???賢"
+cheat23_handler = "0"
+cheat23_code = "80112AE8#001E"
+
+cheat24_desc = "賽亞斯????HP9999/AP999"
+cheat24_handler = "0"
+cheat24_code = "80112B70#270F;80112B74#03E7"
+
+cheat25_desc = "賽亞斯????攻"
+cheat25_handler = "0"
+cheat25_code = "80112B7A#004E"
+
+cheat26_desc = "賽亞斯????防"
+cheat26_handler = "0"
+cheat26_code = "80112B7C#0050"
+
+cheat27_desc = "賽亞斯????早"
+cheat27_handler = "0"
+cheat27_code = "80112B7E#0030"
+
+cheat28_desc = "賽亞斯????賢"
+cheat28_handler = "0"
+cheat28_code = "80112B80#0032"
+
+cheat29_desc = "亞司拉????HP9999/AP999"
+cheat29_handler = "0"
+cheat29_code = "80112C08#270F;80112C0C#03E7"
+
+cheat30_desc = "亞司拉????攻"
+cheat30_handler = "0"
+cheat30_code = "80112C12#004B"
+
+cheat31_desc = "亞司拉????防"
+cheat31_handler = "0"
+cheat31_code = "80112C14#0043"
+
+cheat32_desc = "亞司拉????早"
+cheat32_handler = "0"
+cheat32_code = "80112C16#0051"
+
+cheat33_desc = "亞司拉????賢"
+cheat33_handler = "0"
+cheat33_code = "80112C18#0050"
+
+cheat34_desc = "曼斯特????HP9999/AP999"
+cheat34_handler = "0"
+cheat34_code = "80112CA0#270F;80112CA4#03E7"
+
+cheat35_desc = "曼斯特????攻"
+cheat35_handler = "0"
+cheat35_code = "80112CAA#0030"
+
+cheat36_desc = "曼斯特????防"
+cheat36_handler = "0"
+cheat36_code = "80112CAC#0023"
+
+cheat37_desc = "曼斯特????早"
+cheat37_handler = "0"
+cheat37_code = "80112CAE#0031"
+
+cheat38_desc = "曼斯特????賢"
+cheat38_handler = "0"
+cheat38_code = "80112CB0#001E"
+
+cheat39_desc = "在戰鬥中按下R1+R2.戰後EXP/錢增加999"
+cheat39_handler = "0"
+cheat39_code = "D0113F9C#000A,801C6F68#03E7;D0113F9C#000A,801C6FDE#03E7"
+
+cheat40_desc = "跑步時.不遇到敵人"
+cheat40_handler = "0"
+cheat40_code = "D010F0AA#0002,3010F2A7#0020"
+
+cheat41_desc = "All Skill"
+cheat41_handler = "0"
+cheat41_code = "801135C8#FFFF;801135CA#FFFF;801135CC#FFFF;801135CE#FFFF;801135D0#0FFF"
+
+cheat42_desc = "回合終了AP回復(對應龍變身)"
+cheat42_handler = "0"
+cheat42_code = "D01D8FA6#1040,801D8FA4#0001"
+
+cheat43_desc = "高速化"
+cheat43_handler = "0"
+cheat43_code = "80159C3C#0021;80159C3E#1000"
+
+cheat44_desc = "金不減"
+cheat44_handler = "0"
+cheat44_code = "D018D3CE#0064,8018D3CE#0060"
+
+cheat45_desc = "道具不減"
+cheat45_handler = "0"
+cheat45_code = "D018CB60#2021,8018CB6C#0005;D018CB60#2021,8018CB6C#1400"
+
+cheat46_desc = "使用道具時自動增加"
+cheat46_handler = "0"
+cheat46_code = "D018CB60#2021,8018CB62#0040"
+
+cheat47_desc = "道具購入時變99個"
+cheat47_handler = "0"
+cheat47_code = "D018CB5A#9062,8018CB60#0063;D018CB5A#9062,8018CB62#2404"
+
+cheat48_desc = "一回戰鬥經驗值大增"
+cheat48_handler = "0"
+cheat48_code = "D01B7174#0018,801B717C#0002;D01B7174#0018,801B717E#1400"
+
+cheat49_desc = "伝承師全員"
+cheat49_handler = "0"
+cheat49_code = "801136A0#1FFF"
+
+cheat50_desc = "迷你遊戲中鏟子不壞"
+cheat50_handler = "0"
+cheat50_code = "D01F0928#1023,801F0928#0023"
+
+cheat51_desc = "釣魚長度"
+cheat51_handler = "0"
+cheat51_code = "D01BA2CC#1023,801C3ADE#03E7"
+
+cheat52_desc = "全部魚種名稱"
+cheat52_handler = "0"
+cheat52_code = "B0300002#00000000,80113920#03E7"
+
+cheats = 53

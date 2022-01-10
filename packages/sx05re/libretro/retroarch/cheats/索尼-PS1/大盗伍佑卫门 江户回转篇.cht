@@ -1,0 +1,41 @@
+cheat0_desc = "1P金錢"
+cheat0_handler = "0"
+cheat0_code = "800468C6#270F"
+
+cheat1_desc = "2P金錢"
+cheat1_handler = "0"
+cheat1_code = "800530EE#270F"
+
+cheat2_desc = "1P無敵"
+cheat2_handler = "0"
+cheat2_code = "80063B18#0010"
+
+cheat3_desc = "2P無敵"
+cheat3_handler = "0"
+cheat3_code = "80063BC0#0010"
+
+cheat4_desc = "武器等級"
+cheat4_handler = "0"
+cheat4_code = "300468C8#0002"
+
+cheat5_desc = "隻數不減"
+cheat5_handler = "0"
+cheat5_code = "D00179A2#2442;800179A2#2400"
+
+cheat6_desc = "血不減"
+cheat6_handler = "0"
+cheat6_code = "D007D544#1023;8007D546#0040"
+
+cheat7_desc = "時間不減"
+cheat7_handler = "0"
+cheat7_code = "D0078914#0150;80078916#A400"
+
+cheat8_desc = "投出金錢變9999"
+cheat8_handler = "0"
+cheat8_code = "D008401C#0006;8008401E#A4A4"
+
+cheat9_desc = "按L2連續發射火炎金錢標"
+cheat9_handler = "0"
+cheat9_code = "E004687A#FEFF0002;80043AE6#8000;80063B22#0014"
+
+cheats = 10

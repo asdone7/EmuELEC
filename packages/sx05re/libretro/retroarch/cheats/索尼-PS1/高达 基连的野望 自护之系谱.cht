@@ -1,0 +1,49 @@
+cheat0_desc = "总资金不减"
+cheat0_handler = "0"
+cheat0_code = "801ED174#967F;801ED176#0098"
+
+cheat1_desc = "总资源不减"
+cheat1_handler = "0"
+cheat1_code = "801ED178#967F;801ED17A#0098"
+
+cheat2_desc = "一回外交状态最大"
+cheat2_handler = "0"
+cheat2_code = "D007837E#1440,8007837C#0001"
+
+cheat3_desc = "开发部能力-基础技术LV"
+cheat3_handler = "0"
+cheat3_code = "301ED156#0014"
+
+cheat4_desc = "MS技术LV"
+cheat4_handler = "0"
+cheat4_code = "301ED157#0014"
+
+cheat5_desc = "MA技术LV"
+cheat5_handler = "0"
+cheat5_code = "301ED158#0014"
+
+cheat6_desc = "敌性技術LV"
+cheat6_handler = "0"
+cheat6_code = "301ED159#0014"
+
+cheat7_desc = "外交友好度不减"
+cheat7_handler = "0"
+cheat7_code = "D0078EAA#2442,80078EA8#0000;D007916A#2442,80079168#0000"
+
+cheat8_desc = "一回谍报能力最大"
+cheat8_handler = "0"
+cheat8_code = "D007FFA6#1440,8007FFA4#0001"
+
+cheat9_desc = "开发只需1回合"
+cheat9_handler = "0"
+cheat9_code = "D00D427C#A042,800D427C#0001;D00D427E#0002,800D427E#2014"
+
+cheat10_desc = "拥有所有机体"
+cheat10_handler = "0"
+cheat10_code = "B0FF0002#00000000,801FC554#0106"
+
+cheat11_desc = "MASTER CODE"
+cheat11_handler = "0"
+cheat11_code = "F6000924#FFFF,B6002800#0000"
+
+cheats = 12

@@ -1,0 +1,33 @@
+cheat0_desc = "最大Materialize Points"
+cheat0_handler = "0"
+cheat0_code = "801f5F80#e0ff;801f5F82#05f5"
+
+cheat1_desc = "最大评价值"
+cheat1_handler = "0"
+cheat1_code = "801f6264#270f"
+
+cheat2_desc = "最大Items"
+cheat2_handler = "0"
+cheat2_code = "5000ff01#0000;301f676a#0063;5000ff01#0000;301f6869#0063"
+
+cheat3_desc = "随时存盘"
+cheat3_handler = "0"
+cheat3_code = "301f6274#0011"
+
+cheat4_desc = "所有装备"
+cheat4_handler = "0"
+cheat4_code = "5000ff02#0001;801f62a2#0001;5000ff02#0001;801f64a0#0100"
+
+cheat5_desc = "时间停止"
+cheat5_handler = "0"
+cheat5_code = "801f5f84#0000;801f5f86#0000"
+
+cheat6_desc = "大量经验值"
+cheat6_handler = "0"
+cheat6_code = "8004abc8#ffff"
+
+cheat7_desc = "战斗中按L2生命恢复"
+cheat7_handler = "0"
+cheat7_code = "d002b6ca#feff,800edd74#270f;d002b6ca#feff,800edd78#270f;d002b6ca#feff,800ee430#270f;d002b6ca#feff,800ee434#270f;d002b6ca#feff,800eeaec#270f;d002b6ca#feff,800eeaf0#270f;d002b6ca#feff,800ef1ac#270f;d002b6ca#feff,800ef1ac#270f"
+
+cheats = 8

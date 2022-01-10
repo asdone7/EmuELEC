@@ -1,0 +1,53 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "8013DEF4#967F;8013DEF6#0098"
+
+cheat1_desc = "第一主角快速升级"
+cheat1_handler = "0"
+cheat1_code = "8013DB24#967F;8013DB26#0098"
+
+cheat2_desc = "第二主角快速升级"
+cheat2_handler = "0"
+cheat2_code = "8013DB58#967F;8013DB5A#0098"
+
+cheat3_desc = "第三主角快速升级"
+cheat3_handler = "0"
+cheat3_code = "8013DB8C#967F;8013DB8E#0098"
+
+cheat4_desc = "第一主角FORCE不减(战斗中才能使用)"
+cheat4_handler = "0"
+cheat4_code = "80165F7C#0064"
+
+cheat5_desc = "第二主角FORCE不减(战斗中才能使用)"
+cheat5_handler = "0"
+cheat5_code = "80166154#0064"
+
+cheat6_desc = "第三主角FORCE不减(战斗中才能使用)"
+cheat6_handler = "0"
+cheat6_code = "8016632C#0064"
+
+cheat7_desc = "制作魔法的点数不减"
+cheat7_handler = "0"
+cheat7_code = "8013DD8A#3201"
+
+cheat8_desc = "放在道具栏最前面四格的道具数量不减"
+cheat8_handler = "0"
+cheat8_code = "8013DD64#6363;8013DD66#6363"
+
+cheat9_desc = "小敵人不出現"
+cheat9_handler = "0"
+cheat9_code = "800EAFC4#0000;800EAFC8#0000"
+
+cheat10_desc = "第一人最強"
+cheat10_handler = "0"
+cheat10_code = "9013DB08#270F270F;9013DB10#03E703E7;9013DB14#03E703E7;9013DB24#0098967F"
+
+cheat11_desc = "第二人最強"
+cheat11_handler = "0"
+cheat11_code = "9013DB3C#270F270F;9013DB40#270F270F;9013DB44#03E703E7;9013DB48#03E703E7;9013DB58#0098967F"
+
+cheat12_desc = "第三人最強"
+cheat12_handler = "0"
+cheat12_code = "9013DB70#270F270F;9013DB74#270F270F;9013DB78#03E703E7;9013DB7C#03E703E7;9013DB8C#0098967F"
+
+cheats = 13

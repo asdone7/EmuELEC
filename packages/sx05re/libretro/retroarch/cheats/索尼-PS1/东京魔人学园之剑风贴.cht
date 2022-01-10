@@ -1,0 +1,337 @@
+cheat0_desc = "雄矢武器(1-10)"
+cheat0_handler = "0"
+cheat0_code = "30146063#1"
+
+cheat1_desc = "雄矢护身符(11-64)"
+cheat1_handler = "0"
+cheat1_code = "30146064#40;30146065#3F"
+
+cheat2_desc = "雄矢HP"
+cheat2_handler = "0"
+cheat2_code = "80146066#3E7;801461BE#3E7"
+
+cheat3_desc = "雄矢EXP"
+cheat3_handler = "0"
+cheat3_code = "3014608B#0"
+
+cheat4_desc = "雄矢四项数值之法力"
+cheat4_handler = "0"
+cheat4_code = "3014606B#FF"
+
+cheat5_desc = "雄矢四项数值之移动力"
+cheat5_handler = "0"
+cheat5_code = "30146068#63"
+
+cheat6_desc = "雄矢全部必杀并且等级为255级"
+cheat6_handler = "0"
+cheat6_code = "30146088#FF"
+
+cheat7_desc = "雄矢选择人物"
+cheat7_handler = "0"
+cheat7_code = "30146089#18"
+
+cheat8_desc = "雄矢射界"
+cheat8_handler = "0"
+cheat8_code = "30146085#7"
+
+cheat9_desc = "雄矢弱点（最强）"
+cheat9_handler = "0"
+cheat9_code = "30146084#0;30146083#0;30146082#0;30146080#0;3014607F#0;3014607E#0;3014607D#0;3014607C#0;30146081#0;30145D45#00;30145D46#00;30145D47#00;30145D48#00;30145D49#00;30145D4A#00;30145D4B#00;30145D4C#00;30163425#63;30145EE1#00;30145EE2#00;30145EE3#00;30145EE4#00;30145EE5#00;30145EE6#00;30145EE7#00;30145EE8#00;301636C1#63;30145BA9#00;30145BAA#00;30145BAB#00;30145BAC#00;30145BAD#00;30145BAE#00;30145BAF#00;30145BB0#00;30163189#63;30146219#00;3014621A#00;3014621B#00;3014621C#00;3014621D#00;3014621E#00;3014621F#00;30146220#00;30163BF9#63"
+
+cheat10_desc = "雄矢四项数值之攻击力"
+cheat10_handler = "0"
+cheat10_code = "30146069#FF"
+
+cheat11_desc = "雄矢四项数值之防御力"
+cheat11_handler = "0"
+cheat11_code = "3014606A#FF"
+
+cheat12_desc = "京一移动力不减"
+cheat12_handler = "0"
+cheat12_code = "30163426#00"
+
+cheat13_desc = "雄失无限移动"
+cheat13_handler = "0"
+cheat13_code = "3016815E#00"
+
+cheat14_desc = "雄失移动力最大"
+cheat14_handler = "0"
+cheat14_code = "3016815C#63;3016815D#63"
+
+cheat15_desc = "京一HP"
+cheat15_handler = "0"
+cheat15_code = "80145D2E#3E7"
+
+cheat16_desc = "京一四项数值之移动力"
+cheat16_handler = "0"
+cheat16_code = "30145D30#63"
+
+cheat17_desc = "京一HP上限"
+cheat17_handler = "0"
+cheat17_code = "80145E86#3E7"
+
+cheat18_desc = "京一四项数值之攻击力"
+cheat18_handler = "0"
+cheat18_code = "30145D31#FF"
+
+cheat19_desc = "京一四项数值之防御力"
+cheat19_handler = "0"
+cheat19_code = "30145D32#FF"
+
+cheat20_desc = "京一四项数值之灵动力"
+cheat20_handler = "0"
+cheat20_code = "30145D33#63"
+
+cheat21_desc = "人物弱点不存在"
+cheat21_handler = "0"
+cheat21_code = "30145D44#00"
+
+cheat22_desc = "射界（0-7)"
+cheat22_handler = "0"
+cheat22_code = "30145D4D#7"
+
+cheat23_desc = "京一全部必杀"
+cheat23_handler = "0"
+cheat23_code = "30145D50#FF"
+
+cheat24_desc = "京一人物选择（1-25)"
+cheat24_handler = "0"
+cheat24_code = "30145D51#1"
+
+cheat25_desc = "京一武器（0-18）"
+cheat25_handler = "0"
+cheat25_code = "30145D2B#12"
+
+cheat26_desc = "京一护身符（0-64)"
+cheat26_handler = "0"
+cheat26_code = "30145D2C#40"
+
+cheat27_desc = "京一护身符2（1-64)"
+cheat27_handler = "0"
+cheat27_code = "30145D2D#13"
+
+cheat28_desc = "京一移动力"
+cheat28_handler = "0"
+cheat28_code = "30163424#63"
+
+cheat29_desc = "京一EXP"
+cheat29_handler = "0"
+cheat29_code = "30145D53#0"
+
+cheat30_desc = "英里不存在弱点"
+cheat30_handler = "0"
+cheat30_code = "30145EE0#00"
+
+cheat31_desc = "英里射界（1-7)"
+cheat31_handler = "0"
+cheat31_code = "30145EE9#7"
+
+cheat32_desc = "英里全部必杀"
+cheat32_handler = "0"
+cheat32_code = "30145EEC#5E"
+
+cheat33_desc = "英里选择人物（1-25)"
+cheat33_handler = "0"
+cheat33_code = "30145EED#2"
+
+cheat34_desc = "英里经验值"
+cheat34_handler = "0"
+cheat34_code = "30145EEF#0"
+
+cheat35_desc = "英里HP"
+cheat35_handler = "0"
+cheat35_code = "80145ECA#3E7"
+
+cheat36_desc = "英里四项数值之灵动力"
+cheat36_handler = "0"
+cheat36_code = "30145ECF#FF"
+
+cheat37_desc = "英里四项数值之攻击力"
+cheat37_handler = "0"
+cheat37_code = "30145ECD#FF"
+
+cheat38_desc = "英里四项数值之防御"
+cheat38_handler = "0"
+cheat38_code = "30145ECE#FF"
+
+cheat39_desc = "英里四项数值之移动力"
+cheat39_handler = "0"
+cheat39_code = "30145ECC#63"
+
+cheat40_desc = "移动力不变"
+cheat40_handler = "0"
+cheat40_code = "301636C2#00"
+
+cheat41_desc = "英里移动力最大"
+cheat41_handler = "0"
+cheat41_code = "301636C0#63"
+
+cheat42_desc = "英里HP上限"
+cheat42_handler = "0"
+cheat42_code = "80146022#3E7"
+
+cheat43_desc = "英里最强武器"
+cheat43_handler = "0"
+cheat43_code = "30145EC7#1"
+
+cheat44_desc = "英里护身符（0-64)"
+cheat44_handler = "0"
+cheat44_code = "30145EC8#40"
+
+cheat45_desc = "英里之护身符（0-64)"
+cheat45_handler = "0"
+cheat45_code = "30145EC9#3F"
+
+cheat46_desc = "主角龙麻之弱点不存在"
+cheat46_handler = "0"
+cheat46_code = "30145BA8#00"
+
+cheat47_desc = "主角龙麻射界（1-7)"
+cheat47_handler = "0"
+cheat47_code = "30145BB1#7"
+
+cheat48_desc = "主角龙麻之等级最高而且全部必杀"
+cheat48_handler = "0"
+cheat48_code = "30145BB4#FF"
+
+cheat49_desc = "主角龙麻选择人物（ 1-25)"
+cheat49_handler = "0"
+cheat49_code = "30145BB6#02"
+
+cheat50_desc = "主角龙麻之EXP"
+cheat50_handler = "0"
+cheat50_code = "30145BB7#0"
+
+cheat51_desc = "主角龙麻之HP"
+cheat51_handler = "0"
+cheat51_code = "80145B92#3E7"
+
+cheat52_desc = "主角龙麻之移动力"
+cheat52_handler = "0"
+cheat52_code = "30145B94#63"
+
+cheat53_desc = "主角龙麻之攻击力"
+cheat53_handler = "0"
+cheat53_code = "30145B95#FF"
+
+cheat54_desc = "主角龙麻之防御力"
+cheat54_handler = "0"
+cheat54_code = "30145B96#FF"
+
+cheat55_desc = "主角龙麻之灵动力"
+cheat55_handler = "0"
+cheat55_code = "30145B97#FF"
+
+cheat56_desc = "主角龙麻之最强武器"
+cheat56_handler = "0"
+cheat56_code = "30145B8F#E"
+
+cheat57_desc = "主角龙麻之护身符(1-64)"
+cheat57_handler = "0"
+cheat57_code = "30145B90#40"
+
+cheat58_desc = "主角龙麻之护身符二（1-64)"
+cheat58_handler = "0"
+cheat58_code = "30145B91#3F"
+
+cheat59_desc = "主角龙麻HP上限"
+cheat59_handler = "0"
+cheat59_code = "80145CEA#3E7"
+
+cheat60_desc = "移动力不减"
+cheat60_handler = "0"
+cheat60_code = "3016318A#00"
+
+cheat61_desc = "主角龙麻移动力最大"
+cheat61_handler = "0"
+cheat61_code = "30163188#63"
+
+cheat62_desc = "小时之EXP"
+cheat62_handler = "0"
+cheat62_code = "30146227#0"
+
+cheat63_desc = "小时之最大等级和全部必杀"
+cheat63_handler = "0"
+cheat63_code = "30146224#FF"
+
+cheat64_desc = "小时之人物选择"
+cheat64_handler = "0"
+cheat64_code = "30146225#4"
+
+cheat65_desc = "小时之不存在弱点"
+cheat65_handler = "0"
+cheat65_code = "30146218#00"
+
+cheat66_desc = "小时之射点（1-7)"
+cheat66_handler = "0"
+cheat66_code = "30146221#7"
+
+cheat67_desc = "小时之HP"
+cheat67_handler = "0"
+cheat67_code = "80146202#3E7"
+
+cheat68_desc = "小时之移动力"
+cheat68_handler = "0"
+cheat68_code = "30146204#63"
+
+cheat69_desc = "小时之攻击力"
+cheat69_handler = "0"
+cheat69_code = "30146205#FF"
+
+cheat70_desc = "小时之防御力"
+cheat70_handler = "0"
+cheat70_code = "30146206#FF"
+
+cheat71_desc = "小时之灵动力"
+cheat71_handler = "0"
+cheat71_code = "30146207#FF"
+
+cheat72_desc = "小时之最强武器"
+cheat72_handler = "0"
+cheat72_code = "301461FF#C"
+
+cheat73_desc = "小时之护身符(1-64)"
+cheat73_handler = "0"
+cheat73_code = "30146200#40"
+
+cheat74_desc = "小时之护身符2(1-64)"
+cheat74_handler = "0"
+cheat74_code = "30146201#3F"
+
+cheat75_desc = "移动力不限"
+cheat75_handler = "0"
+cheat75_code = "30163BFA#00"
+
+cheat76_desc = "小时之移动力最大"
+cheat76_handler = "0"
+cheat76_code = "30163BF8#63"
+
+cheat77_desc = "小时之HP上限"
+cheat77_handler = "0"
+cheat77_code = "8014635A#3E7"
+
+cheat78_desc = "金 钱"
+cheat78_handler = "0"
+cheat78_code = "90138E40#3B9AC9F"
+
+cheat79_desc = "全部ITEMS"
+cheat79_handler = "0"
+cheat79_code = "3013927B#63;30139270#63;30139271#63;30139272#63;30139273#63;30139274#63;30139275#63;30139276#63;30139277#63;30139278#63;30139279#63;3013927A#63;3013927B#63;3013927C#63;3013927D#63;3013927E#63;3013927F#63;30139280#63;30139281#63;30139282#63;30139283#63;30139284#63;30139285#63;30139286#63;30139287#63;30139288#63;30139289#63;3013928A#63;3013928B#63;3013928C#63;3013928D#63;3013928E#63;3013928F#63;30139290#63;30139291#63;30139292#63;30139293#63;30139294#63;30139295#63;30139296#63;30139297#63;30139298#63;30139299#63;3013929A#63;3013929B#63;3013929C#63;3013929D#63;3013929E#63;3013929F#63;301392A0#63;301392A1#63;301392A2#63;301392A3#63;301392A4#63;301392A5#63;301392A6#63;301392A7#63;301392A8#63;301392A9#63;301392AA#63;301392AB#63;301392AC#63;301392AD#63;301392AE#63;301392AF#63;301392B0#63;301392B1#63;301392B2#63;301392B3#63;301392B4#63;301392B5#63;301392B6#63;301392B7#63;301392B8#63;301392B9#63;301392BA#63;301392BB#63;301392BC#63;301392BD#63;301392BE#63;301392BF#63;301392C0#63;301392C1#63;301392C2#63;301392C3#63;301392C4#63;301392C5#63;301392C6#63;301392C7#63;301392C8#63;301392C9#63;301392CA#63;301392CB#63;301392CC#63;301392CD#63;301392CE#63;301392CF#63;301392D0#63;301392D1#63;301392D2#63;301392D3#63;301392D4#63;301392D5#63;301392D6#63;301392D7#63;301392D8#63;301392D9#63;301392DA#63;301392DB#63;301392DC#63;301392DD#63;301392DE#63;301392DF#63;301392E0#63;301392E1#63;301392E2#63;301392E3#63;301392E4#63;301392E5#63;301392E6#63;301392E7#63;301392E8#63;301392E9#63;301392EA#63;301392EB#63;301392EC#63;301392ED#63;301392EE#63;301392EF#63;301392F0#63;301392F1#63;301392F2#63;301392F3#63;301392F4#63;301392F5#63;301392F6#63;301392F7#63;301392F8#63;301392F9#63;301392FA#63;301392FB#63;301392FC#63;301392FD#63;301392FE#63;301392FF#63;30139300#63;30139301#63;30139302#63;30139303#63;30139304#63;30139305#63;30139306#63;30139307#63;30139308#63;30139309#63;3013930A#63;3013930B#63;3013930C#63;3013930D#63;3013930E#63;3013930F#63;3013926A#63;3013926B#63;3013926C#63;3013926D#63;3013926E#63;3013926F#63"
+
+cheat80_desc = "全部ITEMS第一关"
+cheat80_handler = "0"
+cheat80_code = "30138EAE#01"
+
+cheat81_desc = "全部ITEMS最后一关"
+cheat81_handler = "0"
+cheat81_code = "30138EAE#FF"
+
+cheat82_desc = "全部ITEMS"
+cheat82_handler = "0"
+cheat82_code = "30138E70#FF"
+
+cheat83_desc = "全部ITEMS"
+cheat83_handler = "0"
+cheat83_code = "30146030#80;301461CC#80;30145E94#80;30146368#80;301466A0#80;3014683C#80;301469D8#80;30146B74#80;30146D10#80;30146EAC#80;30147048#80;301471E4#80;30147380#80;3014751C#80;301476B8#80;30147854#80;301479F0#80;30147B8C#80;30147D28#80;30148060#80;301481FC#80;30148398#80;30145E94#80;30145CF8#80;30145B5C#80;30146504#80;30147EC4#80"
+
+cheats = 84

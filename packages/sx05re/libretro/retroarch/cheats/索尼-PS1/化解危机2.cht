@@ -1,0 +1,37 @@
+cheat0_desc = "必需码"
+cheat0_handler = "0"
+cheat0_code = "EC8786C8#142C9214"
+
+cheat1_desc = "1P血不减"
+cheat1_handler = "0"
+cheat1_code = "3CF57F00#1456E79E"
+
+cheat2_desc = "1P弾数不减"
+cheat2_handler = "0"
+cheat2_code = "3CF58164#1456E788"
+
+cheat3_desc = "1P无时间限制"
+cheat3_handler = "0"
+cheat3_code = "4CF57F04#14563ABC"
+
+cheat4_desc = "1P通常状态下装弹"
+cheat4_handler = "0"
+cheat4_code = "3CF57FC5#1456E7A1"
+
+cheat5_desc = "2P血不减"
+cheat5_handler = "0"
+cheat5_code = "3CF57E60#1456E79E"
+
+cheat6_desc = "2P弾数不减"
+cheat6_handler = "0"
+cheat6_code = "3CF58194#1456E788"
+
+cheat7_desc = "2P无时间限制"
+cheat7_handler = "0"
+cheat7_code = "4CF57E64#14563ABC"
+
+cheat8_desc = "2P通常状态下装弹"
+cheat8_handler = "0"
+cheat8_code = "3CF57F25#1456E7A1"
+
+cheats = 9

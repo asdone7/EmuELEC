@@ -1,0 +1,49 @@
+cheat0_desc = "1代金钱无限"
+cheat0_handler = "0"
+cheat0_code = "800A8EDE#7FFF"
+
+cheat1_desc = "1代资金无限"
+cheat1_handler = "0"
+cheat1_code = "800A8EDE#6FFF"
+
+cheat2_desc = "主角能力最高"
+cheat2_handler = "0"
+cheat2_code = "800B81E2#6300;800B81E4#6363;800B81E6#6363;800B81E8#0163"
+
+cheat3_desc = "EXP"
+cheat3_handler = "0"
+cheat3_code = "800B81EA#03FF"
+
+cheat4_desc = "全部同伴MP不减"
+cheat4_handler = "0"
+cheat4_code = "8002B106#A983"
+
+cheat5_desc = "主角指挥范围高"
+cheat5_handler = "0"
+cheat5_code = "800B81EA#1463"
+
+cheat6_desc = "同伴指挥范围高"
+cheat6_handler = "0"
+cheat6_code = "800B8242#1463;800B82F2#1463;800B828A#1463;800B834A#1463;800B83A2#1463;800B83FA#1463"
+
+cheat7_desc = "Ⅱ代金钱无限"
+cheat7_handler = "0"
+cheat7_code = "800A47CE#7FFF"
+
+cheat8_desc = "2代资金无限"
+cheat8_handler = "0"
+cheat8_code = "800A47CE#6FFF"
+
+cheat9_desc = "全部同伴MP不减"
+cheat9_handler = "0"
+cheat9_code = "80029C26#A983"
+
+cheat10_desc = "主角指挥范围高"
+cheat10_handler = "0"
+cheat10_code = "800B3982#1463"
+
+cheat11_desc = "同伴指挥范围高"
+cheat11_handler = "0"
+cheat11_code = "800B39DA#1463;800B3A32#1463;800B3A8A#1463;800B3AE2#1463;800B3B3A#1463;800B3B92#1463;800B3BEA#1463"
+
+cheats = 12

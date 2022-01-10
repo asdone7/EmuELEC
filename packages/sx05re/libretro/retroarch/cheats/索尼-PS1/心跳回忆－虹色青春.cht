@@ -1,0 +1,9 @@
+cheat0_desc = "小游戏开启"
+cheat0_handler = "0"
+cheat0_code = "3003FF80#01"
+
+cheat1_desc = "所有图片"
+cheat1_handler = "0"
+cheat1_code = "901FFB24#FFFF;901FFB26#FFFF;901FFB28#FFFF;901FFB2A#FFFF;901FFB2C#FFFF;901FFB2E#FFFF;301FFB30#FF"
+
+cheats = 2

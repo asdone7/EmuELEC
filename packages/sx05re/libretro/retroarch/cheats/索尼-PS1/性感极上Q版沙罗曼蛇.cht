@@ -1,0 +1,9 @@
+cheat0_desc = "任务百份百(过关前需解锁)"
+cheat0_handler = "0"
+cheat0_code = "80142F20#0331"
+
+cheat1_desc = "P1 生命数"
+cheat1_handler = "0"
+cheat1_code = "80142DAA#0007"
+
+cheats = 2

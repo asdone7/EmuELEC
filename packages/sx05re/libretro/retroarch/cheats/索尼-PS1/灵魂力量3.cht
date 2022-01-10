@@ -1,0 +1,17 @@
+cheat0_desc = "黄金"
+cheat0_handler = "0"
+cheat0_code = "800CE0D4#03E7;801E1DC4#03E7"
+
+cheat1_desc = "宝玉"
+cheat1_handler = "0"
+cheat1_code = "800CDCF4#03E7;801E1DC6#03E7"
+
+cheat2_desc = "家畜"
+cheat2_handler = "0"
+cheat2_code = "800CE0F4#03E7;801E1DC8#03E7"
+
+cheat3_desc = "劣鬼"
+cheat3_handler = "0"
+cheat3_code = "800CE104#03E7;801E1DCA#03E7"
+
+cheats = 4

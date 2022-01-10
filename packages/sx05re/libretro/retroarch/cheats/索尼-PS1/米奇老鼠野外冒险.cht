@@ -1,0 +1,21 @@
+cheat0_desc = "透明绝对无敌"
+cheat0_handler = "0"
+cheat0_code = "300AFBF0#FF;300B0370#FF"
+
+cheat1_desc = "命无数"
+cheat1_handler = "0"
+cheat1_code = "300B037C#9"
+
+cheat2_desc = "投掷物99"
+cheat2_handler = "0"
+cheat2_code = "300AFFC4#63"
+
+cheat3_desc = "位移到门后过第一道门"
+cheat3_handler = "0"
+cheat3_code = "900BDC7D#C00000DD"
+
+cheat4_desc = "位移到门后过第二道门"
+cheat4_handler = "0"
+cheat4_code = "900BDC7D#C00001EF"
+
+cheats = 5

@@ -1,0 +1,37 @@
+cheat0_desc = "快速升级"
+cheat0_handler = "0"
+cheat0_code = "D00F3F06#1060;300F3F06#0000"
+
+cheat1_desc = "道具字段最大"
+cheat1_handler = "0"
+cheat1_code = "800AE724#6928;800AE726#2D31;300AE728#0010"
+
+cheat2_desc = "按下L2钮拥有所有道具"
+cheat2_handler = "0"
+cheat2_code = "D0097FB4#0001;B0FF0002#00000001,800AE878#6300;E0097FB4#00010003;800AE724#6928;800AE726#2D31;300AE728#0010"
+
+cheat3_desc = "????-?-?名称全开"
+cheat3_handler = "0"
+cheat3_code = "B0750001#00000000,3009D1A0#0009"
+
+cheat4_desc = "????-协会内有所有卡片"
+cheat4_handler = "0"
+cheat4_code = "B0740001#00000000,3009DD70#0001"
+
+cheat5_desc = "金钱"
+cheat5_handler = "0"
+cheat5_code = "8009D368#967F;8009D36A#0098"
+
+cheat6_desc = "ギルド（任事）数值点最高"
+cheat6_handler = "0"
+cheat6_code = "8009DE34#03E7"
+
+cheat7_desc = "无限行动 按L2 开始 R2解除"
+cheat7_handler = "0"
+cheat7_code = "D0097FB4#0001;800F48D0#0000;D0097FB4#0002;800F48D0#0001"
+
+cheat8_desc = "アタックカード （召唤卡片）不减"
+cheat8_handler = "0"
+cheat8_code = "D00488B6#1040;800488B6#1000"
+
+cheats = 9

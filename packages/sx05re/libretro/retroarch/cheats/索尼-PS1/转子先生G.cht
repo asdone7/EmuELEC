@@ -1,0 +1,9 @@
+cheat0_desc = "生命不减"
+cheat0_handler = "0"
+cheat0_code = "301CB300#63"
+
+cheat1_desc = "AIR不减"
+cheat1_handler = "0"
+cheat1_code = "801CB3F1#3E7"
+
+cheats = 2

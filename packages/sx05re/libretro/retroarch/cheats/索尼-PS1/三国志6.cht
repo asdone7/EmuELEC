@@ -1,0 +1,9 @@
+cheat0_desc = "MASTER CODE"
+cheat0_handler = "0"
+cheat0_code = "D0050C34#3F96"
+
+cheat1_desc = "无限行动"
+cheat1_handler = "0"
+cheat1_code = "80050C1e#0042"
+
+cheats = 2

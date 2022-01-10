@@ -1,0 +1,649 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "900DC380#FFFF"
+
+cheat1_desc = "一击升级"
+cheat1_handler = "0"
+cheat1_code = "30000AE4#0;3011856D#1"
+
+cheat2_desc = "主角LV MAX"
+cheat2_handler = "0"
+cheat2_code = "3011856C#A"
+
+cheat3_desc = "主角经验 MAX"
+cheat3_handler = "0"
+cheat3_code = "9011856E#FFFF"
+
+cheat4_desc = "主角智力 MAX"
+cheat4_handler = "0"
+cheat4_code = "30118570#FF"
+
+cheat5_desc = "主角A+ MAX"
+cheat5_handler = "0"
+cheat5_code = "30118571#63"
+
+cheat6_desc = "主角D+ MAX"
+cheat6_handler = "0"
+cheat6_code = "30118572#63"
+
+cheat7_desc = "主角AT MAX"
+cheat7_handler = "0"
+cheat7_code = "3011862D#63"
+
+cheat8_desc = "主角DF MAX"
+cheat8_handler = "0"
+cheat8_code = "30118630#63"
+
+cheat9_desc = "主角M+ MAX"
+cheat9_handler = "0"
+cheat9_code = "30118573#63"
+
+cheat10_desc = "主角判断 MAX"
+cheat10_handler = "0"
+cheat10_code = "30118574#63"
+
+cheat11_desc = "主角MP MAX"
+cheat11_handler = "0"
+cheat11_code = "30118575#63;30118576#63"
+
+cheat12_desc = "主角指挥 MAX"
+cheat12_handler = "0"
+cheat12_code = "3011857A#63"
+
+cheat13_desc = "主角火属性 MAX"
+cheat13_handler = "0"
+cheat13_code = "30118598#7F"
+
+cheat14_desc = "主角土属性 MAX"
+cheat14_handler = "0"
+cheat14_code = "30118599#7F"
+
+cheat15_desc = "主角电属性 MAX"
+cheat15_handler = "0"
+cheat15_code = "3011859A#7F"
+
+cheat16_desc = "主角暗属性 MAX"
+cheat16_handler = "0"
+cheat16_code = "3011859B#7F"
+
+cheat17_desc = "主角冰属性 MAX"
+cheat17_handler = "0"
+cheat17_code = "3011859C#7F"
+
+cheat18_desc = "主角风属性 MAX"
+cheat18_handler = "0"
+cheat18_code = "3011859D#7F"
+
+cheat19_desc = "主角圣属性 MAX"
+cheat19_handler = "0"
+cheat19_code = "3011859E#7F"
+
+cheat20_desc = "主角物理属性 MAX"
+cheat20_handler = "0"
+cheat20_code = "3011859F#7F"
+
+cheat21_desc = "主角MOVE MAX"
+cheat21_handler = "0"
+cheat21_code = "30118633#63;30118634#63"
+
+cheat22_desc = "第二位 LV MAX"
+cheat22_handler = "0"
+cheat22_code = "30118650#A"
+
+cheat23_desc = "第二位经验MAX"
+cheat23_handler = "0"
+cheat23_code = "90118652#FFFF"
+
+cheat24_desc = "第二位A+ MAX"
+cheat24_handler = "0"
+cheat24_code = "30118655#63"
+
+cheat25_desc = "第二位D+ MAX"
+cheat25_handler = "0"
+cheat25_code = "30118656#63"
+
+cheat26_desc = "第二位M+ MAX"
+cheat26_handler = "0"
+cheat26_code = "30118657#63"
+
+cheat27_desc = "第二位判断 MAX"
+cheat27_handler = "0"
+cheat27_code = "30118658#63"
+
+cheat28_desc = "第二位MP MAX"
+cheat28_handler = "0"
+cheat28_code = "30118659#63;3011865A#63"
+
+cheat29_desc = "第二位智力 MAX"
+cheat29_handler = "0"
+cheat29_code = "30118654#FF"
+
+cheat30_desc = "第二位AT MAX"
+cheat30_handler = "0"
+cheat30_code = "30118711#63"
+
+cheat31_desc = "第二位DF MAX"
+cheat31_handler = "0"
+cheat31_code = "30118714#63"
+
+cheat32_desc = "第二位MV MAX"
+cheat32_handler = "0"
+cheat32_code = "30118717#63;30118718#63"
+
+cheat33_desc = "第二位火属性 MAX"
+cheat33_handler = "0"
+cheat33_code = "3011867C#7F"
+
+cheat34_desc = "第二位土属性 MAX"
+cheat34_handler = "0"
+cheat34_code = "3011867D#7F"
+
+cheat35_desc = "第二位指挥 MAX"
+cheat35_handler = "0"
+cheat35_code = "3011865E#63"
+
+cheat36_desc = "第二位电属性 MAX"
+cheat36_handler = "0"
+cheat36_code = "3011867E#7F"
+
+cheat37_desc = "第二位暗属性 MAX"
+cheat37_handler = "0"
+cheat37_code = "3011867F#7F"
+
+cheat38_desc = "第二位冰属性 MAX"
+cheat38_handler = "0"
+cheat38_code = "30118680#7F"
+
+cheat39_desc = "第二位风属性 MAX"
+cheat39_handler = "0"
+cheat39_code = "30118681#7F"
+
+cheat40_desc = "第二位圣属性 MAX"
+cheat40_handler = "0"
+cheat40_code = "30118682#7F"
+
+cheat41_desc = "第二位物理属性 MAX"
+cheat41_handler = "0"
+cheat41_code = "30118683#7F"
+
+cheat42_desc = "第三位LV MAX"
+cheat42_handler = "0"
+cheat42_code = "30118734#A"
+
+cheat43_desc = "第三位经验 MAX"
+cheat43_handler = "0"
+cheat43_code = "90118736#FFFF"
+
+cheat44_desc = "第三位智力 MAX"
+cheat44_handler = "0"
+cheat44_code = "30118738#FF"
+
+cheat45_desc = "第三位A+ MAX"
+cheat45_handler = "0"
+cheat45_code = "30118739#63"
+
+cheat46_desc = "第三位D+ MAX"
+cheat46_handler = "0"
+cheat46_code = "3011873A#63"
+
+cheat47_desc = "第三位M+ MAX"
+cheat47_handler = "0"
+cheat47_code = "3011873B#63"
+
+cheat48_desc = "第三位判断 MAX"
+cheat48_handler = "0"
+cheat48_code = "3011873C#63"
+
+cheat49_desc = "第三位MP MAX"
+cheat49_handler = "0"
+cheat49_code = "3011873D#63;3011873E#63"
+
+cheat50_desc = "第三位指挥 MAX"
+cheat50_handler = "0"
+cheat50_code = "30118742#63"
+
+cheat51_desc = "第三位火属性 MAX"
+cheat51_handler = "0"
+cheat51_code = "30118760#7F"
+
+cheat52_desc = "第三位土属性 MAX"
+cheat52_handler = "0"
+cheat52_code = "30118761#7F"
+
+cheat53_desc = "第三位电属性 MAX"
+cheat53_handler = "0"
+cheat53_code = "30118762#7F"
+
+cheat54_desc = "第三位暗属性 MAX"
+cheat54_handler = "0"
+cheat54_code = "30118763#7F"
+
+cheat55_desc = "第三位冰属性 MAX"
+cheat55_handler = "0"
+cheat55_code = "30118764#7F"
+
+cheat56_desc = "第三位风属性 MAX"
+cheat56_handler = "0"
+cheat56_code = "30118765#7F"
+
+cheat57_desc = "第三位圣属性 MAX"
+cheat57_handler = "0"
+cheat57_code = "30118766#7F"
+
+cheat58_desc = "第三位物理属性 MAX"
+cheat58_handler = "0"
+cheat58_code = "30118767#7F"
+
+cheat59_desc = "第三位AT MAX"
+cheat59_handler = "0"
+cheat59_code = "301187F5#63"
+
+cheat60_desc = "第三位DF MAX"
+cheat60_handler = "0"
+cheat60_code = "301187F8#63"
+
+cheat61_desc = "第三位MV MAX"
+cheat61_handler = "0"
+cheat61_code = "301187FB#63;301187FC#63"
+
+cheat62_desc = "第四位LV MAX"
+cheat62_handler = "0"
+cheat62_code = "30118818#A"
+
+cheat63_desc = "第四位经验 MAX"
+cheat63_handler = "0"
+cheat63_code = "9011881A#FFFF"
+
+cheat64_desc = "第四位智力 MAX"
+cheat64_handler = "0"
+cheat64_code = "3011881C#FF"
+
+cheat65_desc = "第四位A+ MAX"
+cheat65_handler = "0"
+cheat65_code = "3011881D#63"
+
+cheat66_desc = "第四位D+ MAX"
+cheat66_handler = "0"
+cheat66_code = "3011881E#63"
+
+cheat67_desc = "第四位M+ MAX"
+cheat67_handler = "0"
+cheat67_code = "3011881F#63"
+
+cheat68_desc = "第四位判断 MAX"
+cheat68_handler = "0"
+cheat68_code = "30118820#63"
+
+cheat69_desc = "第四位MP MAX"
+cheat69_handler = "0"
+cheat69_code = "30118821#63;30118822#63"
+
+cheat70_desc = "第四位指挥 MAX"
+cheat70_handler = "0"
+cheat70_code = "30118826#63"
+
+cheat71_desc = "第四位火属性 MAX"
+cheat71_handler = "0"
+cheat71_code = "30118844#7F"
+
+cheat72_desc = "第四位土属性 MAX"
+cheat72_handler = "0"
+cheat72_code = "30118845#7F"
+
+cheat73_desc = "第四位电属性 MAX"
+cheat73_handler = "0"
+cheat73_code = "30118846#7F"
+
+cheat74_desc = "第四位暗属性 MAX"
+cheat74_handler = "0"
+cheat74_code = "30118847#7F"
+
+cheat75_desc = "第四位冰属性 MAX"
+cheat75_handler = "0"
+cheat75_code = "30118848#7F"
+
+cheat76_desc = "第四位风属性 MAX"
+cheat76_handler = "0"
+cheat76_code = "30118849#7F"
+
+cheat77_desc = "第四位圣属性 MAX"
+cheat77_handler = "0"
+cheat77_code = "3011884A#7F"
+
+cheat78_desc = "第四位物理属性 MAX"
+cheat78_handler = "0"
+cheat78_code = "3011884B#7F"
+
+cheat79_desc = "第四位AT MAX"
+cheat79_handler = "0"
+cheat79_code = "301188D9#63"
+
+cheat80_desc = "第四位DF MAX"
+cheat80_handler = "0"
+cheat80_code = "301188DC#63"
+
+cheat81_desc = "第四位MV MAX"
+cheat81_handler = "0"
+cheat81_code = "301188DF#63;301188E0#63"
+
+cheat82_desc = "第五位LV MAX"
+cheat82_handler = "0"
+cheat82_code = "301188FC#A"
+
+cheat83_desc = "第五位经验 MAX"
+cheat83_handler = "0"
+cheat83_code = "901188FE#FFFF"
+
+cheat84_desc = "第五位智力 MAX"
+cheat84_handler = "0"
+cheat84_code = "30118900#FF"
+
+cheat85_desc = "第五位A+ MAX"
+cheat85_handler = "0"
+cheat85_code = "30118901#63"
+
+cheat86_desc = "第五位D+ MAX"
+cheat86_handler = "0"
+cheat86_code = "30118902#63"
+
+cheat87_desc = "第五位M+ MAX"
+cheat87_handler = "0"
+cheat87_code = "30118903#63"
+
+cheat88_desc = "第五位判断 MAX"
+cheat88_handler = "0"
+cheat88_code = "30118904#63"
+
+cheat89_desc = "第五位MP MAX"
+cheat89_handler = "0"
+cheat89_code = "30118905#63;30118906#63"
+
+cheat90_desc = "第五位指挥 MAX"
+cheat90_handler = "0"
+cheat90_code = "3011890A#63"
+
+cheat91_desc = "第五位火属性 MAX"
+cheat91_handler = "0"
+cheat91_code = "30118928#7F"
+
+cheat92_desc = "第五位土属性 MAX"
+cheat92_handler = "0"
+cheat92_code = "30118929#7F"
+
+cheat93_desc = "第五位电属性 MAX"
+cheat93_handler = "0"
+cheat93_code = "3011892A#7F"
+
+cheat94_desc = "暗属性"
+cheat94_handler = "0"
+cheat94_code = "3011892B#7F"
+
+cheat95_desc = "第五位冰属性 MAX"
+cheat95_handler = "0"
+cheat95_code = "3011892C#7F"
+
+cheat96_desc = "第五位风属性 MAX"
+cheat96_handler = "0"
+cheat96_code = "3011892D#7F"
+
+cheat97_desc = "第五位圣属性 MAX"
+cheat97_handler = "0"
+cheat97_code = "3011892E#7F"
+
+cheat98_desc = "第五位物理属性 MAX"
+cheat98_handler = "0"
+cheat98_code = "3011892F#7F"
+
+cheat99_desc = "第五位AT MAX"
+cheat99_handler = "0"
+cheat99_code = "301189BD#63"
+
+cheat100_desc = "第五位DF MAX"
+cheat100_handler = "0"
+cheat100_code = "301189C0#63"
+
+cheat101_desc = "第五位MV MAX"
+cheat101_handler = "0"
+cheat101_code = "301189C3#63;301189C4#63"
+
+cheat102_desc = "第六位LV MAX"
+cheat102_handler = "0"
+cheat102_code = "301189E0#A"
+
+cheat103_desc = "第六位经验 MAX"
+cheat103_handler = "0"
+cheat103_code = "901189E2#FFFF"
+
+cheat104_desc = "第六位智力 MAX"
+cheat104_handler = "0"
+cheat104_code = "301189E4#FF"
+
+cheat105_desc = "第六位A+ MAX"
+cheat105_handler = "0"
+cheat105_code = "301189E5#63"
+
+cheat106_desc = "第六位D+ MAX"
+cheat106_handler = "0"
+cheat106_code = "301189E6#63"
+
+cheat107_desc = "第六位M+ MAX"
+cheat107_handler = "0"
+cheat107_code = "301189E7#63"
+
+cheat108_desc = "第六位判断 MAX"
+cheat108_handler = "0"
+cheat108_code = "301189E8#63"
+
+cheat109_desc = "第六位MP MAX"
+cheat109_handler = "0"
+cheat109_code = "301189E9#63;301189EA#63"
+
+cheat110_desc = "第六位指挥 MAX"
+cheat110_handler = "0"
+cheat110_code = "301189EE#63"
+
+cheat111_desc = "第六位火属性 MAX"
+cheat111_handler = "0"
+cheat111_code = "30118A0C#7F"
+
+cheat112_desc = "第六位土属性 MAX"
+cheat112_handler = "0"
+cheat112_code = "30118A0D#7F"
+
+cheat113_desc = "第六位电属性 MAX"
+cheat113_handler = "0"
+cheat113_code = "30118A0E#7F"
+
+cheat114_desc = "第六位暗属性 MAX"
+cheat114_handler = "0"
+cheat114_code = "30118A0F#7F"
+
+cheat115_desc = "第六位冰属性 MAX"
+cheat115_handler = "0"
+cheat115_code = "30118A10#7F"
+
+cheat116_desc = "第六位风属性 MAX"
+cheat116_handler = "0"
+cheat116_code = "30118A11#7F"
+
+cheat117_desc = "第六位圣属性 MAX"
+cheat117_handler = "0"
+cheat117_code = "30118A12#7F"
+
+cheat118_desc = "第六位物理属性 MAX"
+cheat118_handler = "0"
+cheat118_code = "30118A13#7F"
+
+cheat119_desc = "第六位AT MAX"
+cheat119_handler = "0"
+cheat119_code = "30118AA1#63"
+
+cheat120_desc = "第六位DF MAX"
+cheat120_handler = "0"
+cheat120_code = "30118AA4#63"
+
+cheat121_desc = "第六位MV MAX"
+cheat121_handler = "0"
+cheat121_code = "30118AA7#63;30118AA8#63"
+
+cheat122_desc = "第七位LV MAX"
+cheat122_handler = "0"
+cheat122_code = "30118AC4#A"
+
+cheat123_desc = "第七位经验 MAX"
+cheat123_handler = "0"
+cheat123_code = "90118AC6#FFFF"
+
+cheat124_desc = "第七位智力 MAX"
+cheat124_handler = "0"
+cheat124_code = "30118AC8#FF"
+
+cheat125_desc = "第七位A+ MAX"
+cheat125_handler = "0"
+cheat125_code = "30118AC9#63"
+
+cheat126_desc = "第七位D+ MAX"
+cheat126_handler = "0"
+cheat126_code = "30118ACA#63"
+
+cheat127_desc = "第七位M+ MAX"
+cheat127_handler = "0"
+cheat127_code = "30118ACB#63"
+
+cheat128_desc = "第七位判断 MAX"
+cheat128_handler = "0"
+cheat128_code = "30118ACC#63"
+
+cheat129_desc = "第七位MP MAX"
+cheat129_handler = "0"
+cheat129_code = "30118ACD#63;30118ACE#63"
+
+cheat130_desc = "第七位指挥 MAX"
+cheat130_handler = "0"
+cheat130_code = "30118AD2#63"
+
+cheat131_desc = "第七位火属性 MAX"
+cheat131_handler = "0"
+cheat131_code = "30118AF0#7F"
+
+cheat132_desc = "第七位土属性 MAX"
+cheat132_handler = "0"
+cheat132_code = "30118AF1#7F"
+
+cheat133_desc = "第七位电属性 MAX"
+cheat133_handler = "0"
+cheat133_code = "30118AF2#7F"
+
+cheat134_desc = "第七位暗属性 MAX"
+cheat134_handler = "0"
+cheat134_code = "30118AF3#7F"
+
+cheat135_desc = "第七位冰属性 MAX"
+cheat135_handler = "0"
+cheat135_code = "30118AF4#7F"
+
+cheat136_desc = "第七位风属性 MAX"
+cheat136_handler = "0"
+cheat136_code = "30118AF5#7F"
+
+cheat137_desc = "第七位圣属性 MAX"
+cheat137_handler = "0"
+cheat137_code = "30118AF6#7F"
+
+cheat138_desc = "第七位物理属性 MAX"
+cheat138_handler = "0"
+cheat138_code = "30118AF7#7F"
+
+cheat139_desc = "第七位AT MAX"
+cheat139_handler = "0"
+cheat139_code = "30118B85#63"
+
+cheat140_desc = "第七位DF MAX"
+cheat140_handler = "0"
+cheat140_code = "30118B88#63"
+
+cheat141_desc = "第七位MV MAX"
+cheat141_handler = "0"
+cheat141_code = "30118B8B#63;30118B8C#63"
+
+cheat142_desc = "第八位LV MAX"
+cheat142_handler = "0"
+cheat142_code = "30118BA8#A"
+
+cheat143_desc = "第八位经验 MAX"
+cheat143_handler = "0"
+cheat143_code = "90118BAA#FFFF"
+
+cheat144_desc = "第八位智力 MAX"
+cheat144_handler = "0"
+cheat144_code = "30118BAC#FF"
+
+cheat145_desc = "第八位A+ MAX"
+cheat145_handler = "0"
+cheat145_code = "30118BAD#63"
+
+cheat146_desc = "第八位D+ MAX"
+cheat146_handler = "0"
+cheat146_code = "30118BAE#63"
+
+cheat147_desc = "第八位M+ MAX"
+cheat147_handler = "0"
+cheat147_code = "30118BAF#63"
+
+cheat148_desc = "第八位判断 MAX"
+cheat148_handler = "0"
+cheat148_code = "30118BB0#63"
+
+cheat149_desc = "第八位MP MAX"
+cheat149_handler = "0"
+cheat149_code = "30118BB1#63;30118BB2#63"
+
+cheat150_desc = "第八位指挥 MAX"
+cheat150_handler = "0"
+cheat150_code = "30118BB6#63"
+
+cheat151_desc = "第八位火属性 MAX"
+cheat151_handler = "0"
+cheat151_code = "30118BD4#7F"
+
+cheat152_desc = "第八位土属性 MAX"
+cheat152_handler = "0"
+cheat152_code = "30118BD5#7F"
+
+cheat153_desc = "第八位电属性 MAX"
+cheat153_handler = "0"
+cheat153_code = "30118BD6#7F"
+
+cheat154_desc = "第八位暗属性 MAX"
+cheat154_handler = "0"
+cheat154_code = "30118BD7#7F"
+
+cheat155_desc = "第八位冰属性 MAX"
+cheat155_handler = "0"
+cheat155_code = "30118BD8#7F"
+
+cheat156_desc = "第八位风属性 MAX"
+cheat156_handler = "0"
+cheat156_code = "30118BD9#7F"
+
+cheat157_desc = "第八位圣属性 MAX"
+cheat157_handler = "0"
+cheat157_code = "30118BDA#7F"
+
+cheat158_desc = "第八位物理属性 MAX"
+cheat158_handler = "0"
+cheat158_code = "30118BDB#7F"
+
+cheat159_desc = "第八位AT MAX"
+cheat159_handler = "0"
+cheat159_code = "30118C69#63"
+
+cheat160_desc = "第八位DF MAX"
+cheat160_handler = "0"
+cheat160_code = "30118C6C#63"
+
+cheat161_desc = "第八位MV MAX"
+cheat161_handler = "0"
+cheat161_code = "30118C6F#63;30118C70#63"
+
+cheats = 162

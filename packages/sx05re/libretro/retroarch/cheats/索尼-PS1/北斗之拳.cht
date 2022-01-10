@@ -1,0 +1,9 @@
+cheat0_desc = "体力无限"
+cheat0_handler = "0"
+cheat0_code = "80172FFC#0800"
+
+cheat1_desc = "防御槽不会增加"
+cheat1_handler = "0"
+cheat1_code = "801730F4#0000"
+
+cheats = 2

@@ -1,0 +1,9 @@
+cheat0_desc = "金钱不减"
+cheat0_handler = "0"
+cheat0_code = "800B9120#E0FF;800B9122#05F5"
+
+cheat1_desc = "等级最高"
+cheat1_handler = "0"
+cheat1_code = "300D0418#0063"
+
+cheats = 2

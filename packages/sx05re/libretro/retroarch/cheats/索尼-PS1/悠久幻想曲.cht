@@ -1,0 +1,9 @@
+cheat0_desc = "金錢多多"
+cheat0_handler = "0"
+cheat0_code = "16064A5C#000F;16064A5E#423F"
+
+cheat1_desc = "擁有全部卡片"
+cheat1_handler = "0"
+cheat1_code = "16064A50#FFFF;16064A52#FFFF;16064A54#FFFF;16064A56#FFFF;16064A58#FFFF;16064A5A#FFFF"
+
+cheats = 2

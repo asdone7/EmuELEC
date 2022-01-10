@@ -1,0 +1,9 @@
+cheat0_desc = "PLAYER BOMB INF ALL STAGE"
+cheat0_handler = "0"
+cheat0_code = "800EB518#0FFF;800EB51A#0FFF"
+
+cheat1_desc = "BOMB INF STAGE 1 ONLY"
+cheat1_handler = "0"
+cheat1_code = "8008F104#0FFF"
+
+cheats = 2

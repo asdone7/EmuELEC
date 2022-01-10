@@ -1,0 +1,5 @@
+cheat0_desc = "无敌"
+cheat0_handler = "0"
+cheat0_code = "801D2518#03E8;801D25A8#03E8;801D2638#03E8;801D25F0#03E8;801D2560#03E8"
+
+cheats = 1

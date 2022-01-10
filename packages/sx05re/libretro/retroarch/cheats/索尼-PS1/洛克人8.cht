@@ -1,0 +1,5 @@
+cheat0_desc = "無敵on"
+cheat0_handler = "0"
+cheat0_code = "8015D6D6#FFFF"
+
+cheats = 1

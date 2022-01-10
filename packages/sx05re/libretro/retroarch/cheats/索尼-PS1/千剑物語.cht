@@ -1,0 +1,61 @@
+cheat0_desc = "愛之器"
+cheat0_handler = "0"
+cheat0_code = "8005dcfc#000a"
+
+cheat1_desc = "mp"
+cheat1_handler = "0"
+cheat1_code = "8005dd00#ffff"
+
+cheat2_desc = "Lv"
+cheat2_handler = "0"
+cheat2_code = "3005dde8#0063"
+
+cheat3_desc = "經驗值"
+cheat3_handler = "0"
+cheat3_code = "8005dd08#423f;8005dd0a#ffff"
+
+cheat4_desc = "hp"
+cheat4_handler = "0"
+cheat4_code = "8005dd0c#270f"
+
+cheat5_desc = "ep"
+cheat5_handler = "0"
+cheat5_code = "8005dd10#03e7"
+
+cheat6_desc = "攻擊力"
+cheat6_handler = "0"
+cheat6_code = "8005dd14#03e7"
+
+cheat7_desc = "防禦力"
+cheat7_handler = "0"
+cheat7_code = "8005dd16#03e7"
+
+cheat8_desc = "精靈力"
+cheat8_handler = "0"
+cheat8_code = "3005dd1a#0063"
+
+cheat9_desc = "素早"
+cheat9_handler = "0"
+cheat9_code = "3005dd1b#0063"
+
+cheat10_desc = "回避率"
+cheat10_handler = "0"
+cheat10_code = "3005dd1c#0063"
+
+cheat11_desc = "精靈獸(必殺技)"
+cheat11_handler = "0"
+cheat11_code = "3005dd27#ooff"
+
+cheat12_desc = "精靈魔法"
+cheat12_handler = "0"
+cheat12_code = "8005dd30#ffff;8005dd32#ffff;8005dd34#ffff;8005dd36#ffff"
+
+cheat13_desc = "金錢"
+cheat13_handler = "0"
+cheat13_code = "8005dea8#423f;8005deaa#000f"
+
+cheat14_desc = "敵人不出現"
+cheat14_handler = "0"
+cheat14_code = "d00a35a2#0050;800a35a2#0040;d0078d66#0051;80078d66#0040"
+
+cheats = 15

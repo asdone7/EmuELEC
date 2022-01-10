@@ -1,0 +1,9 @@
+cheat0_desc = "西方国家*所有道具*"
+cheat0_handler = "0"
+cheat0_code = "800A542C#6363;800A542E#6363;800A5430#6363"
+
+cheat1_desc = "绿色土地国家*所有道具*"
+cheat1_handler = "0"
+cheat1_code = "800A55C4#6363;800A55C6#6363;800A55C8#6363;800A55CA#6363;800A55CC#6363;800A55CE#6363"
+
+cheats = 2

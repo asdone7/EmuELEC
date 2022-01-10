@@ -1,0 +1,9 @@
+cheat0_desc = "计量表最高"
+cheat0_handler = "0"
+cheat0_code = "800DEC2A#02EF;800DEC5C#0020"
+
+cheat1_desc = "全部隐藏歌曲"
+cheat1_handler = "0"
+cheat1_code = "800CFD50#FFFF;800CFD52#FFFF;800CFD54#07FF;800CFD56#0038"
+
+cheats = 2

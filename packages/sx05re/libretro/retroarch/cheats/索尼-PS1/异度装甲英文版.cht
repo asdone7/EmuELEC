@@ -1,0 +1,41 @@
+cheat0_desc = "Fei每次战斗后习得技能"
+cheat0_handler = "0"
+cheat0_code = "8006D930#FFFF;8006D932#FFFF;8006D934#FFFF;8006D936#FFFF;8006D938#FFFF;8006D93A#FFFF;8006D93C#FFFF;8006D93E#FFFF"
+
+cheat1_desc = "Citan每次战斗后习得技能"
+cheat1_handler = "0"
+cheat1_code = "8006DA78#FFFF;8006DA7A#FFFF;8006DA7C#FFFF;8006DA7E#FFFF;8006DA80#FFFF;8006DA82#FFFF;8006DA84#FFFF;8006DA86#FFFF"
+
+cheat2_desc = "没有随机战斗"
+cheat2_handler = "0"
+cheat2_code = "8009d64c#0010"
+
+cheat3_desc = "大量道具"
+cheat3_handler = "0"
+cheat3_code = "801dbc32#2400"
+
+cheat4_desc = "调试模式"
+cheat4_handler = "0"
+cheat4_code = "8004f34c#0000"
+
+cheat5_desc = "大量EP"
+cheat5_handler = "0"
+cheat5_code = "8006d8f0#0063;8006d8f2#0063"
+
+cheat6_desc = "无限金$"
+cheat6_handler = "0"
+cheat6_code = "8006ef5a#000f"
+
+cheat7_desc = "大量HP"
+cheat7_handler = "0"
+cheat7_code = "8006d8ec#03e7;8006d8ee#03e7"
+
+cheat8_desc = "大量HP"
+cheat8_handler = "0"
+cheat8_code = "8006d8e4#0001"
+
+cheat9_desc = "特殊道具"
+cheat9_handler = "0"
+cheat9_code = "50003602#0000;8006f5c4#0101;50003602#0202;8006f65a#0201"
+
+cheats = 10

@@ -1,0 +1,9 @@
+cheat0_desc = "按R1后无限行动(放开后剩一步)"
+cheat0_handler = "0"
+cheat0_code = "D00D80FA#F7FF;800B546C#0001"
+
+cheat1_desc = "金钱无限"
+cheat1_handler = "0"
+cheat1_code = "800C02B8#C9FF;800C02BA#3B9A"
+
+cheats = 2

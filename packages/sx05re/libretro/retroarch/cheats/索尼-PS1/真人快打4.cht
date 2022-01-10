@@ -1,0 +1,21 @@
+cheat0_desc = "1P血不减"
+cheat0_handler = "0"
+cheat0_code = "800AABA8#FFFF"
+
+cheat1_desc = "2P血不减"
+cheat1_handler = "0"
+cheat1_code = "800AABAC#FFFF"
+
+cheat2_desc = "电脑一击死"
+cheat2_handler = "0"
+cheat2_code = "800AABAC#0001"
+
+cheat3_desc = "时间不减"
+cheat3_handler = "0"
+cheat3_code = "800AA9A0#0064"
+
+cheat4_desc = "游戏速度变慢"
+cheat4_handler = "0"
+cheat4_code = "800FB29C#0001"
+
+cheats = 5

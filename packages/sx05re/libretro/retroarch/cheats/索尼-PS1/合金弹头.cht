@@ -1,0 +1,17 @@
+cheat0_desc = "时间不减"
+cheat0_handler = "0"
+cheat0_code = "800726e8#0000"
+
+cheat1_desc = "只数不减"
+cheat1_handler = "0"
+cheat1_code = "8006b644#0000"
+
+cheat2_desc = "1p无敌"
+cheat2_handler = "0"
+cheat2_code = "300182b1#0063"
+
+cheat3_desc = "2p无敌"
+cheat3_handler = "0"
+cheat3_code = "30018351#0063"
+
+cheats = 4

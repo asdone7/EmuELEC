@@ -1,0 +1,25 @@
+cheat0_desc = "隻數不減"
+cheat0_handler = "0"
+cheat0_code = "8001e096#0063"
+
+cheat1_desc = "pk7子彈不減"
+cheat1_handler = "0"
+cheat1_code = "800ea84c#0063"
+
+cheat2_desc = "assault子彈不減"
+cheat2_handler = "0"
+cheat2_code = "800ea8b2#0063"
+
+cheat3_desc = "sniper子彈不減"
+cheat3_handler = "0"
+cheat3_code = "800ea916#0063"
+
+cheat4_desc = "醫藥箱不減"
+cheat4_handler = "0"
+cheat4_code = "800ea9dc#0063"
+
+cheat5_desc = "无敌（先要死一次）"
+cheat5_handler = "0"
+cheat5_code = "D0025882#A020;80025882#2400"
+
+cheats = 6

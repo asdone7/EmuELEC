@@ -1,0 +1,49 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "8009A9DA#00FF"
+
+cheat1_desc = "快速升级"
+cheat1_handler = "0"
+cheat1_code = "D00864DA#8CC4;800864D8#7FFF;D00864DA#8CC4;800864DA#2404"
+
+cheat2_desc = "SP不减"
+cheat2_handler = "0"
+cheat2_code = "D007EA94#1A00;8007EA94#0000;D007EA96#A443;8007EA96#0000"
+
+cheat3_desc = "拥有全部道具,武器中文版金手指(进入道具栏之後先用道具整理并将金手指关掉否则不稳)"
+cheat3_handler = "0"
+cheat3_code = "B4000002#00000001,8009AC70#5000"
+
+cheat4_desc = "平时道具不减"
+cheat4_handler = "0"
+cheat4_code = "D003C5A2#A482;8003C5A2#0000"
+
+cheat5_desc = "战斗道具不减"
+cheat5_handler = "0"
+cheat5_code = "D006C466#A482;8006C466#0000"
+
+cheat6_desc = "可以随时记忆"
+cheat6_handler = "0"
+cheat6_code = "80074170#0001"
+
+cheat7_desc = "不遇敌"
+cheat7_handler = "0"
+cheat7_code = "8009C442#0000;D0075290#0100;8009C442#0FFF"
+
+cheat8_desc = "战斗中MP不减"
+cheat8_handler = "0"
+cheat8_code = "D0065024#2400;80065024#0000;D0065026#A4C2;80065026#0000"
+
+cheat9_desc = "特技一次超高"
+cheat9_handler = "0"
+cheat9_code = "D003707C#0001;8003707C#03E7;D003707E#2482;8003707E#2402"
+
+cheat10_desc = "魔法一次超高"
+cheat10_handler = "0"
+cheat10_code = "D0039E54#0001;80039E54#03E7;D0039E56#2462;80039E56#2402"
+
+cheat11_desc = "全语音"
+cheat11_handler = "0"
+cheat11_code = "B0500002#0000,8009AB60#FFFF"
+
+cheats = 12

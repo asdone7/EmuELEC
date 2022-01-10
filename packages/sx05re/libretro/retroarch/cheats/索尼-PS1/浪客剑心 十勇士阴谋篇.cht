@@ -1,0 +1,37 @@
+cheat0_desc = "武器部份逆刃刀"
+cheat0_handler = "0"
+cheat0_code = "801AED80#6319"
+
+cheat1_desc = "武器部份2"
+cheat1_handler = "0"
+cheat1_code = "801AED82#631A"
+
+cheat2_desc = "武器部份3"
+cheat2_handler = "0"
+cheat2_code = "801AED84#631B"
+
+cheat3_desc = "武器部份4"
+cheat3_handler = "0"
+cheat3_code = "801AED86#631C"
+
+cheat4_desc = "武器部份5"
+cheat4_handler = "0"
+cheat4_code = "801AED88#631D"
+
+cheat5_desc = "櫻擁有提升能力道具on"
+cheat5_handler = "0"
+cheat5_code = "801AED50#6314;801AED52#6315;801AED54#6316;801AED56#6317"
+
+cheat6_desc = "经验值最大"
+cheat6_handler = "0"
+cheat6_code = "80029250#270F"
+
+cheat7_desc = "体力最大"
+cheat7_handler = "0"
+cheat7_code = "80029244#270F;80029246#270F"
+
+cheat8_desc = "气力最大"
+cheat8_handler = "0"
+cheat8_code = "80029248#03E7"
+
+cheats = 9

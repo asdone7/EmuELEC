@@ -1,0 +1,17 @@
+cheat0_desc = "按下选择钮加L1钮我方得99分 "
+cheat0_handler = "0"
+cheat0_code = "D0134C62#FBFE;30158006#0063"
+
+cheat1_desc = "按下选择钮加L2钮对手得0分 "
+cheat1_handler = "0"
+cheat1_code = "D0134C62#F7EF;30157BFA#0000"
+
+cheat2_desc = "按下L1会二好球、无坏球、二人出局 "
+cheat2_handler = "0"
+cheat2_code = "D0146E58#0004;80158EF4#0002;D0146E58#0004;30158EF6#0002"
+
+cheat3_desc = "按下L2会没好球、三坏球、没人出局 "
+cheat3_handler = "0"
+cheat3_code = "D0146E58#0001;80158EF4#0300;D0146E58#0001;30158EF6#0000"
+
+cheats = 4

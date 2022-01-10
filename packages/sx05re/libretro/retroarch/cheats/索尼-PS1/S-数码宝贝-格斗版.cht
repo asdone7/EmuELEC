@@ -1,0 +1,25 @@
+cheat0_desc = "無限HP"
+cheat0_handler = "0"
+cheat0_code = "80064325#0026;80099427#7183"
+
+cheat1_desc = "可不斷出絕招"
+cheat1_handler = "0"
+cheat1_code = "30042281#0000;80032261#0015"
+
+cheat2_desc = "全暴龍"
+cheat2_handler = "0"
+cheat2_code = "80175471#0004;30081427#0064"
+
+cheat3_desc = "全暴龍"
+cheat3_handler = "0"
+cheat3_code = "B0200001#00000000;800900BC#FFFF"
+
+cheat4_desc = "對戰模式出現全電子獸on"
+cheat4_handler = "0"
+cheat4_code = "8005F952#FFFF;8005F954#FFFF;3005F956#00FF"
+
+cheat5_desc = "開啟全部隱藏模式on"
+cheat5_handler = "0"
+cheat5_code = "8005F94C#0080"
+
+cheats = 6

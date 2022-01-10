@@ -1,0 +1,5 @@
+cheat0_desc = "金钱"
+cheat0_handler = "0"
+cheat0_code = "801B801C#423F;801B801E#000F"
+
+cheats = 1

@@ -1,0 +1,17 @@
+cheat0_desc = "隻數不減"
+cheat0_handler = "0"
+cheat0_code = "800E0890#0004"
+
+cheat1_desc = "無敵"
+cheat1_handler = "0"
+cheat1_code = "801E4338#006E"
+
+cheat2_desc = "武器等級最高"
+cheat2_handler = "0"
+cheat2_code = "800E08A0#000C"
+
+cheat3_desc = "妖精Ｘ２"
+cheat3_handler = "0"
+cheat3_code = "D00E0F1C#0008;800E0F1C#0001"
+
+cheats = 4

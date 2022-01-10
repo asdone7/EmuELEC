@@ -1,0 +1,89 @@
+cheat0_desc = "选关最后一战"
+cheat0_handler = "0"
+cheat0_code = "300AE750#07"
+
+cheat1_desc = "选关HELL ISLAND"
+cheat1_handler = "0"
+cheat1_code = "300AE750#6"
+
+cheat2_desc = "选关6"
+cheat2_handler = "0"
+cheat2_code = "300AE750#5"
+
+cheat3_desc = "选关5"
+cheat3_handler = "0"
+cheat3_code = "300AE750#4"
+
+cheat4_desc = "选关4"
+cheat4_handler = "0"
+cheat4_code = "300AE750#3"
+
+cheat5_desc = "选关3"
+cheat5_handler = "0"
+cheat5_code = "300AE750#2"
+
+cheat6_desc = "选关2"
+cheat6_handler = "0"
+cheat6_code = "300AE750#1"
+
+cheat7_desc = "选关1"
+cheat7_handler = "0"
+cheat7_code = "300AE750#0"
+
+cheat8_desc = "拥有全部魔法全部魔法"
+cheat8_handler = "0"
+cheat8_code = "300AD8E2#FF;300AD8E3#01;300AD8E5#00;300AD8E6#06;300AD8E7#06;300AD8E8#06;300AD8E9#06;300AD8EA#06;300AD8EB#06;300AD8EC#06;300AD8ED#06"
+
+cheat9_desc = "魔法攻击锁定DEATH"
+cheat9_handler = "0"
+cheat9_code = "300AD8E2#FF;300AD8E3#01;300AD8E4#08;300AD8E5#00;300AD8E6#06;300AD8E7#06;300AD8E8#06;300AD8E9#06;300AD8EA#06;300AD8EB#06;300AD8EC#06;300AD8ED#06"
+
+cheat10_desc = "魔法攻击锁定HEATBODY"
+cheat10_handler = "0"
+cheat10_code = "300AD8E2#FF;300AD8E3#01;300AD8E4#07;300AD8E5#00;300AD8E6#06;300AD8E7#06;300AD8E8#06;300AD8E9#06;300AD8EA#06;300AD8EB#06;300AD8EC#06;300AD8ED#06"
+
+cheat11_desc = "魔法攻击锁定METEOR"
+cheat11_handler = "0"
+cheat11_code = "300AD8E2#FF;300AD8E3#01;300AD8E4#06;300AD8E5#00;300AD8E6#06;300AD8E7#06;300AD8E8#06;300AD8E9#06;300AD8EA#06;300AD8EB#06;300AD8EC#06;300AD8ED#06"
+
+cheat12_desc = "魔法攻击锁定PHOENIX"
+cheat12_handler = "0"
+cheat12_code = "300AD8E2#FF;300AD8E3#01;300AD8E4#05;300AD8E5#00;300AD8E6#06;300AD8E7#06;300AD8E8#06;300AD8E9#06;300AD8EA#06;300AD8EB#06;300AD8EC#06;300AD8ED#06"
+
+cheat13_desc = "魔法攻击锁定WIND"
+cheat13_handler = "0"
+cheat13_code = "300AD8E2#FF;300AD8E3#01;300AD8E4#04;300AD8E5#00;300AD8E6#06;300AD8E7#06;300AD8E8#06;300AD8E9#06;300AD8EA#06;300AD8EB#06;300AD8EC#06;300AD8ED#06"
+
+cheat14_desc = "魔法攻击锁定SLOW"
+cheat14_handler = "0"
+cheat14_code = "300AD8E2#FF;300AD8E3#01;300AD8E4#03;300AD8E5#00;300AD8E6#06;300AD8E7#06;300AD8E8#06;300AD8E9#06;300AD8EA#06;300AD8EB#06;300AD8EC#06;300AD8ED#06"
+
+cheat15_desc = "魔法攻击锁定FREEZE"
+cheat15_handler = "0"
+cheat15_code = "300AD8E2#FF;300AD8E3#01;300AD8E4#02;300AD8E5#00;300AD8E6#06;300AD8E7#06;300AD8E8#06;300AD8E9#06;300AD8EA#06;300AD8EB#06;300AD8EC#06;300AD8ED#06"
+
+cheat16_desc = "魔法攻击锁定THUNDER"
+cheat16_handler = "0"
+cheat16_code = "300AD8E2#FF;300AD8E3#01;300AD8E4#01;300AD8E5#00;300AD8E6#06;300AD8E7#06;300AD8E8#06;300AD8E9#06;300AD8EA#06;300AD8EB#06;300AD8EC#06;300AD8ED#06"
+
+cheat17_desc = "魔法攻击锁定FIRE"
+cheat17_handler = "0"
+cheat17_code = "300AD8E2#FF;300AD8E3#01;300AD8E4#00;300AD8E5#00;300AD8E6#06;300AD8E7#06;300AD8E8#06;300AD8E9#06;300AD8EA#06;300AD8EB#06;300AD8EC#06;300AD8ED#06"
+
+cheat18_desc = "透明无敌"
+cheat18_handler = "0"
+cheat18_code = "300AD8D8#FF"
+
+cheat19_desc = "血量超长"
+cheat19_handler = "0"
+cheat19_code = "300AD88E#FF;300AD88F#3D"
+
+cheat20_desc = "血量满"
+cheat20_handler = "0"
+cheat20_code = "300AD88E#60;300AD88F#04"
+
+cheat21_desc = "fire无限"
+cheat21_handler = "0"
+cheat21_code = "300AD89E#FF"
+
+cheats = 22

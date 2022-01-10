@@ -1,0 +1,25 @@
+cheat0_desc = "血不减"
+cheat0_handler = "0"
+cheat0_code = "D0045C84#1023;80045C86#2400"
+
+cheat1_desc = "道具不减"
+cheat1_handler = "0"
+cheat1_code = "D005E140#1823;8005E142#2400"
+
+cheat2_desc = "金钱不减"
+cheat2_handler = "0"
+cheat2_code = "D006389C#1023;8006389E#2400"
+
+cheat3_desc = "只数不减"
+cheat3_handler = "0"
+cheat3_code = "D006A2B0#0004;8006A2B2#2400"
+
+cheat4_desc = "只数不减"
+cheat4_handler = "0"
+cheat4_code = "D0041C9A#AE62;80041C9A#2400;D006A906#AEE2;8006A906#2400"
+
+cheat5_desc = "全道具"
+cheat5_handler = "0"
+cheat5_code = "B0180004#00000000;800F04E0#270F;B0280004#00000000;800F0558#0001"
+
+cheats = 6

@@ -1,0 +1,17 @@
+cheat0_desc = "HP"
+cheat0_handler = "0"
+cheat0_code = "801B0194#0063"
+
+cheat1_desc = "子弹"
+cheat1_handler = "0"
+cheat1_code = "801B0198#0063"
+
+cheat2_desc = "爆弹"
+cheat2_handler = "0"
+cheat2_code = "801B019C#0063"
+
+cheat3_desc = "TIME"
+cheat3_handler = "0"
+cheat3_code = "8009A930#0AF0"
+
+cheats = 4

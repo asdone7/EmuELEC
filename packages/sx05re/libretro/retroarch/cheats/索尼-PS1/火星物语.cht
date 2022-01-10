@@ -1,0 +1,37 @@
+cheat0_desc = "HP.HPMAX"
+cheat0_handler = "0"
+cheat0_code = "80010762#03E7;80010764#03E7"
+
+cheat1_desc = "腕力.体力.脚力"
+cheat1_handler = "0"
+cheat1_code = "8001076D#FF00;8001076E#FFFF"
+
+cheat2_desc = "属性"
+cheat2_handler = "0"
+cheat2_code = "8001074F#0400;80010750#0404;80010752#0404;80010754#0404;80010756#0404;80010758#0404;8001075A#0404;8001075C#0404;8001075E#0004"
+
+cheat3_desc = "少女Y HP.HPMAX"
+cheat3_handler = "0"
+cheat3_code = "8001092E#03E7;80010930#03E7"
+
+cheat4_desc = "MP.MPMAX"
+cheat4_handler = "0"
+cheat4_code = "80010932#03E7;80010934#03E7"
+
+cheat5_desc = "腕力.体力.脚力"
+cheat5_handler = "0"
+cheat5_code = "80010939#FF00;8001093A#FFFF"
+
+cheat6_desc = "属性"
+cheat6_handler = "0"
+cheat6_code = "8001091B#0400;8001091C#0404;8001091E#0404;80010920#0404;80010922#0404;80010924#0404;80010926#0404;80010928#0404;8001092A#0004"
+
+cheat7_desc = "金钱"
+cheat7_handler = "0"
+cheat7_code = "8001001C#E0FF;8001001E#05FF"
+
+cheat8_desc = "全道具"
+cheat8_handler = "0"
+cheat8_code = "B0C00004#00000001;80010340#0000;B0C00004#00000000;80010342#00FF"
+
+cheats = 9

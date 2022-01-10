@@ -1,0 +1,29 @@
+cheat0_desc = "无限金钱"
+cheat0_handler = "0"
+cheat0_code = "800988D0#EA60"
+
+cheat1_desc = "无限Health Fazz"
+cheat1_handler = "0"
+cheat1_code = "80097630#270F"
+
+cheat2_desc = "无限RAP Fazz"
+cheat2_handler = "0"
+cheat2_code = "8009764A#0000"
+
+cheat3_desc = "最大Health Fazz"
+cheat3_handler = "0"
+cheat3_code = "8009763C#270F"
+
+cheat4_desc = "最大Level Fazz"
+cheat4_handler = "0"
+cheat4_code = "80097626#0063"
+
+cheat5_desc = "最大DEV Fazz"
+cheat5_handler = "0"
+cheat5_code = "80097628#6363;8009762A#6363;8009762C#6363"
+
+cheat6_desc = "最大Stats Fazz"
+cheat6_handler = "0"
+cheat6_code = "8009763E#6363;80097640#6363;80097642#6363;80097644#6363;80097646#6363;80097648#6363"
+
+cheats = 7

@@ -1,0 +1,205 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "8019BA6A#967F;3019BA6C#0098"
+
+cheat1_desc = "精神无限"
+cheat1_handler = "0"
+cheat1_code = "80083BC6#9464"
+
+cheat2_desc = "全强化道具"
+cheat2_handler = "0"
+cheat2_code = "3019BB35#0009;8019BB36#0909;8019BB38#0909;8019BB3A#0909;8019BB3C#0909;8019BB3E#0909;8019BB40#0909;8019BB42#0909;8019BB44#0909;8019BB46#0909;8019BB48#0909;3019BB4A#0009"
+
+cheat3_desc = "增加机械人第一架东方不败"
+cheat3_handler = "0"
+cheat3_code = "8019AB54#0101;8019AB56#0001"
+
+cheat4_desc = "增加机械人第一架ノイエ·ジール"
+cheat4_handler = "0"
+cheat4_code = "8019AB54#006C;8019AB56#0001"
+
+cheat5_desc = "增加机械人第一架ν高达"
+cheat5_handler = "0"
+cheat5_code = "8019AB54#0009;8019AB56#0001"
+
+cheat6_desc = "增加机械人第一架ゴッドガンダムS"
+cheat6_handler = "0"
+cheat6_code = "8019AB54#00FD;8019AB56#0001"
+
+cheat7_desc = "第二架东方不败"
+cheat7_handler = "0"
+cheat7_code = "8019AB72#0101;8019AB74#000"
+
+cheat8_desc = "第二架ゲ-マルク"
+cheat8_handler = "0"
+cheat8_code = "8019AB72#0078;8019AB74#0001"
+
+cheat9_desc = "第三架キュベレイ"
+cheat9_handler = "0"
+cheat9_code = "8019AB90#006D;8019AB92#0001"
+
+cheat10_desc = "第4架サザビー"
+cheat10_handler = "0"
+cheat10_code = "8019ABAE#007E;8019ABB0#0001"
+
+cheat11_desc = "第5架ノイエ·ジール"
+cheat11_handler = "0"
+cheat11_code = "8019ABCC#006C;8019ABCE#0001"
+
+cheat12_desc = "第5架ゴッドガンダム"
+cheat12_handler = "0"
+cheat12_code = "8019ABCC#00FC;8019ABCE#0001"
+
+cheat13_desc = "第6架零式高达W改"
+cheat13_handler = "0"
+cheat13_code = "8019ABEA#014C;8019ABEC#0001"
+
+cheat14_desc = "第7架零式高达W改"
+cheat14_handler = "0"
+cheat14_code = "8019AC08#014C;8019AC0A#0001"
+
+cheat15_desc = "第8架零式高达W改"
+cheat15_handler = "0"
+cheat15_code = "8019AC26#014C;8019AC28#0001"
+
+cheat16_desc = "第9架キュベレイ"
+cheat16_handler = "0"
+cheat16_code = "8019AC44#006D;8019AC46#0001"
+
+cheat17_desc = "第10架サザビー"
+cheat17_handler = "0"
+cheat17_code = "8019AC62#007E;8019AC64#0001"
+
+cheat18_desc = "第11架キュベレイ"
+cheat18_handler = "0"
+cheat18_code = "8019AC80#006D;8019AC82#0001"
+
+cheat19_desc = "第12架サザビー"
+cheat19_handler = "0"
+cheat19_code = "8019AC9E#007E;8019ACA0#0001"
+
+cheat20_desc = "第13架零式高达W改"
+cheat20_handler = "0"
+cheat20_code = "8019ACBC#014C;8019ACBE#0001"
+
+cheat21_desc = "第17架ノイエ·ジール"
+cheat21_handler = "0"
+cheat21_code = "8019AD34#006C;8019AD36#0001"
+
+cheat22_desc = "第23架零式高达W改"
+cheat22_handler = "0"
+cheat22_code = "8019ADE8#014C;8019ADEA#0001"
+
+cheat23_desc = "第24架サザビー"
+cheat23_handler = "0"
+cheat23_code = "8019AE06#007E;8019AE08#0001"
+
+cheat24_desc = "所有机组EN无限"
+cheat24_handler = "0"
+cheat24_code = "80199F44#03E7;80199F48#03E7"
+
+cheat25_desc = "各角色弹数不减"
+cheat25_handler = "0"
+cheat25_code = "8007B752#2400"
+
+cheat26_desc = "搭乘限制解除"
+cheat26_handler = "0"
+cheat26_code = "900B0FA0#00000000;900B0FAC#00000000;900B1280#00000000;900B1294#00000000"
+
+cheat27_desc = "改造段數10段"
+cheat27_handler = "0"
+cheat27_code = "301478CF#000A;301478D0#000A"
+
+cheat28_desc = "改造段數15段"
+cheat28_handler = "0"
+cheat28_code = "301478CF#000F;301478D0#000F"
+
+cheat29_desc = "武器追加"
+cheat29_handler = "0"
+cheat29_code = "8019BAFE#FFFF;3019BB08#005F"
+
+cheat30_desc = "全員氣力150"
+cheat30_handler = "0"
+cheat30_code = "3019A55D#96;3019A569#96;3019A575#96;3019A581#96;3019A58D#96;3019A599#96;3019A5A5#96;3019A5B1#96;3019A5BD#96;3019A5C9#96;3019A5D5#96;3019A5E1#96;3019A5ED#96;3019A5F9#96;3019A605#96;3019A611#96;3019A61D#96;3019A629#96;3019A635#96;3019A641#96;3019A64D#96;3019A659#96;3019A665#96;3019A671#96;3019A67D#96;3019A689#96;3019A695#96;3019A6A1#96;3019A6AD#96;3019A6B9#96;3019A6C5#96;3019A6D1#96;3019A6DD#96;3019A6E9#96;3019A6F5#96;3019A701#96;3019A70D#96;3019A719#96;3019A725#96;3019A731#96;3019A73D#96;3019A749#96;3019A755#96;3019A761#96;3019A76D#96;3019A779#96;3019A785#96;3019A791#96;3019A79D#96;3019A7A9#96;3019A7B5#96;3019A7C1#96;3019A7CD#96;3019A7D9#96;3019A7E5#96;3019A7F1#96;3019A7FD#96;3019A809#96;3019A815#96;3019A821#96;3019A82D#96;3019A839#96;3019A845#96;3019A851#96;3019A85D#96;3019A869#96;3019A875#96;3019A881#96;3019A88D#96;3019A899#96;3019A8A5#96;3019A8B1#96;3019A8BD#96;3019A8C9#96;3019A8D5#96;3019A8E1#96;3019A8ED#96;3019A8F9#96;3019A905#96;3019A911#96;3019A91D#96;3019A929#96;3019A935#96;3019A941#96;3019A94D#96;3019A959#96;3019A965#96;3019A971#96;3019A97D#96;3019A989#96;3019A995#96;3019A9A1#96;3019A9AD#96;3019A9B9#96;3019A9C5#96;3019A9D1#96;3019A9DD#96;3019A9E9#96;3019A9F5#96;3019AA01#96;3019AA0D#96;3019AA19#96;3019AA25#96;3019AA31#96;3019AA3D#96;3019AA49#96;3019AA55#96;3019AA61#96;3019AA6D#96;3019AA79#96;3019AA85#96;3019AA91#96;3019AA9D#96;3019AAA9#96;3019AAB5#96;3019AAC1#96;3019AACD#96;3019AAD9#96;3019AAE5#96;3019AAF1#96;3019AAFD#96;3019AB09#96;3019AB15#96;3019AB21#96;3019AB2D#96;3019AB39#96;3019AB45#96;3019AB51#96"
+
+cheat31_desc = "強化零件最強化"
+cheat31_handler = "0"
+cheat31_code = "900C0FAC#2406000A;900C0FB0#24100064;900C0FB4#241203E8;900C0FB8#241303E8;900C0FBC#2414012C;900C0FC0#24150064;900C0FC4#24160005;800C0FE8#0800;B0160004#00000000,9005437C#800C0FAC"
+
+cheat32_desc = "$$9999999"
+cheat32_handler = "0"
+cheat32_code = "9019BA6A#98967F"
+
+cheat33_desc = "全強化零件9個"
+cheat33_handler = "0"
+cheat33_code = "3019BB35#0009;8019BB36#0909;8019BB38#0909;8019BB3A#0909;8019BB3C#0909;8019BB3E#0909;8019BB40#0909;8019BB42#0909;8019BB44#0909;8019BB46#0909;8019BB48#0909;3019BB4A#0009"
+
+cheat34_desc = "SP不減"
+cheat34_handler = "0"
+cheat34_code = "D0083BC2#0082;80083BC2#0080"
+
+cheat35_desc = "EN不減"
+cheat35_handler = "0"
+cheat35_code = "80095ADE#9462;80098CF2#9482;8007B792#9462"
+
+cheat36_desc = "彈數不減"
+cheat36_handler = "0"
+cheat36_code = "8007B74C#0000"
+
+cheat37_desc = "人物圖鑑100%"
+cheat37_handler = "0"
+cheat37_code = "B0180002#00000000,80154738#FFFF"
+
+cheat38_desc = "機體圖鑑100%"
+cheat38_handler = "0"
+cheat38_code = "B0330001#00000000,30154778#00FF"
+
+cheat39_desc = "動畫圖鑑100%"
+cheat39_handler = "0"
+cheat39_code = "801547B2#FFFF;901547B4#FFFFFFFF"
+
+cheat40_desc = "15段机组改造"
+cheat40_handler = "0"
+cheat40_code = "301478CF#000E"
+
+cheat41_desc = "15段武器改造"
+cheat41_handler = "0"
+cheat41_code = "301478D0#000E"
+
+cheat42_desc = "第1位哈曼"
+cheat42_handler = "0"
+cheat42_code = "3019A554#0025"
+
+cheat43_desc = "第2位东方不败"
+cheat43_handler = "0"
+cheat43_code = "3019A560#00C5"
+
+cheat44_desc = "第3位影波赞达鲁"
+cheat44_handler = "0"
+cheat44_code = "3019A56C#009D"
+
+cheat45_desc = "第4位哈曼"
+cheat45_handler = "0"
+cheat45_code = "3019A578#0025"
+
+cheat46_desc = "第4位东方不败"
+cheat46_handler = "0"
+cheat46_code = "3019A578#00C5"
+
+cheat47_desc = "第5位哈曼"
+cheat47_handler = "0"
+cheat47_code = "3019A584#0025"
+
+cheat48_desc = "第9位哈曼"
+cheat48_handler = "0"
+cheat48_code = "3019A5B4#0025"
+
+cheat49_desc = "第14位哈曼"
+cheat49_handler = "0"
+cheat49_code = "3019A5F0#0025"
+
+cheat50_desc = "LV upon"
+cheat50_handler = "0"
+cheat50_code = "8007C77A#A4A0"
+
+cheats = 51

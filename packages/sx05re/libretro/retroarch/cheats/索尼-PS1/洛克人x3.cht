@@ -1,0 +1,21 @@
+cheat0_desc = "Master Code"
+cheat0_handler = "0"
+cheat0_code = "D001F6F4#0041"
+
+cheat1_desc = "人数不减"
+cheat1_handler = "0"
+cheat1_code = "8001F6F8#0000"
+
+cheat2_desc = "生命力不减"
+cheat2_handler = "0"
+cheat2_code = "8003B17A#0040"
+
+cheat3_desc = "武器能量不减"
+cheat3_handler = "0"
+cheat3_code = "8002E0DA#0040"
+
+cheat4_desc = "敌人一击死"
+cheat4_handler = "0"
+cheat4_code = "8003B8CE#1400"
+
+cheats = 5

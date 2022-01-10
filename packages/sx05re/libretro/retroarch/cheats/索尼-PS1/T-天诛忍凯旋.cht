@@ -1,0 +1,57 @@
+cheat0_desc = "[擁有所有武器]ON"
+cheat0_handler = "0"
+cheat0_code = "800EA7E0#0909;800EA7E2#0909;800EA7E4#0909;800EA7E6#0909;800EA7E8#0909;800EA7EA#0909;800EA7EC#0909;800EA7EE#0909;800EA7F0#0909"
+
+cheat1_desc = "體力不減"
+cheat1_handler = "0"
+cheat1_code = "800EA73C#0064"
+
+cheat2_desc = "現在体力100且不减"
+cheat2_handler = "0"
+cheat2_code = "3012F150#0064"
+
+cheat3_desc = "最大体力100"
+cheat3_handler = "0"
+cheat3_code = "3012F152#0064"
+
+cheat4_desc = "可以选择全部任务"
+cheat4_handler = "0"
+cheat4_code = "80010060#0A0A"
+
+cheat5_desc = "全道具"
+cheat5_handler = "0"
+cheat5_code = "3001040C#0062;3001040D#0063;3001040E#0063;3001040F#0063;30010410#0063;30010411#0063;30010412#0063;30010413#0063;30010414#0063;30010415#0063;30010416#0063;30010417#0063;30010418#0063;30010419#0063"
+
+cheat6_desc = "战斗中可选择全道具"
+cheat6_handler = "0"
+cheat6_code = "3001000A#0063;3001000B#0063;3001000C#0063;3001000D#0063;3001000E#0063;3001000F#0063;30010010#0063;30010011#0063;30010012#0063;30010013#0063;30010014#0063;30010015#0063;30010016#0063;30010017#0063"
+
+cheat7_desc = "力丸选择忍具时拥有所有道具"
+cheat7_handler = "0"
+cheat7_code = "B0130001#0000;3001040D#00FD"
+
+cheat8_desc = "彩女选择忍具时拥有所有道具"
+cheat8_handler = "0"
+cheat8_code = "B0130001#0000;3001042D#00FD"
+
+cheat9_desc = "选择忍具时数量(残)不减(1)"
+cheat9_handler = "0"
+cheat9_code = "801FFDE8#0000"
+
+cheat10_desc = "选择忍具时数量(残)不减(2)"
+cheat10_handler = "0"
+cheat10_code = "D005290E#25AD;8005290C#0000"
+
+cheat11_desc = "使用忍具不减"
+cheat11_handler = "0"
+cheat11_code = "D0048B3E#24A2;80048B3C#0000"
+
+cheat12_desc = "使用变化之术后不會变回原來姿态"
+cheat12_handler = "0"
+cheat12_code = "D0042C9C#006C;80042C9E#1400;D0042C9C#006C;80042CBA#1400;D0042C9C#006C;80042CD6#1400"
+
+cheat13_desc = "道具不减(虎之卷专用)"
+cheat13_handler = "0"
+cheat13_code = "D004093A#24A2;80040938#0000"
+
+cheats = 14

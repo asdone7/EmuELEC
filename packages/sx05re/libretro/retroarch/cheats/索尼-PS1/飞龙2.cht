@@ -1,0 +1,29 @@
+cheat0_desc = "体力"
+cheat0_handler = "0"
+cheat0_code = "800AB99A#0008"
+
+cheat1_desc = "无敌"
+cheat1_handler = "0"
+cheat1_code = "800AB7A6#2800"
+
+cheat2_desc = "时间变多"
+cheat2_handler = "0"
+cheat2_code = "D00D9D6A#1E02;800D9D6A#003C"
+
+cheat3_desc = "HP少于3自动补满"
+cheat3_handler = "0"
+cheat3_code = "D00AB998#0005;800AB998#0006;D00AB99C#0003;800AB99A#0006"
+
+cheat4_desc = "可连续跳跃"
+cheat4_handler = "0"
+cheat4_code = "D00AB826#0003;800AB826#0001"
+
+cheat5_desc = "保险用完自动补满"
+cheat5_handler = "0"
+cheat5_code = "D00ABAA0#0000;800ABAA0#0003"
+
+cheat6_desc = "攻击力加强"
+cheat6_handler = "0"
+cheat6_code = "300ABAA5#0001"
+
+cheats = 7

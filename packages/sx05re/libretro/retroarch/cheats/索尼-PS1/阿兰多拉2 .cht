@@ -1,0 +1,25 @@
+cheat0_desc = "HP（最大／现在）"
+cheat0_handler = "0"
+cheat0_code = "80063ED0#03E7;80063ED2#03E7"
+
+cheat1_desc = "EP（最大／现在）"
+cheat1_handler = "0"
+cheat1_code = "80063ED4#03E7;80063ED6#03E7"
+
+cheat2_desc = "金钱最大"
+cheat2_handler = "0"
+cheat2_code = "80063EC4#423F;80063EC6#000F"
+
+cheat3_desc = "时间为零"
+cheat3_handler = "0"
+cheat3_code = "800626FE#0000;8006338E#0000"
+
+cheat4_desc = "全部关键宝物"
+cheat4_handler = "0"
+cheat4_code = "30063C08#0001;30063C0A#0001;30063C0C#0063 ;30063C0E#0063;30063C10#0063;30063C1A#0001"
+
+cheat5_desc = "全部宝物"
+cheat5_handler = "0"
+cheat5_code = "30063C00#0009;30063C02#0009;30063C04#0009;30063C06#0009;30063C12#0001;30063C14#0001;30063C16#0001;30063C18#0001"
+
+cheats = 6

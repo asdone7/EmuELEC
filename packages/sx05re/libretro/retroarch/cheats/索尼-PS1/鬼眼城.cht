@@ -1,0 +1,17 @@
+cheat0_desc = "血不减"
+cheat0_handler = "0"
+cheat0_code = "80164F44#01C8"
+
+cheat1_desc = "力不减"
+cheat1_handler = "0"
+cheat1_code = "80164F5C#0800"
+
+cheat2_desc = "全部道具"
+cheat2_handler = "0"
+cheat2_code = "B0090001#00000000;30164F50#0062"
+
+cheat3_desc = "全部武器"
+cheat3_handler = "0"
+cheat3_code = "B00B0001#00000000;30164F5C#00FF"
+
+cheats = 4

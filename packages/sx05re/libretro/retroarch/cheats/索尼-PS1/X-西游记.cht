@@ -1,0 +1,77 @@
+cheat0_desc = "钱无限NO"
+cheat0_handler = "0"
+cheat0_code = "80130CD4#869F;30130CD6#0001"
+
+cheat1_desc = "TIME不增NO"
+cheat1_handler = "0"
+cheat1_code = "30130CD2#0000;80130CD0#1000"
+
+cheat2_desc = "HP不减NO"
+cheat2_handler = "0"
+cheat2_code = "B0060038#00000000;8013054A#03E7;B0060038#00000000;80130530#03E7"
+
+cheat3_desc = "MP不减NO"
+cheat3_handler = "0"
+cheat3_code = "B0060038#00000000;8013054C#03E7;B0060038#00000000;80130532#03E7"
+
+cheat4_desc = "每回战斗升1级NO"
+cheat4_handler = "0"
+cheat4_code = "B0060038#00000000;3013051A#0063"
+
+cheat5_desc = "移动最高NO"
+cheat5_handler = "0"
+cheat5_code = "B0060038#00000000;30130535#0009"
+
+cheat6_desc = "敌人一击死NO"
+cheat6_handler = "0"
+cheat6_code = "B0070038#00000000;30130822#0000"
+
+cheat7_desc = "唐三藏NO"
+cheat7_handler = "0"
+cheat7_code = "B0040001#0000000;3013051B#00FF"
+
+cheat8_desc = "孙悟空NO"
+cheat8_handler = "0"
+cheat8_code = "B0040001#0000000;30130553#00FF"
+
+cheat9_desc = "猪八戒NO"
+cheat9_handler = "0"
+cheat9_code = "B0040001#0000000;3013058B#00FF"
+
+cheat10_desc = "朱凉铃NO"
+cheat10_handler = "0"
+cheat10_code = "B0040001#0000000;301305C3#00FF"
+
+cheat11_desc = "沙悟净NO"
+cheat11_handler = "0"
+cheat11_code = "B0040001#0000000;301305FB#00FF"
+
+cheat12_desc = "桔花公主NO"
+cheat12_handler = "0"
+cheat12_code = "B0040001#0000000;30130633#00FF"
+
+cheat13_desc = "镇元子NO"
+cheat13_handler = "0"
+cheat13_code = "B0040001#0000000;3013066B#00FF"
+
+cheat14_desc = "铁扇公主NO"
+cheat14_handler = "0"
+cheat14_code = "B0040001#0000000;301306A3#00FF"
+
+cheat15_desc = "牛魔王NO"
+cheat15_handler = "0"
+cheat15_code = "B0040001#0000000;301306DB#00FF"
+
+cheat16_desc = "宋金丽NO"
+cheat16_handler = "0"
+cheat16_code = "B0040001#0000000;30130713#00FF"
+
+cheat17_desc = "宋银丽NO"
+cheat17_handler = "0"
+cheat17_code = "B0040001#0000000;3013074B#00FF"
+
+cheat18_desc = "灵感公子NO"
+cheat18_handler = "0"
+cheat18_code = "B0040001#0000000;30130783#00FF"
+
+cheats = 19

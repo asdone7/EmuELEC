@@ -1,0 +1,21 @@
+cheat0_desc = "Infinite Health"
+cheat0_handler = "0"
+cheat0_code = "801450D8#0032"
+
+cheat1_desc = "Infinite Health Edwar"
+cheat1_handler = "0"
+cheat1_code = "301450D8#0064"
+
+cheat2_desc = "Infinite Ammo For Most Weapons"
+cheat2_handler = "0"
+cheat2_code = "80141570#0000;801452C8#0000;801452D0#0009;80145300#0005"
+
+cheat3_desc = "体力不减on"
+cheat3_handler = "0"
+cheat3_code = "801450DB#0064"
+
+cheat4_desc = "各种弹药不减on"
+cheat4_handler = "0"
+cheat4_code = "8003EE90#0023"
+
+cheats = 5

@@ -1,0 +1,837 @@
+cheat0_desc = "金钱"
+cheat0_handler = "0"
+cheat0_code = "3014DB0A#FF;3014DB0B#FF"
+
+cheat1_desc = "秀吉大名家南部"
+cheat1_handler = "0"
+cheat1_code = "3014E1FF#00"
+
+cheat2_desc = "秀吉大名家伊达"
+cheat2_handler = "0"
+cheat2_code = "3014E1FF#01"
+
+cheat3_desc = "秀吉大名家大崎"
+cheat3_handler = "0"
+cheat3_code = "3014E1FF#02"
+
+cheat4_desc = "秀吉大名家最上"
+cheat4_handler = "0"
+cheat4_code = "3014E1FF#03"
+
+cheat5_desc = "秀吉大名家芦名"
+cheat5_handler = "0"
+cheat5_code = "3014E1FF#04"
+
+cheat6_desc = "秀吉大名家上杉"
+cheat6_handler = "0"
+cheat6_code = "3014E1FF#05"
+
+cheat7_desc = "秀吉大名家北条"
+cheat7_handler = "0"
+cheat7_code = "3014E1FF#06"
+
+cheat8_desc = "秀吉大名家宇都宫"
+cheat8_handler = "0"
+cheat8_code = "3014E1FF#07"
+
+cheat9_desc = "秀吉大名家佐竹"
+cheat9_handler = "0"
+cheat9_code = "3014E1FF#08"
+
+cheat10_desc = "秀吉大名家里见"
+cheat10_handler = "0"
+cheat10_code = "3014E1FF#09"
+
+cheat11_desc = "秀吉大名家武田"
+cheat11_handler = "0"
+cheat11_code = "3014E1FF#0A"
+
+cheat12_desc = "秀吉大名家今川"
+cheat12_handler = "0"
+cheat12_code = "3014E1FF#0B"
+
+cheat13_desc = "秀吉大名家德川"
+cheat13_handler = "0"
+cheat13_code = "3014E1FF#0C"
+
+cheat14_desc = "秀吉大名家织田"
+cheat14_handler = "0"
+cheat14_code = "3014E1FF#0D"
+
+cheat15_desc = "秀吉大名家斋藤"
+cheat15_handler = "0"
+cheat15_code = "3014E1FF#0E"
+
+cheat16_desc = "秀吉大名家北田"
+cheat16_handler = "0"
+cheat16_code = "3014E1FF#0F"
+
+cheat17_desc = "秀吉大名家本愿寺"
+cheat17_handler = "0"
+cheat17_code = "3014E1FF#10"
+
+cheat18_desc = "秀吉大名家神保"
+cheat18_handler = "0"
+cheat18_code = "3014E1FF#11"
+
+cheat19_desc = "秀吉大名家田山"
+cheat19_handler = "0"
+cheat19_code = "3014E1FF#12"
+
+cheat20_desc = "秀吉大名家朝仓"
+cheat20_handler = "0"
+cheat20_code = "3014E1FF#13"
+
+cheat21_desc = "秀吉大名家浅井"
+cheat21_handler = "0"
+cheat21_code = "3014E1FF#14"
+
+cheat22_desc = "秀吉大名家六角"
+cheat22_handler = "0"
+cheat22_code = "3014E1FF#15"
+
+cheat23_desc = "秀吉大名家松永"
+cheat23_handler = "0"
+cheat23_code = "3014E1FF#16"
+
+cheat24_desc = "秀吉大名家筒井"
+cheat24_handler = "0"
+cheat24_code = "3014E1FF#17"
+
+cheat25_desc = "秀吉大名家足利"
+cheat25_handler = "0"
+cheat25_code = "3014E1FF#18"
+
+cheat26_desc = "秀吉大名家三好"
+cheat26_handler = "0"
+cheat26_code = "3014E1FF#19"
+
+cheat27_desc = "秀吉大名家波多野"
+cheat27_handler = "0"
+cheat27_code = "3014E1FF#1A"
+
+cheat28_desc = "秀吉大名家杂贺"
+cheat28_handler = "0"
+cheat28_code = "3014E1FF#1B"
+
+cheat29_desc = "秀吉大名家别所"
+cheat29_handler = "0"
+cheat29_code = "3014E1FF#1C"
+
+cheat30_desc = "秀吉大名家小寺"
+cheat30_handler = "0"
+cheat30_code = "3014E1FF#1D"
+
+cheat31_desc = "秀吉大名家山名"
+cheat31_handler = "0"
+cheat31_code = "3014E1FF#1E"
+
+cheat32_desc = "秀吉大名家尼子"
+cheat32_handler = "0"
+cheat32_code = "3014E1FF#1F"
+
+cheat33_desc = "秀吉大名家宇喜多"
+cheat33_handler = "0"
+cheat33_code = "3014E1FF#20"
+
+cheat34_desc = "秀吉大名家毛利"
+cheat34_handler = "0"
+cheat34_code = "3014E1FF#21"
+
+cheat35_desc = "秀吉大名家河野"
+cheat35_handler = "0"
+cheat35_code = "3014E1FF#22"
+
+cheat36_desc = "秀吉大名家长宗我部"
+cheat36_handler = "0"
+cheat36_code = "3014E1FF#23"
+
+cheat37_desc = "秀吉大名家一条"
+cheat37_handler = "0"
+cheat37_code = "3014E1FF#24"
+
+cheat38_desc = "秀吉大名家大友"
+cheat38_handler = "0"
+cheat38_code = "3014E1FF#25"
+
+cheat39_desc = "秀吉大名家秋月"
+cheat39_handler = "0"
+cheat39_code = "3014E1FF#26"
+
+cheat40_desc = "秀吉大名家龙造寺"
+cheat40_handler = "0"
+cheat40_code = "3014E1FF#27"
+
+cheat41_desc = "秀吉大名家相良"
+cheat41_handler = "0"
+cheat41_code = "3014E1FF#28"
+
+cheat42_desc = "秀吉大名家伊东"
+cheat42_handler = "0"
+cheat42_code = "3014E1FF#29"
+
+cheat43_desc = "秀吉大名家土持"
+cheat43_handler = "0"
+cheat43_code = "3014E1FF#2A"
+
+cheat44_desc = "秀吉大名家岛津"
+cheat44_handler = "0"
+cheat44_code = "3014E1FF#2B"
+
+cheat45_desc = "秀吉大名家肝付"
+cheat45_handler = "0"
+cheat45_code = "3014E1FF#2C"
+
+cheat46_desc = "秀吉大名家无"
+cheat46_handler = "0"
+cheat46_code = "3014E1FF#FF"
+
+cheat47_desc = "秀吉身份浪人"
+cheat47_handler = "0"
+cheat47_code = "3014E209#00"
+
+cheat48_desc = "秀吉身份步兵头"
+cheat48_handler = "0"
+cheat48_code = "3014E209#01"
+
+cheat49_desc = "秀吉身份物头"
+cheat49_handler = "0"
+cheat49_code = "3014E209#02;3014E204#0A"
+
+cheat50_desc = "秀吉身份侍大将"
+cheat50_handler = "0"
+cheat50_code = "3014E209#03"
+
+cheat51_desc = "秀吉身份部将"
+cheat51_handler = "0"
+cheat51_code = "3014E209#04"
+
+cheat52_desc = "秀吉身份家老"
+cheat52_handler = "0"
+cheat52_code = "3014E209#05;3014E204#64"
+
+cheat53_desc = "秀吉身份宿老"
+cheat53_handler = "0"
+cheat53_code = "3014E209#06;3014E204#AF"
+
+cheat54_desc = "秀吉身份大名"
+cheat54_handler = "0"
+cheat54_code = "3014E209#07"
+
+cheat55_desc = "秀吉身份浪人"
+cheat55_handler = "0"
+cheat55_code = "3014E209#08"
+
+cheat56_desc = "居城三户"
+cheat56_handler = "0"
+cheat56_code = "3014E200#00"
+
+cheat57_desc = "居城八户"
+cheat57_handler = "0"
+cheat57_code = "3014E200#01"
+
+cheat58_desc = "居城弘前"
+cheat58_handler = "0"
+cheat58_code = "3014E200#02"
+
+cheat59_desc = "居城米泽"
+cheat59_handler = "0"
+cheat59_code = "3014E200#03"
+
+cheat60_desc = "居城岩出山"
+cheat60_handler = "0"
+cheat60_code = "3014E200#04"
+
+cheat61_desc = "居城登米"
+cheat61_handler = "0"
+cheat61_code = "3014E200#05"
+
+cheat62_desc = "居城白石"
+cheat62_handler = "0"
+cheat62_code = "3014E200#06"
+
+cheat63_desc = "居城桑折"
+cheat63_handler = "0"
+cheat63_code = "3014E200#07"
+
+cheat64_desc = "居城山形"
+cheat64_handler = "0"
+cheat64_code = "3014E200#08"
+
+cheat65_desc = "居城横手"
+cheat65_handler = "0"
+cheat65_code = "3014E200#09"
+
+cheat66_desc = "居城鲑延"
+cheat66_handler = "0"
+cheat66_code = "3014E200#0A"
+
+cheat67_desc = "居城鹤冈"
+cheat67_handler = "0"
+cheat67_code = "3014E200#0B"
+
+cheat68_desc = "居城黑川"
+cheat68_handler = "0"
+cheat68_code = "3014E200#0C"
+
+cheat69_desc = "居城二本松"
+cheat69_handler = "0"
+cheat69_code = "3014E200#0D"
+
+cheat70_desc = "居城须贺川"
+cheat70_handler = "0"
+cheat70_code = "3014E200#0E"
+
+cheat71_desc = "居城厩桥"
+cheat71_handler = "0"
+cheat71_code = "3014E200#0F"
+
+cheat72_desc = "居城沼田"
+cheat72_handler = "0"
+cheat72_code = "3014E200#10"
+
+cheat73_desc = "居城箕轮"
+cheat73_handler = "0"
+cheat73_code = "3014E200#11"
+
+cheat74_desc = "居城松井田"
+cheat74_handler = "0"
+cheat74_code = "3014E200#12"
+
+cheat75_desc = "居城馆林"
+cheat75_handler = "0"
+cheat75_code = "3014E200#13"
+
+cheat76_desc = "居城宇都宫"
+cheat76_handler = "0"
+cheat76_code = "3014E200#14"
+
+cheat77_desc = "居城唐泽山"
+cheat77_handler = "0"
+cheat77_code = "3014E200#15"
+
+cheat78_desc = "居城小山"
+cheat78_handler = "0"
+cheat78_code = "3014E200#16"
+
+cheat79_desc = "居城太田"
+cheat79_handler = "0"
+cheat79_code = "3014E200#17"
+
+cheat80_desc = "居城水户"
+cheat80_handler = "0"
+cheat80_code = "3014E200#18"
+
+cheat81_desc = "居城小田"
+cheat81_handler = "0"
+cheat81_code = "3014E200#19"
+
+cheat82_desc = "居城国府台"
+cheat82_handler = "0"
+cheat82_code = "3014E200#1A"
+
+cheat83_desc = "居城结"
+cheat83_handler = "0"
+cheat83_code = "3014E200#1B"
+
+cheat84_desc = "居城久留里"
+cheat84_handler = "0"
+cheat84_code = "3014E200#1C"
+
+cheat85_desc = "居城稻村"
+cheat85_handler = "0"
+cheat85_code = "3014E200#1D"
+
+cheat86_desc = "居城河越"
+cheat86_handler = "0"
+cheat86_code = "3014E200#1E"
+
+cheat87_desc = "居城忍"
+cheat87_handler = "0"
+cheat87_code = "3014E200#1F"
+
+cheat88_desc = "居城钵形"
+cheat88_handler = "0"
+cheat88_code = "3014E200#20"
+
+cheat89_desc = "居城江户"
+cheat89_handler = "0"
+cheat89_code = "3014E200#21"
+
+cheat90_desc = "居城泷川"
+cheat90_handler = "0"
+cheat90_code = "3014E200#22"
+
+cheat91_desc = "居城小田原"
+cheat91_handler = "0"
+cheat91_code = "3014E200#23"
+
+cheat92_desc = "居城玉绳"
+cheat92_handler = "0"
+cheat92_code = "3014E200#24"
+
+cheat93_desc = "居城津久井"
+cheat93_handler = "0"
+cheat93_code = "3014E200#25"
+
+cheat94_desc = "居城三浦"
+cheat94_handler = "0"
+cheat94_code = "3014E200#26"
+
+cheat95_desc = "居城韭山"
+cheat95_handler = "0"
+cheat95_code = "3014E200#27"
+
+cheat96_desc = "居城踯躅崎"
+cheat96_handler = "0"
+cheat96_code = "3014E200#28"
+
+cheat97_desc = "居城下山"
+cheat97_handler = "0"
+cheat97_code = "3014E200#29"
+
+cheat98_desc = "居城岩殿"
+cheat98_handler = "0"
+cheat98_code = "3014E200#2A"
+
+cheat99_desc = "居城韭崎"
+cheat99_handler = "0"
+cheat99_code = "3014E200#2B"
+
+cheat100_desc = "居城海津"
+cheat100_handler = "0"
+cheat100_code = "3014E200#2C"
+
+cheat101_desc = "居城饭山"
+cheat101_handler = "0"
+cheat101_code = "3014E200#2D"
+
+cheat102_desc = "居城小诸"
+cheat102_handler = "0"
+cheat102_code = "3014E200#2E"
+
+cheat103_desc = "居城木曾福岛"
+cheat103_handler = "0"
+cheat103_code = "3014E200#2F"
+
+cheat104_desc = "居城高远"
+cheat104_handler = "0"
+cheat104_code = "3014E200#30"
+
+cheat105_desc = "居城饭田"
+cheat105_handler = "0"
+cheat105_code = "3014E200#31"
+
+cheat106_desc = "居城春日山"
+cheat106_handler = "0"
+cheat106_code = "3014E200#32"
+
+cheat107_desc = "居城本庄"
+cheat107_handler = "0"
+cheat107_code = "3014E200#33"
+
+cheat108_desc = "居城新发田"
+cheat108_handler = "0"
+cheat108_code = "3014E200#34"
+
+cheat109_desc = "居城枥尾"
+cheat109_handler = "0"
+cheat109_code = "3014E200#35"
+
+cheat110_desc = "居城骏府"
+cheat110_handler = "0"
+cheat110_code = "3014E200#36"
+
+cheat111_desc = "居城深泽"
+cheat111_handler = "0"
+cheat111_code = "3014E200#37"
+
+cheat112_desc = "居城兴泽"
+cheat112_handler = "0"
+cheat112_code = "3014E200#38"
+
+cheat113_desc = "居城花泽"
+cheat113_handler = "0"
+cheat113_code = "3014E200#39"
+
+cheat114_desc = "居城滨松"
+cheat114_handler = "0"
+cheat114_code = "3014E200#3A"
+
+cheat115_desc = "居城二俣"
+cheat115_handler = "0"
+cheat115_code = "3014E200#3B"
+
+cheat116_desc = "居城挂川"
+cheat116_handler = "0"
+cheat116_code = "3014E200#3C"
+
+cheat117_desc = "居城高天神"
+cheat117_handler = "0"
+cheat117_code = "3014E200#3D"
+
+cheat118_desc = "居城冈崎"
+cheat118_handler = "0"
+cheat118_code = "3014E200#3E"
+
+cheat119_desc = "居城长"
+cheat119_handler = "0"
+cheat119_code = "3014E200#3F"
+
+cheat120_desc = "居城野田"
+cheat120_handler = "0"
+cheat120_code = "3014E200#40"
+
+cheat121_desc = "居城吉田"
+cheat121_handler = "0"
+cheat121_code = "3014E200#41"
+
+cheat122_desc = "居城清洲"
+cheat122_handler = "0"
+cheat122_code = "3014E200#42"
+
+cheat123_desc = "居城海"
+cheat123_handler = "0"
+cheat123_code = "3014E200#43"
+
+cheat124_desc = "居城小牧山"
+cheat124_handler = "0"
+cheat124_code = "3014E200#44"
+
+cheat125_desc = "居城犬山"
+cheat125_handler = "0"
+cheat125_code = "3014E200#45"
+
+cheat126_desc = "居城守山"
+cheat126_handler = "0"
+cheat126_code = "3014E200#46"
+
+cheat127_desc = "居城那古野"
+cheat127_handler = "0"
+cheat127_code = "3014E200#47"
+
+cheat128_desc = "居城稻叶山"
+cheat128_handler = "0"
+cheat128_code = "3014E200#48"
+
+cheat129_desc = "居城墨俣"
+cheat129_handler = "0"
+cheat129_code = "3014E200#49"
+
+cheat130_desc = "居城大垣"
+cheat130_handler = "0"
+cheat130_code = "3014E200#4A"
+
+cheat131_desc = "居城曾根"
+cheat131_handler = "0"
+cheat131_code = "3014E200#4B"
+
+cheat132_desc = "居城岩村"
+cheat132_handler = "0"
+cheat132_code = "3014E200#4C"
+
+cheat133_desc = "居城北方"
+cheat133_handler = "0"
+cheat133_code = "3014E200#4D"
+
+cheat134_desc = "居城安浓津"
+cheat134_handler = "0"
+cheat134_code = "3014E200#4E"
+
+cheat135_desc = "居城长岛"
+cheat135_handler = "0"
+cheat135_code = "3014E200#4F"
+
+cheat136_desc = "居城桑名"
+cheat136_handler = "0"
+cheat136_code = "3014E200#00"
+
+cheat137_desc = "居城伊势龟山"
+cheat137_handler = "0"
+cheat137_code = "3014E200#51"
+
+cheat138_desc = "居城大河内"
+cheat138_handler = "0"
+cheat138_code = "3014E200#52"
+
+cheat139_desc = "居城鸟羽"
+cheat139_handler = "0"
+cheat139_code = "3014E200#53"
+
+cheat140_desc = "居城富山"
+cheat140_handler = "0"
+cheat140_code = "3014E200#54"
+
+cheat141_desc = "居城鱼津"
+cheat141_handler = "0"
+cheat141_code = "3014E200#55"
+
+cheat142_desc = "居城七尾"
+cheat142_handler = "0"
+cheat142_code = "3014E200#56"
+
+cheat143_desc = "居城金泽"
+cheat143_handler = "0"
+cheat143_code = "3014E200#57"
+
+cheat144_desc = "居城小松"
+cheat144_handler = "0"
+cheat144_code = "3014E200#58"
+
+cheat145_desc = "居城大圣寺"
+cheat145_handler = "0"
+cheat145_code = "3014E200#59"
+
+cheat146_desc = "居城一乘谷"
+cheat146_handler = "0"
+cheat146_code = "3014E200#5A"
+
+cheat147_desc = "居城北之庄"
+cheat147_handler = "0"
+cheat147_code = "3014E200#5B"
+
+cheat148_desc = "居城大野"
+cheat148_handler = "0"
+cheat148_code = "3014E200#5C"
+
+cheat149_desc = "居城府中"
+cheat149_handler = "0"
+cheat149_code = "3014E200#5D"
+
+cheat150_desc = "居城金崎"
+cheat150_handler = "0"
+cheat150_code = "3014E200#5E"
+
+cheat151_desc = "居城小滨"
+cheat151_handler = "0"
+cheat151_code = "3014E200#5F"
+
+cheat152_desc = "居城小谷"
+cheat152_handler = "0"
+cheat152_code = "3014E200#60"
+
+cheat153_desc = "居城横山"
+cheat153_handler = "0"
+cheat153_code = "3014E200#61"
+
+cheat154_desc = "居城大沟"
+cheat154_handler = "0"
+cheat154_code = "3014E200#62"
+
+cheat155_desc = "居城佐和山"
+cheat155_handler = "0"
+cheat155_code = "3014E200#63"
+
+cheat156_desc = "居城今滨"
+cheat156_handler = "0"
+cheat156_code = "3014E200#64"
+
+cheat157_desc = "居城观音寺"
+cheat157_handler = "0"
+cheat157_code = "3014E200#65"
+
+cheat158_desc = "居城目加田"
+cheat158_handler = "0"
+cheat158_code = "3014E200#66"
+
+cheat159_desc = "居城长光寺"
+cheat159_handler = "0"
+cheat159_code = "3014E200#67"
+
+cheat160_desc = "居城日野"
+cheat160_handler = "0"
+cheat160_code = "3014E200#68"
+
+cheat161_desc = "居城阪本"
+cheat161_handler = "0"
+cheat161_code = "3014E200#69"
+
+cheat162_desc = "居城大和郡山"
+cheat162_handler = "0"
+cheat162_code = "3014E200#6A"
+
+cheat163_desc = "居城信贵山"
+cheat163_handler = "0"
+cheat163_code = "3014E200#6B"
+
+cheat164_desc = "居城多闻"
+cheat164_handler = "0"
+cheat164_code = "3014E200#6C"
+
+cheat165_desc = "居城伊贺上野"
+cheat165_handler = "0"
+cheat165_code = "3014E200#6D"
+
+cheat166_desc = "居城高取"
+cheat166_handler = "0"
+cheat166_code = "3014E200#6E"
+
+cheat167_desc = "居城二条"
+cheat167_handler = "0"
+cheat167_code = "3014E200#6F"
+
+cheat168_desc = "居城朽木谷"
+cheat168_handler = "0"
+cheat168_code = "3014E200#70"
+
+cheat169_desc = "居城岛"
+cheat169_handler = "0"
+cheat169_code = "3014E200#71"
+
+cheat170_desc = "居城胜龙寺"
+cheat170_handler = "0"
+cheat170_code = "3014E200#72"
+
+cheat171_desc = "居城八上"
+cheat171_handler = "0"
+cheat171_code = "3014E200#73"
+
+cheat172_desc = "居城宫津"
+cheat172_handler = "0"
+cheat172_code = "3014E200#74"
+
+cheat173_desc = "居城园部"
+cheat173_handler = "0"
+cheat173_code = "3014E200#75"
+
+cheat174_desc = "居城福知山"
+cheat174_handler = "0"
+cheat174_code = "3014E200#76"
+
+cheat175_desc = "居城丹波龟山"
+cheat175_handler = "0"
+cheat175_code = "3014E200#77"
+
+cheat176_desc = "居城芥川"
+cheat176_handler = "0"
+cheat176_code = "3014E200#78"
+
+cheat177_desc = "居城高"
+cheat177_handler = "0"
+cheat177_code = "3014E200#79"
+
+cheat178_desc = "居城茨木"
+cheat178_handler = "0"
+cheat178_code = "3014E200#80"
+
+cheat179_desc = "居城伊丹"
+cheat179_handler = "0"
+cheat179_code = "3014E200#81"
+
+cheat180_desc = "居城本愿寺"
+cheat180_handler = "0"
+cheat180_code = "3014E200#82"
+
+cheat181_desc = "能力点"
+cheat181_handler = "0"
+cheat181_code = "30140CDC#FF"
+
+cheat182_desc = "拥有全阵形，战术"
+cheat182_handler = "0"
+cheat182_code = "3014C052#ff;3014C053#ff"
+
+cheat183_desc = "秀吉体力"
+cheat183_handler = "0"
+cheat183_code = "3014E1FC#64"
+
+cheat184_desc = "疲劳度"
+cheat184_handler = "0"
+cheat184_code = "30141C02#1"
+
+cheat185_desc = "信赖度"
+cheat185_handler = "0"
+cheat185_code = "3014E202#FF;3014E203#FF"
+
+cheat186_desc = "秀吉能力"
+cheat186_handler = "0"
+cheat186_code = "3014E1E2#64;3014E1E3#64;3014E1E4#64;3014E1E5#64;3014E1E6#64;3014E1E7#FF;3014E1E8#FF;3014E1E9#FF"
+
+cheat187_desc = "新武将体力"
+cheat187_handler = "0"
+cheat187_code = "30152DAC#64"
+
+cheat188_desc = "小一郎"
+cheat188_handler = "0"
+cheat188_code = "3014E2FA#64;3014E2FC#64;3014E2FE#64;3014E2FB#64;3014E2FD#64"
+
+cheat189_desc = "半兵卫"
+cheat189_handler = "0"
+cheat189_code = "30150323#64;30150324#64;30150325#64;30150326#64;30150322#64"
+
+cheat190_desc = "前野长康"
+cheat190_handler = "0"
+cheat190_code = "3014E094#64;3014E095#64;3014E096#64;3014E093#64;3014E092#64"
+
+cheat191_desc = "小六"
+cheat191_handler = "0"
+cheat191_code = "3014E022#64;3014E023#64;3014E024#64;3014E025#64;3014E026#64"
+
+cheat192_desc = "山中"
+cheat192_handler = "0"
+cheat192_code = "301515F2#64;301515F3#64;301515F4#64;301515F5#64;301515F6#64"
+
+cheat193_desc = "真田昌幸"
+cheat193_handler = "0"
+cheat193_code = "3014F672#64;3014F673#64;3014F674#64;3014F675#64;3014F676#64"
+
+cheat194_desc = "高板昌信"
+cheat194_handler = "0"
+cheat194_code = "3014F3D2#64;3014F3D3#64;3014F3D4#64;3014F3D5#64;3014F3D6#64"
+
+cheat195_desc = "杂贺孙市"
+cheat195_handler = "0"
+cheat195_code = "3015131C#64;3015131A#64;3015131B#64;3015131D#64;3015131E#64"
+
+cheat196_desc = "铃木重朝"
+cheat196_handler = "0"
+cheat196_code = "30151352#64;30151353#64;30151354#64;30151355#64;30151356#64"
+
+cheat197_desc = "秋山信友"
+cheat197_handler = "0"
+cheat197_code = "3014F47A#64;3014F47B#64;3014F47C#64;3014F47D#64;3014F47E#64"
+
+cheat198_desc = "山县昌景"
+cheat198_handler = "0"
+cheat198_code = "3014F442#64;3014F443#64;3014F444#64;3014F445#64;3014F446#64"
+
+cheat199_desc = "马场信房"
+cheat199_handler = "0"
+cheat199_code = "3014F212#64;3014F213#64;3014F214#64;3014F215#64;3014F216#64"
+
+cheat200_desc = "武田信繁"
+cheat200_handler = "0"
+cheat200_code = "3014F39A#64;3014F39B#64;3014F39C#64;3014F39D#64;3014F39E#64"
+
+cheat201_desc = "细川藤孝"
+cheat201_handler = "0"
+cheat201_code = "30150C1A#64;30150C1B#64;30150C1C#64;30150C1D#64;30150C1E#64"
+
+cheat202_desc = "吉川经家"
+cheat202_handler = "0"
+cheat202_code = "30151B6A#64;30151B6B#64;30151B6C#64;30151B6D#64;30151B6E#64;30151B6F#FF;30151B70#FF;30151B71#0F"
+
+cheat203_desc = "齐藤朝信"
+cheat203_handler = "0"
+cheat203_code = "3014F7FA#64;3014F7FB#64;3014F7FC#64;3014F7FD#64;3014F7FE#64;3014F7FF#FF;3014F800#FF;3014F801#0F"
+
+cheat204_desc = "饭富虎昌"
+cheat204_handler = "0"
+cheat204_code = "3014F24A#64;3014F24B#64;3014F24C#64;3014F24D#64;3014F24E#64;3014F24F#FF;3014F250#FF;3014F251#0F"
+
+cheat205_desc = "下间赖廉"
+cheat205_handler = "0"
+cheat205_code = "30150B72#64;30150B73#64;30150B74#64;30150B75#64;30150B76#64;30150B77#FF;30150B78#FF;30150B79#FF"
+
+cheat206_desc = "荒木村重"
+cheat206_handler = "0"
+cheat206_code = "3015123A#64;3015123B#64;3015123C#64;3015123D#64;3015123E#64;3015123F#FF;30151240#FF;30151241#0F"
+
+cheat207_desc = "石村数正"
+cheat207_handler = "0"
+cheat207_code = "3014FFA2#64;3014FFA3#64;3014FFA4#64;3014FFA5#64;3014FFA6#64;3014FFA7#FF;3014FFA8#FF;3014FFA9#0F"
+
+cheat208_desc = "前田利家"
+cheat208_handler = "0"
+cheat208_code = "3014E252#64;3014E253#64;3014E254#64;3014E255#64;3014E256#64;3014E257#FF;3014E258#FF;3014E259#0F"
+
+cheats = 209

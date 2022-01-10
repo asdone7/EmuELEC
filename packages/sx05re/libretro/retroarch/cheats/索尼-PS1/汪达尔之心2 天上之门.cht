@@ -1,0 +1,61 @@
+cheat0_desc = "Max Geil"
+cheat0_handler = "0"
+cheat0_code = "80105F00#967F;80105F02#0098"
+
+cheat1_desc = "1 Fight Level Up"
+cheat1_handler = "0"
+cheat1_code = "B0140080#00000000;3011401E#0063"
+
+cheat2_desc = "MONEY多多"
+cheat2_handler = "0"
+cheat2_code = "80E05F00#E0FF;80E05F02#05F5"
+
+cheat3_desc = "快速升級"
+cheat3_handler = "0"
+cheat3_code = "D005D618#0017;8005D618#0001;D005B654#0001;8005B654#0063"
+
+cheat4_desc = "走一步升一级"
+cheat4_handler = "0"
+cheat4_code = "B0140080#00000000;3011401E#0064"
+
+cheat5_desc = "Level 99"
+cheat5_handler = "0"
+cheat5_code = "B0140080#00000000;3011401C#0063"
+
+cheat6_desc = "Max HP"
+cheat6_handler = "0"
+cheat6_code = "B0140080#00000000;8011402C#03E7;B0140080#00000000;8011402E#03E7;B0140080#00000000;80114032#03E7"
+
+cheat7_desc = "Max MP"
+cheat7_handler = "0"
+cheat7_code = "B0140080#00000000;80114034#03E7;B0140080#00000000;80114036#03E7;B0140080#00000000;8011403A#03E7"
+
+cheat8_desc = "Max EP"
+cheat8_handler = "0"
+cheat8_code = "B0140080#00000000;8011403C#03E7;B0140080#00000000;8011403E#03E7;B0140080#00000000;80114042#03E7"
+
+cheat9_desc = "Atk R"
+cheat9_handler = "0"
+cheat9_code = "B0140080#00000000;80114044#03E7"
+
+cheat10_desc = "Atk L"
+cheat10_handler = "0"
+cheat10_code = "B0140080#00000000;80114046#03E7"
+
+cheat11_desc = "Agi"
+cheat11_handler = "0"
+cheat11_code = "B0140080#00000000;8011404A#03E7"
+
+cheat12_desc = "Dex"
+cheat12_handler = "0"
+cheat12_code = "B0140080#00000000;8011404C#03E7"
+
+cheat13_desc = "Luk"
+cheat13_handler = "0"
+cheat13_code = "B0140080#00000000;8011404E#03E7"
+
+cheat14_desc = "Weight"
+cheat14_handler = "0"
+cheat14_code = "B0140080#00000000;80114056#0000"
+
+cheats = 15

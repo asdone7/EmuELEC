@@ -1,0 +1,21 @@
+cheat0_desc = "Money"
+cheat0_handler = "0"
+cheat0_code = "8010E110#423F;8010E112#000F"
+
+cheat1_desc = "LV up"
+cheat1_handler = "0"
+cheat1_code = "E010E5B6#FFFF0004;B0050030#00000000;8010E5C8#0063;B0050030#00000000;8010E5E0#0063"
+
+cheat2_desc = "大量金錢"
+cheat2_handler = "0"
+cheat2_code = "8018E110#967F;8010E112#0098"
+
+cheat3_desc = "自由移動"
+cheat3_handler = "0"
+cheat3_code = "D0167F72#2442;80167F70#0000"
+
+cheat4_desc = "全道具"
+cheat4_handler = "0"
+cheat4_code = "50003904#0000;80110C7A#0063;50000B02#0000;80112672#0063"
+
+cheats = 5

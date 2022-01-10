@@ -1,0 +1,21 @@
+cheat0_desc = "金钱无限、等级狂升"
+cheat0_handler = "0"
+cheat0_code = "80144F4E#000F;8014632A#000F"
+
+cheat1_desc = "金钱无限、等级狂升MONEY"
+cheat1_handler = "0"
+cheat1_code = "80144F4E#000F"
+
+cheat2_desc = "金钱无限、等级狂升EXP"
+cheat2_handler = "0"
+cheat2_code = "8014632A#000F"
+
+cheat3_desc = "全道具９９个"
+cheat3_handler = "0"
+cheat3_code = "B2000001#00000000,30145248#0063;B05B0001#00000001,30145048#0001;B0330001#00000001,301451C8#0001;B0520001#00000001,301450C8#0001;B0430001#00000001,30145148#0001"
+
+cheat4_desc = "不会遇敌"
+cheat4_handler = "0"
+cheat4_code = "80143F22#0000"
+
+cheats = 5

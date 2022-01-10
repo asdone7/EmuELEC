@@ -1,0 +1,49 @@
+cheat0_desc = "金錢xx"
+cheat0_handler = "0"
+cheat0_code = "800CDA7C#XXXX;800CDA7E#XXXX"
+
+cheat1_desc = "近接xx"
+cheat1_handler = "0"
+cheat1_code = "800CD244#00XX"
+
+cheat2_desc = "間接xx"
+cheat2_handler = "0"
+cheat2_code = "800CD246#00XX"
+
+cheat3_desc = "防御xx"
+cheat3_handler = "0"
+cheat3_code = "800CD248#00XX"
+
+cheat4_desc = "命中xx"
+cheat4_handler = "0"
+cheat4_code = "800CD24B#00XX"
+
+cheat5_desc = "回避xx"
+cheat5_handler = "0"
+cheat5_code = "800CD24C#00XX"
+
+cheat6_desc = "PLANNER最大xx"
+cheat6_handler = "0"
+cheat6_code = "800CD24A#00XX"
+
+cheat7_desc = "LVxx"
+cheat7_handler = "0"
+cheat7_code = "800CD601#00XX"
+
+cheat8_desc = "EXPxx"
+cheat8_handler = "0"
+cheat8_code = "800CD606#00XX"
+
+cheat9_desc = "PLANNER現在xx"
+cheat9_handler = "0"
+cheat9_code = "800CD603#00XX"
+
+cheat10_desc = "人物變更xx"
+cheat10_handler = "0"
+cheat10_code = "800CD5FD#00XX"
+
+cheat11_desc = "聖靈機變更xx"
+cheat11_handler = "0"
+cheat11_code = "800CD5FE#00XX"
+
+cheats = 12

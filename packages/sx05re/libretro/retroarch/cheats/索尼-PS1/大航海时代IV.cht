@@ -1,0 +1,2733 @@
+cheat0_desc = "HP400"
+cheat0_handler = "0"
+cheat0_code = "801D2D14#190"
+
+cheat1_desc = "体力255"
+cheat1_handler = "0"
+cheat1_code = "301D2D04#FF"
+
+cheat2_desc = "敏捷255"
+cheat2_handler = "0"
+cheat2_code = "301D2D05#FF"
+
+cheat3_desc = "魅力255"
+cheat3_handler = "0"
+cheat3_code = "301D2D06#FF"
+
+cheat4_desc = "知力255"
+cheat4_handler = "0"
+cheat4_code = "301D2D07#FF"
+
+cheat5_desc = "精神255"
+cheat5_handler = "0"
+cheat5_code = "301D2D08#FF"
+
+cheat6_desc = "运势255"
+cheat6_handler = "0"
+cheat6_code = "301D2D09#FF"
+
+cheat7_desc = "武器栏漆黑的双刃长剑"
+cheat7_handler = "0"
+cheat7_code = "301D2D17#18"
+
+cheat8_desc = "武器栏奥拉孔剑"
+cheat8_handler = "0"
+cheat8_code = "301D2D17#19"
+
+cheat9_desc = "武器栏罗恩格林的佩剑"
+cheat9_handler = "0"
+cheat9_code = "301D2D17#1A"
+
+cheat10_desc = "武器栏残月弯刀"
+cheat10_handler = "0"
+cheat10_code = "301D2D17#1B"
+
+cheat11_desc = "武器栏勇者的三日月刀"
+cheat11_handler = "0"
+cheat11_code = "301D2D17#1C"
+
+cheat12_desc = "武器栏黄金军刀"
+cheat12_handler = "0"
+cheat12_code = "301D2D17#1D"
+
+cheat13_desc = "武器栏勇气宝剑(+27)"
+cheat13_handler = "0"
+cheat13_code = "301D2D17#1E"
+
+cheat14_desc = "武器栏印度琉璃剑(+32)"
+cheat14_handler = "0"
+cheat14_code = "301D2D17#1F"
+
+cheat15_desc = "武器栏荡寇双刃剑(+47)"
+cheat15_handler = "0"
+cheat15_code = "301D2D17#20"
+
+cheat16_desc = "武器栏忠诚偃月刀(+30)"
+cheat16_handler = "0"
+cheat16_code = "301D2D17#21"
+
+cheat17_desc = "武器栏堕落天使短剑(+36)"
+cheat17_handler = "0"
+cheat17_code = "301D2D17#22"
+
+cheat18_desc = "武器栏银光双手剑(+33)"
+cheat18_handler = "0"
+cheat18_code = "301D2D17#23"
+
+cheat19_desc = "武器栏浴血月牙刀(+43)"
+cheat19_handler = "0"
+cheat19_code = "301D2D17#24"
+
+cheat20_desc = "武器栏猷太的魔剑(+50)"
+cheat20_handler = "0"
+cheat20_code = "301D2D17#25"
+
+cheat21_desc = "武器栏赵子龙的枪(+52)"
+cheat21_handler = "0"
+cheat21_code = "301D2D17#26"
+
+cheat22_desc = "武器栏赎罪的镇魂剑(+40)"
+cheat22_handler = "0"
+cheat22_code = "301D2D17#27"
+
+cheat23_desc = "武器栏红发女海盗的宝剑(+41)"
+cheat23_handler = "0"
+cheat23_code = "301D2D17#28"
+
+cheat24_desc = "武器栏弥诺陶洛斯的大斧(+37)"
+cheat24_handler = "0"
+cheat24_code = "301D2D17#29"
+
+cheat25_desc = "武器栏鬼怪的菜刀(+19)"
+cheat25_handler = "0"
+cheat25_code = "301D2D17#2A"
+
+cheat26_desc = "武器栏托拉塔克小刀(+31)"
+cheat26_handler = "0"
+cheat26_code = "301D2D17#2B"
+
+cheat27_desc = "武器栏斧枪(+45)"
+cheat27_handler = "0"
+cheat27_code = "301D2D17#2C"
+
+cheat28_desc = "武器栏忽必烈的大刀(+48)"
+cheat28_handler = "0"
+cheat28_code = "301D2D17#2D"
+
+cheat29_desc = "武器栏战神的圣枪(+54)"
+cheat29_handler = "0"
+cheat29_code = "301D2D17#2E"
+
+cheat30_desc = "武器栏圣剑厄克斯卡里巴(+57)"
+cheat30_handler = "0"
+cheat30_code = "301D2D17#2F"
+
+cheat31_desc = "武器栏村正妖刀(+60)"
+cheat31_handler = "0"
+cheat31_code = "301D2D17#30"
+
+cheat32_desc = "防具栏苍蓝橡木盾"
+cheat32_handler = "0"
+cheat32_code = "301D2D18#31"
+
+cheat33_desc = "防具栏犰狳的铁甲"
+cheat33_handler = "0"
+cheat33_code = "301D2D18#32"
+
+cheat34_desc = "防具栏银兜"
+cheat34_handler = "0"
+cheat34_code = "301D2D18#33"
+
+cheat35_desc = "防具栏不死鸟的铠甲"
+cheat35_handler = "0"
+cheat35_code = "301D2D18#34"
+
+cheat36_desc = "防具栏大象龟的盾"
+cheat36_handler = "0"
+cheat36_code = "301D2D18#35"
+
+cheat37_desc = "防具栏精灵服装"
+cheat37_handler = "0"
+cheat37_code = "301D2D18#36"
+
+cheat38_desc = "防具栏断刃之武艺服"
+cheat38_handler = "0"
+cheat38_code = "301D2D18#37"
+
+cheat39_desc = "防具栏凉爽的铠衣"
+cheat39_handler = "0"
+cheat39_code = "301D2D18#38"
+
+cheat40_desc = "防具栏卡涅姆勇者的盾"
+cheat40_handler = "0"
+cheat40_code = "301D2D18#39"
+
+cheat41_desc = "防具栏狂徒骑士的铠甲"
+cheat41_handler = "0"
+cheat41_code = "301D2D18#3A"
+
+cheat42_desc = "防具栏深红连环神甲"
+cheat42_handler = "0"
+cheat42_code = "301D2D18#3B"
+
+cheat43_desc = "防具栏帖木儿的锁战袍"
+cheat43_handler = "0"
+cheat43_code = "301D2D18#3C"
+
+cheat44_desc = "防具栏孔雀袍"
+cheat44_handler = "0"
+cheat44_code = "301D2D18#3D"
+
+cheat45_desc = "防具栏图拉战士的头盔"
+cheat45_handler = "0"
+cheat45_code = "301D2D18#3E"
+
+cheat46_desc = "防具栏忍者的黑装束"
+cheat46_handler = "0"
+cheat46_code = "301D2D18#3F"
+
+cheat47_desc = "防具栏琥珀色铠甲"
+cheat47_handler = "0"
+cheat47_code = "301D2D18#40"
+
+cheat48_desc = "防具栏有迦戈神灵的护身衣"
+cheat48_handler = "0"
+cheat48_code = "301D2D18#41"
+
+cheat49_desc = "防具栏背德魔铠"
+cheat49_handler = "0"
+cheat49_code = "301D2D18#42"
+
+cheat50_desc = "防具栏皇女的长袍"
+cheat50_handler = "0"
+cheat50_code = "301D2D18#43"
+
+cheat51_desc = "防具栏教经的铠甲护腿"
+cheat51_handler = "0"
+cheat51_code = "301D2D18#44"
+
+cheat52_desc = "防具栏艾提拉套装"
+cheat52_handler = "0"
+cheat52_code = "301D2D18#45"
+
+cheat53_desc = "防具栏美杜沙的盾"
+cheat53_handler = "0"
+cheat53_code = "301D2D18#46"
+
+cheat54_desc = "防具栏撒拉丁的银铠"
+cheat54_handler = "0"
+cheat54_code = "301D2D18#47"
+
+cheat55_desc = "防具栏卡尔·马提甲铠"
+cheat55_handler = "0"
+cheat55_code = "301D2D18#48"
+
+cheat56_desc = "防具栏密涅瓦的盾"
+cheat56_handler = "0"
+cheat56_code = "301D2D18#49"
+
+cheat57_desc = "道具1魔法的皮手套"
+cheat57_handler = "0"
+cheat57_code = "301D2D19#4A"
+
+cheat58_desc = "道具1精励的粗绳"
+cheat58_handler = "0"
+cheat58_code = "301D2D19#4B"
+
+cheat59_desc = "道具1天河星图"
+cheat59_handler = "0"
+cheat59_code = "301D2D19#4C"
+
+cheat60_desc = "道具1星影的天体仪"
+cheat60_handler = "0"
+cheat60_code = "301D2D19#4D"
+
+cheat61_desc = "道具1贺拉提斯的诗集"
+cheat61_handler = "0"
+cheat61_code = "301D2D19#4E"
+
+cheat62_desc = "道具1天方夜谭"
+cheat62_handler = "0"
+cheat62_code = "301D2D19#4F"
+
+cheat63_desc = "道具1世界奇闻集"
+cheat63_handler = "0"
+cheat63_code = "301D2D19#50"
+
+cheat64_desc = "道具1黄金圆规"
+cheat64_handler = "0"
+cheat64_code = "301D2D19#51"
+
+cheat65_desc = "道具1怀表"
+cheat65_handler = "0"
+cheat65_code = "301D2D19#52"
+
+cheat66_desc = "道具1洛克的驾船指南书"
+cheat66_handler = "0"
+cheat66_code = "301D2D19#53"
+
+cheat67_desc = "道具1天佑的手镯"
+cheat67_handler = "0"
+cheat67_code = "301D2D19#54"
+
+cheat68_desc = "道具1向导的拐杖"
+cheat68_handler = "0"
+cheat68_code = "301D2D19#55"
+
+cheat69_desc = "道具1战士们的小鹅笛"
+cheat69_handler = "0"
+cheat69_code = "301D2D19#56"
+
+cheat70_desc = "道具1豪言壮语的鸟嘴"
+cheat70_handler = "0"
+cheat70_code = "301D2D19#57"
+
+cheat71_desc = "道具1东方见闻录"
+cheat71_handler = "0"
+cheat71_code = "301D2D19#58"
+
+cheat72_desc = "道具1战鼓"
+cheat72_handler = "0"
+cheat72_code = "301D2D19#59"
+
+cheat73_desc = "道具1波塞冬的吼叫"
+cheat73_handler = "0"
+cheat73_code = "301D2D19#5A"
+
+cheat74_desc = "道具1高卢战记"
+cheat74_handler = "0"
+cheat74_code = "301D2D19#5B"
+
+cheat75_desc = "道具1亚历山大远征记"
+cheat75_handler = "0"
+cheat75_code = "301D2D19#5C"
+
+cheat76_desc = "道具1奇迹的炸弹项链"
+cheat76_handler = "0"
+cheat76_code = "301D2D19#5D"
+
+cheat77_desc = "道具1精制火药的秘传书"
+cheat77_handler = "0"
+cheat77_code = "301D2D19#5E"
+
+cheat78_desc = "道具1射穿魔鬼的箭"
+cheat78_handler = "0"
+cheat78_code = "301D2D19#5F"
+
+cheat79_desc = "道具1狮子牙的锯子"
+cheat79_handler = "0"
+cheat79_code = "301D2D19#60"
+
+cheat80_desc = "道具1菲狄亚斯的凿子"
+cheat80_handler = "0"
+cheat80_code = "301D2D19#61"
+
+cheat81_desc = "道具1不用磨刀的刨子"
+cheat81_handler = "0"
+cheat81_code = "301D2D19#62"
+
+cheat82_desc = "道具1赫洛菲洛斯的医学书"
+cheat82_handler = "0"
+cheat82_code = "301D2D19#63"
+
+cheat83_desc = "道具1达·文西的人体解剖图"
+cheat83_handler = "0"
+cheat83_code = "301D2D19#64"
+
+cheat84_desc = "道具1医学典范"
+cheat84_handler = "0"
+cheat84_code = "301D2D19#65"
+
+cheat85_desc = "道具1赫斯提亚的锅"
+cheat85_handler = "0"
+cheat85_code = "301D2D19#66"
+
+cheat86_desc = "道具1粉红色的围裙"
+cheat86_handler = "0"
+cheat86_code = "301D2D19#67"
+
+cheat87_desc = "道具1带纱布的口罩"
+cheat87_handler = "0"
+cheat87_code = "301D2D19#68"
+
+cheat88_desc = "道具1讲究的长统鞋"
+cheat88_handler = "0"
+cheat88_code = "301D2D19#69"
+
+cheat89_desc = "道具1格列高利斯的皇冠"
+cheat89_handler = "0"
+cheat89_code = "301D2D19#6A"
+
+cheat90_desc = "道具1有插图的圣经"
+cheat90_handler = "0"
+cheat90_code = "301D2D19#6B"
+
+cheat91_desc = "道具1古代十字架"
+cheat91_handler = "0"
+cheat91_code = "301D2D19#6C"
+
+cheat92_desc = "道具1孙子兵法书"
+cheat92_handler = "0"
+cheat92_code = "301D2D19#6D"
+
+cheat93_desc = "道具1古伏塔的灵兽"
+cheat93_handler = "0"
+cheat93_code = "301D2D19#6E"
+
+cheat94_desc = "道具1和尼拔战记"
+cheat94_handler = "0"
+cheat94_code = "301D2D19#6F"
+
+cheat95_desc = "道具1纪伊国屋的算盘"
+cheat95_handler = "0"
+cheat95_code = "301D2D19#70"
+
+cheat96_desc = "道具1维萨斯的天枰"
+cheat96_handler = "0"
+cheat96_code = "301D2D19#71"
+
+cheat97_desc = "道具1罗盘"
+cheat97_handler = "0"
+cheat97_code = "301D2D19#7C"
+
+cheat98_desc = "道具1六分仪"
+cheat98_handler = "0"
+cheat98_code = "301D2D19#7D"
+
+cheat99_desc = "道具1阿里斯塔克斯望远镜"
+cheat99_handler = "0"
+cheat99_code = "301D2D19#7E"
+
+cheat100_desc = "道具2魔法的皮手套"
+cheat100_handler = "0"
+cheat100_code = "301D2D1A#4A"
+
+cheat101_desc = "道具2精励的粗绳"
+cheat101_handler = "0"
+cheat101_code = "301D2D1A#4B"
+
+cheat102_desc = "道具2天河星图"
+cheat102_handler = "0"
+cheat102_code = "301D2D1A#4C"
+
+cheat103_desc = "道具2星影的天体仪"
+cheat103_handler = "0"
+cheat103_code = "301D2D1A#4D"
+
+cheat104_desc = "道具2贺拉提斯的诗集"
+cheat104_handler = "0"
+cheat104_code = "301D2D1A#4E"
+
+cheat105_desc = "道具2天方夜谭"
+cheat105_handler = "0"
+cheat105_code = "301D2D1A#4F"
+
+cheat106_desc = "道具2世界奇闻集"
+cheat106_handler = "0"
+cheat106_code = "301D2D1A#50"
+
+cheat107_desc = "道具2黄金圆规"
+cheat107_handler = "0"
+cheat107_code = "301D2D1A#51"
+
+cheat108_desc = "道具2怀表"
+cheat108_handler = "0"
+cheat108_code = "301D2D1A#52"
+
+cheat109_desc = "道具2洛克的驾船指南书"
+cheat109_handler = "0"
+cheat109_code = "301D2D1A#53"
+
+cheat110_desc = "道具2天佑的手镯"
+cheat110_handler = "0"
+cheat110_code = "301D2D1A#54"
+
+cheat111_desc = "道具2向导的拐杖"
+cheat111_handler = "0"
+cheat111_code = "301D2D1A#55"
+
+cheat112_desc = "道具2战士们的小鹅笛"
+cheat112_handler = "0"
+cheat112_code = "301D2D1A#56"
+
+cheat113_desc = "道具2豪言壮语的鸟嘴"
+cheat113_handler = "0"
+cheat113_code = "301D2D1A#57"
+
+cheat114_desc = "道具2东方见闻录"
+cheat114_handler = "0"
+cheat114_code = "301D2D1A#58"
+
+cheat115_desc = "道具2战鼓"
+cheat115_handler = "0"
+cheat115_code = "301D2D1A#59"
+
+cheat116_desc = "道具2波塞冬的吼叫"
+cheat116_handler = "0"
+cheat116_code = "301D2D1A#5A"
+
+cheat117_desc = "道具2高卢战记"
+cheat117_handler = "0"
+cheat117_code = "301D2D1A#5B"
+
+cheat118_desc = "道具2亚历山大远征记"
+cheat118_handler = "0"
+cheat118_code = "301D2D1A#5C"
+
+cheat119_desc = "道具2奇迹的炸弹项链"
+cheat119_handler = "0"
+cheat119_code = "301D2D1A#5D"
+
+cheat120_desc = "道具2精制火药的秘传书"
+cheat120_handler = "0"
+cheat120_code = "301D2D1A#5E"
+
+cheat121_desc = "道具2射穿魔鬼的箭"
+cheat121_handler = "0"
+cheat121_code = "301D2D1A#5F"
+
+cheat122_desc = "道具2狮子牙的锯子"
+cheat122_handler = "0"
+cheat122_code = "301D2D1A#60"
+
+cheat123_desc = "道具2菲狄亚斯的凿子"
+cheat123_handler = "0"
+cheat123_code = "301D2D1A#61"
+
+cheat124_desc = "道具2不用磨刀的刨子"
+cheat124_handler = "0"
+cheat124_code = "301D2D1A#62"
+
+cheat125_desc = "道具2赫洛菲洛斯的医学书"
+cheat125_handler = "0"
+cheat125_code = "301D2D1A#63"
+
+cheat126_desc = "道具2达·文西的人体解剖图"
+cheat126_handler = "0"
+cheat126_code = "301D2D1A#64"
+
+cheat127_desc = "道具2医学典范"
+cheat127_handler = "0"
+cheat127_code = "301D2D1A#65"
+
+cheat128_desc = "道具2赫斯提亚的锅"
+cheat128_handler = "0"
+cheat128_code = "301D2D1A#66"
+
+cheat129_desc = "道具2粉红色的围裙"
+cheat129_handler = "0"
+cheat129_code = "301D2D1A#67"
+
+cheat130_desc = "道具2带纱布的口罩"
+cheat130_handler = "0"
+cheat130_code = "301D2D1A#68"
+
+cheat131_desc = "道具2讲究的长统鞋"
+cheat131_handler = "0"
+cheat131_code = "301D2D1A#69"
+
+cheat132_desc = "道具2格列高利斯的皇冠"
+cheat132_handler = "0"
+cheat132_code = "301D2D1A#6A"
+
+cheat133_desc = "道具2有插图的圣经"
+cheat133_handler = "0"
+cheat133_code = "301D2D1A#6B"
+
+cheat134_desc = "道具2古代十字架"
+cheat134_handler = "0"
+cheat134_code = "301D2D1A#6C"
+
+cheat135_desc = "道具2孙子兵法书"
+cheat135_handler = "0"
+cheat135_code = "301D2D1A#6D"
+
+cheat136_desc = "道具2古伏塔的灵兽"
+cheat136_handler = "0"
+cheat136_code = "301D2D1A#6E"
+
+cheat137_desc = "道具2和尼拔战记"
+cheat137_handler = "0"
+cheat137_code = "301D2D1A#6F"
+
+cheat138_desc = "道具2纪伊国屋的算盘"
+cheat138_handler = "0"
+cheat138_code = "301D2D1A#70"
+
+cheat139_desc = "道具2维萨斯的天枰"
+cheat139_handler = "0"
+cheat139_code = "301D2D1A#71"
+
+cheat140_desc = "道具2罗盘"
+cheat140_handler = "0"
+cheat140_code = "301D2D1A#7C"
+
+cheat141_desc = "道具2六分仪"
+cheat141_handler = "0"
+cheat141_code = "301D2D1A#7D"
+
+cheat142_desc = "道具2阿里斯塔克斯望远镜"
+cheat142_handler = "0"
+cheat142_code = "301D2D1A#7E"
+
+cheat143_desc = "道具3魔法的皮手套"
+cheat143_handler = "0"
+cheat143_code = "301D2D1B#4A"
+
+cheat144_desc = "道具3精励的粗绳"
+cheat144_handler = "0"
+cheat144_code = "301D2D1B#4B"
+
+cheat145_desc = "道具3天河星图"
+cheat145_handler = "0"
+cheat145_code = "301D2D1B#4C"
+
+cheat146_desc = "道具3星影的天体仪"
+cheat146_handler = "0"
+cheat146_code = "301D2D1B#4D"
+
+cheat147_desc = "道具3贺拉提斯的诗集"
+cheat147_handler = "0"
+cheat147_code = "301D2D1B#4E"
+
+cheat148_desc = "道具3天方夜谭"
+cheat148_handler = "0"
+cheat148_code = "301D2D1B#4F"
+
+cheat149_desc = "道具3世界奇闻集"
+cheat149_handler = "0"
+cheat149_code = "301D2D1B#50"
+
+cheat150_desc = "道具3黄金圆规"
+cheat150_handler = "0"
+cheat150_code = "301D2D1B#51"
+
+cheat151_desc = "道具3怀表"
+cheat151_handler = "0"
+cheat151_code = "301D2D1B#52"
+
+cheat152_desc = "道具3洛克的驾船指南书"
+cheat152_handler = "0"
+cheat152_code = "301D2D1B#53"
+
+cheat153_desc = "道具3天佑的手镯"
+cheat153_handler = "0"
+cheat153_code = "301D2D1B#54"
+
+cheat154_desc = "道具3向导的拐杖"
+cheat154_handler = "0"
+cheat154_code = "301D2D1B#55"
+
+cheat155_desc = "道具3战士们的小鹅笛"
+cheat155_handler = "0"
+cheat155_code = "301D2D1B#56"
+
+cheat156_desc = "道具3豪言壮语的鸟嘴"
+cheat156_handler = "0"
+cheat156_code = "301D2D1B#57"
+
+cheat157_desc = "道具3东方见闻录"
+cheat157_handler = "0"
+cheat157_code = "301D2D1B#58"
+
+cheat158_desc = "道具3战鼓"
+cheat158_handler = "0"
+cheat158_code = "301D2D1B#59"
+
+cheat159_desc = "道具3波塞冬的吼叫"
+cheat159_handler = "0"
+cheat159_code = "301D2D1B#5A"
+
+cheat160_desc = "道具3高卢战记"
+cheat160_handler = "0"
+cheat160_code = "301D2D1B#5B"
+
+cheat161_desc = "道具3亚历山大远征记"
+cheat161_handler = "0"
+cheat161_code = "301D2D1B#5C"
+
+cheat162_desc = "道具3奇迹的炸弹项链"
+cheat162_handler = "0"
+cheat162_code = "301D2D1B#5D"
+
+cheat163_desc = "道具3精制火药的秘传书"
+cheat163_handler = "0"
+cheat163_code = "301D2D1B#5E"
+
+cheat164_desc = "道具3射穿魔鬼的箭"
+cheat164_handler = "0"
+cheat164_code = "301D2D1B#5F"
+
+cheat165_desc = "道具3狮子牙的锯子"
+cheat165_handler = "0"
+cheat165_code = "301D2D1B#60"
+
+cheat166_desc = "道具3菲狄亚斯的凿子"
+cheat166_handler = "0"
+cheat166_code = "301D2D1B#61"
+
+cheat167_desc = "道具3不用磨刀的刨子"
+cheat167_handler = "0"
+cheat167_code = "301D2D1B#62"
+
+cheat168_desc = "道具3赫洛菲洛斯的医学书"
+cheat168_handler = "0"
+cheat168_code = "301D2D1B#63"
+
+cheat169_desc = "道具3达·文西的人体解剖图"
+cheat169_handler = "0"
+cheat169_code = "301D2D1B#64"
+
+cheat170_desc = "道具3医学典范"
+cheat170_handler = "0"
+cheat170_code = "301D2D1B#65"
+
+cheat171_desc = "道具3赫斯提亚的锅"
+cheat171_handler = "0"
+cheat171_code = "301D2D1B#66"
+
+cheat172_desc = "道具3粉红色的围裙"
+cheat172_handler = "0"
+cheat172_code = "301D2D1B#67"
+
+cheat173_desc = "道具3带纱布的口罩"
+cheat173_handler = "0"
+cheat173_code = "301D2D1B#68"
+
+cheat174_desc = "道具3讲究的长统鞋"
+cheat174_handler = "0"
+cheat174_code = "301D2D1B#69"
+
+cheat175_desc = "道具3格列高利斯的皇冠"
+cheat175_handler = "0"
+cheat175_code = "301D2D1B#6A"
+
+cheat176_desc = "道具3有插图的圣经"
+cheat176_handler = "0"
+cheat176_code = "301D2D1B#6B"
+
+cheat177_desc = "道具3古代十字架"
+cheat177_handler = "0"
+cheat177_code = "301D2D1B#6C"
+
+cheat178_desc = "道具3孙子兵法书"
+cheat178_handler = "0"
+cheat178_code = "301D2D1B#6D"
+
+cheat179_desc = "道具3古伏塔的灵兽"
+cheat179_handler = "0"
+cheat179_code = "301D2D1B#6E"
+
+cheat180_desc = "道具3和尼拔战记"
+cheat180_handler = "0"
+cheat180_code = "301D2D1B#6F"
+
+cheat181_desc = "道具3纪伊国屋的算盘"
+cheat181_handler = "0"
+cheat181_code = "301D2D1B#70"
+
+cheat182_desc = "道具3维萨斯的天枰"
+cheat182_handler = "0"
+cheat182_code = "301D2D1B#71"
+
+cheat183_desc = "道具3罗盘"
+cheat183_handler = "0"
+cheat183_code = "301D2D1B#7C"
+
+cheat184_desc = "道具3六分仪"
+cheat184_handler = "0"
+cheat184_code = "301D2D1B#7D"
+
+cheat185_desc = "道具3阿里斯塔克斯望远镜"
+cheat185_handler = "0"
+cheat185_code = "301D2D1B#7E"
+
+cheat186_desc = "钱(葡萄牙主角拉费尔)"
+cheat186_handler = "0"
+cheat186_code = "901D542C#5F5E0FF"
+
+cheat187_desc = "钱(荷兰女主角莉儿)"
+cheat187_handler = "0"
+cheat187_code = "901D5478#5F5E0FF"
+
+cheat188_desc = "钱(瑞典男主角荷特拉姆)"
+cheat188_handler = "0"
+cheat188_code = "901D54C4#5F5E0FF"
+
+cheat189_desc = "使用李华梅(在选人画面锁定一次后解锁,画面会变为李华梅)"
+cheat189_handler = "0"
+cheat189_code = "301FFE24#03"
+
+cheat190_desc = "金钱卡斯特罗"
+cheat190_handler = "0"
+cheat190_code = "901D542C#05F5E0FF"
+
+cheat191_desc = "金钱阿歌特"
+cheat191_handler = "0"
+cheat191_code = "901D5478#5F5E0FF"
+
+cheat192_desc = "金钱柏格斯统"
+cheat192_handler = "0"
+cheat192_code = "901D54C4#5F5E0FF"
+
+cheat193_desc = "金钱李华梅"
+cheat193_handler = "0"
+cheat193_code = "901D5510#05F5E0FF"
+
+cheat194_desc = "食物、水不减，疲劳不上升"
+cheat194_handler = "0"
+cheat194_code = "D005FFEE#A611,8005FFEE#2400;D003B302#A082,8003B302#2400;D006813A#A443,8006813A#2400;801CF10C#03E7;801CF128#03E7;801CF144#03E7;801CF160#03E7;801CF17C#03E7"
+
+cheat195_desc = "主角能力卡斯特罗"
+cheat195_handler = "0"
+cheat195_code = "801D2D02#0000;901D2D04#FFFFFFFF;801D2D08#FFFF;901D2D0C#FFFFFFFF;901D2D10#FFFFFFFF;801D2D14#270F"
+
+cheat196_desc = "主角能力阿歌特"
+cheat196_handler = "0"
+cheat196_code = "801D2D02#0000;901D2D04#FFFFFFFF;801D2D08#FFFF;901D2D0C#FFFFFFFF;901D2D10#FFFFFFFF;801D2D14#270F"
+
+cheat197_desc = "主角能力柏格斯统"
+cheat197_handler = "0"
+cheat197_code = "801D2D02#0000;901D2D04#FFFFFFFF;801D2D08#FFFF;901D2D0C#FFFFFFFF;901D2D10#FFFFFFFF;801D2D14#270F"
+
+cheat198_desc = "主角能力李华梅"
+cheat198_handler = "0"
+cheat198_code = "801D2D02#0000;901D2D04#FFFFFFFF;801D2D08#FFFF;901D2D0C#FFFFFFFF;901D2D10#FFFFFFFF;801D2D14#270F"
+
+cheat199_desc = "主角装备最强武器"
+cheat199_handler = "0"
+cheat199_code = "801D2D17#4830"
+
+cheat200_desc = "卡斯特罗拥有属下杰拿斯.帕沙"
+cheat200_handler = "0"
+cheat200_code = "301D13A1#00"
+
+cheat201_desc = "卡斯特罗拥有属下库拉乌迪.马奈乌斯"
+cheat201_handler = "0"
+cheat201_code = "301D13C1#00"
+
+cheat202_desc = "卡斯特罗拥有属下弗利奥.埃涅科"
+cheat202_handler = "0"
+cheat202_code = "301D13E1#00"
+
+cheat203_desc = "卡斯特罗拥有属下克莉丝汀娜.埃涅科"
+cheat203_handler = "0"
+cheat203_code = "301D1401#00"
+
+cheat204_desc = "卡斯特罗拥有属下阿尔加迪斯.欧多西斯"
+cheat204_handler = "0"
+cheat204_code = "301D1421#00"
+
+cheat205_desc = "卡斯特罗拥有属下卡米尔.奥芬埃西"
+cheat205_handler = "0"
+cheat205_code = "301D1441#00"
+
+cheat206_desc = "卡斯特罗拥有属下希恩.杨"
+cheat206_handler = "0"
+cheat206_code = "301D1461#00"
+
+cheat207_desc = "卡斯特罗拥有属下詹姆.鲁德韦"
+cheat207_handler = "0"
+cheat207_code = "301D1481#00"
+
+cheat208_desc = "卡斯特罗拥有属下行久.白木"
+cheat208_handler = "0"
+cheat208_code = "301D14A1#00"
+
+cheat209_desc = "卡斯特罗拥有属下铁礼列.滕尼"
+cheat209_handler = "0"
+cheat209_code = "301D14C1#00"
+
+cheat210_desc = "卡斯特罗拥有属下埃米利奥.菲隆"
+cheat210_handler = "0"
+cheat210_code = "301D14E1#00"
+
+cheat211_desc = "卡斯特罗拥有属下安杰洛.普契尼"
+cheat211_handler = "0"
+cheat211_code = "301D1501#00"
+
+cheat212_desc = "卡斯特罗拥有属下格尔哈特.阿迪肯"
+cheat212_handler = "0"
+cheat212_code = "301D1521#00"
+
+cheat213_desc = "卡斯特罗拥有属下阿尔.西恩"
+cheat213_handler = "0"
+cheat213_code = "301D1541#00"
+
+cheat214_desc = "卡斯特罗拥有属下查理.洛雪弗"
+cheat214_handler = "0"
+cheat214_code = "301D1561#00"
+
+cheat215_desc = "卡斯特罗拥有属下科鲁罗.西奈特"
+cheat215_handler = "0"
+cheat215_code = "301D1581#00"
+
+cheat216_desc = "卡斯特罗拥有属下弗南德.迪阿斯"
+cheat216_handler = "0"
+cheat216_code = "301D15A1#00"
+
+cheat217_desc = "卡斯特罗拥有属下易安.杜可夫"
+cheat217_handler = "0"
+cheat217_code = "301D15C1#00"
+
+cheat218_desc = "卡斯特罗拥有属下赛维.汉"
+cheat218_handler = "0"
+cheat218_code = "301D15E1#00"
+
+cheat219_desc = "卡斯特罗拥有属下曼努埃尔.阿尔米达"
+cheat219_handler = "0"
+cheat219_code = "301D1601#00"
+
+cheat220_desc = "卡斯特罗拥有属下塞拉.夏尔巴拉兹"
+cheat220_handler = "0"
+cheat220_code = "301D1621#00"
+
+cheat221_desc = "卡斯特罗拥有属下乙凤.宋"
+cheat221_handler = "0"
+cheat221_code = "301D1641#00"
+
+cheat222_desc = "卡斯特罗拥有属下尤里安.罗佩斯"
+cheat222_handler = "0"
+cheat222_code = "301D1661#00"
+
+cheat223_desc = "卡斯特罗拥有属下阿芝莎.努连纳哈尔"
+cheat223_handler = "0"
+cheat223_code = "301D1681#00"
+
+cheat224_desc = "阿歌特拥有属下杰拿斯.帕沙"
+cheat224_handler = "0"
+cheat224_code = "301D13A1#01"
+
+cheat225_desc = "阿歌特拥有属下库拉乌迪.马奈乌斯"
+cheat225_handler = "0"
+cheat225_code = "301D13C1#01"
+
+cheat226_desc = "阿歌特拥有属下弗利奥.埃涅科"
+cheat226_handler = "0"
+cheat226_code = "301D13E1#01"
+
+cheat227_desc = "阿歌特拥有属下克莉丝汀娜.埃涅科"
+cheat227_handler = "0"
+cheat227_code = "301D1401#01"
+
+cheat228_desc = "阿歌特拥有属下阿尔加迪斯.欧多西斯"
+cheat228_handler = "0"
+cheat228_code = "301D1421#01"
+
+cheat229_desc = "阿歌特拥有属下卡米尔.奥芬埃西"
+cheat229_handler = "0"
+cheat229_code = "301D1441#01"
+
+cheat230_desc = "阿歌特拥有属下希恩.杨"
+cheat230_handler = "0"
+cheat230_code = "301D1461#01"
+
+cheat231_desc = "阿歌特拥有属下詹姆.鲁德韦"
+cheat231_handler = "0"
+cheat231_code = "301D1481#01"
+
+cheat232_desc = "阿歌特拥有属下行久.白木"
+cheat232_handler = "0"
+cheat232_code = "301D14A1#01"
+
+cheat233_desc = "阿歌特拥有属下铁礼列.滕尼"
+cheat233_handler = "0"
+cheat233_code = "301D14C1#01"
+
+cheat234_desc = "阿歌特拥有属下埃米利奥.菲隆"
+cheat234_handler = "0"
+cheat234_code = "301D14E1#01"
+
+cheat235_desc = "阿歌特拥有属下安杰洛.普契尼"
+cheat235_handler = "0"
+cheat235_code = "301D1501#01"
+
+cheat236_desc = "阿歌特拥有属下格尔哈特.阿迪肯"
+cheat236_handler = "0"
+cheat236_code = "301D1521#01"
+
+cheat237_desc = "阿歌特拥有属下阿尔.西恩"
+cheat237_handler = "0"
+cheat237_code = "301D1541#01"
+
+cheat238_desc = "阿歌特拥有属下查理.洛雪弗"
+cheat238_handler = "0"
+cheat238_code = "301D1561#01"
+
+cheat239_desc = "阿歌特拥有属下科鲁罗.西奈特"
+cheat239_handler = "0"
+cheat239_code = "301D1581#01"
+
+cheat240_desc = "阿歌特拥有属下弗南德.迪阿斯"
+cheat240_handler = "0"
+cheat240_code = "301D15A1#01"
+
+cheat241_desc = "阿歌特拥有属下易安.杜可夫"
+cheat241_handler = "0"
+cheat241_code = "301D15C1#01"
+
+cheat242_desc = "阿歌特拥有属下赛维.汉"
+cheat242_handler = "0"
+cheat242_code = "301D15E1#01"
+
+cheat243_desc = "阿歌特拥有属下曼努埃尔.阿尔米达"
+cheat243_handler = "0"
+cheat243_code = "301D1601#01"
+
+cheat244_desc = "阿歌特拥有属下塞拉.夏尔巴拉兹"
+cheat244_handler = "0"
+cheat244_code = "301D1621#01"
+
+cheat245_desc = "阿歌特拥有属下乙凤.宋"
+cheat245_handler = "0"
+cheat245_code = "301D1641#01"
+
+cheat246_desc = "阿歌特拥有属下尤里安.罗佩斯"
+cheat246_handler = "0"
+cheat246_code = "301D1661#01"
+
+cheat247_desc = "阿歌特拥有属下阿芝莎.努连纳哈尔"
+cheat247_handler = "0"
+cheat247_code = "301D1681#01"
+
+cheat248_desc = "柏格斯统拥有属下杰拿斯.帕沙"
+cheat248_handler = "0"
+cheat248_code = "301D13A1#02"
+
+cheat249_desc = "柏格斯统拥有属下库拉乌迪.马奈乌斯"
+cheat249_handler = "0"
+cheat249_code = "301D13C1#02"
+
+cheat250_desc = "柏格斯统拥有属下弗利奥.埃涅科"
+cheat250_handler = "0"
+cheat250_code = "301D13E1#02"
+
+cheat251_desc = "柏格斯统拥有属下克莉丝汀娜.埃涅科"
+cheat251_handler = "0"
+cheat251_code = "301D1401#02"
+
+cheat252_desc = "柏格斯统拥有属下阿尔加迪斯.欧多西斯"
+cheat252_handler = "0"
+cheat252_code = "301D1421#02"
+
+cheat253_desc = "柏格斯统拥有属下卡米尔.奥芬埃西"
+cheat253_handler = "0"
+cheat253_code = "301D1441#02"
+
+cheat254_desc = "柏格斯统拥有属下希恩.杨"
+cheat254_handler = "0"
+cheat254_code = "301D1461#02"
+
+cheat255_desc = "柏格斯统拥有属下詹姆.鲁德韦"
+cheat255_handler = "0"
+cheat255_code = "301D1481#02"
+
+cheat256_desc = "柏格斯统拥有属下行久.白木"
+cheat256_handler = "0"
+cheat256_code = "301D14A1#02"
+
+cheat257_desc = "柏格斯统拥有属下铁礼列.滕尼"
+cheat257_handler = "0"
+cheat257_code = "301D14C1#02"
+
+cheat258_desc = "柏格斯统拥有属下埃米利奥.菲隆"
+cheat258_handler = "0"
+cheat258_code = "301D14E1#02"
+
+cheat259_desc = "柏格斯统拥有属下安杰洛.普契尼"
+cheat259_handler = "0"
+cheat259_code = "301D1501#02"
+
+cheat260_desc = "柏格斯统拥有属下格尔哈特.阿迪肯"
+cheat260_handler = "0"
+cheat260_code = "301D1521#02"
+
+cheat261_desc = "柏格斯统拥有属下阿尔.西恩"
+cheat261_handler = "0"
+cheat261_code = "301D1541#02"
+
+cheat262_desc = "柏格斯统拥有属下查理.洛雪弗"
+cheat262_handler = "0"
+cheat262_code = "301D1561#02"
+
+cheat263_desc = "柏格斯统拥有属下科鲁罗.西奈特"
+cheat263_handler = "0"
+cheat263_code = "301D1581#02"
+
+cheat264_desc = "柏格斯统拥有属下弗南德.迪阿斯"
+cheat264_handler = "0"
+cheat264_code = "301D15A1#02"
+
+cheat265_desc = "柏格斯统拥有属下易安.杜可夫"
+cheat265_handler = "0"
+cheat265_code = "301D15C1#02"
+
+cheat266_desc = "柏格斯统拥有属下赛维.汉"
+cheat266_handler = "0"
+cheat266_code = "301D15E1#02"
+
+cheat267_desc = "柏格斯统拥有属下曼努埃尔.阿尔米达"
+cheat267_handler = "0"
+cheat267_code = "301D1601#02"
+
+cheat268_desc = "柏格斯统拥有属下塞拉.夏尔巴拉兹"
+cheat268_handler = "0"
+cheat268_code = "301D1621#02"
+
+cheat269_desc = "柏格斯统拥有属下乙凤.宋"
+cheat269_handler = "0"
+cheat269_code = "301D1641#02"
+
+cheat270_desc = "柏格斯统拥有属下尤里安.罗佩斯"
+cheat270_handler = "0"
+cheat270_code = "301D1661#02"
+
+cheat271_desc = "柏格斯统拥有属下阿芝莎.努连纳哈尔"
+cheat271_handler = "0"
+cheat271_code = "301D1681#02"
+
+cheat272_desc = "李华梅拥有属下杰拿斯.帕沙"
+cheat272_handler = "0"
+cheat272_code = "301D13A1#03"
+
+cheat273_desc = "李华梅拥有属下库拉乌迪.马奈乌斯"
+cheat273_handler = "0"
+cheat273_code = "301D13C1#03"
+
+cheat274_desc = "李华梅拥有属下弗利奥.埃涅科"
+cheat274_handler = "0"
+cheat274_code = "301D13E1#03"
+
+cheat275_desc = "李华梅拥有属下克莉丝汀娜.埃涅科"
+cheat275_handler = "0"
+cheat275_code = "301D1401#03"
+
+cheat276_desc = "李华梅拥有属下阿尔加迪斯.欧多西斯"
+cheat276_handler = "0"
+cheat276_code = "301D1421#03"
+
+cheat277_desc = "李华梅拥有属下卡米尔.奥芬埃西"
+cheat277_handler = "0"
+cheat277_code = "301D1441#03"
+
+cheat278_desc = "李华梅拥有属下希恩.杨"
+cheat278_handler = "0"
+cheat278_code = "301D1461#03"
+
+cheat279_desc = "李华梅拥有属下詹姆.鲁德韦"
+cheat279_handler = "0"
+cheat279_code = "301D1481#03"
+
+cheat280_desc = "李华梅拥有属下行久.白木"
+cheat280_handler = "0"
+cheat280_code = "301D14A1#03"
+
+cheat281_desc = "李华梅拥有属下铁礼列.滕尼"
+cheat281_handler = "0"
+cheat281_code = "301D14C1#03"
+
+cheat282_desc = "李华梅拥有属下埃米利奥.菲隆"
+cheat282_handler = "0"
+cheat282_code = "301D14E1#03"
+
+cheat283_desc = "李华梅拥有属下安杰洛.普契尼"
+cheat283_handler = "0"
+cheat283_code = "301D1501#03"
+
+cheat284_desc = "李华梅拥有属下格尔哈特.阿迪肯"
+cheat284_handler = "0"
+cheat284_code = "301D1521#03"
+
+cheat285_desc = "李华梅拥有属下阿尔.西恩"
+cheat285_handler = "0"
+cheat285_code = "301D1541#03"
+
+cheat286_desc = "李华梅拥有属下查理.洛雪弗"
+cheat286_handler = "0"
+cheat286_code = "301D1561#03"
+
+cheat287_desc = "李华梅拥有属下科鲁罗.西奈特"
+cheat287_handler = "0"
+cheat287_code = "301D1581#03"
+
+cheat288_desc = "李华梅拥有属下弗南德.迪阿斯"
+cheat288_handler = "0"
+cheat288_code = "301D15A1#03"
+
+cheat289_desc = "李华梅拥有属下易安.杜可夫"
+cheat289_handler = "0"
+cheat289_code = "301D15C1#03"
+
+cheat290_desc = "李华梅拥有属下赛维.汉"
+cheat290_handler = "0"
+cheat290_code = "301D15E1#03"
+
+cheat291_desc = "李华梅拥有属下曼努埃尔.阿尔米达"
+cheat291_handler = "0"
+cheat291_code = "301D1601#03"
+
+cheat292_desc = "李华梅拥有属下塞拉.夏尔巴拉兹"
+cheat292_handler = "0"
+cheat292_code = "301D1621#03"
+
+cheat293_desc = "李华梅拥有属下乙凤.宋"
+cheat293_handler = "0"
+cheat293_code = "301D1641#03"
+
+cheat294_desc = "李华梅拥有属下尤里安.罗佩斯"
+cheat294_handler = "0"
+cheat294_code = "301D1661#03"
+
+cheat295_desc = "李华梅拥有属下阿芝莎.努连纳哈尔"
+cheat295_handler = "0"
+cheat295_code = "301D1681#03"
+
+cheat296_desc = "所选属下最强杰拿斯.帕沙"
+cheat296_handler = "0"
+cheat296_code = "901D13A4#FFFFFFFF;801DA3A8#FFFF;901D13AC#FFFFFFFF;901D13B0#FFFFFFFF;801D13B4#0F27"
+
+cheat297_desc = "所选属下最强库拉乌迪.马奈乌斯"
+cheat297_handler = "0"
+cheat297_code = "901D13C4#FFFFFFFF;801DA3C8#FFFF;901D13CC#FFFFFFFF;901D13D0#FFFFFFFF;801D13D4#0F27"
+
+cheat298_desc = "所选属下最强弗利奥.埃涅科"
+cheat298_handler = "0"
+cheat298_code = "901D13E4#FFFFFFFF;801DA3E8#FFFF;901D13EC#FFFFFFFF;901D13F0#FFFFFFFF;801D13F4#0F27"
+
+cheat299_desc = "所选属下最强克莉丝汀娜.埃涅科"
+cheat299_handler = "0"
+cheat299_code = "901D1404#FFFFFFFF;801DA408#FFFF;901D140C#FFFFFFFF;901D1410#FFFFFFFF;801D1414#0F27"
+
+cheat300_desc = "所选属下最强阿尔加迪斯.欧多西斯"
+cheat300_handler = "0"
+cheat300_code = "901D1424#FFFFFFFF;801DA428#FFFF;901D142C#FFFFFFFF;901D1430#FFFFFFFF;801D1434#0F27"
+
+cheat301_desc = "所选属下最强卡米尔.奥芬埃西"
+cheat301_handler = "0"
+cheat301_code = "901D1444#FFFFFFFF;801DA448#FFFF;901D144C#FFFFFFFF;901D1450#FFFFFFFF;801D1454#0F27"
+
+cheat302_desc = "所选属下最强希恩.杨"
+cheat302_handler = "0"
+cheat302_code = "901D1464#FFFFFFFF;801DA468#FFFF;901D146C#FFFFFFFF;901D1470#FFFFFFFF;801D1474#0F27"
+
+cheat303_desc = "所选属下最强詹姆.鲁德韦"
+cheat303_handler = "0"
+cheat303_code = "901D1484#FFFFFFFF;801DA488#FFFF;901D148C#FFFFFFFF;901D1490#FFFFFFFF;801D1494#0F27"
+
+cheat304_desc = "所选属下最强行久.白木"
+cheat304_handler = "0"
+cheat304_code = "901D14A4#FFFFFFFF;801DA4A8#FFFF;901D14AC#FFFFFFFF;901D14B0#FFFFFFFF;801D14B4#0F27"
+
+cheat305_desc = "所选属下最强铁礼列.滕尼"
+cheat305_handler = "0"
+cheat305_code = "901D14C4#FFFFFFFF;801DA4C8#FFFF;901D14CC#FFFFFFFF;901D14D0#FFFFFFFF;801D14D4#0F27"
+
+cheat306_desc = "所选属下最强埃米利奥.菲隆"
+cheat306_handler = "0"
+cheat306_code = "901D14E4#FFFFFFFF;801DA4E8#FFFF;901D14EC#FFFFFFFF;901D14F0#FFFFFFFF;801D14F4#0F27"
+
+cheat307_desc = "所选属下最强安杰洛.普契尼"
+cheat307_handler = "0"
+cheat307_code = "901D1504#FFFFFFFF;801DA508#FFFF;901D150C#FFFFFFFF;901D1510#FFFFFFFF;801D1514#0F27"
+
+cheat308_desc = "所选属下最强格尔哈特.阿迪肯"
+cheat308_handler = "0"
+cheat308_code = "901D1524#FFFFFFFF;801DA528#FFFF;901D152C#FFFFFFFF;901D1530#FFFFFFFF;801D1534#0F27"
+
+cheat309_desc = "所选属下最强阿尔.西恩"
+cheat309_handler = "0"
+cheat309_code = "901D1544#FFFFFFFF;801DA548#FFFF;901D154C#FFFFFFFF;901D1550#FFFFFFFF;801D1554#0F27"
+
+cheat310_desc = "所选属下最强查理.洛雪弗"
+cheat310_handler = "0"
+cheat310_code = "901D1564#FFFFFFFF;801DA568#FFFF;901D156C#FFFFFFFF;901D1570#FFFFFFFF;801D1574#0F27"
+
+cheat311_desc = "所选属下最强科鲁罗.西奈特"
+cheat311_handler = "0"
+cheat311_code = "901D1584#FFFFFFFF;801DA588#FFFF;901D158C#FFFFFFFF;901D1590#FFFFFFFF;801D1594#0F27"
+
+cheat312_desc = "所选属下最强弗南德.迪阿斯"
+cheat312_handler = "0"
+cheat312_code = "901D15A4#FFFFFFFF;801DA5A8#FFFF;901D15AC#FFFFFFFF;901D15B0#FFFFFFFF;801D15B4#0F27"
+
+cheat313_desc = "所选属下最强易安.杜可夫"
+cheat313_handler = "0"
+cheat313_code = "901D15C4#FFFFFFFF;801DA5C8#FFFF;901D15CC#FFFFFFFF;901D15D0#FFFFFFFF;801D15D4#0F27"
+
+cheat314_desc = "所选属下最强赛维.汉"
+cheat314_handler = "0"
+cheat314_code = "901D15E4#FFFFFFFF;801DA5E8#FFFF;901D15EC#FFFFFFFF;901D15F0#FFFFFFFF;801D15F4#0F27"
+
+cheat315_desc = "所选属下最强曼努埃尔.阿尔米达"
+cheat315_handler = "0"
+cheat315_code = "901D1604#FFFFFFFF;801DA608#FFFF;901D160C#FFFFFFFF;901D1610#FFFFFFFF;801D1614#0F27"
+
+cheat316_desc = "所选属下最强塞拉.夏尔巴拉兹"
+cheat316_handler = "0"
+cheat316_code = "901D1624#FFFFFFFF;801DA628#FFFF;901D162C#FFFFFFFF;901D1630#FFFFFFFF;801D1634#0F27"
+
+cheat317_desc = "所选属下最强乙凤.宋"
+cheat317_handler = "0"
+cheat317_code = "901D1644#FFFFFFFF;801DA648#FFFF;901D164C#FFFFFFFF;901D1650#FFFFFFFF;801D1654#0F27"
+
+cheat318_desc = "所选属下最强尤里安.罗佩斯"
+cheat318_handler = "0"
+cheat318_code = "901D1664#FFFFFFFF;801DA668#FFFF;901D166C#FFFFFFFF;901D1670#FFFFFFFF;801D1634#0F27"
+
+cheat319_desc = "所选属下最强阿芝莎.努连纳哈尔"
+cheat319_handler = "0"
+cheat319_code = "901D1684#FFFFFFFF;801DA688#FFFF;901D168C#FFFFFFFF;901D1690#FFFFFFFF;801D1694#0F27"
+
+cheat320_desc = "所有属下状态最好"
+cheat320_handler = "0"
+cheat320_code = "801D13A2#0000;801D13C2#0000;801D13E2#0000;801D1402#0000;801D1422#0000;801D1442#0000;801D1462#0000;801D1482#0000;801D14A2#0000;801D14C2#0000;801D14E2#0000;801D1502#0000;801D1522#0000;801D1542#0000;801D1562#0000;801D1582#0000;801D15A2#0000;801D15C2#0000;801D15E2#0000;801D1602#0000;801D1622#0000;801D1642#0000;801D1662#0000;801D1682#0000"
+
+cheat321_desc = "属下装备圣剑和撒拉丁银铠杰拿斯.帕沙"
+cheat321_handler = "0"
+cheat321_code = "801D13B7#472F"
+
+cheat322_desc = "属下装备圣剑和撒拉丁银铠库拉乌迪.马奈乌斯"
+cheat322_handler = "0"
+cheat322_code = "801D13D7#472F"
+
+cheat323_desc = "属下装备圣剑和撒拉丁银铠弗利奥.埃涅科"
+cheat323_handler = "0"
+cheat323_code = "801D13F7#472F"
+
+cheat324_desc = "属下装备圣剑和撒拉丁银铠克莉丝汀娜.埃涅科"
+cheat324_handler = "0"
+cheat324_code = "801D1417#472F"
+
+cheat325_desc = "属下装备圣剑和撒拉丁银铠阿尔加迪斯.欧多西斯"
+cheat325_handler = "0"
+cheat325_code = "801D1437#472F"
+
+cheat326_desc = "属下装备圣剑和撒拉丁银铠卡米尔.奥芬埃西"
+cheat326_handler = "0"
+cheat326_code = "801D1457#472F"
+
+cheat327_desc = "属下装备圣剑和撒拉丁银铠希恩.杨"
+cheat327_handler = "0"
+cheat327_code = "801D1477#472F"
+
+cheat328_desc = "属下装备圣剑和撒拉丁银铠詹姆.鲁德韦"
+cheat328_handler = "0"
+cheat328_code = "801D1497#472F"
+
+cheat329_desc = "属下装备圣剑和撒拉丁银铠行久.白木"
+cheat329_handler = "0"
+cheat329_code = "801D14B7#472F"
+
+cheat330_desc = "属下装备圣剑和撒拉丁银铠铁礼列.滕尼"
+cheat330_handler = "0"
+cheat330_code = "801D14D7#472F"
+
+cheat331_desc = "属下装备圣剑和撒拉丁银铠埃米利奥.菲隆"
+cheat331_handler = "0"
+cheat331_code = "801D14F7#472F"
+
+cheat332_desc = "属下装备圣剑和撒拉丁银铠安杰洛.普契尼"
+cheat332_handler = "0"
+cheat332_code = "801D1517#472F"
+
+cheat333_desc = "属下装备圣剑和撒拉丁银铠格尔哈特.阿迪肯"
+cheat333_handler = "0"
+cheat333_code = "801D1537#472F"
+
+cheat334_desc = "属下装备圣剑和撒拉丁银铠阿尔.西恩"
+cheat334_handler = "0"
+cheat334_code = "801D1557#472F"
+
+cheat335_desc = "属下装备圣剑和撒拉丁银铠查理.洛雪弗"
+cheat335_handler = "0"
+cheat335_code = "801D1577#472F"
+
+cheat336_desc = "属下装备圣剑和撒拉丁银铠科鲁罗.西奈特"
+cheat336_handler = "0"
+cheat336_code = "801D1597#472F"
+
+cheat337_desc = "属下装备圣剑和撒拉丁银铠弗南德.迪阿斯"
+cheat337_handler = "0"
+cheat337_code = "801D15B7#472F"
+
+cheat338_desc = "属下装备圣剑和撒拉丁银铠易安.杜可夫"
+cheat338_handler = "0"
+cheat338_code = "801D15D7#472F"
+
+cheat339_desc = "属下装备圣剑和撒拉丁银铠赛维.汉"
+cheat339_handler = "0"
+cheat339_code = "801D15F7#472F"
+
+cheat340_desc = "属下装备圣剑和撒拉丁银铠曼努埃尔.阿尔米达"
+cheat340_handler = "0"
+cheat340_code = "801D1617#472F"
+
+cheat341_desc = "属下装备圣剑和撒拉丁银铠塞拉.夏尔巴拉兹"
+cheat341_handler = "0"
+cheat341_code = "801D1637#472F"
+
+cheat342_desc = "属下装备圣剑和撒拉丁银铠乙凤.宋"
+cheat342_handler = "0"
+cheat342_code = "801D1657#472F"
+
+cheat343_desc = "属下装备圣剑和撒拉丁银铠尤里安.罗佩斯"
+cheat343_handler = "0"
+cheat343_code = "801D1677#472F"
+
+cheat344_desc = "属下装备圣剑和撒拉丁银铠阿芝莎.努连纳哈尔"
+cheat344_handler = "0"
+cheat344_code = "801D1697#472F"
+
+cheat345_desc = "旗舰类型变更小型汉撒式帆船"
+cheat345_handler = "0"
+cheat345_code = "301D6495#00"
+
+cheat346_desc = "旗舰类型变更小型三角帆船"
+cheat346_handler = "0"
+cheat346_code = "301D6495#01"
+
+cheat347_desc = "旗舰类型变更小型方形帆船"
+cheat347_handler = "0"
+cheat347_code = "301D6495#02"
+
+cheat348_desc = "旗舰类型变更中型双桅三角帆船"
+cheat348_handler = "0"
+cheat348_code = "301D6495#03"
+
+cheat349_desc = "旗舰类型变更大型双桅方帆宽身船"
+cheat349_handler = "0"
+cheat349_code = "301D6495#04"
+
+cheat350_desc = "旗舰类型变更中型西班牙方形帆船"
+cheat350_handler = "0"
+cheat350_code = "301D6495#05"
+
+cheat351_desc = "旗舰类型变更大型西班牙方形帆船"
+cheat351_handler = "0"
+cheat351_code = "301D6495#06"
+
+cheat352_desc = "旗舰类型变更中型北海三桅方帆船"
+cheat352_handler = "0"
+cheat352_code = "301D6495#07"
+
+cheat353_desc = "旗舰类型变更大型北海三桅方帆船"
+cheat353_handler = "0"
+cheat353_code = "301D6495#08"
+
+cheat354_desc = "旗舰类型变更小型英国方形帆船"
+cheat354_handler = "0"
+cheat354_code = "301D6495#09"
+
+cheat355_desc = "旗舰类型变更英国双桅三角帆船"
+cheat355_handler = "0"
+cheat355_code = "301D6495#0A"
+
+cheat356_desc = "旗舰类型变更中型大桅横方形帆船"
+cheat356_handler = "0"
+cheat356_code = "301D6495#0B"
+
+cheat357_desc = "旗舰类型变更中型大桅方形帆船"
+cheat357_handler = "0"
+cheat357_code = "301D6495#0C"
+
+cheat358_desc = "旗舰类型变更小型护航艇"
+cheat358_handler = "0"
+cheat358_code = "301D6495#0D"
+
+cheat359_desc = "旗舰类型变更护航舰"
+cheat359_handler = "0"
+cheat359_code = "301D6495#0E"
+
+cheat360_desc = "旗舰类型变更战列舰"
+cheat360_handler = "0"
+cheat360_code = "301D6495#0F"
+
+cheat361_desc = "旗舰类型变更北海多桅三角帆大船"
+cheat361_handler = "0"
+cheat361_code = "301D6495#10"
+
+cheat362_desc = "旗舰类型变更北海三桅横方帆大船"
+cheat362_handler = "0"
+cheat362_code = "301D6495#11"
+
+cheat363_desc = "旗舰类型变更北海三桅三角帆大船"
+cheat363_handler = "0"
+cheat363_code = "301D6495#12"
+
+cheat364_desc = "旗舰类型变更北海多桅横方帆大船"
+cheat364_handler = "0"
+cheat364_code = "301D6495#13"
+
+cheat365_desc = "旗舰类型变更小型桨帆并用船"
+cheat365_handler = "0"
+cheat365_code = "301D6495#14"
+
+cheat366_desc = "旗舰类型变更中型桨帆并用船"
+cheat366_handler = "0"
+cheat366_code = "301D6495#15"
+
+cheat367_desc = "旗舰类型变更大型桨帆并用船"
+cheat367_handler = "0"
+cheat367_code = "301D6495#16"
+
+cheat368_desc = "旗舰类型变更巨型桨帆并用船"
+cheat368_handler = "0"
+cheat368_code = "301D6495#17"
+
+cheat369_desc = "旗舰类型变更小型阿拉伯船"
+cheat369_handler = "0"
+cheat369_code = "301D6495#18"
+
+cheat370_desc = "旗舰类型变更中型阿拉伯轻快船"
+cheat370_handler = "0"
+cheat370_code = "301D6495#19"
+
+cheat371_desc = "旗舰类型变更巨型阿拉伯船"
+cheat371_handler = "0"
+cheat371_code = "301D6495#1A"
+
+cheat372_desc = "旗舰类型变更小型中国帆船"
+cheat372_handler = "0"
+cheat372_code = "301D6495#1B"
+
+cheat373_desc = "旗舰类型变更中国帆船"
+cheat373_handler = "0"
+cheat373_code = "301D6495#1C"
+
+cheat374_desc = "旗舰类型变更大型中国帆船"
+cheat374_handler = "0"
+cheat374_code = "301D6495#1D"
+
+cheat375_desc = "旗舰类型变更小型日本桨船"
+cheat375_handler = "0"
+cheat375_code = "301D6495#1E"
+
+cheat376_desc = "旗舰类型变更中型日本桨船"
+cheat376_handler = "0"
+cheat376_code = "301D6495#1F"
+
+cheat377_desc = "旗舰类型变更大型日本桨帆并用船"
+cheat377_handler = "0"
+cheat377_code = "301D6495#20"
+
+cheat378_desc = "旗舰类型变更铁甲船"
+cheat378_handler = "0"
+cheat378_code = "301D6495#21"
+
+cheat379_desc = "1号舰类型变更小型汉撒式帆船"
+cheat379_handler = "0"
+cheat379_code = "301D65F5#00"
+
+cheat380_desc = "1号舰类型变更小型三角帆船"
+cheat380_handler = "0"
+cheat380_code = "301D65F5#01"
+
+cheat381_desc = "1号舰类型变更小型方形帆船"
+cheat381_handler = "0"
+cheat381_code = "301D65F5#02"
+
+cheat382_desc = "1号舰类型变更中型双桅三角帆船"
+cheat382_handler = "0"
+cheat382_code = "301D65F5#03"
+
+cheat383_desc = "1号舰类型变更大型双桅方帆宽身船"
+cheat383_handler = "0"
+cheat383_code = "301D65F5#04"
+
+cheat384_desc = "1号舰类型变更中型西班牙方形帆船"
+cheat384_handler = "0"
+cheat384_code = "301D65F5#05"
+
+cheat385_desc = "1号舰类型变更大型西班牙方形帆船"
+cheat385_handler = "0"
+cheat385_code = "301D65F5#06"
+
+cheat386_desc = "1号舰类型变更中型北海三桅方帆船"
+cheat386_handler = "0"
+cheat386_code = "301D65F5#07"
+
+cheat387_desc = "1号舰类型变更大型北海三桅方帆船"
+cheat387_handler = "0"
+cheat387_code = "301D65F5#08"
+
+cheat388_desc = "1号舰类型变更小型英国方形帆船"
+cheat388_handler = "0"
+cheat388_code = "301D65F5#09"
+
+cheat389_desc = "1号舰类型变更英国双桅三角帆船"
+cheat389_handler = "0"
+cheat389_code = "301D65F5#0A"
+
+cheat390_desc = "1号舰类型变更中型大桅横方形帆船"
+cheat390_handler = "0"
+cheat390_code = "301D65F5#0B"
+
+cheat391_desc = "1号舰类型变更中型大桅方形帆船"
+cheat391_handler = "0"
+cheat391_code = "301D65F5#0C"
+
+cheat392_desc = "1号舰类型变更小型护航艇"
+cheat392_handler = "0"
+cheat392_code = "301D65F5#0D"
+
+cheat393_desc = "1号舰类型变更护航舰"
+cheat393_handler = "0"
+cheat393_code = "301D65F5#0E"
+
+cheat394_desc = "1号舰类型变更战列舰"
+cheat394_handler = "0"
+cheat394_code = "301D65F5#0F"
+
+cheat395_desc = "1号舰类型变更北海多桅三角帆大船"
+cheat395_handler = "0"
+cheat395_code = "301D65F5#10"
+
+cheat396_desc = "1号舰类型变更北海三桅横方帆大船"
+cheat396_handler = "0"
+cheat396_code = "301D65F5#11"
+
+cheat397_desc = "1号舰类型变更北海三桅三角帆大船"
+cheat397_handler = "0"
+cheat397_code = "301D65F5#12"
+
+cheat398_desc = "1号舰类型变更北海多桅横方帆大船"
+cheat398_handler = "0"
+cheat398_code = "301D65F5#13"
+
+cheat399_desc = "1号舰类型变更小型桨帆并用船"
+cheat399_handler = "0"
+cheat399_code = "301D65F5#14"
+
+cheat400_desc = "1号舰类型变更中型桨帆并用船"
+cheat400_handler = "0"
+cheat400_code = "301D65F5#15"
+
+cheat401_desc = "1号舰类型变更大型桨帆并用船"
+cheat401_handler = "0"
+cheat401_code = "301D65F5#16"
+
+cheat402_desc = "1号舰类型变更巨型桨帆并用船"
+cheat402_handler = "0"
+cheat402_code = "301D65F5#17"
+
+cheat403_desc = "1号舰类型变更小型阿拉伯船"
+cheat403_handler = "0"
+cheat403_code = "301D65F5#18"
+
+cheat404_desc = "1号舰类型变更中型阿拉伯轻快船"
+cheat404_handler = "0"
+cheat404_code = "301D65F5#19"
+
+cheat405_desc = "1号舰类型变更巨型阿拉伯船"
+cheat405_handler = "0"
+cheat405_code = "301D65F5#1A"
+
+cheat406_desc = "1号舰类型变更小型中国帆船"
+cheat406_handler = "0"
+cheat406_code = "301D65F5#1B"
+
+cheat407_desc = "1号舰类型变更中国帆船"
+cheat407_handler = "0"
+cheat407_code = "301D65F5#1C"
+
+cheat408_desc = "1号舰类型变更大型中国帆船"
+cheat408_handler = "0"
+cheat408_code = "301D65F5#1D"
+
+cheat409_desc = "1号舰类型变更小型日本桨船"
+cheat409_handler = "0"
+cheat409_code = "301D65F5#1E"
+
+cheat410_desc = "1号舰类型变更中型日本桨船"
+cheat410_handler = "0"
+cheat410_code = "301D65F5#1F"
+
+cheat411_desc = "1号舰类型变更大型日本桨帆并用船"
+cheat411_handler = "0"
+cheat411_code = "301D65F5#20"
+
+cheat412_desc = "1号舰类型变更铁甲船"
+cheat412_handler = "0"
+cheat412_code = "301D65F5#21"
+
+cheat413_desc = "2号舰类型变更小型汉撒式帆船"
+cheat413_handler = "0"
+cheat413_code = "301D664D#00"
+
+cheat414_desc = "2号舰类型变更小型三角帆船"
+cheat414_handler = "0"
+cheat414_code = "301D664D#01"
+
+cheat415_desc = "2号舰类型变更小型方形帆船"
+cheat415_handler = "0"
+cheat415_code = "301D664D#02"
+
+cheat416_desc = "2号舰类型变更中型双桅三角帆船"
+cheat416_handler = "0"
+cheat416_code = "301D664D#03"
+
+cheat417_desc = "2号舰类型变更大型双桅方帆宽身船"
+cheat417_handler = "0"
+cheat417_code = "301D664D#04"
+
+cheat418_desc = "2号舰类型变更中型西班牙方形帆船"
+cheat418_handler = "0"
+cheat418_code = "301D664D#05"
+
+cheat419_desc = "2号舰类型变更大型西班牙方形帆船"
+cheat419_handler = "0"
+cheat419_code = "301D664D#06"
+
+cheat420_desc = "2号舰类型变更中型北海三桅方帆船"
+cheat420_handler = "0"
+cheat420_code = "301D664D#07"
+
+cheat421_desc = "2号舰类型变更大型北海三桅方帆船"
+cheat421_handler = "0"
+cheat421_code = "301D664D#08"
+
+cheat422_desc = "2号舰类型变更小型英国方形帆船"
+cheat422_handler = "0"
+cheat422_code = "301D664D#09"
+
+cheat423_desc = "2号舰类型变更英国双桅三角帆船"
+cheat423_handler = "0"
+cheat423_code = "301D664D#0A"
+
+cheat424_desc = "2号舰类型变更中型大桅横方形帆船"
+cheat424_handler = "0"
+cheat424_code = "301D664D#0B"
+
+cheat425_desc = "2号舰类型变更中型大桅方形帆船"
+cheat425_handler = "0"
+cheat425_code = "301D664D#0C"
+
+cheat426_desc = "2号舰类型变更小型护航艇"
+cheat426_handler = "0"
+cheat426_code = "301D664D#0D"
+
+cheat427_desc = "2号舰类型变更护航舰"
+cheat427_handler = "0"
+cheat427_code = "301D664D#0E"
+
+cheat428_desc = "2号舰类型变更战列舰"
+cheat428_handler = "0"
+cheat428_code = "301D664D#0F"
+
+cheat429_desc = "2号舰类型变更北海多桅三角帆大船"
+cheat429_handler = "0"
+cheat429_code = "301D664D#10"
+
+cheat430_desc = "2号舰类型变更北海三桅横方帆大船"
+cheat430_handler = "0"
+cheat430_code = "301D664D#11"
+
+cheat431_desc = "2号舰类型变更北海三桅三角帆大船"
+cheat431_handler = "0"
+cheat431_code = "301D664D#12"
+
+cheat432_desc = "2号舰类型变更北海多桅横方帆大船"
+cheat432_handler = "0"
+cheat432_code = "301D664D#13"
+
+cheat433_desc = "2号舰类型变更小型桨帆并用船"
+cheat433_handler = "0"
+cheat433_code = "301D664D#14"
+
+cheat434_desc = "2号舰类型变更中型桨帆并用船"
+cheat434_handler = "0"
+cheat434_code = "301D664D#15"
+
+cheat435_desc = "2号舰类型变更大型桨帆并用船"
+cheat435_handler = "0"
+cheat435_code = "301D664D#16"
+
+cheat436_desc = "2号舰类型变更巨型桨帆并用船"
+cheat436_handler = "0"
+cheat436_code = "301D664D#17"
+
+cheat437_desc = "2号舰类型变更小型阿拉伯船"
+cheat437_handler = "0"
+cheat437_code = "301D664D#18"
+
+cheat438_desc = "2号舰类型变更中型阿拉伯轻快船"
+cheat438_handler = "0"
+cheat438_code = "301D664D#19"
+
+cheat439_desc = "2号舰类型变更巨型阿拉伯船"
+cheat439_handler = "0"
+cheat439_code = "301D664D#1A"
+
+cheat440_desc = "2号舰类型变更小型中国帆船"
+cheat440_handler = "0"
+cheat440_code = "301D664D#1B"
+
+cheat441_desc = "2号舰类型变更中国帆船"
+cheat441_handler = "0"
+cheat441_code = "301D664D#1C"
+
+cheat442_desc = "2号舰类型变更大型中国帆船"
+cheat442_handler = "0"
+cheat442_code = "301D664D#1D"
+
+cheat443_desc = "2号舰类型变更小型日本桨船"
+cheat443_handler = "0"
+cheat443_code = "301D664D#1E"
+
+cheat444_desc = "2号舰类型变更中型日本桨船"
+cheat444_handler = "0"
+cheat444_code = "301D664D#1F"
+
+cheat445_desc = "2号舰类型变更大型日本桨帆并用船"
+cheat445_handler = "0"
+cheat445_code = "301D664D#20"
+
+cheat446_desc = "2号舰类型变更铁甲船"
+cheat446_handler = "0"
+cheat446_code = "301D664D#21"
+
+cheat447_desc = "3号舰类型变更小型汉撒式帆船"
+cheat447_handler = "0"
+cheat447_code = "301D66A5#00"
+
+cheat448_desc = "3号舰类型变更小型三角帆船"
+cheat448_handler = "0"
+cheat448_code = "301D66A5#01"
+
+cheat449_desc = "3号舰类型变更小型方形帆船"
+cheat449_handler = "0"
+cheat449_code = "301D66A5#02"
+
+cheat450_desc = "3号舰类型变更中型双桅三角帆船"
+cheat450_handler = "0"
+cheat450_code = "301D66A5#03"
+
+cheat451_desc = "3号舰类型变更大型双桅方帆宽身船"
+cheat451_handler = "0"
+cheat451_code = "301D66A5#04"
+
+cheat452_desc = "3号舰类型变更中型西班牙方形帆船"
+cheat452_handler = "0"
+cheat452_code = "301D66A5#05"
+
+cheat453_desc = "3号舰类型变更大型西班牙方形帆船"
+cheat453_handler = "0"
+cheat453_code = "301D66A5#06"
+
+cheat454_desc = "3号舰类型变更中型北海三桅方帆船"
+cheat454_handler = "0"
+cheat454_code = "301D66A5#07"
+
+cheat455_desc = "3号舰类型变更大型北海三桅方帆船"
+cheat455_handler = "0"
+cheat455_code = "301D66A5#08"
+
+cheat456_desc = "3号舰类型变更小型英国方形帆船"
+cheat456_handler = "0"
+cheat456_code = "301D66A5#09"
+
+cheat457_desc = "3号舰类型变更英国双桅三角帆船"
+cheat457_handler = "0"
+cheat457_code = "301D66A5#0A"
+
+cheat458_desc = "3号舰类型变更中型大桅横方形帆船"
+cheat458_handler = "0"
+cheat458_code = "301D66A5#0B"
+
+cheat459_desc = "3号舰类型变更中型大桅方形帆船"
+cheat459_handler = "0"
+cheat459_code = "301D66A5#0C"
+
+cheat460_desc = "3号舰类型变更小型护航艇"
+cheat460_handler = "0"
+cheat460_code = "301D66A5#0D"
+
+cheat461_desc = "3号舰类型变更护航舰"
+cheat461_handler = "0"
+cheat461_code = "301D66A5#0E"
+
+cheat462_desc = "3号舰类型变更战列舰"
+cheat462_handler = "0"
+cheat462_code = "301D66A5#0F"
+
+cheat463_desc = "3号舰类型变更北海多桅三角帆大船"
+cheat463_handler = "0"
+cheat463_code = "301D66A5#10"
+
+cheat464_desc = "3号舰类型变更北海三桅横方帆大船"
+cheat464_handler = "0"
+cheat464_code = "301D66A5#11"
+
+cheat465_desc = "3号舰类型变更北海三桅三角帆大船"
+cheat465_handler = "0"
+cheat465_code = "301D66A5#12"
+
+cheat466_desc = "3号舰类型变更北海多桅横方帆大船"
+cheat466_handler = "0"
+cheat466_code = "301D66A5#13"
+
+cheat467_desc = "3号舰类型变更小型桨帆并用船"
+cheat467_handler = "0"
+cheat467_code = "301D66A5#14"
+
+cheat468_desc = "3号舰类型变更中型桨帆并用船"
+cheat468_handler = "0"
+cheat468_code = "301D66A5#15"
+
+cheat469_desc = "3号舰类型变更大型桨帆并用船"
+cheat469_handler = "0"
+cheat469_code = "301D66A5#16"
+
+cheat470_desc = "3号舰类型变更巨型桨帆并用船"
+cheat470_handler = "0"
+cheat470_code = "301D66A5#17"
+
+cheat471_desc = "3号舰类型变更小型阿拉伯船"
+cheat471_handler = "0"
+cheat471_code = "301D66A5#18"
+
+cheat472_desc = "3号舰类型变更中型阿拉伯轻快船"
+cheat472_handler = "0"
+cheat472_code = "301D66A5#19"
+
+cheat473_desc = "3号舰类型变更巨型阿拉伯船"
+cheat473_handler = "0"
+cheat473_code = "301D66A5#1A"
+
+cheat474_desc = "3号舰类型变更小型中国帆船"
+cheat474_handler = "0"
+cheat474_code = "301D66A5#1B"
+
+cheat475_desc = "3号舰类型变更中国帆船"
+cheat475_handler = "0"
+cheat475_code = "301D66A5#1C"
+
+cheat476_desc = "3号舰类型变更大型中国帆船"
+cheat476_handler = "0"
+cheat476_code = "301D66A5#1D"
+
+cheat477_desc = "3号舰类型变更小型日本桨船"
+cheat477_handler = "0"
+cheat477_code = "301D66A5#1E"
+
+cheat478_desc = "3号舰类型变更中型日本桨船"
+cheat478_handler = "0"
+cheat478_code = "301D66A5#1F"
+
+cheat479_desc = "3号舰类型变更大型日本桨帆并用船"
+cheat479_handler = "0"
+cheat479_code = "301D66A5#20"
+
+cheat480_desc = "3号舰类型变更铁甲船"
+cheat480_handler = "0"
+cheat480_code = "301D66A5#21"
+
+cheat481_desc = "4号舰类型变更小型汉撒式帆船"
+cheat481_handler = "0"
+cheat481_code = "301D66FD#00"
+
+cheat482_desc = "4号舰类型变更小型三角帆船"
+cheat482_handler = "0"
+cheat482_code = "301D66FD#01"
+
+cheat483_desc = "4号舰类型变更小型方形帆船"
+cheat483_handler = "0"
+cheat483_code = "301D66FD#02"
+
+cheat484_desc = "4号舰类型变更中型双桅三角帆船"
+cheat484_handler = "0"
+cheat484_code = "301D66FD#03"
+
+cheat485_desc = "4号舰类型变更大型双桅方帆宽身船"
+cheat485_handler = "0"
+cheat485_code = "301D66FD#04"
+
+cheat486_desc = "4号舰类型变更中型西班牙方形帆船"
+cheat486_handler = "0"
+cheat486_code = "301D66FD#05"
+
+cheat487_desc = "4号舰类型变更大型西班牙方形帆船"
+cheat487_handler = "0"
+cheat487_code = "301D66FD#06"
+
+cheat488_desc = "4号舰类型变更中型北海三桅方帆船"
+cheat488_handler = "0"
+cheat488_code = "301D66FD#07"
+
+cheat489_desc = "4号舰类型变更大型北海三桅方帆船"
+cheat489_handler = "0"
+cheat489_code = "301D66FD#08"
+
+cheat490_desc = "4号舰类型变更小型英国方形帆船"
+cheat490_handler = "0"
+cheat490_code = "301D66FD#09"
+
+cheat491_desc = "4号舰类型变更英国双桅三角帆船"
+cheat491_handler = "0"
+cheat491_code = "301D66FD#0A"
+
+cheat492_desc = "4号舰类型变更中型大桅横方形帆船"
+cheat492_handler = "0"
+cheat492_code = "301D66FD#0B"
+
+cheat493_desc = "4号舰类型变更中型大桅方形帆船"
+cheat493_handler = "0"
+cheat493_code = "301D66FD#0C"
+
+cheat494_desc = "4号舰类型变更小型护航艇"
+cheat494_handler = "0"
+cheat494_code = "301D66FD#0D"
+
+cheat495_desc = "4号舰类型变更护航舰"
+cheat495_handler = "0"
+cheat495_code = "301D66FD#0E"
+
+cheat496_desc = "4号舰类型变更战列舰"
+cheat496_handler = "0"
+cheat496_code = "301D66FD#0F"
+
+cheat497_desc = "4号舰类型变更北海多桅三角帆大船"
+cheat497_handler = "0"
+cheat497_code = "301D66FD#10"
+
+cheat498_desc = "4号舰类型变更北海三桅横方帆大船"
+cheat498_handler = "0"
+cheat498_code = "301D66FD#11"
+
+cheat499_desc = "4号舰类型变更北海三桅三角帆大船"
+cheat499_handler = "0"
+cheat499_code = "301D66FD#12"
+
+cheat500_desc = "4号舰类型变更北海多桅横方帆大船"
+cheat500_handler = "0"
+cheat500_code = "301D66FD#13"
+
+cheat501_desc = "4号舰类型变更小型桨帆并用船"
+cheat501_handler = "0"
+cheat501_code = "301D66FD#14"
+
+cheat502_desc = "4号舰类型变更中型桨帆并用船"
+cheat502_handler = "0"
+cheat502_code = "301D66FD#15"
+
+cheat503_desc = "4号舰类型变更大型桨帆并用船"
+cheat503_handler = "0"
+cheat503_code = "301D66FD#16"
+
+cheat504_desc = "4号舰类型变更巨型桨帆并用船"
+cheat504_handler = "0"
+cheat504_code = "301D66FD#17"
+
+cheat505_desc = "4号舰类型变更小型阿拉伯船"
+cheat505_handler = "0"
+cheat505_code = "301D66FD#18"
+
+cheat506_desc = "4号舰类型变更中型阿拉伯轻快船"
+cheat506_handler = "0"
+cheat506_code = "301D66FD#19"
+
+cheat507_desc = "4号舰类型变更巨型阿拉伯船"
+cheat507_handler = "0"
+cheat507_code = "301D66FD#1A"
+
+cheat508_desc = "4号舰类型变更小型中国帆船"
+cheat508_handler = "0"
+cheat508_code = "301D66FD#1B"
+
+cheat509_desc = "4号舰类型变更中国帆船"
+cheat509_handler = "0"
+cheat509_code = "301D66FD#1C"
+
+cheat510_desc = "4号舰类型变更大型中国帆船"
+cheat510_handler = "0"
+cheat510_code = "301D66FD#1D"
+
+cheat511_desc = "4号舰类型变更小型日本桨船"
+cheat511_handler = "0"
+cheat511_code = "301D66FD#1E"
+
+cheat512_desc = "4号舰类型变更中型日本桨船"
+cheat512_handler = "0"
+cheat512_code = "301D66FD#1F"
+
+cheat513_desc = "4号舰类型变更大型日本桨帆并用船"
+cheat513_handler = "0"
+cheat513_code = "301D66FD#20"
+
+cheat514_desc = "4号舰类型变更铁甲船"
+cheat514_handler = "0"
+cheat514_code = "301D66FD#21"
+
+cheat515_desc = "旗舰船首像变更大鹫像"
+cheat515_handler = "0"
+cheat515_code = "301D6497#00"
+
+cheat516_desc = "旗舰船首像变更小猪像"
+cheat516_handler = "0"
+cheat516_code = "301D6497#01"
+
+cheat517_desc = "旗舰船首像变更虎鲸像"
+cheat517_handler = "0"
+cheat517_code = "301D6497#02"
+
+cheat518_desc = "旗舰船首像变更白鲸像"
+cheat518_handler = "0"
+cheat518_code = "301D6497#03"
+
+cheat519_desc = "旗舰船首像变更龙像"
+cheat519_handler = "0"
+cheat519_code = "301D6497#04"
+
+cheat520_desc = "旗舰船首像变更海豚像"
+cheat520_handler = "0"
+cheat520_code = "301D6497#05"
+
+cheat521_desc = "旗舰船首像变更处女像"
+cheat521_handler = "0"
+cheat521_code = "301D6497#06"
+
+cheat522_desc = "旗舰船首像变更魔鬼像"
+cheat522_handler = "0"
+cheat522_code = "301D6497#07"
+
+cheat523_desc = "旗舰船首像变更王者像"
+cheat523_handler = "0"
+cheat523_code = "301D6497#08"
+
+cheat524_desc = "旗舰船首像变更圣母像"
+cheat524_handler = "0"
+cheat524_code = "301D6497#09"
+
+cheat525_desc = "1号舰船首像变更大鹫像"
+cheat525_handler = "0"
+cheat525_code = "301D64F7#00"
+
+cheat526_desc = "1号舰船首像变更小猪像"
+cheat526_handler = "0"
+cheat526_code = "301D64F7#01"
+
+cheat527_desc = "1号舰船首像变更虎鲸像"
+cheat527_handler = "0"
+cheat527_code = "301D64F7#02"
+
+cheat528_desc = "1号舰船首像变更白鲸像"
+cheat528_handler = "0"
+cheat528_code = "301D64F7#03"
+
+cheat529_desc = "1号舰船首像变更龙像"
+cheat529_handler = "0"
+cheat529_code = "301D64F7#04"
+
+cheat530_desc = "1号舰船首像变更海豚像"
+cheat530_handler = "0"
+cheat530_code = "301D64F7#05"
+
+cheat531_desc = "1号舰船首像变更处女像"
+cheat531_handler = "0"
+cheat531_code = "301D64F7#06"
+
+cheat532_desc = "1号舰船首像变更魔鬼像"
+cheat532_handler = "0"
+cheat532_code = "301D64F7#07"
+
+cheat533_desc = "1号舰船首像变更王者像"
+cheat533_handler = "0"
+cheat533_code = "301D64F7#08"
+
+cheat534_desc = "1号舰船首像变更圣母像"
+cheat534_handler = "0"
+cheat534_code = "301D64F7#09"
+
+cheat535_desc = "2号船首像变更大鹫像"
+cheat535_handler = "0"
+cheat535_code = "301D664F#00"
+
+cheat536_desc = "2号船首像变更小猪像"
+cheat536_handler = "0"
+cheat536_code = "301D664F#01"
+
+cheat537_desc = "2号船首像变更虎鲸像"
+cheat537_handler = "0"
+cheat537_code = "301D664F#02"
+
+cheat538_desc = "2号船首像变更白鲸像"
+cheat538_handler = "0"
+cheat538_code = "301D664F#03"
+
+cheat539_desc = "2号船首像变更龙像"
+cheat539_handler = "0"
+cheat539_code = "301D664F#04"
+
+cheat540_desc = "2号船首像变更海豚像"
+cheat540_handler = "0"
+cheat540_code = "301D664F#05"
+
+cheat541_desc = "2号船首像变更处女像"
+cheat541_handler = "0"
+cheat541_code = "301D664F#06"
+
+cheat542_desc = "2号船首像变更魔鬼像"
+cheat542_handler = "0"
+cheat542_code = "301D664F#07"
+
+cheat543_desc = "2号船首像变更王者像"
+cheat543_handler = "0"
+cheat543_code = "301D664F#08"
+
+cheat544_desc = "2号船首像变更圣母像"
+cheat544_handler = "0"
+cheat544_code = "301D664F#09"
+
+cheat545_desc = "3号船首像变更大鹫像"
+cheat545_handler = "0"
+cheat545_code = "301D66A7#00"
+
+cheat546_desc = "3号船首像变更小猪像"
+cheat546_handler = "0"
+cheat546_code = "301D66A7#01"
+
+cheat547_desc = "3号船首像变更虎鲸像"
+cheat547_handler = "0"
+cheat547_code = "301D66A7#02"
+
+cheat548_desc = "3号船首像变更白鲸像"
+cheat548_handler = "0"
+cheat548_code = "301D66A7#03"
+
+cheat549_desc = "3号船首像变更龙像"
+cheat549_handler = "0"
+cheat549_code = "301D66A7#04"
+
+cheat550_desc = "3号船首像变更海豚像"
+cheat550_handler = "0"
+cheat550_code = "301D66A7#05"
+
+cheat551_desc = "3号船首像变更处女像"
+cheat551_handler = "0"
+cheat551_code = "301D66A7#06"
+
+cheat552_desc = "3号船首像变更魔鬼像"
+cheat552_handler = "0"
+cheat552_code = "301D66A7#07"
+
+cheat553_desc = "3号船首像变更王者像"
+cheat553_handler = "0"
+cheat553_code = "301D66A7#08"
+
+cheat554_desc = "3号船首像变更圣母像"
+cheat554_handler = "0"
+cheat554_code = "301D66A7#09"
+
+cheat555_desc = "4号船首像变更大鹫像"
+cheat555_handler = "0"
+cheat555_code = "301D66FF#00"
+
+cheat556_desc = "4号船首像变更小猪像"
+cheat556_handler = "0"
+cheat556_code = "301D66FF#01"
+
+cheat557_desc = "4号船首像变更虎鲸像"
+cheat557_handler = "0"
+cheat557_code = "301D66FF#02"
+
+cheat558_desc = "4号船首像变更白鲸像"
+cheat558_handler = "0"
+cheat558_code = "301D66FF#03"
+
+cheat559_desc = "4号船首像变更龙像"
+cheat559_handler = "0"
+cheat559_code = "301D66FF#04"
+
+cheat560_desc = "4号船首像变更海豚像"
+cheat560_handler = "0"
+cheat560_code = "301D66FF#05"
+
+cheat561_desc = "4号船首像变更处女像"
+cheat561_handler = "0"
+cheat561_code = "301D66FF#06"
+
+cheat562_desc = "4号船首像变更魔鬼像"
+cheat562_handler = "0"
+cheat562_code = "301D66FF#07"
+
+cheat563_desc = "4号船首像变更王者像"
+cheat563_handler = "0"
+cheat563_code = "301D66FF#08"
+
+cheat564_desc = "4号船首像变更圣母像"
+cheat564_handler = "0"
+cheat564_code = "301D66FF#09"
+
+cheat565_desc = "超强旗舰"
+cheat565_handler = "0"
+cheat565_code = "901D646A#01000000;901D646E#03020202;901D6472#12080D04;901D6476#0605130C;901D647A#14090710;901D647E#08080F0E;901D6482#09090A08;801D6486#0909;301D6488#11;801D648E#03E7;801D6490#03E8;301D6496#05"
+
+cheat566_desc = "超强1号舰"
+cheat566_handler = "0"
+cheat566_code = "901D65CA#01000000;901D65CE#03020202;901D65D2#12080D04;901D65D6#0605130C;901D65DA#14090710;901D65DE#08080F0E;901D65E2#09090A08;801D64E6#0909;301D65E8#11;801D65EE#03E7;801D65F0#03E8;301D65F6#05"
+
+cheat567_desc = "超强2号舰"
+cheat567_handler = "0"
+cheat567_code = "901D6622#01000000;901D6626#03020202;901D662A#12080D04;901D662E#0605130C;901D6632#14090710;901D6636#08080F0E;901D663A#09090A08;801D663E#0909;301D6640#11;801D6646#03E7;801D6648#03E8;301D664E#05"
+
+cheat568_desc = "超强3号舰"
+cheat568_handler = "0"
+cheat568_code = "901D667A#01000000;901D667E#03020202;901D6682#12080D04;901D6686#0605130C;901D668A#14090710;901D668E#08080F0E;901D6692#09090A08;801D6696#0909;301D6698#11;801D669E#03E7;801D66A0#03E8;301D66A6#05"
+
+cheat569_desc = "超强4号舰"
+cheat569_handler = "0"
+cheat569_code = "901D66D2#01000000;901D66D6#03020202;901D66DA#12080D04;901D66DE#0605130C;901D66E2#14090710;901D66E6#08080F0E;901D66EA#09090A08;801D66EE#0909;301D66F0#11;801D66F6#03E7;801D66F8#03E8;301D66FE#05"
+
+cheat570_desc = "拥有全部原产物"
+cheat570_handler = "0"
+cheat570_code = "301D0471#0C;301D0485#0C;301D0499#0C;301D04AD#0C;301D04C1#0C;301D04D5#0C;301D04E9#0C;301D04FD#0C;301D0511#0C;301D0525#0C;301D0539#0C;301D054D#0C;301D0561#0C;301D0575#0C;301D0589#0C;301D059D#0C;301D05B1#0C;301D05C5#0C;301D05D9#0C;301D05ED#0C"
+
+cheat571_desc = "拥有全部航海用品"
+cheat571_handler = "0"
+cheat571_code = "301D0601#0C;301D0615#0C;301D0629#0C;301D063D#0C"
+
+cheat572_desc = "拥有全部武器、防具"
+cheat572_handler = "0"
+cheat572_code = "301D0651#0C;301D0665#0C;301D0679#0C;301D068D#0C;301D06A1#0C;301D06B5#0C;301D06C9#0C;301D06DD#0C;301D06F1#0C;301D0705#0C;301D0719#0C;301D072D#0C;301D0741#0C;301D0755#0C;301D0769#0C;301D077D#0C;301D0791#0C;301D07A5#0C;301D07B9#0C;301D07CD#0C;301D07E1#0C;301D07F5#0C;301D0809#0C;301D081D#0C;301D0831#0C;301D0845#0C;301D0859#0C;301D086D#0C;301D0881#0C;301D0895#0C;301D08A9#0C;301D08BD#0C;301D08D1#0C;301D08E5#0C;301D08F9#0C;301D090D#0C;301D0921#0C;301D0935#0C;301D0949#0C;301D095D#0C;301D0971#0C;301D0985#0C;301D0999#0C;301D09AD#0C;301D09C1#0C;301D09D5#0C;301D09E9#0C;301D09FD#0C;301D0A11#0C;301D0A25#0C"
+
+cheat573_desc = "拥有全部装备品"
+cheat573_handler = "0"
+cheat573_code = "301D0A39#0C;301D0A4D#0C;301D0A61#0C;301D0A75#0C;301D0A89#0C;301D0A9D#0C;301D0AB1#0C;301D0AC5#0C;301D0AD9#0C;301D0AED#0C;301D0B01#0C;301D0B15#0C;301D0B29#0C;301D0B3D#0C;301D0B51#0C;301D0B65#0C;301D0B79#0C;301D0B8D#0C;301D0BA1#0C;301D0BB5#0C;301D0BC9#0C;301D0BDD#0C;301D0BF1#0C;301D0C05#0C;301D0C19#0C;301D0C2D#0C;301D0C41#0C;301D0C55#0C;301D0C69#0C;301D0C7D#0C;301D0C91#0C;301D0CA5#0C;301D0CB9#0C;301D0CCD#0C;301D0CE1#0C;301D0CF5#0C;301D0D09#0C;301D0D1D#0C;301D0D31#0C;301D0D45#0C;301D0E21#0C;301D0E35#0C;301D0E49#0C"
+
+cheat574_desc = "拥有全部船首像"
+cheat574_handler = "0"
+cheat574_code = "301D0D59#0C;301D0D6D#0C;301D0D81#0C;301D0D95#0C;301D0DA9#0C;301D0DBD#0C;301D0DD1#0C;301D0DE5#0C;301D0DF9#0C;301D0E0D#0C"
+
+cheat575_desc = "拥有全部船首像[拥有全部女性的渴望]ON"
+cheat575_handler = "0"
+cheat575_code = "301D0E5D#0C;301D0E71#0C;301D0E85#0C;301D0E99#0C;301D0EAD#0C;301D0EC1#0C;301D0ED5#0C;301D0EE9#0C;301D0EFD#0C;301D0F11#0C;301D0F25#0C;301D0F39#0C;301D0F4D#0C;301D0F61#0C;301D0F75#0C;301D0F89#0C;301D0F9D#0C;301D0FB1#0C;301D0FC5#0C;301D0FD9#0C;301D0FED#0C"
+
+cheat576_desc = "拥有全部霸者之证"
+cheat576_handler = "0"
+cheat576_code = "301D1001#0C;301D1015#0C;301D1029#0C;301D103D#0C;301D1051#0C;301D1065#0C;301D1079#0C"
+
+cheat577_desc = "拥有合成霸者之证地图的物品"
+cheat577_handler = "0"
+cheat577_code = "301D1209#0C;301D121D#0C;301D1231#0C;301D1245#0C;301D1259#0C;301D126D#0C;301D1281#0C;301D1295#0C;301D12A9#0C;301D12BD#0C;301D12D1#0C;301D12E5#0C;301D12F9#0C;301D130D#0C"
+
+cheat578_desc = "拥有全部霸者之证地图"
+cheat578_handler = "0"
+cheat578_code = "301D108D#0C;301D10A1#0C;301D10B5#0C;301D10C9#0C;301D10DD#0C;301D10F1#0C;301D1105#0C"
+
+cheat579_desc = "拥有全部遗迹地图"
+cheat579_handler = "0"
+cheat579_code = "301D1119#0C;301D112D#0C;301D1141#0C;301D1155#0C;301D1169#0C;301D117D#0C;301D1191#0C;301D11A5#0C;301D11B9#0C;301D11CD#0C;301D11E1#0C;301D11F5#0C"
+
+cheat580_desc = "地图全开"
+cheat580_handler = "0"
+cheat580_code = "301DB274#FF;301DB275#FF;301DB276#FF"
+
+cheat581_desc = "所有城市超级繁华"
+cheat581_handler = "0"
+cheat581_code = "901D2D86#270F270F;901D2DF2#270F270F;901D2E5E#270F270F;901D2ECA#270F270F;901D2F36#270F270F;901D2FA2#270F270F;901D300E#270F270F;901D307A#270F270F;901D30E6#270F270F;901D3152#270F270F;901D31BE#270F270F;901D322A#270F270F;901D3296#270F270F;901D3302#270F270F;901D336E#270F270F;901D33DA#270F270F;901D3446#270F270F;901D34B2#270F270F;901D351E#270F270F;901D358A#270F270F;901D35F6#270F270F;901D3662#270F270F;901D36CE#270F270F;901D373A#270F270F;901D37A6#270F270F;901D3812#270F270F;901D387E#270F270F;901D38EA#270F270F;901D3956#270F270F;901D39C2#270F270F;901D3A2E#270F270F;901D3A9A#270F270F;901D3B06#270F270F;901D3B72#270F270F;901D3BDE#270F270F;901D3C4A#270F270F;901D3CB6#270F270F;901D3D22#270F270F;901D3D8E#270F270F;901D3DFA#270F270F;901D3E66#270F270F;901D3ED2#270F270F;901D3F3E#270F270F;901D3FAA#270F270F;901D4016#270F270F;901D4082#270F270F;901D40EE#270F270F;901D415A#270F270F;901D41C6#270F270F;901D4232#270F270F;901D429E#270F270F;901D430A#270F270F;901D4376#270F270F;901D43E2#270F270F;901D444E#270F270F;901D44BA#270F270F;901D4526#270F270F;901D4592#270F270F;901D45FE#270F270F;901D466A#270F270F;901D46D6#270F270F;901D4742#270F270F;901D47AE#270F270F;901D481A#270F270F;901D4886#270F270F;901D48F2#270F270F;901D495E#270F270F;901D49CA#270F270F;901D4A36#270F270F;901D4AA2#270F270F;901D4B0E#270F270F;901D4B7A#270F270F;901D4BE6#270F270F;901D4C52#270F270F;901D4CBE#270F270F;901D4D2A#270F270F;901D4D96#270F270F;901D4E02#270F270F;901D4E6E#270F270F;901D4EDA#270F270F;901D4F46#270F270F;901D4FB2#270F270F;901D501E#270F270F;901D508A#270F270F;901D50F6#270F270F;901D5162#270F270F;901D51CE#270F270F;901D523A#270F270F;901D52A6#270F270F;901D5312#270F270F"
+
+cheat582_desc = "看到所有城市"
+cheat582_handler = "0"
+cheat582_code = "301D2D78#03;301D2DE4#03;301D2E50#03;301D2EBC#03;301D2F28#03;301D2F94#03;301D3000#03;301D306C#03;301D30D8#03;301D3144#03;301D31B0#03;301D321C#03;301D3288#03;301D32F4#03;301D3360#03;301D33CC#03;301D3438#03;301D34A4#03;301D3510#03;301D357C#03;301D35E8#03;301D3654#03;301D36C0#03;301D372C#03;301D3798#03;301D3804#03;301D3870#03;301D38DC#03;301D3948#03;301D39B4#03;301D3A20#03;301D3A8C#03;301D3AF8#03;301D3B64#03;301D3BD0#03;301D3C3C#03;301D3CA8#03;301D3D14#03;301D3D80#03;301D3DEC#03;301D3E58#03;301D3EC4#03;301D3F30#03;301D3F9C#03;301D4008#03;301D4074#03;301D40E0#03;301D414C#03;301D41B8#03;301D4224#03;301D4290#03;301D42FC#03;301D4368#03;301D43D4#03;301D4440#03;301D44AC#03;301D4518#03;301D4584#03;301D45F0#03;301D465C#03;301D46C8#03;301D4734#03;301D47A0#03;301D480C#03;301D4878#03;301D48E4#03;301D4950#03;301D49BC#03;301D4A28#03;301D4A94#03;301D4B00#03;301D4B6C#03;301D4BD8#03;301D4C44#03;301D4CB0#03;301D4D1C#03;301D4D88#03;301D4DF4#03;301D4E60#03;301D4ECC#03;301D4F38#03;301D4FA4#03;301D5010#03;301D507C#03;301D50E8#03;301D5154#03;301D51C0#03;301D522C#03;301D5298#03;301D5304#03"
+
+cheat583_desc = "旗舰货物小麦"
+cheat583_handler = "0"
+cheat583_code = "301D6499#0100"
+
+cheat584_desc = "旗舰货物大米"
+cheat584_handler = "0"
+cheat584_code = "301D6499#0101"
+
+cheat585_desc = "旗舰货物玉米"
+cheat585_handler = "0"
+cheat585_code = "301D6499#0102"
+
+cheat586_desc = "旗舰货物马铃薯"
+cheat586_handler = "0"
+cheat586_code = "301D6499#0103"
+
+cheat587_desc = "旗舰货物大豆"
+cheat587_handler = "0"
+cheat587_code = "301D6499#0104"
+
+cheat588_desc = "旗舰货物鱼肉"
+cheat588_handler = "0"
+cheat588_code = "301D6499#0105"
+
+cheat589_desc = "旗舰货物牛肉"
+cheat589_handler = "0"
+cheat589_code = "301D6499#0106"
+
+cheat590_desc = "旗舰货物南瓜"
+cheat590_handler = "0"
+cheat590_code = "301D6499#0107"
+
+cheat591_desc = "旗舰货物乳酪"
+cheat591_handler = "0"
+cheat591_code = "301D6499#0108"
+
+cheat592_desc = "旗舰货物番茄"
+cheat592_handler = "0"
+cheat592_code = "301D6499#0109"
+
+cheat593_desc = "旗舰货物香蕉"
+cheat593_handler = "0"
+cheat593_code = "301D6499#010A"
+
+cheat594_desc = "旗舰货物砂糖"
+cheat594_handler = "0"
+cheat594_code = "301D6499#010B"
+
+cheat595_desc = "旗舰货物蜂蜜"
+cheat595_handler = "0"
+cheat595_code = "301D6499#010C"
+
+cheat596_desc = "旗舰货物盐"
+cheat596_handler = "0"
+cheat596_code = "301D6499#010D"
+
+cheat597_desc = "旗舰货物橄榄油"
+cheat597_handler = "0"
+cheat597_code = "301D6499#010E"
+
+cheat598_desc = "旗舰货物椰子油"
+cheat598_handler = "0"
+cheat598_code = "301D6499#010F"
+
+cheat599_desc = "旗舰货物荔枝"
+cheat599_handler = "0"
+cheat599_code = "301D6499#0110"
+
+cheat600_desc = "旗舰货物榛子"
+cheat600_handler = "0"
+cheat600_code = "301D6499#0111"
+
+cheat601_desc = "旗舰货物葡萄干"
+cheat601_handler = "0"
+cheat601_code = "301D6499#0112"
+
+cheat602_desc = "旗舰货物鱼子酱"
+cheat602_handler = "0"
+cheat602_code = "301D6499#0113"
+
+cheat603_desc = "旗舰货物鱼翅"
+cheat603_handler = "0"
+cheat603_code = "301D6499#0114"
+
+cheat604_desc = "旗舰货物胡椒"
+cheat604_handler = "0"
+cheat604_code = "301D6499#0115"
+
+cheat605_desc = "旗舰货物丁香"
+cheat605_handler = "0"
+cheat605_code = "301D6499#0116"
+
+cheat606_desc = "旗舰货物豆蔻"
+cheat606_handler = "0"
+cheat606_code = "301D6499#0117"
+
+cheat607_desc = "旗舰货物肉桂"
+cheat607_handler = "0"
+cheat607_code = "301D6499#0118"
+
+cheat608_desc = "旗舰货物甜椒"
+cheat608_handler = "0"
+cheat608_code = "301D6499#0119"
+
+cheat609_desc = "旗舰货物罗望子"
+cheat609_handler = "0"
+cheat609_code = "301D6499#011A"
+
+cheat610_desc = "旗舰货物藏红花"
+cheat610_handler = "0"
+cheat610_code = "301D6499#011B"
+
+cheat611_desc = "旗舰货物香草"
+cheat611_handler = "0"
+cheat611_code = "301D6499#011C"
+
+cheat612_desc = "旗舰货物辣椒"
+cheat612_handler = "0"
+cheat612_code = "301D6499#011D"
+
+cheat613_desc = "旗舰货物咖啡"
+cheat613_handler = "0"
+cheat613_code = "301D6499#011E"
+
+cheat614_desc = "旗舰货物茶"
+cheat614_handler = "0"
+cheat614_code = "301D6499#011F"
+
+cheat615_desc = "旗舰货物可可"
+cheat615_handler = "0"
+cheat615_code = "301D6499#0120"
+
+cheat616_desc = "旗舰货物烟草"
+cheat616_handler = "0"
+cheat616_code = "301D6499#0121"
+
+cheat617_desc = "旗舰货物葡萄酒"
+cheat617_handler = "0"
+cheat617_code = "301D6499#0122"
+
+cheat618_desc = "旗舰货物白兰地"
+cheat618_handler = "0"
+cheat618_code = "301D6499#0123"
+
+cheat619_desc = "旗舰货物莱姆酒"
+cheat619_handler = "0"
+cheat619_code = "301D6499#0124"
+
+cheat620_desc = "旗舰货物清酒"
+cheat620_handler = "0"
+cheat620_code = "301D6499#0125"
+
+cheat621_desc = "旗舰货物金"
+cheat621_handler = "0"
+cheat621_code = "301D6499#0126"
+
+cheat622_desc = "旗舰货物银"
+cheat622_handler = "0"
+cheat622_code = "301D6499#0127"
+
+cheat623_desc = "旗舰货物白金"
+cheat623_handler = "0"
+cheat623_code = "301D6499#0128"
+
+cheat624_desc = "旗舰货物玻璃"
+cheat624_handler = "0"
+cheat624_code = "301D6499#0129"
+
+cheat625_desc = "旗舰货物陶瓷器"
+cheat625_handler = "0"
+cheat625_code = "301D6499#012A"
+
+cheat626_desc = "旗舰货物漆器"
+cheat626_handler = "0"
+cheat626_code = "301D6499#012B"
+
+cheat627_desc = "旗舰货物象牙艺品"
+cheat627_handler = "0"
+cheat627_code = "301D6499#012C"
+
+cheat628_desc = "旗舰货物羊毛"
+cheat628_handler = "0"
+cheat628_code = "301D6499#012D"
+
+cheat629_desc = "旗舰货物棉花"
+cheat629_handler = "0"
+cheat629_code = "301D6499#012E"
+
+cheat630_desc = "旗舰货物丝绸"
+cheat630_handler = "0"
+cheat630_code = "301D6499#012F"
+
+cheat631_desc = "旗舰货物麻"
+cheat631_handler = "0"
+cheat631_code = "301D6499#0130"
+
+cheat632_desc = "旗舰货物毛织品"
+cheat632_handler = "0"
+cheat632_code = "301D6499#0131"
+
+cheat633_desc = "旗舰货物棉织品"
+cheat633_handler = "0"
+cheat633_code = "301D6499#0132"
+
+cheat634_desc = "旗舰货物丝织品"
+cheat634_handler = "0"
+cheat634_code = "301D6499#0133"
+
+cheat635_desc = "旗舰货物麻织品"
+cheat635_handler = "0"
+cheat635_code = "301D6499#0134"
+
+cheat636_desc = "旗舰货物绒织品"
+cheat636_handler = "0"
+cheat636_code = "301D6499#0135"
+
+cheat637_desc = "旗舰货物纱布"
+cheat637_handler = "0"
+cheat637_code = "301D6499#0136"
+
+cheat638_desc = "旗舰货物古董"
+cheat638_handler = "0"
+cheat638_code = "301D6499#0137"
+
+cheat639_desc = "旗舰货物毛皮"
+cheat639_handler = "0"
+cheat639_code = "301D6499#0138"
+
+cheat640_desc = "旗舰货物绘画"
+cheat640_handler = "0"
+cheat640_code = "301D6499#0139"
+
+cheat641_desc = "旗舰货物雕刻"
+cheat641_handler = "0"
+cheat641_code = "301D6499#013A"
+
+cheat642_desc = "旗舰货物麝香"
+cheat642_handler = "0"
+cheat642_code = "301D6499#013B"
+
+cheat643_desc = "旗舰货物乳香"
+cheat643_handler = "0"
+cheat643_code = "301D6499#013C"
+
+cheat644_desc = "旗舰货物龙涎香"
+cheat644_handler = "0"
+cheat644_code = "301D6499#013D"
+
+cheat645_desc = "旗舰货物翡翠"
+cheat645_handler = "0"
+cheat645_code = "301D6499#013E"
+
+cheat646_desc = "旗舰货物象牙"
+cheat646_handler = "0"
+cheat646_code = "301D6499#013F"
+
+cheat647_desc = "旗舰货物珊瑚"
+cheat647_handler = "0"
+cheat647_code = "301D6499#0140"
+
+cheat648_desc = "旗舰货物玳瑁甲"
+cheat648_handler = "0"
+cheat648_code = "301D6499#0141"
+
+cheat649_desc = "旗舰货物琥珀"
+cheat649_handler = "0"
+cheat649_code = "301D6499#0142"
+
+cheat650_desc = "旗舰货物水晶"
+cheat650_handler = "0"
+cheat650_code = "301D6499#0143"
+
+cheat651_desc = "旗舰货物软玉"
+cheat651_handler = "0"
+cheat651_code = "301D6499#0144"
+
+cheat652_desc = "旗舰货物珍珠"
+cheat652_handler = "0"
+cheat652_code = "301D6499#0145"
+
+cheat653_desc = "旗舰货物钻石"
+cheat653_handler = "0"
+cheat653_code = "301D6499#0146"
+
+cheat654_desc = "旗舰货物蓝宝石"
+cheat654_handler = "0"
+cheat654_code = "301D6499#0147"
+
+cheat655_desc = "旗舰货物祖母绿"
+cheat655_handler = "0"
+cheat655_code = "301D6499#0148"
+
+cheat656_desc = "旗舰货物红宝石"
+cheat656_handler = "0"
+cheat656_code = "301D6499#0149"
+
+cheat657_desc = "旗舰货物天青石"
+cheat657_handler = "0"
+cheat657_code = "301D6499#014A"
+
+cheat658_desc = "旗舰货物犀牛角"
+cheat658_handler = "0"
+cheat658_code = "301D6499#014B"
+
+cheat659_desc = "旗舰货物人参"
+cheat659_handler = "0"
+cheat659_code = "301D6499#014C"
+
+cheat660_desc = "旗舰货物奎宁"
+cheat660_handler = "0"
+cheat660_code = "301D6499#014D"
+
+cheat661_desc = "旗舰货物杏仁"
+cheat661_handler = "0"
+cheat661_code = "301D6499#014E"
+
+cheat662_desc = "旗舰货物冬虫夏草"
+cheat662_handler = "0"
+cheat662_code = "301D6499#014F"
+
+cheat663_desc = "旗舰货物鬱金"
+cheat663_handler = "0"
+cheat663_code = "301D6499#0150"
+
+cheat664_desc = "旗舰货物靛蓝"
+cheat664_handler = "0"
+cheat664_code = "301D6499#0151"
+
+cheat665_desc = "旗舰货物胭脂红"
+cheat665_handler = "0"
+cheat665_code = "301D6499#0152"
+
+cheat666_desc = "旗舰货物槟榔"
+cheat666_handler = "0"
+cheat666_code = "301D6499#0153"
+
+cheat667_desc = "旗舰货物大黄"
+cheat667_handler = "0"
+cheat667_code = "301D6499#0154"
+
+cheat668_desc = "旗舰货物山竹果"
+cheat668_handler = "0"
+cheat668_code = "301D6499#0155"
+
+cheat669_desc = "旗舰货物洋枪"
+cheat669_handler = "0"
+cheat669_code = "301D6499#0156"
+
+cheat670_desc = "旗舰货物大炮"
+cheat670_handler = "0"
+cheat670_code = "301D6499#0157"
+
+cheat671_desc = "旗舰货物刀剑"
+cheat671_handler = "0"
+cheat671_code = "301D6499#0158"
+
+cheat672_desc = "旗舰货物甲胄"
+cheat672_handler = "0"
+cheat672_code = "301D6499#0159"
+
+cheat673_desc = "旗舰货物铁矿石"
+cheat673_handler = "0"
+cheat673_code = "301D6499#015A"
+
+cheat674_desc = "旗舰货物铜矿石"
+cheat674_handler = "0"
+cheat674_code = "301D6499#015B"
+
+cheat675_desc = "旗舰货物锡矿石"
+cheat675_handler = "0"
+cheat675_code = "301D6499#015C"
+
+cheat676_desc = "旗舰货物硝石"
+cheat676_handler = "0"
+cheat676_code = "301D6499#015D"
+
+cheat677_desc = "旗舰货物硫磺"
+cheat677_handler = "0"
+cheat677_code = "301D6499#015E"
+
+cheat678_desc = "旗舰货物木材"
+cheat678_handler = "0"
+cheat678_code = "301D6499#015F"
+
+cheat679_desc = "旗舰货物皮草"
+cheat679_handler = "0"
+cheat679_code = "301D6499#0160"
+
+cheat680_desc = "旗舰货物蜡"
+cheat680_handler = "0"
+cheat680_code = "301D6499#0161"
+
+cheat681_desc = "旗舰货物糖胶"
+cheat681_handler = "0"
+cheat681_code = "301D6499#0162"
+
+cheat682_desc = "旗舰货物鸟粪石"
+cheat682_handler = "0"
+cheat682_code = "301D6499#0163"
+
+cheats = 683

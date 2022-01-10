@@ -1,0 +1,17 @@
+cheat0_desc = "不计算游戏时间:"
+cheat0_handler = "0"
+cheat0_code = "D0049D3C#0001;80049D3C#0000"
+
+cheat1_desc = "上一个LP后LP变最大:"
+cheat1_handler = "0"
+cheat1_code = "D001F3FA#1040;8001F3FA#1440"
+
+cheat2_desc = "选择分支LP不减:"
+cheat2_handler = "0"
+cheat2_code = "D001F10E#00A0;8001F10E#0000"
+
+cheat3_desc = "LP不足都可以"夹硬"选择分支:"
+cheat3_handler = "0"
+cheat3_code = "D001BAE8#1821;8001BAEE#A2C2"
+
+cheats = 4

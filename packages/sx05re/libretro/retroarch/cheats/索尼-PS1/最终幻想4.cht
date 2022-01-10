@@ -1,0 +1,21 @@
+cheat0_desc = "呼叫胖路行鸟道具"
+cheat0_handler = "0"
+cheat0_code = "800D1440#63ED"
+
+cheat1_desc = "胖路行鸟道具栏01-128 1"
+cheat1_handler = "0"
+cheat1_code = "B0800002#00000001"
+
+cheat2_desc = "胖路行鸟道具栏01-128 一"
+cheat2_handler = "0"
+cheat2_code = "800D1340#6301"
+
+cheat3_desc = "胖路行鸟道具栏01-128 2"
+cheat3_handler = "0"
+cheat3_code = "B0800002#00000001"
+
+cheat4_desc = "胖路行鸟道具栏01-128 二"
+cheat4_handler = "0"
+cheat4_code = "800D1340#6381"
+
+cheats = 5

@@ -1,0 +1,13 @@
+cheat0_desc = "1P按开始钮+L1钮后,1P得99分2P得0分"
+cheat0_handler = "0"
+cheat0_code = "D008A9EE#FBF7;30099FFB6#0063;D008A9EE#FBF7;300999C2#0000"
+
+cheat1_desc = "1P按开始钮+R1钮后,1P得0分2P得99分"
+cheat1_handler = "0"
+cheat1_code = "D008A9EE#F7F7;30099FB6#0000;D008A9EE#F7F7;300999C2#0063"
+
+cheat2_desc = "1P按开始钮+R2钮后,0好3坏0出局"
+cheat2_handler = "0"
+cheat2_code = "D008A9EE#FDF7;8009B57C#0300;D008A9EE#FDF7;3009B57E#0000"
+
+cheats = 3

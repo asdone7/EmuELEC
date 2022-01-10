@@ -1,0 +1,9 @@
+cheat0_desc = "MAX power"
+cheat0_handler = "0"
+cheat0_code = "8006E25E#207F"
+
+cheat1_desc = "Time Zero"
+cheat1_handler = "0"
+cheat1_code = "80022B52#AC20"
+
+cheats = 2

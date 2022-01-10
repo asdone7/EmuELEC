@@ -1,0 +1,5 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "80072818#9676;9007281A#0098"
+
+cheats = 1

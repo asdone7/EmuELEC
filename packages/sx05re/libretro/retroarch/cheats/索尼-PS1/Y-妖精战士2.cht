@@ -1,0 +1,21 @@
+cheat0_desc = "升級時最強"
+cheat0_handler = "0"
+cheat0_code = "8015B974#800B;8015B976#3C02;8015B988#F500;8015B98A#3442;8015B98E#0082"
+
+cheat1_desc = "Ｇ值最高"
+cheat1_handler = "0"
+cheat1_code = "800BD3EC#423F;800BD3EE#000F"
+
+cheat2_desc = "Ｓ值最高"
+cheat2_handler = "0"
+cheat2_code = "800BD3F0#423F;800BD3F2#000F"
+
+cheat3_desc = "ＧＰ值最高"
+cheat3_handler = "0"
+cheat3_code = "800BD070#7FFF"
+
+cheat4_desc = "完全圖鑑"
+cheat4_handler = "0"
+cheat4_code = "800D96BC#FFFF;800D96BE#3442"
+
+cheats = 5

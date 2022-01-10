@@ -1,0 +1,13 @@
+cheat0_desc = "最强武器"
+cheat0_handler = "0"
+cheat0_code = "D0081774#3E07;80081776#000f"
+
+cheat1_desc = "变身人物"
+cheat1_handler = "0"
+cheat1_code = "D013B224#3E07;8018B886#000F"
+
+cheat2_desc = "弹药数"
+cheat2_handler = "0"
+cheat2_code = "801EB5AC#0063"
+
+cheats = 3

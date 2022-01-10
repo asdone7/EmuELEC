@@ -1,0 +1,73 @@
+cheat0_desc = "話"
+cheat0_handler = "0"
+cheat0_code = "8007433E#4038;800743A6#4038;8007440E#4038;80074476#4038;800744DE#4038;80074546#4038;800745AE#4038;80074616#4038;8007467E#4038;800746E6#4038"
+
+cheat1_desc = "約會..打電話.等等好感度大幅提升"
+cheat1_handler = "0"
+cheat1_code = "D00C3DC6#0052;800C3DC6#0042;D00C3E92#0051;800C3E92#0042;D00C3BC2#0051;800C3BC2#0042"
+
+cheat2_desc = "體調"
+cheat2_handler = "0"
+cheat2_code = "80074F7A#03E7"
+
+cheat3_desc = "文系"
+cheat3_handler = "0"
+cheat3_code = "80074F7E#03E7"
+
+cheat4_desc = "理系"
+cheat4_handler = "0"
+cheat4_code = "80074F82#03E7"
+
+cheat5_desc = "藝術"
+cheat5_handler = "0"
+cheat5_code = "80074F86#03E7"
+
+cheat6_desc = "運動"
+cheat6_handler = "0"
+cheat6_code = "80074F8A#03E7"
+
+cheat7_desc = "雜學"
+cheat7_handler = "0"
+cheat7_code = "80074F8E#03E7"
+
+cheat8_desc = "容姿"
+cheat8_handler = "0"
+cheat8_code = "80074F92#03E7"
+
+cheat9_desc = "根性"
+cheat9_handler = "0"
+cheat9_code = "80074F96#03E7"
+
+cheat10_desc = "疲勞"
+cheat10_handler = "0"
+cheat10_code = "80074F9A#0000"
+
+cheat11_desc = "改日期 XXXX=0000(1999年4月1日)"
+cheat11_handler = "0"
+cheat11_code = "80075798#XXXX"
+
+cheat12_desc = "全ＥＮＤＩＮＧ"
+cheat12_handler = "0"
+cheat12_code = "3006D663#0040;8006D664#FFFF;3006D666#000F"
+
+cheat13_desc = "全小遊戲"
+cheat13_handler = "0"
+cheat13_code = "3006D776#00F9"
+
+cheat14_desc = "可不停打電話"
+cheat14_handler = "0"
+cheat14_code = "3011C0D8#0001"
+
+cheat15_desc = "全愛情度最高"
+cheat15_handler = "0"
+cheat15_code = "B00A0030#00000000;300A1B12#00FF"
+
+cheat16_desc = "全友好度最高"
+cheat16_handler = "0"
+cheat16_code = "B00A0030#00000000;300A1B16#00FF"
+
+cheat17_desc = "全傷心度最低"
+cheat17_handler = "0"
+cheat17_code = "B00A0030#00000000;300A1B17#0000"
+
+cheats = 18

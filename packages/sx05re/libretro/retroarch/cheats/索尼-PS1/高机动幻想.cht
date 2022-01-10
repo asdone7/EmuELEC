@@ -1,0 +1,5 @@
+cheat0_desc = "金钱超高"
+cheat0_handler = "0"
+cheat0_code = "80104628#E0FF;8010462A#05F5"
+
+cheats = 1

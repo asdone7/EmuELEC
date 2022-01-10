@@ -1,0 +1,17 @@
+cheat0_desc = "イノチウムMAX"
+cheat0_handler = "0"
+cheat0_code = "800867C0#967F;800867C2#0098"
+
+cheat1_desc = "一次的人形召唤MAX"
+cheat1_handler = "0"
+cheat1_code = "D01DAA06#2443;801DAA04#001E"
+
+cheat2_desc = "战斗后级别MAX"
+cheat2_handler = "0"
+cheat2_code = "D00497A6#1040;800497A4#0001"
+
+cheat3_desc = "道具99个"
+cheat3_handler = "0"
+cheat3_code = "D004C88E#1440;8004C88C#0001;D01DA19A#2442;801DA198#0063;D01DA19A#2442;801DA19A#2402"
+
+cheats = 4

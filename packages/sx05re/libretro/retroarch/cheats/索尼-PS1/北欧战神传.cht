@@ -1,0 +1,129 @@
+cheat0_desc = "キャバシライ不减"
+cheat0_handler = "0"
+cheat0_code = "D005C246#0051,8005C546#2400;D003BD7E#0043,8003BD7E#0040;D003BDBE#0043,8003BDBE#0040"
+
+cheat1_desc = "回复道具不减"
+cheat1_handler = "0"
+cheat1_code = "D004582A#A069,8004582A#2400"
+
+cheat2_desc = "战斗后LV最大"
+cheat2_handler = "0"
+cheat2_code = "D00998B2#1C60,800998B2#0000;D00998B0#012A,800998B0#0000"
+
+cheat3_desc = "全道具"
+cheat3_handler = "0"
+cheat3_code = "B0FF0002#00000001,301F62A2#0000;B0FF0001#00000000,301F676A#0063"
+
+cheat4_desc = "一発で決め技ゲージMAX"
+cheat4_handler = "0"
+cheat4_code = "D003DC64#1021,8003DC64#0064;D003DC66#0045,8003DC66#2002"
+
+cheat5_desc = "ターン終了時にCT0"
+cheat5_handler = "0"
+cheat5_code = "D0066B32#A4A2,80066B32#A4A0"
+
+cheat6_desc = "遊戲時間停止"
+cheat6_handler = "0"
+cheat6_code = "D0035122#2442,80035122#2400"
+
+cheat7_desc = "随时记录"
+cheat7_handler = "0"
+cheat7_code = "301F6274#0011"
+
+cheat8_desc = "经验宝珠最大"
+cheat8_handler = "0"
+cheat8_code = "801E5BF8#E0FF;801E5BF8#05F5"
+
+cheat9_desc = "评价值最大"
+cheat9_handler = "0"
+cheat9_code = "301F6264#0064"
+
+cheat10_desc = "DME最大"
+cheat10_handler = "0"
+cheat10_code = "901DFEA0#00015F90"
+
+cheat11_desc = "STR"
+cheat11_handler = "0"
+cheat11_code = "801DFEA4#270F"
+
+cheat12_desc = "INTxx"
+cheat12_handler = "0"
+cheat12_code = "801DFEA6#XXXX"
+
+cheat13_desc = "AGLxx"
+cheat13_handler = "0"
+cheat13_code = "801DFEA8#XXXX"
+
+cheat14_desc = "DEXxx"
+cheat14_handler = "0"
+cheat14_code = "801DFEAA#XXXX"
+
+cheat15_desc = "EXPxx"
+cheat15_handler = "0"
+cheat15_code = "801DFEAC#XXXX;801DFEAE#XXXX"
+
+cheat16_desc = "Chapterxx"
+cheat16_handler = "0"
+cheat16_code = "301E4C40#000X"
+
+cheat17_desc = "Periodxx"
+cheat17_handler = "0"
+cheat17_code = "301E4C41#00XX"
+
+cheat18_desc = "经验值的宝珠"
+cheat18_handler = "0"
+cheat18_code = "9004AA24#35A4E900"
+
+cheat19_desc = "人物特技999"
+cheat19_handler = "0"
+cheat19_code = "D003BD7C#1023,8003BD7C#03E7;D003BD7E#0043,8003BD7E#2002;D003BDBC#1023,8003BDBC#03E7;D003BDBE#0043,8003BDBE#2002"
+
+cheat20_desc = "特技点数999"
+cheat20_handler = "0"
+cheat20_code = "D005C244#1023,8005C244#03E7;D005C246#0051,8005C246#2002"
+
+cheat21_desc = "特技成长"
+cheat21_handler = "0"
+cheat21_code = "901E62C4#FFFFFF00;801E62C8#00FF"
+
+cheat22_desc = "必杀技MAX"
+cheat22_handler = "0"
+cheat22_code = "D003DC64#1021,8003DC64#0064;D003DC66#0045,8003DC66#2002"
+
+cheat23_desc = "道具全满(请小心使用该金手指)"
+cheat23_handler = "0"
+cheat23_code = "5000FF02#0001;801F62A2#0001;5000FF02#0001;801F64A0#0100;50006602#0001;801F669E#01FF;5000FF01#0000;301F676A#0063;5000FF01#0000;301F6869#0063;50006601#0000;301F6968#0063"
+
+cheat24_desc = "全道具"
+cheat24_handler = "0"
+cheat24_code = "B0FF0002#00000001,301F62A2#0000;B0FF0001#00000000,301F676A#0063"
+
+cheat25_desc = "作成道具时不减点数"
+cheat25_handler = "0"
+cheat25_code = "D005A96C#0055,8005A96E#0000"
+
+cheat26_desc = "评价值(最大值64)"
+cheat26_handler = "0"
+cheat26_code = "301F6264#00XX"
+
+cheat27_desc = "随地save"
+cheat27_handler = "0"
+cheat27_code = "801F6274#0215"
+
+cheat28_desc = "jump力最大"
+cheat28_handler = "0"
+cheat28_code = "D002FFD6#2462,8002FFD4#0000"
+
+cheat29_desc = "GameinfoName"
+cheat29_handler = "0"
+cheat29_code = "北欧战神传"
+
+cheat30_desc = "GameinfoSystem"
+cheat30_handler = "0"
+cheat30_code = "PS"
+
+cheat31_desc = "GameinfoText"
+cheat31_handler = "0"
+cheat31_code = "xury521.533.net"
+
+cheats = 32

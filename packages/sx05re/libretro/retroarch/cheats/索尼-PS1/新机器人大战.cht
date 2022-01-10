@@ -1,0 +1,41 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "800FEC94#967F;800FEC96#0098"
+
+cheat1_desc = "全员SP值不减"
+cheat1_handler = "0"
+cheat1_code = "8012DC56#0060"
+
+cheat2_desc = "全员弹数不减"
+cheat2_handler = "0"
+cheat2_code = "801423E6#0060"
+
+cheat3_desc = "全员EN不减"
+cheat3_handler = "0"
+cheat3_code = "8014238A#0060"
+
+cheat4_desc = "快速升级"
+cheat4_handler = "0"
+cheat4_code = "B02E0028#00000000;801028DE#0000"
+
+cheat5_desc = "SRX合体不受3回合限制"
+cheat5_handler = "0"
+cheat5_code = "D00CAB3A#A022;800CAB3A#A000"
+
+cheat6_desc = "攻击时回避率100%"
+cheat6_handler = "0"
+cheat6_code = "8012EC8C#9F00"
+
+cheat7_desc = "超热血攻击时力量加倍"
+cheat7_handler = "0"
+cheat7_code = "8012EB14#9F00"
+
+cheat8_desc = "超集中攻击时命中率加倍"
+cheat8_handler = "0"
+cheat8_code = "8012F164#9F00"
+
+cheat9_desc = "气合战意150"
+cheat9_handler = "0"
+cheat9_code = "D014E8BA#1440;8014E8B8#0001"
+
+cheats = 10

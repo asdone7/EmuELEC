@@ -1,0 +1,233 @@
+cheat0_desc = "自创1号武将能力全满"
+cheat0_handler = "0"
+cheat0_code = "3014603C#FF;3014603D#FF;3014603E#FF;3014603F#FF"
+
+cheat1_desc = "自创2号武将能力全满"
+cheat1_handler = "0"
+cheat1_code = "3014605C#FF;3014605D#FF;3014605E#FF;3014605F#FF"
+
+cheat2_desc = "自创3号武将能力全满"
+cheat2_handler = "0"
+cheat2_code = "3014607C#FF;3014607D#FF;3014607E#FF;3014607F#FF"
+
+cheat3_desc = "自创4号武将能力全满"
+cheat3_handler = "0"
+cheat3_code = "3014609C#FF;3014609D#FF;3014609E#FF;3014609F#FF"
+
+cheat4_desc = "自创5号武将能力全满"
+cheat4_handler = "0"
+cheat4_code = "301460BC#FF;301460BD#FF;301460BE#FF;301460BF#FF"
+
+cheat5_desc = "自创6号武将能力全满"
+cheat5_handler = "0"
+cheat5_code = "301460DC#FF;301460DD#FF;301460DE#FF;301460DF#FF"
+
+cheat6_desc = "自创7号武将能力全满"
+cheat6_handler = "0"
+cheat6_code = "301460FC#FF;301460FD#FF;301460FE#FF;301460FF#FF"
+
+cheat7_desc = "自创8号武将能力全满"
+cheat7_handler = "0"
+cheat7_code = "3014611C#FF;3014611D#FF;3014611E#FF;3014611F#FF"
+
+cheat8_desc = "自创9号武将能力全满"
+cheat8_handler = "0"
+cheat8_code = "3014613C#FF;3014613D#FF;3014613E#FF;3014613F#FF"
+
+cheat9_desc = "自创10号武将能力全满"
+cheat9_handler = "0"
+cheat9_code = "3014615C#FF;3014615D#FF;3014615E#FF;3014615F#FF"
+
+cheat10_desc = "己方势力名声科技全满（火烧洛阳剧本自创武将定居襄平时有效）"
+cheat10_handler = "0"
+cheat10_code = "90119066#FFFF;90119062#FFFF;80119314#2710"
+
+cheat11_desc = "襄平属性全满"
+cheat11_handler = "0"
+cheat11_code = "8011931A#3E8;8011931C#3E8;80119316#3E7;30119321#64;30119322#64"
+
+cheat12_desc = "北平属性全满"
+cheat12_handler = "0"
+cheat12_code = "80119342#3E8;80119344#3E8;8011933E#3E7;30119349#64;3011934A#64"
+
+cheat13_desc = "代县属性全满"
+cheat13_handler = "0"
+cheat13_code = "8011936A#3E8;3011936C#3E8;80119366#3E7;30119371#64;30119372#64"
+
+cheat14_desc = "晋阳属性全满"
+cheat14_handler = "0"
+cheat14_code = "80119392#3E8;80119394#3E8;8011938E#3E7;30119399#64;3011939A#64"
+
+cheat15_desc = "南皮属性全满"
+cheat15_handler = "0"
+cheat15_code = "801193BA#3E8;801193BC#3E8;801193B6#3E7;301193C1#64;301193C2#64"
+
+cheat16_desc = "平原属性全满"
+cheat16_handler = "0"
+cheat16_code = "801193E2#3E8;801193E4#3E8;801193DE#3E7;301193E9#64;301193EA#64"
+
+cheat17_desc = "邺属性全满"
+cheat17_handler = "0"
+cheat17_code = "8011940A#3E8;8011940C#3E8;80119406#3E7;30119411#64;30119412#64"
+
+cheat18_desc = "北海属性全满"
+cheat18_handler = "0"
+cheat18_code = "80119432#3E8;80119434#3E8;8011942E#3E7;30119439#64;3011943A#64"
+
+cheat19_desc = "濮阳属性全满"
+cheat19_handler = "0"
+cheat19_code = "8011945A#3E8;8011945C#3E8;80119456#3E7;30119461#64;30119462#64"
+
+cheat20_desc = "陈留属性全满"
+cheat20_handler = "0"
+cheat20_code = "80119482#3E8;80119484#3E8;8011947E#3E7;30119489#64;3011948A#64"
+
+cheat21_desc = "洛阳属性全满"
+cheat21_handler = "0"
+cheat21_code = "801194AA#3E8;801194AC#3E8;801194A6#3E7;301194B1#64;301194B2#64"
+
+cheat22_desc = "弘农属性全满"
+cheat22_handler = "0"
+cheat22_code = "801194D2#3E8;801194D4#3E8;801194CE#3E7;301194D9#64;301194DA#64"
+
+cheat23_desc = "长安属性全满"
+cheat23_handler = "0"
+cheat23_code = "801194FA#3E8;801194FC#3E8;30119501#64;30119502#64;801194F6#3E7"
+
+cheat24_desc = "安定属性全满"
+cheat24_handler = "0"
+cheat24_code = "80119522#3E8;80119524#3E8;8011951E#3E7;30119529#64;3011952A#64"
+
+cheat25_desc = "天水属性全满"
+cheat25_handler = "0"
+cheat25_code = "8011954A#3E8;8011954C#3E8;80119546#3E7;30119551#64;30119552#64"
+
+cheat26_desc = "西凉属性全满"
+cheat26_handler = "0"
+cheat26_code = "80119572#3E8;80119574#3E8;8011956E#3E7;30119579#64;3011957A#64"
+
+cheat27_desc = "下邳属性全满"
+cheat27_handler = "0"
+cheat27_code = "8011959A#3E8;8011959C#3E8;80119595#3E7;301195A1#64;301195A2#64"
+
+cheat28_desc = "徐州属性全满"
+cheat28_handler = "0"
+cheat28_code = "801195C2#3E8;801195C4#3E8;801195BE#3E7;301195C9#64;301195CA#64"
+
+cheat29_desc = "许昌属性全满"
+cheat29_handler = "0"
+cheat29_code = "801195EA#3E8;801195EC#3E8;801195E6#3E7;301195F1#64;301195F2#64"
+
+cheat30_desc = "譙属性全满"
+cheat30_handler = "0"
+cheat30_code = "80119612#3E8;80119614#3E8;8011960E#3E7;30119619#64;3011961A#64"
+
+cheat31_desc = "汝南属性全满"
+cheat31_handler = "0"
+cheat31_code = "8011963A#3E8;8011963C#3E8;80119636#3E7;30119641#64;30119642#64"
+
+cheat32_desc = "宛属性全满"
+cheat32_handler = "0"
+cheat32_code = "80119662#3E8;80119664#3E8;8011965E#3E7;30119669#64;3011966A#64"
+
+cheat33_desc = "新野属性全满"
+cheat33_handler = "0"
+cheat33_code = "8011968A#3E8;8011968C#3E8;80119686#3E7;30119691#64;30119692#64"
+
+cheat34_desc = "襄阳属性全满"
+cheat34_handler = "0"
+cheat34_code = "801196B2#3E8;801196B4#3E8;801196AE#3E7;301196B9#64;301196BA#64"
+
+cheat35_desc = "上庸属性全满"
+cheat35_handler = "0"
+cheat35_code = "801196DA#3E8;801196DC#3E8;801196D6#3E7;301196E1#64;301196E2#64"
+
+cheat36_desc = "江夏属性全满"
+cheat36_handler = "0"
+cheat36_code = "80119702#3E8;80119704#3E8;801196FE#3E7;30119709#64;3011970A#64"
+
+cheat37_desc = "江陵属性全满"
+cheat37_handler = "0"
+cheat37_code = "8011972A#3E8;8011972C#3E8;80119726#3E7;30119731#64;30119732#64"
+
+cheat38_desc = "武陵属性全满"
+cheat38_handler = "0"
+cheat38_code = "80119752#3E8;80119754#3E8;8011974E#3E7;30119759#64;3011975A#64"
+
+cheat39_desc = "长沙属性全满"
+cheat39_handler = "0"
+cheat39_code = "8011977A#3E8;8011977C#3E8;80119776#3E7;30119781#64;30119782#64"
+
+cheat40_desc = "桂阳属性全满"
+cheat40_handler = "0"
+cheat40_code = "801197A2#3E8;801197A4#3E8;8011979E#3E7;301197A9#64;301197AA#64"
+
+cheat41_desc = "零陵属性全满"
+cheat41_handler = "0"
+cheat41_code = "801197CA#3E8;801197CC#3E8;801197C6#3E7;301197D1#64;301197D2#64"
+
+cheat42_desc = "寿春属性全满"
+cheat42_handler = "0"
+cheat42_code = "801197F2#3E8;801197F4#3E8;801197EE#3E7;301197F9#64;301197FA#64"
+
+cheat43_desc = "建业属性全满"
+cheat43_handler = "0"
+cheat43_code = "8011981A#3E8;8011981C#3E8;80119816#3E7;30119821#64;30119822#64"
+
+cheat44_desc = "吴属性全满"
+cheat44_handler = "0"
+cheat44_code = "80119842#3E8;80119844#3E8;8011983E#3E7;30119849#64;3011984A#64"
+
+cheat45_desc = "会稽属性全满"
+cheat45_handler = "0"
+cheat45_code = "8011986A#3E8;8011986C#3E8;80119866#3E7;30119871#64;30119872#64"
+
+cheat46_desc = "庐江属性全满"
+cheat46_handler = "0"
+cheat46_code = "80119892#3E8;80119894#3E8;8011988E#3E7;30119899#64;3011989A#64"
+
+cheat47_desc = "豫章属性全满"
+cheat47_handler = "0"
+cheat47_code = "801198BA#3E8;801198BC#3E8;801198B6#3E7;301198C1#64;301198C2#64"
+
+cheat48_desc = "庐陵属性全满"
+cheat48_handler = "0"
+cheat48_code = "80119A22#3E8;80119A24#3E8;80119A1E#3E7;30119A29#64;30119A2A#64"
+
+cheat49_desc = "鄱阳属性全满"
+cheat49_handler = "0"
+cheat49_code = "80119A4A#3E8;80119A4C#3E8;80119A46#3E7;30119A51#64;30119A52#64"
+
+cheat50_desc = "汉中属性全满"
+cheat50_handler = "0"
+cheat50_code = "801198E2#3E8;801198E4#3E8;801198DE#3E7;301198E9#64;301198EA#64"
+
+cheat51_desc = "下弁属性全满"
+cheat51_handler = "0"
+cheat51_code = "8011990A#3E8;8011990C#3E8;80119906#3E7;30119911#64;30119912#64"
+
+cheat52_desc = "梓潼属性全满"
+cheat52_handler = "0"
+cheat52_code = "80119932#3E8;80119934#3E8;8011992E#3E7;30119939#64;3011993A#64"
+
+cheat53_desc = "成都属性全满"
+cheat53_handler = "0"
+cheat53_code = "8011995A#3E8;8011995C#3E8;80119956#3E7;30119961#64;30119962#64"
+
+cheat54_desc = "永安属性全满"
+cheat54_handler = "0"
+cheat54_code = "80119982#3E8;80119984#3E8;8011997E#3E7;30119989#64;3011998A#64"
+
+cheat55_desc = "江州属性全满"
+cheat55_handler = "0"
+cheat55_code = "801199AA#3E8;801199AC#3E8;801199A6#3E7;301199B1#64;301199B2#64"
+
+cheat56_desc = "建宁属性全满"
+cheat56_handler = "0"
+cheat56_code = "801199D2#3E8;801199D4#3E8;801199CE#3E7;301199D9#64;301199DA#64"
+
+cheat57_desc = "云南属性全满"
+cheat57_handler = "0"
+cheat57_code = "801199FA#3E8;801199FC#3E8;801199F6#3E7;30119A01#64;30119A02#64"
+
+cheats = 58

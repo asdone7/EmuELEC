@@ -1,0 +1,29 @@
+cheat0_desc = "主码"
+cheat0_handler = "0"
+cheat0_code = "F6000914#C305"
+
+cheat1_desc = "生命力不减"
+cheat1_handler = "0"
+cheat1_code = "160545FC#2020"
+
+cheat2_desc = "POWER全满"
+cheat2_handler = "0"
+cheat2_code = "1605463C#0054;16054635#0120"
+
+cheat3_desc = "只数不减"
+cheat3_handler = "0"
+cheat3_code = "16054580#0009"
+
+cheat4_desc = "拥有八种新武器"
+cheat4_handler = "0"
+cheat4_code = "16054658#00FF"
+
+cheat5_desc = "新武器能量不减"
+cheat5_handler = "0"
+cheat5_code = "16054648#3030;1605464A#3030;1605464C#3030;1605464E#3030;16054650#3030;16054652#3030;16054654#3030;16054656#3030"
+
+cheat6_desc = "所持金不灭"
+cheat6_handler = "0"
+cheat6_code = "800D11F0#423F;300D11F2#000F"
+
+cheats = 7

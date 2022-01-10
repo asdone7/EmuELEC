@@ -1,0 +1,21 @@
+cheat0_desc = "主角HP"
+cheat0_handler = "0"
+cheat0_code = "3010DAE0#6;3010DAE4#6"
+
+cheat1_desc = "主角HP"
+cheat1_handler = "0"
+cheat1_code = "3010DADA#63"
+
+cheat2_desc = "宝石数"
+cheat2_handler = "0"
+cheat2_code = "3010DADC#63"
+
+cheat3_desc = "人数救齐"
+cheat3_handler = "0"
+cheat3_code = "3010DADE#6"
+
+cheat4_desc = "无敌"
+cheat4_handler = "0"
+cheat4_code = "300BE584#FF"
+
+cheats = 5

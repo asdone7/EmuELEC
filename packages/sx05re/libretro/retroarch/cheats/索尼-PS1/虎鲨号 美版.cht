@@ -1,0 +1,61 @@
+cheat0_desc = "Infinite EMP Torpedoes"
+cheat0_handler = "0"
+cheat0_code = "800bff440013"
+
+cheat1_desc = "Infinite Gatling Ammo"
+cheat1_handler = "0"
+cheat1_code = "800bff3801ff"
+
+cheat2_desc = "Infinite Lives"
+cheat2_handler = "0"
+cheat2_code = "800847980003"
+
+cheat3_desc = "Infinite MK-60's"
+cheat3_handler = "0"
+cheat3_code = "800bff3c0013"
+
+cheat4_desc = "Infinite MK-90's"
+cheat4_handler = "0"
+cheat4_code = "800bff460013"
+
+cheat5_desc = "Infinite SM-19's"
+cheat5_handler = "0"
+cheat5_code = "800bff480013"
+
+cheat6_desc = "Infinite SM-25's"
+cheat6_handler = "0"
+cheat6_code = "800bff4a0013"
+
+cheat7_desc = "Infinite SR-70's"
+cheat7_handler = "0"
+cheat7_code = "800bff4c0013"
+
+cheat8_desc = "Laser Never Overheats"
+cheat8_handler = "0"
+cheat8_code = "800bff3a07d0"
+
+cheat9_desc = "Infinite Armor"
+cheat9_handler = "0"
+cheat9_code = "800bfef400f0"
+
+cheat10_desc = "Infinite Armor"
+cheat10_handler = "0"
+cheat10_code = "800bfef600f0"
+
+cheat11_desc = "Infinite ECM-9000's"
+cheat11_handler = "0"
+cheat11_code = "800bff500013"
+
+cheat12_desc = "Infinite ECM Torpedoes"
+cheat12_handler = "0"
+cheat12_code = "800bff520013"
+
+cheat13_desc = "Infinite MK-65's"
+cheat13_handler = "0"
+cheat13_code = "800bff3e0013"
+
+cheat14_desc = "Infinite MK-77's"
+cheat14_handler = "0"
+cheat14_code = "800bff420013"
+
+cheats = 15

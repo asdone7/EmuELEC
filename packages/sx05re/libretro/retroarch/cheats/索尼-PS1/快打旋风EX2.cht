@@ -1,0 +1,41 @@
+cheat0_desc = "1P血全满"
+cheat0_handler = "0"
+cheat0_code = "801E9204#00C8"
+
+cheat1_desc = "1P气全满"
+cheat1_handler = "0"
+cheat1_code = "301E9205#00C8"
+
+cheat2_desc = "1P Excel不减"
+cheat2_handler = "0"
+cheat2_code = "801E923E#0070"
+
+cheat3_desc = "2P血全满"
+cheat3_handler = "0"
+cheat3_code = "801EAA80#00C8"
+
+cheat4_desc = "2P气全满"
+cheat4_handler = "0"
+cheat4_code = "301EAA81#00C8"
+
+cheat5_desc = "2P Excel不减"
+cheat5_handler = "0"
+cheat5_code = "801EAABA#0084"
+
+cheat6_desc = "隐藏选项出现"
+cheat6_handler = "0"
+cheat6_code = "801EE3C8#0101"
+
+cheat7_desc = "隐藏角色出现"
+cheat7_handler = "0"
+cheat7_code = "801F47B0#FFFF;801F47B2#FFFF"
+
+cheat8_desc = "P1 INFINITE POWER GAUGE"
+cheat8_handler = "0"
+cheat8_code = "801217AC#96C8;801E9204#96C8"
+
+cheat9_desc = "P2 INFINITE POWER GAUGE"
+cheat9_handler = "0"
+cheat9_code = "801EAA80#96C8;8012A554#96C8"
+
+cheats = 10

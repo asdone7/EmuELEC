@@ -1,0 +1,29 @@
+cheat0_desc = "无限LPNO"
+cheat0_handler = "0"
+cheat0_code = "800E9EE4#270F"
+
+cheat1_desc = "全对手NO"
+cheat1_handler = "0"
+cheat1_code = "801D06F4#FF7F;801D06F6#FFFF;301D06F8#00FF"
+
+cheat2_desc = "LP不減"
+cheat2_handler = "0"
+cheat2_code = "800E9EE4#1F40"
+
+cheat3_desc = "按L1andR1就有所有卡片"
+cheat3_handler = "0"
+cheat3_code = "D0007572#F3FF;B0B40004#00000000;90105D98#63636363;D0007572#F3FF;80106068#6363"
+
+cheat4_desc = "擁有所有卡片"
+cheat4_handler = "0"
+cheat4_code = "B0FF0010#00000000;30100011#0001;B0FF0010#00000000;30101001#001;B0D40010#00000000;30101FF1 #0001;B0B40004#00000000;901D0250#64646464;801D0520#6464"
+
+cheat5_desc = "馬上獲勝"
+cheat5_handler = "0"
+cheat5_code = "800E9EE4#1F40;800E9F04#0000"
+
+cheat6_desc = "按下選擇鍵回合結束時獲勝"
+cheat6_handler = "0"
+cheat6_code = "D0007572#FFFE;800E9F04#0000"
+
+cheats = 7

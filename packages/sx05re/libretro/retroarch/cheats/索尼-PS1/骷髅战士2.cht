@@ -1,0 +1,9 @@
+cheat0_desc = "血不减"
+cheat0_handler = "0"
+cheat0_code = "800F04B0#03E7"
+
+cheat1_desc = "所有武器、防具、道具，B01"
+cheat1_handler = "0"
+cheat1_code = "80004#00000000;800F04E0#270F"
+
+cheats = 2

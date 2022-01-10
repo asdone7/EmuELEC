@@ -1,0 +1,17 @@
+cheat0_desc = "无限HP"
+cheat0_handler = "0"
+cheat0_code = "80078014#01F4;80078012#01F4"
+
+cheat1_desc = "无限BP"
+cheat1_handler = "0"
+cheat1_code = "80078016#01F4;80078018#01F4"
+
+cheat2_desc = "无敌"
+cheat2_handler = "0"
+cheat2_code = "30127670#000F"
+
+cheat3_desc = "无限金钱"
+cheat3_handler = "0"
+cheat3_code = "80077FEC#423F;80077FEE#000F"
+
+cheats = 4

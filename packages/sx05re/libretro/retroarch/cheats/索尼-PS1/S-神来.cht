@@ -1,0 +1,57 @@
+cheat0_desc = "金钱最大神我人"
+cheat0_handler = "0"
+cheat0_code = "800BE7B4#967F;800BE7B6#0098"
+
+cheat1_desc = "金钱最大不死乃神子"
+cheat1_handler = "0"
+cheat1_code = "800BE9C0#967F;800BE9C2#0098"
+
+cheat2_desc = "好感度10"
+cheat2_handler = "0"
+cheat2_code = "800BE368#0010"
+
+cheat3_desc = "好感度20"
+cheat3_handler = "0"
+cheat3_code = "800BE368#0020"
+
+cheat4_desc = "好感度50"
+cheat4_handler = "0"
+cheat4_code = "800BE368#0050"
+
+cheat5_desc = "好感度80"
+cheat5_handler = "0"
+cheat5_code = "800BE368#0080"
+
+cheat6_desc = "信赖度20"
+cheat6_handler = "0"
+cheat6_code = "800BE36A#0020"
+
+cheat7_desc = "信赖度40"
+cheat7_handler = "0"
+cheat7_code = "800BE36A#0040"
+
+cheat8_desc = "信赖度50"
+cheat8_handler = "0"
+cheat8_code = "800BE36A#0050"
+
+cheat9_desc = "信赖度80"
+cheat9_handler = "0"
+cheat9_code = "800BE36A#0080"
+
+cheat10_desc = "不遇敌人"
+cheat10_handler = "0"
+cheat10_code = "800E0420#0000"
+
+cheat11_desc = "战斗一次升一级!"
+cheat11_handler = "0"
+cheat11_code = "D00426BE#1040;800426BE#1440"
+
+cheat12_desc = "战斗一次升一级@"
+cheat12_handler = "0"
+cheat12_code = "800CD560#423F;800CD562#000F"
+
+cheat13_desc = "道具不减"
+cheat13_handler = "0"
+cheat13_code = "D00154FE#1040;80015500#0000"
+
+cheats = 14

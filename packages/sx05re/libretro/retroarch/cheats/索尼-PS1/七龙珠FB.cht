@@ -1,0 +1,21 @@
+cheat0_desc = "1PHP不减"
+cheat0_handler = "0"
+cheat0_code = "80072350#0878"
+
+cheat1_desc = "1P气不减"
+cheat1_handler = "0"
+cheat1_code = "30072352#00C4"
+
+cheat2_desc = "2PHP不减"
+cheat2_handler = "0"
+cheat2_code = "800723CC#0878"
+
+cheat3_desc = "2P气不减"
+cheat3_handler = "0"
+cheat3_code = "300723CE#00C4"
+
+cheat4_desc = "所有人物"
+cheat4_handler = "0"
+cheat4_code = "8003BB24#FFFF;8003BB26#0001"
+
+cheats = 5

@@ -1,0 +1,277 @@
+cheat0_desc = "基连军大将-扎比"
+cheat0_handler = "0"
+cheat0_code = "301F3481#0;301F3484#C;301F3487#1;301F349C#E7;301F349D#3"
+
+cheat1_desc = "基连军中将-2"
+cheat1_handler = "0"
+cheat1_code = "301F34B3#0;301F34B6#B;301F34B9#1;301F34CE#E7;301F34CF#3"
+
+cheat2_desc = "基连军中将-3"
+cheat2_handler = "0"
+cheat2_code = "301F34E5#0;301F34E8#9;301F34FB#1F;301F3500#E7;301F3501#3"
+
+cheat3_desc = "基连-伽玛"
+cheat3_handler = "0"
+cheat3_code = "301F3549#0;301F354C#C;301F354A#0;301F354F#1;301F3564#E7;301F3565#3"
+
+cheat4_desc = "1"
+cheat4_handler = "0"
+cheat4_code = "301F35AD#0;301F35B0#8;301F35AE#0;301F35C3#1F;301F35C8#E7;301F35C9#3"
+
+cheat5_desc = "2"
+cheat5_handler = "0"
+cheat5_code = "301F35DF#0;301F35E2#8;301F35E0#0;301F35F5#1F;301F35FA#E7;301F35FB#3"
+
+cheat6_desc = "3"
+cheat6_handler = "0"
+cheat6_code = "301F3611#0;301F3614#9;301F3612#0;301F3627#1F;301F362C#E7;301F362D#3"
+
+cheat7_desc = "码估"
+cheat7_handler = "0"
+cheat7_code = "301F3643#0;301F3646#B;301F3644#0;301F3649#1;301F365E#E7;301F365F#3"
+
+cheat8_desc = "夏亚"
+cheat8_handler = "0"
+cheat8_code = "301F3675#0;301F3678#C;301F3676#0;301F3690#E7;301F3691#3"
+
+cheat9_desc = "夏亚-科特罗"
+cheat9_handler = "0"
+cheat9_code = "301F438C#0;301F438E#C;301F43A6#E7;301F43A7#3;301F438B#0"
+
+cheat10_desc = "大将-夏亚"
+cheat10_handler = "0"
+cheat10_code = "301F3E77#0;301F3E78#0;301F3E92#E7;301F3E93#3"
+
+cheat11_desc = "拉娜"
+cheat11_handler = "0"
+cheat11_code = "301F36A7#0;301F36AA#B;301F36A8#0;301F36C2#E7;301F36C3#3"
+
+cheat12_desc = "木星NEW-TAPY"
+cheat12_handler = "0"
+cheat12_code = "301F36D9#0;301F36DC#B;301F36DA#0;301F36F4#E7;301F36F5#3"
+
+cheat13_desc = "4"
+cheat13_handler = "0"
+cheat13_code = "301F370B#0;301F370E#8;301F370C#0;301F3721#1F;301F3726#E7;301F3727#3"
+
+cheat14_desc = "5"
+cheat14_handler = "0"
+cheat14_code = "301F373D#0;301F3740#A;301F373E#0;301F3758#E7;301F3759#3"
+
+cheat15_desc = "6"
+cheat15_handler = "0"
+cheat15_code = "301F376F#0;301F3772#A;301F3770#0;301F378A#E7;301F378B#3"
+
+cheat16_desc = "7"
+cheat16_handler = "0"
+cheat16_code = "301F37A1#0;301F37A4#A;301F37A2#0;301F37BC#E7;301F37BD#3"
+
+cheat17_desc = "南巴拉队长-青色巨星"
+cheat17_handler = "0"
+cheat17_code = "301F37D3#0;301F37D6#B;301F37D4#0;301F37D9#1;301F37EE#E7;301F37EF#3"
+
+cheat18_desc = "南巴拉队-女"
+cheat18_handler = "0"
+cheat18_code = "301F3805#0;301F3808#9;301F3806#0;301F381B#1F;301F3820#E7;301F3821#3"
+
+cheat19_desc = "南巴拉队-1"
+cheat19_handler = "0"
+cheat19_code = "301F3837#0;301F383A#A;301F3838#0;301F3852#E7;301F3853#3"
+
+cheat20_desc = "南巴拉队-2"
+cheat20_handler = "0"
+cheat20_code = "301F3869#0;301F386C#A;301F386A#0;301F3884#E7;301F3885#3"
+
+cheat21_desc = "南巴拉队-3"
+cheat21_handler = "0"
+cheat21_code = "301F389B#0;301F389E#A;301F389C#0;301F38B6#E7;301F38B7#3"
+
+cheat22_desc = "黑色三连星1"
+cheat22_handler = "0"
+cheat22_code = "301F38CD#0;301F38D0#B;301F38CE#0;301F38D3#1;301F38E8#E7;301F38E9#3"
+
+cheat23_desc = "黑色三连星2"
+cheat23_handler = "0"
+cheat23_code = "301F38FF#0;301F3902#B;301F3900#0;301F3905#1;301F391A#E7;301F391B#3"
+
+cheat24_desc = "黑色三连星3"
+cheat24_handler = "0"
+cheat24_code = "301F3931#0;301F3934#B;301F3932#0;301F3937#1;301F394C#E7;301F394D#3"
+
+cheat25_desc = "8"
+cheat25_handler = "0"
+cheat25_code = "301F3963#0;301F3966#A;301F3964#0;301F397E#E7;301F397F#3"
+
+cheat26_desc = "9"
+cheat26_handler = "0"
+cheat26_code = "301F3995#0;301F3998#B;301F3996#0;301F399B#1;301F39B0#E7;301F39B1#3"
+
+cheat27_desc = "10"
+cheat27_handler = "0"
+cheat27_code = "301F39C7#0;301F39CA#B;301F39CD#1;301F39E2#E7;301F39E3#3"
+
+cheat28_desc = "11"
+cheat28_handler = "0"
+cheat28_code = "301F39F9#0;301F39FC#A;301F3A14#E7;301F3A15#3"
+
+cheat29_desc = "12"
+cheat29_handler = "0"
+cheat29_code = "301F3A2B#0;301F3A2E#A;301F3A46#E7;301F3A47#3"
+
+cheat30_desc = "赤鼻"
+cheat30_handler = "0"
+cheat30_code = "301F3A5D#0;301F3A60#A;301F3A5E#0;301F3A78#E7;301F3A79#3"
+
+cheat31_desc = "13"
+cheat31_handler = "0"
+cheat31_code = "301F3A8F#0;301F3A92#A;301F3AAA#E7;301F3AAB#3"
+
+cheat32_desc = "14"
+cheat32_handler = "0"
+cheat32_code = "301F3AC1#0;301F3AC4#B;301F3AC7#1;301F3ADC#E7;301F3ADD#3"
+
+cheat33_desc = "15"
+cheat33_handler = "0"
+cheat33_code = "301F3AF3#0;301F3AF6#B;301F3AF9#1;301F3B0E#E7;301F3B0F#3"
+
+cheat34_desc = "口袋战争-男"
+cheat34_handler = "0"
+cheat34_code = "301F3B25#0;301F3B28#C;301F3B26#0;301F3B2B#1;301F3B40#E7;301F3B41#3"
+
+cheat35_desc = "16"
+cheat35_handler = "0"
+cheat35_code = "301F3B57#0;301F3B5A#A;301F3B58#0;301F3B72#E7;301F3B73#3"
+
+cheat36_desc = "17"
+cheat36_handler = "0"
+cheat36_code = "301F3B89#0;301F3B8C#B;301F3B8A#0;301F3B8F#1;301F3BA4#E7;301F3BA5#3"
+
+cheat37_desc = "特拉滋"
+cheat37_handler = "0"
+cheat37_code = "301F3BBB#0;301F3BBE#B;301F3BBC#0;301F3BC1#1;301F3BD6#E7;301F3BD7#3"
+
+cheat38_desc = "斯玛-女"
+cheat38_handler = "0"
+cheat38_code = "301F3BED#0;301F3BF0#B;301F3BEE#0;301F3BF3#1;301F3C08#E7;301F3C09#3"
+
+cheat39_desc = "伽多"
+cheat39_handler = "0"
+cheat39_code = "301F3C1F#0;301F3C22#C;301F3C20#0;301F3C25#1;301F3C3A#E7;301F3C3B#3"
+
+cheat40_desc = "伽多2"
+cheat40_handler = "0"
+cheat40_code = "301F3C54#C;301F3C51#00;301F3C52#0;301F3C57#1;301F3C6C#E7;301F3C6D#3"
+
+cheat41_desc = "18"
+cheat41_handler = "0"
+cheat41_code = "301F3C83#0;301F3C86#B;301F3C84#0;301F3C89#1;301F3C9E#E7;301F3C9F#3"
+
+cheat42_desc = "红色闪电-J"
+cheat42_handler = "0"
+cheat42_code = "301F3CE7#0;301F3CEA#C;301F3CE8#0;301F3CED#1;301F3D02#E7;301F3D03#3"
+
+cheat43_desc = "白狼"
+cheat43_handler = "0"
+cheat43_code = "301F3D19#0;301F3D1C#C;301F3D1A#0;301F3D1F#1;301F3D34#E7;301F3D35#3"
+
+cheat44_desc = "08MS-希利亚"
+cheat44_handler = "0"
+cheat44_code = "301F3D4B#0;301F3D4E#B;301F3D4C#0;301F3D51#1;301F3D66#E7;301F3D67#3"
+
+cheat45_desc = "08MS-艾娜"
+cheat45_handler = "0"
+cheat45_code = "301F3D7D#0;301F3D80#B;301F3D7E#0;301F3D83#1;301F3D98#E7;301F3D99#3"
+
+cheat46_desc = "08MS-克利斯"
+cheat46_handler = "0"
+cheat46_code = "301F3DAF#0;301F3DB2#B;301F3DB0#0;301F3DB5#1;301F3DCA#E7;301F3DCB#3"
+
+cheat47_desc = "EXSM-裁的者"
+cheat47_handler = "0"
+cheat47_code = "301F3DE1#0;301F3DE4#B;301F3DE2#0;301F3DE7#1;301F3DFC#E7;301F3DFD#3"
+
+cheat48_desc = "NEW-TAPY-女1"
+cheat48_handler = "0"
+cheat48_code = "301F3E13#0;301F3E16#B;301F3E14#0;301F3E19#1;301F3E2E#E7;301F3E2F#3"
+
+cheat49_desc = "NEW-TAPY-女2"
+cheat49_handler = "0"
+cheat49_code = "301F3E45#0;301F3E48#B;301F3E46#0;301F3E60#E7;301F3E61#3"
+
+cheat50_desc = "19"
+cheat50_handler = "0"
+cheat50_code = "301F3EA9#0;301F3EAC#A;301F3EAA#0;301F3EC4#E7;301F3EC5#3"
+
+cheat51_desc = "20"
+cheat51_handler = "0"
+cheat51_code = "301F3F0D#0;301F3F10#A;301F3F0E#0;301F3F28#E7;301F3F29#3"
+
+cheat52_desc = "21"
+cheat52_handler = "0"
+cheat52_code = "301F3F3F#0;301F3F42#8;301F3F40#0;301F3F55#1F;301F3F5A#E7;301F3F5B#3"
+
+cheat53_desc = "22"
+cheat53_handler = "0"
+cheat53_code = "301F3F71#0;301F3F74#8;301F3F72#0;301F3F87#1F;301F3F8C#E7;301F3F8D#3"
+
+cheat54_desc = "23"
+cheat54_handler = "0"
+cheat54_code = "301F3FA3#0;301F3FA6#9;301F3FA4#0;301F3FB9#1F;301F3FBE#E7;301F3FBF#3"
+
+cheat55_desc = "希洛库2"
+cheat55_handler = "0"
+cheat55_code = "301F3FD5#0;301F3FD6#0;301F3FD8#C;301F3FF0#E7;301F3FF1#3"
+
+cheat56_desc = "强化人间-泽罗"
+cheat56_handler = "0"
+cheat56_code = "301F3452#C;301F3450#0;301F346A#E7;301F346B#3;301F344F#00"
+
+cheat57_desc = "NT-004"
+cheat57_handler = "0"
+cheat57_code = "301F4809#0;301F480A#0;301F480C#A;301F480F#1;301F4824#E7;301F4825#3"
+
+cheat58_desc = "NT-003"
+cheat58_handler = "0"
+cheat58_code = "301F47D7#0;301F47D8#0;301F47DA#A;301F47DD#1;301F47F2#E7;301F47F3#3"
+
+cheat59_desc = "NT-002"
+cheat59_handler = "0"
+cheat59_code = "301F47A5#0;301F47A6#0;301F47A8#A;301F47AB#1;301F47C0#E7;301F47C1#3"
+
+cheat60_desc = "NT-001"
+cheat60_handler = "0"
+cheat60_code = "301F4773#0;301F4774#0;301F4776#B;301F4779#1;301F478E#E7;301F478F#3"
+
+cheat61_desc = "荒野迅雷"
+cheat61_handler = "0"
+cheat61_code = "301F4741#0;301F4744#B;301F4742#0;301F4747#1;301F475C#E7;301F475D#3"
+
+cheat62_desc = "24"
+cheat62_handler = "0"
+cheat62_code = "301F4679#0;301F467A#0;301F467C#B;301F467F#1;301F4694#E7;301F4695#3"
+
+cheat63_desc = "25"
+cheat63_handler = "0"
+cheat63_code = "301F4647#0;301F4648#0;301F464A#B;301F464D#1;301F4662#E7;301F4663#3"
+
+cheat64_desc = "26"
+cheat64_handler = "0"
+cheat64_code = "301F4615#0;301F4616#0;301F4618#B;301F461B#1;301F4630#E7;301F4631#3"
+
+cheat65_desc = "27"
+cheat65_handler = "0"
+cheat65_code = "301F45E3#0;301F45E4#0;301F45E6#B;301F45E9#1;301F45FE#E7;301F45FF#3"
+
+cheat66_desc = "哈曼"
+cheat66_handler = "0"
+cheat66_code = "301F45B1#0;301F45B2#0;301F45B4#C;301F45CC#E7;301F45CD#3"
+
+cheat67_desc = "洛贝多"
+cheat67_handler = "0"
+cheat67_code = "301F4421#0;301F4424#A;301F4422#0;301F443C#E7;301F443D#3"
+
+cheat68_desc = "阿波里"
+cheat68_handler = "0"
+cheat68_code = "301F43BD#0;301F43BE#0;301F43C0#A;301F43D8#E7;301F43D9#3"
+
+cheats = 69

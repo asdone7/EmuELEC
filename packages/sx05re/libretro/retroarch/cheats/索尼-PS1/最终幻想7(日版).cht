@@ -1,0 +1,265 @@
+cheat0_desc = "DEBUG模式(进入后立刻解锁!)"
+cheat0_handler = "0"
+cheat0_code = "800987F4#0041"
+
+cheat1_desc = "打开所有菜单选项"
+cheat1_handler = "0"
+cheat1_code = "8009BA3C#03FF"
+
+cheat2_desc = "战斗结束后获得一只陆行鸟"
+cheat2_handler = "0"
+cheat2_code = "8009BA74#FFFF"
+
+cheat3_desc = "第一只鸟变成黄金陆行鸟"
+cheat3_handler = "0"
+cheat3_code = "8009BC4C#0000;8009BC4E#0401"
+
+cheat4_desc = "GP MAX"
+cheat4_handler = "0"
+cheat4_code = "8009BB6A#7FFF"
+
+cheat5_desc = "金钱MAX"
+cheat5_handler = "0"
+cheat5_code = "9009B9F8#0098967F"
+
+cheat6_desc = "游戏时间为0"
+cheat6_handler = "0"
+cheat6_code = "8009B9FC#0000"
+
+cheat7_desc = "不遇敌"
+cheat7_handler = "0"
+cheat7_code = "800706F4#0000"
+
+cheat8_desc = "可随处存档"
+cheat8_handler = "0"
+cheat8_code = "8009BA3E#0000"
+
+cheat9_desc = "战斗后获得大量EXP与AP"
+cheat9_handler = "0"
+cheat9_code = "8009BF70#FFFF;8009BF74#FFFF"
+
+cheat10_desc = "全部物品道具"
+cheat10_handler = "0"
+cheat10_code = "B0650002#0000001,8009B378#C600"
+
+cheat11_desc = "全部物品武器"
+cheat11_handler = "0"
+cheat11_code = "B07F0002#0000001,8009B446#C680"
+
+cheat12_desc = "全部物品魔石"
+cheat12_handler = "0"
+cheat12_code = "B05A0004#0000001,8009B5F8#FF00"
+
+cheat13_desc = "全部物品防具"
+cheat13_handler = "0"
+cheat13_code = "B03F0002#0000001,8009B546#C700"
+
+cheat14_desc = "全部物品全部武器防具魔法槽最大"
+cheat14_handler = "0"
+cheat14_code = "B07F002C#0000000,90072874#07060706;B07F002C#0000000,90072878#07060706;B01F024#0000000,90070E05#07060706;B01F024#0000000,90070E09#07060706"
+
+cheat15_desc = "全部物品全部武器防具获得3倍AP"
+cheat15_handler = "0"
+cheat15_code = "B07F002C#0000000,3007285E#0003;B01F024#0000000,30070E0D#0003"
+
+cheat16_desc = "全部物品正宗可以装备"
+cheat16_handler = "0"
+cheat16_code = "30073E35#000B;30073E3A#0001;30073E32#0003;80073E4E#0706"
+
+cheat17_desc = "凯特西极限技猫脸"
+cheat17_handler = "0"
+cheat17_code = "800F3814#3250;900F3816#00583FF0"
+
+cheat18_desc = "凯特西极限技三只胖莫古利"
+cheat18_handler = "0"
+cheat18_code = "800F3814#0098;900F3816#02100128"
+
+cheat19_desc = "凯特西极限技BAR"
+cheat19_handler = "0"
+cheat19_code = "800F3814#3210;900F3816#59203F30"
+
+cheat20_desc = "凯特西极限技皇冠"
+cheat20_handler = "0"
+cheat20_code = "800F3814#3230;900F3816#59303F00"
+
+cheat21_desc = "凯特西极限技红心"
+cheat21_handler = "0"
+cheat21_code = "800F3814#32C0;900F3816#02383F10"
+
+cheat22_desc = "凯特西极限技星星"
+cheat22_handler = "0"
+cheat22_code = "800F3814#3228;900F3816#59003FA0"
+
+cheat23_desc = "战斗时第一人HP为7777"
+cheat23_handler = "0"
+cheat23_code = "800F84A4#1E61;800F84A8#1E61"
+
+cheat24_desc = "战斗时第一人HP&MP不减"
+cheat24_handler = "0"
+cheat24_code = "800F84A4#270F;800F84A8#270F;900F84A0#03E703E7"
+
+cheat25_desc = "战斗时第一人时间槽快速升"
+cheat25_handler = "0"
+cheat25_code = "800F5E88#FFF0"
+
+cheat26_desc = "战斗时第一人极限技槽快速升"
+cheat26_handler = "0"
+cheat26_code = "800F6134#00FF"
+
+cheat27_desc = "战斗时第一人时间&极限技槽快速升"
+cheat27_handler = "0"
+cheat27_code = "800F5E88#FFF0;800F6134#00FF"
+
+cheat28_desc = "战斗时第二人HP为7777"
+cheat28_handler = "0"
+cheat28_code = "800F850C#1E61;800F8510#1E61"
+
+cheat29_desc = "战斗时第二人HP&MP不减"
+cheat29_handler = "0"
+cheat29_code = "800F850C#270F;800F8510#270F;900F8508#03E703E7"
+
+cheat30_desc = "战斗时第二人时间槽快速升"
+cheat30_handler = "0"
+cheat30_code = "800F5ECC#FFF0"
+
+cheat31_desc = "战斗时第二人极限技槽快速升"
+cheat31_handler = "0"
+cheat31_code = "800F6168#00FF"
+
+cheat32_desc = "战斗时第二人时间&极限技槽快速升"
+cheat32_handler = "0"
+cheat32_code = "800F5ECC#FFF0;800F6168#00FF"
+
+cheat33_desc = "战斗时第三人HP为7777"
+cheat33_handler = "0"
+cheat33_code = "800F8574#1E61;800F8578#1E61"
+
+cheat34_desc = "战斗时第三人HP&MP不减"
+cheat34_handler = "0"
+cheat34_code = "800F8574#270F;800F8578#270F;900F8570#03E703E7"
+
+cheat35_desc = "战斗时第三人时间槽快速升"
+cheat35_handler = "0"
+cheat35_code = "800F5F10#FFF0"
+
+cheat36_desc = "战斗时第三人极限技槽快速升"
+cheat36_handler = "0"
+cheat36_code = "800F619C#00FF"
+
+cheat37_desc = "战斗时第三人时间&极限技槽快速升"
+cheat37_handler = "0"
+cheat37_code = "800F5F10#FFF0;800F619C#00FF"
+
+cheat38_desc = "全部同伴"
+cheat38_handler = "0"
+cheat38_code = "8009BF22#FFFF"
+
+cheat39_desc = "第一位置人物(看下面的注意)爱丽丝"
+cheat39_handler = "0"
+cheat39_code = "3009B374#0003"
+
+cheat40_desc = "第一位置人物(看下面的注意)萨非罗斯"
+cheat40_handler = "0"
+cheat40_code = "3009B374#000A"
+
+cheat41_desc = "第二位置人物(看下面的注意)爱丽丝"
+cheat41_handler = "0"
+cheat41_code = "3009B375#0003"
+
+cheat42_desc = "第二位置人物(看下面的注意)萨非罗斯"
+cheat42_handler = "0"
+cheat42_code = "3009B375#000A"
+
+cheat43_desc = "第三位置人物(看下面的注意)爱丽丝"
+cheat43_handler = "0"
+cheat43_code = "3009B376#0003"
+
+cheat44_desc = "第三位置人物(看下面的注意)萨非罗斯"
+cheat44_handler = "0"
+cheat44_code = "3009B376#000A"
+
+cheat45_desc = "克劳德全部极限技"
+cheat45_handler = "0"
+cheat45_code = "8009AEF2#02DB"
+
+cheat46_desc = "克劳德超强"
+cheat46_handler = "0"
+cheat46_code = "8009AEFC#270F;8009AEFE#270F;8009AF00#03E7;8009AF02#03E7;3009AED1#0063;8009AED2#FFFF;8009AED4#FFFF;8009AED6#FFFF"
+
+cheat47_desc = "巴瑞特全部极限技"
+cheat47_handler = "0"
+cheat47_code = "8009AF76#02DB"
+
+cheat48_desc = "巴瑞特超强"
+cheat48_handler = "0"
+cheat48_code = "8009AF80#270F;8009AF82#270F;8009AF84#03E7;8009AF86#03E7;3009AF55#0063;8009AF56#FFFF;8009AF58#FFFF;8009AF5A#FFFF"
+
+cheat49_desc = "蒂法全部极限技"
+cheat49_handler = "0"
+cheat49_code = "8009AFFA#02DB"
+
+cheat50_desc = "蒂法超强"
+cheat50_handler = "0"
+cheat50_code = "8009B004#270F;8009B006#270F;8009B008#03E7;8009B00A#03E7;3009AFD9#0063;8009AFDA#FFFF;8009AFDC#FFFF;8009AFDE#FFFF"
+
+cheat51_desc = "爱丽丝全部极限技"
+cheat51_handler = "0"
+cheat51_code = "8009B07E#02DB"
+
+cheat52_desc = "爱丽丝超强"
+cheat52_handler = "0"
+cheat52_code = "8009B088#270F;8009B08A#270F;8009B08C#03E7;8009B08E#03E7;3009B05D#0063;8009B05E#FFFF;8009B060#FFFF;8009B062#FFFF"
+
+cheat53_desc = "赤红十三全部极限技"
+cheat53_handler = "0"
+cheat53_code = "8009B102#02DB"
+
+cheat54_desc = "赤红十三超强"
+cheat54_handler = "0"
+cheat54_code = "8009B10C#270F;8009B10E#270F;8009B110#03E7;8009B112#03E7;3009B0E1#0063;8009B0E2#FFFF;8009B0E4#FFFF;8009B0E6#FFFF"
+
+cheat55_desc = "尤菲全部极限技"
+cheat55_handler = "0"
+cheat55_code = "8009B186#02DB"
+
+cheat56_desc = "尤菲超强"
+cheat56_handler = "0"
+cheat56_code = "8009B190#270F;8009B192#270F;8009B194#03E7;8009B196#03E7;3009B165#0063;8009B166#FFFF;8009B168#FFFF;8009B16A#FFFF"
+
+cheat57_desc = "凯特西全部极限技"
+cheat57_handler = "0"
+cheat57_code = "8009B20A#000D"
+
+cheat58_desc = "凯特西超强"
+cheat58_handler = "0"
+cheat58_code = "8009B214#270F;8009B216#270F;8009B218#03E7;8009B21A#03E7;3009B1E9#0063;8009B1EA#FFFF;8009B1EC#FFFF;8009B1EE#FFFF"
+
+cheat59_desc = "施德全部极限技"
+cheat59_handler = "0"
+cheat59_code = "8009B312#02DB"
+
+cheat60_desc = "施德超强"
+cheat60_handler = "0"
+cheat60_code = "8009B31C#270F;8009B31E#270F;8009B320#03E7;8009B322#03E7;3009B2F1#0063;8009B2F2#FFFF;8009B2F4#FFFF;8009B2F6#FFFF"
+
+cheat61_desc = "温森特全部极限技"
+cheat61_handler = "0"
+cheat61_code = "8009B28E#02DB"
+
+cheat62_desc = "温森特超强"
+cheat62_handler = "0"
+cheat62_code = "8009B298#270F;8009B29A#270F;8009B29C#03E7;8009B29E#03E7;3009B26D#0063;8009B26E#FFFF;8009B270#FFFF;8009B272#FFFF"
+
+cheat63_desc = "萨非罗斯战斗中可控制"
+cheat63_handler = "0"
+cheat63_code = "E00F8480#000A,800F847C#0048;E00F84E8#000A,800F84E4#0048;E00F8550#000A,800F854C#0048"
+
+cheat64_desc = "萨非罗斯全部极限技"
+cheat64_handler = "0"
+cheat64_code = "8009B28E#02DB"
+
+cheat65_desc = "萨非罗斯超强"
+cheat65_handler = "0"
+cheat65_code = "8009B298#270F;8009B29A#270F;8009B29C#03E7;8009B29E#03E7;3009B26D#0063;8009B26E#FFFF;8009B270#FFFF;8009B272#FFFF"
+
+cheats = 66

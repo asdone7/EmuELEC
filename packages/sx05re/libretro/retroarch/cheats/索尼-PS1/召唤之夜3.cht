@@ -1,0 +1,69 @@
+cheat0_desc = "必须码"
+cheat0_handler = "0"
+cheat0_code = "EF8C97CF#16423806"
+
+cheat1_desc = "战斗后金MAX"
+cheat1_handler = "0"
+cheat1_code = "9F874FE3#O633F25C"
+
+cheat2_desc = "战斗后经验MAX"
+cheat2_handler = "0"
+cheat2_code = "9F874FB7#O633F25C"
+
+cheat3_desc = "机"
+cheat3_handler = "0"
+cheat3_code = "4FB23E89#165313BA"
+
+cheat4_desc = "鬼"
+cheat4_handler = "0"
+cheat4_code = "4FB23E8A#165313BA"
+
+cheat5_desc = "灵"
+cheat5_handler = "0"
+cheat5_code = "4FB23E8D#165313BA"
+
+cheat6_desc = "兽"
+cheat6_handler = "0"
+cheat6_code = "4FB23E8F#165313BA"
+
+cheat7_desc = "无"
+cheat7_handler = "0"
+cheat7_code = "4FB23E91#165313BA"
+
+cheat8_desc = "必须码(M)"
+cheat8_handler = "0"
+cheat8_code = "EC8782E0#1445213C"
+
+cheat9_desc = "RES全部"
+cheat9_handler = "0"
+cheat9_code = "9C8AA870#384EE79C;9C8AA89C#B64EE7B1"
+
+cheat10_desc = "召唤RANK S"
+cheat10_handler = "0"
+cheat10_code = "9C8AA8C8#204DEBA1;9C8AA8F4#272DEBA1;9C8AAB30#B24DE775"
+
+cheat11_desc = "MONEY MAX"
+cheat11_handler = "0"
+cheat11_code = "1CC0008C#14BE598C"
+
+cheat12_desc = "TOTAL EXP MAX"
+cheat12_handler = "0"
+cheat12_code = "1CC00090#14BE59A9"
+
+cheat13_desc = "获得EXP xx倍"
+cheat13_handler = "0"
+cheat13_code = "9C8A5A88#0C536FA5;9C996328#91DA6615;9C99632C#3855E7xx;9C996330#0C57B96F;9C996334#14D507AE"
+
+cheat14_desc = "获得MONEY xx倍"
+cheat14_handler = "0"
+cheat14_code = "9C8A5AB4#0C536FA1;9C996338#91DA66F9;9C99633C#3855E7xx;9C996340#0C57B982;9C996344#14D507AE"
+
+cheat15_desc = "战斗中道具不减少"
+cheat15_handler = "0"
+cheat15_code = "9C8A62A0#3873E7A5;9C8A62C0#3873E7A5"
+
+cheat16_desc = "所持品一览、全道具99"
+cheat16_handler = "0"
+cheat16_code = "9C8C8F84#CE56E50C;9C8C918C#0C536F99;9C8C9190#146ACFC6;9C996358#384E4488;9C99635C#B86EE7A5;9C996360#0C572430;9C996364#847AE7A5"
+
+cheats = 17

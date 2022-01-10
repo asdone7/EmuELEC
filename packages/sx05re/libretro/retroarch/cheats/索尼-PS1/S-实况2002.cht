@@ -1,0 +1,17 @@
+cheat0_desc = "启动破解"
+cheat0_handler = "0"
+cheat0_code = "D01138FE#1040;801138FE#1000;C1000000#0000"
+
+cheat1_desc = "俱乐部联赛模式点数无限100"
+cheat1_handler = "0"
+cheat1_code = "50001602#0000;80074430#0064"
+
+cheat2_desc = "点数无限(HBP)"
+cheat2_handler = "0"
+cheat2_code = "D012CE3A#0062;8012CE3A#0060"
+
+cheat3_desc = "购买球员无限制(HBP)"
+cheat3_handler = "0"
+cheat3_code = "D012C328#FFFF;8012C328#0000"
+
+cheats = 4

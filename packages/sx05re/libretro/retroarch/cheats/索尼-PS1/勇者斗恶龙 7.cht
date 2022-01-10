@@ -1,0 +1,29 @@
+cheat0_desc = "无限金钱"
+cheat0_handler = "0"
+cheat0_code = "800112D8#423F;800112DA#000F"
+
+cheat1_desc = "前3人经验值最大"
+cheat1_handler = "0"
+cheat1_code = "80010C6C#967F;80010C6E#0098;80010D78#967F;80010D7A#0098;80010E84#967F;80010E86#0098"
+
+cheat2_desc = "战斗后钱,LV,能力直最高"
+cheat2_handler = "0"
+cheat2_code = "D004CDB8#0005,8004CDBA#1000"
+
+cheat3_desc = "不遇敌"
+cheat3_handler = "0"
+cheat3_code = "D011E920#1823,8011E922#0060"
+
+cheat4_desc = "HP、MPMAX(主人公)"
+cheat4_handler = "0"
+cheat4_code = "80010C78#F3E7;80010C7A#3E7F;30010C7C#00E7"
+
+cheat5_desc = "能力值MAX(主人公)"
+cheat5_handler = "0"
+cheat5_code = "30010C7D#00FF;80010C7E#FFFF;80010C80#FFFF;80010C82#FFFF"
+
+cheat6_desc = "战斗一次等级99"
+cheat6_handler = "0"
+cheat6_code = "D004ADA4#1024,8004ADA4#1025"
+
+cheats = 7

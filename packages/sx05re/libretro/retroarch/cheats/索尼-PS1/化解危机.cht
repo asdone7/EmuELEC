@@ -1,0 +1,17 @@
+cheat0_desc = "无限时间"
+cheat0_handler = "0"
+cheat0_code = "80022BDA#2400"
+
+cheat1_desc = "不用RELOAD装弹"
+cheat1_handler = "0"
+cheat1_code = "8001E516#2400"
+
+cheat2_desc = "无限体力"
+cheat2_handler = "0"
+cheat2_code = "8001E83E#2400"
+
+cheat3_desc = "无限币数"
+cheat3_handler = "0"
+cheat3_code = "8002C546#2400"
+
+cheats = 4

@@ -1,0 +1,25 @@
+cheat0_desc = "按R1後,体力变成9999"
+cheat0_handler = "0"
+cheat0_code = "D00C5008#0008;800EA73C#270F;D00C5008#0008;800EA73E#270F"
+
+cheat1_desc = "力丸一开始便可玩全部关卡"
+cheat1_handler = "0"
+cheat1_code = "00010003#0008"
+
+cheat2_desc = "彩女一开始便可玩全部关卡"
+cheat2_handler = "0"
+cheat2_code = "30010004#0008"
+
+cheat3_desc = "战斗中,使用忍具不减"
+cheat3_handler = "0"
+cheat3_code = "D003B94A#24A2;8003B948#0000"
+
+cheat4_desc = "按L1,敌人不会发现你的存在,在第四关无效"
+cheat4_handler = "0"
+cheat4_code = "D00C5008#0004;300EA7DA#000B;D00C5008#0004;300119FA#000B"
+
+cheat5_desc = "彩女全道具"
+cheat5_handler = "0"
+cheat5_code = "800EA7E0#63FF;800EA7E2#6363;800EA7E4#6363;800EA7E6#6363;800EA7E8#6363"
+
+cheats = 6

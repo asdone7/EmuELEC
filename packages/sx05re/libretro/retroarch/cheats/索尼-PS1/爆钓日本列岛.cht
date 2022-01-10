@@ -1,0 +1,33 @@
+cheat0_desc = "POINT 999,999"
+cheat0_handler = "0"
+cheat0_code = "8008374C#FFFF;3008374E#00FF"
+
+cheat1_desc = "鱼丝不断"
+cheat1_handler = "0"
+cheat1_code = "800BDD3E#0000;800BDD42#0000"
+
+cheat2_desc = "钓果点无限"
+cheat2_handler = "0"
+cheat2_code = "80083934#6363;3008374E#000F"
+
+cheat3_desc = "钓线没有负担"
+cheat3_handler = "0"
+cheat3_code = "800BDD42#0000"
+
+cheat4_desc = "钓到鱼的大小.重量"
+cheat4_handler = "0"
+cheat4_code = "800BDDAA#03E7;800BDDAE#03E7"
+
+cheat5_desc = "按L2+R2(钓到鱼马上收线)"
+cheat5_handler = "0"
+cheat5_code = "D0078D9A#0003;800BDD2E#0000;D007BD9A#0003;800BDDEA#0000"
+
+cheat6_desc = "钓到鱼总类xx=00-18"
+cheat6_handler = "0"
+cheat6_code = "300BDDA4#00XX"
+
+cheat7_desc = "中文板适用"
+cheat7_handler = "0"
+cheat7_code = "B038000002#00000000;80083934#6363"
+
+cheats = 8

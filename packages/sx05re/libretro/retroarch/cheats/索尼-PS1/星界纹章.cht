@@ -1,0 +1,9 @@
+cheat0_desc = "自舰　耐久"
+cheat0_handler = "0"
+cheat0_code = "801A5678#270F;801A5860#270F"
+
+cheat1_desc = "自舰　机雷数"
+cheat1_handler = "0"
+cheat1_code = "801A56B2#0064;801A585C#0064"
+
+cheats = 2

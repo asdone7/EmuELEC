@@ -1,0 +1,29 @@
+cheat0_desc = "只数不减:"
+cheat0_handler = "0"
+cheat0_code = "8006D030#0009"
+
+cheat1_desc = "飞镖:"
+cheat1_handler = "0"
+cheat1_code = "8006D0A0#0009"
+
+cheat2_desc = "钱:"
+cheat2_handler = "0"
+cheat2_code = "8006D044#C350"
+
+cheat3_desc = "炸弹"
+cheat3_handler = "0"
+cheat3_code = "8006D07C#0009"
+
+cheat4_desc = "爆弹"
+cheat4_handler = "0"
+cheat4_code = "8006D0A0#0009"
+
+cheat5_desc = "血不减"
+cheat5_handler = "0"
+cheat5_code = "8006D09E#0050"
+
+cheat6_desc = "钥匙"
+cheat6_handler = "0"
+cheat6_code = "8006D01C#0009"
+
+cheats = 7

@@ -1,0 +1,29 @@
+cheat0_desc = "只数不减"
+cheat0_handler = "0"
+cheat0_code = "800978AE#0003"
+
+cheat1_desc = "接关无限"
+cheat1_handler = "0"
+cheat1_code = "800949E2#0063"
+
+cheat2_desc = "武器"
+cheat2_handler = "0"
+cheat2_code = "800978BA#001F"
+
+cheat3_desc = "CRAW"
+cheat3_handler = "0"
+cheat3_code = "80097856#0003"
+
+cheat4_desc = "无敌"
+cheat4_handler = "0"
+cheat4_code = "800978DE#0001"
+
+cheat5_desc = "CRAW:能源不减"
+cheat5_handler = "0"
+cheat5_code = "80097868#3000"
+
+cheat6_desc = "武器全满"
+cheat6_handler = "0"
+cheat6_code = "800978BA#001F"
+
+cheats = 7

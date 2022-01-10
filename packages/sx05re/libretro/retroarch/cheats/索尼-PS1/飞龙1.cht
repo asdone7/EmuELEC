@@ -1,0 +1,9 @@
+cheat0_desc = "体力"
+cheat0_handler = "0"
+cheat0_code = "80062ACA#0909"
+
+cheat1_desc = "无敌"
+cheat1_handler = "0"
+cheat1_code = "80062C26#0085"
+
+cheats = 2

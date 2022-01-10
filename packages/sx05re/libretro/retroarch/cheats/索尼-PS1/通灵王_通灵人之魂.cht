@@ -1,0 +1,41 @@
+cheat0_desc = "1PHPOK"
+cheat0_handler = "0"
+cheat0_code = "80A3EA9#00FF"
+
+cheat1_desc = "1PHPRED"
+cheat1_handler = "0"
+cheat1_code = "80A3EA9#0040"
+
+cheat2_desc = "防OK"
+cheat2_handler = "0"
+cheat2_code = "80A3EB5#00FF"
+
+cheat3_desc = "100%付体OK"
+cheat3_handler = "0"
+cheat3_code = "80A3ECD#00FF"
+
+cheat4_desc = "全角色"
+cheat4_handler = "0"
+cheat4_code = "800A3D80#FFFF;800A3D82#00FF"
+
+cheat5_desc = "全場地"
+cheat5_handler = "0"
+cheat5_code = "800A3D88#FFFF;800A3D8A#00FF"
+
+cheat6_desc = "開啟模式"
+cheat6_handler = "0"
+cheat6_code = "300A3DC3#0001"
+
+cheat7_desc = "時間不減"
+cheat7_handler = "0"
+cheat7_code = "800A3F40#0AFF"
+
+cheat8_desc = "人物"
+cheat8_handler = "0"
+cheat8_code = "B0020000#00000000;30096732#007F"
+
+cheat9_desc = "全模式"
+cheat9_handler = "0"
+cheat9_code = "80094732#00FF;8009473A#007F"
+
+cheats = 10

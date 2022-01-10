@@ -1,0 +1,33 @@
+cheat0_desc = "快速升级1"
+cheat0_handler = "0"
+cheat0_code = "80194372#FFF0;8019442A#FFF0;801944E2#FFF0;8019459A#FFF0;80194652#FFF0;8019470A#FFF0;801947C2#FFF0;8019487A#FFF0;80194932#FFF0"
+
+cheat1_desc = "ITEM不减"
+cheat1_handler = "0"
+cheat1_code = "D008959E#A230;8008959E#2400"
+
+cheat2_desc = "开始便拥有M2"
+cheat2_handler = "0"
+cheat2_code = "801DDCA6#8009;801DDE34#010B"
+
+cheat3_desc = "HP&MP魔防最高"
+cheat3_handler = "0"
+cheat3_code = "B00600B8#00000000,801945A2#0200;B00600B8#00000000,801945A4#0200;B00600B8#00000000,801945A6#00FD;B00600B8#00000000,801945A7#00FD"
+
+cheat4_desc = "AT\DF最高"
+cheat4_handler = "0"
+cheat4_code = "B00900B8#00000000,8019437A#0200;B00900B8#00000000,8019437C#0200"
+
+cheat5_desc = "STR\INV最高"
+cheat5_handler = "0"
+cheat5_code = "B00900B8#00000000,8019437E#00FD;B00900B8#00000000,8019437F#00FD"
+
+cheat6_desc = "MV最高"
+cheat6_handler = "0"
+cheat6_code = "B00900B8#00000000,80194380#00FD"
+
+cheat7_desc = "KAREN针头AT值最大"
+cheat7_handler = "0"
+cheat7_code = "80194892#FF"
+
+cheats = 8

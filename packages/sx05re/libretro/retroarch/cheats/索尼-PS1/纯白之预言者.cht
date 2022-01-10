@@ -1,0 +1,5 @@
+cheat0_desc = "AP不减"
+cheat0_handler = "0"
+cheat0_code = "D002AB3A#0064;8002AB3A#0060"
+
+cheats = 1

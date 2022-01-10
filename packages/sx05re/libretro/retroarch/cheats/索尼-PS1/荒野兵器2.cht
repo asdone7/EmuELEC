@@ -1,0 +1,149 @@
+cheat0_desc = "战斗后水平上升"
+cheat0_handler = "0"
+cheat0_code = "800FB690#FFFF"
+
+cheat1_desc = "战斗后金钱最大"
+cheat1_handler = "0"
+cheat1_code = "800FB68C#FFFF"
+
+cheat2_desc = "无限金钱"
+cheat2_handler = "0"
+cheat2_code = "8011AF5C#967F;8011AF5E#0098"
+
+cheat3_desc = "拥有所有物品"
+cheat3_handler = "0"
+cheat3_code = "B0FF0002#00000001,3011AC58#0000"
+
+cheat4_desc = "物品使用无限"
+cheat4_handler = "0"
+cheat4_code = "B0FF0002#00000000,3011AC59#00C6"
+
+cheat5_desc = "无限跑动,跑动可转弯"
+cheat5_handler = "0"
+cheat5_code = "D004A7AC#0001;8004A7AC#0000"
+
+cheat6_desc = "自動對焦! 按 [L1] 依人物方向自動調節視角"
+cheat6_handler = "0"
+cheat6_code = "E004C03C#00A60015;9004C03C#0C002C40;9000B100#3C04800F;9000B104#2402F000;9000B108#94845CA4;9000B110#00821024;9000B118#14400015;9000B11C#24020001;9000B124#00822024;9000B12C#14820010;9000B130#86440000;9000B138#3084000E;9000B140#24020010;9000B144#00442022;9000B14C#866200A6;9000B150#00042200;9000B154#3042F1FF;9000B158#30840E00;9000B160#00822025;9000B168#A66400A6;9000B170#866200A6;9000B174#03E00008"
+
+cheat7_desc = "主角现在HP MAX"
+cheat7_handler = "0"
+cheat7_code = "8011A79C#270F"
+
+cheat8_desc = "主角最大HP MAX"
+cheat8_handler = "0"
+cheat8_code = "8011A7A0#270F"
+
+cheat9_desc = "主角现在FP MAX"
+cheat9_handler = "0"
+cheat9_code = "8011A7AA#03F0"
+
+cheat10_desc = "主角最大FP MAX"
+cheat10_handler = "0"
+cheat10_code = "8011A7AC#03F0"
+
+cheat11_desc = "主角STR MAX"
+cheat11_handler = "0"
+cheat11_code = "8011A7AE#03E7;8011A7B0#03E7"
+
+cheat12_desc = "主角VIT MAX"
+cheat12_handler = "0"
+cheat12_code = "8011A7B6#03E7;8011A7B8#03E7"
+
+cheat13_desc = "主角SOR MAX"
+cheat13_handler = "0"
+cheat13_code = "8011A7BE#03E7;8011A7C0#03E7"
+
+cheat14_desc = "主角RES MAX"
+cheat14_handler = "0"
+cheat14_code = "8011A7C6#03E7;8011A7C8#03E7"
+
+cheat15_desc = "主角LUCK MAX"
+cheat15_handler = "0"
+cheat15_code = "8011A7EE#0004"
+
+cheat16_desc = "主角EXP MAX"
+cheat16_handler = "0"
+cheat16_code = "8011A810#967F;8011A812#0098"
+
+cheat17_desc = "布拉德现在HP MAX"
+cheat17_handler = "0"
+cheat17_code = "8011A818#270F"
+
+cheat18_desc = "布拉德最大HP MAX"
+cheat18_handler = "0"
+cheat18_code = "8011A81C#270F"
+
+cheat19_desc = "布拉德现在FP MAX"
+cheat19_handler = "0"
+cheat19_code = "8011A826#03F0"
+
+cheat20_desc = "布拉德最大FP MAX"
+cheat20_handler = "0"
+cheat20_code = "8011A828#03F0"
+
+cheat21_desc = "布拉德STR MAX"
+cheat21_handler = "0"
+cheat21_code = "8011A82A#03E7;8011A82C#03E7"
+
+cheat22_desc = "布拉德VIT MAX"
+cheat22_handler = "0"
+cheat22_code = "8011A832#03E7;8011A834#03E7"
+
+cheat23_desc = "布拉德SOR MAX"
+cheat23_handler = "0"
+cheat23_code = "8011A83A#03E7;8011A83C#03E7"
+
+cheat24_desc = "布拉德RES MAX"
+cheat24_handler = "0"
+cheat24_code = "8011A842#03E7;8011A844#03E7"
+
+cheat25_desc = "布拉德LUCK MAX"
+cheat25_handler = "0"
+cheat25_code = "8011A86A#0004"
+
+cheat26_desc = "布拉德EXP MAX"
+cheat26_handler = "0"
+cheat26_code = "8011A88C#967F;8011A88E#0098"
+
+cheat27_desc = "莉露卡现在HP MAX"
+cheat27_handler = "0"
+cheat27_code = "8011A894#270F"
+
+cheat28_desc = "莉露卡最大HP MAX"
+cheat28_handler = "0"
+cheat28_code = "8011A898#270F"
+
+cheat29_desc = "莉露卡现在FP MAX"
+cheat29_handler = "0"
+cheat29_code = "8011A8A2#03F0"
+
+cheat30_desc = "莉露卡最大FP MAX"
+cheat30_handler = "0"
+cheat30_code = "8011A8A4#03F0"
+
+cheat31_desc = "莉露卡STR MAX"
+cheat31_handler = "0"
+cheat31_code = "8011A8A6#03E7;8011A8A8#03E7"
+
+cheat32_desc = "莉露卡VIT MAX"
+cheat32_handler = "0"
+cheat32_code = "8011A8AE#03E7;8011A8B0#03E7"
+
+cheat33_desc = "莉露卡SOR MAX"
+cheat33_handler = "0"
+cheat33_code = "8011A8B6#03E7;8011A8B8#03E7"
+
+cheat34_desc = "莉露卡RES MAX"
+cheat34_handler = "0"
+cheat34_code = "8011A8BE#03E7;8011A8C0#03E7"
+
+cheat35_desc = "莉露卡LUCK MAX"
+cheat35_handler = "0"
+cheat35_code = "8011A8E6#0004"
+
+cheat36_desc = "莉露卡EXP MAX"
+cheat36_handler = "0"
+cheat36_code = "8011A908#967F;8011A90A#0098"
+
+cheats = 37

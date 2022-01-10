@@ -1,0 +1,1029 @@
+cheat0_desc = "无限金钱MAX"
+cheat0_handler = "0"
+cheat0_code = "D011A01C#182A;8011A020#0001"
+
+cheat1_desc = "战斗后快速升级LV99"
+cheat1_handler = "0"
+cheat1_code = "D0073924#0002;80073924#0001"
+
+cheat2_desc = "遇敌数0"
+cheat2_handler = "0"
+cheat2_code = "801405E8#0000;801405EA#0000"
+
+cheat3_desc = "遇敌数最大"
+cheat3_handler = "0"
+cheat3_code = "801405E8#E0FF;801405EA#05F5"
+
+cheat4_desc = "不遇敌OK"
+cheat4_handler = "0"
+cheat4_code = "D0055B42#0050;80055B42#0040;D01252E6#0046;801252E6#0040"
+
+cheat5_desc = "里得在战斗中极光壁免费放"
+cheat5_handler = "0"
+cheat5_code = "800641F8#0001;80068730#0001;80070240#0001;80070252#3000;D0128C28#002B;80128C40#0001;D01341DC#0024;801341DE#3000;D0119B68#FFC0;80119B68#0000"
+
+cheat6_desc = "按R2即可放极光壁"
+cheat6_handler = "0"
+cheat6_code = "80068780#001D;80068782#1040;800687AE#1443;D00D34B0#0002;80068780#0000;D00D34B0#0002;80068782#0000;D00D34B0#0002;800687AE#1400"
+
+cheat7_desc = "LV.快速升"
+cheat7_handler = "0"
+cheat7_code = "D0073924#0002;80073924#0001"
+
+cheat8_desc = "获得経验値n倍2倍"
+cheat8_handler = "0"
+cheat8_code = "8006D918#8840;8006D91A#0011"
+
+cheat9_desc = "获得経验値n倍4倍"
+cheat9_handler = "0"
+cheat9_code = "8006D918#8880;8006D91A#0011"
+
+cheat10_desc = "获得経验値n倍8倍"
+cheat10_handler = "0"
+cheat10_code = "8006D918#88C0;8006D91A#0011"
+
+cheat11_desc = "获得経验値n倍16倍"
+cheat11_handler = "0"
+cheat11_code = "8006D918#8910;8006D91A#0011"
+
+cheat12_desc = "等级上升时，能力値上升量为２倍"
+cheat12_handler = "0"
+cheat12_code = "80073704#2840;80073706#0005;800738D4#2842;800738D6#0005"
+
+cheat13_desc = "习得全部技巧"
+cheat13_handler = "0"
+cheat13_code = "D0073AA0#0009;80073AA0#0001"
+
+cheat14_desc = "战斗后精灵LV Max"
+cheat14_handler = "0"
+cheat14_code = "D0073CFE#1040;80073CFE#1400"
+
+cheat15_desc = "术、技 使用后 Max"
+cheat15_handler = "0"
+cheat15_code = "8006DE50#1023;8006DE52#0042;8006DE54#270F;8006DE56#2442"
+
+cheat16_desc = "战斗后:剑、突、拳及脚Lv MAX"
+cheat16_handler = "0"
+cheat16_code = "D0073A50#0002;80073A50#0001"
+
+cheat17_desc = "战斗画面移动速度倍速"
+cheat17_handler = "0"
+cheat17_code = "D0127770#2C03;80127770#2BC3"
+
+cheat18_desc = "地图画面移动速度变更正常"
+cheat18_handler = "0"
+cheat18_code = "80021E4C#0001;80021E4E#2404"
+
+cheat19_desc = "地图画面移动速度变更2倍"
+cheat19_handler = "0"
+cheat19_code = "80021E4C#0002;80021E4E#2404"
+
+cheat20_desc = "地图画面移动速度变更4倍"
+cheat20_handler = "0"
+cheat20_code = "80021E4C#0004;80021E4E#2404"
+
+cheat21_desc = "地图画面移动速度变更8倍"
+cheat21_handler = "0"
+cheat21_code = "80021E4C#0008;80021E4E#2404"
+
+cheat22_desc = "バンエルティア号 speed UP"
+cheat22_handler = "0"
+cheat22_code = "D0132A5E#0030;80132A5E#00F0"
+
+cheat23_desc = "选单画面打开后TP,HP全回复"
+cheat23_handler = "0"
+cheat23_code = "800482E8#0036;800482F0#0038;800482F2#A664;80048314#0005;80048316#2402;80048354#003C;8004835C#003E;8004835E#A664;80048380#0005;80048382#2402"
+
+cheat24_desc = "选单画面打开后状态异常治愈"
+cheat24_handler = "0"
+cheat24_code = "800484B6#A260;800484C2#AFA0"
+
+cheat25_desc = "料理后料理熟练度MAX"
+cheat25_handler = "0"
+cheat25_code = "D004B57E#1440;8004B57E#1400"
+
+cheat26_desc = "料理后食材不减"
+cheat26_handler = "0"
+cheat26_code = "D004B960#093C;8004B968#0000"
+
+cheat27_desc = "学会全部的料理(但不拥有料理的材料)"
+cheat27_handler = "0"
+cheat27_code = "80140AAC#FFFF;80140AAE#FFFF;80140AB0#000F"
+
+cheat28_desc = "道具"ルーンボトル"使用不减"
+cheat28_handler = "0"
+cheat28_code = "D003F32C#00D4;8003F330#0000"
+
+cheat29_desc = "术使用后晶灵活力MAX(晶灵呼叫后才生效)"
+cheat29_handler = "0"
+cheat29_code = "D0070972#1040;80070972#1400"
+
+cheat30_desc = "レンズ的数量60个"
+cheat30_handler = "0"
+cheat30_code = "30109DB5#003C"
+
+cheat31_desc = "ジイニ 数MAX"
+cheat31_handler = "0"
+cheat31_code = "80109DAC#E0FF;80109DAE#05F5"
+
+cheat32_desc = "ガルド使用不减"
+cheat32_handler = "0"
+cheat32_code = "D0119F3E#004A;80119F3E#0040"
+
+cheat33_desc = "召唤ＭＡＸ水"
+cheat33_handler = "0"
+cheat33_code = "8014086E#A000"
+
+cheat34_desc = "召唤ＭＡＸ风"
+cheat34_handler = "0"
+cheat34_code = "80140876#A000"
+
+cheat35_desc = "召唤ＭＡＸ火"
+cheat35_handler = "0"
+cheat35_code = "8014087E#A000"
+
+cheat36_desc = "召唤ＭＡＸ地"
+cheat36_handler = "0"
+cheat36_code = "80140886#A000"
+
+cheat37_desc = "召唤ＭＡＸ冰"
+cheat37_handler = "0"
+cheat37_code = "8014088E#A000"
+
+cheat38_desc = "召唤ＭＡＸ雷"
+cheat38_handler = "0"
+cheat38_code = "80140896#A000"
+
+cheat39_desc = "召唤ＭＡＸ光"
+cheat39_handler = "0"
+cheat39_code = "8014089E#A000"
+
+cheat40_desc = "召唤ＭＡＸ闇"
+cheat40_handler = "0"
+cheat40_code = "801408A6#A000"
+
+cheat41_desc = "召唤ＭＡＸ元"
+cheat41_handler = "0"
+cheat41_code = "801408AE#A000"
+
+cheat42_desc = "召唤ＭＡＸ时"
+cheat42_handler = "0"
+cheat42_code = "801408B6#A000"
+
+cheat43_desc = "全部的道具各拥有15个"
+cheat43_handler = "0"
+cheat43_code = "8003C98E#2624;8003C990#D177;8003C992#0C00;8003C994#000F;8003C996#2405"
+
+cheat44_desc = "全道具但是除去贵重的道具"
+cheat44_handler = "0"
+cheat44_code = "800856E8#1E00;800856EA#0800;80007800#8014;80007802#3C04;80007804#0168;80007806#2485;80007808#800C;8000780A#3C06;8000780C#000F;8000780E#2408;80007810#94E4;80007812#90C2;80007814#0001;80007816#2403;80007818#0002;8000781A#1043;8000781C#0030;8000781E#24C6;80007820#05F1;80007822#A088;80007824#FFFA;80007826#1485;80007828#0001;8000782A#2484;8000782C#0008;8000782E#03E0"
+
+cheat45_desc = "アイテム使用不减选单画面"
+cheat45_handler = "0"
+cheat45_code = "8003E6C4#0000"
+
+cheat46_desc = "アイテム使用不减戦战斗时"
+cheat46_handler = "0"
+cheat46_code = "80074794#0000"
+
+cheat47_desc = "回复アイテム使用时，HP、TP全回复"
+cheat47_handler = "0"
+cheat47_code = "80032698#0001;80032830#0001"
+
+cheat48_desc = "小敌人不出现"
+cheat48_handler = "0"
+cheat48_code = "D0055B42#0050;80055B42#0040;D01252E6#0046;801252E6#0040"
+
+cheat49_desc = "金钱MAX"
+cheat49_handler = "0"
+cheat49_code = "D007187D#1040;8007187D#1440"
+
+cheat50_desc = "最大HIT数MAX"
+cheat50_handler = "0"
+cheat50_code = "801405EC#E0FF;801405EE#05F5"
+
+cheat51_desc = "游戏时间不变"
+cheat51_handler = "0"
+cheat51_code = "D0020420#0001;80020420#0000"
+
+cheat52_desc = "全称号取得"
+cheat52_handler = "0"
+cheat52_code = "3014095A#FFFF;3014095C#FFFF;3014095E#FFFF;30140960#FFFF;30140962#FFFF;30140964#FFFF;30140966#FFFF"
+
+cheat53_desc = "遇敌次数最大"
+cheat53_handler = "0"
+cheat53_code = "801405E8#E0FF;801405EA#05F5"
+
+cheat54_desc = "遇敌次数为0"
+cheat54_handler = "0"
+cheat54_code = "801405E8#0000;801405EA#0000"
+
+cheat55_desc = "DEBUG模式(在开头画面下按着L1+L2后，再按○钮选择New game或Lode game)"
+cheat55_handler = "0"
+cheat55_code = "D00D34B0#0005;8013DED0#0003"
+
+cheat56_desc = "DEBUG模式2(上+R1开启 上+R2关闭)"
+cheat56_handler = "0"
+cheat56_code = "D00D34B0#1008,800D3450#0001;D00D34B0#1002,800D3450#0000"
+
+cheat57_desc = "火晶灵の谷中水晶灵のHP不减"
+cheat57_handler = "0"
+cheat57_code = "D0054CCA#00E5;80054CCA#00E0"
+
+cheat58_desc = "移动中，中毒不损血"
+cheat58_handler = "0"
+cheat58_code = "D00559A4#0038;800559B4#0000"
+
+cheat59_desc = "移动中不损血(指的是如风晶灵之谷的小龙卷风、??????之墓的许多陷阱...等所受的损伤都没事)"
+cheat59_handler = "0"
+cheat59_code = "D0032726#00A3;80032726#00A0;D0032726#00A3;800559B4#0000"
+
+cheat60_desc = "滚球游戏必胜(首先按L1+L2+R1+R2之后，看到对手的球变成3颗时，再想办法将球往她身上滚(通常都是用苦肉计将球引过来往自己和对手的身上砸)若中了游戏即获得胜利)"
+cheat60_handler = "0"
+cheat60_code = "D00D34B0#000F;80134A8C#0300"
+
+cheat61_desc = "空中浮游(使用后不一定降的下来!)"
+cheat61_handler = "0"
+cheat61_code = "80107D98#2000"
+
+cheat62_desc = "队伍第一个人里特"
+cheat62_handler = "0"
+cheat62_code = "801405A4#0001"
+
+cheat63_desc = "队伍第一个人花拉"
+cheat63_handler = "0"
+cheat63_code = "801405A4#0002"
+
+cheat64_desc = "队伍第一个人基鲁"
+cheat64_handler = "0"
+cheat64_code = "801405A4#0003"
+
+cheat65_desc = "队伍第一个人美露荻"
+cheat65_handler = "0"
+cheat65_code = "801405A4#0004"
+
+cheat66_desc = "队伍第一个人雷依斯"
+cheat66_handler = "0"
+cheat66_code = "801405A4#0005"
+
+cheat67_desc = "队伍第一个人珈黛"
+cheat67_handler = "0"
+cheat67_code = "801405A4#0006"
+
+cheat68_desc = "队伍第一个人霍克"
+cheat68_handler = "0"
+cheat68_code = "801405A4#0007"
+
+cheat69_desc = "队伍第一个人试练一的怪兽"
+cheat69_handler = "0"
+cheat69_code = "801405A4#0008"
+
+cheat70_desc = "队伍第一个人小时候的基鲁"
+cheat70_handler = "0"
+cheat70_code = "801405A4#0009"
+
+cheat71_desc = "队伍第一个人小时候的美露荻"
+cheat71_handler = "0"
+cheat71_code = "801405A4#000A"
+
+cheat72_desc = "队伍第一个人美露荻妈妈"
+cheat72_handler = "0"
+cheat72_code = "801405A4#000B"
+
+cheat73_desc = "队伍第二个人里特"
+cheat73_handler = "0"
+cheat73_code = "801405A6#0001"
+
+cheat74_desc = "队伍第二个人花拉"
+cheat74_handler = "0"
+cheat74_code = "801405A6#0002"
+
+cheat75_desc = "队伍第二个人基鲁"
+cheat75_handler = "0"
+cheat75_code = "801405A6#0003"
+
+cheat76_desc = "队伍第二个人美露荻"
+cheat76_handler = "0"
+cheat76_code = "801405A6#0004"
+
+cheat77_desc = "队伍第二个人雷依斯"
+cheat77_handler = "0"
+cheat77_code = "801405A6#0005"
+
+cheat78_desc = "队伍第二个人珈黛"
+cheat78_handler = "0"
+cheat78_code = "801405A6#0006"
+
+cheat79_desc = "队伍第二个人霍克"
+cheat79_handler = "0"
+cheat79_code = "801405A6#0007"
+
+cheat80_desc = "队伍第二个人试练一的怪兽"
+cheat80_handler = "0"
+cheat80_code = "801405A6#0008"
+
+cheat81_desc = "队伍第二个人小时候的基鲁"
+cheat81_handler = "0"
+cheat81_code = "801405A6#0009"
+
+cheat82_desc = "队伍第二个人小时候的美露荻"
+cheat82_handler = "0"
+cheat82_code = "801405A6#000A"
+
+cheat83_desc = "队伍第二个人美露荻妈妈"
+cheat83_handler = "0"
+cheat83_code = "801405A6#000B"
+
+cheat84_desc = "队伍第三个人里特"
+cheat84_handler = "0"
+cheat84_code = "801405A8#0001"
+
+cheat85_desc = "队伍第三个人花拉"
+cheat85_handler = "0"
+cheat85_code = "801405A8#0002"
+
+cheat86_desc = "队伍第三个人基鲁"
+cheat86_handler = "0"
+cheat86_code = "801405A8#0003"
+
+cheat87_desc = "队伍第三个人美露荻"
+cheat87_handler = "0"
+cheat87_code = "801405A8#0004"
+
+cheat88_desc = "队伍第三个人雷依斯"
+cheat88_handler = "0"
+cheat88_code = "801405A8#0005"
+
+cheat89_desc = "队伍第三个人珈黛"
+cheat89_handler = "0"
+cheat89_code = "801405A8#0006"
+
+cheat90_desc = "队伍第三个人霍克"
+cheat90_handler = "0"
+cheat90_code = "801405A8#0007"
+
+cheat91_desc = "队伍第三个人试练一的怪兽"
+cheat91_handler = "0"
+cheat91_code = "801405A8#0008"
+
+cheat92_desc = "队伍第三个人小时候的基鲁"
+cheat92_handler = "0"
+cheat92_code = "801405A8#0009"
+
+cheat93_desc = "队伍第三个人小时候的美露荻"
+cheat93_handler = "0"
+cheat93_code = "801405A8#000A"
+
+cheat94_desc = "队伍第三个人美露荻妈妈"
+cheat94_handler = "0"
+cheat94_code = "801405A8#000B"
+
+cheat95_desc = "队伍第四个人里特"
+cheat95_handler = "0"
+cheat95_code = "801405AA#0001"
+
+cheat96_desc = "队伍第四个人花拉"
+cheat96_handler = "0"
+cheat96_code = "801405AA#0002"
+
+cheat97_desc = "队伍第四个人基鲁"
+cheat97_handler = "0"
+cheat97_code = "801405AA#0003"
+
+cheat98_desc = "队伍第四个人美露荻"
+cheat98_handler = "0"
+cheat98_code = "801405AA#0004"
+
+cheat99_desc = "队伍第四个人雷依斯"
+cheat99_handler = "0"
+cheat99_code = "801405AA#0005"
+
+cheat100_desc = "队伍第四个人珈黛"
+cheat100_handler = "0"
+cheat100_code = "801405AA#0006"
+
+cheat101_desc = "队伍第四个人霍克"
+cheat101_handler = "0"
+cheat101_code = "801405AA#0007"
+
+cheat102_desc = "队伍第四个人试练一的怪兽"
+cheat102_handler = "0"
+cheat102_code = "801405AA#0008"
+
+cheat103_desc = "队伍第四个人小时候的基鲁"
+cheat103_handler = "0"
+cheat103_code = "801405AA#0009"
+
+cheat104_desc = "队伍第四个人小时候的美露荻"
+cheat104_handler = "0"
+cheat104_code = "801405AA#000A"
+
+cheat105_desc = "队伍第四个人美露荻妈妈"
+cheat105_handler = "0"
+cheat105_code = "801405AA#000B"
+
+cheat106_desc = "第一位HP MAX"
+cheat106_handler = "0"
+cheat106_code = "8013FCAC#270F;8013FCAE#270F;8013FCBO#270F"
+
+cheat107_desc = "第一位TP MAX"
+cheat107_handler = "0"
+cheat107_code = "8013FCEE#03E7;8013FCF0#03E7;8013FCF2#03E7"
+
+cheat108_desc = "第一位力MAX"
+cheat108_handler = "0"
+cheat108_code = "8013FCF4#1388"
+
+cheat109_desc = "第一位防御MAX"
+cheat109_handler = "0"
+cheat109_code = "8013FD00#01F4"
+
+cheat110_desc = "第一位知力MAX"
+cheat110_handler = "0"
+cheat110_code = "8013FCFC#01F4"
+
+cheat111_desc = "第一位幸运MAX"
+cheat111_handler = "0"
+cheat111_code = "8013FD04#01F4"
+
+cheat112_desc = "第一位Exp"
+cheat112_handler = "0"
+cheat112_code = "8013FCB8#FFFF;8013FCBA#FFFF"
+
+cheat113_desc = "第二位HP MAX"
+cheat113_handler = "0"
+cheat113_code = "8013FDB8#270F;8013FDBA#270F;8013FDBC#270F"
+
+cheat114_desc = "第二位TP MAX"
+cheat114_handler = "0"
+cheat114_code = "8013FDBE#03E7;8013FDC0#03E7;8013FDC2#03E7"
+
+cheat115_desc = "第二位力MAX"
+cheat115_handler = "0"
+cheat115_code = "8013FDC4#1388"
+
+cheat116_desc = "第二位防御MAX"
+cheat116_handler = "0"
+cheat116_code = "8013FDD0#01F4"
+
+cheat117_desc = "第二位知力MAX"
+cheat117_handler = "0"
+cheat117_code = "8013FDCC#01F4"
+
+cheat118_desc = "第二位幸运MAX"
+cheat118_handler = "0"
+cheat118_code = "8013FDD4#01F4"
+
+cheat119_desc = "第三位HP MAX"
+cheat119_handler = "0"
+cheat119_code = "8013FE88#270F;8013FE8A#270F;8013FE8C#270F"
+
+cheat120_desc = "第三位TP MAX"
+cheat120_handler = "0"
+cheat120_code = "8013FE8E#03E7;8013FE90#03E7;8013FE92#03E7"
+
+cheat121_desc = "第三位力MAX"
+cheat121_handler = "0"
+cheat121_code = "8013FE94#1388"
+
+cheat122_desc = "第三位防御MAX"
+cheat122_handler = "0"
+cheat122_code = "8013FEA0#01F4"
+
+cheat123_desc = "第三位知力MAX"
+cheat123_handler = "0"
+cheat123_code = "8013FE9C#01F4"
+
+cheat124_desc = "第三位幸运MAX"
+cheat124_handler = "0"
+cheat124_code = "8013FEA4#01F4"
+
+cheat125_desc = "第四位HP MAX"
+cheat125_handler = "0"
+cheat125_code = "8013FF58#270F;8013FF5A#270F;8013FF5C#270F"
+
+cheat126_desc = "第四位TP MAX"
+cheat126_handler = "0"
+cheat126_code = "8013FF5E#03E7;8013FF60#03E7;8013FF62#03E7"
+
+cheat127_desc = "第四位力MAX"
+cheat127_handler = "0"
+cheat127_code = "8013FF64#1388"
+
+cheat128_desc = "第四位防御MAX"
+cheat128_handler = "0"
+cheat128_code = "8013FF70#01F4"
+
+cheat129_desc = "第四位知力MAX"
+cheat129_handler = "0"
+cheat129_code = "8013FF6C#01F4"
+
+cheat130_desc = "第四位幸运MAX"
+cheat130_handler = "0"
+cheat130_code = "8013FF74#01F4"
+
+cheat131_desc = "里得在战斗中极光壁免费放"
+cheat131_handler = "0"
+cheat131_code = "800641F8#0001;80068730#0001;80070240#0001;80070252#3000;D0128C28#002B;80128C40#0001;D01341DC#0024;801341DE#3000;D0119B68#FFC0;80119B68#0000"
+
+cheat132_desc = "按R2即可放极光壁"
+cheat132_handler = "0"
+cheat132_code = "80068780#001D;80068782#1040;800687AE#1443;D00D34B0#0002;80068780#0000;D00D34B0#0002;80068782#0000;D00D34B0#0002;800687AE#1400"
+
+cheat133_desc = "LV.快速升"
+cheat133_handler = "0"
+cheat133_code = "D0073924#0002;80073924#0001"
+
+cheat134_desc = "获得経验値n倍2倍"
+cheat134_handler = "0"
+cheat134_code = "8006D918#8840;8006D91A#0011"
+
+cheat135_desc = "获得経验値n倍4倍"
+cheat135_handler = "0"
+cheat135_code = "8006D918#8880;8006D91A#0011"
+
+cheat136_desc = "获得経验値n倍8倍"
+cheat136_handler = "0"
+cheat136_code = "8006D918#88C0;8006D91A#0011"
+
+cheat137_desc = "获得経验値n倍16倍"
+cheat137_handler = "0"
+cheat137_code = "8006D918#8910;8006D91A#0011"
+
+cheat138_desc = "等级上升时，能力値上升量为２倍"
+cheat138_handler = "0"
+cheat138_code = "80073704#2840;80073706#0005;800738D4#2842;800738D6#0005"
+
+cheat139_desc = "习得全部技巧"
+cheat139_handler = "0"
+cheat139_code = "D0073AA0#0009;80073AA0#0001"
+
+cheat140_desc = "战斗后精灵LV Max"
+cheat140_handler = "0"
+cheat140_code = "D0073CFE#1040;80073CFE#1400"
+
+cheat141_desc = "术、技 使用后 Max"
+cheat141_handler = "0"
+cheat141_code = "8006DE50#1023;8006DE52#0042;8006DE54#270F;8006DE56#2442"
+
+cheat142_desc = "战斗后:剑、突、拳及脚Lv MAX"
+cheat142_handler = "0"
+cheat142_code = "D0073A50#0002;80073A50#0001"
+
+cheat143_desc = "战斗画面移动速度倍速"
+cheat143_handler = "0"
+cheat143_code = "D0127770#2C03;80127770#2BC3"
+
+cheat144_desc = "地图画面移动速度变更正常"
+cheat144_handler = "0"
+cheat144_code = "80021E4C#0001;80021E4E#2404"
+
+cheat145_desc = "地图画面移动速度变更2倍"
+cheat145_handler = "0"
+cheat145_code = "80021E4C#0002;80021E4E#2404"
+
+cheat146_desc = "地图画面移动速度变更4倍"
+cheat146_handler = "0"
+cheat146_code = "80021E4C#0004;80021E4E#2404"
+
+cheat147_desc = "地图画面移动速度变更8倍"
+cheat147_handler = "0"
+cheat147_code = "80021E4C#0008;80021E4E#2404"
+
+cheat148_desc = "バンエルティア号 speed UP"
+cheat148_handler = "0"
+cheat148_code = "D0132A5E#0030;80132A5E#00F0"
+
+cheat149_desc = "选单画面打开后TP,HP全回复"
+cheat149_handler = "0"
+cheat149_code = "800482E8#0036;800482F0#0038;800482F2#A664;80048314#0005;80048316#2402;80048354#003C;8004835C#003E;8004835E#A664;80048380#0005;80048382#2402"
+
+cheat150_desc = "选单画面打开后状态异常治愈"
+cheat150_handler = "0"
+cheat150_code = "800484B6#A260;800484C2#AFA0"
+
+cheat151_desc = "料理后料理熟练度MAX"
+cheat151_handler = "0"
+cheat151_code = "D004B57E#1440;8004B57E#1400"
+
+cheat152_desc = "料理后食材不减"
+cheat152_handler = "0"
+cheat152_code = "D004B960#093C;8004B968#0000"
+
+cheat153_desc = "学会全部的料理(但不拥有料理的材料)"
+cheat153_handler = "0"
+cheat153_code = "80140AAC#FFFF;80140AAE#FFFF;80140AB0#000F"
+
+cheat154_desc = "道具"ルーンボトル"使用不减"
+cheat154_handler = "0"
+cheat154_code = "D003F32C#00D4;8003F330#0000"
+
+cheat155_desc = "术使用后晶灵活力MAX(晶灵呼叫后才生效)"
+cheat155_handler = "0"
+cheat155_code = "D0070972#1040;80070972#1400"
+
+cheat156_desc = "レンズ的数量60个"
+cheat156_handler = "0"
+cheat156_code = "30109DB5#003C"
+
+cheat157_desc = "ジイニ 数MAX"
+cheat157_handler = "0"
+cheat157_code = "80109DAC#E0FF;80109DAE#05F5"
+
+cheat158_desc = "ガルド使用不减"
+cheat158_handler = "0"
+cheat158_code = "D0119F3E#004A;80119F3E#0040"
+
+cheat159_desc = "召唤ＭＡＸ水"
+cheat159_handler = "0"
+cheat159_code = "8014086E#A000"
+
+cheat160_desc = "召唤ＭＡＸ风"
+cheat160_handler = "0"
+cheat160_code = "80140876#A000"
+
+cheat161_desc = "召唤ＭＡＸ火"
+cheat161_handler = "0"
+cheat161_code = "8014087E#A000"
+
+cheat162_desc = "召唤ＭＡＸ地"
+cheat162_handler = "0"
+cheat162_code = "80140886#A000"
+
+cheat163_desc = "召唤ＭＡＸ冰"
+cheat163_handler = "0"
+cheat163_code = "8014088E#A000"
+
+cheat164_desc = "召唤ＭＡＸ雷"
+cheat164_handler = "0"
+cheat164_code = "80140896#A000"
+
+cheat165_desc = "召唤ＭＡＸ光"
+cheat165_handler = "0"
+cheat165_code = "8014089E#A000"
+
+cheat166_desc = "召唤ＭＡＸ闇"
+cheat166_handler = "0"
+cheat166_code = "801408A6#A000"
+
+cheat167_desc = "召唤ＭＡＸ元"
+cheat167_handler = "0"
+cheat167_code = "801408AE#A000"
+
+cheat168_desc = "召唤ＭＡＸ时"
+cheat168_handler = "0"
+cheat168_code = "801408B6#A000"
+
+cheat169_desc = "全部的道具各拥有15个"
+cheat169_handler = "0"
+cheat169_code = "8003C98E#2624;8003C990#D177;8003C992#0C00;8003C994#000F;8003C996#2405"
+
+cheat170_desc = "全道具但是除去贵重的道具"
+cheat170_handler = "0"
+cheat170_code = "800856E8#1E00;800856EA#0800;80007800#8014;80007802#3C04;80007804#0168;80007806#2485;80007808#800C;8000780A#3C06;8000780C#000F;8000780E#2408;80007810#94E4;80007812#90C2;80007814#0001;80007816#2403;80007818#0002;8000781A#1043;8000781C#0030;8000781E#24C6;80007820#05F1;80007822#A088;80007824#FFFA;80007826#1485;80007828#0001;8000782A#2484;8000782C#0008;8000782E#03E0"
+
+cheat171_desc = "アイテム使用不减选单画面"
+cheat171_handler = "0"
+cheat171_code = "8003E6C4#0000"
+
+cheat172_desc = "アイテム使用不减戦战斗时"
+cheat172_handler = "0"
+cheat172_code = "80074794#0000"
+
+cheat173_desc = "回复アイテム使用时，HP、TP全回复"
+cheat173_handler = "0"
+cheat173_code = "80032698#0001;80032830#0001"
+
+cheat174_desc = "小敌人不出现"
+cheat174_handler = "0"
+cheat174_code = "D0055B42#0050;80055B42#0040;D01252E6#0046;801252E6#0040"
+
+cheat175_desc = "最大HIT数MAX"
+cheat175_handler = "0"
+cheat175_code = "801405EC#E0FF;801405EE#05F5"
+
+cheat176_desc = "游戏时间不变"
+cheat176_handler = "0"
+cheat176_code = "D0020420#0001;80020420#0000"
+
+cheat177_desc = "全称号取得"
+cheat177_handler = "0"
+cheat177_code = "3014095A#FFFF;3014095C#FFFF;3014095E#FFFF;30140960#FFFF;30140962#FFFF;30140964#FFFF;30140966#FFFF"
+
+cheat178_desc = "遇敌次数最大"
+cheat178_handler = "0"
+cheat178_code = "801405E8#E0FF;801405EA#05F5"
+
+cheat179_desc = "遇敌次数为0"
+cheat179_handler = "0"
+cheat179_code = "801405E8#0000;801405EA#0000"
+
+cheat180_desc = "DEBUG模式(在开头画面下按着L1+L2后，再按○钮选择New game或Lode game)"
+cheat180_handler = "0"
+cheat180_code = "D00D34B0#0005;8013DED0#0003"
+
+cheat181_desc = "DEBUG模式2(上+R1开启 上+R2关闭)"
+cheat181_handler = "0"
+cheat181_code = "D00D34B0#1008,800D3450#0001;D00D34B0#1002,800D3450#0000"
+
+cheat182_desc = "火晶灵の谷中水晶灵のHP不减"
+cheat182_handler = "0"
+cheat182_code = "D0054CCA#00E5;80054CCA#00E0"
+
+cheat183_desc = "移动中，中毒不损血"
+cheat183_handler = "0"
+cheat183_code = "D00559A4#0038;800559B4#0000"
+
+cheat184_desc = "移动中不损血(指的是如风晶灵之谷的小龙卷风、??????之墓的许多陷阱...等所受的损伤都没事)"
+cheat184_handler = "0"
+cheat184_code = "D0032726#00A3;80032726#00A0;D0032726#00A3;800559B4#0000"
+
+cheat185_desc = "滚球游戏必胜(首先按L1+L2+R1+R2之后，看到对手的球变成3颗时，再想办法将球往她身上滚(通常都是用苦肉计将球引过来往自己和对手的身上砸)若中了游戏即获得胜利)"
+cheat185_handler = "0"
+cheat185_code = "D00D34B0#000F;80134A8C#0300"
+
+cheat186_desc = "空中浮游(使用后不一定降的下来!)"
+cheat186_handler = "0"
+cheat186_code = "80107D98#2000"
+
+cheat187_desc = "队伍第一个人里特"
+cheat187_handler = "0"
+cheat187_code = "801405A4#0001"
+
+cheat188_desc = "队伍第一个人花拉"
+cheat188_handler = "0"
+cheat188_code = "801405A4#0002"
+
+cheat189_desc = "队伍第一个人基鲁"
+cheat189_handler = "0"
+cheat189_code = "801405A4#0003"
+
+cheat190_desc = "队伍第一个人美露荻"
+cheat190_handler = "0"
+cheat190_code = "801405A4#0004"
+
+cheat191_desc = "队伍第一个人雷依斯"
+cheat191_handler = "0"
+cheat191_code = "801405A4#0005"
+
+cheat192_desc = "队伍第一个人珈黛"
+cheat192_handler = "0"
+cheat192_code = "801405A4#0006"
+
+cheat193_desc = "队伍第一个人霍克"
+cheat193_handler = "0"
+cheat193_code = "801405A4#0007"
+
+cheat194_desc = "队伍第一个人试练一的怪兽"
+cheat194_handler = "0"
+cheat194_code = "801405A4#0008"
+
+cheat195_desc = "队伍第一个人小时候的基鲁"
+cheat195_handler = "0"
+cheat195_code = "801405A4#0009"
+
+cheat196_desc = "队伍第一个人小时候的美露荻"
+cheat196_handler = "0"
+cheat196_code = "801405A4#000A"
+
+cheat197_desc = "队伍第一个人美露荻妈妈"
+cheat197_handler = "0"
+cheat197_code = "801405A4#000B"
+
+cheat198_desc = "队伍第二个人里特"
+cheat198_handler = "0"
+cheat198_code = "801405A6#0001"
+
+cheat199_desc = "队伍第二个人花拉"
+cheat199_handler = "0"
+cheat199_code = "801405A6#0002"
+
+cheat200_desc = "队伍第二个人基鲁"
+cheat200_handler = "0"
+cheat200_code = "801405A6#0003"
+
+cheat201_desc = "队伍第二个人美露荻"
+cheat201_handler = "0"
+cheat201_code = "801405A6#0004"
+
+cheat202_desc = "队伍第二个人雷依斯"
+cheat202_handler = "0"
+cheat202_code = "801405A6#0005"
+
+cheat203_desc = "队伍第二个人珈黛"
+cheat203_handler = "0"
+cheat203_code = "801405A6#0006"
+
+cheat204_desc = "队伍第二个人霍克"
+cheat204_handler = "0"
+cheat204_code = "801405A6#0007"
+
+cheat205_desc = "队伍第二个人试练一的怪兽"
+cheat205_handler = "0"
+cheat205_code = "801405A6#0008"
+
+cheat206_desc = "队伍第二个人小时候的基鲁"
+cheat206_handler = "0"
+cheat206_code = "801405A6#0009"
+
+cheat207_desc = "队伍第二个人小时候的美露荻"
+cheat207_handler = "0"
+cheat207_code = "801405A6#000A"
+
+cheat208_desc = "队伍第二个人美露荻妈妈"
+cheat208_handler = "0"
+cheat208_code = "801405A6#000B"
+
+cheat209_desc = "队伍第三个人里特"
+cheat209_handler = "0"
+cheat209_code = "801405A8#0001"
+
+cheat210_desc = "队伍第三个人花拉"
+cheat210_handler = "0"
+cheat210_code = "801405A8#0002"
+
+cheat211_desc = "队伍第三个人基鲁"
+cheat211_handler = "0"
+cheat211_code = "801405A8#0003"
+
+cheat212_desc = "队伍第三个人美露荻"
+cheat212_handler = "0"
+cheat212_code = "801405A8#0004"
+
+cheat213_desc = "队伍第三个人雷依斯"
+cheat213_handler = "0"
+cheat213_code = "801405A8#0005"
+
+cheat214_desc = "队伍第三个人珈黛"
+cheat214_handler = "0"
+cheat214_code = "801405A8#0006"
+
+cheat215_desc = "队伍第三个人霍克"
+cheat215_handler = "0"
+cheat215_code = "801405A8#0007"
+
+cheat216_desc = "队伍第三个人试练一的怪兽"
+cheat216_handler = "0"
+cheat216_code = "801405A8#0008"
+
+cheat217_desc = "队伍第三个人小时候的基鲁"
+cheat217_handler = "0"
+cheat217_code = "801405A8#0009"
+
+cheat218_desc = "队伍第三个人小时候的美露荻"
+cheat218_handler = "0"
+cheat218_code = "801405A8#000A"
+
+cheat219_desc = "队伍第三个人美露荻妈妈"
+cheat219_handler = "0"
+cheat219_code = "801405A8#000B"
+
+cheat220_desc = "队伍第四个人里特"
+cheat220_handler = "0"
+cheat220_code = "801405AA#0001"
+
+cheat221_desc = "队伍第四个人花拉"
+cheat221_handler = "0"
+cheat221_code = "801405AA#0002"
+
+cheat222_desc = "队伍第四个人基鲁"
+cheat222_handler = "0"
+cheat222_code = "801405AA#0003"
+
+cheat223_desc = "队伍第四个人美露荻"
+cheat223_handler = "0"
+cheat223_code = "801405AA#0004"
+
+cheat224_desc = "队伍第四个人雷依斯"
+cheat224_handler = "0"
+cheat224_code = "801405AA#0005"
+
+cheat225_desc = "队伍第四个人珈黛"
+cheat225_handler = "0"
+cheat225_code = "801405AA#0006"
+
+cheat226_desc = "队伍第四个人霍克"
+cheat226_handler = "0"
+cheat226_code = "801405AA#0007"
+
+cheat227_desc = "队伍第四个人试练一的怪兽"
+cheat227_handler = "0"
+cheat227_code = "801405AA#0008"
+
+cheat228_desc = "队伍第四个人小时候的基鲁"
+cheat228_handler = "0"
+cheat228_code = "801405AA#0009"
+
+cheat229_desc = "队伍第四个人小时候的美露荻"
+cheat229_handler = "0"
+cheat229_code = "801405AA#000A"
+
+cheat230_desc = "队伍第四个人美露荻妈妈"
+cheat230_handler = "0"
+cheat230_code = "801405AA#000B"
+
+cheat231_desc = "第一位HP MAX"
+cheat231_handler = "0"
+cheat231_code = "8013FCAC#270F;8013FCAE#270F;8013FCBO#270F"
+
+cheat232_desc = "第一位TP MAX"
+cheat232_handler = "0"
+cheat232_code = "8013FCEE#03E7;8013FCF0#03E7;8013FCF2#03E7"
+
+cheat233_desc = "第一位力MAX"
+cheat233_handler = "0"
+cheat233_code = "8013FCF4#1388"
+
+cheat234_desc = "第一位防御MAX"
+cheat234_handler = "0"
+cheat234_code = "8013FD00#01F4"
+
+cheat235_desc = "第一位知力MAX"
+cheat235_handler = "0"
+cheat235_code = "8013FCFC#01F4"
+
+cheat236_desc = "第一位幸运MAX"
+cheat236_handler = "0"
+cheat236_code = "8013FD04#01F4"
+
+cheat237_desc = "第一位Exp"
+cheat237_handler = "0"
+cheat237_code = "8013FCB8#FFFF;8013FCBA#FFFF"
+
+cheat238_desc = "第二位HP MAX"
+cheat238_handler = "0"
+cheat238_code = "8013FDB8#270F;8013FDBA#270F;8013FDBC#270F"
+
+cheat239_desc = "第二位TP MAX"
+cheat239_handler = "0"
+cheat239_code = "8013FDBE#03E7;8013FDC0#03E7;8013FDC2#03E7"
+
+cheat240_desc = "第二位力MAX"
+cheat240_handler = "0"
+cheat240_code = "8013FDC4#1388"
+
+cheat241_desc = "第二位防御MAX"
+cheat241_handler = "0"
+cheat241_code = "8013FDD0#01F4"
+
+cheat242_desc = "第二位知力MAX"
+cheat242_handler = "0"
+cheat242_code = "8013FDCC#01F4"
+
+cheat243_desc = "第二位幸运MAX"
+cheat243_handler = "0"
+cheat243_code = "8013FDD4#01F4"
+
+cheat244_desc = "第三位HP MAX"
+cheat244_handler = "0"
+cheat244_code = "8013FE88#270F;8013FE8A#270F;8013FE8C#270F"
+
+cheat245_desc = "第三位TP MAX"
+cheat245_handler = "0"
+cheat245_code = "8013FE8E#03E7;8013FE90#03E7;8013FE92#03E7"
+
+cheat246_desc = "第三位力MAX"
+cheat246_handler = "0"
+cheat246_code = "8013FE94#1388"
+
+cheat247_desc = "第三位防御MAX"
+cheat247_handler = "0"
+cheat247_code = "8013FEA0#01F4"
+
+cheat248_desc = "第三位知力MAX"
+cheat248_handler = "0"
+cheat248_code = "8013FE9C#01F4"
+
+cheat249_desc = "第三位幸运MAX"
+cheat249_handler = "0"
+cheat249_code = "8013FEA4#01F4"
+
+cheat250_desc = "第四位HP MAX"
+cheat250_handler = "0"
+cheat250_code = "8013FF58#270F;8013FF5A#270F;8013FF5C#270F"
+
+cheat251_desc = "第四位TP MAX"
+cheat251_handler = "0"
+cheat251_code = "8013FF5E#03E7;8013FF60#03E7;8013FF62#03E7"
+
+cheat252_desc = "第四位力MAX"
+cheat252_handler = "0"
+cheat252_code = "8013FF64#1388"
+
+cheat253_desc = "第四位防御MAX"
+cheat253_handler = "0"
+cheat253_code = "8013FF70#01F4"
+
+cheat254_desc = "第四位知力MAX"
+cheat254_handler = "0"
+cheat254_code = "8013FF6C#01F4"
+
+cheat255_desc = "第四位幸运MAX"
+cheat255_handler = "0"
+cheat255_code = "8013FF74#01F4"
+
+cheat256_desc = "精灵活力MAX&极光术MAX"
+cheat256_handler = "0"
+cheat256_code = "b00a0008#0000,3014086F#A0;3010EC3E#44"
+
+cheats = 257

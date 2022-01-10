@@ -1,0 +1,33 @@
+cheat0_desc = "BIT最大值"
+cheat0_handler = "0"
+cheat0_code = "80050A88#E0FF;80050A8A#05F5"
+
+cheat1_desc = "第一隻怪獸經驗值"
+cheat1_handler = "0"
+cheat1_code = "80050B74#E0FF;80050B76#05F5"
+
+cheat2_desc = "HP最大值"
+cheat2_handler = "0"
+cheat2_code = "80050B78#03E7"
+
+cheat3_desc = "MP最大值"
+cheat3_handler = "0"
+cheat3_code = "80050B7C#03E7"
+
+cheat4_desc = "攻擊力999"
+cheat4_handler = "0"
+cheat4_code = "80050B80#03E7"
+
+cheat5_desc = "防禦力999"
+cheat5_handler = "0"
+cheat5_code = "80050B82#03E7"
+
+cheat6_desc = "速度最大值"
+cheat6_handler = "0"
+cheat6_code = "80050B84#03E7"
+
+cheat7_desc = "等級LV99"
+cheat7_handler = "0"
+cheat7_code = "30050B71#0063"
+
+cheats = 8

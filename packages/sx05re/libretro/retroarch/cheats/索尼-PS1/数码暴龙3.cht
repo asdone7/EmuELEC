@@ -1,0 +1,41 @@
+cheat0_desc = "BIT超高"
+cheat0_handler = "0"
+cheat0_code = "80048554#E0FF;80048556#05F5"
+
+cheat1_desc = "道具"
+cheat1_handler = "0"
+cheat1_code = "B09E0002#00000000;80048590#5050;3004858F#0050;300486CC#0050"
+
+cheat2_desc = "Kotemon 经验值"
+cheat2_handler = "0"
+cheat2_code = "80048C68#E0FF;80048C6A#05F5"
+
+cheat3_desc = "等级"
+cheat3_handler = "0"
+cheat3_code = "30048C6C#0063"
+
+cheat4_desc = "TP"
+cheat4_handler = "0"
+cheat4_code = "80048C70#270F"
+
+cheat5_desc = "HP现在值"
+cheat5_handler = "0"
+cheat5_code = "80048C72#270F"
+
+cheat6_desc = "HP最大值"
+cheat6_handler = "0"
+cheat6_code = "80048C74#270F"
+
+cheat7_desc = "MP现在值"
+cheat7_handler = "0"
+cheat7_code = "80048C76#270F"
+
+cheat8_desc = "MP最大值"
+cheat8_handler = "0"
+cheat8_code = "80048C78#03E7"
+
+cheat9_desc = "能力值"
+cheat9_handler = "0"
+cheat9_code = "80048C7A#03E7;80048C7C#03E7;80048C7E#03E7;80048C80#03E7;80048C82#03E7;80048C84#03E7;80048C86#03E7;80048C88#03E7;80048C8A#03E7;80048C8C#03E7;80048C8E#03E7;80048C90#03E7"
+
+cheats = 10

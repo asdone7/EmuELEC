@@ -1,0 +1,25 @@
+cheat0_desc = "Infinite Spice"
+cheat0_handler = "0"
+cheat0_code = "800E091C#FFFF"
+
+cheat1_desc = "Max Spice"
+cheat1_handler = "0"
+cheat1_code = "800E091C#967F;800E091E#0098"
+
+cheat2_desc = "Building Structures Costs Nothing"
+cheat2_handler = "0"
+cheat2_code = "800E062C#FFFF"
+
+cheat3_desc = "Instant Build Structures"
+cheat3_handler = "0"
+cheat3_code = "800E0632#5A00"
+
+cheat4_desc = "Instant Build Structures"
+cheat4_handler = "0"
+cheat4_code = "800E063C#FFFF"
+
+cheat5_desc = "Instant Build Units"
+cheat5_handler = "0"
+cheat5_code = "800E0642#5A00"
+
+cheats = 6

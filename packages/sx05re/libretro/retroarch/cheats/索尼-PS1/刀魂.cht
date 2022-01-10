@@ -1,0 +1,29 @@
+cheat0_desc = "血量不减"
+cheat0_handler = "0"
+cheat0_code = "50F41E52#00F0"
+
+cheat1_desc = "剑量不减"
+cheat1_handler = "0"
+cheat1_code = "50F4342C#0060"
+
+cheat2_desc = "在武器室中看全部武器(没插记忆卡)"
+cheat2_handler = "0"
+cheat2_code = "50334DB5#00FF"
+
+cheat3_desc = "可使用70把刀及隐藏人"
+cheat3_handler = "0"
+cheat3_code = "4836CEE9#0000;50115191#00FF"
+
+cheat4_desc = "可使用魔王"
+cheat4_handler = "0"
+cheat4_code = "50A7E290#0001"
+
+cheat5_desc = "一刀击毙"
+cheat5_handler = "0"
+cheat5_code = "50F419A0#0000"
+
+cheat6_desc = "1P生命on"
+cheat6_handler = "0"
+cheat6_code = "1CAC9E44#D566E7A5;1CAC9E54#D566E7A5"
+
+cheats = 7

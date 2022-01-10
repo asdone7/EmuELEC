@@ -1,0 +1,17 @@
+cheat0_desc = "無限隻on"
+cheat0_handler = "0"
+cheat0_code = "30058FAA#0063"
+
+cheat1_desc = "無限血on"
+cheat1_handler = "0"
+cheat1_code = "3005A53A#0010"
+
+cheat2_desc = "無敵on"
+cheat2_handler = "0"
+cheat2_code = "3005A540#0059"
+
+cheat3_desc = "按SELECT後99個心on"
+cheat3_handler = "0"
+cheat3_code = "D005E072#FFFE;3005A550#0063"
+
+cheats = 4

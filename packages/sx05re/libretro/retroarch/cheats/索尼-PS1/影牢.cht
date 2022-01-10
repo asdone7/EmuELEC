@@ -1,0 +1,29 @@
+cheat0_desc = "血不减"
+cheat0_handler = "0"
+cheat0_code = "800E6B52#0190"
+
+cheat1_desc = "Total Ark不减"
+cheat1_handler = "0"
+cheat1_code = "800E6B60#6FFF;800E6B62#068E"
+
+cheat2_desc = "按下L1+R1立即杀死左敌人"
+cheat2_handler = "0"
+cheat2_code = "D00E4DE0#000C;800DC220#0000"
+
+cheat3_desc = "按下L2+R2立即杀死右敌人"
+cheat3_handler = "0"
+cheat3_code = "D00E4DE0#0003;800DC2CC#0000"
+
+cheat4_desc = "过关回数xx=00-62"
+cheat4_handler = "0"
+cheat4_code = "800E4DD8#00XX"
+
+cheat5_desc = "拥有ALL陷阱"
+cheat5_handler = "0"
+cheat5_code = "800E6C98#4040;800E6C9A#4040;800E6C9C#4040;800E6C9E#4040;800E6CA0#4040;800E6CA2#4040;800E6CA4#4040;800E6CA6#4040;800E6CA8#4040;800E6CAA#4040;800E6CAC#4040;800E6CAE#4040;800E6CB0#4040;800E6CB2#4040;800E6CB4#4040;800E6CB6#4040;800E6CB8#4040;800E6CBA#4040;800E6CBC#4040;800E6CBE#4040;800E6CC0#4040;800E6CC2#4040;800E6CC4#4040;800E6CC6#4040;800E6CC8#4040;800E6CCA#4040;800E6CCC#4040;800E6CCE#4040"
+
+cheat6_desc = "中文板适用"
+cheat6_handler = "0"
+cheat6_code = "B0260002#00000000;800E6C98#4040"
+
+cheats = 7

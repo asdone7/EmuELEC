@@ -1,0 +1,57 @@
+cheat0_desc = "HP最大"
+cheat0_handler = "0"
+cheat0_code = "8009B584#03E7"
+
+cheat1_desc = "MP最大"
+cheat1_handler = "0"
+cheat1_code = "8009B586#03E7"
+
+cheat2_desc = "攻击力"
+cheat2_handler = "0"
+cheat2_code = "8009B588#03E7"
+
+cheat3_desc = "装备攻击力"
+cheat3_handler = "0"
+cheat3_code = "8009B590#03E7"
+
+cheat4_desc = "防御"
+cheat4_handler = "0"
+cheat4_code = "8009B58C#03E7"
+
+cheat5_desc = "装备防御"
+cheat5_handler = "0"
+cheat5_code = "8009B594#03E7"
+
+cheat6_desc = "金钱"
+cheat6_handler = "0"
+cheat6_code = "8009B4F0#967F;8009B4F2#0098"
+
+cheat7_desc = "过关时数0"
+cheat7_handler = "0"
+cheat7_code = "800A72F0#0000"
+
+cheat8_desc = "全道具"
+cheat8_handler = "0"
+cheat8_code = "3009B5B8#0063;3009B5B9#0063;3009B5BA#0063;3009B5BB#0063;3009B5BC#0063;3009B5BD#0063;3009B5BE#0063;3009B5BF#0063;3009B5C0#0063;3009B5C1#0063;3009B5C2#0063;3009B5C3#0063;3009B5C5#0063;3009B5C6#0063;3009B5C7#0063;3009B5C8#0063"
+
+cheat9_desc = "无敌"
+cheat9_handler = "0"
+cheat9_code = "800A8434#0030"
+
+cheat10_desc = "一击毙"
+cheat10_handler = "0"
+cheat10_code = "D0058696#1C40;80058696#1C00"
+
+cheat11_desc = "锁定HP"
+cheat11_handler = "0"
+cheat11_code = "D0058642#0071;80058642#0060"
+
+cheat12_desc = "锁定MP"
+cheat12_handler = "0"
+cheat12_code = "D0059A76#0070;D0059A76#0060"
+
+cheat13_desc = "全怪物图鉴"
+cheat13_handler = "0"
+cheat13_code = "B0210002#00000000;8009B5D0#07E7"
+
+cheats = 14

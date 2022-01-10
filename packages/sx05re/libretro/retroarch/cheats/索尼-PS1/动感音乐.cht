@@ -1,0 +1,5 @@
+cheat0_desc = "HP不减"
+cheat0_handler = "0"
+cheat0_code = "80074BEC#0003"
+
+cheats = 1

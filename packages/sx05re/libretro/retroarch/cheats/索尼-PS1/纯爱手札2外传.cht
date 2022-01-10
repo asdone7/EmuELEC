@@ -1,0 +1,9 @@
+cheat0_desc = "跳舞游戏计量表不减"
+cheat0_handler = "0"
+cheat0_code = "80153038#03E8"
+
+cheat1_desc = "跳舞游戏COMBO数超高"
+cheat1_handler = "0"
+cheat1_code = "8015303C#270F"
+
+cheats = 2

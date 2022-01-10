@@ -1,0 +1,25 @@
+cheat0_desc = "1p体力不減no"
+cheat0_handler = "0"
+cheat0_code = "80194078#0090"
+
+cheat1_desc = "2p体力不減NO"
+cheat1_handler = "0"
+cheat1_code = "801944c0#0090"
+
+cheat2_desc = "1P能力值不減NO"
+cheat2_handler = "0"
+cheat2_code = "8019416a#0090"
+
+cheat3_desc = "2P能力值不減NO"
+cheat3_handler = "0"
+cheat3_code = "801945b2#0090"
+
+cheat4_desc = "空中必殺技NO"
+cheat4_handler = "0"
+cheat4_code = "80194050#0000;80194498#0000"
+
+cheat5_desc = "隱藏人物NO"
+cheat5_handler = "0"
+cheat5_code = "801143b8#0001;801143d8#0001;801143f8#0001"
+
+cheats = 6

@@ -1,0 +1,33 @@
+cheat0_desc = "开机码"
+cheat0_handler = "0"
+cheat0_code = "D01BF172#1040;801BF172#1000;D00FAA36#1040;800FAA36#1000"
+
+cheat1_desc = "无限金钱"
+cheat1_handler = "0"
+cheat1_code = "800B995C#423F;800B995E#000F"
+
+cheat2_desc = "无敌"
+cheat2_handler = "0"
+cheat2_code = "80089A34#0000"
+
+cheat3_desc = "主角HP"
+cheat3_handler = "0"
+cheat3_code = "80089A6E#03E7;80089A70#03E7"
+
+cheat4_desc = "主角MP"
+cheat4_handler = "0"
+cheat4_code = "80089A72#03E7;80089A74#03E7"
+
+cheat5_desc = "最高VAL"
+cheat5_handler = "0"
+cheat5_code = "800A2180#270F;800A2182#0000"
+
+cheat6_desc = "全魔法Lv最高"
+cheat6_handler = "0"
+cheat6_code = "B0080002#0000,800A2190#0001;B0040002#0000,800A21B6#0303"
+
+cheat7_desc = "全Item"
+cheat7_handler = "0"
+cheat7_code = "B0030002#0000,800A2168#270F;B0060002#0000,800A2184#270F;B00B0002#0000,800A21A0#270F"
+
+cheats = 8

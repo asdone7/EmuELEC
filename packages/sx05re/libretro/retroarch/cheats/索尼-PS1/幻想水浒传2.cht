@@ -1,0 +1,29 @@
+cheat0_desc = "钱"
+cheat0_handler = "0"
+cheat0_code = "8006A4F8#423F;8006A4FA#000F"
+
+cheat1_desc = "快速升级"
+cheat1_handler = "0"
+cheat1_code = "D002DFAC#001F;8002DFAC#0001"
+
+cheat2_desc = "锻炼武器最大"
+cheat2_handler = "0"
+cheat2_code = "80074828#0010;8007482A#2402"
+
+cheat3_desc = "MP不减"
+cheat3_handler = "0"
+cheat3_code = "80073B6E#2400"
+
+cheat4_desc = "升级后全角色HP变最大"
+cheat4_handler = "0"
+cheat4_code = "800731AA#1000"
+
+cheat5_desc = "全与主角作战过的同伴(除一代主角)"
+cheat5_handler = "0"
+cheat5_code = "b0510001#00000000;3006ae11#0007"
+
+cheat6_desc = "战斗后属性变最大(不能吃加属性的东东)"
+cheat6_handler = "0"
+cheat6_code = "900740b0#340200ff"
+
+cheats = 7

@@ -1,0 +1,21 @@
+cheat0_desc = "粮食999999 木材999999"
+cheat0_handler = "0"
+cheat0_code = "800FE710#423F;800FE712#000F;800FE70C#423F;800FE70E#000F"
+
+cheat1_desc = "金钱999999"
+cheat1_handler = "0"
+cheat1_code = "E008C5AD#0001;80101CB4#00FF;E008C5AD#0001;80101CBC#00FF;E008C5AD#0001;80101CB8#00FF;E008C5AD#0001;80101CC0#00FF;E008C5AD#0001;80101CC4#00FF;E008C5AD#000F;80101CC8#00FF;800FE708#423F;800FE70A#000F"
+
+cheat2_desc = "钱"
+cheat2_handler = "0"
+cheat2_code = "800FE708#423F;800FE70A#000F"
+
+cheat3_desc = "木材"
+cheat3_handler = "0"
+cheat3_code = "800FE70C#423F;800FE70E#000F"
+
+cheat4_desc = "食物"
+cheat4_handler = "0"
+cheat4_code = "800FE710#423F;800FE712#000F"
+
+cheats = 5

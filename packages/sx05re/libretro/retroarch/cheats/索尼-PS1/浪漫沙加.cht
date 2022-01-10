@@ -1,0 +1,33 @@
+cheat0_desc = "ALL ITEM"
+cheat0_handler = "0"
+cheat0_code = "B0FF0002#00000001,3001288C#0000;B0FF0002#00000000,3001288D#0063"
+
+cheat1_desc = "全员WP无限"
+cheat1_handler = "0"
+cheat1_code = "B0240100#00000000,80010008#FAFA"
+
+cheat2_desc = "全员JP无限"
+cheat2_handler = "0"
+cheat2_code = "B0240100#00000000,8001000A#FAFA"
+
+cheat3_desc = "全员全剑术"
+cheat3_handler = "0"
+cheat3_code = "B0240100#00000000,80010038#FF7F;B0240100#00000000,8001003A#FFFF;B0240100#00000000,3001003C#00F0"
+
+cheat4_desc = "全员全枪术"
+cheat4_handler = "0"
+cheat4_code = "B0240100#00000000,80010040#E07F"
+
+cheat5_desc = "全员全拳法"
+cheat5_handler = "0"
+cheat5_code = "B0240100#00000000,80010044#FF7F;B0240100#00000000,80010046#80FF"
+
+cheat6_desc = "全员全拳法[全员全魔法] ON"
+cheat6_handler = "0"
+cheat6_code = "B0240100#00000000,80010058#FFFF;B0240100#00000000,8001005A#FFFF;B0240100#00000000,8001005C#FFFF;B0240100#00000000,8001005E#FFFF;B0240100#00000000,80010060#FFFF"
+
+cheat7_desc = "全员全见切"
+cheat7_handler = "0"
+cheat7_code = "B0240100#00000000,80010064#FFFF;B0240100#00000000,30010066#00C0"
+
+cheats = 8

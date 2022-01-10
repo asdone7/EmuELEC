@@ -1,0 +1,33 @@
+cheat0_desc = "大量金钱NO"
+cheat0_handler = "0"
+cheat0_code = "8013022C#967F;8013022E#0098"
+
+cheat1_desc = "大量财资NO"
+cheat1_handler = "0"
+cheat1_code = "80130234#967F;80130236#0098"
+
+cheat2_desc = "等级最大NO"
+cheat2_handler = "0"
+cheat2_code = "D003446E#1040;8003446E#1400"
+
+cheat3_desc = "无限移动NO"
+cheat3_handler = "0"
+cheat3_code = "D001A836#1440;8001A836#1400"
+
+cheat4_desc = "影像全开NO"
+cheat4_handler = "0"
+cheat4_code = "D0040E86#1040;80040E86#1400"
+
+cheat5_desc = "图鉴全开NO"
+cheat5_handler = "0"
+cheat5_code = "D006C69E#1040;8006C69E#1400;D006C74A#1040;8006C74A#1400"
+
+cheat6_desc = "必要气力无视NO"
+cheat6_handler = "0"
+cheat6_code = "D003647A#1400;8003647A#1400"
+
+cheat7_desc = "必要气力无视NO"
+cheat7_handler = "0"
+cheat7_code = "[EN不减]"
+
+cheats = 8

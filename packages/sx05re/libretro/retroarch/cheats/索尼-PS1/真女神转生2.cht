@@ -1,0 +1,9 @@
+cheat0_desc = "战斗后可获大量经验值"
+cheat0_handler = "0"
+cheat0_code = "801CD7D4#FFFF"
+
+cheat1_desc = "战斗后可获大量魔币"
+cheat1_handler = "0"
+cheat1_code = "801CD7D8#FFFF"
+
+cheats = 2

@@ -1,0 +1,9 @@
+cheat0_desc = "金錢無限on"
+cheat0_handler = "0"
+cheat0_code = "80098CAC#423F;80098CAE#000F"
+
+cheat1_desc = "升級後HP最大值999on"
+cheat1_handler = "0"
+cheat1_code = "D0045440#2021;80048444#03E7;D0045440#2021;80045446#2402"
+
+cheats = 2

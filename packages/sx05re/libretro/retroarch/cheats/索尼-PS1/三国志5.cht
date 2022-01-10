@@ -1,0 +1,13 @@
+cheat0_desc = "能力值數不變"
+cheat0_handler = "0"
+cheat0_code = "80150598#0030"
+
+cheat1_desc = "金錢無限（有記錄再使用）"
+cheat1_handler = "0"
+cheat1_code = "8002B370#0000"
+
+cheat2_desc = "新登武將能力超高"
+cheat2_handler = "0"
+cheat2_code = "B0040004#00000000;80150588#0096"
+
+cheats = 3

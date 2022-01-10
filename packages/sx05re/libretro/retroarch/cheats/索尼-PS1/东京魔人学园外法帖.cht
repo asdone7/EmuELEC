@@ -1,0 +1,93 @@
+cheat0_desc = "金钱99999999"
+cheat0_handler = "0"
+cheat0_code = "801FE9D4#E0FF;801FE9D6#0FF5"
+
+cheat1_desc = "龙斗经验值99"
+cheat1_handler = "0"
+cheat1_code = "3014CAE5#0063"
+
+cheat2_desc = "移动99"
+cheat2_handler = "0"
+cheat2_code = "3014CB000063;3014CB0A#0063"
+
+cheat3_desc = "HP999"
+cheat3_handler = "0"
+cheat3_code = "8014CB02#03E7;8014CB0C#03E7"
+
+cheat4_desc = "属性999"
+cheat4_handler = "0"
+cheat4_code = "8014CB04#03E7;8014CB06#03E7;8014CB08#03E7"
+
+cheat5_desc = "京梧经验值99"
+cheat5_handler = "0"
+cheat5_code = "3014CE2D#0063"
+
+cheat6_desc = "移动99"
+cheat6_handler = "0"
+cheat6_code = "3014CE48#0063;3014CE52#0063"
+
+cheat7_desc = "HP999"
+cheat7_handler = "0"
+cheat7_code = "8014CE4A#03E7;8014CE54#03E7"
+
+cheat8_desc = "属性999"
+cheat8_handler = "0"
+cheat8_code = "8014CE4C#03E7;8014CE4E#03E7;8014CE5003E7"
+
+cheat9_desc = "美里经验值99"
+cheat9_handler = "0"
+cheat9_code = "3014D175#0063"
+
+cheat10_desc = "移动99"
+cheat10_handler = "0"
+cheat10_code = "3014D1900063;3014D19A#03E7"
+
+cheat11_desc = "HP999"
+cheat11_handler = "0"
+cheat11_code = "8014D192#03E7;8014D19C#03E7"
+
+cheat12_desc = "属性999"
+cheat12_handler = "0"
+cheat12_code = "8014D194#03E7;8014D196#03E7;8014D198#03E7"
+
+cheat13_desc = "雄庆经验值99"
+cheat13_handler = "0"
+cheat13_code = "3014D4BD#0063"
+
+cheat14_desc = "移动99"
+cheat14_handler = "0"
+cheat14_code = "3014D4D8#0063;3014D4E2#03E7"
+
+cheat15_desc = "HP999"
+cheat15_handler = "0"
+cheat15_code = "8014D4DA#03E7;8014D4E4#03E7"
+
+cheat16_desc = "属性999"
+cheat16_handler = "0"
+cheat16_code = "8014D4DC#03E7;8014D4DE#03E7;8014D4E003E7"
+
+cheat17_desc = "全道具"
+cheat17_handler = "0"
+cheat17_code = "B03B0002#00000000;801FE8BE#6363;301FE934#0063"
+
+cheat18_desc = "全装备"
+cheat18_handler = "0"
+cheat18_code = "801FE8BC#01FF"
+
+cheat19_desc = "手甲"
+cheat19_handler = "0"
+cheat19_code = "B0100004#00000000;801FE0EA#0000;B0100004#00000001;801FE0EC#0000"
+
+cheat20_desc = "刀"
+cheat20_handler = "0"
+cheat20_code = "B01B0004#00000000;801FE12A#0100;B01B0004#00000001;801FE12C#0000"
+
+cheat21_desc = "发饰"
+cheat21_handler = "0"
+cheat21_code = "B00D0004#00000000;801FE196#0200;B00D0004#00000001;801FE198#0000"
+
+cheat22_desc = "弓"
+cheat22_handler = "0"
+cheat22_code = "B00F0004#00000000;801FE1CA#0300;B00F0004#00000001;801FE1CC#0000"
+
+cheats = 23

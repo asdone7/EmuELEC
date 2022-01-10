@@ -1,0 +1,13 @@
+cheat0_desc = "大量金钱NO"
+cheat0_handler = "0"
+cheat0_code = "8019B9D6#967F;8019B9D8#0098"
+
+cheat1_desc = "等级最大NO"
+cheat1_handler = "0"
+cheat1_code = "B0014000C#00000000;3019A6BA#0063"
+
+cheat2_desc = "全强化部件NO"
+cheat2_handler = "0"
+cheat2_code = "D00307E6#1C40;800307E6#1400"
+
+cheats = 3

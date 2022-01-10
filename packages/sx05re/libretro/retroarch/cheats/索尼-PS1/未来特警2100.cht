@@ -1,0 +1,29 @@
+cheat0_desc = "infinite armor"
+cheat0_handler = "0"
+cheat0_code = "80058270#2400"
+
+cheat1_desc = "infinite ammo"
+cheat1_handler = "0"
+cheat1_code = "8006bc78#2400"
+
+cheat2_desc = "red team 999 points in percinct assault"
+cheat2_handler = "0"
+cheat2_code = "801fbf60#03e7"
+
+cheat3_desc = "red team 0 points in percinct assault"
+cheat3_handler = "0"
+cheat3_code = "801fbf60#0000"
+
+cheat4_desc = "blue team 999 points in percinct assault"
+cheat4_handler = "0"
+cheat4_code = "801fbf64#03e7"
+
+cheat5_desc = "blue team 0 points in percinct assault"
+cheat5_handler = "0"
+cheat5_code = "801fbf64#0000"
+
+cheat6_desc = "all weapons"
+cheat6_handler = "0"
+cheat6_code = "8009c0b2#0004;8009c0b6#0004;8009c0da#0004"
+
+cheats = 7

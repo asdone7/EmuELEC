@@ -1,0 +1,9 @@
+cheat0_desc = "全角色"
+cheat0_handler = "0"
+cheat0_code = "801B2F90#FFFF;801B2F92#FFFF;801B2F94#FFFF;801B2F96#FFFF"
+
+cheat1_desc = "按選擇鍵 接關次數不減"
+cheat1_handler = "0"
+cheat1_code = "d00684F2#0100;301B2F7C#0005"
+
+cheats = 2

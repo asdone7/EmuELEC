@@ -1,0 +1,9 @@
+cheat0_desc = "时间不减"
+cheat0_handler = "0"
+cheat0_code = "8008C704#03E7"
+
+cheat1_desc = "关卡全破"
+cheat1_handler = "0"
+cheat1_code = "8008C1B4#FFFF;8008C1B6#FFFF"
+
+cheats = 2

@@ -1,0 +1,37 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "8010CA70#869F;8010CA72#0001"
+
+cheat1_desc = "MAG无限"
+cheat1_handler = "0"
+cheat1_code = "8010CA74#869F;8010CA76#0001"
+
+cheat2_desc = "编辑角色能力残余点数不减"
+cheat2_handler = "0"
+cheat2_code = "D0043D7C#FFFF;80043D7C#0000"
+
+cheat3_desc = "快速升级"
+cheat3_handler = "0"
+cheat3_code = "D011AEA4#0004;8011AEA4#0001"
+
+cheat4_desc = "小敌人不出现"
+cheat4_handler = "0"
+cheat4_code = "8003039A#1000;8004ED16#A440"
+
+cheat5_desc = "AUTOMAP全出现"
+cheat5_handler = "0"
+cheat5_code = "8003EC6C#0001"
+
+cheat6_desc = "可召喚属性不合的仲魔"
+cheat6_handler = "0"
+cheat6_code = "8004E73E#1000;8004E74A#1000"
+
+cheat7_desc = "全道具、武器、装备(含事件道具)"
+cheat7_handler = "0"
+cheat7_code = "B0FF0002#00000000;3010CAD9#0062;3010CCD7#0062"
+
+cheat8_desc = "全道具、武器、装备(不含事件道具)"
+cheat8_handler = "0"
+cheat8_code = "B0EF0002#00000000;3010CAD9#0062"
+
+cheats = 9

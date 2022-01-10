@@ -1,0 +1,21 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "800B83E8#E0FF;800B83EA#05F5"
+
+cheat1_desc = "小敌人不出现"
+cheat1_handler = "0"
+cheat1_code = "30032584#0021"
+
+cheat2_desc = "快速升级"
+cheat2_handler = "0"
+cheat2_code = "80022782#2400"
+
+cheat3_desc = "战斗中SP不减"
+cheat3_handler = "0"
+cheat3_code = "8001B246#0040"
+
+cheat4_desc = "全部道具"
+cheat4_handler = "0"
+cheat4_code = "B08B0002#00000000,800B83F6#6262;300B83F5#0062"
+
+cheats = 5

@@ -1,0 +1,33 @@
+cheat0_desc = "体力不减 1P"
+cheat0_handler = "0"
+cheat0_code = "800A5318#00FC"
+
+cheat1_desc = "体力不减 2P"
+cheat1_handler = "0"
+cheat1_code = "800A5430#00FC"
+
+cheat2_desc = "怒满 1P"
+cheat2_handler = "0"
+cheat2_code = "800A5322#4000"
+
+cheat3_desc = "怒满 2P"
+cheat3_handler = "0"
+cheat3_code = "800A543A#4000"
+
+cheat4_desc = "怒的爆发持续 1P"
+cheat4_handler = "0"
+cheat4_code = "800A53DC#0100"
+
+cheat5_desc = "怒的爆发持续 2P"
+cheat5_handler = "0"
+cheat5_code = "800A54F4#0100"
+
+cheat6_desc = "角色选择 1Pxx"
+cheat6_handler = "0"
+cheat6_code = "800A5262#00xx"
+
+cheat7_desc = "角色选择 2Pxx"
+cheat7_handler = "0"
+cheat7_code = "300A5263#00xx"
+
+cheats = 8

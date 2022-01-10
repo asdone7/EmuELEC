@@ -1,0 +1,33 @@
+cheat0_desc = "1P"
+cheat0_handler = "0"
+cheat0_code = "300AAAB6#008C"
+
+cheat1_desc = "2P"
+cheat1_handler = "0"
+cheat1_code = "300AC342#008C"
+
+cheat2_desc = "全角色"
+cheat2_handler = "0"
+cheat2_code = "800992C8#FFFF;800992CA#001F"
+
+cheat3_desc = "全动画"
+cheat3_handler = "0"
+cheat3_code = "800992FE#0101;800992D0#FFFF;800992D2#FFFF;800992D5#FFFF"
+
+cheat4_desc = "1P只打一回合即可过关"
+cheat4_handler = "0"
+cheat4_code = "800AA704#0001"
+
+cheat5_desc = "2P只打一回合即可过关"
+cheat5_handler = "0"
+cheat5_code = "800ABF90#0001"
+
+cheat6_desc = "ARCADE 模式下过关时间不加"
+cheat6_handler = "0"
+cheat6_code = "800B0F4C#0000"
+
+cheat7_desc = "时间不减"
+cheat7_handler = "0"
+cheat7_code = "800AF064#0E0A"
+
+cheats = 8

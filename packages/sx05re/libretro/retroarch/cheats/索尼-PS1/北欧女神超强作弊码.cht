@@ -1,0 +1,6097 @@
+cheat0_desc = "战斗后等级99"
+cheat0_handler = "0"
+cheat0_code = "D00998B2#1C60,800998B2#0000;D00998B0#012A,800998B0#0000"
+
+cheat1_desc = "全道具"
+cheat1_handler = "0"
+cheat1_code = "B0FF0002#00000001,301F62A2#0000;B0FF0001#00000000,301F676A#0063"
+
+cheat2_desc = "必杀技能量表全满"
+cheat2_handler = "0"
+cheat2_code = "D003DC64#1021,8003DC64#0064;D003DC66#0045,8003DC66#2002"
+
+cheat3_desc = "技能全习得"
+cheat3_handler = "0"
+cheat3_code = "301E62C5#00FF;801E62C6#FFFF;801E62C8#FFFF;301E62CA#00FF"
+
+cheat4_desc = "随时记录"
+cheat4_handler = "0"
+cheat4_code = "301F6274#0011"
+
+cheat5_desc = "游戏时间停止"
+cheat5_handler = "0"
+cheat5_code = "301F5F85#004B;801F5F86#0000"
+
+cheat6_desc = "封印值最小"
+cheat6_handler = "0"
+cheat6_code = "801E5C42#0000"
+
+cheat7_desc = "评价值最大"
+cheat7_handler = "0"
+cheat7_code = "301F6264#0064"
+
+cheat8_desc = "战斗中HP不减ALL"
+cheat8_handler = "0"
+cheat8_code = "80EAD74#FFFF;80EAD78#FFFF;80EBAE4#FFFF;80EC1A0#FFFF;80EB42C#FFFF;80EC19C#FFFF;80EBAE8#FFFF;80EB430#FFFF"
+
+cheat9_desc = "战斗中HP不减前"
+cheat9_handler = "0"
+cheat9_code = "80EAD74#FFFF;80EAD78#FFFF"
+
+cheat10_desc = "战斗中HP不减后"
+cheat10_handler = "0"
+cheat10_code = "80EC19C#FFFF;80EC1A0#FFFF"
+
+cheat11_desc = "战斗中HP不减上"
+cheat11_handler = "0"
+cheat11_code = "80EBAE4#FFFF;80EBAE8#FFFF"
+
+cheat12_desc = "战斗中HP不减下"
+cheat12_handler = "0"
+cheat12_code = "80EB42C#FFFF;80EB430#FFFF"
+
+cheat13_desc = "CP不减"
+cheat13_handler = "0"
+cheat13_code = "B01900EC#00000000,801DFF6C#03E7"
+
+cheat14_desc = "MP不减"
+cheat14_handler = "0"
+cheat14_code = "801F5F80#423F;801F5F82#000F"
+
+cheat15_desc = "CT值为零"
+cheat15_handler = "0"
+cheat15_code = "D0066B32#A4A2,80066B32#A4A0"
+
+cheat16_desc = "重力"
+cheat16_handler = "0"
+cheat16_code = "D002FFD6#2462#8002FFD4#0000"
+
+cheat17_desc = "新装备和重要物品"
+cheat17_handler = "0"
+cheat17_code = "801F62A4#0016;801F62A6#0017;801F62A8#0018;801F62AA#0019;801F62AC#001a;801F62AE#001b;801F62B0#001c;801F62b2#0099;801F62b4#009a;801F62B6#009b;801F62B8#009c;801F62BA#00a2;801F62BC#00a3;801F62BE#00a4;801F62C0#0112;801F62C2#0113;801F62C4#0114;801F62C6#0115;801F62C8#0116;801F62CA#0117;801F62CC#0118;801F62CE#0152;801F62D0#01c4;801F62D2#01c5;801F62D4#01c6;801F62D6#01c 7;801F62D8#01c8;801F62DA#01cb;801F62DC#01cc;801F62DE#000b;801F62E0#000c;801F62E2#0035;801F62E4#0036;801F62E6#0037;801F62E8#0038;801F62EA#0039;801F62EC#000d;801F62EE#000e;801F62F0#000f;801F62F2#0010;801F62F4#00e0;801F62F6#00e1;801F62F8#00e2;801F62FA#00e3;801F62FC#00e4;801F62FE#00e5;801F6300#0240;801F6302#0241;801F6304#0242;801F6306#0243;801F6308#0244;801F630A#0245;801F630C#0003;801F630E#0006;801F6310#0007;801F6312#000a;801F6314#003d;801F6316#00ea;801F6318#00f6;801F631A#014b;801F631C#014f;801F631E#023b;801F6320#0248;801F6322#0261;801F6324#0263;801F6326#0264;801F6328#002f;801F632A#0030;801F632C#0135;801F632E#0136;801F6330#0138;801F6332#013b;801F6334#01f9;801F6336#0120;801F6338#0134;801F633a#0172;801F633C#0173;801F633E#003e;801F6340#0262;801f6342#01fb;801f676a#6363;801f676c#6363;801f676e#6363;801f6770#6363;801f6772#6363;801f6774#6363;801f6776#6363;801f6778#6363;801f677a#6363;801f677c#6363;801f677e#6363;801f6780#6363;801f6782#6363;801f6784#6363;801f6786#6363;801f6788#6363;801f678a#6363;801f678c#6363;801f678e#6363;801f6790#6363;801f6792#6363;801f6794#6363;801f6796#6363;801f6798#6363;801f679a#6363;801f679c#6363;801f679e#6363;801f67a0#6363;801f67a2#6363;801f67a4#6363;801f67a6#6363;801f67a8#6363;801f67aa#6363;801f67ac#6363;801f67ae#6363;801f67b0#6363;801f67b2#6363;801f67b4#6363;801f67b6#6363;801f67b8#6363"
+
+cheat18_desc = "フレイ,ブラムス仲間になる"
+cheat18_handler = "0"
+cheat18_code = "301E0061#0001;301E1595#0001"
+
+cheat19_desc = "DEBUG模式(用法看描述)DISC1"
+cheat19_handler = "0"
+cheat19_code = "D003F5BE#2402,8003F5BC#0000;D003F5C6#2402,8003F5C4#0001"
+
+cheat20_desc = "DEBUG模式(用法看描述)DISC2"
+cheat20_handler = "0"
+cheat20_code = "D003F5BE#2402,8003F5BC#0000;D003F5C6#2402,8003F5C4#0002"
+
+cheat21_desc = "SKILL点数"
+cheat21_handler = "0"
+cheat21_code = "D005C244#1023；8005C244#03E7；D005C246#0051；8005C246#2002"
+
+cheat22_desc = "无限MP"
+cheat22_handler = "0"
+cheat22_code = "801F5F80#C9FF；801F5F82#3B9A"
+
+cheat23_desc = "使用回復道具不減"
+cheat23_handler = "0"
+cheat23_code = "D004582A#A069；8004582A#2400"
+
+cheat24_desc = "評價值最大"
+cheat24_handler = "0"
+cheat24_code = "301F6264#0064"
+
+cheat25_desc = "隨時記錄"
+cheat25_handler = "0"
+cheat25_code = "301F6274#0011"
+
+cheat26_desc = "经验の宝珠"
+cheat26_handler = "0"
+cheat26_code = "801E5BF8#967F;801E5BFA#0098"
+
+cheat27_desc = "一开始全部SKILL成长可能"
+cheat27_handler = "0"
+cheat27_code = "901E62C4#FFFFFF00；801E62C8#00FF"
+
+cheat28_desc = "跳跃力加强"
+cheat28_handler = "0"
+cheat28_code = "D002FFD6#2462；8002FFD4#0000"
+
+cheat29_desc = "全道具"
+cheat29_handler = "0"
+cheat29_code = "B0FF0002#00000001,301F62A2#0000;B0FF0001#00000000,301F676A#0063"
+
+cheat30_desc = "战斗中武器不损坏"
+cheat30_handler = "0"
+cheat30_code = "D005AF94#002B,8005AF96#1000"
+
+cheat31_desc = "一発で決め技ゲージMAX"
+cheat31_handler = "0"
+cheat31_code = "D003DC64#1021,8003DC64#0064;D003DC66#0045,8003DC66#2002"
+
+cheat32_desc = "ターン終了時にCT0"
+cheat32_handler = "0"
+cheat32_code = "D0066B32#A4A2,80066B32#A4A0"
+
+cheat33_desc = "遊戲時間停止"
+cheat33_handler = "0"
+cheat33_code = "D0035122#2442,80035122#2400"
+
+cheat34_desc = "物品エリクサー"
+cheat34_handler = "0"
+cheat34_code = "801F62A2#0001;3001f676a#000a"
+
+cheat35_desc = "物品バニッシュ"
+cheat35_handler = "0"
+cheat35_code = "801F62A2#0002;3001f676a#000a"
+
+cheat36_desc = "物品ユニオン.プラム"
+cheat36_handler = "0"
+cheat36_code = "801F62A2#0003;3001f676a#000a"
+
+cheat37_desc = "物品プライム.エリクサー"
+cheat37_handler = "0"
+cheat37_code = "801F62A2#0004;3001f676a#000a"
+
+cheat38_desc = "物品プライム.バニッシュ"
+cheat38_handler = "0"
+cheat38_code = "801F62A2#0005;3001f676a#000a"
+
+cheat39_desc = "物品ノーブル.エリクサー"
+cheat39_handler = "0"
+cheat39_code = "801F62A2#0006;3001f676a#000a"
+
+cheat40_desc = "物品ノーブル.バニッシュ"
+cheat40_handler = "0"
+cheat40_code = "801F62A2#0007;3001f676a#000a"
+
+cheat41_desc = "物品スペクタクルズ"
+cheat41_handler = "0"
+cheat41_code = "801F62A2#0008;3001f676a#000a"
+
+cheat42_desc = "物品配列変換の宝珠"
+cheat42_handler = "0"
+cheat42_code = "801F62A2#0009;3001f676a#000a"
+
+cheat43_desc = "物品上級配列変換の宝珠"
+cheat43_handler = "0"
+cheat43_code = "801F62A2#000A;3001f676a#000a"
+
+cheat44_desc = "物品マイト.ポーション"
+cheat44_handler = "0"
+cheat44_code = "801F62A2#0012;3001f676a#000a"
+
+cheat45_desc = "物品リキュール.ポーション"
+cheat45_handler = "0"
+cheat45_code = "801F62A2#0013;3001f676a#000a"
+
+cheat46_desc = "物品セキュア.ポーション"
+cheat46_handler = "0"
+cheat46_code = "801F62A2#0014;3001f676a#000a"
+
+cheat47_desc = "物品ルシッド.ポーション"
+cheat47_handler = "0"
+cheat47_code = "801F62A2#0015;3001f676a#000a"
+
+cheat48_desc = "物品チャージ.ブレイク"
+cheat48_handler = "0"
+cheat48_code = "801F62A2#001F;3001f676a#000a"
+
+cheat49_desc = "物品コンボ.ポーション"
+cheat49_handler = "0"
+cheat49_code = "801F62A2#0020;3001f676a#000a"
+
+cheat50_desc = "物品エンジェル.キュリオ"
+cheat50_handler = "0"
+cheat50_code = "801F62A2#0021;3001f676a#000a"
+
+cheat51_desc = "物品プロテクト.チャーム"
+cheat51_handler = "0"
+cheat51_code = "801F62A2#0022;3001f676a#000a"
+
+cheat52_desc = "物品マジック.チャーム"
+cheat52_handler = "0"
+cheat52_code = "801F62A2#0023;3001f676a#000a"
+
+cheat53_desc = "物品レジスト.チャーム"
+cheat53_handler = "0"
+cheat53_code = "801F62A2#0024;3001f676a#000a"
+
+cheat54_desc = "物品スローイング.ダガー"
+cheat54_handler = "0"
+cheat54_code = "801F62A2#0028;3001f676a#000a"
+
+cheat55_desc = "物品シルバー.ダガー"
+cheat55_handler = "0"
+cheat55_code = "801F62A2#002A;3001f676a#000a"
+
+cheat56_desc = "物品クロス.ダガー"
+cheat56_handler = "0"
+cheat56_code = "801F62A2#002C;3001f676a#000a"
+
+cheat57_desc = "物品フェアリィ.ピアス"
+cheat57_handler = "0"
+cheat57_code = "801F62A2#002D;3001f676a#000a"
+
+cheat58_desc = "物品フェアリィ.リング"
+cheat58_handler = "0"
+cheat58_code = "801F62A2#002E;3001f676a#000a"
+
+cheat59_desc = "物品パワー.バングル"
+cheat59_handler = "0"
+cheat59_code = "801F62A2#002F;3001f676a#000a"
+
+cheat60_desc = "物品マジック.バングル"
+cheat60_handler = "0"
+cheat60_code = "801F62A2#0030;3001f676a#000a"
+
+cheat61_desc = "物品プロテクト.ジュエル"
+cheat61_handler = "0"
+cheat61_code = "801F62A2#0031;3001f676a#000a"
+
+cheat62_desc = "物品レジスト.ジュエル"
+cheat62_handler = "0"
+cheat62_code = "801F62A2#0032;3001f676a#000a"
+
+cheat63_desc = "物品コンボ.ジュエル"
+cheat63_handler = "0"
+cheat63_code = "801F62A2#0033;3001f676a#000a"
+
+cheat64_desc = "物品マテリアル.ピアス"
+cheat64_handler = "0"
+cheat64_code = "801F62A2#0034;3001f676a#000a"
+
+cheat65_desc = "物品マテリアル.ジェム"
+cheat65_handler = "0"
+cheat65_code = "801F62A2#0035;3001f676a#000a"
+
+cheat66_desc = "物品マジック.ミスト"
+cheat66_handler = "0"
+cheat66_code = "801F62A2#0036;3001f676a#000a"
+
+cheat67_desc = "物品ポイズン.チェック"
+cheat67_handler = "0"
+cheat67_code = "801F62A2#0037;3001f676a#000a"
+
+cheat68_desc = "物品パラライ.チェック"
+cheat68_handler = "0"
+cheat68_code = "801F62A2#0038;3001f676a#000a"
+
+cheat69_desc = "物品ストーン.チェック"
+cheat69_handler = "0"
+cheat69_code = "801F62A2#0039;3001f676a#000a"
+
+cheat70_desc = "物品フリーズ.チェック"
+cheat70_handler = "0"
+cheat70_code = "801F62A2#003A;3001f676a#000a"
+
+cheat71_desc = "物品カース.チェック"
+cheat71_handler = "0"
+cheat71_code = "801F62A2#003B;3001f676a#000a"
+
+cheat72_desc = "物品スタン.チェック"
+cheat72_handler = "0"
+cheat72_code = "801F62A2#003C;3001f676a#000a"
+
+cheat73_desc = "物品マイティ.チェック"
+cheat73_handler = "0"
+cheat73_code = "801F62A2#003D;3001f676a#000a"
+
+cheat74_desc = "物品セラフィ.シンボル"
+cheat74_handler = "0"
+cheat74_code = "801F62A2#003E;3001f676a#000a"
+
+cheat75_desc = "物品アントラー.ソード"
+cheat75_handler = "0"
+cheat75_code = "801F62A2#0049;3001f676a#000a"
+
+cheat76_desc = "物品ヴィーキング.ソード"
+cheat76_handler = "0"
+cheat76_code = "801F62A2#004A;3001f676a#000a"
+
+cheat77_desc = "物品ワルーン.ソード"
+cheat77_handler = "0"
+cheat77_code = "801F62A2#004B;3001f676a#000a"
+
+cheat78_desc = "物品クリシュマルド"
+cheat78_handler = "0"
+cheat78_code = "801F62A2#004C;3001f676a#000a"
+
+cheat79_desc = "物品シンクレアー.サーベル"
+cheat79_handler = "0"
+cheat79_code = "801F62A2#004D;3001f676a#000a"
+
+cheat80_desc = "物品パラッシュ"
+cheat80_handler = "0"
+cheat80_code = "801F62A2#004E;3001f676a#000a"
+
+cheat81_desc = "物品レイテル.パラッシュ"
+cheat81_handler = "0"
+cheat81_code = "801F62A2#004F;3001f676a#000a"
+
+cheat82_desc = "物品シュヴァイツァー.ソード"
+cheat82_handler = "0"
+cheat82_code = "801F62A2#0050;3001f676a#000a"
+
+cheat83_desc = "物品倭刀"
+cheat83_handler = "0"
+cheat83_code = "801F62A2#0051;3001f676a#000a"
+
+cheat84_desc = "物品太刀"
+cheat84_handler = "0"
+cheat84_code = "801F62A2#0052;3001f676a#000a"
+
+cheat85_desc = "物品七支刀"
+cheat85_handler = "0"
+cheat85_code = "801F62A2#0053;3001f676a#000a"
+
+cheat86_desc = "物品野太刀"
+cheat86_handler = "0"
+cheat86_code = "801F62A2#0054;3001f676a#000a"
+
+cheat87_desc = "物品肢閃刀"
+cheat87_handler = "0"
+cheat87_code = "801F62A2#0055;3001f676a#000a"
+
+cheat88_desc = "物品金剛刀"
+cheat88_handler = "0"
+cheat88_code = "801F62A2#0056;3001f676a#000a"
+
+cheat89_desc = "物品正宗"
+cheat89_handler = "0"
+cheat89_code = "801F62A2#0057;3001f676a#000a"
+
+cheat90_desc = "物品村正"
+cheat90_handler = "0"
+cheat90_code = "801F62A2#0058;3001f676a#000a"
+
+cheat91_desc = "物品トゥハンデッド.ソード"
+cheat91_handler = "0"
+cheat91_code = "801F62A2#0059;3001f676a#000a"
+
+cheat92_desc = "物品ハック.ブレード"
+cheat92_handler = "0"
+cheat92_code = "801F62A2#005A;3001f676a#000a"
+
+cheat93_desc = "物品ツヴァイハンダー"
+cheat93_handler = "0"
+cheat93_code = "801F62A2#005B;3001f676a#000a"
+
+cheat94_desc = "物品ストライキング.ソード"
+cheat94_handler = "0"
+cheat94_code = "801F62A2#005C;3001f676a#000a"
+
+cheat95_desc = "物品クレイモアー"
+cheat95_handler = "0"
+cheat95_code = "801F62A2#005D;3001f676a#000a"
+
+cheat96_desc = "物品フランヴェルジュ"
+cheat96_handler = "0"
+cheat96_code = "801F62A2#005E;3001f676a#000a"
+
+cheat97_desc = "物品ブランディッシュ.ソード"
+cheat97_handler = "0"
+cheat97_code = "801F62A2#005F;3001f676a#000a"
+
+cheat98_desc = "物品ブルーティッシュ.エッジ"
+cheat98_handler = "0"
+cheat98_code = "801F62A2#0060;3001f676a#000a"
+
+cheat99_desc = "物品アウル.パイク"
+cheat99_handler = "0"
+cheat99_code = "801F62A2#0061;3001f676a#000a"
+
+cheat100_desc = "物品ウィングド.スピア"
+cheat100_handler = "0"
+cheat100_code = "801F62A2#0062;3001f676a#000a"
+
+cheat101_desc = "物品ボーディング.パイク"
+cheat101_handler = "0"
+cheat101_code = "801F62A2#0063;3001f676a#000a"
+
+cheat102_desc = "物品コルセスカ"
+cheat102_handler = "0"
+cheat102_code = "801F62A2#0064;3001f676a#000a"
+
+cheat103_desc = "物品ハルヴァード"
+cheat103_handler = "0"
+cheat103_code = "801F62A2#0065;3001f676a#000a"
+
+cheat104_desc = "物品ポール.アクス"
+cheat104_handler = "0"
+cheat104_code = "801F62A2#0066;3001f676a#000a"
+
+cheat105_desc = "物品アルシェピース"
+cheat105_handler = "0"
+cheat105_code = "801F62A2#0067;3001f676a#000a"
+
+cheat106_desc = "物品サーベル.ハルヴァード"
+cheat106_handler = "0"
+cheat106_code = "801F62A2#0068;3001f676a#000a"
+
+cheat107_desc = "物品クロス.ボウ"
+cheat107_handler = "0"
+cheat107_code = "801F62A2#0071;3001f676a#000a"
+
+cheat108_desc = "物品ボルト.クロスボウ"
+cheat108_handler = "0"
+cheat108_code = "801F62A2#0072;3001f676a#000a"
+
+cheat109_desc = "物品ラピッド.クロスボウ"
+cheat109_handler = "0"
+cheat109_code = "801F62A2#0073;3001f676a#000a"
+
+cheat110_desc = "物品ウィンドラス.クロスボウ"
+cheat110_handler = "0"
+cheat110_code = "801F62A2#0074;3001f676a#000a"
+
+cheat111_desc = "物品ファイア.クロスボウ"
+cheat111_handler = "0"
+cheat111_code = "801F62A2#0075;3001f676a#000a"
+
+cheat112_desc = "物品アルヴァレスタ"
+cheat112_handler = "0"
+cheat112_code = "801F62A2#0076;3001f676a#000a"
+
+cheat113_desc = "物品セルスタイン.ロックガン"
+cheat113_handler = "0"
+cheat113_code = "801F62A2#0077;3001f676a#000a"
+
+cheat114_desc = "物品ボルト.アクーアル"
+cheat114_handler = "0"
+cheat114_code = "801F62A2#0078;3001f676a#000a"
+
+cheat115_desc = "物品ルビー.メイス"
+cheat115_handler = "0"
+cheat115_code = "801F62A2#0081;3001f676a#000a"
+
+cheat116_desc = "物品フォーミュラ.ワンド"
+cheat116_handler = "0"
+cheat116_code = "801F62A2#0082;3001f676a#000a"
+
+cheat117_desc = "物品クリスタル.ワンド"
+cheat117_handler = "0"
+cheat117_code = "801F62A2#0083;3001f676a#000a"
+
+cheat118_desc = "物品シルバー.メイス"
+cheat118_handler = "0"
+cheat118_code = "801F62A2#0084;3001f676a#000a"
+
+cheat119_desc = "物品アルケミー.ワンド"
+cheat119_handler = "0"
+cheat119_code = "801F62A2#0085;3001f676a#000a"
+
+cheat120_desc = "物品ウォーシップ.メイス"
+cheat120_handler = "0"
+cheat120_code = "801F62A2#0086;3001f676a#000a"
+
+cheat121_desc = "物品デルージュ.セプター"
+cheat121_handler = "0"
+cheat121_code = "801F62A2#0087;3001f676a#000a"
+
+cheat122_desc = "物品シャイニング.セプター"
+cheat122_handler = "0"
+cheat122_code = "801F62A2#0088;3001f676a#000a"
+
+cheat123_desc = "物品ライトニング.エッジ"
+cheat123_handler = "0"
+cheat123_code = "801F62A2#0089;3001f676a#000a"
+
+cheat124_desc = "物品レディアンス.ソード"
+cheat124_handler = "0"
+cheat124_code = "801F62A2#008A;3001f676a#000a"
+
+cheat125_desc = "物品アイス.コフィン"
+cheat125_handler = "0"
+cheat125_code = "801F62A2#008B;3001f676a#000a"
+
+cheat126_desc = "物品スカーレット.フォージ"
+cheat126_handler = "0"
+cheat126_code = "801F62A2#008C;3001f676a#000a"
+
+cheat127_desc = "物品轟招来の剣"
+cheat127_handler = "0"
+cheat127_code = "801F62A2#008D;3001f676a#000a"
+
+cheat128_desc = "物品天駆鳳の剣"
+cheat128_handler = "0"
+cheat128_code = "801F62A2#008E;3001f676a#000a"
+
+cheat129_desc = "物品天叢雲の剣"
+cheat129_handler = "0"
+cheat129_code = "801F62A2#008F;3001f676a#000a"
+
+cheat130_desc = "物品夜叉鬼の剣"
+cheat130_handler = "0"
+cheat130_code = "801F62A2#0090;3001f676a#000a"
+
+cheat131_desc = "物品エレメンタル.エッジ"
+cheat131_handler = "0"
+cheat131_code = "801F62A2#0091;3001f676a#000a"
+
+cheat132_desc = "物品イグニート.ソード"
+cheat132_handler = "0"
+cheat132_code = "801F62A2#0092;3001f676a#000a"
+
+cheat133_desc = "物品バハムート.ティア"
+cheat133_handler = "0"
+cheat133_code = "801F62A2#0093;3001f676a#000a"
+
+cheat134_desc = "物品ヴァイオレット.フォージ"
+cheat134_handler = "0"
+cheat134_code = "801F62A2#0094;3001f676a#000a"
+
+cheat135_desc = "物品スピニング.スピア"
+cheat135_handler = "0"
+cheat135_code = "801F62A2#0095;3001f676a#000a"
+
+cheat136_desc = "物品ハート.ピアース"
+cheat136_handler = "0"
+cheat136_code = "801F62A2#0096;3001f676a#000a"
+
+cheat137_desc = "物品アーク.ウィンド"
+cheat137_handler = "0"
+cheat137_code = "801F62A2#0097;3001f676a#000a"
+
+cheat138_desc = "物品セント.ハルバード"
+cheat138_handler = "0"
+cheat138_code = "801F62A2#0098;3001f676a#000a"
+
+cheat139_desc = "物品スプリーム.クロスボウ"
+cheat139_handler = "0"
+cheat139_code = "801F62A2#009D;3001f676a#000a"
+
+cheat140_desc = "物品クレセント.アロー"
+cheat140_handler = "0"
+cheat140_code = "801F62A2#009E;3001f676a#000a"
+
+cheat141_desc = "物品ラスト.アヴェンジャー"
+cheat141_handler = "0"
+cheat141_code = "801F62A2#009F;3001f676a#000a"
+
+cheat142_desc = "物品シャイニィ.ラプチャー"
+cheat142_handler = "0"
+cheat142_code = "801F62A2#00A0;3001f676a#000a"
+
+cheat143_desc = "物品ホーリィ.プレアー"
+cheat143_handler = "0"
+cheat143_code = "801F62A2#00A5;3001f676a#000a"
+
+cheat144_desc = "物品アクセプター.ロッド"
+cheat144_handler = "0"
+cheat144_code = "801F62A2#00A6;3001f676a#000a"
+
+cheat145_desc = "物品ノーブル.ディザイア"
+cheat145_handler = "0"
+cheat145_code = "801F62A2#00A7;3001f676a#000a"
+
+cheat146_desc = "物品アプソリュート.フォース"
+cheat146_handler = "0"
+cheat146_code = "801F62A2#00A8;3001f676a#000a"
+
+cheat147_desc = "物品サレット"
+cheat147_handler = "0"
+cheat147_code = "801F62A2#00AA;3001f676a#000a"
+
+cheat148_desc = "物品シルバー.サレット"
+cheat148_handler = "0"
+cheat148_code = "801F62A2#00AB;3001f676a#000a"
+
+cheat149_desc = "物品デュエル.ヘルム"
+cheat149_handler = "0"
+cheat149_code = "801F62A2#00AC;3001f676a#000a"
+
+cheat150_desc = "物品ヴァロー.ヘルム"
+cheat150_handler = "0"
+cheat150_code = "801F62A2#00AD;3001f676a#000a"
+
+cheat151_desc = "物品ヴァリアント.ヘルム"
+cheat151_handler = "0"
+cheat151_code = "801F62A2#00AE;3001f676a#000a"
+
+cheat152_desc = "物品ティアラ"
+cheat152_handler = "0"
+cheat152_code = "801F62A2#00AF;3001f676a#000a"
+
+cheat153_desc = "物品シルバー.ティアラ"
+cheat153_handler = "0"
+cheat153_code = "801F62A2#00B0;3001f676a#000a"
+
+cheat154_desc = "物品アノイント.ティアラ"
+cheat154_handler = "0"
+cheat154_code = "801F62A2#00B1;3001f676a#000a"
+
+cheat155_desc = "物品アノイント.ガーランド"
+cheat155_handler = "0"
+cheat155_code = "801F62A2#00B2;3001f676a#000a"
+
+cheat156_desc = "物品スプリーム.ガーランド"
+cheat156_handler = "0"
+cheat156_code = "801F62A2#00B3;3001f676a#000a"
+
+cheat157_desc = "物品キュイラス"
+cheat157_handler = "0"
+cheat157_code = "801F62A2#00B4;3001f676a#000a"
+
+cheat158_desc = "物品シルバー.キュイラス"
+cheat158_handler = "0"
+cheat158_code = "801F62A2#00B5;3001f676a#000a"
+
+cheat159_desc = "物品デュエル.アーマー"
+cheat159_handler = "0"
+cheat159_code = "801F62A2#00B6;3001f676a#000a"
+
+cheat160_desc = "物品ヴァロー.アーマー"
+cheat160_handler = "0"
+cheat160_code = "801F62A2#00B7;3001f676a#000a"
+
+cheat161_desc = "物品ヴァリアント.アーマー"
+cheat161_handler = "0"
+cheat161_code = "801F62A2#00B8;3001f676a#000a"
+
+cheat162_desc = "物品クローク"
+cheat162_handler = "0"
+cheat162_code = "801F62A2#00B9;3001f676a#000a"
+
+cheat163_desc = "物品シルバー.クローク"
+cheat163_handler = "0"
+cheat163_code = "801F62A2#00BA;3001f676a#000a"
+
+cheat164_desc = "物品アノイント.クローク"
+cheat164_handler = "0"
+cheat164_code = "801F62A2#00BB;3001f676a#000a"
+
+cheat165_desc = "物品アノイント.ガーブ"
+cheat165_handler = "0"
+cheat165_code = "801F62A2#00BC;3001f676a#000a"
+
+cheat166_desc = "物品スプリーム.ガーブ"
+cheat166_handler = "0"
+cheat166_code = "801F62A2#00BD;3001f676a#000a"
+
+cheat167_desc = "物品ガントレット"
+cheat167_handler = "0"
+cheat167_code = "801F62A2#00BE;3001f676a#000a"
+
+cheat168_desc = "物品シルバー.ガントレット"
+cheat168_handler = "0"
+cheat168_code = "801F62A2#00BF;3001f676a#000a"
+
+cheat169_desc = "物品デュエル.ガーダー"
+cheat169_handler = "0"
+cheat169_code = "801F62A2#00C0;3001f676a#000a"
+
+cheat170_desc = "物品ヴァロー.ガントレット"
+cheat170_handler = "0"
+cheat170_code = "801F62A2#00C1;3001f676a#000a"
+
+cheat171_desc = "物品ヴァリアント.ガーダー"
+cheat171_handler = "0"
+cheat171_code = "801F62A2#00C2;3001f676a#000a"
+
+cheat172_desc = "物品グリーブ"
+cheat172_handler = "0"
+cheat172_code = "801F62A2#00C3;3001f676a#000a"
+
+cheat173_desc = "物品シルバー.グリーブ"
+cheat173_handler = "0"
+cheat173_code = "801F62A2#00C4;3001f676a#000a"
+
+cheat174_desc = "物品デュエル.グリーブ"
+cheat174_handler = "0"
+cheat174_code = "801F62A2#00C5;3001f676a#000a"
+
+cheat175_desc = "物品ヴァロー.グリーブ"
+cheat175_handler = "0"
+cheat175_code = "801F62A2#00C6;3001f676a#000a"
+
+cheat176_desc = "物品ヴァリアント.グリーブ"
+cheat176_handler = "0"
+cheat176_code = "801F62A2#00C7;3001f676a#000a"
+
+cheat177_desc = "物品レザー.ブーツ"
+cheat177_handler = "0"
+cheat177_code = "801F62A2#00CB;3001f676a#000a"
+
+cheat178_desc = "物品スエード.ブーツ"
+cheat178_handler = "0"
+cheat178_code = "801F62A2#00CC;3001f676a#000a"
+
+cheat179_desc = "物品エルヴン.ブーツ"
+cheat179_handler = "0"
+cheat179_code = "801F62A2#00CD;3001f676a#000a"
+
+cheat180_desc = "物品カルラの真珠"
+cheat180_handler = "0"
+cheat180_code = "801F62A2#00D4;3001f676a#000a"
+
+cheat181_desc = "物品ベトネス教本"
+cheat181_handler = "0"
+cheat181_code = "801F62A2#00D5;3001f676a#000a"
+
+cheat182_desc = "物品极上叶卷"
+cheat182_handler = "0"
+cheat182_code = "801F62A2#00D6;3001f676a#000a"
+
+cheat183_desc = "物品七色の飴玉"
+cheat183_handler = "0"
+cheat183_code = "801F62A2#00D7;3001f676a#000a"
+
+cheat184_desc = "物品ウサギの足"
+cheat184_handler = "0"
+cheat184_code = "801F62A2#00D8;3001f676a#000a"
+
+cheat185_desc = "物品天使の唇"
+cheat185_handler = "0"
+cheat185_code = "801F62A2#00D9;3001f676a#000a"
+
+cheat186_desc = "物品魔物図鑑"
+cheat186_handler = "0"
+cheat186_code = "801F62A2#00DA;3001f676a#000a"
+
+cheat187_desc = "物品悪魔絵書"
+cheat187_handler = "0"
+cheat187_code = "801F62A2#00DB;3001f676a#000a"
+
+cheat188_desc = "物品デボーネの頭蓋"
+cheat188_handler = "0"
+cheat188_code = "801F62A2#00DC;3001f676a#000a"
+
+cheat189_desc = "物品ラリウの貝殻"
+cheat189_handler = "0"
+cheat189_code = "801F62A2#00DD;3001f676a#000a"
+
+cheat190_desc = "物品駿馬のたてがみ"
+cheat190_handler = "0"
+cheat190_code = "801F62A2#00DE;3001f676a#000a"
+
+cheat191_desc = "物品炎のバンダナ"
+cheat191_handler = "0"
+cheat191_code = "801F62A2#00DF;3001f676a#000a"
+
+cheat192_desc = "物品青灰色の首飾り"
+cheat192_handler = "0"
+cheat192_code = "801F62A2#00E7;3001f676a#000a"
+
+cheat193_desc = "物品賢者ソロンの秘文書"
+cheat193_handler = "0"
+cheat193_code = "801F62A2#00E8;3001f676a#000a"
+
+cheat194_desc = "物品天空の瞳"
+cheat194_handler = "0"
+cheat194_code = "801F62A2#00E9;3001f676a#000a"
+
+cheat195_desc = "物品不死鳥の羽"
+cheat195_handler = "0"
+cheat195_code = "801F62A2#00EA;3001f676a#000a"
+
+cheat196_desc = "物品ミトラの聖水"
+cheat196_handler = "0"
+cheat196_code = "801F62A2#00EB;3001f676a#000a"
+
+cheat197_desc = "物品操呪兵設計図面"
+cheat197_handler = "0"
+cheat197_code = "801F62A2#00F0;3001f676a#000a"
+
+cheat198_desc = "物品アレクタリスの守り"
+cheat198_handler = "0"
+cheat198_code = "801F62A2#00F1;3001f676a#000a"
+
+cheat199_desc = "物品アトレイシアの竪琴"
+cheat199_handler = "0"
+cheat199_code = "801F62A2#00F2;3001f676a#000a"
+
+cheat200_desc = "物品封印の小箱"
+cheat200_handler = "0"
+cheat200_code = "801F62A2#00F3;3001f676a#000a"
+
+cheat201_desc = "物品亡王の仮面"
+cheat201_handler = "0"
+cheat201_code = "801F62A2#00F4;3001f676a#000a"
+
+cheat202_desc = "物品亡妃の棺"
+cheat202_handler = "0"
+cheat202_code = "801F62A2#00F5;3001f676a#000a"
+
+cheat203_desc = "物品アンブロシア"
+cheat203_handler = "0"
+cheat203_code = "801F62A2#00F6;3001f676a#000a"
+
+cheat204_desc = "物品妖刀“村雨”"
+cheat204_handler = "0"
+cheat204_code = "801F62A2#00F7;3001f676a#000a"
+
+cheat205_desc = "物品名刀“緋蓮”"
+cheat205_handler = "0"
+cheat205_code = "801F62A2#00F8;3001f676a#000a"
+
+cheat206_desc = "物品霊剣“草薙”"
+cheat206_handler = "0"
+cheat206_code = "801F62A2#00F9;3001f676a#000a"
+
+cheat207_desc = "物品閃刀シルヴァンス"
+cheat207_handler = "0"
+cheat207_code = "801F62A2#00FA;3001f676a#000a"
+
+cheat208_desc = "物品妖剣クロムレア"
+cheat208_handler = "0"
+cheat208_code = "801F62A2#00FB;3001f676a#000a"
+
+cheat209_desc = "物品裂刀ファーウェル"
+cheat209_handler = "0"
+cheat209_code = "801F62A2#00FC;3001f676a#000a"
+
+cheat210_desc = "物品蒼剣グラン.スティング"
+cheat210_handler = "0"
+cheat210_code = "801F62A2#00FD;3001f676a#000a"
+
+cheat211_desc = "物品聖剣ロスト.セラフィ"
+cheat211_handler = "0"
+cheat211_code = "801F62A2#00FE;3001f676a#000a"
+
+cheat212_desc = "物品名剣フェイム.フェイン"
+cheat212_handler = "0"
+cheat212_code = "801F62A2#00FF;3001f676a#000a"
+
+cheat213_desc = "物品魔剣レヴァンテイン"
+cheat213_handler = "0"
+cheat213_code = "801F62A2#0100;3001f676a#000a"
+
+cheat214_desc = "物品蛇矛バシリスク"
+cheat214_handler = "0"
+cheat214_code = "801F62A2#0101;3001f676a#000a"
+
+cheat215_desc = "物品神槍グングニル"
+cheat215_handler = "0"
+cheat215_code = "801F62A2#0102;3001f676a#000a"
+
+cheat216_desc = "物品黒槍“鬼哭天使”"
+cheat216_handler = "0"
+cheat216_code = "801F62A2#0103;3001f676a#000a"
+
+cheat217_desc = "物品吼槍ドラグーン.タイラント"
+cheat217_handler = "0"
+cheat217_code = "801F62A2#0104;3001f676a#000a"
+
+cheat218_desc = "物品光弓シルヴァン.ボウ"
+cheat218_handler = "0"
+cheat218_code = "801F62A2#0105;3001f676a#000a"
+
+cheat219_desc = "物品神弓エルヴン.ボウ"
+cheat219_handler = "0"
+cheat219_code = "801F62A2#0106;3001f676a#000a"
+
+cheat220_desc = "物品閃弓フォール.スレイヤー"
+cheat220_handler = "0"
+cheat220_code = "801F62A2#0107;3001f676a#000a"
+
+cheat221_desc = "物品剛弓ベルセルク.アロー"
+cheat221_handler = "0"
+cheat221_code = "801F62A2#0108;3001f676a#000a"
+
+cheat222_desc = "物品紅蓮剣インフェルナス"
+cheat222_handler = "0"
+cheat222_code = "801F62A2#0109;3001f676a#000a"
+
+cheat223_desc = "物品精王剣アレクタリス"
+cheat223_handler = "0"
+cheat223_code = "801F62A2#010A;3001f676a#000a"
+
+cheat224_desc = "物品雷光剣シェドザード"
+cheat224_handler = "0"
+cheat224_code = "801F62A2#010B;3001f676a#000a"
+
+cheat225_desc = "物品肢閃刀“龙崩牙”"
+cheat225_handler = "0"
+cheat225_code = "801F62A2#010C;3001f676a#000a"
+
+cheat226_desc = "物品裂閃刀“鳳坠閃”"
+cheat226_handler = "0"
+cheat226_code = "801F62A2#010D;3001f676a#000a"
+
+cheat227_desc = "物品剛槍ダイナソア"
+cheat227_handler = "0"
+cheat227_code = "801F62A2#010E;3001f676a#000a"
+
+cheat228_desc = "物品閃槍クリムゾン.エッジ"
+cheat228_handler = "0"
+cheat228_code = "801F62A2#010F;3001f676a#000a"
+
+cheat229_desc = "物品聖杖アドヴェンティア"
+cheat229_handler = "0"
+cheat229_code = "801F62A2#0110;3001f676a#000a"
+
+cheat230_desc = "物品魔槍エターナル.フォルツ"
+cheat230_handler = "0"
+cheat230_code = "801F62A2#0111;3001f676a#000a"
+
+cheat231_desc = "物品聖杖ユニコーンズ.ホーン"
+cheat231_handler = "0"
+cheat231_code = "801F62A2#0119;3001f676a#000a"
+
+cheat232_desc = "物品魔杖アポカリプス"
+cheat232_handler = "0"
+cheat232_code = "801F62A2#011A;3001f676a#000a"
+
+cheat233_desc = "物品聖杖ミリオン.テラー"
+cheat233_handler = "0"
+cheat233_code = "801F62A2#011B;3001f676a#000a"
+
+cheat234_desc = "物品精杖ルミネフェレス"
+cheat234_handler = "0"
+cheat234_code = "801F62A2#011C;3001f676a#000a"
+
+cheat235_desc = "物品鏡鎧リフレックス"
+cheat235_handler = "0"
+cheat235_code = "801F62A2#011D;3001f676a#000a"
+
+cheat236_desc = "物品聖鎧アレフ.ストレイン"
+cheat236_handler = "0"
+cheat236_code = "801F62A2#011E;3001f676a#000a"
+
+cheat237_desc = "物品斗鎧“昂魔谭”"
+cheat237_handler = "0"
+cheat237_code = "801F62A2#011F;3001f676a#000a"
+
+cheat238_desc = "物品鬼鎧“昆沙门天”"
+cheat238_handler = "0"
+cheat238_code = "801F62A2#0120;3001f676a#000a"
+
+cheat239_desc = "物品聖衣ブリタニア.ガーブ"
+cheat239_handler = "0"
+cheat239_code = "801F62A2#0121;3001f676a#000a"
+
+cheat240_desc = "物品聖衣シルフ.レッド"
+cheat240_handler = "0"
+cheat240_code = "801F62A2#0122;3001f676a#000a"
+
+cheat241_desc = "物品蒼衣スターレッド.シャイ"
+cheat241_handler = "0"
+cheat241_code = "801F62A2#0123;3001f676a#000a"
+
+cheat242_desc = "物品幻衣ミラージュ.ローブ"
+cheat242_handler = "0"
+cheat242_code = "801F62A2#0124;3001f676a#000a"
+
+cheat243_desc = "物品ドラグーン.フェイス"
+cheat243_handler = "0"
+cheat243_code = "801F62A2#0125;3001f676a#000a"
+
+cheat244_desc = "物品宝冠フェルマー"
+cheat244_handler = "0"
+cheat244_code = "801F62A2#012A;3001f676a#000a"
+
+cheat245_desc = "物品聖皇后のティアラ"
+cheat245_handler = "0"
+cheat245_code = "801F62A2#012B;3001f676a#000a"
+
+cheat246_desc = "物品鈍色の冠"
+cheat246_handler = "0"
+cheat246_code = "801F62A2#012E;3001f676a#000a"
+
+cheat247_desc = "物品透器エーテル.フローズン"
+cheat247_handler = "0"
+cheat247_code = "801F62A2#012F;3001f676a#000a"
+
+cheat248_desc = "物品后冠エンプレス.ガーランド"
+cheat248_handler = "0"
+cheat248_code = "801F62A2#0130;3001f676a#000a"
+
+cheat249_desc = "物品后衣エターナル.シャイン"
+cheat249_handler = "0"
+cheat249_code = "801F62A2#0131;3001f676a#000a"
+
+cheat250_desc = "物品聖環ブリーシンガル"
+cheat250_handler = "0"
+cheat250_code = "801F62A2#0132;3001f676a#000a"
+
+cheat251_desc = "物品翔具オリハルコン.ブーツ"
+cheat251_handler = "0"
+cheat251_code = "801F62A2#0133;3001f676a#000a"
+
+cheat252_desc = "物品透鎧エーテル.チェイン"
+cheat252_handler = "0"
+cheat252_code = "801F62A2#0134;3001f676a#000a"
+
+cheat253_desc = "物品神さびた砂時計"
+cheat253_handler = "0"
+cheat253_code = "801F62A2#0135;3001f676a#000a"
+
+cheat254_desc = "物品錬金術の書"
+cheat254_handler = "0"
+cheat254_code = "801F62A2#0136;3001f676a#000a"
+
+cheat255_desc = "物品碑文の欠片"
+cheat255_handler = "0"
+cheat255_code = "801F62A2#0137;3001f676a#000a"
+
+cheat256_desc = "物品スター.ガード"
+cheat256_handler = "0"
+cheat256_code = "801F62A2#0138;3001f676a#000a"
+
+cheat257_desc = "物品ダマスクス製法書"
+cheat257_handler = "0"
+cheat257_code = "801F62A2#0139;3001f676a#000a"
+
+cheat258_desc = "物品ルーンメタル製法書"
+cheat258_handler = "0"
+cheat258_code = "801F62A2#013A;3001f676a#000a"
+
+cheat259_desc = "物品エクストリーム.ガード"
+cheat259_handler = "0"
+cheat259_code = "801F62A2#013B;3001f676a#000a"
+
+cheat260_desc = "物品生命の腕輪"
+cheat260_handler = "0"
+cheat260_code = "801F62A2#013C;3001f676a#000a"
+
+cheat261_desc = "物品ドライアドの樹皮"
+cheat261_handler = "0"
+cheat261_code = "801F62A2#013D;3001f676a#000a"
+
+cheat262_desc = "物品賢者の石"
+cheat262_handler = "0"
+cheat262_code = "801F62A2#013E;3001f676a#000a"
+
+cheat263_desc = "物品妖艶な彫像"
+cheat263_handler = "0"
+cheat263_code = "801F62A2#013F;3001f676a#000a"
+
+cheat264_desc = "物品耽美な彫像"
+cheat264_handler = "0"
+cheat264_code = "801F62A2#0140;3001f676a#000a"
+
+cheat265_desc = "物品妖精の瓶詰め"
+cheat265_handler = "0"
+cheat265_code = "801F62A2#0141;3001f676a#000a"
+
+cheat266_desc = "物品鬼手の瓶詰め"
+cheat266_handler = "0"
+cheat266_code = "801F62A2#0142;3001f676a#000a"
+
+cheat267_desc = "物品オリハルコン"
+cheat267_handler = "0"
+cheat267_code = "801F62A2#0143;3001f676a#000a"
+
+cheat268_desc = "物品黄金の鶏"
+cheat268_handler = "0"
+cheat268_code = "801F62A2#0144;3001f676a#000a"
+
+cheat269_desc = "物品ガーゴイルの像"
+cheat269_handler = "0"
+cheat269_code = "801F62A2#0145;3001f676a#000a"
+
+cheat270_desc = "物品幸せのコイン"
+cheat270_handler = "0"
+cheat270_code = "801F62A2#0146;3001f676a#000a"
+
+cheat271_desc = "物品紅水晶のオルゴール"
+cheat271_handler = "0"
+cheat271_code = "801F62A2#0147;3001f676a#000a"
+
+cheat272_desc = "物品ミスリル"
+cheat272_handler = "0"
+cheat272_code = "801F62A2#0148;3001f676a#000a"
+
+cheat273_desc = "物品夜叉鬼の皮"
+cheat273_handler = "0"
+cheat273_code = "801F62A2#0149;3001f676a#000a"
+
+cheat274_desc = "物品巫女神の守り"
+cheat274_handler = "0"
+cheat274_code = "801F62A2#014A;3001f676a#000a"
+
+cheat275_desc = "物品金の卵"
+cheat275_handler = "0"
+cheat275_code = "801F62A2#014B;3001f676a#000a"
+
+cheat276_desc = "物品浮妖球"
+cheat276_handler = "0"
+cheat276_code = "801F62A2#014C;3001f676a#000a"
+
+cheat277_desc = "物品八重洹纯米大吟酿生“无”"
+cheat277_handler = "0"
+cheat277_code = "801F62A2#014D;3001f676a#000a"
+
+cheat278_desc = "物品転換の杖"
+cheat278_handler = "0"
+cheat278_code = "801F62A2#014E;3001f676a#000a"
+
+cheat279_desc = "物品昂魔の鏡"
+cheat279_handler = "0"
+cheat279_code = "801F62A2#014f;3001f676a#000a"
+
+cheat280_desc = "物品聖酒リシュブール"
+cheat280_handler = "0"
+cheat280_code = "801F62A2#0150;3001f676a#000a"
+
+cheat281_desc = "物品バシリスクの腕輪"
+cheat281_handler = "0"
+cheat281_code = "801F62A2#0151;3001f676a#000a"
+
+cheat282_desc = "物品グリムステッキ"
+cheat282_handler = "0"
+cheat282_code = "801F62A2#0152;3001f676a#000a"
+
+cheat283_desc = "物品折れた剣"
+cheat283_handler = "0"
+cheat283_code = "801F62A2#0153;3001f676a#000a"
+
+cheat284_desc = "物品献上の書"
+cheat284_handler = "0"
+cheat284_code = "801F62A2#0154;3001f676a#000a"
+
+cheat285_desc = "物品魔女の聖柩"
+cheat285_handler = "0"
+cheat285_code = "801F62A2#0155;3001f676a#000a"
+
+cheat286_desc = "物品聖杯"
+cheat286_handler = "0"
+cheat286_code = "801F62A2#0156;3001f676a#000a"
+
+cheat287_desc = "物品久遠の灯火"
+cheat287_handler = "0"
+cheat287_code = "801F62A2#0157;3001f676a#000a"
+
+cheat288_desc = "物品オートドール"
+cheat288_handler = "0"
+cheat288_code = "801F62A2#015c;3001f676a#000a"
+
+cheat289_desc = "物品ダリスの香炉"
+cheat289_handler = "0"
+cheat289_code = "801F62A2#015d;3001f676a#000a"
+
+cheat290_desc = "物品蘇生秘法書"
+cheat290_handler = "0"
+cheat290_code = "801F62A2#015e;3001f676a#000a"
+
+cheat291_desc = "物品銀河の雫"
+cheat291_handler = "0"
+cheat291_code = "801F62A2#015f;3001f676a#000a"
+
+cheat292_desc = "物品フェザード.ティアラ"
+cheat292_handler = "0"
+cheat292_code = "801F62A2#0160;3001f676a#000a"
+
+cheat293_desc = "物品フェザード.ヘルム"
+cheat293_handler = "0"
+cheat293_code = "801F62A2#0161;3001f676a#000a"
+
+cheat294_desc = "物品ウィングド.ヘルム"
+cheat294_handler = "0"
+cheat294_code = "801F62A2#0162;3001f676a#000a"
+
+cheat295_desc = "物品エアリアル.ガーランド"
+cheat295_handler = "0"
+cheat295_code = "801F62A2#0163;3001f676a#000a"
+
+cheat296_desc = "物品セラフィック.ガーランド"
+cheat296_handler = "0"
+cheat296_code = "801F62A2#0164;3001f676a#000a"
+
+cheat297_desc = "物品エイジア.ガーブ"
+cheat297_handler = "0"
+cheat297_code = "801F62A2#0165;3001f676a#000a"
+
+cheat298_desc = "物品ヘラルディック.ガーブ"
+cheat298_handler = "0"
+cheat298_code = "801F62A2#0166;3001f676a#000a"
+
+cheat299_desc = "物品レディアンス.ガーブ"
+cheat299_handler = "0"
+cheat299_code = "801F62A2#0167;3001f676a#000a"
+
+cheat300_desc = "物品ディヴァイナリィ.ガーブ"
+cheat300_handler = "0"
+cheat300_code = "801F62A2#0168;3001f676a#000a"
+
+cheat301_desc = "物品セラフィック.ガーブ"
+cheat301_handler = "0"
+cheat301_code = "801F62A2#0169;3001f676a#000a"
+
+cheat302_desc = "物品神剣グランス.リヴァイバー"
+cheat302_handler = "0"
+cheat302_code = "801F62A2#016a;3001f676a#000a"
+
+cheat303_desc = "物品宝剣グリム.ガウディ"
+cheat303_handler = "0"
+cheat303_code = "801F62A2#016b;3001f676a#000a"
+
+cheat304_desc = "物品魔剣アクター.ネファリウス"
+cheat304_handler = "0"
+cheat304_code = "801F62A2#016c;3001f676a#000a"
+
+cheat305_desc = "物品神槍イセリアル.デヴァイド"
+cheat305_handler = "0"
+cheat305_code = "801F62A2#016e;3001f676a#000a"
+
+cheat306_desc = "物品魔弓レイザー.フォーテル"
+cheat306_handler = "0"
+cheat306_code = "801F62A2#016f;3001f676a#000a"
+
+cheat307_desc = "物品聖杖ミスティック.ワイザー"
+cheat307_handler = "0"
+cheat307_code = "801F62A2#0170;3001f676a#000a"
+
+cheat308_desc = "物品クロス.ボウ"
+cheat308_handler = "0"
+cheat308_code = "801F62A2#0171;3001f676a#000a"
+
+cheat309_desc = "物品首の無い人形"
+cheat309_handler = "0"
+cheat309_code = "801F62A2#0174;3001f676a#000a"
+
+cheat310_desc = "物品折れた剣"
+cheat310_handler = "0"
+cheat310_code = "801F62A2#0175;3001f676a#000a"
+
+cheat311_desc = "物品血の染みついたドレス"
+cheat311_handler = "0"
+cheat311_code = "801F62A2#0176;3001f676a#000a"
+
+cheat312_desc = "物品バシリスクのうろこ"
+cheat312_handler = "0"
+cheat312_code = "801F62A2#0177;3001f676a#000a"
+
+cheat313_desc = "物品植物の種子"
+cheat313_handler = "0"
+cheat313_code = "801F62A2#0178;3001f676a#000a"
+
+cheat314_desc = "物品ジギタリス"
+cheat314_handler = "0"
+cheat314_code = "801F62A2#0179;3001f676a#000a"
+
+cheat315_desc = "物品トリカブト"
+cheat315_handler = "0"
+cheat315_code = "801F62A2#017a;3001f676a#000a"
+
+cheat316_desc = "物品ベラドンナ"
+cheat316_handler = "0"
+cheat316_code = "801F62A2#017b;3001f676a#000a"
+
+cheat317_desc = "物品グールパウダー"
+cheat317_handler = "0"
+cheat317_code = "801F62A2#017c;3001f676a#000a"
+
+cheat318_desc = "物品セボリー"
+cheat318_handler = "0"
+cheat318_code = "801F62A2#017d;3001f676a#000a"
+
+cheat319_desc = "物品マンドレイク"
+cheat319_handler = "0"
+cheat319_code = "801F62A2#017e;3001f676a#000a"
+
+cheat320_desc = "物品不老不死の書"
+cheat320_handler = "0"
+cheat320_code = "801F62A2#017f;3001f676a#000a"
+
+cheat321_desc = "物品透化薬"
+cheat321_handler = "0"
+cheat321_code = "801F62A2#0180;3001f676a#000a"
+
+cheat322_desc = "物品聖水"
+cheat322_handler = "0"
+cheat322_code = "801F62A2#0181;3001f676a#000a"
+
+cheat323_desc = "物品生命の秘薬"
+cheat323_handler = "0"
+cheat323_code = "801F62A2#0182;3001f676a#000a"
+
+cheat324_desc = "物品聖遺物"
+cheat324_handler = "0"
+cheat324_code = "801F62A2#0183;3001f676a#000a"
+
+cheat325_desc = "物品アサ教典"
+cheat325_handler = "0"
+cheat325_code = "801F62A2#0184;3001f676a#000a"
+
+cheat326_desc = "物品ミスリル鉱石"
+cheat326_handler = "0"
+cheat326_code = "801F62A2#0185;3001f676a#000a"
+
+cheat327_desc = "物品鉄鉱石"
+cheat327_handler = "0"
+cheat327_code = "801F62A2#0186;3001f676a#000a"
+
+cheat328_desc = "物品羽毛"
+cheat328_handler = "0"
+cheat328_code = "801F62A2#0187;3001f676a#000a"
+
+cheat329_desc = "物品獣肉"
+cheat329_handler = "0"
+cheat329_code = "801F62A2#0188;3001f676a#000a"
+
+cheat330_desc = "物品黄水晶"
+cheat330_handler = "0"
+cheat330_code = "801F62A2#0189;3001f676a#000a"
+
+cheat331_desc = "物品ユニコーンの角"
+cheat331_handler = "0"
+cheat331_code = "801F62A2#018a;3001f676a#000a"
+
+cheat332_desc = "物品セージ"
+cheat332_handler = "0"
+cheat332_code = "801F62A2#018b;3001f676a#000a"
+
+cheat333_desc = "物品黒真珠の粉"
+cheat333_handler = "0"
+cheat333_code = "801F62A2#018c;3001f676a#000a"
+
+cheat334_desc = "物品猛禽の爪"
+cheat334_handler = "0"
+cheat334_code = "801F62A2#018d;3001f676a#000a"
+
+cheat335_desc = "物品獣の牙"
+cheat335_handler = "0"
+cheat335_code = "801F62A2#018e;3001f676a#000a"
+
+cheat336_desc = "物品ボルト酒"
+cheat336_handler = "0"
+cheat336_code = "801F62A2#018f;3001f676a#000a"
+
+cheat337_desc = "物品折れた槍"
+cheat337_handler = "0"
+cheat337_code = "801F62A2#0190;3001f676a#000a"
+
+cheat338_desc = "物品壊れた弓"
+cheat338_handler = "0"
+cheat338_code = "801F62A2#0191;3001f676a#000a"
+
+cheat339_desc = "物品海鮮肉"
+cheat339_handler = "0"
+cheat339_code = "801F62A2#0192;3001f676a#000a"
+
+cheat340_desc = "物品卑金属"
+cheat340_handler = "0"
+cheat340_code = "801F62A2#0193;3001f676a#000a"
+
+cheat341_desc = "物品壊れた鎧"
+cheat341_handler = "0"
+cheat341_code = "801F62A2#0194;3001f676a#000a"
+
+cheat342_desc = "物品フレア.ジェム"
+cheat342_handler = "0"
+cheat342_code = "801F62A2#0195;3001f676a#000a"
+
+cheat343_desc = "物品アイス.ジェム"
+cheat343_handler = "0"
+cheat343_code = "801F62A2#0196;3001f676a#000a"
+
+cheat344_desc = "物品サンダー.ジェム"
+cheat344_handler = "0"
+cheat344_code = "801F62A2#0197;3001f676a#000a"
+
+cheat345_desc = "物品ポイズン.ジェム"
+cheat345_handler = "0"
+cheat345_code = "801F62A2#0198;3001f676a#000a"
+
+cheat346_desc = "物品ホーリィ.ジェム"
+cheat346_handler = "0"
+cheat346_code = "801F62A2#0199;3001f676a#000a"
+
+cheat347_desc = "物品シャドゥ.ジェム"
+cheat347_handler = "0"
+cheat347_code = "801F62A2#019A;3001f676a#000a"
+
+cheat348_desc = "物品フレア.クリスタル"
+cheat348_handler = "0"
+cheat348_code = "801F62A2#019B;3001f676a#000a"
+
+cheat349_desc = "物品アイス.クリスタル"
+cheat349_handler = "0"
+cheat349_code = "801F62A2#019C;3001f676a#000a"
+
+cheat350_desc = "物品サンダー.クリスタル"
+cheat350_handler = "0"
+cheat350_code = "801F62A2#019D;3001f676a#000a"
+
+cheat351_desc = "物品ポイズン.クリスタル"
+cheat351_handler = "0"
+cheat351_code = "801F62A2#019E;3001f676a#000a"
+
+cheat352_desc = "物品ホーリィ.クリスタル"
+cheat352_handler = "0"
+cheat352_code = "801F62A2#019F;3001f676a#000a"
+
+cheat353_desc = "物品シャドゥ.クリスタル"
+cheat353_handler = "0"
+cheat353_code = "801F62A2#01A0;3001f676a#000a"
+
+cheat354_desc = "物品ロング.ソード"
+cheat354_handler = "0"
+cheat354_code = "801F62A2#01A6;3001f676a#000a"
+
+cheat355_desc = "物品ブロード.ソード"
+cheat355_handler = "0"
+cheat355_code = "801F62A2#01A7;3001f676a#000a"
+
+cheat356_desc = "物品バスタード.ソード"
+cheat356_handler = "0"
+cheat356_code = "801F62A2#01A8;3001f676a#000a"
+
+cheat357_desc = "物品ファルシオン"
+cheat357_handler = "0"
+cheat357_code = "801F62A2#01A9;3001f676a#000a"
+
+cheat358_desc = "物品エストック"
+cheat358_handler = "0"
+cheat358_code = "801F62A2#01AA;3001f676a#000a"
+
+cheat359_desc = "物品フラムベルク"
+cheat359_handler = "0"
+cheat359_code = "801F62A2#01AB;3001f676a#000a"
+
+cheat360_desc = "物品ワジール.レイピア"
+cheat360_handler = "0"
+cheat360_code = "801F62A2#01AC;3001f676a#000a"
+
+cheat361_desc = "物品ダマスクス.ソード"
+cheat361_handler = "0"
+cheat361_code = "801F62A2#01AD;3001f676a#000a"
+
+cheat362_desc = "物品ショート.スピア"
+cheat362_handler = "0"
+cheat362_code = "801F62A2#01AE;3001f676a#000a"
+
+cheat363_desc = "物品グレイヴ"
+cheat363_handler = "0"
+cheat363_code = "801F62A2#01AF;3001f676a#000a"
+
+cheat364_desc = "物品ウォー.ハンマー"
+cheat364_handler = "0"
+cheat364_code = "801F62A2#01B0;3001f676a#000a"
+
+cheat365_desc = "物品ロング.フレイル"
+cheat365_handler = "0"
+cheat365_code = "801F62A2#01B1;3001f676a#000a"
+
+cheat366_desc = "物品ランサー"
+cheat366_handler = "0"
+cheat366_code = "801F62A2#01B2;3001f676a#000a"
+
+cheat367_desc = "物品フットマンズ.アクス"
+cheat367_handler = "0"
+cheat367_code = "801F62A2#01B3;3001f676a#000a"
+
+cheat368_desc = "物品ルーシェン.ハンマー"
+cheat368_handler = "0"
+cheat368_code = "801F62A2#01B4;3001f676a#000a"
+
+cheat369_desc = "物品ファイン.ハルヴァード"
+cheat369_handler = "0"
+cheat369_code = "801F62A2#01B5;3001f676a#000a"
+
+cheat370_desc = "物品ショート.ボウ"
+cheat370_handler = "0"
+cheat370_code = "801F62A2#01B6;3001f676a#000a"
+
+cheat371_desc = "物品ロング.ボウ"
+cheat371_handler = "0"
+cheat371_code = "801F62A2#01B7;3001f676a#000a"
+
+cheat372_desc = "物品ラピッド.ボウ"
+cheat372_handler = "0"
+cheat372_code = "801F62A2#01B8;3001f676a#000a"
+
+cheat373_desc = "物品コンポジット.ボウ"
+cheat373_handler = "0"
+cheat373_code = "801F62A2#01B9;3001f676a#000a"
+
+cheat374_desc = "物品クレーンクイン.クロスボウ"
+cheat374_handler = "0"
+cheat374_code = "801F62A2#01BA;3001f676a#000a"
+
+cheat375_desc = "物品ドラゴン.スレイヤー"
+cheat375_handler = "0"
+cheat375_code = "801F62A2#01BE;3001f676a#000a"
+
+cheat376_desc = "物品デーモン.スレイヤー"
+cheat376_handler = "0"
+cheat376_code = "801F62A2#01BF;3001f676a#000a"
+
+cheat377_desc = "物品ビースト.スレイヤー"
+cheat377_handler = "0"
+cheat377_code = "801F62A2#01C0;3001f676a#000a"
+
+cheat378_desc = "物品メイジ.スレイヤー"
+cheat378_handler = "0"
+cheat378_code = "801F62A2#01C1;3001f676a#000a"
+
+cheat379_desc = "物品レイヴン.スレイヤー"
+cheat379_handler = "0"
+cheat379_code = "801F62A2#01C2;3001f676a#000a"
+
+cheat380_desc = "物品ソウル.スレイヤー"
+cheat380_handler = "0"
+cheat380_code = "801F62A2#01C3;3001f676a#000a"
+
+cheat381_desc = "物品名剣ヴェイン.スレイ"
+cheat381_handler = "0"
+cheat381_code = "801F62A2#01CE;3001f676a#000a"
+
+cheat382_desc = "物品名剣ムーン.ファルクス"
+cheat382_handler = "0"
+cheat382_code = "801F62A2#01CF;3001f676a#000a"
+
+cheat383_desc = "物品名剣ルインズ.フェイト"
+cheat383_handler = "0"
+cheat383_code = "801F62A2#01D0;3001f676a#000a"
+
+cheat384_desc = "物品名剣フレア.バゼラード"
+cheat384_handler = "0"
+cheat384_code = "801F62A2#01D1;3001f676a#000a"
+
+cheat385_desc = "物品護神刀“竜仙”"
+cheat385_handler = "0"
+cheat385_code = "801F62A2#01D2;3001f676a#000a"
+
+cheat386_desc = "物品レザー.アーマー"
+cheat386_handler = "0"
+cheat386_code = "801F62A2#01D3;3001f676a#000a"
+
+cheat387_desc = "物品チェイン.メイル"
+cheat387_handler = "0"
+cheat387_code = "801F62A2#01D4;3001f676a#000a"
+
+cheat388_desc = "物品ラメラー"
+cheat388_handler = "0"
+cheat388_code = "801F62A2#01D5;3001f676a#000a"
+
+cheat389_desc = "物品ブレスト.プレート"
+cheat389_handler = "0"
+cheat389_code = "801F62A2#01D6;3001f676a#000a"
+
+cheat390_desc = "物品シルバー.チェイン"
+cheat390_handler = "0"
+cheat390_code = "801F62A2#01D7;3001f676a#000a"
+
+cheat391_desc = "物品フル.プレート"
+cheat391_handler = "0"
+cheat391_code = "801F62A2#01D8;3001f676a#000a"
+
+cheat392_desc = "物品シルバー.プレート"
+cheat392_handler = "0"
+cheat392_code = "801F62A2#01D9;3001f676a#000a"
+
+cheat393_desc = "物品ミスリル.プレート"
+cheat393_handler = "0"
+cheat393_code = "801F62A2#01DA;3001f676a#000a"
+
+cheat394_desc = "物品マインド.ポーション"
+cheat394_handler = "0"
+cheat394_code = "801F62A2#01E5;3001f676a#000a"
+
+cheat395_desc = "物品スキル.ポーション"
+cheat395_handler = "0"
+cheat395_code = "801F62A2#01E6;3001f676a#000a"
+
+cheat396_desc = "物品マテリアル.ポーション"
+cheat396_handler = "0"
+cheat396_code = "801F62A2#01E7;3001f676a#000a"
+
+cheat397_desc = "物品ヘイスト.リング"
+cheat397_handler = "0"
+cheat397_code = "801F62A2#01E8;3001f676a#000a"
+
+cheat398_desc = "物品エナジー.リング"
+cheat398_handler = "0"
+cheat398_code = "801F62A2#01E9;3001f676a#000a"
+
+cheat399_desc = "物品クラック.リング"
+cheat399_handler = "0"
+cheat399_code = "801F62A2#01EA;3001f676a#000a"
+
+cheat400_desc = "物品ブレイズ.ガード "
+cheat400_handler = "0"
+cheat400_code = "801F62A2#01EC;3001f676a#000a"
+
+cheat401_desc = "物品アイシクル.ガード"
+cheat401_handler = "0"
+cheat401_code = "801F62A2#01ED;3001f676a#000a"
+
+cheat402_desc = "物品グレアー.ガード"
+cheat402_handler = "0"
+cheat402_code = "801F62A2#01EE;3001f676a#000a"
+
+cheat403_desc = "物品生成の珠"
+cheat403_handler = "0"
+cheat403_code = "801F62A2#01F0;3001f676a#000a"
+
+cheat404_desc = "物品活性の珠"
+cheat404_handler = "0"
+cheat404_code = "801F62A2#01F1;3001f676a#000a"
+
+cheat405_desc = "物品幻視の珠"
+cheat405_handler = "0"
+cheat405_code = "801F62A2#01F2;3001f676a#000a"
+
+cheat406_desc = "物品アイシクル.ソード"
+cheat406_handler = "0"
+cheat406_code = "801F62A2#01F4;3001f676a#000a"
+
+cheat407_desc = "物品グレアー.ソード"
+cheat407_handler = "0"
+cheat407_code = "801F62A2#01F5;3001f676a#000a"
+
+cheat408_desc = "物品ラピス晶石"
+cheat408_handler = "0"
+cheat408_code = "801F62A2#01F7;3001f676a#000a"
+
+cheat409_desc = "物品クリス晶石"
+cheat409_handler = "0"
+cheat409_code = "801F62A2#01F8;3001f676a#000a"
+
+cheat410_desc = "物品ヒール.ピアス"
+cheat410_handler = "0"
+cheat410_code = "801F62A2#01F9;3001f676a#000a"
+
+cheat411_desc = "物品ヒール.リング"
+cheat411_handler = "0"
+cheat411_code = "801F62A2#01FA;3001f676a#000a"
+
+cheat412_desc = "物品ラーニング.リング"
+cheat412_handler = "0"
+cheat412_code = "801F62A2#01FB;3001f676a#000a"
+
+cheat413_desc = "物品スカウト.オーブ"
+cheat413_handler = "0"
+cheat413_code = "801F62A2#01FC;3001f676a#000a"
+
+cheat414_desc = "物品ニーベルンゲンの指環"
+cheat414_handler = "0"
+cheat414_code = "801F62A2#0200;3001f676a#000a"
+
+cheat415_desc = "物品オート.アイテム"
+cheat415_handler = "0"
+cheat415_code = "801F62A2#0201;3001f676a#000a"
+
+cheat416_desc = "物品スロー"
+cheat416_handler = "0"
+cheat416_code = "801F62A2#0202;3001f676a#000a"
+
+cheat417_desc = "物品キュア.コンディション"
+cheat417_handler = "0"
+cheat417_code = "801F62A2#0203;3001f676a#000a"
+
+cheat418_desc = "物品ガッツ"
+cheat418_handler = "0"
+cheat418_code = "801F62A2#0204;3001f676a#000a"
+
+cheat419_desc = "物品アデプト.イリュージョン"
+cheat419_handler = "0"
+cheat419_code = "801F62A2#0205;3001f676a#000a"
+
+cheat420_desc = "物品ダンシング.ソード"
+cheat420_handler = "0"
+cheat420_code = "801F62A2#0206;3001f676a#000a"
+
+cheat421_desc = "物品ラスト.トライアル"
+cheat421_handler = "0"
+cheat421_code = "801F62A2#0207;3001f676a#000a"
+
+cheat422_desc = "物品スプラッシュ"
+cheat422_handler = "0"
+cheat422_code = "801F62A2#0208;3001f676a#000a"
+
+cheat423_desc = "物品レヴェリー"
+cheat423_handler = "0"
+cheat423_code = "801F62A2#0209;3001f676a#000a"
+
+cheat424_desc = "物品コンボ.カウンター"
+cheat424_handler = "0"
+cheat424_code = "801F62A2#020A;3001f676a#000a"
+
+cheat425_desc = "物品ノイズ.アロー"
+cheat425_handler = "0"
+cheat425_code = "801F62A2#020B;3001f676a#000a"
+
+cheat426_desc = "物品トリプル.ディストレス"
+cheat426_handler = "0"
+cheat426_code = "801F62A2#020C;3001f676a#000a"
+
+cheat427_desc = "物品スティール.マジック"
+cheat427_handler = "0"
+cheat427_code = "801F62A2#020D;3001f676a#000a"
+
+cheat428_desc = "物品スタン.マジック"
+cheat428_handler = "0"
+cheat428_code = "801F62A2#020E;3001f676a#000a"
+
+cheat429_desc = "物品コンセントレーション"
+cheat429_handler = "0"
+cheat429_code = "801F62A2#020F;3001f676a#000a"
+
+cheat430_desc = "物品スカーレット.エッジ"
+cheat430_handler = "0"
+cheat430_code = "801F62A2#0210;3001f676a#000a"
+
+cheat431_desc = "物品チャージ"
+cheat431_handler = "0"
+cheat431_code = "801F62A2#0211;3001f676a#000a"
+
+cheat432_desc = "物品ストライク.エッジ"
+cheat432_handler = "0"
+cheat432_code = "801F62A2#0212;3001f676a#000a"
+
+cheat433_desc = "物品ダーク"
+cheat433_handler = "0"
+cheat433_code = "801F62A2#0213;3001f676a#000a"
+
+cheat434_desc = "物品トリック.ステップ"
+cheat434_handler = "0"
+cheat434_code = "801F62A2#0214;3001f676a#000a"
+
+cheat435_desc = "物品メンタル.リアクション"
+cheat435_handler = "0"
+cheat435_code = "801F62A2#0215;3001f676a#000a"
+
+cheat436_desc = "物品ウェイト.リアクション"
+cheat436_handler = "0"
+cheat436_code = "801F62A2#0216;3001f676a#000a"
+
+cheat437_desc = "物品スランティング.レイン"
+cheat437_handler = "0"
+cheat437_code = "801F62A2#0217;3001f676a#000a"
+
+cheat438_desc = "物品ダークネス.アロー"
+cheat438_handler = "0"
+cheat438_code = "801F62A2#0218;3001f676a#000a"
+
+cheat439_desc = "物品フォールス.アロー"
+cheat439_handler = "0"
+cheat439_code = "801F62A2#0219;3001f676a#000a"
+
+cheat440_desc = "物品アタック.パワー"
+cheat440_handler = "0"
+cheat440_code = "801F62A2#021A;3001f676a#000a"
+
+cheat441_desc = "物品ディフェンド"
+cheat441_handler = "0"
+cheat441_code = "801F62A2#021B;3001f676a#000a"
+
+cheat442_desc = "物品アボイド"
+cheat442_handler = "0"
+cheat442_code = "801F62A2#021C;3001f676a#000a"
+
+cheat443_desc = "物品ヒット"
+cheat443_handler = "0"
+cheat443_code = "801F62A2#021D;3001f676a#000a"
+
+cheat444_desc = "物品レジスト.ダメージ"
+cheat444_handler = "0"
+cheat444_code = "801F62A2#021E;3001f676a#000a"
+
+cheat445_desc = "物品マジック.パワー"
+cheat445_handler = "0"
+cheat445_code = "801F62A2#021F;3001f676a#000a"
+
+cheat446_desc = "物品レジスト.マジック"
+cheat446_handler = "0"
+cheat446_code = "801F62A2#0220;3001f676a#000a"
+
+cheat447_desc = "物品ファイア.ランス"
+cheat447_handler = "0"
+cheat447_code = "801F62A2#0221;3001f676a#000a"
+
+cheat448_desc = "物品バーン.ストーム"
+cheat448_handler = "0"
+cheat448_code = "801F62A2#0222;3001f676a#000a"
+
+cheat449_desc = "物品アイシクル.エッジ"
+cheat449_handler = "0"
+cheat449_code = "801F62A2#0223;3001f676a#000a"
+
+cheat450_desc = "物品クール.ダンセル"
+cheat450_handler = "0"
+cheat450_code = "801F62A2#0224;3001f676a#000a"
+
+cheat451_desc = "物品ライトニング.ボルト"
+cheat451_handler = "0"
+cheat451_code = "801F62A2#0225;3001f676a#000a"
+
+cheat452_desc = "物品プリズミック.ミサイル"
+cheat452_handler = "0"
+cheat452_code = "801F62A2#0226;3001f676a#000a"
+
+cheat453_desc = "物品シャドゥ.サーヴァント"
+cheat453_handler = "0"
+cheat453_code = "801F62A2#0227;3001f676a#000a"
+
+cheat454_desc = "物品ダーク.セイヴァー"
+cheat454_handler = "0"
+cheat454_code = "801F62A2#0228;3001f676a#000a"
+
+cheat455_desc = "物品ポイズン.ブロウ"
+cheat455_handler = "0"
+cheat455_code = "801F62A2#0229;3001f676a#000a"
+
+cheat456_desc = "物品ストーン.トウチ"
+cheat456_handler = "0"
+cheat456_code = "801F62A2#022A;3001f676a#000a"
+
+cheat457_desc = "物品クロス.エアレイド"
+cheat457_handler = "0"
+cheat457_code = "801F62A2#022B;3001f676a#000a"
+
+cheat458_desc = "物品イグニート.ジャベリン"
+cheat458_handler = "0"
+cheat458_code = "801F62A2#022C;3001f676a#000a"
+
+cheat459_desc = "物品エヴォーク.フェザー"
+cheat459_handler = "0"
+cheat459_code = "801F62A2#022D;3001f676a#000a"
+
+cheat460_desc = "物品キュア.プラムス"
+cheat460_handler = "0"
+cheat460_code = "801F62A2#022E;3001f676a#000a"
+
+cheat461_desc = "物品オーディナィ.シェイプ"
+cheat461_handler = "0"
+cheat461_code = "801F62A2#022F;3001f676a#000a"
+
+cheat462_desc = "物品エンチャンテッド.ウェポン"
+cheat462_handler = "0"
+cheat462_code = "801F62A2#0230;3001f676a#000a"
+
+cheat463_desc = "物品マイト.レインフォース"
+cheat463_handler = "0"
+cheat463_code = "801F62A2#0231;3001f676a#000a"
+
+cheat464_desc = "物品ガード.レインフォース"
+cheat464_handler = "0"
+cheat464_code = "801F62A2#0232;3001f676a#000a"
+
+cheat465_desc = "物品スペル.レインフォース"
+cheat465_handler = "0"
+cheat465_code = "801F62A2#0233;3001f676a#000a"
+
+cheat466_desc = "物品レデュース.パワー"
+cheat466_handler = "0"
+cheat466_code = "801F62A2#0234;3001f676a#000a"
+
+cheat467_desc = "物品レデュース.ガード"
+cheat467_handler = "0"
+cheat467_code = "801F62A2#0235;3001f676a#000a"
+
+cheat468_desc = "物品プリベント.ソーサリー"
+cheat468_handler = "0"
+cheat468_code = "801F62A2#0236;3001f676a#000a"
+
+cheat469_desc = "物品リフレクト.ソーサリー"
+cheat469_handler = "0"
+cheat469_code = "801F62A2#0237;3001f676a#000a"
+
+cheat470_desc = "物品シールド.クリティカル"
+cheat470_handler = "0"
+cheat470_code = "801F62A2#0238;3001f676a#000a"
+
+cheat471_desc = "物品タイマー.リング"
+cheat471_handler = "0"
+cheat471_code = "801F62A2#023A;3001f676a#000a"
+
+cheat472_desc = "物品ディメンジョン.スリップ"
+cheat472_handler = "0"
+cheat472_code = "801F62A2#023B;3001f676a#000a"
+
+cheat473_desc = "物品マリス.サーチ"
+cheat473_handler = "0"
+cheat473_code = "801F62A2#023C;3001f676a#000a"
+
+cheat474_desc = "物品エネミー.サーチ"
+cheat474_handler = "0"
+cheat474_code = "801F62A2#023D;3001f676a#000a"
+
+cheat475_desc = "物品トレジャー.サーチ"
+cheat475_handler = "0"
+cheat475_code = "801F62A2#023E;3001f676a#000a"
+
+cheat476_desc = "物品トラップ.サーチ"
+cheat476_handler = "0"
+cheat476_code = "801F62A2#023F;3001f676a#000a"
+
+cheat477_desc = "物品咎人の剣“神を斬獲せし者”"
+cheat477_handler = "0"
+cheat477_code = "801F62A2#0247;3001f676a#000a"
+
+cheat478_desc = "物品トライ.エンブレム"
+cheat478_handler = "0"
+cheat478_code = "801F62A2#0248;3001f676a#000a"
+
+cheat479_desc = "物品謎の書物8"
+cheat479_handler = "0"
+cheat479_code = "801F62A2#0249;3001f676a#000a"
+
+cheat480_desc = "物品謎の書物7"
+cheat480_handler = "0"
+cheat480_code = "801F62A2#024A;3001f676a#000a"
+
+cheat481_desc = "物品謎の書物6"
+cheat481_handler = "0"
+cheat481_code = "801F62A2#024B;3001f676a#000a"
+
+cheat482_desc = "物品謎の書物5"
+cheat482_handler = "0"
+cheat482_code = "801F62A2#024C;3001f676a#000a"
+
+cheat483_desc = "物品謎の書物4"
+cheat483_handler = "0"
+cheat483_code = "801F62A2#024D;3001f676a#000a"
+
+cheat484_desc = "物品謎の書物3"
+cheat484_handler = "0"
+cheat484_code = "801F62A2#024E;3001f676a#000a"
+
+cheat485_desc = "物品謎の書物2"
+cheat485_handler = "0"
+cheat485_code = "801F62A2#024F;3001f676a#000a"
+
+cheat486_desc = "物品謎の書物1"
+cheat486_handler = "0"
+cheat486_code = "801F62A2#0250;3001f676a#000a"
+
+cheat487_desc = "物品魔剣グラム"
+cheat487_handler = "0"
+cheat487_code = "801F62A2#0251;3001f676a#000a"
+
+cheat488_desc = "物品魔剣ダインスレイヴ"
+cheat488_handler = "0"
+cheat488_code = "801F62A2#0252;3001f676a#000a"
+
+cheat489_desc = "物品エターナリィ.ガーブ"
+cheat489_handler = "0"
+cheat489_code = "801F62A2#0253;3001f676a#000a"
+
+cheat490_desc = "物品ブラッディ.ナックル"
+cheat490_handler = "0"
+cheat490_code = "801F62A2#0254;3001f676a#000a"
+
+cheat491_desc = "物品ブラッディ.ダスター"
+cheat491_handler = "0"
+cheat491_code = "801F62A2#0255;3001f676a#000a"
+
+cheat492_desc = "物品透器エーテル.レイザー"
+cheat492_handler = "0"
+cheat492_code = "801F62A2#0256;3001f676a#000a"
+
+cheat493_desc = "物品鉄格子の鍵"
+cheat493_handler = "0"
+cheat493_code = "801F62A2#0257;3001f676a#000a"
+
+cheat494_desc = "物品エレメント.セプター"
+cheat494_handler = "0"
+cheat494_code = "801F62A2#0258;3001f676a#000a"
+
+cheat495_desc = "物品エーテル.セプター"
+cheat495_handler = "0"
+cheat495_code = "801F62A2#0259;3001f676a#000a"
+
+cheat496_desc = "物品炎呪の珠"
+cheat496_handler = "0"
+cheat496_code = "801F62A2#025A;3001f676a#000a"
+
+cheat497_desc = "物品炎呪の珠"
+cheat497_handler = "0"
+cheat497_code = "801F62A2#025B;3001f676a#000a"
+
+cheat498_desc = "物品手織りのバンダナ"
+cheat498_handler = "0"
+cheat498_code = "801F62A2#025C;3001f676a#000a"
+
+cheat499_desc = "物品玉瑠璃の欠片"
+cheat499_handler = "0"
+cheat499_code = "801F62A2#025D;3001f676a#000a"
+
+cheat500_desc = "物品インフィニティ.ロッド"
+cheat500_handler = "0"
+cheat500_code = "801F62A2#025E;3001f676a#000a"
+
+cheat501_desc = "物品戦乙女のペンダント"
+cheat501_handler = "0"
+cheat501_code = "801F62A2#025F;3001f676a#000a"
+
+cheat502_desc = "物品押し花"
+cheat502_handler = "0"
+cheat502_code = "801F62A2#0260;3001f676a#000a"
+
+cheat503_desc = "物品聖なる雫"
+cheat503_handler = "0"
+cheat503_code = "801F62A2#0261;3001f676a#000a"
+
+cheat504_desc = "物品咒文忘记卷物"
+cheat504_handler = "0"
+cheat504_code = "801F62A2#0262;3001f676a#000a"
+
+cheat505_desc = "物品紅蓮の宝珠"
+cheat505_handler = "0"
+cheat505_code = "801F62A2#0263;3001f676a#000a"
+
+cheat506_desc = "物品羽飾りの怀中時計"
+cheat506_handler = "0"
+cheat506_code = "801F62A2#0264;3001f676a#000a"
+
+cheat507_desc = "全物品"
+cheat507_handler = "0"
+cheat507_code = "801F62A4#0001;801F62A6#0002;801F62A8#0003;801F62AA#0004;801F62AC#0005;801F62AE#0006;801F62B0#0007;801F62B2#0008;801F62B4#0009;801F62B6#000A;801F62B8#0012;801F62BA#0013;801F62BC#0014;801F62BE#0015;801F62C0#001F;801F62C2#0020;801F62C4#0021;801F62C6#0022;801F62C8#0023;801F62CA#0024;801F62CC#0028;801F62CE#002A;801F62D0#002C;801F62D2#002D;801F62D4#002E;801F62D6#002F;801F62D8#0030;801F62DA#0031;801F62DC#0032;801F62DE#0033;801F62E0#0034;801F62E2#0035;801F62E4#0036;801F62E6#0037;801F62E8#0038;801F62EA#0039;801F62EC#003A;801F62EE#003B;801F62F0#003C;801F62F2#003D;801F62F4#003E;801F62F6#0049;801F62F8#004A;801F62FA#004B;801F62FC#004C;801F62FE#004D;801F6300#004E;801F6302#004F;801F6304#0050;801F6306#0051;801F6308#0052;801F630A#0053;801F630C#0054;801F630E#0055;801F6310#0056;801F6312#0057;801F6314#0058;801F6316#0059;801F6318#005A;801F631A#005B;801F631C#005C;801F631E#005D;801F6320#005E;801F6322#005F;801F6324#0060;801F6326#0061;801F6328#0062;801F632A#0063;801F632C#0064;801F632E#0065;801F6330#0066;801F6332#0067;801F6334#0068;801F6336#0071;801F6338#0072;801F633a#0073;801F633C#0074;801F633E#0075;801F6340#0076;801F6342#0077;801F6344#0078;801F6346#0081;801F6348#0082;801F634A#0083;801F634C#0084;801F634E#0085;801F6350#0086;801F6352#0087;801F6354#0088;801F6356#0089;801F6358#008A;801F635A#008B;801F635C#008C;801F635E#008D;801F6360#008E;801F6362#008F;801F6364#0090;801F6366#0091;801F6368#0092;801F636A#0093;801F636C#0094;801F636E#0095;801F6370#0096;801F6372#0097;801F6374#0098;801F6376#009D;801F6378#009E;801F637A#009F;801F637C#00A0;801F637E#00A5;801F6380#00A6;801F6382#00A7;801F6384#00A8;801F6386#00A9;801F6388#00AA;801F638A#00AB;801F638C#00AC;801F638E#00AD;801F6390#00AE;801F6392#00AF;801F6394#00B0;801F6396#00B1;801F6398#00B2;801F639A#00B3;801F639C#00B4;801F639E#00B5;801F63A0#00B6;801F63A2#00B7;801F63A4#00B8;801F63A6#00B9;801F63A8#00BA;801F63AA#00BB;801F63AC#00BC;801F63AE#00BD;801F63B0#00BE;801F63B2#00BF;801F63B4#00C0;801F63B6#00C1;801F63B8#00C2;801F63BA#00C3;801F63BC#00C4;801F63BE#00C5;801F63C0#00C6;801F63C2#00C7;801F63C4#00CB;801F63C6#00CC;801F63C8#00CD;801F63CA#00D4;801F63CC#00D5;801F63CE#00D6;801F63D0#00D7;801F63D2#00D8;801F63D4#00D9;801F63D6#00DA;801F63D8#00DB;801F63DA#00DC;801F63DC#00DD;801F63DE#00DE;801F63E0#00DF;801F63E2#00E7;801F63E4#00E8;801F63E6#00E9;801F63E8#00EA;801F63EA#00EB;801F63EC#00F0;801F63EE#00F1;801F63F0#00F2;801F63F2#00F3;801F63F4#00F4;801F63F6#00F5;801F63F8#00F6;801F63FA#00F7;801F63FC#00F8;801F63FE#00F9;801F6400#00FA;801F6402#00FB;801F6404#00FC;801F6406#00FD;801F6408#00FE;801F640A#00FF;801F640C#0100;801F640E#0101;801F6410#0102;801F6412#0103;801F6414#0104;801F6416#0105;801F6418#0106;801F641A#0107;801F641C#0108;801F641E#0109;801F6420#010A;801F6422#010B;801F6424#010C;801F6426#010D;801F6428#010E;801F642A#010F;801F642C#0110;801F642E#0111;801F6430#0119;801F6432#011A;801F6434#011B;801F6436#011C;801F6438#011D;801F643A#011E;801F643C#011F;801F643E#0120;801F6440#0121;801F6442#0122;801F6444#0123;801F6446#0124;801F6448#0125;801F644A#012A;801F644C#012B;801F644E#012E;801F6450#012F;801F6452#0130;801F6454#0131;801F6456#0132;801F6458#0133;801F645A#0134;801F645C#0135;801F645E#0136;801F6460#0137;801F6462#0138;801F6464#0139;801F6466#013A;801F6468#013B;801F646A#013C;801F646C#013D;801F646E#013E;801F6470#013F;801F6472#0140;801F6474#0141;801F6476#0142;801F6478#0143;801F647A#0144;801F647C#0145;801F647E#0146;801F6480#0147;801F6482#0148;801F6484#0149;801F6486#014A;801F6488#014B;801F648A#014C;801F648C#014D;801F648E#014E;801F6490#014f;801F6492#0150;801F6494#0151;801F6496#0152;801F6498#0153;801F649A#0154;801F649C#0155;801F649E#0156;801F64A0#0157;801F64A2#015c;801F64A4#015d;801F64A6#015e;801F64A8#015f;801F64AC#0160;801F64AE#0161;801F64B0#0162;801F64B2#0163;801F64B4#0164;801F64B6#0165;801F64B8#0166;801F64bA#0167;801F64BC#0168;801F64BE#0169;801F64C0#016a;801F64C2#016b;801F64C4#016c;801F64C6#016e;801F64C8#016f;801F64CA#0170;801F64CC#0171;801F64CE#0174;801F64D0#0175;801F64D2#0176;801F64D4#0177;801F64D6#0178;801F64D8#0179;801F64DA#017a;801F64DC#017b;801F64DE#017c;801F64E0#017d;801F64E2#017e;801F64E4#017f;801F64E6#0180;801F64E8#0181;801F64EA#0182;801F64EC#0183;801F64EE#0184;801F64F0#0185;801F64F2#0186;801F64F4#0187;801F64F6#0188;801F64F8#0189;801F64FA#018a;801F64FC#018b;801F64FE#018c;801F6500#018d;801F6502#018e;801F6504#018f;801F6506#0190;801F6508#0191;801F650A#0192;801F650C#0193;801F650E#0194;801F6510#0195;801F6512#0196;801F6514#0197;801F6516#0198;801F6158#0199;801F651A#019A;801F651C#019B;801F651E#019C;801F6520#019D;801F6522#019E;801F6524#019F;801F6526#01A0;801F6528#01A6;801F652A#01A7;801F652C#01A8;801F652E#01A9;801F6530#01AA;801F6532#01AB;801F6534#01AC;801F6536#01AD;801F6538#01AE;801F653A#01AF;801F653C#01B0;801F653E#01B1;801F6540#01B2;801F6542#01B3;801F6544#01B4;801F6546#01B5;801F6548#01B6;801F654A#01B7;801F654C#01B8;801F654E#01B9;801F6550#01BA;801F6552#01BE;801F6554#01BF;801F6556#01C0;801F6558#01C1;801F655A#01C2;801F655C#01C3;801F655E#01CE;801F6560#01CF;801F6562#01D0;801F6564#01D1;801F6566#01D2;801F6568#01D3;801F656A#01D4;801F656C#01D5;801F656E#01D6;801F6570#01D7;801F6572#01D8;801F6574#01D9;801F6576#01DA;801F6578#01E5;801F657A#01E6;801F657C#01E7;801F657E#01E8;801F6580#01E9;801F6582#01EA;801F6584#01EC;801F6586#01ED;801F6588#01EE;801F658A#01F0;801F658C#01F1;801F658E#01F2;801F6590#01F4;801F6592#01F5;801F6594#01F7;801F6596#01F8;801F6598#01F9;801F659A#01FA;801F659C#01FB;801F659E#01FC;801F65A0#0200;801F65A2#0201;801F65A4#0202;801F65A8#0203;801F65AA#0204;801F65AC#0205;801F65AE#0206;801F65B0#0207;801F65B2#0208;801F65B4#0209;801F65B6#020A;801F65B8#020B;801F65BA#020C;801F65BC#020D;801F65BE#020E;801F65C0#020F;801F65C2#0210;801F65C4#0211;801F65C6#0212;801F65C8#0213;801F65CA#0214;801F65CC#0215;801F65CE#0216;801F65D0#0217;801F65D2#0218;801F65D4#0219'801F65D6#021A'801F65D8#021B;801F65DA#021C;801F65dc#021D;801F65DE#021E;801F65E0#021F;801F65E2#0220;801F65E4#0221;801F65E6#0222;801F65E8#0223;801F65EA#0224;801F65EC#0225;801F65EE#0226;801F65F0#0227;801F65F2#0228;801F65F4#0229;801F65F6#022A;801F65F8#022B;801F65FA#022C;801F65FC#022D;801F65FE#022E;801F6600#022F;801F6602#0230;801F6604#0231;801F6606#0232;801F6608#0233;801F660A#0234;801F660C#0235;801F660E#0236;801F6610#0237;801F6612#0238;801F6614#023A;801F6616#023B;801F6618#023C;801F661A#023D;801F661C#023E;801F661E#023F;801F6620#0247;801F6622#0248;801F6624#0249;801F6626#024A;801F6628#024B;801F662A#024C;801F662C#024D;801F662E#024E;801F6630#024F;801F6632#0250;801F6634#0251;801F6636#0252;801F6638#0253;801F663A#0254;801F663C#0255;801F663E#0256;801F6640#0257;801F6642#0258;801F6644#0259;801F6646#025A;801F6648#025B;801F664A#025C;801F664C#025D;801F664E#025E;801F6650#025F;801F6652#0260;801F6654#0261;801F6656#0262;801F6658#0263;801F665A#0264;B0FF0001#00000000,301F676B#000A;B0DE0001#00000000,301F686B#000A"
+
+cheat508_desc = "跳的更高(慎用)"
+cheat508_handler = "0"
+cheat508_code = "D002FFD6#2462,8002FFD4#0000"
+
+cheat509_desc = "经验值宝珠MAX"
+cheat509_handler = "0"
+cheat509_code = "801E5BF8#E0FF;801E5BFA#05F5"
+
+cheat510_desc = "随时存档"
+cheat510_handler = "0"
+cheat510_code = "301F6274#0001"
+
+cheat511_desc = "评价值"
+cheat511_handler = "0"
+cheat511_code = "301F6264#0064"
+
+cheat512_desc = "大量MP"
+cheat512_handler = "0"
+cheat512_code = "801F5F80#967F;801F5F82#0098"
+
+cheat513_desc = "Period"
+cheat513_handler = "0"
+cheat513_code = "301E5C41#000F"
+
+cheat514_desc = "游戏时间为0"
+cheat514_handler = "0"
+cheat514_code = "801F5F84#0000;801F5F86#0000"
+
+cheat515_desc = "打开Seraphic Gate模式"
+cheat515_handler = "0"
+cheat515_code = "8005E28E#0011"
+
+cheat516_desc = "全配音"
+cheat516_handler = "0"
+cheat516_code = "B04D0002#00000000,80060860#FFFF"
+
+cheat517_desc = "战斗中HP不减ALL"
+cheat517_handler = "0"
+cheat517_code = "80EAD74#FFFF;80EAD78#FFFF;80EBAE4#FFFF;80EC1A0#FFFF;80EB42C#FFFF;80EC19C#FFFF;80EBAE8#FFFF;80EB430#FFFF"
+
+cheat518_desc = "战斗中HP不减前"
+cheat518_handler = "0"
+cheat518_code = "80EAD74#FFFF;80EAD78#FFFF"
+
+cheat519_desc = "战斗中HP不减后"
+cheat519_handler = "0"
+cheat519_code = "80EC19C#FFFF;80EC1A0#FFFF"
+
+cheat520_desc = "战斗中HP不减上"
+cheat520_handler = "0"
+cheat520_code = "80EBAE4#FFFF;80EBAE8#FFFF"
+
+cheat521_desc = "战斗中HP不减下"
+cheat521_handler = "0"
+cheat521_code = "80EB42C#FFFF;80EB430#FFFF"
+
+cheat522_desc = "回合结束时CT为0"
+cheat522_handler = "0"
+cheat522_code = "D0066B32#A4A2,80066B32#A4A0"
+
+cheat523_desc = "第一位置人物(注意!!)1"
+cheat523_handler = "0"
+cheat523_code = "301F6278#0001"
+
+cheat524_desc = "第一位置人物(注意!!)2"
+cheat524_handler = "0"
+cheat524_code = "301F6278#0002"
+
+cheat525_desc = "第一位置人物(注意!!)3"
+cheat525_handler = "0"
+cheat525_code = "301F6278#0003"
+
+cheat526_desc = "第一位置人物(注意!!)4"
+cheat526_handler = "0"
+cheat526_code = "301F6278#0004"
+
+cheat527_desc = "第一位置人物(注意!!)5"
+cheat527_handler = "0"
+cheat527_code = "301F6278#0005"
+
+cheat528_desc = "第一位置人物(注意!!)6"
+cheat528_handler = "0"
+cheat528_code = "301F6278#0006"
+
+cheat529_desc = "第一位置人物(注意!!)7"
+cheat529_handler = "0"
+cheat529_code = "301F6278#0007"
+
+cheat530_desc = "第一位置人物(注意!!)8"
+cheat530_handler = "0"
+cheat530_code = "301F6278#0008"
+
+cheat531_desc = "第一位置人物(注意!!)9"
+cheat531_handler = "0"
+cheat531_code = "301F6278#0009"
+
+cheat532_desc = "第一位置人物(注意!!)10"
+cheat532_handler = "0"
+cheat532_code = "301F6278#000A"
+
+cheat533_desc = "第一位置人物(注意!!)11"
+cheat533_handler = "0"
+cheat533_code = "301F6278#000B"
+
+cheat534_desc = "第一位置人物(注意!!)12"
+cheat534_handler = "0"
+cheat534_code = "301F6278#000C"
+
+cheat535_desc = "第一位置人物(注意!!)13"
+cheat535_handler = "0"
+cheat535_code = "301F6278#000D"
+
+cheat536_desc = "第一位置人物(注意!!)14"
+cheat536_handler = "0"
+cheat536_code = "301F6278#000E"
+
+cheat537_desc = "第一位置人物(注意!!)15"
+cheat537_handler = "0"
+cheat537_code = "301F6278#000F"
+
+cheat538_desc = "第一位置人物(注意!!)16"
+cheat538_handler = "0"
+cheat538_code = "301F6278#0010"
+
+cheat539_desc = "第一位置人物(注意!!)17"
+cheat539_handler = "0"
+cheat539_code = "301F6278#0011"
+
+cheat540_desc = "第一位置人物(注意!!)18"
+cheat540_handler = "0"
+cheat540_code = "301F6278#0012"
+
+cheat541_desc = "第一位置人物(注意!!)19"
+cheat541_handler = "0"
+cheat541_code = "301F6278#0013"
+
+cheat542_desc = "第一位置人物(注意!!)20"
+cheat542_handler = "0"
+cheat542_code = "301F6278#0014"
+
+cheat543_desc = "第一位置人物(注意!!)21"
+cheat543_handler = "0"
+cheat543_code = "301F6278#0015"
+
+cheat544_desc = "第一位置人物(注意!!)22"
+cheat544_handler = "0"
+cheat544_code = "301F6278#0016"
+
+cheat545_desc = "第一位置人物(注意!!)23"
+cheat545_handler = "0"
+cheat545_code = "301F6278#0017"
+
+cheat546_desc = "第一位置人物(注意!!)24"
+cheat546_handler = "0"
+cheat546_code = "301F6278#0018"
+
+cheat547_desc = "第一位置人物(注意!!)25"
+cheat547_handler = "0"
+cheat547_code = "301F6278#0019"
+
+cheat548_desc = "第二位置人物(注意!!)1"
+cheat548_handler = "0"
+cheat548_code = "301F6279#0001"
+
+cheat549_desc = "第二位置人物(注意!!)2"
+cheat549_handler = "0"
+cheat549_code = "301F6279#0002"
+
+cheat550_desc = "第二位置人物(注意!!)3"
+cheat550_handler = "0"
+cheat550_code = "301F6279#0003"
+
+cheat551_desc = "第二位置人物(注意!!)4"
+cheat551_handler = "0"
+cheat551_code = "301F6279#0004"
+
+cheat552_desc = "第二位置人物(注意!!)5"
+cheat552_handler = "0"
+cheat552_code = "301F6279#0005"
+
+cheat553_desc = "第二位置人物(注意!!)6"
+cheat553_handler = "0"
+cheat553_code = "301F6279#0006"
+
+cheat554_desc = "第二位置人物(注意!!)7"
+cheat554_handler = "0"
+cheat554_code = "301F6279#0007"
+
+cheat555_desc = "第二位置人物(注意!!)8"
+cheat555_handler = "0"
+cheat555_code = "301F6279#0008"
+
+cheat556_desc = "第二位置人物(注意!!)9"
+cheat556_handler = "0"
+cheat556_code = "301F6279#0009"
+
+cheat557_desc = "第二位置人物(注意!!)10"
+cheat557_handler = "0"
+cheat557_code = "301F6279#000A"
+
+cheat558_desc = "第二位置人物(注意!!)11"
+cheat558_handler = "0"
+cheat558_code = "301F6279#000B"
+
+cheat559_desc = "第二位置人物(注意!!)12"
+cheat559_handler = "0"
+cheat559_code = "301F6279#000C"
+
+cheat560_desc = "第二位置人物(注意!!)13"
+cheat560_handler = "0"
+cheat560_code = "301F6279#000D"
+
+cheat561_desc = "第二位置人物(注意!!)14"
+cheat561_handler = "0"
+cheat561_code = "301F6279#000E"
+
+cheat562_desc = "第二位置人物(注意!!)15"
+cheat562_handler = "0"
+cheat562_code = "301F6279#000F"
+
+cheat563_desc = "第二位置人物(注意!!)16"
+cheat563_handler = "0"
+cheat563_code = "301F6279#0010"
+
+cheat564_desc = "第二位置人物(注意!!)17"
+cheat564_handler = "0"
+cheat564_code = "301F6279#0011"
+
+cheat565_desc = "第二位置人物(注意!!)18"
+cheat565_handler = "0"
+cheat565_code = "301F6279#0012"
+
+cheat566_desc = "第二位置人物(注意!!)19"
+cheat566_handler = "0"
+cheat566_code = "301F6279#0013"
+
+cheat567_desc = "第二位置人物(注意!!)20"
+cheat567_handler = "0"
+cheat567_code = "301F6279#0014"
+
+cheat568_desc = "第二位置人物(注意!!)21"
+cheat568_handler = "0"
+cheat568_code = "301F6279#0015"
+
+cheat569_desc = "第二位置人物(注意!!)22"
+cheat569_handler = "0"
+cheat569_code = "301F6279#0016"
+
+cheat570_desc = "第二位置人物(注意!!)23"
+cheat570_handler = "0"
+cheat570_code = "301F6279#0017"
+
+cheat571_desc = "第二位置人物(注意!!)24"
+cheat571_handler = "0"
+cheat571_code = "301F6279#0018"
+
+cheat572_desc = "第二位置人物(注意!!)25"
+cheat572_handler = "0"
+cheat572_code = "301F6279#0019"
+
+cheat573_desc = "第三位置人物(注意!!)1"
+cheat573_handler = "0"
+cheat573_code = "301F627A#0001"
+
+cheat574_desc = "第三位置人物(注意!!)2"
+cheat574_handler = "0"
+cheat574_code = "301F627A#0002"
+
+cheat575_desc = "第三位置人物(注意!!)3"
+cheat575_handler = "0"
+cheat575_code = "301F627A#0003"
+
+cheat576_desc = "第三位置人物(注意!!)4"
+cheat576_handler = "0"
+cheat576_code = "301F627A#0004"
+
+cheat577_desc = "第三位置人物(注意!!)5"
+cheat577_handler = "0"
+cheat577_code = "301F627A#0005"
+
+cheat578_desc = "第三位置人物(注意!!)6"
+cheat578_handler = "0"
+cheat578_code = "301F627A#0006"
+
+cheat579_desc = "第三位置人物(注意!!)7"
+cheat579_handler = "0"
+cheat579_code = "301F627A#0007"
+
+cheat580_desc = "第三位置人物(注意!!)8"
+cheat580_handler = "0"
+cheat580_code = "301F627A#0008"
+
+cheat581_desc = "第三位置人物(注意!!)9"
+cheat581_handler = "0"
+cheat581_code = "301F627A#0009"
+
+cheat582_desc = "第三位置人物(注意!!)10"
+cheat582_handler = "0"
+cheat582_code = "301F627A#000A"
+
+cheat583_desc = "第三位置人物(注意!!)11"
+cheat583_handler = "0"
+cheat583_code = "301F627A#000B"
+
+cheat584_desc = "第三位置人物(注意!!)12"
+cheat584_handler = "0"
+cheat584_code = "301F627A#000C"
+
+cheat585_desc = "第三位置人物(注意!!)13"
+cheat585_handler = "0"
+cheat585_code = "301F627A#000D"
+
+cheat586_desc = "第三位置人物(注意!!)14"
+cheat586_handler = "0"
+cheat586_code = "301F627A#000E"
+
+cheat587_desc = "第三位置人物(注意!!)15"
+cheat587_handler = "0"
+cheat587_code = "301F627A#000F"
+
+cheat588_desc = "第三位置人物(注意!!)16"
+cheat588_handler = "0"
+cheat588_code = "301F627A#0010"
+
+cheat589_desc = "第三位置人物(注意!!)17"
+cheat589_handler = "0"
+cheat589_code = "301F627A#0011"
+
+cheat590_desc = "第三位置人物(注意!!)18"
+cheat590_handler = "0"
+cheat590_code = "301F627A#0012"
+
+cheat591_desc = "第三位置人物(注意!!)19"
+cheat591_handler = "0"
+cheat591_code = "301F627A#0013"
+
+cheat592_desc = "第三位置人物(注意!!)20"
+cheat592_handler = "0"
+cheat592_code = "301F627A#0014"
+
+cheat593_desc = "第三位置人物(注意!!)21"
+cheat593_handler = "0"
+cheat593_code = "301F627A#0015"
+
+cheat594_desc = "第三位置人物(注意!!)22"
+cheat594_handler = "0"
+cheat594_code = "301F627A#0016"
+
+cheat595_desc = "第三位置人物(注意!!)23"
+cheat595_handler = "0"
+cheat595_code = "301F627A#0017"
+
+cheat596_desc = "第三位置人物(注意!!)24"
+cheat596_handler = "0"
+cheat596_code = "301F627A#0018"
+
+cheat597_desc = "第三位置人物(注意!!)25"
+cheat597_handler = "0"
+cheat597_code = "301F627A#0019"
+
+cheat598_desc = "第四位置人物(注意!!)1"
+cheat598_handler = "0"
+cheat598_code = "301F627B#0001"
+
+cheat599_desc = "第四位置人物(注意!!)2"
+cheat599_handler = "0"
+cheat599_code = "301F627B#0002"
+
+cheat600_desc = "第四位置人物(注意!!)3"
+cheat600_handler = "0"
+cheat600_code = "301F627B#0003"
+
+cheat601_desc = "第四位置人物(注意!!)4"
+cheat601_handler = "0"
+cheat601_code = "301F627B#0004"
+
+cheat602_desc = "第四位置人物(注意!!)5"
+cheat602_handler = "0"
+cheat602_code = "301F627B#0005"
+
+cheat603_desc = "第四位置人物(注意!!)6"
+cheat603_handler = "0"
+cheat603_code = "301F627B#0006"
+
+cheat604_desc = "第四位置人物(注意!!)7"
+cheat604_handler = "0"
+cheat604_code = "301F627B#0007"
+
+cheat605_desc = "第四位置人物(注意!!)8"
+cheat605_handler = "0"
+cheat605_code = "301F627B#0008"
+
+cheat606_desc = "第四位置人物(注意!!)9"
+cheat606_handler = "0"
+cheat606_code = "301F627B#0009"
+
+cheat607_desc = "第四位置人物(注意!!)10"
+cheat607_handler = "0"
+cheat607_code = "301F627B#000A"
+
+cheat608_desc = "第四位置人物(注意!!)11"
+cheat608_handler = "0"
+cheat608_code = "301F627B#000B"
+
+cheat609_desc = "第四位置人物(注意!!)12"
+cheat609_handler = "0"
+cheat609_code = "301F627B#000C"
+
+cheat610_desc = "第四位置人物(注意!!)13"
+cheat610_handler = "0"
+cheat610_code = "301F627B#000D"
+
+cheat611_desc = "第四位置人物(注意!!)14"
+cheat611_handler = "0"
+cheat611_code = "301F627B#000E"
+
+cheat612_desc = "第四位置人物(注意!!)15"
+cheat612_handler = "0"
+cheat612_code = "301F627B#000F"
+
+cheat613_desc = "第四位置人物(注意!!)16"
+cheat613_handler = "0"
+cheat613_code = "301F627B#0010"
+
+cheat614_desc = "第四位置人物(注意!!)17"
+cheat614_handler = "0"
+cheat614_code = "301F627B#0011"
+
+cheat615_desc = "第四位置人物(注意!!)18"
+cheat615_handler = "0"
+cheat615_code = "301F627B#0012"
+
+cheat616_desc = "第四位置人物(注意!!)19"
+cheat616_handler = "0"
+cheat616_code = "301F627B#0013"
+
+cheat617_desc = "第四位置人物(注意!!)20"
+cheat617_handler = "0"
+cheat617_code = "301F627B#0014"
+
+cheat618_desc = "第四位置人物(注意!!)21"
+cheat618_handler = "0"
+cheat618_code = "301F627B#0015"
+
+cheat619_desc = "第四位置人物(注意!!)22"
+cheat619_handler = "0"
+cheat619_code = "301F627B#0016"
+
+cheat620_desc = "第四位置人物(注意!!)23"
+cheat620_handler = "0"
+cheat620_code = "301F627B#0017"
+
+cheat621_desc = "第四位置人物(注意!!)24"
+cheat621_handler = "0"
+cheat621_code = "301F627B#0018"
+
+cheat622_desc = "第四位置人物(注意!!)25"
+cheat622_handler = "0"
+cheat622_code = "301F627B#0019"
+
+cheat623_desc = "加技能的点数999ALL"
+cheat623_handler = "0"
+cheat623_code = "801DFF6C#03E7;801E005A#03E7;801E0144#03E7;801E0230#03E7;801E031C#03E7;801E0408#03E7;801E04F4#03E7;801E05E0#03E7;801E06CC#03E7;801E07B8#03E7;801E08A4#03E7;801E0990#03E7;801E0A7C#03E7;801E0B68#03E7;801E0C54#03E7;801E0D40#03E7;801E0E2C#03E7;801E0F18#03E7;801E1004#03E7;801E10F0#03E7;801E11DC#03E7;801E12C8#03E7;801E13B4#03E7;801E14A0#03E7;801E158C#03E7"
+
+cheat624_desc = "加技能的点数999人物1"
+cheat624_handler = "0"
+cheat624_code = "801DFF6C#03E7"
+
+cheat625_desc = "加技能的点数999人物2"
+cheat625_handler = "0"
+cheat625_code = "801E005A#03E7"
+
+cheat626_desc = "加技能的点数999人物3"
+cheat626_handler = "0"
+cheat626_code = "801E0144#03E7"
+
+cheat627_desc = "加技能的点数999人物4"
+cheat627_handler = "0"
+cheat627_code = "801E0230#03E7"
+
+cheat628_desc = "加技能的点数999人物5"
+cheat628_handler = "0"
+cheat628_code = "801E031C#03E7"
+
+cheat629_desc = "加技能的点数999人物6"
+cheat629_handler = "0"
+cheat629_code = "801E0408#03E7"
+
+cheat630_desc = "加技能的点数999人物7"
+cheat630_handler = "0"
+cheat630_code = "801E04F4#03E7"
+
+cheat631_desc = "加技能的点数999人物8"
+cheat631_handler = "0"
+cheat631_code = "801E05E0#03E7"
+
+cheat632_desc = "加技能的点数999人物9"
+cheat632_handler = "0"
+cheat632_code = "801E06CC#03E7"
+
+cheat633_desc = "加技能的点数999人物10"
+cheat633_handler = "0"
+cheat633_code = "801E07B8#03E7"
+
+cheat634_desc = "加技能的点数999人物11"
+cheat634_handler = "0"
+cheat634_code = "801E08A4#03E7"
+
+cheat635_desc = "加技能的点数999人物12"
+cheat635_handler = "0"
+cheat635_code = "801E0990#03E7"
+
+cheat636_desc = "加技能的点数999人物13"
+cheat636_handler = "0"
+cheat636_code = "801E0A7C#03E7"
+
+cheat637_desc = "加技能的点数999人物14"
+cheat637_handler = "0"
+cheat637_code = "801E0B68#03E7"
+
+cheat638_desc = "加技能的点数999人物15"
+cheat638_handler = "0"
+cheat638_code = "801E0C54#03E7"
+
+cheat639_desc = "加技能的点数999人物16"
+cheat639_handler = "0"
+cheat639_code = "801E0D40#03E7"
+
+cheat640_desc = "加技能的点数999人物17"
+cheat640_handler = "0"
+cheat640_code = "801E0E2C#03E7"
+
+cheat641_desc = "加技能的点数999人物18"
+cheat641_handler = "0"
+cheat641_code = "801E0F18#03E7"
+
+cheat642_desc = "加技能的点数999人物19"
+cheat642_handler = "0"
+cheat642_code = "801E1004#03E7"
+
+cheat643_desc = "加技能的点数999人物20"
+cheat643_handler = "0"
+cheat643_code = "801E10F0#03E7"
+
+cheat644_desc = "加技能的点数999人物21"
+cheat644_handler = "0"
+cheat644_code = "801E11DC#03E7"
+
+cheat645_desc = "加技能的点数999人物22"
+cheat645_handler = "0"
+cheat645_code = "801E12C8#03E7"
+
+cheat646_desc = "加技能的点数999人物23"
+cheat646_handler = "0"
+cheat646_code = "801E13B4#03E7"
+
+cheat647_desc = "加技能的点数999人物24"
+cheat647_handler = "0"
+cheat647_code = "801E14A0#03E7"
+
+cheat648_desc = "加技能的点数999人物25"
+cheat648_handler = "0"
+cheat648_code = "801E158C#03E7"
+
+cheat649_desc = "主角A1First Aid"
+cheat649_handler = "0"
+cheat649_code = "301DFF32#0001"
+
+cheat650_desc = "主角A1Auto Item"
+cheat650_handler = "0"
+cheat650_code = "301DFF32#0002"
+
+cheat651_desc = "主角A1Throw"
+cheat651_handler = "0"
+cheat651_code = "301DFF32#0003"
+
+cheat652_desc = "主角A1Cure Condition"
+cheat652_handler = "0"
+cheat652_code = "301DFF32#0004"
+
+cheat653_desc = "主角A1Guts"
+cheat653_handler = "0"
+cheat653_code = "301DFF32#0005"
+
+cheat654_desc = "主角A1Adpet Illusion"
+cheat654_handler = "0"
+cheat654_code = "301DFF32#0006"
+
+cheat655_desc = "主角A1Dancing Sword"
+cheat655_handler = "0"
+cheat655_code = "301DFF32#0007"
+
+cheat656_desc = "主角A1Last Trial"
+cheat656_handler = "0"
+cheat656_code = "301DFF32#0008"
+
+cheat657_desc = "主角A1Splash"
+cheat657_handler = "0"
+cheat657_code = "301DFF32#0009"
+
+cheat658_desc = "主角A1Concentration"
+cheat658_handler = "0"
+cheat658_code = "301DFF32#0010"
+
+cheat659_desc = "主角A1Reverie"
+cheat659_handler = "0"
+cheat659_code = "301DFF32#000a"
+
+cheat660_desc = "主角A1Combo Counter"
+cheat660_handler = "0"
+cheat660_code = "301DFF32#000b"
+
+cheat661_desc = "主角A1Noise Arrow"
+cheat661_handler = "0"
+cheat661_code = "301DFF32#000c"
+
+cheat662_desc = "主角A1Triple Distress"
+cheat662_handler = "0"
+cheat662_code = "301DFF32#000d"
+
+cheat663_desc = "主角A1Steal Magic"
+cheat663_handler = "0"
+cheat663_code = "301DFF32#000e"
+
+cheat664_desc = "主角A1Stun Magic"
+cheat664_handler = "0"
+cheat664_code = "301DFF32#000f"
+
+cheat665_desc = "主角A1Concentration"
+cheat665_handler = "0"
+cheat665_code = "301DFF32#0010"
+
+cheat666_desc = "主角A1Scarlet Edge"
+cheat666_handler = "0"
+cheat666_code = "301DFF32#0011"
+
+cheat667_desc = "主角A1Charge"
+cheat667_handler = "0"
+cheat667_code = "301DFF32#0012"
+
+cheat668_desc = "主角A1Strike Edge"
+cheat668_handler = "0"
+cheat668_code = "301DFF32#0013"
+
+cheat669_desc = "主角A1Dark"
+cheat669_handler = "0"
+cheat669_code = "301DFF32#0014"
+
+cheat670_desc = "主角A1Trick Step"
+cheat670_handler = "0"
+cheat670_code = "301DFF32#0015"
+
+cheat671_desc = "主角A1Mental Reaction"
+cheat671_handler = "0"
+cheat671_code = "301DFF32#0016"
+
+cheat672_desc = "主角A1Wait Reaction"
+cheat672_handler = "0"
+cheat672_code = "301DFF32#0017"
+
+cheat673_desc = "主角A1Slanting Rain"
+cheat673_handler = "0"
+cheat673_code = "301DFF32#0018"
+
+cheat674_desc = "主角A1Darkness Arrow"
+cheat674_handler = "0"
+cheat674_code = "301DFF32#0019"
+
+cheat675_desc = "主角A1False Arrow"
+cheat675_handler = "0"
+cheat675_code = "301DFF32#001a"
+
+cheat676_desc = "主角A2First Aid"
+cheat676_handler = "0"
+cheat676_code = "301DFF33#0001"
+
+cheat677_desc = "主角A2Auto Item"
+cheat677_handler = "0"
+cheat677_code = "301DFF33#0002"
+
+cheat678_desc = "主角A2Throw"
+cheat678_handler = "0"
+cheat678_code = "301DFF33#0003"
+
+cheat679_desc = "主角A2Cure Condition"
+cheat679_handler = "0"
+cheat679_code = "301DFF33#0004"
+
+cheat680_desc = "主角A2Guts"
+cheat680_handler = "0"
+cheat680_code = "301DFF33#0005"
+
+cheat681_desc = "主角A2Adpet Illusion"
+cheat681_handler = "0"
+cheat681_code = "301DFF33#0006"
+
+cheat682_desc = "主角A2Dancing Sword"
+cheat682_handler = "0"
+cheat682_code = "301DFF33#0007"
+
+cheat683_desc = "主角A2Last Trial"
+cheat683_handler = "0"
+cheat683_code = "301DFF33#0008"
+
+cheat684_desc = "主角A2Splash"
+cheat684_handler = "0"
+cheat684_code = "301DFF33#0009"
+
+cheat685_desc = "主角A2Concentration"
+cheat685_handler = "0"
+cheat685_code = "301DFF33#0010"
+
+cheat686_desc = "主角A2Reverie"
+cheat686_handler = "0"
+cheat686_code = "301DFF33#000a"
+
+cheat687_desc = "主角A2Combo Counter"
+cheat687_handler = "0"
+cheat687_code = "301DFF33#000b"
+
+cheat688_desc = "主角A2Noise Arrow"
+cheat688_handler = "0"
+cheat688_code = "301DFF33#000c"
+
+cheat689_desc = "主角A2Triple Distress"
+cheat689_handler = "0"
+cheat689_code = "301DFF33#000d"
+
+cheat690_desc = "主角A2Steal Magic"
+cheat690_handler = "0"
+cheat690_code = "301DFF33#000e"
+
+cheat691_desc = "主角A2Stun Magic"
+cheat691_handler = "0"
+cheat691_code = "301DFF33#000f"
+
+cheat692_desc = "主角A2Concentration"
+cheat692_handler = "0"
+cheat692_code = "301DFF33#0010"
+
+cheat693_desc = "主角A2Scarlet Edge"
+cheat693_handler = "0"
+cheat693_code = "301DFF33#0011"
+
+cheat694_desc = "主角A2Charge"
+cheat694_handler = "0"
+cheat694_code = "301DFF33#0012"
+
+cheat695_desc = "主角A2Strike Edge"
+cheat695_handler = "0"
+cheat695_code = "301DFF33#0013"
+
+cheat696_desc = "主角A2Dark"
+cheat696_handler = "0"
+cheat696_code = "301DFF33#0014"
+
+cheat697_desc = "主角A2Trick Step"
+cheat697_handler = "0"
+cheat697_code = "301DFF33#0015"
+
+cheat698_desc = "主角A2Mental Reaction"
+cheat698_handler = "0"
+cheat698_code = "301DFF33#0016"
+
+cheat699_desc = "主角A2Wait Reaction"
+cheat699_handler = "0"
+cheat699_code = "301DFF33#0017"
+
+cheat700_desc = "主角A2Slanting Rain"
+cheat700_handler = "0"
+cheat700_code = "301DFF33#0018"
+
+cheat701_desc = "主角A2Darkness Arrow"
+cheat701_handler = "0"
+cheat701_code = "301DFF33#0019"
+
+cheat702_desc = "主角A2False Arrow"
+cheat702_handler = "0"
+cheat702_code = "301DFF33#001a"
+
+cheat703_desc = "主角BFirst Aid"
+cheat703_handler = "0"
+cheat703_code = "301DFF34#0001"
+
+cheat704_desc = "主角BAuto Item"
+cheat704_handler = "0"
+cheat704_code = "301DFF34#0002"
+
+cheat705_desc = "主角BThrow"
+cheat705_handler = "0"
+cheat705_code = "301DFF34#0003"
+
+cheat706_desc = "主角BCure Condition"
+cheat706_handler = "0"
+cheat706_code = "301DFF34#0004"
+
+cheat707_desc = "主角BGuts"
+cheat707_handler = "0"
+cheat707_code = "301DFF34#0005"
+
+cheat708_desc = "主角BAdpet Illusion"
+cheat708_handler = "0"
+cheat708_code = "301DFF34#0006"
+
+cheat709_desc = "主角BDancing Sword"
+cheat709_handler = "0"
+cheat709_code = "301DFF34#0007"
+
+cheat710_desc = "主角BLast Trial"
+cheat710_handler = "0"
+cheat710_code = "301DFF34#0008"
+
+cheat711_desc = "主角BSplash"
+cheat711_handler = "0"
+cheat711_code = "301DFF34#0009"
+
+cheat712_desc = "主角BConcentration"
+cheat712_handler = "0"
+cheat712_code = "301DFF34#0010"
+
+cheat713_desc = "主角BReverie"
+cheat713_handler = "0"
+cheat713_code = "301DFF34#000a"
+
+cheat714_desc = "主角BCombo Counter"
+cheat714_handler = "0"
+cheat714_code = "301DFF34#000b"
+
+cheat715_desc = "主角BNoise Arrow"
+cheat715_handler = "0"
+cheat715_code = "301DFF34#000c"
+
+cheat716_desc = "主角BTriple Distress"
+cheat716_handler = "0"
+cheat716_code = "301DFF34#000d"
+
+cheat717_desc = "主角BSteal Magic"
+cheat717_handler = "0"
+cheat717_code = "301DFF34#000e"
+
+cheat718_desc = "主角BStun Magic"
+cheat718_handler = "0"
+cheat718_code = "301DFF34#000f"
+
+cheat719_desc = "主角BConcentration"
+cheat719_handler = "0"
+cheat719_code = "301DFF34#0010"
+
+cheat720_desc = "主角BScarlet Edge"
+cheat720_handler = "0"
+cheat720_code = "301DFF34#0011"
+
+cheat721_desc = "主角BCharge"
+cheat721_handler = "0"
+cheat721_code = "301DFF34#0012"
+
+cheat722_desc = "主角BStrike Edge"
+cheat722_handler = "0"
+cheat722_code = "301DFF34#0013"
+
+cheat723_desc = "主角BDark"
+cheat723_handler = "0"
+cheat723_code = "301DFF34#0014"
+
+cheat724_desc = "主角BTrick Step"
+cheat724_handler = "0"
+cheat724_code = "301DFF34#0015"
+
+cheat725_desc = "主角BMental Reaction"
+cheat725_handler = "0"
+cheat725_code = "301DFF34#0016"
+
+cheat726_desc = "主角BWait Reaction"
+cheat726_handler = "0"
+cheat726_code = "301DFF34#0017"
+
+cheat727_desc = "主角BSlanting Rain"
+cheat727_handler = "0"
+cheat727_code = "301DFF34#0018"
+
+cheat728_desc = "主角BDarkness Arrow"
+cheat728_handler = "0"
+cheat728_code = "301DFF34#0019"
+
+cheat729_desc = "主角BFalse Arrow"
+cheat729_handler = "0"
+cheat729_code = "301DFF34#001a"
+
+cheat730_desc = "主角CFirst Aid"
+cheat730_handler = "0"
+cheat730_code = "301DFF35#0001"
+
+cheat731_desc = "主角CAuto Item"
+cheat731_handler = "0"
+cheat731_code = "301DFF35#0002"
+
+cheat732_desc = "主角CThrow"
+cheat732_handler = "0"
+cheat732_code = "301DFF35#0003"
+
+cheat733_desc = "主角CCure Condition"
+cheat733_handler = "0"
+cheat733_code = "301DFF35#0004"
+
+cheat734_desc = "主角CGuts"
+cheat734_handler = "0"
+cheat734_code = "301DFF35#0005"
+
+cheat735_desc = "主角CAdpet Illusion"
+cheat735_handler = "0"
+cheat735_code = "301DFF35#0006"
+
+cheat736_desc = "主角CDancing Sword"
+cheat736_handler = "0"
+cheat736_code = "301DFF35#0007"
+
+cheat737_desc = "主角CLast Trial"
+cheat737_handler = "0"
+cheat737_code = "301DFF35#0008"
+
+cheat738_desc = "主角CSplash"
+cheat738_handler = "0"
+cheat738_code = "301DFF35#0009"
+
+cheat739_desc = "主角CConcentration"
+cheat739_handler = "0"
+cheat739_code = "301DFF35#0010"
+
+cheat740_desc = "主角CReverie"
+cheat740_handler = "0"
+cheat740_code = "301DFF35#000a"
+
+cheat741_desc = "主角CCombo Counter"
+cheat741_handler = "0"
+cheat741_code = "301DFF35#000b"
+
+cheat742_desc = "主角CNoise Arrow"
+cheat742_handler = "0"
+cheat742_code = "301DFF35#000c"
+
+cheat743_desc = "主角CTriple Distress"
+cheat743_handler = "0"
+cheat743_code = "301DFF35#000d"
+
+cheat744_desc = "主角CSteal Magic"
+cheat744_handler = "0"
+cheat744_code = "301DFF35#000e"
+
+cheat745_desc = "主角CStun Magic"
+cheat745_handler = "0"
+cheat745_code = "301DFF35#000f"
+
+cheat746_desc = "主角CConcentration"
+cheat746_handler = "0"
+cheat746_code = "301DFF35#0010"
+
+cheat747_desc = "主角CScarlet Edge"
+cheat747_handler = "0"
+cheat747_code = "301DFF35#0011"
+
+cheat748_desc = "主角CCharge"
+cheat748_handler = "0"
+cheat748_code = "301DFF35#0012"
+
+cheat749_desc = "主角CStrike Edge"
+cheat749_handler = "0"
+cheat749_code = "301DFF35#0013"
+
+cheat750_desc = "主角CDark"
+cheat750_handler = "0"
+cheat750_code = "301DFF35#0014"
+
+cheat751_desc = "主角CTrick Step"
+cheat751_handler = "0"
+cheat751_code = "301DFF35#0015"
+
+cheat752_desc = "主角CMental Reaction"
+cheat752_handler = "0"
+cheat752_code = "301DFF35#0016"
+
+cheat753_desc = "主角CWait Reaction"
+cheat753_handler = "0"
+cheat753_code = "301DFF35#0017"
+
+cheat754_desc = "主角CSlanting Rain"
+cheat754_handler = "0"
+cheat754_code = "301DFF35#0018"
+
+cheat755_desc = "主角CDarkness Arrow"
+cheat755_handler = "0"
+cheat755_code = "301DFF35#0019"
+
+cheat756_desc = "主角CFalse Arrow"
+cheat756_handler = "0"
+cheat756_code = "301DFF35#001a"
+
+cheat757_desc = "战斗中武器不损坏"
+cheat757_handler = "0"
+cheat757_code = "D005AF94#002B,8005AF96#1000"
+
+cheat758_desc = "攻撃のダメージを安定させる"
+cheat758_handler = "0"
+cheat758_code = "D003ADCC#05B8,8003ADCE#3004"
+
+cheat759_desc = "DEBUGDISC1"
+cheat759_handler = "0"
+cheat759_code = "D003F5BE#2402,8003F5BC#0000;D003F5C6#2402,8003F5C4#0001"
+
+cheat760_desc = "DEBUGDISC2"
+cheat760_handler = "0"
+cheat760_code = "D003F5BE#2402,8003F5BC#0000;D003F5C6#2402,8003F5C4#0002"
+
+cheat761_desc = "MP全满"
+cheat761_handler = "0"
+cheat761_code = "801F5F80#423F;801F5F82#000F"
+
+cheat762_desc = "CP全满"
+cheat762_handler = "0"
+cheat762_code = "B01900EC#00000000,801DFF6C#03E7"
+
+cheat763_desc = "评价值100"
+cheat763_handler = "0"
+cheat763_code = "801F6264#0064"
+
+cheat764_desc = "CT=0"
+cheat764_handler = "0"
+cheat764_code = "D0066B32#A4A2,80066B32#A4A0"
+
+cheat765_desc = "全SKILL"
+cheat765_handler = "0"
+cheat765_code = "301E62C5#00FF；801E62C6#FFFF；801E62C8#FFFF；301E62CA#00FF"
+
+cheat766_desc = "物品エリクサー"
+cheat766_handler = "0"
+cheat766_code = "801F62A2#01bb;3001f676a#000a"
+
+cheat767_desc = "物品バニッシュ"
+cheat767_handler = "0"
+cheat767_code = "801F62A2#0002;3001f676a#000a"
+
+cheat768_desc = "物品ユニオン.プラム"
+cheat768_handler = "0"
+cheat768_code = "801F62A2#0003;3001f676a#000a"
+
+cheat769_desc = "物品プライム.エリクサー"
+cheat769_handler = "0"
+cheat769_code = "801F62A2#0004;3001f676a#000a"
+
+cheat770_desc = "物品プライム.バニッシュ"
+cheat770_handler = "0"
+cheat770_code = "801F62A2#0005;3001f676a#000a"
+
+cheat771_desc = "物品ノーブル.エリクサー"
+cheat771_handler = "0"
+cheat771_code = "801F62A2#0006;3001f676a#000a"
+
+cheat772_desc = "物品ノーブル.バニッシュ"
+cheat772_handler = "0"
+cheat772_code = "801F62A2#0007;3001f676a#000a"
+
+cheat773_desc = "物品スペクタクルズ"
+cheat773_handler = "0"
+cheat773_code = "801F62A2#0008;3001f676a#000a"
+
+cheat774_desc = "物品配列変換の宝珠"
+cheat774_handler = "0"
+cheat774_code = "801F62A2#0009;3001f676a#000a"
+
+cheat775_desc = "物品上級配列変換の宝珠"
+cheat775_handler = "0"
+cheat775_code = "801F62A2#000A;3001f676a#000a"
+
+cheat776_desc = "物品マイト.ポーション"
+cheat776_handler = "0"
+cheat776_code = "801F62A2#0012;3001f676a#000a"
+
+cheat777_desc = "物品リキュール.ポーション"
+cheat777_handler = "0"
+cheat777_code = "801F62A2#0013;3001f676a#000a"
+
+cheat778_desc = "物品セキュア.ポーション"
+cheat778_handler = "0"
+cheat778_code = "801F62A2#0014;3001f676a#000a"
+
+cheat779_desc = "物品ルシッド.ポーション"
+cheat779_handler = "0"
+cheat779_code = "801F62A2#0015;3001f676a#000a"
+
+cheat780_desc = "物品チャージ.ブレイク"
+cheat780_handler = "0"
+cheat780_code = "801F62A2#001F;3001f676a#000a"
+
+cheat781_desc = "物品コンボ.ポーション"
+cheat781_handler = "0"
+cheat781_code = "801F62A2#0020;3001f676a#000a"
+
+cheat782_desc = "物品エンジェル.キュリオ"
+cheat782_handler = "0"
+cheat782_code = "801F62A2#0021;3001f676a#000a"
+
+cheat783_desc = "物品プロテクト.チャーム"
+cheat783_handler = "0"
+cheat783_code = "801F62A2#0022;3001f676a#000a"
+
+cheat784_desc = "物品マジック.チャーム"
+cheat784_handler = "0"
+cheat784_code = "801F62A2#0023;3001f676a#000a"
+
+cheat785_desc = "物品レジスト.チャーム"
+cheat785_handler = "0"
+cheat785_code = "801F62A2#0024;3001f676a#000a"
+
+cheat786_desc = "物品スローイング.ダガー"
+cheat786_handler = "0"
+cheat786_code = "801F62A2#0028;3001f676a#000a"
+
+cheat787_desc = "物品シルバー.ダガー"
+cheat787_handler = "0"
+cheat787_code = "801F62A2#002A;3001f676a#000a"
+
+cheat788_desc = "物品クロス.ダガー"
+cheat788_handler = "0"
+cheat788_code = "801F62A2#002C;3001f676a#000a"
+
+cheat789_desc = "物品フェアリィ.ピアス"
+cheat789_handler = "0"
+cheat789_code = "801F62A2#002D;3001f676a#000a"
+
+cheat790_desc = "物品フェアリィ.リング"
+cheat790_handler = "0"
+cheat790_code = "801F62A2#002E;3001f676a#000a"
+
+cheat791_desc = "物品パワー.バングル"
+cheat791_handler = "0"
+cheat791_code = "801F62A2#002F;3001f676a#000a"
+
+cheat792_desc = "物品マジック.バングル"
+cheat792_handler = "0"
+cheat792_code = "801F62A2#0030;3001f676a#000a"
+
+cheat793_desc = "物品プロテクト.ジュエル"
+cheat793_handler = "0"
+cheat793_code = "801F62A2#0031;3001f676a#000a"
+
+cheat794_desc = "物品レジスト.ジュエル"
+cheat794_handler = "0"
+cheat794_code = "801F62A2#0032;3001f676a#000a"
+
+cheat795_desc = "物品コンボ.ジュエル"
+cheat795_handler = "0"
+cheat795_code = "801F62A2#0033;3001f676a#000a"
+
+cheat796_desc = "物品マテリアル.ピアス"
+cheat796_handler = "0"
+cheat796_code = "801F62A2#0034;3001f676a#000a"
+
+cheat797_desc = "物品マテリアル.ジェム"
+cheat797_handler = "0"
+cheat797_code = "801F62A2#0035;3001f676a#000a"
+
+cheat798_desc = "物品マジック.ミスト"
+cheat798_handler = "0"
+cheat798_code = "801F62A2#0036;3001f676a#000a"
+
+cheat799_desc = "物品ポイズン.チェック"
+cheat799_handler = "0"
+cheat799_code = "801F62A2#0037;3001f676a#000a"
+
+cheat800_desc = "物品パラライ.チェック"
+cheat800_handler = "0"
+cheat800_code = "801F62A2#0038;3001f676a#000a"
+
+cheat801_desc = "物品ストーン.チェック"
+cheat801_handler = "0"
+cheat801_code = "801F62A2#0039;3001f676a#000a"
+
+cheat802_desc = "物品フリーズ.チェック"
+cheat802_handler = "0"
+cheat802_code = "801F62A2#003A;3001f676a#000a"
+
+cheat803_desc = "物品カース.チェック"
+cheat803_handler = "0"
+cheat803_code = "801F62A2#003B;3001f676a#000a"
+
+cheat804_desc = "物品スタン.チェック"
+cheat804_handler = "0"
+cheat804_code = "801F62A2#003C;3001f676a#000a"
+
+cheat805_desc = "物品マイティ.チェック"
+cheat805_handler = "0"
+cheat805_code = "801F62A2#003D;3001f676a#000a"
+
+cheat806_desc = "物品セラフィ.シンボル"
+cheat806_handler = "0"
+cheat806_code = "801F62A2#003E;3001f676a#000a"
+
+cheat807_desc = "物品アントラー.ソード"
+cheat807_handler = "0"
+cheat807_code = "801F62A2#0049;3001f676a#000a"
+
+cheat808_desc = "物品ヴィーキング.ソード"
+cheat808_handler = "0"
+cheat808_code = "801F62A2#004A;3001f676a#000a"
+
+cheat809_desc = "物品ワルーン.ソード"
+cheat809_handler = "0"
+cheat809_code = "801F62A2#004B;3001f676a#000a"
+
+cheat810_desc = "物品クリシュマルド"
+cheat810_handler = "0"
+cheat810_code = "801F62A2#004C;3001f676a#000a"
+
+cheat811_desc = "物品シンクレアー.サーベル"
+cheat811_handler = "0"
+cheat811_code = "801F62A2#004D;3001f676a#000a"
+
+cheat812_desc = "物品パラッシュ"
+cheat812_handler = "0"
+cheat812_code = "801F62A2#004E;3001f676a#000a"
+
+cheat813_desc = "物品レイテル.パラッシュ"
+cheat813_handler = "0"
+cheat813_code = "801F62A2#004F;3001f676a#000a"
+
+cheat814_desc = "物品シュヴァイツァー.ソード"
+cheat814_handler = "0"
+cheat814_code = "801F62A2#0050;3001f676a#000a"
+
+cheat815_desc = "物品倭刀"
+cheat815_handler = "0"
+cheat815_code = "801F62A2#0051;3001f676a#000a"
+
+cheat816_desc = "物品太刀"
+cheat816_handler = "0"
+cheat816_code = "801F62A2#0052;3001f676a#000a"
+
+cheat817_desc = "物品七支刀"
+cheat817_handler = "0"
+cheat817_code = "801F62A2#0053;3001f676a#000a"
+
+cheat818_desc = "物品野太刀"
+cheat818_handler = "0"
+cheat818_code = "801F62A2#0054;3001f676a#000a"
+
+cheat819_desc = "物品肢閃刀"
+cheat819_handler = "0"
+cheat819_code = "801F62A2#0055;3001f676a#000a"
+
+cheat820_desc = "物品金剛刀"
+cheat820_handler = "0"
+cheat820_code = "801F62A2#0056;3001f676a#000a"
+
+cheat821_desc = "物品正宗"
+cheat821_handler = "0"
+cheat821_code = "801F62A2#0057;3001f676a#000a"
+
+cheat822_desc = "物品村正"
+cheat822_handler = "0"
+cheat822_code = "801F62A2#0058;3001f676a#000a"
+
+cheat823_desc = "物品トゥハンデッド.ソード"
+cheat823_handler = "0"
+cheat823_code = "801F62A2#0059;3001f676a#000a"
+
+cheat824_desc = "物品ハック.ブレード"
+cheat824_handler = "0"
+cheat824_code = "801F62A2#005A;3001f676a#000a"
+
+cheat825_desc = "物品ツヴァイハンダー"
+cheat825_handler = "0"
+cheat825_code = "801F62A2#005B;3001f676a#000a"
+
+cheat826_desc = "物品ストライキング.ソード"
+cheat826_handler = "0"
+cheat826_code = "801F62A2#005C;3001f676a#000a"
+
+cheat827_desc = "物品クレイモアー"
+cheat827_handler = "0"
+cheat827_code = "801F62A2#005D;3001f676a#000a"
+
+cheat828_desc = "物品フランヴェルジュ"
+cheat828_handler = "0"
+cheat828_code = "801F62A2#005E;3001f676a#000a"
+
+cheat829_desc = "物品ブランディッシュ.ソード"
+cheat829_handler = "0"
+cheat829_code = "801F62A2#005F;3001f676a#000a"
+
+cheat830_desc = "物品ブルーティッシュ.エッジ"
+cheat830_handler = "0"
+cheat830_code = "801F62A2#0060;3001f676a#000a"
+
+cheat831_desc = "物品アウル.パイク"
+cheat831_handler = "0"
+cheat831_code = "801F62A2#0061;3001f676a#000a"
+
+cheat832_desc = "物品ウィングド.スピア"
+cheat832_handler = "0"
+cheat832_code = "801F62A2#0062;3001f676a#000a"
+
+cheat833_desc = "物品ボーディング.パイク"
+cheat833_handler = "0"
+cheat833_code = "801F62A2#0063;3001f676a#000a"
+
+cheat834_desc = "物品コルセスカ"
+cheat834_handler = "0"
+cheat834_code = "801F62A2#0064;3001f676a#000a"
+
+cheat835_desc = "物品ハルヴァード"
+cheat835_handler = "0"
+cheat835_code = "801F62A2#0065;3001f676a#000a"
+
+cheat836_desc = "物品ポール.アクス"
+cheat836_handler = "0"
+cheat836_code = "801F62A2#0066;3001f676a#000a"
+
+cheat837_desc = "物品アルシェピース"
+cheat837_handler = "0"
+cheat837_code = "801F62A2#0067;3001f676a#000a"
+
+cheat838_desc = "物品サーベル.ハルヴァード"
+cheat838_handler = "0"
+cheat838_code = "801F62A2#0068;3001f676a#000a"
+
+cheat839_desc = "物品クロス.ボウ"
+cheat839_handler = "0"
+cheat839_code = "801F62A2#0071;3001f676a#000a"
+
+cheat840_desc = "物品ボルト.クロスボウ"
+cheat840_handler = "0"
+cheat840_code = "801F62A2#0072;3001f676a#000a"
+
+cheat841_desc = "物品ラピッド.クロスボウ"
+cheat841_handler = "0"
+cheat841_code = "801F62A2#0073;3001f676a#000a"
+
+cheat842_desc = "物品ウィンドラス.クロスボウ"
+cheat842_handler = "0"
+cheat842_code = "801F62A2#0074;3001f676a#000a"
+
+cheat843_desc = "物品ファイア.クロスボウ"
+cheat843_handler = "0"
+cheat843_code = "801F62A2#0075;3001f676a#000a"
+
+cheat844_desc = "物品アルヴァレスタ"
+cheat844_handler = "0"
+cheat844_code = "801F62A2#0076;3001f676a#000a"
+
+cheat845_desc = "物品セルスタイン.ロックガン"
+cheat845_handler = "0"
+cheat845_code = "801F62A2#0077;3001f676a#000a"
+
+cheat846_desc = "物品ボルト.アクーアル"
+cheat846_handler = "0"
+cheat846_code = "801F62A2#0078;3001f676a#000a"
+
+cheat847_desc = "物品ルビー.メイス"
+cheat847_handler = "0"
+cheat847_code = "801F62A2#0081;3001f676a#000a"
+
+cheat848_desc = "物品フォーミュラ.ワンド"
+cheat848_handler = "0"
+cheat848_code = "801F62A2#0082;3001f676a#000a"
+
+cheat849_desc = "物品クリスタル.ワンド"
+cheat849_handler = "0"
+cheat849_code = "801F62A2#0083;3001f676a#000a"
+
+cheat850_desc = "物品シルバー.メイス"
+cheat850_handler = "0"
+cheat850_code = "801F62A2#0084;3001f676a#000a"
+
+cheat851_desc = "物品アルケミー.ワンド"
+cheat851_handler = "0"
+cheat851_code = "801F62A2#0085;3001f676a#000a"
+
+cheat852_desc = "物品ウォーシップ.メイス"
+cheat852_handler = "0"
+cheat852_code = "801F62A2#0086;3001f676a#000a"
+
+cheat853_desc = "物品デルージュ.セプター"
+cheat853_handler = "0"
+cheat853_code = "801F62A2#0087;3001f676a#000a"
+
+cheat854_desc = "物品シャイニング.セプター"
+cheat854_handler = "0"
+cheat854_code = "801F62A2#0088;3001f676a#000a"
+
+cheat855_desc = "物品ライトニング.エッジ"
+cheat855_handler = "0"
+cheat855_code = "801F62A2#0089;3001f676a#000a"
+
+cheat856_desc = "物品レディアンス.ソード"
+cheat856_handler = "0"
+cheat856_code = "801F62A2#008A;3001f676a#000a"
+
+cheat857_desc = "物品アイス.コフィン"
+cheat857_handler = "0"
+cheat857_code = "801F62A2#008B;3001f676a#000a"
+
+cheat858_desc = "物品スカーレット.フォージ"
+cheat858_handler = "0"
+cheat858_code = "801F62A2#008C;3001f676a#000a"
+
+cheat859_desc = "物品轟招来の剣"
+cheat859_handler = "0"
+cheat859_code = "801F62A2#008D;3001f676a#000a"
+
+cheat860_desc = "物品天駆鳳の剣"
+cheat860_handler = "0"
+cheat860_code = "801F62A2#008E;3001f676a#000a"
+
+cheat861_desc = "物品天叢雲の剣"
+cheat861_handler = "0"
+cheat861_code = "801F62A2#008F;3001f676a#000a"
+
+cheat862_desc = "物品夜叉鬼の剣"
+cheat862_handler = "0"
+cheat862_code = "801F62A2#0090;3001f676a#000a"
+
+cheat863_desc = "物品エレメンタル.エッジ"
+cheat863_handler = "0"
+cheat863_code = "801F62A2#0091;3001f676a#000a"
+
+cheat864_desc = "物品イグニート.ソード"
+cheat864_handler = "0"
+cheat864_code = "801F62A2#0092;3001f676a#000a"
+
+cheat865_desc = "物品バハムート.ティア"
+cheat865_handler = "0"
+cheat865_code = "801F62A2#0093;3001f676a#000a"
+
+cheat866_desc = "物品ヴァイオレット.フォージ"
+cheat866_handler = "0"
+cheat866_code = "801F62A2#0094;3001f676a#000a"
+
+cheat867_desc = "物品スピニング.スピア"
+cheat867_handler = "0"
+cheat867_code = "801F62A2#0095;3001f676a#000a"
+
+cheat868_desc = "物品ハート.ピアース"
+cheat868_handler = "0"
+cheat868_code = "801F62A2#0096;3001f676a#000a"
+
+cheat869_desc = "物品アーク.ウィンド"
+cheat869_handler = "0"
+cheat869_code = "801F62A2#0097;3001f676a#000a"
+
+cheat870_desc = "物品セント.ハルバード"
+cheat870_handler = "0"
+cheat870_code = "801F62A2#0098;3001f676a#000a"
+
+cheat871_desc = "物品スプリーム.クロスボウ"
+cheat871_handler = "0"
+cheat871_code = "801F62A2#009D;3001f676a#000a"
+
+cheat872_desc = "物品クレセント.アロー"
+cheat872_handler = "0"
+cheat872_code = "801F62A2#009E;3001f676a#000a"
+
+cheat873_desc = "物品ラスト.アヴェンジャー"
+cheat873_handler = "0"
+cheat873_code = "801F62A2#009F;3001f676a#000a"
+
+cheat874_desc = "物品シャイニィ.ラプチャー"
+cheat874_handler = "0"
+cheat874_code = "801F62A2#00A0;3001f676a#000a"
+
+cheat875_desc = "物品ホーリィ.プレアー"
+cheat875_handler = "0"
+cheat875_code = "801F62A2#00A5;3001f676a#000a"
+
+cheat876_desc = "物品アクセプター.ロッド"
+cheat876_handler = "0"
+cheat876_code = "801F62A2#00A6;3001f676a#000a"
+
+cheat877_desc = "物品ノーブル.ディザイア"
+cheat877_handler = "0"
+cheat877_code = "801F62A2#00A7;3001f676a#000a"
+
+cheat878_desc = "物品アプソリュート.フォース"
+cheat878_handler = "0"
+cheat878_code = "801F62A2#00A8;3001f676a#000a"
+
+cheat879_desc = "物品サレット"
+cheat879_handler = "0"
+cheat879_code = "801F62A2#00AA;3001f676a#000a"
+
+cheat880_desc = "物品シルバー.サレット"
+cheat880_handler = "0"
+cheat880_code = "801F62A2#00AB;3001f676a#000a"
+
+cheat881_desc = "物品デュエル.ヘルム"
+cheat881_handler = "0"
+cheat881_code = "801F62A2#00AC;3001f676a#000a"
+
+cheat882_desc = "物品ヴァロー.ヘルム"
+cheat882_handler = "0"
+cheat882_code = "801F62A2#00AD;3001f676a#000a"
+
+cheat883_desc = "物品ヴァリアント.ヘルム"
+cheat883_handler = "0"
+cheat883_code = "801F62A2#00AE;3001f676a#000a"
+
+cheat884_desc = "物品ティアラ"
+cheat884_handler = "0"
+cheat884_code = "801F62A2#00AF;3001f676a#000a"
+
+cheat885_desc = "物品シルバー.ティアラ"
+cheat885_handler = "0"
+cheat885_code = "801F62A2#00B0;3001f676a#000a"
+
+cheat886_desc = "物品アノイント.ティアラ"
+cheat886_handler = "0"
+cheat886_code = "801F62A2#00B1;3001f676a#000a"
+
+cheat887_desc = "物品アノイント.ガーランド"
+cheat887_handler = "0"
+cheat887_code = "801F62A2#00B2;3001f676a#000a"
+
+cheat888_desc = "物品スプリーム.ガーランド"
+cheat888_handler = "0"
+cheat888_code = "801F62A2#00B3;3001f676a#000a"
+
+cheat889_desc = "物品キュイラス"
+cheat889_handler = "0"
+cheat889_code = "801F62A2#00B4;3001f676a#000a"
+
+cheat890_desc = "物品シルバー.キュイラス"
+cheat890_handler = "0"
+cheat890_code = "801F62A2#00B5;3001f676a#000a"
+
+cheat891_desc = "物品デュエル.アーマー"
+cheat891_handler = "0"
+cheat891_code = "801F62A2#00B6;3001f676a#000a"
+
+cheat892_desc = "物品ヴァロー.アーマー"
+cheat892_handler = "0"
+cheat892_code = "801F62A2#00B7;3001f676a#000a"
+
+cheat893_desc = "物品ヴァリアント.アーマー"
+cheat893_handler = "0"
+cheat893_code = "801F62A2#00B8;3001f676a#000a"
+
+cheat894_desc = "物品クローク"
+cheat894_handler = "0"
+cheat894_code = "801F62A2#00B9;3001f676a#000a"
+
+cheat895_desc = "物品シルバー.クローク"
+cheat895_handler = "0"
+cheat895_code = "801F62A2#00BA;3001f676a#000a"
+
+cheat896_desc = "物品アノイント.クローク"
+cheat896_handler = "0"
+cheat896_code = "801F62A2#00BB;3001f676a#000a"
+
+cheat897_desc = "物品アノイント.ガーブ"
+cheat897_handler = "0"
+cheat897_code = "801F62A2#00BC;3001f676a#000a"
+
+cheat898_desc = "物品スプリーム.ガーブ"
+cheat898_handler = "0"
+cheat898_code = "801F62A2#00BD;3001f676a#000a"
+
+cheat899_desc = "物品ガントレット"
+cheat899_handler = "0"
+cheat899_code = "801F62A2#00BE;3001f676a#000a"
+
+cheat900_desc = "物品シルバー.ガントレット"
+cheat900_handler = "0"
+cheat900_code = "801F62A2#00BF;3001f676a#000a"
+
+cheat901_desc = "物品デュエル.ガーダー"
+cheat901_handler = "0"
+cheat901_code = "801F62A2#00C0;3001f676a#000a"
+
+cheat902_desc = "物品ヴァロー.ガントレット"
+cheat902_handler = "0"
+cheat902_code = "801F62A2#00C1;3001f676a#000a"
+
+cheat903_desc = "物品ヴァリアント.ガーダー"
+cheat903_handler = "0"
+cheat903_code = "801F62A2#00C2;3001f676a#000a"
+
+cheat904_desc = "物品グリーブ"
+cheat904_handler = "0"
+cheat904_code = "801F62A2#00C3;3001f676a#000a"
+
+cheat905_desc = "物品シルバー.グリーブ"
+cheat905_handler = "0"
+cheat905_code = "801F62A2#00C4;3001f676a#000a"
+
+cheat906_desc = "物品デュエル.グリーブ"
+cheat906_handler = "0"
+cheat906_code = "801F62A2#00C5;3001f676a#000a"
+
+cheat907_desc = "物品ヴァロー.グリーブ"
+cheat907_handler = "0"
+cheat907_code = "801F62A2#00C6;3001f676a#000a"
+
+cheat908_desc = "物品ヴァリアント.グリーブ"
+cheat908_handler = "0"
+cheat908_code = "801F62A2#00C7;3001f676a#000a"
+
+cheat909_desc = "物品レザー.ブーツ"
+cheat909_handler = "0"
+cheat909_code = "801F62A2#00CB;3001f676a#000a"
+
+cheat910_desc = "物品スエード.ブーツ"
+cheat910_handler = "0"
+cheat910_code = "801F62A2#00CC;3001f676a#000a"
+
+cheat911_desc = "物品エルヴン.ブーツ"
+cheat911_handler = "0"
+cheat911_code = "801F62A2#00CD;3001f676a#000a"
+
+cheat912_desc = "物品カルラの真珠"
+cheat912_handler = "0"
+cheat912_code = "801F62A2#00D4;3001f676a#000a"
+
+cheat913_desc = "物品ベトネス教本"
+cheat913_handler = "0"
+cheat913_code = "801F62A2#00D5;3001f676a#000a"
+
+cheat914_desc = "物品极上叶卷"
+cheat914_handler = "0"
+cheat914_code = "801F62A2#00D6;3001f676a#000a"
+
+cheat915_desc = "物品七色の飴玉"
+cheat915_handler = "0"
+cheat915_code = "801F62A2#00D7;3001f676a#000a"
+
+cheat916_desc = "物品ウサギの足"
+cheat916_handler = "0"
+cheat916_code = "801F62A2#00D8;3001f676a#000a"
+
+cheat917_desc = "物品天使の唇"
+cheat917_handler = "0"
+cheat917_code = "801F62A2#00D9;3001f676a#000a"
+
+cheat918_desc = "物品魔物図鑑"
+cheat918_handler = "0"
+cheat918_code = "801F62A2#00DA;3001f676a#000a"
+
+cheat919_desc = "物品悪魔絵書"
+cheat919_handler = "0"
+cheat919_code = "801F62A2#00DB;3001f676a#000a"
+
+cheat920_desc = "物品デボーネの頭蓋"
+cheat920_handler = "0"
+cheat920_code = "801F62A2#00DC;3001f676a#000a"
+
+cheat921_desc = "物品ラリウの貝殻"
+cheat921_handler = "0"
+cheat921_code = "801F62A2#00DD;3001f676a#000a"
+
+cheat922_desc = "物品駿馬のたてがみ"
+cheat922_handler = "0"
+cheat922_code = "801F62A2#00DE;3001f676a#000a"
+
+cheat923_desc = "物品炎のバンダナ"
+cheat923_handler = "0"
+cheat923_code = "801F62A2#00DF;3001f676a#000a"
+
+cheat924_desc = "物品青灰色の首飾り"
+cheat924_handler = "0"
+cheat924_code = "801F62A2#00E7;3001f676a#000a"
+
+cheat925_desc = "物品賢者ソロンの秘文書"
+cheat925_handler = "0"
+cheat925_code = "801F62A2#00E8;3001f676a#000a"
+
+cheat926_desc = "物品天空の瞳"
+cheat926_handler = "0"
+cheat926_code = "801F62A2#00E9;3001f676a#000a"
+
+cheat927_desc = "物品不死鳥の羽"
+cheat927_handler = "0"
+cheat927_code = "801F62A2#00EA;3001f676a#000a"
+
+cheat928_desc = "物品ミトラの聖水"
+cheat928_handler = "0"
+cheat928_code = "801F62A2#00EB;3001f676a#000a"
+
+cheat929_desc = "物品操呪兵設計図面"
+cheat929_handler = "0"
+cheat929_code = "801F62A2#00F0;3001f676a#000a"
+
+cheat930_desc = "物品アレクタリスの守り"
+cheat930_handler = "0"
+cheat930_code = "801F62A2#00F1;3001f676a#000a"
+
+cheat931_desc = "物品アトレイシアの竪琴"
+cheat931_handler = "0"
+cheat931_code = "801F62A2#00F2;3001f676a#000a"
+
+cheat932_desc = "物品封印の小箱"
+cheat932_handler = "0"
+cheat932_code = "801F62A2#00F3;3001f676a#000a"
+
+cheat933_desc = "物品亡王の仮面"
+cheat933_handler = "0"
+cheat933_code = "801F62A2#00F4;3001f676a#000a"
+
+cheat934_desc = "物品亡妃の棺"
+cheat934_handler = "0"
+cheat934_code = "801F62A2#00F5;3001f676a#000a"
+
+cheat935_desc = "物品アンブロシア"
+cheat935_handler = "0"
+cheat935_code = "801F62A2#00F6;3001f676a#000a"
+
+cheat936_desc = "物品妖刀“村雨”"
+cheat936_handler = "0"
+cheat936_code = "801F62A2#00F7;3001f676a#000a"
+
+cheat937_desc = "物品名刀“緋蓮”"
+cheat937_handler = "0"
+cheat937_code = "801F62A2#00F8;3001f676a#000a"
+
+cheat938_desc = "物品霊剣“草薙”"
+cheat938_handler = "0"
+cheat938_code = "801F62A2#00F9;3001f676a#000a"
+
+cheat939_desc = "物品閃刀シルヴァンス"
+cheat939_handler = "0"
+cheat939_code = "801F62A2#00FA;3001f676a#000a"
+
+cheat940_desc = "物品妖剣クロムレア"
+cheat940_handler = "0"
+cheat940_code = "801F62A2#00FB;3001f676a#000a"
+
+cheat941_desc = "物品裂刀ファーウェル"
+cheat941_handler = "0"
+cheat941_code = "801F62A2#00FC;3001f676a#000a"
+
+cheat942_desc = "物品蒼剣グラン.スティング"
+cheat942_handler = "0"
+cheat942_code = "801F62A2#00FD;3001f676a#000a"
+
+cheat943_desc = "物品聖剣ロスト.セラフィ"
+cheat943_handler = "0"
+cheat943_code = "801F62A2#00FE;3001f676a#000a"
+
+cheat944_desc = "物品名剣フェイム.フェイン"
+cheat944_handler = "0"
+cheat944_code = "801F62A2#00FF;3001f676a#000a"
+
+cheat945_desc = "物品魔剣レヴァンテイン"
+cheat945_handler = "0"
+cheat945_code = "801F62A2#0100;3001f676a#000a"
+
+cheat946_desc = "物品蛇矛バシリスク"
+cheat946_handler = "0"
+cheat946_code = "801F62A2#0101;3001f676a#000a"
+
+cheat947_desc = "物品神槍グングニル"
+cheat947_handler = "0"
+cheat947_code = "801F62A2#0102;3001f676a#000a"
+
+cheat948_desc = "物品黒槍“鬼哭天使”"
+cheat948_handler = "0"
+cheat948_code = "801F62A2#0103;3001f676a#000a"
+
+cheat949_desc = "物品吼槍ドラグーン.タイラント"
+cheat949_handler = "0"
+cheat949_code = "801F62A2#0104;3001f676a#000a"
+
+cheat950_desc = "物品光弓シルヴァン.ボウ"
+cheat950_handler = "0"
+cheat950_code = "801F62A2#0105;3001f676a#000a"
+
+cheat951_desc = "物品神弓エルヴン.ボウ"
+cheat951_handler = "0"
+cheat951_code = "801F62A2#0106;3001f676a#000a"
+
+cheat952_desc = "物品閃弓フォール.スレイヤー"
+cheat952_handler = "0"
+cheat952_code = "801F62A2#0107;3001f676a#000a"
+
+cheat953_desc = "物品剛弓ベルセルク.アロー"
+cheat953_handler = "0"
+cheat953_code = "801F62A2#0108;3001f676a#000a"
+
+cheat954_desc = "物品紅蓮剣インフェルナス"
+cheat954_handler = "0"
+cheat954_code = "801F62A2#0109;3001f676a#000a"
+
+cheat955_desc = "物品精王剣アレクタリス"
+cheat955_handler = "0"
+cheat955_code = "801F62A2#010A;3001f676a#000a"
+
+cheat956_desc = "物品雷光剣シェドザード"
+cheat956_handler = "0"
+cheat956_code = "801F62A2#010B;3001f676a#000a"
+
+cheat957_desc = "物品肢閃刀“龙崩牙”"
+cheat957_handler = "0"
+cheat957_code = "801F62A2#010C;3001f676a#000a"
+
+cheat958_desc = "物品裂閃刀“鳳坠閃”"
+cheat958_handler = "0"
+cheat958_code = "801F62A2#010D;3001f676a#000a"
+
+cheat959_desc = "物品剛槍ダイナソア"
+cheat959_handler = "0"
+cheat959_code = "801F62A2#010E;3001f676a#000a"
+
+cheat960_desc = "物品閃槍クリムゾン.エッジ"
+cheat960_handler = "0"
+cheat960_code = "801F62A2#010F;3001f676a#000a"
+
+cheat961_desc = "物品聖杖アドヴェンティア"
+cheat961_handler = "0"
+cheat961_code = "801F62A2#0110;3001f676a#000a"
+
+cheat962_desc = "物品魔槍エターナル.フォルツ"
+cheat962_handler = "0"
+cheat962_code = "801F62A2#0111;3001f676a#000a"
+
+cheat963_desc = "物品聖杖ユニコーンズ.ホーン"
+cheat963_handler = "0"
+cheat963_code = "801F62A2#0119;3001f676a#000a"
+
+cheat964_desc = "物品魔杖アポカリプス"
+cheat964_handler = "0"
+cheat964_code = "801F62A2#011A;3001f676a#000a"
+
+cheat965_desc = "物品聖杖ミリオン.テラー"
+cheat965_handler = "0"
+cheat965_code = "801F62A2#011B;3001f676a#000a"
+
+cheat966_desc = "物品精杖ルミネフェレス"
+cheat966_handler = "0"
+cheat966_code = "801F62A2#011C;3001f676a#000a"
+
+cheat967_desc = "物品鏡鎧リフレックス"
+cheat967_handler = "0"
+cheat967_code = "801F62A2#011D;3001f676a#000a"
+
+cheat968_desc = "物品聖鎧アレフ.ストレイン"
+cheat968_handler = "0"
+cheat968_code = "801F62A2#011E;3001f676a#000a"
+
+cheat969_desc = "物品斗鎧“昂魔谭”"
+cheat969_handler = "0"
+cheat969_code = "801F62A2#011F;3001f676a#000a"
+
+cheat970_desc = "物品鬼鎧“昆沙门天”"
+cheat970_handler = "0"
+cheat970_code = "801F62A2#0120;3001f676a#000a"
+
+cheat971_desc = "物品聖衣ブリタニア.ガーブ"
+cheat971_handler = "0"
+cheat971_code = "801F62A2#0121;3001f676a#000a"
+
+cheat972_desc = "物品聖衣シルフ.レッド"
+cheat972_handler = "0"
+cheat972_code = "801F62A2#0122;3001f676a#000a"
+
+cheat973_desc = "物品蒼衣スターレッド.シャイ"
+cheat973_handler = "0"
+cheat973_code = "801F62A2#0123;3001f676a#000a"
+
+cheat974_desc = "物品幻衣ミラージュ.ローブ"
+cheat974_handler = "0"
+cheat974_code = "801F62A2#0124;3001f676a#000a"
+
+cheat975_desc = "物品ドラグーン.フェイス"
+cheat975_handler = "0"
+cheat975_code = "801F62A2#0125;3001f676a#000a"
+
+cheat976_desc = "物品宝冠フェルマー"
+cheat976_handler = "0"
+cheat976_code = "801F62A2#012A;3001f676a#000a"
+
+cheat977_desc = "物品聖皇后のティアラ"
+cheat977_handler = "0"
+cheat977_code = "801F62A2#012B;3001f676a#000a"
+
+cheat978_desc = "物品鈍色の冠"
+cheat978_handler = "0"
+cheat978_code = "801F62A2#012E;3001f676a#000a"
+
+cheat979_desc = "物品透器エーテル.フローズン"
+cheat979_handler = "0"
+cheat979_code = "801F62A2#012F;3001f676a#000a"
+
+cheat980_desc = "物品后冠エンプレス.ガーランド"
+cheat980_handler = "0"
+cheat980_code = "801F62A2#0130;3001f676a#000a"
+
+cheat981_desc = "物品后衣エターナル.シャイン"
+cheat981_handler = "0"
+cheat981_code = "801F62A2#0131;3001f676a#000a"
+
+cheat982_desc = "物品聖環ブリーシンガル"
+cheat982_handler = "0"
+cheat982_code = "801F62A2#0132;3001f676a#000a"
+
+cheat983_desc = "物品翔具オリハルコン.ブーツ"
+cheat983_handler = "0"
+cheat983_code = "801F62A2#0133;3001f676a#000a"
+
+cheat984_desc = "物品透鎧エーテル.チェイン"
+cheat984_handler = "0"
+cheat984_code = "801F62A2#0134;3001f676a#000a"
+
+cheat985_desc = "物品神さびた砂時計"
+cheat985_handler = "0"
+cheat985_code = "801F62A2#0135;3001f676a#000a"
+
+cheat986_desc = "物品錬金術の書"
+cheat986_handler = "0"
+cheat986_code = "801F62A2#0136;3001f676a#000a"
+
+cheat987_desc = "物品碑文の欠片"
+cheat987_handler = "0"
+cheat987_code = "801F62A2#0137;3001f676a#000a"
+
+cheat988_desc = "物品スター.ガード"
+cheat988_handler = "0"
+cheat988_code = "801F62A2#0138;3001f676a#000a"
+
+cheat989_desc = "物品ダマスクス製法書"
+cheat989_handler = "0"
+cheat989_code = "801F62A2#0139;3001f676a#000a"
+
+cheat990_desc = "物品ルーンメタル製法書"
+cheat990_handler = "0"
+cheat990_code = "801F62A2#013A;3001f676a#000a"
+
+cheat991_desc = "物品エクストリーム.ガード"
+cheat991_handler = "0"
+cheat991_code = "801F62A2#013B;3001f676a#000a"
+
+cheat992_desc = "物品生命の腕輪"
+cheat992_handler = "0"
+cheat992_code = "801F62A2#013C;3001f676a#000a"
+
+cheat993_desc = "物品ドライアドの樹皮"
+cheat993_handler = "0"
+cheat993_code = "801F62A2#013D;3001f676a#000a"
+
+cheat994_desc = "物品賢者の石"
+cheat994_handler = "0"
+cheat994_code = "801F62A2#013E;3001f676a#000a"
+
+cheat995_desc = "物品妖艶な彫像"
+cheat995_handler = "0"
+cheat995_code = "801F62A2#013F;3001f676a#000a"
+
+cheat996_desc = "物品耽美な彫像"
+cheat996_handler = "0"
+cheat996_code = "801F62A2#0140;3001f676a#000a"
+
+cheat997_desc = "物品妖精の瓶詰め"
+cheat997_handler = "0"
+cheat997_code = "801F62A2#0141;3001f676a#000a"
+
+cheat998_desc = "物品鬼手の瓶詰め"
+cheat998_handler = "0"
+cheat998_code = "801F62A2#0142;3001f676a#000a"
+
+cheat999_desc = "物品オリハルコン"
+cheat999_handler = "0"
+cheat999_code = "801F62A2#0143;3001f676a#000a"
+
+cheat1000_desc = "物品黄金の鶏"
+cheat1000_handler = "0"
+cheat1000_code = "801F62A2#0144;3001f676a#000a"
+
+cheat1001_desc = "物品ガーゴイルの像"
+cheat1001_handler = "0"
+cheat1001_code = "801F62A2#0145;3001f676a#000a"
+
+cheat1002_desc = "物品幸せのコイン"
+cheat1002_handler = "0"
+cheat1002_code = "801F62A2#0146;3001f676a#000a"
+
+cheat1003_desc = "物品紅水晶のオルゴール"
+cheat1003_handler = "0"
+cheat1003_code = "801F62A2#0147;3001f676a#000a"
+
+cheat1004_desc = "物品ミスリル"
+cheat1004_handler = "0"
+cheat1004_code = "801F62A2#0148;3001f676a#000a"
+
+cheat1005_desc = "物品夜叉鬼の皮"
+cheat1005_handler = "0"
+cheat1005_code = "801F62A2#0149;3001f676a#000a"
+
+cheat1006_desc = "物品巫女神の守り"
+cheat1006_handler = "0"
+cheat1006_code = "801F62A2#014A;3001f676a#000a"
+
+cheat1007_desc = "物品金の卵"
+cheat1007_handler = "0"
+cheat1007_code = "801F62A2#014B;3001f676a#000a"
+
+cheat1008_desc = "物品浮妖球"
+cheat1008_handler = "0"
+cheat1008_code = "801F62A2#014C;3001f676a#000a"
+
+cheat1009_desc = "物品八重洹纯米大吟酿生“无”"
+cheat1009_handler = "0"
+cheat1009_code = "801F62A2#014D;3001f676a#000a"
+
+cheat1010_desc = "物品転換の杖"
+cheat1010_handler = "0"
+cheat1010_code = "801F62A2#014E;3001f676a#000a"
+
+cheat1011_desc = "物品昂魔の鏡"
+cheat1011_handler = "0"
+cheat1011_code = "801F62A2#014f;3001f676a#000a"
+
+cheat1012_desc = "物品聖酒リシュブール"
+cheat1012_handler = "0"
+cheat1012_code = "801F62A2#0150;3001f676a#000a"
+
+cheat1013_desc = "物品バシリスクの腕輪"
+cheat1013_handler = "0"
+cheat1013_code = "801F62A2#0151;3001f676a#000a"
+
+cheat1014_desc = "物品グリムステッキ"
+cheat1014_handler = "0"
+cheat1014_code = "801F62A2#0152;3001f676a#000a"
+
+cheat1015_desc = "物品折れた剣"
+cheat1015_handler = "0"
+cheat1015_code = "801F62A2#0153;3001f676a#000a"
+
+cheat1016_desc = "物品献上の書"
+cheat1016_handler = "0"
+cheat1016_code = "801F62A2#0154;3001f676a#000a"
+
+cheat1017_desc = "物品魔女の聖柩"
+cheat1017_handler = "0"
+cheat1017_code = "801F62A2#0155;3001f676a#000a"
+
+cheat1018_desc = "物品聖杯"
+cheat1018_handler = "0"
+cheat1018_code = "801F62A2#0156;3001f676a#000a"
+
+cheat1019_desc = "物品久遠の灯火"
+cheat1019_handler = "0"
+cheat1019_code = "801F62A2#0157;3001f676a#000a"
+
+cheat1020_desc = "物品オートドール"
+cheat1020_handler = "0"
+cheat1020_code = "801F62A2#015c;3001f676a#000a"
+
+cheat1021_desc = "物品ダリスの香炉"
+cheat1021_handler = "0"
+cheat1021_code = "801F62A2#015d;3001f676a#000a"
+
+cheat1022_desc = "物品蘇生秘法書"
+cheat1022_handler = "0"
+cheat1022_code = "801F62A2#015e;3001f676a#000a"
+
+cheat1023_desc = "物品銀河の雫"
+cheat1023_handler = "0"
+cheat1023_code = "801F62A2#015f;3001f676a#000a"
+
+cheat1024_desc = "物品フェザード.ティアラ"
+cheat1024_handler = "0"
+cheat1024_code = "801F62A2#0160;3001f676a#000a"
+
+cheat1025_desc = "物品フェザード.ヘルム"
+cheat1025_handler = "0"
+cheat1025_code = "801F62A2#0161;3001f676a#000a"
+
+cheat1026_desc = "物品ウィングド.ヘルム"
+cheat1026_handler = "0"
+cheat1026_code = "801F62A2#0162;3001f676a#000a"
+
+cheat1027_desc = "物品エアリアル.ガーランド"
+cheat1027_handler = "0"
+cheat1027_code = "801F62A2#0163;3001f676a#000a"
+
+cheat1028_desc = "物品セラフィック.ガーランド"
+cheat1028_handler = "0"
+cheat1028_code = "801F62A2#0164;3001f676a#000a"
+
+cheat1029_desc = "物品エイジア.ガーブ"
+cheat1029_handler = "0"
+cheat1029_code = "801F62A2#0165;3001f676a#000a"
+
+cheat1030_desc = "物品ヘラルディック.ガーブ"
+cheat1030_handler = "0"
+cheat1030_code = "801F62A2#0166;3001f676a#000a"
+
+cheat1031_desc = "物品レディアンス.ガーブ"
+cheat1031_handler = "0"
+cheat1031_code = "801F62A2#0167;3001f676a#000a"
+
+cheat1032_desc = "物品ディヴァイナリィ.ガーブ"
+cheat1032_handler = "0"
+cheat1032_code = "801F62A2#0168;3001f676a#000a"
+
+cheat1033_desc = "物品セラフィック.ガーブ"
+cheat1033_handler = "0"
+cheat1033_code = "801F62A2#0169;3001f676a#000a"
+
+cheat1034_desc = "物品神剣グランス.リヴァイバー"
+cheat1034_handler = "0"
+cheat1034_code = "801F62A2#016a;3001f676a#000a"
+
+cheat1035_desc = "物品宝剣グリム.ガウディ"
+cheat1035_handler = "0"
+cheat1035_code = "801F62A2#016b;3001f676a#000a"
+
+cheat1036_desc = "物品魔剣アクター.ネファリウス"
+cheat1036_handler = "0"
+cheat1036_code = "801F62A2#016c;3001f676a#000a"
+
+cheat1037_desc = "物品神槍イセリアル.デヴァイド"
+cheat1037_handler = "0"
+cheat1037_code = "801F62A2#016e;3001f676a#000a"
+
+cheat1038_desc = "物品魔弓レイザー.フォーテル"
+cheat1038_handler = "0"
+cheat1038_code = "801F62A2#016f;3001f676a#000a"
+
+cheat1039_desc = "物品聖杖ミスティック.ワイザー"
+cheat1039_handler = "0"
+cheat1039_code = "801F62A2#0170;3001f676a#000a"
+
+cheat1040_desc = "物品クロス.ボウ"
+cheat1040_handler = "0"
+cheat1040_code = "801F62A2#0171;3001f676a#000a"
+
+cheat1041_desc = "物品首の無い人形"
+cheat1041_handler = "0"
+cheat1041_code = "801F62A2#0174;3001f676a#000a"
+
+cheat1042_desc = "物品折れた剣"
+cheat1042_handler = "0"
+cheat1042_code = "801F62A2#0175;3001f676a#000a"
+
+cheat1043_desc = "物品血の染みついたドレス"
+cheat1043_handler = "0"
+cheat1043_code = "801F62A2#0176;3001f676a#000a"
+
+cheat1044_desc = "物品バシリスクのうろこ"
+cheat1044_handler = "0"
+cheat1044_code = "801F62A2#0177;3001f676a#000a"
+
+cheat1045_desc = "物品植物の種子"
+cheat1045_handler = "0"
+cheat1045_code = "801F62A2#0178;3001f676a#000a"
+
+cheat1046_desc = "物品ジギタリス"
+cheat1046_handler = "0"
+cheat1046_code = "801F62A2#0179;3001f676a#000a"
+
+cheat1047_desc = "物品トリカブト"
+cheat1047_handler = "0"
+cheat1047_code = "801F62A2#017a;3001f676a#000a"
+
+cheat1048_desc = "物品ベラドンナ"
+cheat1048_handler = "0"
+cheat1048_code = "801F62A2#017b;3001f676a#000a"
+
+cheat1049_desc = "物品グールパウダー"
+cheat1049_handler = "0"
+cheat1049_code = "801F62A2#017c;3001f676a#000a"
+
+cheat1050_desc = "物品セボリー"
+cheat1050_handler = "0"
+cheat1050_code = "801F62A2#017d;3001f676a#000a"
+
+cheat1051_desc = "物品マンドレイク"
+cheat1051_handler = "0"
+cheat1051_code = "801F62A2#017e;3001f676a#000a"
+
+cheat1052_desc = "物品不老不死の書"
+cheat1052_handler = "0"
+cheat1052_code = "801F62A2#017f;3001f676a#000a"
+
+cheat1053_desc = "物品透化薬"
+cheat1053_handler = "0"
+cheat1053_code = "801F62A2#0180;3001f676a#000a"
+
+cheat1054_desc = "物品聖水"
+cheat1054_handler = "0"
+cheat1054_code = "801F62A2#0181;3001f676a#000a"
+
+cheat1055_desc = "物品生命の秘薬"
+cheat1055_handler = "0"
+cheat1055_code = "801F62A2#0182;3001f676a#000a"
+
+cheat1056_desc = "物品聖遺物"
+cheat1056_handler = "0"
+cheat1056_code = "801F62A2#0183;3001f676a#000a"
+
+cheat1057_desc = "物品アサ教典"
+cheat1057_handler = "0"
+cheat1057_code = "801F62A2#0184;3001f676a#000a"
+
+cheat1058_desc = "物品ミスリル鉱石"
+cheat1058_handler = "0"
+cheat1058_code = "801F62A2#0185;3001f676a#000a"
+
+cheat1059_desc = "物品鉄鉱石"
+cheat1059_handler = "0"
+cheat1059_code = "801F62A2#0186;3001f676a#000a"
+
+cheat1060_desc = "物品羽毛"
+cheat1060_handler = "0"
+cheat1060_code = "801F62A2#0187;3001f676a#000a"
+
+cheat1061_desc = "物品獣肉"
+cheat1061_handler = "0"
+cheat1061_code = "801F62A2#0188;3001f676a#000a"
+
+cheat1062_desc = "物品黄水晶"
+cheat1062_handler = "0"
+cheat1062_code = "801F62A2#0189;3001f676a#000a"
+
+cheat1063_desc = "物品ユニコーンの角"
+cheat1063_handler = "0"
+cheat1063_code = "801F62A2#018a;3001f676a#000a"
+
+cheat1064_desc = "物品セージ"
+cheat1064_handler = "0"
+cheat1064_code = "801F62A2#018b;3001f676a#000a"
+
+cheat1065_desc = "物品黒真珠の粉"
+cheat1065_handler = "0"
+cheat1065_code = "801F62A2#018c;3001f676a#000a"
+
+cheat1066_desc = "物品猛禽の爪"
+cheat1066_handler = "0"
+cheat1066_code = "801F62A2#018d;3001f676a#000a"
+
+cheat1067_desc = "物品獣の牙"
+cheat1067_handler = "0"
+cheat1067_code = "801F62A2#018e;3001f676a#000a"
+
+cheat1068_desc = "物品ボルト酒"
+cheat1068_handler = "0"
+cheat1068_code = "801F62A2#018f;3001f676a#000a"
+
+cheat1069_desc = "物品折れた槍"
+cheat1069_handler = "0"
+cheat1069_code = "801F62A2#0190;3001f676a#000a"
+
+cheat1070_desc = "物品壊れた弓"
+cheat1070_handler = "0"
+cheat1070_code = "801F62A2#0191;3001f676a#000a"
+
+cheat1071_desc = "物品海鮮肉"
+cheat1071_handler = "0"
+cheat1071_code = "801F62A2#0192;3001f676a#000a"
+
+cheat1072_desc = "物品卑金属"
+cheat1072_handler = "0"
+cheat1072_code = "801F62A2#0193;3001f676a#000a"
+
+cheat1073_desc = "物品壊れた鎧"
+cheat1073_handler = "0"
+cheat1073_code = "801F62A2#0194;3001f676a#000a"
+
+cheat1074_desc = "物品フレア.ジェム"
+cheat1074_handler = "0"
+cheat1074_code = "801F62A2#0195;3001f676a#000a"
+
+cheat1075_desc = "物品アイス.ジェム"
+cheat1075_handler = "0"
+cheat1075_code = "801F62A2#0196;3001f676a#000a"
+
+cheat1076_desc = "物品サンダー.ジェム"
+cheat1076_handler = "0"
+cheat1076_code = "801F62A2#0197;3001f676a#000a"
+
+cheat1077_desc = "物品ポイズン.ジェム"
+cheat1077_handler = "0"
+cheat1077_code = "801F62A2#0198;3001f676a#000a"
+
+cheat1078_desc = "物品ホーリィ.ジェム"
+cheat1078_handler = "0"
+cheat1078_code = "801F62A2#0199;3001f676a#000a"
+
+cheat1079_desc = "物品シャドゥ.ジェム"
+cheat1079_handler = "0"
+cheat1079_code = "801F62A2#019A;3001f676a#000a"
+
+cheat1080_desc = "物品フレア.クリスタル"
+cheat1080_handler = "0"
+cheat1080_code = "801F62A2#019B;3001f676a#000a"
+
+cheat1081_desc = "物品アイス.クリスタル"
+cheat1081_handler = "0"
+cheat1081_code = "801F62A2#019C;3001f676a#000a"
+
+cheat1082_desc = "物品サンダー.クリスタル"
+cheat1082_handler = "0"
+cheat1082_code = "801F62A2#019D;3001f676a#000a"
+
+cheat1083_desc = "物品ポイズン.クリスタル"
+cheat1083_handler = "0"
+cheat1083_code = "801F62A2#019E;3001f676a#000a"
+
+cheat1084_desc = "物品ホーリィ.クリスタル"
+cheat1084_handler = "0"
+cheat1084_code = "801F62A2#019F;3001f676a#000a"
+
+cheat1085_desc = "物品シャドゥ.クリスタル"
+cheat1085_handler = "0"
+cheat1085_code = "801F62A2#01A0;3001f676a#000a"
+
+cheat1086_desc = "物品ロング.ソード"
+cheat1086_handler = "0"
+cheat1086_code = "801F62A2#01A6;3001f676a#000a"
+
+cheat1087_desc = "物品ブロード.ソード"
+cheat1087_handler = "0"
+cheat1087_code = "801F62A2#01A7;3001f676a#000a"
+
+cheat1088_desc = "物品バスタード.ソード"
+cheat1088_handler = "0"
+cheat1088_code = "801F62A2#01A8;3001f676a#000a"
+
+cheat1089_desc = "物品ファルシオン"
+cheat1089_handler = "0"
+cheat1089_code = "801F62A2#01A9;3001f676a#000a"
+
+cheat1090_desc = "物品エストック"
+cheat1090_handler = "0"
+cheat1090_code = "801F62A2#01AA;3001f676a#000a"
+
+cheat1091_desc = "物品フラムベルク"
+cheat1091_handler = "0"
+cheat1091_code = "801F62A2#01AB;3001f676a#000a"
+
+cheat1092_desc = "物品ワジール.レイピア"
+cheat1092_handler = "0"
+cheat1092_code = "801F62A2#01AC;3001f676a#000a"
+
+cheat1093_desc = "物品ダマスクス.ソード"
+cheat1093_handler = "0"
+cheat1093_code = "801F62A2#01AD;3001f676a#000a"
+
+cheat1094_desc = "物品ショート.スピア"
+cheat1094_handler = "0"
+cheat1094_code = "801F62A2#01AE;3001f676a#000a"
+
+cheat1095_desc = "物品グレイヴ"
+cheat1095_handler = "0"
+cheat1095_code = "801F62A2#01AF;3001f676a#000a"
+
+cheat1096_desc = "物品ウォー.ハンマー"
+cheat1096_handler = "0"
+cheat1096_code = "801F62A2#01B0;3001f676a#000a"
+
+cheat1097_desc = "物品ロング.フレイル"
+cheat1097_handler = "0"
+cheat1097_code = "801F62A2#01B1;3001f676a#000a"
+
+cheat1098_desc = "物品ランサー"
+cheat1098_handler = "0"
+cheat1098_code = "801F62A2#01B2;3001f676a#000a"
+
+cheat1099_desc = "物品フットマンズ.アクス"
+cheat1099_handler = "0"
+cheat1099_code = "801F62A2#01B3;3001f676a#000a"
+
+cheat1100_desc = "物品ルーシェン.ハンマー"
+cheat1100_handler = "0"
+cheat1100_code = "801F62A2#01B4;3001f676a#000a"
+
+cheat1101_desc = "物品ファイン.ハルヴァード"
+cheat1101_handler = "0"
+cheat1101_code = "801F62A2#01B5;3001f676a#000a"
+
+cheat1102_desc = "物品ショート.ボウ"
+cheat1102_handler = "0"
+cheat1102_code = "801F62A2#01B6;3001f676a#000a"
+
+cheat1103_desc = "物品ロング.ボウ"
+cheat1103_handler = "0"
+cheat1103_code = "801F62A2#01B7;3001f676a#000a"
+
+cheat1104_desc = "物品ラピッド.ボウ"
+cheat1104_handler = "0"
+cheat1104_code = "801F62A2#01B8;3001f676a#000a"
+
+cheat1105_desc = "物品コンポジット.ボウ"
+cheat1105_handler = "0"
+cheat1105_code = "801F62A2#01B9;3001f676a#000a"
+
+cheat1106_desc = "物品クレーンクイン.クロスボウ"
+cheat1106_handler = "0"
+cheat1106_code = "801F62A2#01BA;3001f676a#000a"
+
+cheat1107_desc = "物品ドラゴン.スレイヤー"
+cheat1107_handler = "0"
+cheat1107_code = "801F62A2#01BE;3001f676a#000a"
+
+cheat1108_desc = "物品デーモン.スレイヤー"
+cheat1108_handler = "0"
+cheat1108_code = "801F62A2#01BF;3001f676a#000a"
+
+cheat1109_desc = "物品ビースト.スレイヤー"
+cheat1109_handler = "0"
+cheat1109_code = "801F62A2#01C0;3001f676a#000a"
+
+cheat1110_desc = "物品メイジ.スレイヤー"
+cheat1110_handler = "0"
+cheat1110_code = "801F62A2#01C1;3001f676a#000a"
+
+cheat1111_desc = "物品レイヴン.スレイヤー"
+cheat1111_handler = "0"
+cheat1111_code = "801F62A2#01C2;3001f676a#000a"
+
+cheat1112_desc = "物品ソウル.スレイヤー"
+cheat1112_handler = "0"
+cheat1112_code = "801F62A2#01C3;3001f676a#000a"
+
+cheat1113_desc = "物品名剣ヴェイン.スレイ"
+cheat1113_handler = "0"
+cheat1113_code = "801F62A2#01CE;3001f676a#000a"
+
+cheat1114_desc = "物品名剣ムーン.ファルクス"
+cheat1114_handler = "0"
+cheat1114_code = "801F62A2#01CF;3001f676a#000a"
+
+cheat1115_desc = "物品名剣ルインズ.フェイト"
+cheat1115_handler = "0"
+cheat1115_code = "801F62A2#01D0;3001f676a#000a"
+
+cheat1116_desc = "物品名剣フレア.バゼラード"
+cheat1116_handler = "0"
+cheat1116_code = "801F62A2#01D1;3001f676a#000a"
+
+cheat1117_desc = "物品護神刀“竜仙”"
+cheat1117_handler = "0"
+cheat1117_code = "801F62A2#01D2;3001f676a#000a"
+
+cheat1118_desc = "物品レザー.アーマー"
+cheat1118_handler = "0"
+cheat1118_code = "801F62A2#01D3;3001f676a#000a"
+
+cheat1119_desc = "物品チェイン.メイル"
+cheat1119_handler = "0"
+cheat1119_code = "801F62A2#01D4;3001f676a#000a"
+
+cheat1120_desc = "物品ラメラー"
+cheat1120_handler = "0"
+cheat1120_code = "801F62A2#01D5;3001f676a#000a"
+
+cheat1121_desc = "物品ブレスト.プレート"
+cheat1121_handler = "0"
+cheat1121_code = "801F62A2#01D6;3001f676a#000a"
+
+cheat1122_desc = "物品シルバー.チェイン"
+cheat1122_handler = "0"
+cheat1122_code = "801F62A2#01D7;3001f676a#000a"
+
+cheat1123_desc = "物品フル.プレート"
+cheat1123_handler = "0"
+cheat1123_code = "801F62A2#01D8;3001f676a#000a"
+
+cheat1124_desc = "物品シルバー.プレート"
+cheat1124_handler = "0"
+cheat1124_code = "801F62A2#01D9;3001f676a#000a"
+
+cheat1125_desc = "物品ミスリル.プレート"
+cheat1125_handler = "0"
+cheat1125_code = "801F62A2#01DA;3001f676a#000a"
+
+cheat1126_desc = "物品マインド.ポーション"
+cheat1126_handler = "0"
+cheat1126_code = "801F62A2#01E5;3001f676a#000a"
+
+cheat1127_desc = "物品スキル.ポーション"
+cheat1127_handler = "0"
+cheat1127_code = "801F62A2#01E6;3001f676a#000a"
+
+cheat1128_desc = "物品マテリアル.ポーション"
+cheat1128_handler = "0"
+cheat1128_code = "801F62A2#01E7;3001f676a#000a"
+
+cheat1129_desc = "物品ヘイスト.リング"
+cheat1129_handler = "0"
+cheat1129_code = "801F62A2#01E8;3001f676a#000a"
+
+cheat1130_desc = "物品エナジー.リング"
+cheat1130_handler = "0"
+cheat1130_code = "801F62A2#01E9;3001f676a#000a"
+
+cheat1131_desc = "物品クラック.リング"
+cheat1131_handler = "0"
+cheat1131_code = "801F62A2#01EA;3001f676a#000a"
+
+cheat1132_desc = "物品ブレイズ.ガード "
+cheat1132_handler = "0"
+cheat1132_code = "801F62A2#01EC;3001f676a#000a"
+
+cheat1133_desc = "物品アイシクル.ガード"
+cheat1133_handler = "0"
+cheat1133_code = "801F62A2#01ED;3001f676a#000a"
+
+cheat1134_desc = "物品グレアー.ガード"
+cheat1134_handler = "0"
+cheat1134_code = "801F62A2#01EE;3001f676a#000a"
+
+cheat1135_desc = "物品生成の珠"
+cheat1135_handler = "0"
+cheat1135_code = "801F62A2#01F0;3001f676a#000a"
+
+cheat1136_desc = "物品活性の珠"
+cheat1136_handler = "0"
+cheat1136_code = "801F62A2#01F1;3001f676a#000a"
+
+cheat1137_desc = "物品幻視の珠"
+cheat1137_handler = "0"
+cheat1137_code = "801F62A2#01F2;3001f676a#000a"
+
+cheat1138_desc = "物品アイシクル.ソード"
+cheat1138_handler = "0"
+cheat1138_code = "801F62A2#01F4;3001f676a#000a"
+
+cheat1139_desc = "物品グレアー.ソード"
+cheat1139_handler = "0"
+cheat1139_code = "801F62A2#01F5;3001f676a#000a"
+
+cheat1140_desc = "物品ラピス晶石"
+cheat1140_handler = "0"
+cheat1140_code = "801F62A2#01F7;3001f676a#000a"
+
+cheat1141_desc = "物品クリス晶石"
+cheat1141_handler = "0"
+cheat1141_code = "801F62A2#01F8;3001f676a#000a"
+
+cheat1142_desc = "物品ヒール.ピアス"
+cheat1142_handler = "0"
+cheat1142_code = "801F62A2#01F9;3001f676a#000a"
+
+cheat1143_desc = "物品ヒール.リング"
+cheat1143_handler = "0"
+cheat1143_code = "801F62A2#01FA;3001f676a#000a"
+
+cheat1144_desc = "物品ラーニング.リング"
+cheat1144_handler = "0"
+cheat1144_code = "801F62A2#01FB;3001f676a#000a"
+
+cheat1145_desc = "物品スカウト.オーブ"
+cheat1145_handler = "0"
+cheat1145_code = "801F62A2#01FC;3001f676a#000a"
+
+cheat1146_desc = "物品ニーベルンゲンの指環"
+cheat1146_handler = "0"
+cheat1146_code = "801F62A2#0200;3001f676a#000a"
+
+cheat1147_desc = "物品オート.アイテム"
+cheat1147_handler = "0"
+cheat1147_code = "801F62A2#0201;3001f676a#000a"
+
+cheat1148_desc = "物品スロー"
+cheat1148_handler = "0"
+cheat1148_code = "801F62A2#0202;3001f676a#000a"
+
+cheat1149_desc = "物品キュア.コンディション"
+cheat1149_handler = "0"
+cheat1149_code = "801F62A2#0203;3001f676a#000a"
+
+cheat1150_desc = "物品ガッツ"
+cheat1150_handler = "0"
+cheat1150_code = "801F62A2#0204;3001f676a#000a"
+
+cheat1151_desc = "物品アデプト.イリュージョン"
+cheat1151_handler = "0"
+cheat1151_code = "801F62A2#0205;3001f676a#000a"
+
+cheat1152_desc = "物品ダンシング.ソード"
+cheat1152_handler = "0"
+cheat1152_code = "801F62A2#0206;3001f676a#000a"
+
+cheat1153_desc = "物品ラスト.トライアル"
+cheat1153_handler = "0"
+cheat1153_code = "801F62A2#0207;3001f676a#000a"
+
+cheat1154_desc = "物品スプラッシュ"
+cheat1154_handler = "0"
+cheat1154_code = "801F62A2#0208;3001f676a#000a"
+
+cheat1155_desc = "物品レヴェリー"
+cheat1155_handler = "0"
+cheat1155_code = "801F62A2#0209;3001f676a#000a"
+
+cheat1156_desc = "物品コンボ.カウンター"
+cheat1156_handler = "0"
+cheat1156_code = "801F62A2#020A;3001f676a#000a"
+
+cheat1157_desc = "物品ノイズ.アロー"
+cheat1157_handler = "0"
+cheat1157_code = "801F62A2#020B;3001f676a#000a"
+
+cheat1158_desc = "物品トリプル.ディストレス"
+cheat1158_handler = "0"
+cheat1158_code = "801F62A2#020C;3001f676a#000a"
+
+cheat1159_desc = "物品スティール.マジック"
+cheat1159_handler = "0"
+cheat1159_code = "801F62A2#020D;3001f676a#000a"
+
+cheat1160_desc = "物品スタン.マジック"
+cheat1160_handler = "0"
+cheat1160_code = "801F62A2#020E;3001f676a#000a"
+
+cheat1161_desc = "物品コンセントレーション"
+cheat1161_handler = "0"
+cheat1161_code = "801F62A2#020F;3001f676a#000a"
+
+cheat1162_desc = "物品スカーレット.エッジ"
+cheat1162_handler = "0"
+cheat1162_code = "801F62A2#0210;3001f676a#000a"
+
+cheat1163_desc = "物品チャージ"
+cheat1163_handler = "0"
+cheat1163_code = "801F62A2#0211;3001f676a#000a"
+
+cheat1164_desc = "物品ストライク.エッジ"
+cheat1164_handler = "0"
+cheat1164_code = "801F62A2#0212;3001f676a#000a"
+
+cheat1165_desc = "物品ダーク"
+cheat1165_handler = "0"
+cheat1165_code = "801F62A2#0213;3001f676a#000a"
+
+cheat1166_desc = "物品トリック.ステップ"
+cheat1166_handler = "0"
+cheat1166_code = "801F62A2#0214;3001f676a#000a"
+
+cheat1167_desc = "物品メンタル.リアクション"
+cheat1167_handler = "0"
+cheat1167_code = "801F62A2#0215;3001f676a#000a"
+
+cheat1168_desc = "物品ウェイト.リアクション"
+cheat1168_handler = "0"
+cheat1168_code = "801F62A2#0216;3001f676a#000a"
+
+cheat1169_desc = "物品スランティング.レイン"
+cheat1169_handler = "0"
+cheat1169_code = "801F62A2#0217;3001f676a#000a"
+
+cheat1170_desc = "物品ダークネス.アロー"
+cheat1170_handler = "0"
+cheat1170_code = "801F62A2#0218;3001f676a#000a"
+
+cheat1171_desc = "物品フォールス.アロー"
+cheat1171_handler = "0"
+cheat1171_code = "801F62A2#0219;3001f676a#000a"
+
+cheat1172_desc = "物品アタック.パワー"
+cheat1172_handler = "0"
+cheat1172_code = "801F62A2#021A;3001f676a#000a"
+
+cheat1173_desc = "物品ディフェンド"
+cheat1173_handler = "0"
+cheat1173_code = "801F62A2#021B;3001f676a#000a"
+
+cheat1174_desc = "物品アボイド"
+cheat1174_handler = "0"
+cheat1174_code = "801F62A2#021C;3001f676a#000a"
+
+cheat1175_desc = "物品ヒット"
+cheat1175_handler = "0"
+cheat1175_code = "801F62A2#021D;3001f676a#000a"
+
+cheat1176_desc = "物品レジスト.ダメージ"
+cheat1176_handler = "0"
+cheat1176_code = "801F62A2#021E;3001f676a#000a"
+
+cheat1177_desc = "物品マジック.パワー"
+cheat1177_handler = "0"
+cheat1177_code = "801F62A2#021F;3001f676a#000a"
+
+cheat1178_desc = "物品レジスト.マジック"
+cheat1178_handler = "0"
+cheat1178_code = "801F62A2#0220;3001f676a#000a"
+
+cheat1179_desc = "物品ファイア.ランス"
+cheat1179_handler = "0"
+cheat1179_code = "801F62A2#0221;3001f676a#000a"
+
+cheat1180_desc = "物品バーン.ストーム"
+cheat1180_handler = "0"
+cheat1180_code = "801F62A2#0222;3001f676a#000a"
+
+cheat1181_desc = "物品アイシクル.エッジ"
+cheat1181_handler = "0"
+cheat1181_code = "801F62A2#0223;3001f676a#000a"
+
+cheat1182_desc = "物品クール.ダンセル"
+cheat1182_handler = "0"
+cheat1182_code = "801F62A2#0224;3001f676a#000a"
+
+cheat1183_desc = "物品ライトニング.ボルト"
+cheat1183_handler = "0"
+cheat1183_code = "801F62A2#0225;3001f676a#000a"
+
+cheat1184_desc = "物品プリズミック.ミサイル"
+cheat1184_handler = "0"
+cheat1184_code = "801F62A2#0226;3001f676a#000a"
+
+cheat1185_desc = "物品シャドゥ.サーヴァント"
+cheat1185_handler = "0"
+cheat1185_code = "801F62A2#0227;3001f676a#000a"
+
+cheat1186_desc = "物品ダーク.セイヴァー"
+cheat1186_handler = "0"
+cheat1186_code = "801F62A2#0228;3001f676a#000a"
+
+cheat1187_desc = "物品ポイズン.ブロウ"
+cheat1187_handler = "0"
+cheat1187_code = "801F62A2#0229;3001f676a#000a"
+
+cheat1188_desc = "物品ストーン.トウチ"
+cheat1188_handler = "0"
+cheat1188_code = "801F62A2#022A;3001f676a#000a"
+
+cheat1189_desc = "物品クロス.エアレイド"
+cheat1189_handler = "0"
+cheat1189_code = "801F62A2#022B;3001f676a#000a"
+
+cheat1190_desc = "物品イグニート.ジャベリン"
+cheat1190_handler = "0"
+cheat1190_code = "801F62A2#022C;3001f676a#000a"
+
+cheat1191_desc = "物品エヴォーク.フェザー"
+cheat1191_handler = "0"
+cheat1191_code = "801F62A2#022D;3001f676a#000a"
+
+cheat1192_desc = "物品キュア.プラムス"
+cheat1192_handler = "0"
+cheat1192_code = "801F62A2#022E;3001f676a#000a"
+
+cheat1193_desc = "物品オーディナィ.シェイプ"
+cheat1193_handler = "0"
+cheat1193_code = "801F62A2#022F;3001f676a#000a"
+
+cheat1194_desc = "物品エンチャンテッド.ウェポン"
+cheat1194_handler = "0"
+cheat1194_code = "801F62A2#0230;3001f676a#000a"
+
+cheat1195_desc = "物品マイト.レインフォース"
+cheat1195_handler = "0"
+cheat1195_code = "801F62A2#0231;3001f676a#000a"
+
+cheat1196_desc = "物品ガード.レインフォース"
+cheat1196_handler = "0"
+cheat1196_code = "801F62A2#0232;3001f676a#000a"
+
+cheat1197_desc = "物品スペル.レインフォース"
+cheat1197_handler = "0"
+cheat1197_code = "801F62A2#0233;3001f676a#000a"
+
+cheat1198_desc = "物品レデュース.パワー"
+cheat1198_handler = "0"
+cheat1198_code = "801F62A2#0234;3001f676a#000a"
+
+cheat1199_desc = "物品レデュース.ガード"
+cheat1199_handler = "0"
+cheat1199_code = "801F62A2#0235;3001f676a#000a"
+
+cheat1200_desc = "物品プリベント.ソーサリー"
+cheat1200_handler = "0"
+cheat1200_code = "801F62A2#0236;3001f676a#000a"
+
+cheat1201_desc = "物品リフレクト.ソーサリー"
+cheat1201_handler = "0"
+cheat1201_code = "801F62A2#0237;3001f676a#000a"
+
+cheat1202_desc = "物品シールド.クリティカル"
+cheat1202_handler = "0"
+cheat1202_code = "801F62A2#0238;3001f676a#000a"
+
+cheat1203_desc = "物品タイマー.リング"
+cheat1203_handler = "0"
+cheat1203_code = "801F62A2#023A;3001f676a#000a"
+
+cheat1204_desc = "物品ディメンジョン.スリップ"
+cheat1204_handler = "0"
+cheat1204_code = "801F62A2#023B;3001f676a#000a"
+
+cheat1205_desc = "物品マリス.サーチ"
+cheat1205_handler = "0"
+cheat1205_code = "801F62A2#023C;3001f676a#000a"
+
+cheat1206_desc = "物品エネミー.サーチ"
+cheat1206_handler = "0"
+cheat1206_code = "801F62A2#023D;3001f676a#000a"
+
+cheat1207_desc = "物品トレジャー.サーチ"
+cheat1207_handler = "0"
+cheat1207_code = "801F62A2#023E;3001f676a#000a"
+
+cheat1208_desc = "物品トラップ.サーチ"
+cheat1208_handler = "0"
+cheat1208_code = "801F62A2#023F;3001f676a#000a"
+
+cheat1209_desc = "物品咎人の剣“神を斬獲せし者”"
+cheat1209_handler = "0"
+cheat1209_code = "801F62A2#0247;3001f676a#000a"
+
+cheat1210_desc = "物品トライ.エンブレム"
+cheat1210_handler = "0"
+cheat1210_code = "801F62A2#0248;3001f676a#000a"
+
+cheat1211_desc = "物品謎の書物8"
+cheat1211_handler = "0"
+cheat1211_code = "801F62A2#0249;3001f676a#000a"
+
+cheat1212_desc = "物品謎の書物7"
+cheat1212_handler = "0"
+cheat1212_code = "801F62A2#024A;3001f676a#000a"
+
+cheat1213_desc = "物品謎の書物6"
+cheat1213_handler = "0"
+cheat1213_code = "801F62A2#024B;3001f676a#000a"
+
+cheat1214_desc = "物品謎の書物5"
+cheat1214_handler = "0"
+cheat1214_code = "801F62A2#024C;3001f676a#000a"
+
+cheat1215_desc = "物品謎の書物4"
+cheat1215_handler = "0"
+cheat1215_code = "801F62A2#024D;3001f676a#000a"
+
+cheat1216_desc = "物品謎の書物3"
+cheat1216_handler = "0"
+cheat1216_code = "801F62A2#024E;3001f676a#000a"
+
+cheat1217_desc = "物品謎の書物2"
+cheat1217_handler = "0"
+cheat1217_code = "801F62A2#024F;3001f676a#000a"
+
+cheat1218_desc = "物品謎の書物1"
+cheat1218_handler = "0"
+cheat1218_code = "801F62A2#0250;3001f676a#000a"
+
+cheat1219_desc = "物品魔剣グラム"
+cheat1219_handler = "0"
+cheat1219_code = "801F62A2#0251;3001f676a#000a"
+
+cheat1220_desc = "物品魔剣ダインスレイヴ"
+cheat1220_handler = "0"
+cheat1220_code = "801F62A2#0252;3001f676a#000a"
+
+cheat1221_desc = "物品エターナリィ.ガーブ"
+cheat1221_handler = "0"
+cheat1221_code = "801F62A2#0253;3001f676a#000a"
+
+cheat1222_desc = "物品ブラッディ.ナックル"
+cheat1222_handler = "0"
+cheat1222_code = "801F62A2#0254;3001f676a#000a"
+
+cheat1223_desc = "物品ブラッディ.ダスター"
+cheat1223_handler = "0"
+cheat1223_code = "801F62A2#0255;3001f676a#000a"
+
+cheat1224_desc = "物品透器エーテル.レイザー"
+cheat1224_handler = "0"
+cheat1224_code = "801F62A2#0256;3001f676a#000a"
+
+cheat1225_desc = "物品鉄格子の鍵"
+cheat1225_handler = "0"
+cheat1225_code = "801F62A2#0257;3001f676a#000a"
+
+cheat1226_desc = "物品エレメント.セプター"
+cheat1226_handler = "0"
+cheat1226_code = "801F62A2#0258;3001f676a#000a"
+
+cheat1227_desc = "物品エーテル.セプター"
+cheat1227_handler = "0"
+cheat1227_code = "801F62A2#0259;3001f676a#000a"
+
+cheat1228_desc = "物品炎呪の珠"
+cheat1228_handler = "0"
+cheat1228_code = "801F62A2#025A;3001f676a#000a"
+
+cheat1229_desc = "物品炎呪の珠"
+cheat1229_handler = "0"
+cheat1229_code = "801F62A2#025B;3001f676a#000a"
+
+cheat1230_desc = "物品手織りのバンダナ"
+cheat1230_handler = "0"
+cheat1230_code = "801F62A2#025C;3001f676a#000a"
+
+cheat1231_desc = "物品玉瑠璃の欠片"
+cheat1231_handler = "0"
+cheat1231_code = "801F62A2#025D;3001f676a#000a"
+
+cheat1232_desc = "物品インフィニティ.ロッド"
+cheat1232_handler = "0"
+cheat1232_code = "801F62A2#025E;3001f676a#000a"
+
+cheat1233_desc = "物品戦乙女のペンダント"
+cheat1233_handler = "0"
+cheat1233_code = "801F62A2#025F;3001f676a#000a"
+
+cheat1234_desc = "物品押し花"
+cheat1234_handler = "0"
+cheat1234_code = "801F62A2#0260;3001f676a#000a"
+
+cheat1235_desc = "物品聖なる雫"
+cheat1235_handler = "0"
+cheat1235_code = "801F62A2#0261;3001f676a#000a"
+
+cheat1236_desc = "物品咒文忘记卷物"
+cheat1236_handler = "0"
+cheat1236_code = "801F62A2#0262;3001f676a#000a"
+
+cheat1237_desc = "物品紅蓮の宝珠"
+cheat1237_handler = "0"
+cheat1237_code = "801F62A2#0263;3001f676a#000a"
+
+cheat1238_desc = "物品羽飾りの怀中時計"
+cheat1238_handler = "0"
+cheat1238_code = "801F62A2#0264;3001f676a#000a"
+
+cheat1239_desc = "物品仙杖-系统裂解"
+cheat1239_handler = "0"
+cheat1239_code = "801F62A2#1000;3001f676a#000a"
+
+cheat1240_desc = "物品九头蛇弓-风之力"
+cheat1240_handler = "0"
+cheat1240_code = "801F62A2#0b00;3001f676a#000a"
+
+cheat1241_desc = "物品飞行石"
+cheat1241_handler = "0"
+cheat1241_code = "801F62A2#4002;3001f676a#000a"
+
+cheat1242_desc = "物品传送石"
+cheat1242_handler = "0"
+cheat1242_code = "801F62A2#4102;3001f676a#000a"
+
+cheat1243_desc = "物品魔法双刃"
+cheat1243_handler = "0"
+cheat1243_code = "801F62A2#4502;3001f676a#000a"
+
+cheat1244_desc = "物品天火"
+cheat1244_handler = "0"
+cheat1244_code = "801F62A2#0c00;3001f676a#000a"
+
+cheat1245_desc = "饰物青灰色の首飾り"
+cheat1245_handler = "0"
+cheat1245_code = "801F62A2#00E7;3001f676a#000a"
+
+cheat1246_desc = "饰物生命の腕輪"
+cheat1246_handler = "0"
+cheat1246_code = "801F62A2#013C;3001f676a#000a"
+
+cheat1247_desc = "饰物エンジェル.キュリオ"
+cheat1247_handler = "0"
+cheat1247_code = "801F62A2#0021;3001f676a#000a"
+
+cheat1248_desc = "饰物プロテクト.チャーム"
+cheat1248_handler = "0"
+cheat1248_code = "801F62A2#0022;3001f676a#000a"
+
+cheat1249_desc = "饰物マジック.チャーム"
+cheat1249_handler = "0"
+cheat1249_code = "801F62A2#0023;3001f676a#000a"
+
+cheat1250_desc = "饰物レジスト.チャーム"
+cheat1250_handler = "0"
+cheat1250_code = "801F62A2#0024;3001f676a#000a"
+
+cheat1251_desc = "饰物フェアリィ.ピアス"
+cheat1251_handler = "0"
+cheat1251_code = "801F62A2#002D;3001f676a#000a"
+
+cheat1252_desc = "饰物フェアリィ.リング"
+cheat1252_handler = "0"
+cheat1252_code = "801F62A2#002E;3001f676a#000a"
+
+cheat1253_desc = "饰物パワー.バングル"
+cheat1253_handler = "0"
+cheat1253_code = "801F62A2#002F;3001f676a#000a"
+
+cheat1254_desc = "饰物マジック.バングル"
+cheat1254_handler = "0"
+cheat1254_code = "801F62A2#0030;3001f676a#000a"
+
+cheat1255_desc = "饰物プロテクト.ジュエル"
+cheat1255_handler = "0"
+cheat1255_code = "801F62A2#0031;3001f676a#000a"
+
+cheat1256_desc = "饰物レジスト.ジュエル"
+cheat1256_handler = "0"
+cheat1256_code = "801F62A2#0032;3001f676a#000a"
+
+cheat1257_desc = "饰物コンボ.ジュエル"
+cheat1257_handler = "0"
+cheat1257_code = "801F62A2#0033;3001f676a#000a"
+
+cheat1258_desc = "饰物マテリアル.ピアス"
+cheat1258_handler = "0"
+cheat1258_code = "801F62A2#0034;3001f676a#000a"
+
+cheat1259_desc = "饰物マテリアル.ジェム"
+cheat1259_handler = "0"
+cheat1259_code = "801F62A2#0035;3001f676a#000a"
+
+cheat1260_desc = "饰物ポイズン.チェック"
+cheat1260_handler = "0"
+cheat1260_code = "801F62A2#0037;3001f676a#000a"
+
+cheat1261_desc = "饰物パラライ.チェック"
+cheat1261_handler = "0"
+cheat1261_code = "801F62A2#0038;3001f676a#000a"
+
+cheat1262_desc = "饰物ストーン.チェック"
+cheat1262_handler = "0"
+cheat1262_code = "801F62A2#0039;3001f676a#000a"
+
+cheat1263_desc = "饰物フリーズ.チェック"
+cheat1263_handler = "0"
+cheat1263_code = "801F62A2#003A;3001f676a#000a"
+
+cheat1264_desc = "饰物カース.チェック"
+cheat1264_handler = "0"
+cheat1264_code = "801F62A2#003B;3001f676a#000a"
+
+cheat1265_desc = "饰物スタン.チェック"
+cheat1265_handler = "0"
+cheat1265_code = "801F62A2#003C;3001f676a#000a"
+
+cheat1266_desc = "饰物マイティ.チェック"
+cheat1266_handler = "0"
+cheat1266_code = "801F62A2#003D;3001f676a#000a"
+
+cheat1267_desc = "饰物ヘイスト.リング"
+cheat1267_handler = "0"
+cheat1267_code = "801F62A2#01E8;3001f676a#000a"
+
+cheat1268_desc = "饰物エナジー.リング"
+cheat1268_handler = "0"
+cheat1268_code = "801F62A2#01E9;3001f676a#000a"
+
+cheat1269_desc = "饰物クラック.リング"
+cheat1269_handler = "0"
+cheat1269_code = "801F62A2#01EA;3001f676a#000a"
+
+cheat1270_desc = "饰物生成の珠"
+cheat1270_handler = "0"
+cheat1270_code = "801F62A2#01F0;3001f676a#000a"
+
+cheat1271_desc = "饰物活性の珠"
+cheat1271_handler = "0"
+cheat1271_code = "801F62A2#01F1;3001f676a#000a"
+
+cheat1272_desc = "饰物ヒール.ピアス"
+cheat1272_handler = "0"
+cheat1272_code = "801F62A2#01F9;3001f676a#000a"
+
+cheat1273_desc = "饰物ヒール.リング"
+cheat1273_handler = "0"
+cheat1273_code = "801F62A2#01FA;3001f676a#000a"
+
+cheat1274_desc = "饰物ラーニング.リング"
+cheat1274_handler = "0"
+cheat1274_code = "801F62A2#01FB;3001f676a#000a"
+
+cheat1275_desc = "饰物スカウト.オーブ"
+cheat1275_handler = "0"
+cheat1275_code = "801F62A2#01FC;3001f676a#000a"
+
+cheat1276_desc = "饰物バシリスクの腕輪"
+cheat1276_handler = "0"
+cheat1276_code = "801F62A2#0151;3001f676a#000a"
+
+cheat1277_desc = "饰物玉瑠璃の欠片"
+cheat1277_handler = "0"
+cheat1277_code = "801F62A2#025D;3001f676a#000a"
+
+cheat1278_desc = "饰物戦乙女のペンダント"
+cheat1278_handler = "0"
+cheat1278_code = "801F62A2#025F;3001f676a#000a"
+
+cheat1279_desc = "饰物押し花"
+cheat1279_handler = "0"
+cheat1279_code = "801F62A2#0260;3001f676a#000a"
+
+cheat1280_desc = "饰物ニーベルンゲンの指環"
+cheat1280_handler = "0"
+cheat1280_code = "801F62A2#0200;3001f676a#000a"
+
+cheat1281_desc = "饰物聖環ブリーシンガル"
+cheat1281_handler = "0"
+cheat1281_code = "801F62A2#0132;3001f676a#000a"
+
+cheat1282_desc = "饰物トライ.エンブレム"
+cheat1282_handler = "0"
+cheat1282_code = "801F62A2#0248;3001f676a#000a"
+
+cheat1283_desc = "携带マリス.サーチ"
+cheat1283_handler = "0"
+cheat1283_code = "801F62A2#023C;3001f676a#000a"
+
+cheat1284_desc = "携带エネミー.サーチ"
+cheat1284_handler = "0"
+cheat1284_code = "801F62A2#023D;3001f676a#000a"
+
+cheat1285_desc = "携带トレジャー.サーチ"
+cheat1285_handler = "0"
+cheat1285_code = "801F62A2#023E;3001f676a#000a"
+
+cheat1286_desc = "携带トラップ.サーチ"
+cheat1286_handler = "0"
+cheat1286_code = "801F62A2#023F;3001f676a#000a"
+
+cheat1287_desc = "携带タイマー.リング"
+cheat1287_handler = "0"
+cheat1287_code = "801F62A2#023A;3001f676a#000a"
+
+cheat1288_desc = "携带ディメンジョン.スリップ"
+cheat1288_handler = "0"
+cheat1288_code = "801F62A2#023B;3001f676a#000a"
+
+cheat1289_desc = "携带幸せのコイン"
+cheat1289_handler = "0"
+cheat1289_code = "801F62A2#0146;3001f676a#000a"
+
+cheat1290_desc = "携带昂魔の鏡"
+cheat1290_handler = "0"
+cheat1290_code = "801F62A2#014f;3001f676a#000a"
+
+cheat1291_desc = "携带不死鳥の羽"
+cheat1291_handler = "0"
+cheat1291_code = "801F62A2#00EA;3001f676a#000a"
+
+cheat1292_desc = "携带配列変換の宝珠"
+cheat1292_handler = "0"
+cheat1292_code = "801F62A2#0009;3001f676a#000a"
+
+cheat1293_desc = "携带上級配列変換の宝珠"
+cheat1293_handler = "0"
+cheat1293_code = "801F62A2#000A;3001f676a#000a"
+
+cheat1294_desc = "携带(仅神界传送专用)カルラの真珠"
+cheat1294_handler = "0"
+cheat1294_code = "801F62A2#00D4;3001f676a#000a"
+
+cheat1295_desc = "携带(仅神界传送专用)ベトネス教本"
+cheat1295_handler = "0"
+cheat1295_code = "801F62A2#00D5;3001f676a#000a"
+
+cheat1296_desc = "携带(仅神界传送专用)极上叶卷"
+cheat1296_handler = "0"
+cheat1296_code = "801F62A2#00D6;3001f676a#000a"
+
+cheat1297_desc = "携带(仅神界传送专用)七色の飴玉"
+cheat1297_handler = "0"
+cheat1297_code = "801F62A2#00D7;3001f676a#000a"
+
+cheat1298_desc = "携带(仅神界传送专用)ウサギの足"
+cheat1298_handler = "0"
+cheat1298_code = "801F62A2#00D8;3001f676a#000a"
+
+cheat1299_desc = "携带(仅神界传送专用)天使の唇"
+cheat1299_handler = "0"
+cheat1299_code = "801F62A2#00D9;3001f676a#000a"
+
+cheat1300_desc = "携带(仅神界传送专用)魔物図鑑"
+cheat1300_handler = "0"
+cheat1300_code = "801F62A2#00DA;3001f676a#000a"
+
+cheat1301_desc = "携带(仅神界传送专用)悪魔絵書"
+cheat1301_handler = "0"
+cheat1301_code = "801F62A2#00DB;3001f676a#000a"
+
+cheat1302_desc = "携带(仅神界传送专用)デボーネの頭蓋"
+cheat1302_handler = "0"
+cheat1302_code = "801F62A2#00DC;3001f676a#000a"
+
+cheat1303_desc = "携带(仅神界传送专用)ラリウの貝殻"
+cheat1303_handler = "0"
+cheat1303_code = "801F62A2#00DD;3001f676a#000a"
+
+cheat1304_desc = "携带(仅神界传送专用)駿馬のたてがみ"
+cheat1304_handler = "0"
+cheat1304_code = "801F62A2#00DE;3001f676a#000a"
+
+cheat1305_desc = "携带(仅神界传送专用)炎のバンダナ"
+cheat1305_handler = "0"
+cheat1305_code = "801F62A2#00DF;3001f676a#000a"
+
+cheat1306_desc = "药品类エリクサー"
+cheat1306_handler = "0"
+cheat1306_code = "801F62A2#01bb;3001f676a#000a"
+
+cheat1307_desc = "药品类バニッシュ"
+cheat1307_handler = "0"
+cheat1307_code = "801F62A2#0002;3001f676a#000a"
+
+cheat1308_desc = "药品类ユニオン.プラム"
+cheat1308_handler = "0"
+cheat1308_code = "801F62A2#0003;3001f676a#000a"
+
+cheat1309_desc = "药品类プライム.エリクサー"
+cheat1309_handler = "0"
+cheat1309_code = "801F62A2#0004;3001f676a#000a"
+
+cheat1310_desc = "药品类プライム.バニッシュ"
+cheat1310_handler = "0"
+cheat1310_code = "801F62A2#0005;3001f676a#000a"
+
+cheat1311_desc = "药品类ノーブル.エリクサー"
+cheat1311_handler = "0"
+cheat1311_code = "801F62A2#0006;3001f676a#000a"
+
+cheat1312_desc = "药品类ノーブル.バニッシュ"
+cheat1312_handler = "0"
+cheat1312_code = "801F62A2#0007;3001f676a#000a"
+
+cheat1313_desc = "药品类スペクタクルズ"
+cheat1313_handler = "0"
+cheat1313_code = "801F62A2#0008;3001f676a#000a"
+
+cheat1314_desc = "药品类マイト.ポーション"
+cheat1314_handler = "0"
+cheat1314_code = "801F62A2#0012;3001f676a#000a"
+
+cheat1315_desc = "药品类リキュール.ポーション"
+cheat1315_handler = "0"
+cheat1315_code = "801F62A2#0013;3001f676a#000a"
+
+cheat1316_desc = "药品类セキュア.ポーション"
+cheat1316_handler = "0"
+cheat1316_code = "801F62A2#0014;3001f676a#000a"
+
+cheat1317_desc = "药品类ルシッド.ポーション"
+cheat1317_handler = "0"
+cheat1317_code = "801F62A2#0015;3001f676a#000a"
+
+cheat1318_desc = "药品类チャージ.ブレイク"
+cheat1318_handler = "0"
+cheat1318_code = "801F62A2#001F;3001f676a#000a"
+
+cheat1319_desc = "药品类コンボ.ポーション"
+cheat1319_handler = "0"
+cheat1319_code = "801F62A2#0020;3001f676a#000a"
+
+cheat1320_desc = "战斗用其他道具ホーリィ.ジェム"
+cheat1320_handler = "0"
+cheat1320_code = "801F62A2#0199;3001f676a#000a"
+
+cheat1321_desc = "战斗用其他道具ホーリィ.クリスタル"
+cheat1321_handler = "0"
+cheat1321_code = "801F62A2#019F;3001f676a#000a"
+
+cheat1322_desc = "战斗用其他道具フレア.ジェム"
+cheat1322_handler = "0"
+cheat1322_code = "801F62A2#0195;3001f676a#000a"
+
+cheat1323_desc = "战斗用其他道具アイス.ジェム"
+cheat1323_handler = "0"
+cheat1323_code = "801F62A2#0196;3001f676a#000a"
+
+cheat1324_desc = "战斗用其他道具サンダー.ジェム"
+cheat1324_handler = "0"
+cheat1324_code = "801F62A2#0197;3001f676a#000a"
+
+cheat1325_desc = "战斗用其他道具ポイズン.ジェム"
+cheat1325_handler = "0"
+cheat1325_code = "801F62A2#0198;3001f676a#000a"
+
+cheat1326_desc = "战斗用其他道具シャドゥ.ジェム"
+cheat1326_handler = "0"
+cheat1326_code = "801F62A2#019A;3001f676a#000a"
+
+cheat1327_desc = "战斗用其他道具フレア.クリスタル"
+cheat1327_handler = "0"
+cheat1327_code = "801F62A2#019B;3001f676a#000a"
+
+cheat1328_desc = "战斗用其他道具アイス.クリスタル"
+cheat1328_handler = "0"
+cheat1328_code = "801F62A2#019C;3001f676a#000a"
+
+cheat1329_desc = "战斗用其他道具サンダー.クリスタル"
+cheat1329_handler = "0"
+cheat1329_code = "801F62A2#019D;3001f676a#000a"
+
+cheat1330_desc = "战斗用其他道具ポイズン.クリスタル"
+cheat1330_handler = "0"
+cheat1330_code = "801F62A2#019E;3001f676a#000a"
+
+cheat1331_desc = "战斗用其他道具シャドゥ.クリスタル"
+cheat1331_handler = "0"
+cheat1331_code = "801F62A2#01A0;3001f676a#000a"
+
+cheat1332_desc = "战斗用其他道具錬金術の書"
+cheat1332_handler = "0"
+cheat1332_code = "801F62A2#0136;3001f676a#000a"
+
+cheat1333_desc = "战斗用其他道具幻視の珠"
+cheat1333_handler = "0"
+cheat1333_code = "801F62A2#01F2;3001f676a#000a"
+
+cheat1334_desc = "战斗用其他道具転換の杖"
+cheat1334_handler = "0"
+cheat1334_code = "801F62A2#014E;3001f676a#000a"
+
+cheat1335_desc = "战斗用其他道具羽飾りの怀中時計"
+cheat1335_handler = "0"
+cheat1335_code = "801F62A2#0264;3001f676a#000a"
+
+cheat1336_desc = "技能类オート.アイテム"
+cheat1336_handler = "0"
+cheat1336_code = "801F62A2#0201;3001f676a#000a"
+
+cheat1337_desc = "技能类スロー"
+cheat1337_handler = "0"
+cheat1337_code = "801F62A2#0202;3001f676a#000a"
+
+cheat1338_desc = "技能类キュア.コンディション"
+cheat1338_handler = "0"
+cheat1338_code = "801F62A2#0203;3001f676a#000a"
+
+cheat1339_desc = "技能类ガッツ"
+cheat1339_handler = "0"
+cheat1339_code = "801F62A2#0204;3001f676a#000a"
+
+cheat1340_desc = "技能类アデプト.イリュージョン"
+cheat1340_handler = "0"
+cheat1340_code = "801F62A2#0205;3001f676a#000a"
+
+cheat1341_desc = "技能类ラスト.トライアル"
+cheat1341_handler = "0"
+cheat1341_code = "801F62A2#0207;3001f676a#000a"
+
+cheat1342_desc = "技能类スプラッシュ"
+cheat1342_handler = "0"
+cheat1342_code = "801F62A2#0208;3001f676a#000a"
+
+cheat1343_desc = "技能类レヴェリー"
+cheat1343_handler = "0"
+cheat1343_code = "801F62A2#0209;3001f676a#000a"
+
+cheat1344_desc = "技能类コンボ.カウンター"
+cheat1344_handler = "0"
+cheat1344_code = "801F62A2#020A;3001f676a#000a"
+
+cheat1345_desc = "技能类ノイズ.アロー"
+cheat1345_handler = "0"
+cheat1345_code = "801F62A2#020B;3001f676a#000a"
+
+cheat1346_desc = "技能类トリック.ステップ"
+cheat1346_handler = "0"
+cheat1346_code = "801F62A2#0214;3001f676a#000a"
+
+cheat1347_desc = "技能类スタン.マジック"
+cheat1347_handler = "0"
+cheat1347_code = "801F62A2#020E;3001f676a#000a"
+
+cheat1348_desc = "技能类コンセントレーション"
+cheat1348_handler = "0"
+cheat1348_code = "801F62A2#020F;3001f676a#000a"
+
+cheat1349_desc = "技能类スカーレット.エッジ"
+cheat1349_handler = "0"
+cheat1349_code = "801F62A2#0210;3001f676a#000a"
+
+cheat1350_desc = "技能类チャージ"
+cheat1350_handler = "0"
+cheat1350_code = "801F62A2#0211;3001f676a#000a"
+
+cheat1351_desc = "技能类ストライク.エッジ"
+cheat1351_handler = "0"
+cheat1351_code = "801F62A2#0212;3001f676a#000a"
+
+cheat1352_desc = "技能类ダーク"
+cheat1352_handler = "0"
+cheat1352_code = "801F62A2#0213;3001f676a#000a"
+
+cheat1353_desc = "技能类メンタル.リアクション"
+cheat1353_handler = "0"
+cheat1353_code = "801F62A2#0215;3001f676a#000a"
+
+cheat1354_desc = "技能类ウェイト.リアクション"
+cheat1354_handler = "0"
+cheat1354_code = "801F62A2#0216;3001f676a#000a"
+
+cheat1355_desc = "技能类スランティング.レイン"
+cheat1355_handler = "0"
+cheat1355_code = "801F62A2#0217;3001f676a#000a"
+
+cheat1356_desc = "技能类ダークネス.アロー"
+cheat1356_handler = "0"
+cheat1356_code = "801F62A2#0218;3001f676a#000a"
+
+cheat1357_desc = "技能类フォールス.アロー"
+cheat1357_handler = "0"
+cheat1357_code = "801F62A2#0219;3001f676a#000a"
+
+cheat1358_desc = "技能类アタック.パワー"
+cheat1358_handler = "0"
+cheat1358_code = "801F62A2#021A;3001f676a#000a"
+
+cheat1359_desc = "技能类ディフェンド"
+cheat1359_handler = "0"
+cheat1359_code = "801F62A2#021B;3001f676a#000a"
+
+cheat1360_desc = "技能类アボイド"
+cheat1360_handler = "0"
+cheat1360_code = "801F62A2#021C;3001f676a#000a"
+
+cheat1361_desc = "技能类ヒット"
+cheat1361_handler = "0"
+cheat1361_code = "801F62A2#021D;3001f676a#000a"
+
+cheat1362_desc = "技能类レジスト.ダメージ"
+cheat1362_handler = "0"
+cheat1362_code = "801F62A2#021E;3001f676a#000a"
+
+cheat1363_desc = "技能类マジック.パワー"
+cheat1363_handler = "0"
+cheat1363_code = "801F62A2#021F;3001f676a#000a"
+
+cheat1364_desc = "技能类レジスト.マジック"
+cheat1364_handler = "0"
+cheat1364_code = "801F62A2#0220;3001f676a#000a"
+
+cheat1365_desc = "特殊类ラピス晶石"
+cheat1365_handler = "0"
+cheat1365_code = "801F62A2#01F7;3001f676a#000a"
+
+cheat1366_desc = "特殊类クリス晶石"
+cheat1366_handler = "0"
+cheat1366_code = "801F62A2#01F8;3001f676a#000a"
+
+cheat1367_desc = "特殊类聖なる雫"
+cheat1367_handler = "0"
+cheat1367_code = "801F62A2#0261;3001f676a#000a"
+
+cheat1368_desc = "特殊类金の卵"
+cheat1368_handler = "0"
+cheat1368_code = "801F62A2#014B;3001f676a#000a"
+
+cheat1369_desc = "特殊类アンブロシア"
+cheat1369_handler = "0"
+cheat1369_code = "801F62A2#00F6;3001f676a#000a"
+
+cheat1370_desc = "特殊类ミスリル鉱石"
+cheat1370_handler = "0"
+cheat1370_code = "801F62A2#0185;3001f676a#000a"
+
+cheat1371_desc = "特殊类鉄鉱石"
+cheat1371_handler = "0"
+cheat1371_code = "801F62A2#0186;3001f676a#000a"
+
+cheat1372_desc = "特殊类羽毛"
+cheat1372_handler = "0"
+cheat1372_code = "801F62A2#0187;3001f676a#000a"
+
+cheat1373_desc = "特殊类獣肉"
+cheat1373_handler = "0"
+cheat1373_code = "801F62A2#0188;3001f676a#000a"
+
+cheat1374_desc = "特殊类黄水晶"
+cheat1374_handler = "0"
+cheat1374_code = "801F62A2#0189;3001f676a#000a"
+
+cheat1375_desc = "特殊类聖遺物"
+cheat1375_handler = "0"
+cheat1375_code = "801F62A2#0183;3001f676a#000a"
+
+cheat1376_desc = "特殊类アサ教典"
+cheat1376_handler = "0"
+cheat1376_code = "801F62A2#0184;3001f676a#000a"
+
+cheat1377_desc = "特殊类不老不死の書"
+cheat1377_handler = "0"
+cheat1377_code = "801F62A2#017f;3001f676a#000a"
+
+cheat1378_desc = "特殊类透化薬"
+cheat1378_handler = "0"
+cheat1378_code = "801F62A2#0180;3001f676a#000a"
+
+cheat1379_desc = "特殊类ジギタリス"
+cheat1379_handler = "0"
+cheat1379_code = "801F62A2#0179;3001f676a#000a"
+
+cheat1380_desc = "特殊类トリカブト"
+cheat1380_handler = "0"
+cheat1380_code = "801F62A2#017a;3001f676a#000a"
+
+cheat1381_desc = "特殊类ベラドンナ"
+cheat1381_handler = "0"
+cheat1381_code = "801F62A2#017b;3001f676a#000a"
+
+cheat1382_desc = "特殊类セボリー"
+cheat1382_handler = "0"
+cheat1382_code = "801F62A2#017d;3001f676a#000a"
+
+cheat1383_desc = "特殊类グールパウダー"
+cheat1383_handler = "0"
+cheat1383_code = "801F62A2#017c;3001f676a#000a"
+
+cheat1384_desc = "特殊类マンドレイク"
+cheat1384_handler = "0"
+cheat1384_code = "801F62A2#017e;3001f676a#000a"
+
+cheat1385_desc = "特殊类折れた槍"
+cheat1385_handler = "0"
+cheat1385_code = "801F62A2#0190;3001f676a#000a"
+
+cheat1386_desc = "特殊类壊れた弓"
+cheat1386_handler = "0"
+cheat1386_code = "801F62A2#0191;3001f676a#000a"
+
+cheat1387_desc = "特殊类海鮮肉"
+cheat1387_handler = "0"
+cheat1387_code = "801F62A2#0192;3001f676a#000a"
+
+cheat1388_desc = "特殊类卑金属"
+cheat1388_handler = "0"
+cheat1388_code = "801F62A2#0193;3001f676a#000a"
+
+cheat1389_desc = "特殊类壊れた鎧"
+cheat1389_handler = "0"
+cheat1389_code = "801F62A2#0194;3001f676a#000a"
+
+cheat1390_desc = "特殊类黒真珠の粉"
+cheat1390_handler = "0"
+cheat1390_code = "801F62A2#018c;3001f676a#000a"
+
+cheat1391_desc = "特殊类猛禽の爪"
+cheat1391_handler = "0"
+cheat1391_code = "801F62A2#018d;3001f676a#000a"
+
+cheat1392_desc = "特殊类獣の牙"
+cheat1392_handler = "0"
+cheat1392_code = "801F62A2#018e;3001f676a#000a"
+
+cheat1393_desc = "特殊类ボルト酒"
+cheat1393_handler = "0"
+cheat1393_code = "801F62A2#018f;3001f676a#000a"
+
+cheat1394_desc = "特殊类ユニコーンの角"
+cheat1394_handler = "0"
+cheat1394_code = "801F62A2#018a;3001f676a#000a"
+
+cheat1395_desc = "特殊类首の無い人形"
+cheat1395_handler = "0"
+cheat1395_code = "801F62A2#0174;3001f676a#000a"
+
+cheat1396_desc = "特殊类折れた剣"
+cheat1396_handler = "0"
+cheat1396_code = "801F62A2#0175;3001f676a#000a"
+
+cheat1397_desc = "特殊类植物の種子"
+cheat1397_handler = "0"
+cheat1397_code = "801F62A2#0178;3001f676a#000a"
+
+cheat1398_desc = "特殊类鉄格子の鍵"
+cheat1398_handler = "0"
+cheat1398_code = "801F62A2#0257;3001f676a#000a"
+
+cheat1399_desc = "特殊类天空の瞳"
+cheat1399_handler = "0"
+cheat1399_code = "801F62A2#00E9;3001f676a#000a"
+
+cheat1400_desc = "特殊类マテリアル.ポーション"
+cheat1400_handler = "0"
+cheat1400_code = "801F62A2#01E7;3001f676a#000a"
+
+cheat1401_desc = "特殊类オリハルコン"
+cheat1401_handler = "0"
+cheat1401_code = "801F62A2#0143;3001f676a#000a"
+
+cheat1402_desc = "特殊类謎の書物8"
+cheat1402_handler = "0"
+cheat1402_code = "801F62A2#0249;3001f676a#000a"
+
+cheat1403_desc = "特殊类謎の書物7"
+cheat1403_handler = "0"
+cheat1403_code = "801F62A2#024A;3001f676a#000a"
+
+cheat1404_desc = "特殊类謎の書物6"
+cheat1404_handler = "0"
+cheat1404_code = "801F62A2#024B;3001f676a#000a"
+
+cheat1405_desc = "特殊类謎の書物5"
+cheat1405_handler = "0"
+cheat1405_code = "801F62A2#024C;3001f676a#000a"
+
+cheat1406_desc = "特殊类謎の書物4"
+cheat1406_handler = "0"
+cheat1406_code = "801F62A2#024D;3001f676a#000a"
+
+cheat1407_desc = "特殊类謎の書物3"
+cheat1407_handler = "0"
+cheat1407_code = "801F62A2#024E;3001f676a#000a"
+
+cheat1408_desc = "特殊类謎の書物2"
+cheat1408_handler = "0"
+cheat1408_code = "801F62A2#024F;3001f676a#000a"
+
+cheat1409_desc = "特殊类謎の書物1"
+cheat1409_handler = "0"
+cheat1409_code = "801F62A2#0250;3001f676a#000a"
+
+cheat1410_desc = "特殊类ミトラの聖水"
+cheat1410_handler = "0"
+cheat1410_code = "801F62A2#00EB;3001f676a#000a"
+
+cheat1411_desc = "神界物品类碑文の欠片"
+cheat1411_handler = "0"
+cheat1411_code = "801F62A2#0137;3001f676a#000a"
+
+cheat1412_desc = "神界物品类黄金の鶏"
+cheat1412_handler = "0"
+cheat1412_code = "801F62A2#0144;3001f676a#000a"
+
+cheat1413_desc = "神界物品类ドライアドの樹皮"
+cheat1413_handler = "0"
+cheat1413_code = "801F62A2#013D;3001f676a#000a"
+
+cheat1414_desc = "神界物品类妖艶な彫像"
+cheat1414_handler = "0"
+cheat1414_code = "801F62A2#013F;3001f676a#000a"
+
+cheat1415_desc = "神界物品类妖精の瓶詰め"
+cheat1415_handler = "0"
+cheat1415_code = "801F62A2#0141;3001f676a#000a"
+
+cheat1416_desc = "神界物品类聖杯"
+cheat1416_handler = "0"
+cheat1416_code = "801F62A2#0156;3001f676a#000a"
+
+cheat1417_desc = "神界物品类久遠の灯火"
+cheat1417_handler = "0"
+cheat1417_code = "801F62A2#0157;3001f676a#000a"
+
+cheat1418_desc = "神界物品类ダリスの香炉"
+cheat1418_handler = "0"
+cheat1418_code = "801F62A2#015d;3001f676a#000a"
+
+cheat1419_desc = "神界物品类蘇生秘法書"
+cheat1419_handler = "0"
+cheat1419_code = "801F62A2#015e;3001f676a#000a"
+
+cheat1420_desc = "神界物品类銀河の雫"
+cheat1420_handler = "0"
+cheat1420_code = "801F62A2#015f;3001f676a#000a"
+
+cheat1421_desc = "神界物品类ダマスクス製法書"
+cheat1421_handler = "0"
+cheat1421_code = "801F62A2#0139;3001f676a#000a"
+
+cheat1422_desc = "神界物品类炎呪の珠"
+cheat1422_handler = "0"
+cheat1422_code = "801F62A2#025A;3001f676a#000a"
+
+cheat1423_desc = "神界物品类炎呪の珠"
+cheat1423_handler = "0"
+cheat1423_code = "801F62A2#025B;3001f676a#000a"
+
+cheat1424_desc = "神界物品类封印の小箱"
+cheat1424_handler = "0"
+cheat1424_code = "801F62A2#00F3;3001f676a#000a"
+
+cheat1425_desc = "神界物品类神さびた砂時計"
+cheat1425_handler = "0"
+cheat1425_code = "801F62A2#0135;3001f676a#000a"
+
+cheat1426_desc = "神界物品类操呪兵設計図面"
+cheat1426_handler = "0"
+cheat1426_code = "801F62A2#00F0;3001f676a#000a"
+
+cheat1427_desc = "神界物品类アトレイシアの竪琴"
+cheat1427_handler = "0"
+cheat1427_code = "801F62A2#00F2;3001f676a#000a"
+
+cheat1428_desc = "神界物品类賢者ソロンの秘文書"
+cheat1428_handler = "0"
+cheat1428_code = "801F62A2#00E8;3001f676a#000a"
+
+cheat1429_desc = "神界物品类紅水晶のオルゴール"
+cheat1429_handler = "0"
+cheat1429_code = "801F62A2#0147;3001f676a#000a"
+
+cheat1430_desc = "神界物品类聖酒リシュブール"
+cheat1430_handler = "0"
+cheat1430_code = "801F62A2#0150;3001f676a#000a"
+
+cheat1431_desc = "咒文书类ファイア.ランス"
+cheat1431_handler = "0"
+cheat1431_code = "801F62A2#0221;3001f676a#000a"
+
+cheat1432_desc = "咒文书类バーン.ストーム"
+cheat1432_handler = "0"
+cheat1432_code = "801F62A2#0222;3001f676a#000a"
+
+cheat1433_desc = "咒文书类アイシクル.エッジ"
+cheat1433_handler = "0"
+cheat1433_code = "801F62A2#0223;3001f676a#000a"
+
+cheat1434_desc = "咒文书类クール.ダンセル"
+cheat1434_handler = "0"
+cheat1434_code = "801F62A2#0224;3001f676a#000a"
+
+cheat1435_desc = "咒文书类プリズミック.ミサイル"
+cheat1435_handler = "0"
+cheat1435_code = "801F62A2#0226;3001f676a#000a"
+
+cheat1436_desc = "咒文书类ライトニング.ボルト"
+cheat1436_handler = "0"
+cheat1436_code = "801F62A2#0225;3001f676a#000a"
+
+cheat1437_desc = "咒文书类ストーン.トウチ"
+cheat1437_handler = "0"
+cheat1437_code = "801F62A2#022A;3001f676a#000a"
+
+cheat1438_desc = "咒文书类ポイズン.ブロウ"
+cheat1438_handler = "0"
+cheat1438_code = "801F62A2#0229;3001f676a#000a"
+
+cheat1439_desc = "咒文书类イグニート.ジャベリン"
+cheat1439_handler = "0"
+cheat1439_code = "801F62A2#022C;3001f676a#000a"
+
+cheat1440_desc = "咒文书类クロス.エアレイド"
+cheat1440_handler = "0"
+cheat1440_code = "801F62A2#022B;3001f676a#000a"
+
+cheat1441_desc = "咒文书类ダーク.セイヴァー"
+cheat1441_handler = "0"
+cheat1441_code = "801F62A2#0228;3001f676a#000a"
+
+cheat1442_desc = "咒文书类シャドゥ.サーヴァント"
+cheat1442_handler = "0"
+cheat1442_code = "801F62A2#0227;3001f676a#000a"
+
+cheat1443_desc = "咒文书类キュア.プラムス"
+cheat1443_handler = "0"
+cheat1443_code = "801F62A2#022E;3001f676a#000a"
+
+cheat1444_desc = "咒文书类オーディナィ.シェイプ"
+cheat1444_handler = "0"
+cheat1444_code = "801F62A2#022F;3001f676a#000a"
+
+cheat1445_desc = "咒文书类エヴォーク.フェザー"
+cheat1445_handler = "0"
+cheat1445_code = "801F62A2#022D;3001f676a#000a"
+
+cheat1446_desc = "咒文书类マイト.レインフォース"
+cheat1446_handler = "0"
+cheat1446_code = "801F62A2#0231;3001f676a#000a"
+
+cheat1447_desc = "咒文书类ガード.レインフォース"
+cheat1447_handler = "0"
+cheat1447_code = "801F62A2#0232;3001f676a#000a"
+
+cheat1448_desc = "咒文书类スペル.レインフォース"
+cheat1448_handler = "0"
+cheat1448_code = "801F62A2#0233;3001f676a#000a"
+
+cheat1449_desc = "咒文书类レデュース.パワー"
+cheat1449_handler = "0"
+cheat1449_code = "801F62A2#0234;3001f676a#000a"
+
+cheat1450_desc = "咒文书类レデュース.ガード"
+cheat1450_handler = "0"
+cheat1450_code = "801F62A2#0235;3001f676a#000a"
+
+cheat1451_desc = "咒文书类プリベント.ソーサリー"
+cheat1451_handler = "0"
+cheat1451_code = "801F62A2#0236;3001f676a#000a"
+
+cheat1452_desc = "咒文书类リフレクト.ソーサリー"
+cheat1452_handler = "0"
+cheat1452_code = "801F62A2#0237;3001f676a#000a"
+
+cheat1453_desc = "咒文书类シールド.クリティカル"
+cheat1453_handler = "0"
+cheat1453_code = "801F62A2#0238;3001f676a#000a"
+
+cheat1454_desc = "经验宝珠全满"
+cheat1454_handler = "0"
+cheat1454_code = "8004AA24#967F;8004AA26#0098"
+
+cheat1455_desc = "封印值=0"
+cheat1455_handler = "0"
+cheat1455_code = "801E5C42#0000"
+
+cheat1456_desc = "加特技的点数999ALL"
+cheat1456_handler = "0"
+cheat1456_code = "801DFF6C#03E7;801E005A#03E7;801E0144#03E7;801E0230#03E7;801E031C#03E7;801E0408#03E7;801E04F4#03E7;801E05E0#03E7;801E06CC#03E7;801E07B8#03E7;801E08A4#03E7;801E0990#03E7;801E0A7C#03E7;801E0B68#03E7;801E0C54#03E7;801E0D40#03E7;801E0E2C#03E7;801E0F18#03E7;801E1004#03E7;801E10F0#03E7;801E11DC#03E7;801E12C8#03E7;801E13B4#03E7;801E14A0#03E7;801E158C#03E7"
+
+cheat1457_desc = "游戏时间为0"
+cheat1457_handler = "0"
+cheat1457_code = "801F5F84#0000;801F5F86#0000"
+
+cheat1458_desc = "打开Seraphic Gate模式"
+cheat1458_handler = "0"
+cheat1458_code = "8005E28E#0011"
+
+cheat1459_desc = "全配音"
+cheat1459_handler = "0"
+cheat1459_code = "B04D0002#00000000,80060860#FFFF"
+
+cheat1460_desc = "新道具"
+cheat1460_handler = "0"
+cheat1460_code = "801F62A4#0016;801F62A6#0017;801F62A8#0018;801F62AA#0019;801F62AC#001a;801F62AE#001b;801F62B0#001c;801F62b2#0099;801F62b4#009a;801F62B6#009b;801F62B8#009c;801F62BA#00a2;801F62BC#00a3;801F62BE#00a4;801F62C0#0112;801F62C2#0113;801F62C4#0114;801F62C6#0115;801F62C8#0116;801F62CA#0117;801F62CC#0118;801F62CE#0152;801F62D0#01c4;801F62D2#01c5;801F62D4#01c6;801F62D6#01c7;801F62D8#01c8;801F62DA#01cb;801F62DC#01cc;801F62DE#000b;801F62E0#000c;801F62E2#0035;801F62E4#0036;801F62E6#0037;801F62E8#0038;801F62EA#0039;801F62EC#000d;801F62EE#000e;801F62F0#000f;801F62F2#0010;801F62F4#00e0;801F62F6#00e1;801F62F8#00e2;801F62FA#00e3;801F62FC#00e4;801F62FE#00e5;801F6300#0240;801F6302#0241;801F6304#0242;801F6306#0243;801F6308#0244;801F630A#0245;801F630C#0003;801F630E#0006;801F6310#0007;801F6312#000a;801F6314#003d;801F6316#00ea;801F6318#00f6;801F631A#014b;801F631C#014f;801F631E#023b;801F6320#0248;801F6322#0261;801F6324#0263;801F6326#0264;801F6328#002f;801F632A#0030;801F632C#0135;801F632E#0136;801F6330#0138;801F6332#013b;801F6334#01f9;801F6336#0120;801F6338#0134;801F633a#0172;801F633C#0173;801F633E#003e;801F6340#0262;801f6342#01fb;801f676a#6363;801f676c#6363;801f676e#6363;801f6770#6363;801f6772#6363;801f6774#6363;801f6776#6363;801f6778#6363;801f677a#6363;801f677c#6363;801f677e#6363;801f6780#6363;801f6782#6363;801f6784#6363;801f6786#6363;801f6788#6363;801f678a#6363;801f678c#6363;801f678e#6363;801f6790#6363;801f6792#6363;801f6794#6363;801f6796#6363;801f6798#6363;801f679a#6363;801f679c#6363;801f679e#6363;801f67a0#6363;801f67a2#6363;801f67a4#6363;801f67a6#6363;801f67a8#6363;801f67aa#6363;801f67ac#6363;801f67ae#6363;801f67b0#6363;801f67b2#6363;801f67b4#6363;801f67b6#6363;801f67b8#6363"
+
+cheat1461_desc = "全道具"
+cheat1461_handler = "0"
+cheat1461_code = "BOFF0002#00000001,301F62A2#0000;B0FF0001#00000000,301F676A#0063"
+
+cheat1462_desc = "一発で決め技ゲージMAX"
+cheat1462_handler = "0"
+cheat1462_code = "D003DC64#1021,8003DC64#0064;D003DC66#0045,8003DC66#2002"
+
+cheat1463_desc = "ターン終了時にCT0"
+cheat1463_handler = "0"
+cheat1463_code = "D0066B2E#2462,80066B2E#3002"
+
+cheat1464_desc = "攻撃のダメージを安定させる"
+cheat1464_handler = "0"
+cheat1464_code = "D003ADCC#05B8,8003ADCE#3004"
+
+cheat1465_desc = "評価値減らない"
+cheat1465_handler = "0"
+cheat1465_code = "D005FF70#0388,8005FF72#3000"
+
+cheat1466_desc = "フレイ仲間になる"
+cheat1466_handler = "0"
+cheat1466_code = "301E0061#0001;301E1595#0001"
+
+cheat1467_desc = "フレイがクリティカルフレアエリアルバーストサンダーソード使用可能(Combo)"
+cheat1467_handler = "0"
+cheat1467_code = "801E0024#0201;801E0026#0100"
+
+cheat1468_desc = "全员得到生命腕轮的效果"
+cheat1468_handler = "0"
+cheat1468_code = "D0044A02#0220,800453C0#0001;D0044A02#0220,800453C2#2402;D009D03E#0220,80099A94#0001;D009D03E#0220,80099A96#2402"
+
+cheat1469_desc = "全员得到青灰色首饰的效果"
+cheat1469_handler = "0"
+cheat1469_code = "D0044A02#0220,80045630#0001;D009D03E#0220,80099D04#0001"
+
+cheat1470_desc = "修改人物大魔法为龙珠(ドラゴンオーブLork专用的最终魔法)第一人"
+cheat1470_handler = "0"
+cheat1470_code = "800EADC4#000C"
+
+cheat1471_desc = "修改人物大魔法为龙珠(ドラゴンオーブLork专用的最终魔法)第二人"
+cheat1471_handler = "0"
+cheat1471_code = "800EB47C#000C"
+
+cheat1472_desc = "修改人物大魔法为龙珠(ドラゴンオーブLork专用的最终魔法)第三人"
+cheat1472_handler = "0"
+cheat1472_code = "800EBB34#000C"
+
+cheat1473_desc = "修改人物大魔法为龙珠(ドラゴンオーブLork专用的最终魔法)第四人"
+cheat1473_handler = "0"
+cheat1473_code = "800EC1EC#000C"
+
+cheat1474_desc = "路西奥招招出眩雷波（12hits)"
+cheat1474_handler = "0"
+cheat1474_code = "801e1380#0201;801e1382#0202"
+
+cheat1475_desc = "洵招招出伪决（千光刃）"
+cheat1475_handler = "0"
+cheat1475_code = "801e0a48#0301;801e0a4a#0303"
+
+cheat1476_desc = "不死王招招出伪决（血咒灭神断)"
+cheat1476_handler = "0"
+cheat1476_code = "801e1558#0301;801E155A#0303"
+
+cheat1477_desc = "罗法招招出伪决（裁决湍流)"
+cheat1477_handler = "0"
+cheat1477_code = "801e02e8#0301;801e02ea#0303"
+
+cheat1478_desc = "芙蕾招招出临界星光（6hits)"
+cheat1478_handler = "0"
+cheat1478_code = "801e0024#0001;801e0026#0000"
+
+cheat1479_desc = "瓦尔基里（弓）招招出无限破（4hits)"
+cheat1479_handler = "0"
+cheat1479_code = "801dff38#0204;801dff3a#0202"
+
+cheat1480_desc = "拉乌利招招出伪决（层面风暴)"
+cheat1480_handler = "0"
+cheat1480_code = "801e04c0#0304;801e04c2#0303"
+
+cheat1481_desc = "杰克里那斯"
+cheat1481_handler = "0"
+cheat1481_code = "801e0698#0304;801e069a#0303"
+
+cheat1482_desc = "格雷"
+cheat1482_handler = "0"
+cheat1482_code = "801e0d0c#0104;801e0d0e#0303"
+
+cheat1483_desc = "攻击命中后HIT变为99"
+cheat1483_handler = "0"
+cheat1483_code = "D003A84A#2462,8003A848#0063;D003A84A#2462,8003A84A#2402"
+
+cheat1484_desc = "レザード成为同伴"
+cheat1484_handler = "0"
+cheat1484_code = "301E14A9#0001"
+
+cheat1485_desc = "新しいアイテム中華版"
+cheat1485_handler = "0"
+cheat1485_code = "801F62A4#0016;801F62A6#0017;801F62A8#0018;801F62AA#0019;801F62AC#001a;801F62AE#001b;801F62B0#001c;801F62b2#0099;801F62b4#009a;801F62B6#009b;801F62B8#009c;801F62BA#00a2;801F62BC#00a3;801F62BE#00a4;801F62C0#0112;801F62C2#0113;801F62C4#0114;801F62C6#0115;801F62C8#0116;801F62CA#0117;801F62CC#0118;801F62CE#0152;801F62D0#01c4;801F62D2#01c5;801F62D4#01c6;801F62D6#01c7;801F62D8#01c8;801F62DA#01cb;801F62DC#01cc;801F62DE#000b;801F62E0#000c;801F62E2#0035;801F62E4#0036;801F62E6#0037;801F62E8#0038;801F62EA#0039;801F62EC#000d;801F62EE#000e;801F62F0#000f;801F62F2#0010;801F62F4#00e0;801F62F6#00e1;801F62F8#00e2;801F62FA#00e3;801F62FC#00e4;801F62FE#00e5;801F6300#0240;801F6302#0241;801F6304#0242;801F6306#0243;801F6308#0244;801F630A#0245;801F630C#0003;801F630E#0006;801F6310#0007;801F6312#000a;801F6314#003d;801F6316#00ea;801F6318#00f6;801F631A#014b;801F631C#014f;801F631E#023b;801F6320#0248;801F6322#0261;801F6324#0263;801F6326#0264;801F6328#002f;801F632A#0030;801F632C#0135;801F632E#0136;801F6330#0138;801F6332#013b;801F6334#01f9;801F6336#0120;801F6338#0134;801F633a#0172;801F633C#0173;801F633E#003e;801F6340#0262;801f6342#01fb;801f676a#6363;801f676c#6363;801f676e#6363;801f6770#6363;801f6772#6363;801f6774#6363;801f6776#6363;801f6778#6363;801f677a#6363;801f677c#6363;801f677e#6363;801f6780#6363;801f6782#6363;801f6784#6363;801f6786#6363;801f6788#6363;801f678a#6363;801f678c#6363;801f678e#6363;801f6790#6363;801f6792#6363;801f6794#6363;801f6796#6363;801f6798#6363;801f679a#6363;801f679c#6363;801f679e#6363;801f67a0#6363;801f67a2#6363;801f67a4#6363;801f67a6#6363;801f67a8#6363;801f67aa#6363;801f67ac#6363;801f67ae#6363;801f67b0#6363;801f67b2#6363;801f67b4#6363;801f67b6#6363;801f67b8#6363"
+
+cheat1486_desc = "道具栏第一格变成飞行石"
+cheat1486_handler = "0"
+cheat1486_code = "801F62A4#0240"
+
+cheat1487_desc = "道具栏第二格变成魔法双刃"
+cheat1487_handler = "0"
+cheat1487_code = "801f62A6#0245"
+
+cheat1488_desc = "道具栏第一格变成贤者之石"
+cheat1488_handler = "0"
+cheat1488_code = "801f62a8#0262"
+
+cheat1489_desc = "神剣グランス.リヴァイバー"
+cheat1489_handler = "0"
+cheat1489_code = "801F62A2#016a;3001f676a#0063"
+
+cheat1490_desc = "最大Materialize Points"
+cheat1490_handler = "0"
+cheat1490_code = "801f5F80#e0ff;801f5F82#05f5"
+
+cheat1491_desc = "最大评价值"
+cheat1491_handler = "0"
+cheat1491_code = "801f6264#270f"
+
+cheat1492_desc = "最大Items"
+cheat1492_handler = "0"
+cheat1492_code = "5000ff01#0000;301f676a#0063;5000ff01#0000;301f6869#0063"
+
+cheat1493_desc = "随时存盘"
+cheat1493_handler = "0"
+cheat1493_code = "301f6274#0011"
+
+cheat1494_desc = "所有装备"
+cheat1494_handler = "0"
+cheat1494_code = "5000ff02#0001;801f62a2#0001;5000ff02#0001;801f64a0#0100"
+
+cheat1495_desc = "时间停止"
+cheat1495_handler = "0"
+cheat1495_code = "801f5f84#0000;801f5f86#0000"
+
+cheat1496_desc = "大量经验值"
+cheat1496_handler = "0"
+cheat1496_code = "8004abc8#ffff"
+
+cheat1497_desc = "战斗中按L2生命恢复"
+cheat1497_handler = "0"
+cheat1497_code = "d002b6ca#feff,800edd74#270f;d002b6ca#feff,800edd78#270f;d002b6ca#feff,800ee430#270f;d002b6ca#feff,800ee434#270f;d002b6ca#feff,800eeaec#270f;d002b6ca#feff,800eeaf0#270f;d002b6ca#feff,800ef1ac#270f;d002b6ca#feff,800ef1ac#270f"
+
+cheat1498_desc = "キャバシライ不减"
+cheat1498_handler = "0"
+cheat1498_code = "D005C246#0051,8005C546#2400;D003BD7E#0043,8003BD7E#0040;D003BDBE#0043,8003BDBE#0040"
+
+cheat1499_desc = "回复道具不减"
+cheat1499_handler = "0"
+cheat1499_code = "D004582A#A069,8004582A#2400"
+
+cheat1500_desc = "战斗后LV最大"
+cheat1500_handler = "0"
+cheat1500_code = "D00998B2#1C60,800998B2#0000;D00998B0#012A,800998B0#0000"
+
+cheat1501_desc = "全道具"
+cheat1501_handler = "0"
+cheat1501_code = "B0FF0002#00000001,301F62A2#0000;B0FF0001#00000000,301F676A#0063"
+
+cheat1502_desc = "一発で決め技ゲージMAX"
+cheat1502_handler = "0"
+cheat1502_code = "D003DC64#1021,8003DC64#0064;D003DC66#0045,8003DC66#2002"
+
+cheat1503_desc = "ターン終了時にCT0"
+cheat1503_handler = "0"
+cheat1503_code = "D0066B32#A4A2,80066B32#A4A0"
+
+cheat1504_desc = "遊戲時間停止"
+cheat1504_handler = "0"
+cheat1504_code = "D0035122#2442,80035122#2400"
+
+cheat1505_desc = "随时记录"
+cheat1505_handler = "0"
+cheat1505_code = "301F6274#0011"
+
+cheat1506_desc = "经验宝珠最大"
+cheat1506_handler = "0"
+cheat1506_code = "801E5BF8#E0FF;801E5BF8#05F5"
+
+cheat1507_desc = "评价值最大"
+cheat1507_handler = "0"
+cheat1507_code = "301F6264#0064"
+
+cheat1508_desc = "DME最大"
+cheat1508_handler = "0"
+cheat1508_code = "901DFEA0#00015F90"
+
+cheat1509_desc = "经验值的宝珠"
+cheat1509_handler = "0"
+cheat1509_code = "9004AA24#35A4E900"
+
+cheat1510_desc = "人物特技999"
+cheat1510_handler = "0"
+cheat1510_code = "D003BD7C#1023,8003BD7C#03E7;D003BD7E#0043,8003BD7E#2002;D003BDBC#1023,8003BDBC#03E7;D003BDBE#0043,8003BDBE#2002"
+
+cheat1511_desc = "特技点数999"
+cheat1511_handler = "0"
+cheat1511_code = "D005C244#1023,8005C244#03E7;D005C246#0051,8005C246#2002"
+
+cheat1512_desc = "特技成长"
+cheat1512_handler = "0"
+cheat1512_code = "901E62C4#FFFFFF00;801E62C8#00FF"
+
+cheat1513_desc = "必杀技MAX"
+cheat1513_handler = "0"
+cheat1513_code = "D003DC64#1021,8003DC64#0064;D003DC66#0045,8003DC66#2002"
+
+cheat1514_desc = "道具全满(请小心使用该金手指)"
+cheat1514_handler = "0"
+cheat1514_code = "5000FF02#0001;801F62A2#0001;5000FF02#0001;801F64A0#0100;50006602#0001;801F669E#01FF;5000FF01#0000;301F676A#0063;5000FF01#0000;301F6869#0063;50006601#0000;301F6968#0063"
+
+cheat1515_desc = "全道具"
+cheat1515_handler = "0"
+cheat1515_code = "B0FF0002#00000001,301F62A2#0000;B0FF0001#00000000,301F676A#0063"
+
+cheat1516_desc = "作成道具时不减点数"
+cheat1516_handler = "0"
+cheat1516_code = "D005A96C#0055,8005A96E#0000"
+
+cheat1517_desc = "评价值MIN"
+cheat1517_handler = "0"
+cheat1517_code = "301F6264#0000"
+
+cheat1518_desc = "评价值MAX"
+cheat1518_handler = "0"
+cheat1518_code = "301F6264#0064"
+
+cheat1519_desc = "随地save"
+cheat1519_handler = "0"
+cheat1519_code = "801F6274#0215"
+
+cheat1520_desc = "jump力最大"
+cheat1520_handler = "0"
+cheat1520_code = "D002FFD6#2462,8002FFD4#0000"
+
+cheat1521_desc = "GameinfoName"
+cheat1521_handler = "0"
+cheat1521_code = "Valkyrie Profile (PS)"
+
+cheat1522_desc = "GameinfoSystem"
+cheat1522_handler = "0"
+cheat1522_code = "PS"
+
+cheat1523_desc = "GameinfoText"
+cheat1523_handler = "0"
+cheat1523_code = "DEBUG使用方法,在标题画面激活后选new game就可以进入 修改人物注意,传送完的人物再改出来的话不要放到候选人物里,要不然等于没传送,[路西奥招招出眩雷波（12hits)][洵招招出伪决（千光刃）][不死王招招出伪决（血咒灭神断)][罗法招招出伪决（裁决湍流)][芙蕾招招出临界星光（6hits)][瓦尔基里（弓）招招出无限破（4hits)]不要和[フレイがクリティカルフレアエリアルバーストサンダーソード使用可能(Combo)]这个作弊码一起使用。"
+
+cheats = 1524

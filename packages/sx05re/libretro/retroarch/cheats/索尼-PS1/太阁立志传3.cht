@@ -1,0 +1,49 @@
+cheat0_desc = "金錢999999貫990文"
+cheat0_handler = "0"
+cheat0_code = "8015967C#967F;8015967E#0098"
+
+cheat1_desc = "主角能力超強"
+cheat1_handler = "0"
+cheat1_code = "80157D14#9999;80157D18#FFFF;80157D1A#FFFF"
+
+cheat2_desc = "主角體力不減"
+cheat2_handler = "0"
+cheat2_code = "800E2508#0032"
+
+cheat3_desc = "全道具(新型)"
+cheat3_handler = "0"
+cheat3_code = "B09B0002#00000000;30159E8F#00E3"
+
+cheat4_desc = "能力值點數不變"
+cheat4_handler = "0"
+cheat4_code = "801FFEBC#0063"
+
+cheat5_desc = "無限金錢"
+cheat5_handler = "0"
+cheat5_code = "9015967C#0098967F"
+
+cheat6_desc = "作業全滿"
+cheat6_handler = "0"
+cheat6_code = "901520C0#FFFFFFFF;301520C4#00FF"
+
+cheat7_desc = "俸祿超高"
+cheat7_handler = "0"
+cheat7_code = "30157D04#00FF"
+
+cheat8_desc = "工作剩餘時間"
+cheat8_handler = "0"
+cheat8_code = "80157D0C#004C"
+
+cheat9_desc = "任命成果"
+cheat9_handler = "0"
+cheat9_code = "80157D0E#EA60"
+
+cheat10_desc = "賞功值"
+cheat10_handler = "0"
+cheat10_code = "80157D12#FFFF"
+
+cheat11_desc = "技能全滿"
+cheat11_handler = "0"
+cheat11_code = "90157D18#00FFFFFF"
+
+cheats = 12

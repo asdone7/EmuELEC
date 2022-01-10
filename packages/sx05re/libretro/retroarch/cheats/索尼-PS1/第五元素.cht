@@ -1,0 +1,9 @@
+cheat0_desc = "只数99"
+cheat0_handler = "0"
+cheat0_code = "801FFF0E#0063"
+
+cheat1_desc = "血不减"
+cheat1_handler = "0"
+cheat1_code = "801E2326#00FF"
+
+cheats = 2

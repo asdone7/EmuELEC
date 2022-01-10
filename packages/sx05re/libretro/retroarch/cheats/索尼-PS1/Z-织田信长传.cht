@@ -1,0 +1,9 @@
+cheat0_desc = "全道具"
+cheat0_handler = "0"
+cheat0_code = "B0800002#00000000;800C8F64#6363"
+
+cheat1_desc = "金钱"
+cheat1_handler = "0"
+cheat1_code = "800C8E70#FFFF"
+
+cheats = 2

@@ -1,0 +1,9 @@
+cheat0_desc = "HP"
+cheat0_handler = "0"
+cheat0_code = "300B4D64#64"
+
+cheat1_desc = "必杀"
+cheat1_handler = "0"
+cheat1_code = "300B4D66#09"
+
+cheats = 2

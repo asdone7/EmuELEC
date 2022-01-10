@@ -1,0 +1,41 @@
+cheat0_desc = "无限金钱"
+cheat0_handler = "0"
+cheat0_code = "800BDC96#0090"
+
+cheat1_desc = "Disable Timer"
+cheat1_handler = "0"
+cheat1_code = "800C1CE8#0100"
+
+cheat2_desc = "Unlock Bonus Cars in Quick Race Mode"
+cheat2_handler = "0"
+cheat2_code = "800BD658#0007"
+
+cheat3_desc = "Automatically Win in Chase Mode"
+cheat3_handler = "0"
+cheat3_code = "800C1CE8#FFFF"
+
+cheat4_desc = "99 Points in Tournament Mode"
+cheat4_handler = "0"
+cheat4_code = "800BDC9A#0063"
+
+cheat5_desc = "Max credits 　(Press Select)"
+cheat5_handler = "0"
+cheat5_code = "800BDC94#68B1;800BDC96#3ADE"
+
+cheat6_desc = "Reset time"
+cheat6_handler = "0"
+cheat6_code = "D00C62D0#0001;800C1CE8#0000"
+
+cheat7_desc = "99 pts"
+cheat7_handler = "0"
+cheat7_code = "800BDC9A#0063"
+
+cheat8_desc = "Always 1st (Switch it off after the race)"
+cheat8_handler = "0"
+cheat8_code = "800D2608#0100"
+
+cheat9_desc = "Start on lap 3 - Quick Race only　(Press L1)"
+cheat9_handler = "0"
+cheat9_code = "D00C62D0#0400;800BD9DC#0001"
+
+cheats = 10

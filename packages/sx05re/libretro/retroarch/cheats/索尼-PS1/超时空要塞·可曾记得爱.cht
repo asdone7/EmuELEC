@@ -1,0 +1,25 @@
+cheat0_desc = "防护盾不减"
+cheat0_handler = "0"
+cheat0_code = "800A4612#0065;800AA8D6#0065"
+
+cheat1_desc = "炸弹数不减"
+cheat1_handler = "0"
+cheat1_code = "800A4060#0004"
+
+cheat2_desc = "SDF最大"
+cheat2_handler = "0"
+cheat2_code = "800A0B64#03E7"
+
+cheat3_desc = "主码"
+cheat3_handler = "0"
+cheat3_code = "F6000914#230B;B6002800#0000"
+
+cheat4_desc = "炸弹不减"
+cheat4_handler = "0"
+cheat4_code = "160435DE#0104"
+
+cheat5_desc = "恢复生命"
+cheat5_handler = "0"
+cheat5_code = "160E0026#0065"
+
+cheats = 6

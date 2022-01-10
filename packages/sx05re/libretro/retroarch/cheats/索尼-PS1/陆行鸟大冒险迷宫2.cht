@@ -1,0 +1,29 @@
+cheat0_desc = "Have Item Show Map"
+cheat0_handler = "0"
+cheat0_code = "3010392B#0046;3010392D#0003;3010392F#0003"
+
+cheat1_desc = "Max Status"
+cheat1_handler = "0"
+cheat1_code = "80104946#0063;80104948#0063;8010494A#0063"
+
+cheat2_desc = "Level Up"
+cheat2_handler = "0"
+cheat2_code = "80101A2E#0000"
+
+cheat3_desc = "Level Magic Up"
+cheat3_handler = "0"
+cheat3_code = "8010336E#0000;80103370#0000;80103372#0000"
+
+cheat4_desc = "Infintite money"
+cheat4_handler = "0"
+cheat4_code = "80103300#967F;80103302#0098"
+
+cheat5_desc = "Have 6 Book Magic"
+cheat5_handler = "0"
+cheat5_code = "B0060008#00000000;301038F1#0062;B0060008#00000001;301038F3#0001"
+
+cheat6_desc = "Max Chocobo&Partner HP"
+cheat6_handler = "0"
+cheat6_code = "80101A10#03E7;80101A2C#03E7;80101B9C#03E7;80101BB8#03E7"
+
+cheats = 7

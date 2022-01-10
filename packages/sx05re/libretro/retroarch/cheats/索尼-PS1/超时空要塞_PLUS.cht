@@ -1,0 +1,21 @@
+cheat0_desc = "能源不减"
+cheat0_handler = "0"
+cheat0_code = "801A2844#0400"
+
+cheat1_desc = "武器不减"
+cheat1_handler = "0"
+cheat1_code = "801A2848#0400"
+
+cheat2_desc = "弹药不减"
+cheat2_handler = "0"
+cheat2_code = "D0152D1C#0001;8015B67C#0000"
+
+cheat3_desc = "出现隐藏战机"
+cheat3_handler = "0"
+cheat3_code = "301F3B0D#0002"
+
+cheat4_desc = "全MOVIE"
+cheat4_handler = "0"
+cheat4_code = "301F3B25#0010"
+
+cheats = 5

@@ -1,0 +1,65 @@
+cheat0_desc = "所持金9,999,999黒の書"
+cheat0_handler = "0"
+cheat0_code = "D004FCE4#1480;800D7A5C#967F;D004FCE4#1480;800D7A5E#0098"
+
+cheat1_desc = "所持金9,999,999赤の書"
+cheat1_handler = "0"
+cheat1_code = "D004FF0C#1838;800D7E14#967F;D004FF0C#1838;800D7E16#0098"
+
+cheat2_desc = "主人公経験値9,999,999黒の書"
+cheat2_handler = "0"
+cheat2_code = "D004FCE4#1480;800D78D4#967F;D004FCE4#1480;800D78D6#0098"
+
+cheat3_desc = "主人公経験値9,999,999赤の書"
+cheat3_handler = "0"
+cheat3_code = "D004FF0C#1838;800D7C8C#967F;D004FF0C#1838;800D7C8E#0098"
+
+cheat4_desc = "パートナー経験値1,280,679(レベル99)黒の書"
+cheat4_handler = "0"
+cheat4_code = "D004FCE4#1480;800D7A44#8AA7;D004FCE4#1480;800D7A46#0013"
+
+cheat5_desc = "パートナー経験値1,280,679(レベル99)赤の書"
+cheat5_handler = "0"
+cheat5_code = "D004FF0C#1838;800D7DFC#8AA7;D004FF0C#1838;800D7DFE#0013"
+
+cheat6_desc = "全CD所持黒の書"
+cheat6_handler = "0"
+cheat6_code = "D004FCE4#1480;800D77A4#0FFF"
+
+cheat7_desc = "全CD所持赤の書"
+cheat7_handler = "0"
+cheat7_code = "D004FF0C#1838;800D7B5C#0FFF"
+
+cheat8_desc = "全MAP所持黒の書"
+cheat8_handler = "0"
+cheat8_code = "D004FCE4#1480;800D78DE#01FF"
+
+cheat9_desc = "全MAP所持赤の書"
+cheat9_handler = "0"
+cheat9_code = "D004FF0C#1838;800D7C96#01FF"
+
+cheat10_desc = "雑魚敵出現制御(R2=0%、L2=100%)黒の書"
+cheat10_handler = "0"
+cheat10_code = "D004FCE4#1480;8005EA4E#1000;D00D7C10#0001;8005EC2A#0010;D00D7C10#0002;8005EC2A#0000"
+
+cheat11_desc = "雑魚敵出現制御(R2=0%、L2=100%)赤の書"
+cheat11_handler = "0"
+cheat11_code = "D004FF0C#1838;8005EE12#1000;D00D7FC8#0001;8005EFEE#0010;D00D7FC8#0002;8005EFEE#0000"
+
+cheat12_desc = "デビダス全て閲覧可能：簡易版(备份记录)黒の書"
+cheat12_handler = "0"
+cheat12_code = "D004FCE4#1480;8004FCF4#1021;D004FCE4#1480;8004FCF6#0005"
+
+cheat13_desc = "デビダス全て閲覧可能：簡易版(备份记录)赤の書"
+cheat13_handler = "0"
+cheat13_code = "D004FF0C#1838;8004FF1C#1021;D004FF0C#1838;8004FF1E#0005"
+
+cheat14_desc = "防死机黒の書"
+cheat14_handler = "0"
+cheat14_code = "D004FCE4#1480;8005EA30#0001"
+
+cheat15_desc = "防死机赤の書"
+cheat15_handler = "0"
+cheat15_code = "D004FF0C#1838;8005EDF4#0001"
+
+cheats = 16

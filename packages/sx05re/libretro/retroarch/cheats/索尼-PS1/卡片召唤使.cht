@@ -1,0 +1,9 @@
+cheat0_desc = "魔力"
+cheat0_handler = "0"
+cheat0_code = "8005D640#869F;8005D642#0001"
+
+cheat1_desc = "全卡片"
+cheat1_handler = "0"
+cheat1_code = "B1680001#00000000,3006EEE1#0004"
+
+cheats = 2

@@ -1,0 +1,629 @@
+cheat0_desc = "金钱"
+cheat0_handler = "0"
+cheat0_code = "901405E0#05F5E0FF"
+
+cheat1_desc = "欢喜之町专用货币ジイニ"
+cheat1_handler = "0"
+cheat1_code = "90109DAC#05F5E0FF"
+
+cheat2_desc = "怪物图鉴全开"
+cheat2_handler = "0"
+cheat2_code = "B0FF0001#00000000,301409AC#00FF"
+
+cheat3_desc = "道具图鉴全开"
+cheat3_handler = "0"
+cheat3_code = "B02D0001#00000000,30140810#00FF;3014083D#0003"
+
+cheat4_desc = "遇敌率控制不遇敌"
+cheat4_handler = "0"
+cheat4_code = "80140850#0000"
+
+cheat5_desc = "遇敌率控制疯狂遇敌"
+cheat5_handler = "0"
+cheat5_code = "80140850#FFFF"
+
+cheat6_desc = "遇敌率控制晕···"
+cheat6_handler = "0"
+cheat6_code = "80140852#0000"
+
+cheat7_desc = "战斗中(L2+R2)立即逃出BOSS战亦可逃出！"
+cheat7_handler = "0"
+cheat7_code = "D00D34B0#0003,8010EC28#2020"
+
+cheat8_desc = "DEBUG 模式 (SELECT + ○)"
+cheat8_handler = "0"
+cheat8_code = "D00D34B0#0100,8013DED0#0003"
+
+cheat9_desc = "リサド全部技能魔神剑"
+cheat9_handler = "0"
+cheat9_code = "3013FD2E#0001"
+
+cheat10_desc = "リサド全部技能雷神剑"
+cheat10_handler = "0"
+cheat10_code = "3013FD2F#0002"
+
+cheat11_desc = "リサド全部技能散沙雨"
+cheat11_handler = "0"
+cheat11_code = "3013FD30#0003"
+
+cheat12_desc = "リサド全部技能虎牙破斩"
+cheat12_handler = "0"
+cheat12_code = "3013FD31#0004"
+
+cheat13_desc = "リサド全部技能闪空裂破"
+cheat13_handler = "0"
+cheat13_code = "3013FD32#0005"
+
+cheat14_desc = "リサド全部技能裂空斩"
+cheat14_handler = "0"
+cheat14_code = "3013FD33#0006"
+
+cheat15_desc = "リサド全部技能魔神剑·双牙"
+cheat15_handler = "0"
+cheat15_code = "3013FD34#0007"
+
+cheat16_desc = "リサド全部技能风雷神剑"
+cheat16_handler = "0"
+cheat16_code = "3013FD35#0008"
+
+cheat17_desc = "リサド全部技能秋沙雨"
+cheat17_handler = "0"
+cheat17_code = "3013FD36#0009"
+
+cheat18_desc = "リサド全部技能虎牙连斩"
+cheat18_handler = "0"
+cheat18_code = "3013FD37#000A"
+
+cheat19_desc = "リサド全部技能闪空翔裂破"
+cheat19_handler = "0"
+cheat19_code = "3013FD38#000B"
+
+cheat20_desc = "リサド全部技能真空裂斩"
+cheat20_handler = "0"
+cheat20_code = "3013FD39#000C"
+
+cheat21_desc = "リサド全部技能雷神双破斩"
+cheat21_handler = "0"
+cheat21_code = "3013FD3A#000D"
+
+cheat22_desc = "リサド全部技能魔神千烈破"
+cheat22_handler = "0"
+cheat22_code = "3013FD3B#000E"
+
+cheat23_desc = "リサド全部技能空破绝掌击"
+cheat23_handler = "0"
+cheat23_code = "3013FD3C#000F"
+
+cheat24_desc = "リサド全部技能魔神连牙斩"
+cheat24_handler = "0"
+cheat24_code = "3013FD3D#0010"
+
+cheat25_desc = "リサド全部技能翔雨裂空击"
+cheat25_handler = "0"
+cheat25_code = "3013FD3E#0011"
+
+cheat26_desc = "リサド全部技能闪空双破斩"
+cheat26_handler = "0"
+cheat26_code = "3013FD3F#0012"
+
+cheat27_desc = "リサド全部技能猛虎连击破"
+cheat27_handler = "0"
+cheat27_code = "3013FD40#0013"
+
+cheat28_desc = "リサド全部技能凤凰天驱"
+cheat28_handler = "0"
+cheat28_code = "3013FD41#0014"
+
+cheat29_desc = "リサド全部技能风刃缚封"
+cheat29_handler = "0"
+cheat29_code = "3013FD42#0015"
+
+cheat30_desc = "リサド全部技能☆极光壁"
+cheat30_handler = "0"
+cheat30_code = "3013FD43#0016"
+
+cheat31_desc = "リサド全部技能☆极光剑"
+cheat31_handler = "0"
+cheat31_code = "3013FD44#0017"
+
+cheat32_desc = "リサド全部技能☆极光波"
+cheat32_handler = "0"
+cheat32_code = "3013FD45#0018"
+
+cheat33_desc = "リサド全部技能全部技能"
+cheat33_handler = "0"
+cheat33_code = "B0180001#00000001,3013FD2E#0001"
+
+cheat34_desc = "リサド技能使用次数魔神剑"
+cheat34_handler = "0"
+cheat34_code = "801408DE#270F"
+
+cheat35_desc = "リサド技能使用次数雷神剑"
+cheat35_handler = "0"
+cheat35_code = "801408E0#270F"
+
+cheat36_desc = "リサド技能使用次数散沙雨"
+cheat36_handler = "0"
+cheat36_code = "801408E2#270F"
+
+cheat37_desc = "リサド技能使用次数虎牙破斩"
+cheat37_handler = "0"
+cheat37_code = "801408E4#270F"
+
+cheat38_desc = "リサド技能使用次数闪空裂破"
+cheat38_handler = "0"
+cheat38_code = "801408E6#270F"
+
+cheat39_desc = "リサド技能使用次数裂空斩"
+cheat39_handler = "0"
+cheat39_code = "801408E8#270F"
+
+cheat40_desc = "リサド技能使用次数魔神剑·双牙"
+cheat40_handler = "0"
+cheat40_code = "801408EA#270F"
+
+cheat41_desc = "リサド技能使用次数风雷神剑"
+cheat41_handler = "0"
+cheat41_code = "801408EC#270F"
+
+cheat42_desc = "リサド技能使用次数秋沙雨"
+cheat42_handler = "0"
+cheat42_code = "801408EE#270F"
+
+cheat43_desc = "リサド技能使用次数虎牙连斩"
+cheat43_handler = "0"
+cheat43_code = "801408F0#270F"
+
+cheat44_desc = "リサド技能使用次数闪空翔裂破"
+cheat44_handler = "0"
+cheat44_code = "801408F2#270F"
+
+cheat45_desc = "リサド技能使用次数真空裂斩"
+cheat45_handler = "0"
+cheat45_code = "801408F4#270F"
+
+cheat46_desc = "リサド技能使用次数雷神双破斩"
+cheat46_handler = "0"
+cheat46_code = "801408F6#270F"
+
+cheat47_desc = "リサド技能使用次数魔神千烈破"
+cheat47_handler = "0"
+cheat47_code = "801408F8#270F"
+
+cheat48_desc = "リサド技能使用次数空破绝掌击"
+cheat48_handler = "0"
+cheat48_code = "801408FA#270F"
+
+cheat49_desc = "リサド技能使用次数魔神连牙斩"
+cheat49_handler = "0"
+cheat49_code = "801408FC#270F"
+
+cheat50_desc = "リサド技能使用次数翔雨裂空击"
+cheat50_handler = "0"
+cheat50_code = "801408FE#270F"
+
+cheat51_desc = "リサド技能使用次数闪空双破斩"
+cheat51_handler = "0"
+cheat51_code = "80140900#270F"
+
+cheat52_desc = "リサド技能使用次数猛虎连击破"
+cheat52_handler = "0"
+cheat52_code = "80140902#270F"
+
+cheat53_desc = "リサド技能使用次数凤凰天驱"
+cheat53_handler = "0"
+cheat53_code = "80140904#270F"
+
+cheat54_desc = "リサド技能使用次数风刃缚封"
+cheat54_handler = "0"
+cheat54_code = "80140906#270F"
+
+cheat55_desc = "リサド技能使用次数全部技能"
+cheat55_handler = "0"
+cheat55_code = "B0150002#00000000,801408DE#270F"
+
+cheat56_desc = "ファラ全部技能掌底破"
+cheat56_handler = "0"
+cheat56_code = "3013FDFE#0019"
+
+cheat57_desc = "ファラ全部技能三散华"
+cheat57_handler = "0"
+cheat57_code = "3013FDFF#001A"
+
+cheat58_desc = "ファラ全部技能连牙弹"
+cheat58_handler = "0"
+cheat58_code = "3013FE00#001B"
+
+cheat59_desc = "ファラ全部技能飞燕连脚"
+cheat59_handler = "0"
+cheat59_code = "3013FE01#001C"
+
+cheat60_desc = "ファラ全部技能鹰爪蹴击"
+cheat60_handler = "0"
+cheat60_code = "3013FE02#001D"
+
+cheat61_desc = "ファラ全部技能卧龙空破"
+cheat61_handler = "0"
+cheat61_code = "3013FE03#001E"
+
+cheat62_desc = "ファラ全部技能双撞掌底破"
+cheat62_handler = "0"
+cheat62_code = "3013FE04#001F"
+
+cheat63_desc = "ファラ全部技能散华猛袭脚"
+cheat63_handler = "0"
+cheat63_code = "3013FE05#0020"
+
+cheat64_desc = "ファラ全部技能八叶连牙"
+cheat64_handler = "0"
+cheat64_code = "3013FE06#0021"
+
+cheat65_desc = "ファラ全部技能飞燕连天脚"
+cheat65_handler = "0"
+cheat65_code = "3013FE07#0022"
+
+cheat66_desc = "ファラ全部技能鹰爪落瀑蹴"
+cheat66_handler = "0"
+cheat66_code = "3013FE08#0023"
+
+cheat67_desc = "ファラ全部技能飞叶翻步"
+cheat67_handler = "0"
+cheat67_code = "3013FE09#0024"
+
+cheat68_desc = "ファラ全部技能狮子战吼"
+cheat68_handler = "0"
+cheat68_code = "3013FE0A#0025"
+
+cheat69_desc = "ファラ全部技能杀剧舞荒拳"
+cheat69_handler = "0"
+cheat69_code = "3013FE0B#0026"
+
+cheat70_desc = "ファラ全部技能治愈功"
+cheat70_handler = "0"
+cheat70_code = "3013FE0C#0027"
+
+cheat71_desc = "ファラ全部技能解毒功"
+cheat71_handler = "0"
+cheat71_code = "3013FE0D#0028"
+
+cheat72_desc = "ファラ全部技能回生功"
+cheat72_handler = "0"
+cheat72_code = "3013FE0E#0029"
+
+cheat73_desc = "ファラ全部技能点穴缚态"
+cheat73_handler = "0"
+cheat73_code = "3013FE0F#002A"
+
+cheat74_desc = "ファラ全部技能全部技能"
+cheat74_handler = "0"
+cheat74_code = "B0120001#00000001,3013FDFE#0019"
+
+cheat75_desc = "ファラ技能使用次数掌底破"
+cheat75_handler = "0"
+cheat75_code = "8014090E#270F"
+
+cheat76_desc = "ファラ技能使用次数三散华"
+cheat76_handler = "0"
+cheat76_code = "80140910#270F"
+
+cheat77_desc = "ファラ技能使用次数连牙弹"
+cheat77_handler = "0"
+cheat77_code = "80140912#270F"
+
+cheat78_desc = "ファラ技能使用次数飞燕连脚"
+cheat78_handler = "0"
+cheat78_code = "80140914#270F"
+
+cheat79_desc = "ファラ技能使用次数鹰爪蹴击"
+cheat79_handler = "0"
+cheat79_code = "80140916#270F"
+
+cheat80_desc = "ファラ技能使用次数卧龙空破"
+cheat80_handler = "0"
+cheat80_code = "80140918#270F"
+
+cheat81_desc = "ファラ技能使用次数双撞掌底破"
+cheat81_handler = "0"
+cheat81_code = "8014091A#270F"
+
+cheat82_desc = "ファラ技能使用次数散华猛袭脚"
+cheat82_handler = "0"
+cheat82_code = "8014091C#270F"
+
+cheat83_desc = "ファラ技能使用次数八叶连牙"
+cheat83_handler = "0"
+cheat83_code = "8014091E#270F"
+
+cheat84_desc = "ファラ技能使用次数飞燕连天脚"
+cheat84_handler = "0"
+cheat84_code = "80140920#270F"
+
+cheat85_desc = "ファラ技能使用次数鹰爪落瀑蹴"
+cheat85_handler = "0"
+cheat85_code = "80140922#270F"
+
+cheat86_desc = "ファラ技能使用次数飞叶翻步"
+cheat86_handler = "0"
+cheat86_code = "80140924#270F"
+
+cheat87_desc = "ファラ技能使用次数狮子战吼"
+cheat87_handler = "0"
+cheat87_code = "80140926#270F"
+
+cheat88_desc = "ファラ技能使用次数杀剧舞荒拳"
+cheat88_handler = "0"
+cheat88_code = "80140928#270F"
+
+cheat89_desc = "ファラ技能使用次数点穴缚态"
+cheat89_handler = "0"
+cheat89_code = "80140930#270F"
+
+cheat90_desc = "ファラ技能使用次数全部技能"
+cheat90_handler = "0"
+cheat90_code = "B00E0002#00000000,8014090E#270F;80140930#270F"
+
+cheat91_desc = "チゃサト全部海盗技气绝锤"
+cheat91_handler = "0"
+cheat91_code = "3014013E#006A"
+
+cheat92_desc = "チゃサト全部海盗技毒气锤"
+cheat92_handler = "0"
+cheat92_code = "3014013F#006B"
+
+cheat93_desc = "チゃサト全部海盗技冰冻锤"
+cheat93_handler = "0"
+cheat93_code = "30140140#006C"
+
+cheat94_desc = "チゃサト全部海盗技偷窃"
+cheat94_handler = "0"
+cheat94_code = "30140141#006D"
+
+cheat95_desc = "チゃサト全部海盗技电珠"
+cheat95_handler = "0"
+cheat95_code = "30140142#006E"
+
+cheat96_desc = "チゃサト全部海盗技无限连锤"
+cheat96_handler = "0"
+cheat96_code = "30140143#006F"
+
+cheat97_desc = "チゃサト全部海盗技全部海盗技"
+cheat97_handler = "0"
+cheat97_code = "B0060001#00000001,3014013E#006A"
+
+cheat98_desc = "フォサグ全部枪技火"
+cheat98_handler = "0"
+cheat98_code = "3014020E#0060"
+
+cheat99_desc = "フォサグ全部枪技风"
+cheat99_handler = "0"
+cheat99_code = "3014020F#0061"
+
+cheat100_desc = "フォサグ全部枪技水"
+cheat100_handler = "0"
+cheat100_code = "30140210#0062"
+
+cheat101_desc = "フォサグ全部枪技光"
+cheat101_handler = "0"
+cheat101_code = "30140211#0063"
+
+cheat102_desc = "フォサグ全部枪技暗"
+cheat102_handler = "0"
+cheat102_code = "30140212#0064"
+
+cheat103_desc = "フォサグ全部枪技水风火地元"
+cheat103_handler = "0"
+cheat103_code = "30140213#0065"
+
+cheat104_desc = "フォサグ全部枪技全部枪技"
+cheat104_handler = "0"
+cheat104_code = "B0060001#00000001,3014020E#0060"
+
+cheat105_desc = "晶灵の经验值水の大晶灵"
+cheat105_handler = "0"
+cheat105_code = "90140870#0AE0EA"
+
+cheat106_desc = "晶灵の经验值风の大晶灵"
+cheat106_handler = "0"
+cheat106_code = "90140878#0AE0EA"
+
+cheat107_desc = "晶灵の经验值火の大晶灵"
+cheat107_handler = "0"
+cheat107_code = "90140880#0AE0EA"
+
+cheat108_desc = "晶灵の经验值地の大晶灵"
+cheat108_handler = "0"
+cheat108_code = "90140888#0AE0EA"
+
+cheat109_desc = "晶灵の经验值冰の大晶灵"
+cheat109_handler = "0"
+cheat109_code = "90140890#0AE0EA"
+
+cheat110_desc = "晶灵の经验值雷の大晶灵"
+cheat110_handler = "0"
+cheat110_code = "90140898#0AE0EA"
+
+cheat111_desc = "晶灵の经验值光の大晶灵"
+cheat111_handler = "0"
+cheat111_code = "901408A0#0AE0EA"
+
+cheat112_desc = "晶灵の经验值暗の大晶灵"
+cheat112_handler = "0"
+cheat112_code = "901408A8#0AE0EA"
+
+cheat113_desc = "晶灵の经验值元の大晶灵"
+cheat113_handler = "0"
+cheat113_code = "901408B0#0AE0EA"
+
+cheat114_desc = "晶灵の经验值时の大晶灵"
+cheat114_handler = "0"
+cheat114_code = "901408B8#0AE0EA"
+
+cheat115_desc = "晶灵の经验值全部大晶灵"
+cheat115_handler = "0"
+cheat115_code = "B00A0008#00000000,90140870#0AE0EA"
+
+cheat116_desc = "晶灵活力 MAX水の大晶灵"
+cheat116_handler = "0"
+cheat116_code = "8014086E#A000"
+
+cheat117_desc = "晶灵活力 MAX风の大晶灵"
+cheat117_handler = "0"
+cheat117_code = "80140876#A000"
+
+cheat118_desc = "晶灵活力 MAX火の大晶灵"
+cheat118_handler = "0"
+cheat118_code = "8014087E#A000"
+
+cheat119_desc = "晶灵活力 MAX地の大晶灵"
+cheat119_handler = "0"
+cheat119_code = "80140886#A000"
+
+cheat120_desc = "晶灵活力 MAX冰の大晶灵"
+cheat120_handler = "0"
+cheat120_code = "8014088E#A000"
+
+cheat121_desc = "晶灵活力 MAX雷の大晶灵"
+cheat121_handler = "0"
+cheat121_code = "80140896#A000"
+
+cheat122_desc = "晶灵活力 MAX光の大晶灵"
+cheat122_handler = "0"
+cheat122_code = "8014089E#A000"
+
+cheat123_desc = "晶灵活力 MAX闇の大晶灵"
+cheat123_handler = "0"
+cheat123_code = "801408A6#A000"
+
+cheat124_desc = "晶灵活力 MAX元の大晶灵"
+cheat124_handler = "0"
+cheat124_code = "801408AE#A000"
+
+cheat125_desc = "晶灵活力 MAX时の大晶灵"
+cheat125_handler = "0"
+cheat125_code = "801408B6#A000"
+
+cheat126_desc = "晶灵活力 MAX全部大晶灵"
+cheat126_handler = "0"
+cheat126_code = "B00A0008#00000000,8014086E#A000"
+
+cheat127_desc = "随时使用“极光壁”"
+cheat127_handler = "0"
+cheat127_code = "90068780#00000000"
+
+cheat128_desc = "全部道具除贵重品"
+cheat128_handler = "0"
+cheat128_code = "B01A0001#00000000,301405F1#000F;B11F0001#00000000,3014060E#000F;3014073E#000F;B0030001#00000000,30140740#000F;B0140001#00000000,30140744#000F"
+
+cheat129_desc = "贵重品怪物图鉴"
+cheat129_handler = "0"
+cheat129_code = "3014060B#0001"
+
+cheat130_desc = "贵重品道具图鉴"
+cheat130_handler = "0"
+cheat130_code = "3014060C#0001"
+
+cheat131_desc = "贵重品世界地图A"
+cheat131_handler = "0"
+cheat131_code = "3014060D#0001"
+
+cheat132_desc = "贵重品语言通"
+cheat132_handler = "0"
+cheat132_code = "3014072D#0001"
+
+cheat133_desc = "贵重品自由操作书"
+cheat133_handler = "0"
+cheat133_code = "3014072E#0001"
+
+cheat134_desc = "贵重品光晶灵指轮"
+cheat134_handler = "0"
+cheat134_code = "3014072F#0001"
+
+cheat135_desc = "贵重品冰晶灵指轮"
+cheat135_handler = "0"
+cheat135_code = "30140730#0001"
+
+cheat136_desc = "贵重品世界地图B"
+cheat136_handler = "0"
+cheat136_code = "30140731#0001"
+
+cheat137_desc = "贵重品卡 NO.1"
+cheat137_handler = "0"
+cheat137_code = "30140732#0001"
+
+cheat138_desc = "贵重品卡 NO.2"
+cheat138_handler = "0"
+cheat138_code = "30140733#0001"
+
+cheat139_desc = "贵重品卡 NO.3"
+cheat139_handler = "0"
+cheat139_code = "30140734#0001"
+
+cheat140_desc = "贵重品卡 NO.4"
+cheat140_handler = "0"
+cheat140_code = "30140735#0001"
+
+cheat141_desc = "贵重品高级船票"
+cheat141_handler = "0"
+cheat141_code = "30140736#0001"
+
+cheat142_desc = "贵重品晶灵铁道能源"
+cheat142_handler = "0"
+cheat142_code = "30140737#0001"
+
+cheat143_desc = "贵重品纸牌"
+cheat143_handler = "0"
+cheat143_code = "30140738#0001"
+
+cheat144_desc = "贵重品自由军徽章"
+cheat144_handler = "0"
+cheat144_code = "30140739#0001"
+
+cheat145_desc = "贵重品赛法特之匙"
+cheat145_handler = "0"
+cheat145_code = "3014073A#0001"
+
+cheat146_desc = "贵重品GPS"
+cheat146_handler = "0"
+cheat146_code = "3014073B#0001"
+
+cheat147_desc = "贵重品海底地图B"
+cheat147_handler = "0"
+cheat147_code = "3014073C#0001"
+
+cheat148_desc = "贵重品海底地图A"
+cheat148_handler = "0"
+cheat148_code = "3014073D#0001"
+
+cheat149_desc = "贵重品矿石结晶"
+cheat149_handler = "0"
+cheat149_code = "3014073F#0001"
+
+cheat150_desc = "贵重品S·D 剑"
+cheat150_handler = "0"
+cheat150_code = "30140743#0001"
+
+cheat151_desc = "贵重品光之珠"
+cheat151_handler = "0"
+cheat151_code = "30140758#0001"
+
+cheat152_desc = "贵重品暗之珠"
+cheat152_handler = "0"
+cheat152_code = "30140759#0001"
+
+cheat153_desc = "贵重品全部贵重品"
+cheat153_handler = "0"
+cheat153_code = "B0030001#00000000,3014060B#0001;B0110001#00000000,3014072D#0001;3014073F#0001;30140743#0001;30140758#0001;30140759#0001"
+
+cheat154_desc = "料理后熟练度 MAX"
+cheat154_handler = "0"
+cheat154_code = "D004B57E#1440,8004B57E#1400"
+
+cheat155_desc = "レンズ 的数量30个"
+cheat155_handler = "0"
+cheat155_code = "30109DB5#001E"
+
+cheat156_desc = "レンズ 的数量60个"
+cheat156_handler = "0"
+cheat156_code = "30109DB5#003C"
+
+cheats = 157

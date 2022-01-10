@@ -1,0 +1,5 @@
+cheat0_desc = "战斗中MP不减"
+cheat0_handler = "0"
+cheat0_code = "3009FFDE#0090"
+
+cheats = 1

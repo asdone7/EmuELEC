@@ -1,0 +1,81 @@
+cheat0_desc = "总资金9999999"
+cheat0_handler = "0"
+cheat0_code = "801ED174#967F;801ED176#0098"
+
+cheat1_desc = "总资源9999999"
+cheat1_handler = "0"
+cheat1_code = "801ED178#967F;801ED17A#0098"
+
+cheat2_desc = "总turn数为零0"
+cheat2_handler = "0"
+cheat2_code = "801ED14E#0000"
+
+cheat3_desc = "全兵器生产可能"
+cheat3_handler = "0"
+cheat3_code = "D009F17A#1462;8009F17A#1400;D009F2F6#1462;8009F2F6#1400;D00BFFB2#1040;800BFFB2#1400"
+
+cheat4_desc = "1 turn生产可能"
+cheat4_handler = "0"
+cheat4_code = "D009F026#A043;8009F026#A040"
+
+cheat5_desc = "全开发purlan提案"
+cheat5_handler = "0"
+cheat5_code = "D009ABEA#1440;8009ABEA#1400;D009AC2A#1460;8009AC2A#1000;D009ACDA#10AD;8009ACDA#1000;D00D4E26#1062;800D4E26#1000;D00D4E26#1443;800D4E26#1400"
+
+cheat6_desc = "1 turn开发"
+cheat6_handler = "0"
+cheat6_code = "D00C34D6#1440;800C34D6#1400"
+
+cheat7_desc = "全人事情报观览可能（设定行动界面时）"
+cheat7_handler = "0"
+cheat7_code = "D009915A#1440;8009915A#1400"
+
+cheat8_desc = "turn制限设定0"
+cheat8_handler = "0"
+cheat8_code = "D0062A98#0005;80062A98#0000"
+
+cheat9_desc = "turn制限设定最大（不推荐）"
+cheat9_handler = "0"
+cheat9_code = "D0062A98#0005;80062A98#00FF"
+
+cheat10_desc = "无限移动"
+cheat10_handler = "0"
+cheat10_code = "D006B682#A0A2;8006B682#A0A0"
+
+cheat11_desc = "移动地形没限制"
+cheat11_handler = "0"
+cheat11_code = "D00B4D04#0022;800B4D04#FFFF;D00B4D06#96A5;800B4D06#2405;D00B4D1C#0022;800B4D1C# FFFF;D00B4D1E#96A5;800B4D1E#2405"
+
+cheat12_desc = "补给时全回复"
+cheat12_handler = "0"
+cheat12_code = "D00B28DE#A622;800B28DE#A624;D00B2886#A622;800B2886#A624"
+
+cheat13_desc = "战斗/移动疲劳值不增"
+cheat13_handler = "0"
+cheat13_code = "D006B68E#A0A2;8006B68E#A0A0;D0071E06#A242;80071E06#A240"
+
+cheat14_desc = "1回合战斗士气MAX"
+cheat14_handler = "0"
+cheat14_code = "D00735C2#0461;800735C2#1400"
+
+cheat15_desc = "居地1处制压就胜利"
+cheat15_handler = "0"
+cheat15_code = "D006EFEE#1447;8006EFEE#1400"
+
+cheat16_desc = "特别地区进入无限制"
+cheat16_handler = "0"
+cheat16_code = "D00C7C36#1040;800C7C36#1400"
+
+cheat17_desc = "技术图鉴全开"
+cheat17_handler = "0"
+cheat17_code = "50009302#0000;801FD2D6#0101"
+
+cheat18_desc = "人物图鉴全开"
+cheat18_handler = "0"
+cheat18_code = "50004D02#0000;801FD3FC#0101;301FD496#0001"
+
+cheat19_desc = "电影档案全开"
+cheat19_handler = "0"
+cheat19_code = "50001602#0000;801FD2A8#0101;301FD2D4#0001"
+
+cheats = 20

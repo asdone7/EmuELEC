@@ -1,0 +1,17 @@
+cheat0_desc = "波動炮不減"
+cheat0_handler = "0"
+cheat0_code = "D0104FB6#0064;80104FB6#0060"
+
+cheat1_desc = "能量快速恢復"
+cheat1_handler = "0"
+cheat1_code = "D011BF10#0002;8011BF10#0001"
+
+cheat2_desc = "HP不減"
+cheat2_handler = "0"
+cheat2_code = "D0122F72#0064;80122F72#0060;D012767A#0044;8012767A#0040"
+
+cheat3_desc = "耐久度不减"
+cheat3_handler = "0"
+cheat3_code = "D0127626#0043;80127626#0043;D0122F22#0043;80122F22#0040"
+
+cheats = 4

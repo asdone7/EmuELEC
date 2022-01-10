@@ -1,0 +1,5 @@
+cheat0_desc = "血不减"
+cheat0_handler = "0"
+cheat0_code = "80096762#0064;80096768#0064"
+
+cheats = 1

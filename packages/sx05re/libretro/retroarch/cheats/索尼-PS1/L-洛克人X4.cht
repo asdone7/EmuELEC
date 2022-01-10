@@ -1,0 +1,33 @@
+cheat0_desc = "无限HP"
+cheat0_handler = "0"
+cheat0_code = "80141A04#3030"
+
+cheat1_desc = "无限生命"
+cheat1_handler = "0"
+cheat1_code = "801722BC#0009"
+
+cheat2_desc = "无限超杀"
+cheat2_handler = "0"
+cheat2_code = "80141A50#3030;80141A50#3030;80141A50#3030;80141A50#3030;80141A50#3030"
+
+cheat3_desc = "所有必杀"
+cheat3_handler = "0"
+cheat3_code = "80141A60#FF00;80141A62#FF03"
+
+cheat4_desc = "所有的人"
+cheat4_handler = "0"
+cheat4_code = "80141A4E#FF00;801722BE#1F29"
+
+cheat5_desc = "BOSS没有HP(打BOSS时再锁)"
+cheat5_handler = "0"
+cheat5_code = "8013C00C#0000"
+
+cheat6_desc = "无敌(进门时必须解锁)打开"
+cheat6_handler = "0"
+cheat6_code = "80141A4C#00FF"
+
+cheat7_desc = "无敌(进门时必须解锁)关闭"
+cheat7_handler = "0"
+cheat7_code = "80141A4C#0000"
+
+cheats = 8

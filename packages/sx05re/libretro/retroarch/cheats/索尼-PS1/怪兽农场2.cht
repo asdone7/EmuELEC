@@ -1,0 +1,77 @@
+cheat0_desc = "全部能力999"
+cheat0_handler = "0"
+cheat0_code = "B0060002#00000000;800959D0#03E7"
+
+cheat1_desc = "金钱 999999999"
+cheat1_handler = "0"
+cheat1_code = "90096F6C#05F5E0FF"
+
+cheat2_desc = "冒险中行动力不减"
+cheat2_handler = "0"
+cheat2_code = "D00C63CC#007C;800C63CE#1400"
+
+cheat3_desc = "金钱无限"
+cheat3_handler = "0"
+cheat3_code = "80096F6C#967F;80096F6E#0098"
+
+cheat4_desc = "一开始就有大房子"
+cheat4_handler = "0"
+cheat4_code = "30096F71#0004"
+
+cheat5_desc = "小房子有大空间"
+cheat5_handler = "0"
+cheat5_code = "30096F72#0002"
+
+cheat6_desc = "拥有所有怪兽卡片(自己补全)"
+cheat6_handler = "0"
+cheat6_code = "8009703C#0101;8009703D#0101;8009703E#0101;8009703F#0101;8009703C#0101;800971D2#0101"
+
+cheat7_desc = "探险时行动力不减"
+cheat7_handler = "0"
+cheat7_code = "D00C63CC#007C;800C63CE#1400"
+
+cheat8_desc = "怪兽等级(ww=00-05)"
+cheat8_handler = "0"
+cheat8_code = "30095B42#00WW"
+
+cheat9_desc = "各项能力值999"
+cheat9_handler = "0"
+cheat9_code = "800959D0#03E7;800959D2#03E7;800959D4#03E7;800959D6#03E7;800959D8#03E7;800959DA#03E7"
+
+cheat10_desc = "寿命"
+cheat10_handler = "0"
+cheat10_code = "800959E0#03E7"
+
+cheat11_desc = "不会发生逃亡事件"
+cheat11_handler = "0"
+cheat11_code = "300959E7#0000"
+
+cheat12_desc = "人气度"
+cheat12_handler = "0"
+cheat12_code = "800959E8#0064"
+
+cheat13_desc = "溺爱度"
+cheat13_handler = "0"
+cheat13_code = "300959EC#0064"
+
+cheat14_desc = "胜数"
+cheat14_handler = "0"
+cheat14_code = "80095A16#03E7"
+
+cheat15_desc = "败数"
+cheat15_handler = "0"
+cheat15_code = "80095A18#0000"
+
+cheat16_desc = "KO数"
+cheat16_handler = "0"
+cheat16_code = "80095A1A#03E7"
+
+cheat17_desc = "总获得赏金"
+cheat17_handler = "0"
+cheat17_code = "80095A0C#967F;80095A0E#0098"
+
+cheat18_desc = "所有CD都作得出怪兽"
+cheat18_handler = "0"
+cheat18_code = "B1950002#00000000;8009703C#0101"
+
+cheats = 19

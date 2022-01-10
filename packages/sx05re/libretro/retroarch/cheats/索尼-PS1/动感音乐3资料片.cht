@@ -1,0 +1,13 @@
+cheat0_desc = "动演奏"
+cheat0_handler = "0"
+cheat0_code = "800D2AE4#0001"
+
+cheat1_desc = "计量表不减"
+cheat1_handler = "0"
+cheat1_code = "800D2EC8#001F;800D2E7C#02A0"
+
+cheat2_desc = "全歌曲"
+cheat2_handler = "0"
+cheat2_code = "800C5648#FFFF;800C564A#FFFF;800C564C#FFFF;800C564E#FFFF"
+
+cheats = 3

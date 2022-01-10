@@ -1,0 +1,9 @@
+cheat0_desc = "1P"
+cheat0_handler = "0"
+cheat0_code = "81B0D20#0006"
+
+cheat1_desc = "1P B"
+cheat1_handler = "0"
+cheat1_code = "81B0D24#0005"
+
+cheats = 2

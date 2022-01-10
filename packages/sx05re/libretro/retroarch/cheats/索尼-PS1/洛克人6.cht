@@ -1,0 +1,33 @@
+cheat0_desc = "MOON JUMP (X+R1)"
+cheat0_handler = "0"
+cheat0_code = "D0056DA8#0048;8005A178#04FE;D005A178#04FE;8005A160#CC00"
+
+cheat1_desc = "ROCKMANS AMMO"
+cheat1_handler = "0"
+cheat1_code = "8005A0F0#A916"
+
+cheat2_desc = "时间不增"
+cheat2_handler = "0"
+cheat2_code = "80046EB4#0000"
+
+cheat3_desc = "破译码"
+cheat3_handler = "0"
+cheat3_code = "D006DA7A#1040;8006DA7A#1000"
+
+cheat4_desc = "全模式"
+cheat4_handler = "0"
+cheat4_code = "30057E7E#000F"
+
+cheat5_desc = "只数不减"
+cheat5_handler = "0"
+cheat5_code = "D00F69543540B;800F6954#540B"
+
+cheat6_desc = "HP不减"
+cheat6_handler = "0"
+cheat6_code = "D0101E84#2023;80101E86#0080"
+
+cheat7_desc = "武器能量不减"
+cheat7_handler = "0"
+cheat7_code = "D010079C#1021;801007A2#3000"
+
+cheats = 8

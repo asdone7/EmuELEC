@@ -1,0 +1,5 @@
+cheat0_desc = "全图片"
+cheat0_handler = "0"
+cheat0_code = "B0080002#00000000;801FFB80#FFFF"
+
+cheats = 1

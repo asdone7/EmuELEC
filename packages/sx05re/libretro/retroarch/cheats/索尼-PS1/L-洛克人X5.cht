@@ -1,0 +1,17 @@
+cheat0_desc = "体力无限NO"
+cheat0_handler = "0"
+cheat0_code = "80091221#1199;80091223#119C"
+
+cheat1_desc = "生命不减NO"
+cheat1_handler = "0"
+cheat1_code = "D0021CC0#FFFF;80021CC0#0000"
+
+cheat2_desc = "全装甲NO"
+cheat2_handler = "0"
+cheat2_code = "300D3122#00FF"
+
+cheat3_desc = "强化芯片MAX"
+cheat3_handler = "0"
+cheat3_code = "800D315C#FFFF;300D315E#00FF"
+
+cheats = 4

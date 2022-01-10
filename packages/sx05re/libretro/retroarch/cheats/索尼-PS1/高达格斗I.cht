@@ -1,0 +1,349 @@
+cheat0_desc = "选关HYDRA-G(最终回)"
+cheat0_handler = "0"
+cheat0_code = "300E144E#09"
+
+cheat1_desc = "选关PSYCHO MK-III"
+cheat1_handler = "0"
+cheat1_code = "300E144E#08"
+
+cheat2_desc = "选关NEUE ZIEL"
+cheat2_handler = "0"
+cheat2_code = "300E144E#07"
+
+cheat3_desc = "选关QUBELEY"
+cheat3_handler = "0"
+cheat3_code = "300E144E#06"
+
+cheat4_desc = "选关THE-O"
+cheat4_handler = "0"
+cheat4_code = "300E144E#05"
+
+cheat5_desc = "选关BIG ZAM"
+cheat5_handler = "0"
+cheat5_code = "300E144E#04"
+
+cheat6_desc = "选关ZEONG"
+cheat6_handler = "0"
+cheat6_code = "300E144E#03"
+
+cheat7_desc = "选关GPO2A"
+cheat7_handler = "0"
+cheat7_code = "300E144E#02"
+
+cheat8_desc = "选关Q-MANTHA"
+cheat8_handler = "0"
+cheat8_code = "300E144E#01"
+
+cheat9_desc = "选关SAZABI"
+cheat9_handler = "0"
+cheat9_code = "300E144E#00"
+
+cheat10_desc = "1P使用BOSS和选人包括隐藏角色*CHAR'S ZAKU(隐藏角色)"
+cheat10_handler = "0"
+cheat10_code = "300E1464#13"
+
+cheat11_desc = "1P使用BOSS和选人包括隐藏角色*BALL(隐藏角色)"
+cheat11_handler = "0"
+cheat11_code = "300E1464#12"
+
+cheat12_desc = "1P使用BOSS和选人包括隐藏角色*HYDRA-G(最终BOSS)"
+cheat12_handler = "0"
+cheat12_code = "300E1464#11"
+
+cheat13_desc = "1P使用BOSS和选人包括隐藏角色WING GUNDAM"
+cheat13_handler = "0"
+cheat13_code = "300E1464#10"
+
+cheat14_desc = "1P使用BOSS和选人包括隐藏角色QUBELEY"
+cheat14_handler = "0"
+cheat14_code = "300E1464#0F"
+
+cheat15_desc = "1P使用BOSS和选人包括隐藏角色ACGUY"
+cheat15_handler = "0"
+cheat15_code = "300E1464#0E"
+
+cheat16_desc = "1P使用BOSS和选人包括隐藏角色Z-GUNDAM"
+cheat16_handler = "0"
+cheat16_code = "300E1464#0D"
+
+cheat17_desc = "1P使用BOSS和选人包括隐藏角色ZZ-GUNDAM"
+cheat17_handler = "0"
+cheat17_code = "300E1464#0C"
+
+cheat18_desc = "1P使用BOSS和选人包括隐藏角色GPO2A"
+cheat18_handler = "0"
+cheat18_code = "300E1464#0B"
+
+cheat19_desc = "1P使用BOSS和选人包括隐藏角色*GUNDAM"
+cheat19_handler = "0"
+cheat19_code = "300E1464#0A"
+
+cheat20_desc = "1P使用BOSS和选人包括隐藏角色*PSYCHO MK-III"
+cheat20_handler = "0"
+cheat20_code = "300E1464#09"
+
+cheat21_desc = "1P使用BOSS和选人包括隐藏角色*V-GUNDAM"
+cheat21_handler = "0"
+cheat21_code = "300E1464#08"
+
+cheat22_desc = "1P使用BOSS和选人包括隐藏角色*NEUE ZIEL"
+cheat22_handler = "0"
+cheat22_code = "300E1464#07"
+
+cheat23_desc = "1P使用BOSS和选人包括隐藏角色THE-O"
+cheat23_handler = "0"
+cheat23_code = "300E1464#06"
+
+cheat24_desc = "1P使用BOSS和选人包括隐藏角色*BIG ZAM"
+cheat24_handler = "0"
+cheat24_code = "300E1464#05"
+
+cheat25_desc = "1P使用BOSS和选人包括隐藏角色Q-MANTHA"
+cheat25_handler = "0"
+cheat25_code = "300E1464#04"
+
+cheat26_desc = "1P使用BOSS和选人包括隐藏角色SAZABI"
+cheat26_handler = "0"
+cheat26_code = "300E1464#03"
+
+cheat27_desc = "1P使用BOSS和选人包括隐藏角色ZEONG"
+cheat27_handler = "0"
+cheat27_code = "300E1464#02"
+
+cheat28_desc = "1P使用BOSS和选人包括隐藏角色HY-GOGG"
+cheat28_handler = "0"
+cheat28_code = "300E1464#01"
+
+cheat29_desc = "1P使用BOSS和选人包括隐藏角色ZAKUII"
+cheat29_handler = "0"
+cheat29_code = "300E1464#00"
+
+cheat30_desc = "2P使用BOSS和选人包括隐藏角色*CHAR'S ZAKU(隐藏角色)"
+cheat30_handler = "0"
+cheat30_code = "300E146E#13"
+
+cheat31_desc = "2P使用BOSS和选人包括隐藏角色*BALL(隐藏角色)"
+cheat31_handler = "0"
+cheat31_code = "300E146E#12"
+
+cheat32_desc = "2P使用BOSS和选人包括隐藏角色*HYDRA-G(最终BOSS)"
+cheat32_handler = "0"
+cheat32_code = "300E146E#11"
+
+cheat33_desc = "2P使用BOSS和选人包括隐藏角色WING GUNDAM"
+cheat33_handler = "0"
+cheat33_code = "300E146E#10"
+
+cheat34_desc = "2P使用BOSS和选人包括隐藏角色QUBELEY"
+cheat34_handler = "0"
+cheat34_code = "300E146E#0F"
+
+cheat35_desc = "2P使用BOSS和选人包括隐藏角色ACGUY"
+cheat35_handler = "0"
+cheat35_code = "300E146E#0E"
+
+cheat36_desc = "2P使用BOSS和选人包括隐藏角色Z-GUNDAM"
+cheat36_handler = "0"
+cheat36_code = "300E146E#0D"
+
+cheat37_desc = "2P使用BOSS和选人包括隐藏角色ZZ-GUNDAM"
+cheat37_handler = "0"
+cheat37_code = "300E146E#0C"
+
+cheat38_desc = "2P使用BOSS和选人包括隐藏角色GPO2A"
+cheat38_handler = "0"
+cheat38_code = "300E146E#0B"
+
+cheat39_desc = "2P使用BOSS和选人包括隐藏角色*GUNDAM"
+cheat39_handler = "0"
+cheat39_code = "300E146E#0A"
+
+cheat40_desc = "2P使用BOSS和选人包括隐藏角色*PSYCHO MK-III"
+cheat40_handler = "0"
+cheat40_code = "300E146E#09"
+
+cheat41_desc = "2P使用BOSS和选人包括隐藏角色*V-GUNDAM"
+cheat41_handler = "0"
+cheat41_code = "300E146E#08"
+
+cheat42_desc = "2P使用BOSS和选人包括隐藏角色*NEUE ZIEL"
+cheat42_handler = "0"
+cheat42_code = "300E146E#07"
+
+cheat43_desc = "2P使用BOSS和选人包括隐藏角色THE-O"
+cheat43_handler = "0"
+cheat43_code = "300E146E#06"
+
+cheat44_desc = "2P使用BOSS和选人包括隐藏角色*BIG ZAM"
+cheat44_handler = "0"
+cheat44_code = "300E146E#05"
+
+cheat45_desc = "2P使用BOSS和选人包括隐藏角色Q-MANTHA"
+cheat45_handler = "0"
+cheat45_code = "300E146E#04"
+
+cheat46_desc = "2P使用BOSS和选人包括隐藏角色SAZABI"
+cheat46_handler = "0"
+cheat46_code = "300E146E#03"
+
+cheat47_desc = "2P使用BOSS和选人包括隐藏角色ZEONG"
+cheat47_handler = "0"
+cheat47_code = "300E146E#02"
+
+cheat48_desc = "2P使用BOSS和选人包括隐藏角色HY-GOGG"
+cheat48_handler = "0"
+cheat48_code = "300E146E#01"
+
+cheat49_desc = "2P使用BOSS和选人包括隐藏角色ZAKUII"
+cheat49_handler = "0"
+cheat49_code = "300E146E#00"
+
+cheat50_desc = "1P控制方式玩家"
+cheat50_handler = "0"
+cheat50_code = "301A7156#00"
+
+cheat51_desc = "1P控制方式由电脑控制"
+cheat51_handler = "0"
+cheat51_code = "301A7156#FF"
+
+cheat52_desc = "和电脑交换人物控制权用1P游戏时控制2P电脑控制1P"
+cheat52_handler = "0"
+cheat52_code = "300E144A#00"
+
+cheat53_desc = "和电脑交换人物控制权控制1P电脑控制2P"
+cheat53_handler = "0"
+cheat53_code = "300E144A#01"
+
+cheat54_desc = "关卡进度HYDRA-G(最终回)"
+cheat54_handler = "0"
+cheat54_code = "300E1470#13"
+
+cheat55_desc = "背景选择HYDRA-G"
+cheat55_handler = "0"
+cheat55_code = "300E144C#10"
+
+cheat56_desc = "背景选择16"
+cheat56_handler = "0"
+cheat56_code = "300E144C#F"
+
+cheat57_desc = "背景选择15"
+cheat57_handler = "0"
+cheat57_code = "300E144C#E"
+
+cheat58_desc = "背景选择14"
+cheat58_handler = "0"
+cheat58_code = "300E144C#D"
+
+cheat59_desc = "背景选择13"
+cheat59_handler = "0"
+cheat59_code = "300E144C#C"
+
+cheat60_desc = "背景选择12"
+cheat60_handler = "0"
+cheat60_code = "300E144C#B"
+
+cheat61_desc = "背景选择11"
+cheat61_handler = "0"
+cheat61_code = "300E144C#A"
+
+cheat62_desc = "背景选择10"
+cheat62_handler = "0"
+cheat62_code = "300E144C#9"
+
+cheat63_desc = "背景选择9"
+cheat63_handler = "0"
+cheat63_code = "300E144C#8"
+
+cheat64_desc = "背景选择8"
+cheat64_handler = "0"
+cheat64_code = "300E144C#7"
+
+cheat65_desc = "背景选择7"
+cheat65_handler = "0"
+cheat65_code = "300E144C#6"
+
+cheat66_desc = "背景选择6"
+cheat66_handler = "0"
+cheat66_code = "300E144C#5"
+
+cheat67_desc = "背景选择5"
+cheat67_handler = "0"
+cheat67_code = "300E144C#4"
+
+cheat68_desc = "背景选择4"
+cheat68_handler = "0"
+cheat68_code = "300E144C#3"
+
+cheat69_desc = "背景选择3"
+cheat69_handler = "0"
+cheat69_code = "300E144C#2"
+
+cheat70_desc = "背景选择2"
+cheat70_handler = "0"
+cheat70_code = "300E144C#1"
+
+cheat71_desc = "背景选择1"
+cheat71_handler = "0"
+cheat71_code = "300E144C#0"
+
+cheat72_desc = "1P体力血满"
+cheat72_handler = "0"
+cheat72_code = "30157F3D#00"
+
+cheat73_desc = "1P体力0血Danger"
+cheat73_handler = "0"
+cheat73_code = "30157F3D#70"
+
+cheat74_desc = "1P体力0血"
+cheat74_handler = "0"
+cheat74_code = "30157F3D#6F"
+
+cheat75_desc = "1P血条数量7条血"
+cheat75_handler = "0"
+cheat75_code = "30157F3A#6"
+
+cheat76_desc = "1P血条数量3条血"
+cheat76_handler = "0"
+cheat76_code = "30157F3A#2"
+
+cheat77_desc = "1P血条数量1条血"
+cheat77_handler = "0"
+cheat77_code = "30157F3A#0"
+
+cheat78_desc = "1P血条数量无限条血"
+cheat78_handler = "0"
+cheat78_code = "30157F3A#FF"
+
+cheat79_desc = "2P体力0血"
+cheat79_handler = "0"
+cheat79_code = "30185ED9#6F"
+
+cheat80_desc = "2P体力0血Danger"
+cheat80_handler = "0"
+cheat80_code = "30185ED9#70"
+
+cheat81_desc = "2P体力血满"
+cheat81_handler = "0"
+cheat81_code = "30185ED9#00"
+
+cheat82_desc = "2P血条数量1条血"
+cheat82_handler = "0"
+cheat82_code = "30185ED6#0"
+
+cheat83_desc = "2P血条数量3条血"
+cheat83_handler = "0"
+cheat83_code = "30185ED6#2"
+
+cheat84_desc = "2P血条数量7条血"
+cheat84_handler = "0"
+cheat84_code = "30185ED6#6"
+
+cheat85_desc = "2P血条数量无限条血"
+cheat85_handler = "0"
+cheat85_code = "30185ED6#FF"
+
+cheat86_desc = "time99:99"
+cheat86_handler = "0"
+cheat86_code = "3011FFD9#3F;3011FFE0#9"
+
+cheats = 87

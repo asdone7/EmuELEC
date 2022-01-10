@@ -1,0 +1,33 @@
+cheat0_desc = "Hp:"
+cheat0_handler = "0"
+cheat0_code = "800BE37C#270F;800BE388#270F;800BE38C#270F"
+
+cheat1_desc = "好感度&信赖度(??=00-80)"
+cheat1_handler = "0"
+cheat1_code = "800BE368#00??;800BE36A#00??"
+
+cheat2_desc = "神气不减"
+cheat2_handler = "0"
+cheat2_code = "D0052F30#1023;80052F32#0040;D00698E2#00C3;800698E2#00C0"
+
+cheat3_desc = "道具不减"
+cheat3_handler = "0"
+cheat3_code = "D00154FE#1040;80015500#0000"
+
+cheat4_desc = "买1个道具变99个"
+cheat4_handler = "0"
+cheat4_code = "D00153A0#1021;800153A0#0063;D00153A2#00A2;800153A2#2402"
+
+cheat5_desc = "战斗一次升一级"
+cheat5_handler = "0"
+cheat5_code = "D00426BE#1040;800426BE#1440"
+
+cheat6_desc = "无限金$"
+cheat6_handler = "0"
+cheat6_code = "800BE7B4#967F;800BE7B6#0098"
+
+cheat7_desc = "遇不到敌人"
+cheat7_handler = "0"
+cheat7_code = "800E0420#0000"
+
+cheats = 8

@@ -45,7 +45,6 @@ PKG_DEPENDS_TARGET+=" ffmpeg \
                       exfat \
                       351Files \
                       box64 \
-                      pygame \
                       iotop"
 
 if [ "${PROJECT}" == "Amlogic-ce" ]; then

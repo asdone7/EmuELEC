@@ -1,0 +1,17 @@
+cheat0_desc = "1P HP MAX"
+cheat0_handler = "0"
+cheat0_code = "801C0CCC#0240;801C0CCE#0240"
+
+cheat1_desc = "2P HP MAX"
+cheat1_handler = "0"
+cheat1_code = "801C10A0#0240;801C10A2#0240"
+
+cheat2_desc = "1P POWER MAX"
+cheat2_handler = "0"
+cheat2_code = "801C0D40#6302"
+
+cheat3_desc = "2P POWER MAX"
+cheat3_handler = "0"
+cheat3_code = "801C1114#6301"
+
+cheats = 4

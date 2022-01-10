@@ -1,0 +1,557 @@
+cheat0_desc = "金錢無限"
+cheat0_handler = "0"
+cheat0_code = "800E2F1C#423F;800E2F1E#000F"
+
+cheat1_desc = "全部佣兵 Langrisser 5 用"
+cheat1_handler = "0"
+cheat1_code = "b0060068#00000000,900e3b04#ffffffff;b0060068#00000000,900e3b08#ffffffff"
+
+cheat2_desc = "男女主角经验值"
+cheat2_handler = "0"
+cheat2_code = "B002000E4#00000000,3011175F#63"
+
+cheat3_desc = "男女主角MP"
+cheat3_handler = "0"
+cheat3_code = "B002000E4#00000000,80111765#6363"
+
+cheat4_desc = "男女主角判断力"
+cheat4_handler = "0"
+cheat4_code = "B002000E4#00000000,30111764#63"
+
+cheat5_desc = "西古玛武器斩风短剑"
+cheat5_handler = "0"
+cheat5_code = "30111771#05"
+
+cheat6_desc = "西古玛武器X型圣剑"
+cheat6_handler = "0"
+cheat6_code = "30111771#0E"
+
+cheat7_desc = "西古玛武器强袭型魔光剑"
+cheat7_handler = "0"
+cheat7_code = "30111771#0F"
+
+cheat8_desc = "西古玛武器魔剑"
+cheat8_handler = "0"
+cheat8_code = "30111771#10"
+
+cheat9_desc = "西古玛武器圣剑"
+cheat9_handler = "0"
+cheat9_code = "30111771#11"
+
+cheat10_desc = "西古玛武器古代之斧"
+cheat10_handler = "0"
+cheat10_code = "30111771#16"
+
+cheat11_desc = "西古玛武器力量铁锤"
+cheat11_handler = "0"
+cheat11_code = "30111771#1B"
+
+cheat12_desc = "西古玛武器斯夫塔夫"
+cheat12_handler = "0"
+cheat12_code = "30111771#23"
+
+cheat13_desc = "西古玛武器灼热之杖"
+cheat13_handler = "0"
+cheat13_code = "30111771#28"
+
+cheat14_desc = "西古玛武器生命之杖"
+cheat14_handler = "0"
+cheat14_code = "30111771#29"
+
+cheat15_desc = "西古玛武器奇迹之杖"
+cheat15_handler = "0"
+cheat15_code = "30111771#2A"
+
+cheat16_desc = "西古玛武器龙王之杖"
+cheat16_handler = "0"
+cheat16_code = "30111771#2B"
+
+cheat17_desc = "西古玛武器月女神之弓"
+cheat17_handler = "0"
+cheat17_code = "30111771#30"
+
+cheat18_desc = "西古玛防具合金铠甲"
+cheat18_handler = "0"
+cheat18_code = "30111772#35"
+
+cheat19_desc = "西古玛防具雷神服"
+cheat19_handler = "0"
+cheat19_code = "30111772#40"
+
+cheat20_desc = "西古玛防具幻象道袍"
+cheat20_handler = "0"
+cheat20_code = "30111772#42"
+
+cheat21_desc = "西古玛防具天女羽衣"
+cheat21_handler = "0"
+cheat21_code = "30111772#43"
+
+cheat22_desc = "西古玛防具暗之法衣"
+cheat22_handler = "0"
+cheat22_code = "30111772#44"
+
+cheat23_desc = "西古玛防具女神服"
+cheat23_handler = "0"
+cheat23_code = "30111772#45"
+
+cheat24_desc = "西古玛饰物魔防项链"
+cheat24_handler = "0"
+cheat24_code = "30111773#4B"
+
+cheat25_desc = "西古玛饰物头饰"
+cheat25_handler = "0"
+cheat25_code = "30111773#50"
+
+cheat26_desc = "西古玛饰物光之铃"
+cheat26_handler = "0"
+cheat26_code = "30111773#53"
+
+cheat27_desc = "西古玛饰物霸王的首饰"
+cheat27_handler = "0"
+cheat27_code = "30111773#54"
+
+cheat28_desc = "西古玛饰物龙王之冠"
+cheat28_handler = "0"
+cheat28_code = "30111773#55"
+
+cheat29_desc = "西古玛饰物魔导石"
+cheat29_handler = "0"
+cheat29_code = "30111773#57"
+
+cheat30_desc = "西古玛魔法&技能"
+cheat30_handler = "0"
+cheat30_code = "B00B00001#00000000,30111774#FF"
+
+cheat31_desc = "西古玛能力值"
+cheat31_handler = "0"
+cheat31_code = "30111760#63;B00200001#00000000,30111761#28;3011181D#50;30111820#50;30111823#3B;3011176A#0F"
+
+cheat32_desc = "莱姆达武器斩风短剑"
+cheat32_handler = "0"
+cheat32_code = "30111855#05"
+
+cheat33_desc = "莱姆达武器X型圣剑"
+cheat33_handler = "0"
+cheat33_code = "30111855#0E"
+
+cheat34_desc = "莱姆达武器强袭型魔光剑"
+cheat34_handler = "0"
+cheat34_code = "30111855#0F"
+
+cheat35_desc = "莱姆达武器魔剑"
+cheat35_handler = "0"
+cheat35_code = "30111855#10"
+
+cheat36_desc = "莱姆达武器圣剑"
+cheat36_handler = "0"
+cheat36_code = "30111855#11"
+
+cheat37_desc = "莱姆达武器古代之斧"
+cheat37_handler = "0"
+cheat37_code = "30111855#16"
+
+cheat38_desc = "莱姆达武器力量铁锤"
+cheat38_handler = "0"
+cheat38_code = "30111855#1B"
+
+cheat39_desc = "莱姆达武器斯夫塔夫"
+cheat39_handler = "0"
+cheat39_code = "30111855#23"
+
+cheat40_desc = "莱姆达武器灼热之杖"
+cheat40_handler = "0"
+cheat40_code = "30111855#28"
+
+cheat41_desc = "莱姆达武器生命之杖"
+cheat41_handler = "0"
+cheat41_code = "30111855#29"
+
+cheat42_desc = "莱姆达武器奇迹之杖"
+cheat42_handler = "0"
+cheat42_code = "30111855#2A"
+
+cheat43_desc = "莱姆达武器龙王之杖"
+cheat43_handler = "0"
+cheat43_code = "30111855#2B"
+
+cheat44_desc = "莱姆达武器月女神之弓"
+cheat44_handler = "0"
+cheat44_code = "30111855#30"
+
+cheat45_desc = "莱姆达防具合金铠甲"
+cheat45_handler = "0"
+cheat45_code = "30111856#35"
+
+cheat46_desc = "莱姆达防具雷神服"
+cheat46_handler = "0"
+cheat46_code = "30111856#40"
+
+cheat47_desc = "莱姆达防具幻象道袍"
+cheat47_handler = "0"
+cheat47_code = "30111856#42"
+
+cheat48_desc = "莱姆达防具天女羽衣"
+cheat48_handler = "0"
+cheat48_code = "30111856#43"
+
+cheat49_desc = "莱姆达防具暗之法衣"
+cheat49_handler = "0"
+cheat49_code = "30111856#44"
+
+cheat50_desc = "莱姆达防具女神服"
+cheat50_handler = "0"
+cheat50_code = "30111856#45"
+
+cheat51_desc = "莱姆达饰物魔防项链"
+cheat51_handler = "0"
+cheat51_code = "30111857#4B"
+
+cheat52_desc = "莱姆达饰物头饰"
+cheat52_handler = "0"
+cheat52_code = "30111857#50"
+
+cheat53_desc = "莱姆达饰物光之铃"
+cheat53_handler = "0"
+cheat53_code = "30111857#53"
+
+cheat54_desc = "莱姆达饰物霸王的首饰"
+cheat54_handler = "0"
+cheat54_code = "30111857#54"
+
+cheat55_desc = "莱姆达饰物龙王之冠"
+cheat55_handler = "0"
+cheat55_code = "30111857#55"
+
+cheat56_desc = "莱姆达饰物魔导石"
+cheat56_handler = "0"
+cheat56_code = "30111857#57"
+
+cheat57_desc = "莱姆达饰物炎之水晶"
+cheat57_handler = "0"
+cheat57_code = "30111857#59"
+
+cheat58_desc = "莱姆达饰物圣王的护符"
+cheat58_handler = "0"
+cheat58_code = "30111857#5A"
+
+cheat59_desc = "莱姆达饰物天使之羽"
+cheat59_handler = "0"
+cheat59_code = "30111857#5B"
+
+cheat60_desc = "莱姆达饰物圣轮"
+cheat60_handler = "0"
+cheat60_code = "30111857#5C"
+
+cheat61_desc = "莱姆达饰物血之盟约"
+cheat61_handler = "0"
+cheat61_code = "30111857#5D"
+
+cheat62_desc = "莱姆达魔法&技能"
+cheat62_handler = "0"
+cheat62_code = "B00B00001#00000000,30111858#FF"
+
+cheat63_desc = "莱姆达能力值"
+cheat63_handler = "0"
+cheat63_code = "30111844#63;B00200001#00000000,30111845#28;30111901#50;30111904#50;30111907#3B;3011184E#0F"
+
+cheat64_desc = "第三人武器X型圣剑"
+cheat64_handler = "0"
+cheat64_code = "30111939#0E"
+
+cheat65_desc = "第三人武器强袭型魔光剑"
+cheat65_handler = "0"
+cheat65_code = "30111939#0F"
+
+cheat66_desc = "第三人武器魔剑"
+cheat66_handler = "0"
+cheat66_code = "30111939#10"
+
+cheat67_desc = "第三人武器圣剑"
+cheat67_handler = "0"
+cheat67_code = "30111939#11"
+
+cheat68_desc = "第三人武器斯夫塔夫"
+cheat68_handler = "0"
+cheat68_code = "30111939#23"
+
+cheat69_desc = "第三人武器生命之杖"
+cheat69_handler = "0"
+cheat69_code = "30111939#29"
+
+cheat70_desc = "第三人武器奇迹之杖"
+cheat70_handler = "0"
+cheat70_code = "30111939#2A"
+
+cheat71_desc = "第三人武器龙王之杖"
+cheat71_handler = "0"
+cheat71_code = "30111939#2B"
+
+cheat72_desc = "第三人防具合金铠甲"
+cheat72_handler = "0"
+cheat72_code = "3011193A#35"
+
+cheat73_desc = "第三人防具暗之法衣"
+cheat73_handler = "0"
+cheat73_code = "3011193A#44"
+
+cheat74_desc = "第三人防具女神服"
+cheat74_handler = "0"
+cheat74_code = "3011193A#45"
+
+cheat75_desc = "第三人饰物头饰"
+cheat75_handler = "0"
+cheat75_code = "3011193B#50"
+
+cheat76_desc = "第三人饰物光之铃"
+cheat76_handler = "0"
+cheat76_code = "3011193B#53"
+
+cheat77_desc = "第三人饰物霸王的首饰"
+cheat77_handler = "0"
+cheat77_code = "3011193B#54"
+
+cheat78_desc = "第三人饰物龙王之冠"
+cheat78_handler = "0"
+cheat78_code = "3011193B#55"
+
+cheat79_desc = "第三人饰物魔导石"
+cheat79_handler = "0"
+cheat79_code = "3011193B#57"
+
+cheat80_desc = "第三人饰物圣王的护符"
+cheat80_handler = "0"
+cheat80_code = "3011193B#5A"
+
+cheat81_desc = "第三人饰物圣轮"
+cheat81_handler = "0"
+cheat81_code = "3011193B#5C"
+
+cheat82_desc = "第三人饰物血之盟约"
+cheat82_handler = "0"
+cheat82_code = "3011193B#5D"
+
+cheat83_desc = "第三人经验值"
+cheat83_handler = "0"
+cheat83_code = "30111927#63"
+
+cheat84_desc = "第三人MP"
+cheat84_handler = "0"
+cheat84_code = "8011192D#6363"
+
+cheat85_desc = "第三人魔法&技能"
+cheat85_handler = "0"
+cheat85_code = "B00B00001#00000000,3011193C#FF"
+
+cheat86_desc = "第四人武器X型圣剑"
+cheat86_handler = "0"
+cheat86_code = "30111A1D#0E"
+
+cheat87_desc = "第四人武器强袭型魔光剑"
+cheat87_handler = "0"
+cheat87_code = "30111A1D#0F"
+
+cheat88_desc = "第四人武器魔剑"
+cheat88_handler = "0"
+cheat88_code = "30111A1D#10"
+
+cheat89_desc = "第四人武器圣剑"
+cheat89_handler = "0"
+cheat89_code = "30111A1D#11"
+
+cheat90_desc = "第四人武器斯夫塔夫"
+cheat90_handler = "0"
+cheat90_code = "30111A1D#23"
+
+cheat91_desc = "第四人武器生命之杖"
+cheat91_handler = "0"
+cheat91_code = "30111A1D#29"
+
+cheat92_desc = "第四人武器奇迹之杖"
+cheat92_handler = "0"
+cheat92_code = "30111A1D#2A"
+
+cheat93_desc = "第四人武器龙王之杖"
+cheat93_handler = "0"
+cheat93_code = "30111A1D#2B"
+
+cheat94_desc = "第四人防具合金铠甲"
+cheat94_handler = "0"
+cheat94_code = "30111A1E#35"
+
+cheat95_desc = "第四人防具暗之法衣"
+cheat95_handler = "0"
+cheat95_code = "30111A1E#44"
+
+cheat96_desc = "第四人防具女神服"
+cheat96_handler = "0"
+cheat96_code = "30111A1E#45"
+
+cheat97_desc = "第四人饰物头饰"
+cheat97_handler = "0"
+cheat97_code = "30111A1F#50"
+
+cheat98_desc = "第四人饰物光之铃"
+cheat98_handler = "0"
+cheat98_code = "30111A1F#53"
+
+cheat99_desc = "第四人饰物霸王的首饰"
+cheat99_handler = "0"
+cheat99_code = "30111A1F#54"
+
+cheat100_desc = "第四人饰物龙王之冠"
+cheat100_handler = "0"
+cheat100_code = "30111A1F#55"
+
+cheat101_desc = "第四人饰物魔导石"
+cheat101_handler = "0"
+cheat101_code = "30111A1F#57"
+
+cheat102_desc = "第四人饰物圣王的护符"
+cheat102_handler = "0"
+cheat102_code = "30111A1F#5A"
+
+cheat103_desc = "第四人饰物圣轮"
+cheat103_handler = "0"
+cheat103_code = "30111A1F#5C"
+
+cheat104_desc = "第四人饰物血之盟约"
+cheat104_handler = "0"
+cheat104_code = "30111A1F#5D"
+
+cheat105_desc = "第四人经验值"
+cheat105_handler = "0"
+cheat105_code = "30111A0B#63"
+
+cheat106_desc = "第四人MP"
+cheat106_handler = "0"
+cheat106_code = "80111A11#6363"
+
+cheat107_desc = "第四人魔法&技能"
+cheat107_handler = "0"
+cheat107_code = "B00B00001#00000000,30111A20#FF"
+
+cheat108_desc = "第五人武器X型圣剑"
+cheat108_handler = "0"
+cheat108_code = "30111B01#0E"
+
+cheat109_desc = "第五人武器强袭型魔光剑"
+cheat109_handler = "0"
+cheat109_code = "30111B01#0F"
+
+cheat110_desc = "第五人武器魔剑"
+cheat110_handler = "0"
+cheat110_code = "30111B01#10"
+
+cheat111_desc = "第五人武器圣剑"
+cheat111_handler = "0"
+cheat111_code = "30111B01#11"
+
+cheat112_desc = "第五人武器斯夫塔夫"
+cheat112_handler = "0"
+cheat112_code = "30111B01#23"
+
+cheat113_desc = "第五人武器生命之杖"
+cheat113_handler = "0"
+cheat113_code = "30111B01#29"
+
+cheat114_desc = "第五人武器奇迹之杖"
+cheat114_handler = "0"
+cheat114_code = "30111B01#2A"
+
+cheat115_desc = "第五人武器龙王之杖"
+cheat115_handler = "0"
+cheat115_code = "30111B01#2B"
+
+cheat116_desc = "第五人防具合金铠甲"
+cheat116_handler = "0"
+cheat116_code = "30111B02#35"
+
+cheat117_desc = "第五人防具暗之法衣"
+cheat117_handler = "0"
+cheat117_code = "30111B02#44"
+
+cheat118_desc = "第五人防具女神服"
+cheat118_handler = "0"
+cheat118_code = "30111B02#45"
+
+cheat119_desc = "第五人饰物头饰"
+cheat119_handler = "0"
+cheat119_code = "30111B03#50"
+
+cheat120_desc = "第五人饰物光之铃"
+cheat120_handler = "0"
+cheat120_code = "30111B03#53"
+
+cheat121_desc = "第五人饰物霸王的首饰"
+cheat121_handler = "0"
+cheat121_code = "30111B03#54"
+
+cheat122_desc = "第五人饰物龙王之冠"
+cheat122_handler = "0"
+cheat122_code = "30111B03#55"
+
+cheat123_desc = "第五人饰物魔导石"
+cheat123_handler = "0"
+cheat123_code = "30111B03#57"
+
+cheat124_desc = "第五人饰物圣王的护符"
+cheat124_handler = "0"
+cheat124_code = "30111B03#5A"
+
+cheat125_desc = "第五人饰物圣轮"
+cheat125_handler = "0"
+cheat125_code = "30111B03#5C"
+
+cheat126_desc = "第五人饰物血之盟约"
+cheat126_handler = "0"
+cheat126_code = "30111B03#5D"
+
+cheat127_desc = "第五人经验值"
+cheat127_handler = "0"
+cheat127_code = "30111AEF#63"
+
+cheat128_desc = "第五人MP"
+cheat128_handler = "0"
+cheat128_code = "80111AF5#6363"
+
+cheat129_desc = "第五人魔法&技能"
+cheat129_handler = "0"
+cheat129_code = "B00B00001#00000000,30111B04#FF"
+
+cheat130_desc = "第六人经验值"
+cheat130_handler = "0"
+cheat130_code = "30111BD3#63"
+
+cheat131_desc = "第六人MP"
+cheat131_handler = "0"
+cheat131_code = "80111BD9#6363"
+
+cheat132_desc = "第六人魔法&技能"
+cheat132_handler = "0"
+cheat132_code = "B00B00001#00000000,30111BE8#FF"
+
+cheat133_desc = "第七人经验值"
+cheat133_handler = "0"
+cheat133_code = "30111CB7#63"
+
+cheat134_desc = "第七人MP"
+cheat134_handler = "0"
+cheat134_code = "80111CBD#6363"
+
+cheat135_desc = "第七人魔法&技能"
+cheat135_handler = "0"
+cheat135_code = "B00B00001#00000000,30111CCC#FF"
+
+cheat136_desc = "第八人经验值"
+cheat136_handler = "0"
+cheat136_code = "30111D9B#63"
+
+cheat137_desc = "第八人MP"
+cheat137_handler = "0"
+cheat137_code = "80111DA1#6363"
+
+cheat138_desc = "第八人魔法&技能"
+cheat138_handler = "0"
+cheat138_code = "B00B00001#00000000,30111DB0#FF"
+
+cheats = 139

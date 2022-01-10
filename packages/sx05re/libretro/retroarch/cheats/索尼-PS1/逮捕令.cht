@@ -1,0 +1,9 @@
+cheat0_desc = "选项的时间不变"
+cheat0_handler = "0"
+cheat0_code = "80176174#025A"
+
+cheat1_desc = "打棒球游戏时，按X键可以重来"
+cheat1_handler = "0"
+cheat1_code = "D01A0BF0#FFBF;800B4F68#000C"
+
+cheats = 2

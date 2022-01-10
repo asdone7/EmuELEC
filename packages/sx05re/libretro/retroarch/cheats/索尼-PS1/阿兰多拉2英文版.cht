@@ -1,0 +1,133 @@
+cheat0_desc = "Newt ring"
+cheat0_handler = "0"
+cheat0_code = "80067423#0001"
+
+cheat1_desc = "Pixie Ring"
+cheat1_handler = "0"
+cheat1_code = "80067425#0001"
+
+cheat2_desc = "Infinite Health"
+cheat2_handler = "0"
+cheat2_code = "80067710#03e7;80067712#03e7;80067714#03e7;80067716#03e7"
+
+cheat3_desc = "Gauntlet"
+cheat3_handler = "0"
+cheat3_code = "8006741e#0001"
+
+cheat4_desc = "X10 Bone Darts"
+cheat4_handler = "0"
+cheat4_code = "80067422#0001"
+
+cheat5_desc = "Siren Ring"
+cheat5_handler = "0"
+cheat5_code = "80067424#0001"
+
+cheat6_desc = "Dryad Ring"
+cheat6_handler = "0"
+cheat6_code = "80067426#0001"
+
+cheat7_desc = "Red Statue"
+cheat7_handler = "0"
+cheat7_code = "80067428#0001"
+
+cheat8_desc = "Vanilla Wafer"
+cheat8_handler = "0"
+cheat8_code = "8006742a#0001"
+
+cheat9_desc = "Infinite Gold"
+cheat9_handler = "0"
+cheat9_code = "80067706#0010"
+
+cheat10_desc = "Rising Sword"
+cheat10_handler = "0"
+cheat10_code = "8006746c#0024"
+
+cheat11_desc = "Valar Shield"
+cheat11_handler = "0"
+cheat11_code = "8006746e#002c"
+
+cheat12_desc = "Infinite Keys"
+cheat12_handler = "0"
+cheat12_code = "8006744e#0100"
+
+cheat13_desc = "Star Crystal"
+cheat13_handler = "0"
+cheat13_code = "8006741c#0001"
+
+cheat14_desc = "Herb"
+cheat14_handler = "0"
+cheat14_code = "80067440#0001"
+
+cheat15_desc = "Tonic"
+cheat15_handler = "0"
+cheat15_code = "80067442#0001"
+
+cheat16_desc = "Panacea"
+cheat16_handler = "0"
+cheat16_code = "80067444#0001"
+
+cheat17_desc = "Grapes Of Eru"
+cheat17_handler = "0"
+cheat17_code = "80067446#0001"
+
+cheat18_desc = "Triangle Key"
+cheat18_handler = "0"
+cheat18_code = "80067448#0001"
+
+cheat19_desc = "Bone Dart"
+cheat19_handler = "0"
+cheat19_code = "8006744c#0001"
+
+cheat20_desc = "Puzzle Pieces"
+cheat20_handler = "0"
+cheat20_code = "80067450#0001"
+
+cheat21_desc = "Elf Ring"
+cheat21_handler = "0"
+cheat21_code = "80067452#0001"
+
+cheat22_desc = "Guard Ring"
+cheat22_handler = "0"
+cheat22_code = "80067454#0001"
+
+cheat23_desc = "Amulet"
+cheat23_handler = "0"
+cheat23_code = "80067456#0001"
+
+cheat24_desc = "Elemental Ring"
+cheat24_handler = "0"
+cheat24_code = "80067458#0001"
+
+cheat25_desc = "Crimson Cape"
+cheat25_handler = "0"
+cheat25_code = "8006745a#0001"
+
+cheat26_desc = "Strange Key"
+cheat26_handler = "0"
+cheat26_code = "8006740c#0001"
+
+cheat27_desc = "Elf Steel"
+cheat27_handler = "0"
+cheat27_code = "8006740e#0001"
+
+cheat28_desc = "Vita Stone"
+cheat28_handler = "0"
+cheat28_code = "80067410#0001"
+
+cheat29_desc = "Gold Badge"
+cheat29_handler = "0"
+cheat29_code = "80067412#0001"
+
+cheat30_desc = "Baron's Orders"
+cheat30_handler = "0"
+cheat30_code = "80067416#0001"
+
+cheat31_desc = "Seagull Ruins Key"
+cheat31_handler = "0"
+cheat31_code = "80067418#0001"
+
+cheat32_desc = "Star Prism"
+cheat32_handler = "0"
+cheat32_code = "8006741a#0001"
+
+cheats = 33

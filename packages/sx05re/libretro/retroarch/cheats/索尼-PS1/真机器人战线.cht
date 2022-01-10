@@ -1,0 +1,45 @@
+cheat0_desc = "JOKER"
+cheat0_handler = "0"
+cheat0_code = "D007D008#XXXX"
+
+cheat1_desc = "MONEY"
+cheat1_handler = "0"
+cheat1_code = "8005501C#270F"
+
+cheat2_desc = "FAST LEVEL UP(Press select)"
+cheat2_handler = "0"
+cheat2_code = "D007D008#0100;8006C450#270F"
+
+cheat3_desc = "前五机HP"
+cheat3_handler = "0"
+cheat3_code = "B00500B0#00000000;80061B9A#270F"
+
+cheat4_desc = "or"
+cheat4_handler = "0"
+cheat4_code = "80061B9A#270F;80061C4A#270F;80061CFA#270F;80061DAA#270F;80061E5A#270F"
+
+cheat5_desc = "MAX HP"
+cheat5_handler = "0"
+cheat5_code = "B00500B0#00000000;80061BA2#270F"
+
+cheat6_desc = "or"
+cheat6_handler = "0"
+cheat6_code = "80061BA2#270F;80061C52#270F;80061D02#270F;80061DB2#270F;80061E62#270F"
+
+cheat7_desc = "MAX POWER"
+cheat7_handler = "0"
+cheat7_code = "B00500B0#00000000;30061BCA#00FF"
+
+cheat8_desc = "or"
+cheat8_handler = "0"
+cheat8_code = "30061BCA#00FF;30061C7A#00FF;30061D2A#00FF;30061DDA#00FF;30061E8A#00FF"
+
+cheat9_desc = "MAX SP"
+cheat9_handler = "0"
+cheat9_code = "B00500B0#00000000;30061BBC#00FF"
+
+cheat10_desc = "or"
+cheat10_handler = "0"
+cheat10_code = "30061BBC#00FF;30061C6C#00FF;30061D1C#00FF;30061DCC#00FF;30061E7C#00FF"
+
+cheats = 11

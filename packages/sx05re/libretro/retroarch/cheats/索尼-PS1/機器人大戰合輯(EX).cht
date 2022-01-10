@@ -1,0 +1,45 @@
+cheat0_desc = "快速升級"
+cheat0_handler = "0"
+cheat0_code = "D007731E#0086;8007731E#0000;D0076BF0#0001;90076BF0#24020063"
+
+cheat1_desc = "武器改造段數10段"
+cheat1_handler = "0"
+cheat1_code = "3013A440#000A;3013B1D8#000A;301330E#000A"
+
+cheat2_desc = "武器改造段數15段"
+cheat2_handler = "0"
+cheat2_code = "3013A440#000F;3013B1D8#000F;301330E8#000F"
+
+cheat3_desc = "可選白河愁路線"
+cheat3_handler = "0"
+cheat3_code = "D0099BBE#0040;80099BBE#0060"
+
+cheat4_desc = "$$9999999"
+cheat4_handler = "0"
+cheat4_code = "9019B9D6#98967F"
+
+cheat5_desc = "全強化零件"
+cheat5_handler = "0"
+cheat5_code = "B0160001#000000000,3019BAA0#0009"
+
+cheat6_desc = "全員氣力150"
+cheat6_handler = "0"
+cheat6_code = "B073000C#00000000,3019A6C1#0096"
+
+cheat7_desc = "全机体裝配所有哈囉"
+cheat7_handler = "0"
+cheat7_code = "B073001E#00000000,8019AC3A#0E0E;B073001E#00000000,8019AC3C#0E0E"
+
+cheat8_desc = "SP不減"
+cheat8_handler = "0"
+cheat8_code = "D007AEC2#3084;8007AEC0#0000"
+
+cheat9_desc = "EN不減"
+cheat9_handler = "0"
+cheat9_code = "D007348E#0044;8007348E#0040;D008BD62#0044;8008BD62#0040;D008EEB6#0043;8008EEB6#0040;D008EEF6#0044;8008EEF6#0040"
+
+cheat10_desc = "彈數不減"
+cheat10_handler = "0"
+cheat10_code = "D007344E#2442;8007344C#0000"
+
+cheats = 11

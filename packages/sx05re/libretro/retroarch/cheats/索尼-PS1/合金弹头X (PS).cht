@@ -1,0 +1,89 @@
+cheat0_desc = "時間無限"
+cheat0_handler = "0"
+cheat0_code = "800C9B88#7000"
+
+cheat1_desc = "1P無敵"
+cheat1_handler = "0"
+cheat1_code = "800C9E74#00FF"
+
+cheat2_desc = "1P隻數不減"
+cheat2_handler = "0"
+cheat2_code = "300C98FB#0063"
+
+cheat3_desc = "1P BOMB(手榴彈)不減"
+cheat3_handler = "0"
+cheat3_code = "300ED7D4#0063"
+
+cheat4_desc = "1P ARM子彈不減"
+cheat4_handler = "0"
+cheat4_code = "800ED7D6#FFFF"
+
+cheat5_desc = "2P無敵"
+cheat5_handler = "0"
+cheat5_code = "800C9FC0#00FF"
+
+cheat6_desc = "2P隻數不減"
+cheat6_handler = "0"
+cheat6_code = "300C9A47#0063"
+
+cheat7_desc = "2P BOMB(手榴彈)不減"
+cheat7_handler = "0"
+cheat7_code = "300ED7DE#0063"
+
+cheat8_desc = "2P ARM子彈不減"
+cheat8_handler = "0"
+cheat8_code = "800ED7E0#FFFF"
+
+cheat9_desc = "時間無限"
+cheat9_handler = "0"
+cheat9_code = "800C9B88#7000"
+
+cheat10_desc = "1P無敵"
+cheat10_handler = "0"
+cheat10_code = "800C9E74#00FF"
+
+cheat11_desc = "無敵"
+cheat11_handler = "0"
+cheat11_code = "D003274C#FFFF,8003274C#0000"
+
+cheat12_desc = "隻數不減"
+cheat12_handler = "0"
+cheat12_code = "D00474FC#FFFF,800474FC#0000"
+
+cheat13_desc = "BOMB不減"
+cheat13_handler = "0"
+cheat13_code = "D003989C#FFFF,8003989C#0000"
+
+cheat14_desc = "CANNON不減"
+cheat14_handler = "0"
+cheat14_code = "D0053DD8#FFFF,80053DD8#0000"
+
+cheat15_desc = "子彈不減"
+cheat15_handler = "0"
+cheat15_code = "D002DCCA#0062,8002DCCA#0060"
+
+cheat16_desc = "時間不減"
+cheat16_handler = "0"
+cheat16_code = "D00295E0#FFFE,800295E0#0000"
+
+cheat17_desc = "此區密碼只限適用於「沒有開機螢幕選擇畫面」的版本-----------------------"
+cheat17_handler = "0"
+cheat17_code = ""
+
+cheat18_desc = "1P無敵"
+cheat18_handler = "0"
+cheat18_code = "800C9E74#00FF"
+
+cheat19_desc = "1P隻數不減"
+cheat19_handler = "0"
+cheat19_code = "300C98FB#0063"
+
+cheat20_desc = "此區密碼為「有無開機螢幕選擇畫面皆通用」的版本-----------------------"
+cheat20_handler = "0"
+cheat20_code = ""
+
+cheat21_desc = "隻數不減"
+cheat21_handler = "0"
+cheat21_code = "D00474FC#FFFF,800474FC#0000"
+
+cheats = 22

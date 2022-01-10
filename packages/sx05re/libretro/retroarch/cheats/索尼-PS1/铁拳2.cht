@@ -1,0 +1,21 @@
+cheat0_desc = "1P无敌"
+cheat0_handler = "0"
+cheat0_code = "800CF6B6#008C"
+
+cheat1_desc = "1P回合开始就倒下"
+cheat1_handler = "0"
+cheat1_code = "800CF6B6#0000"
+
+cheat2_desc = "2P无敌"
+cheat2_handler = "0"
+cheat2_code = "800D08BE#008C"
+
+cheat3_desc = "2P回合开始就倒下"
+cheat3_handler = "0"
+cheat3_code = "800D08BE#0000"
+
+cheat4_desc = "可使用隐藏角色"
+cheat4_handler = "0"
+cheat4_code = "800A2A18#FFFF;800A2A1A#00FF"
+
+cheats = 5

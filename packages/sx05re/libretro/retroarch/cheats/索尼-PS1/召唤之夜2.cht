@@ -1,0 +1,17 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "800784DC#967F;800784DE#0098"
+
+cheat1_desc = "MP不减"
+cheat1_handler = "0"
+cheat1_code = "D00BAC6A#0043;800BAC6A#0040;D00C0C9E#0062;800C0C9E#0060"
+
+cheat2_desc = "EXP无限"
+cheat2_handler = "0"
+cheat2_code = "800784CC#967F;800784CE#0098"
+
+cheat3_desc = "全召唤兽"
+cheat3_handler = "0"
+cheat3_code = "B0540002#00000000;80079C8A#6363"
+
+cheats = 4

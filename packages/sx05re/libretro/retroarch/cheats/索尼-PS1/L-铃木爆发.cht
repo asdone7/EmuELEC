@@ -1,0 +1,9 @@
+cheat0_desc = "主爆发时间不减"
+cheat0_handler = "0"
+cheat0_code = "D001B8D1#2442;8001B8DC#0000"
+
+cheat1_desc = "次爆发时间不减"
+cheat1_handler = "0"
+cheat1_code = "D001B901#2442;8001B90C#0000"
+
+cheats = 2

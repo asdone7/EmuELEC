@@ -1,0 +1,9 @@
+cheat0_desc = "INFINTE BOMBER ON PICK UP"
+cheat0_handler = "0"
+cheat0_code = "800E9362#0009;800E9364#0009"
+
+cheat1_desc = "CAN'T BE HIT (NOTE)"
+cheat1_handler = "0"
+cheat1_code = "800E8934#0000"
+
+cheats = 2

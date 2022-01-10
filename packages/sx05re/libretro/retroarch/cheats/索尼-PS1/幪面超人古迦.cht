@@ -1,0 +1,13 @@
+cheat0_desc = "可使用全部角色on"
+cheat0_handler = "0"
+cheat0_code = "800A8548#FFFF"
+
+cheat1_desc = "1P血不減on"
+cheat1_handler = "0"
+cheat1_code = "8009A23E#00C8"
+
+cheat2_desc = "擁有全部卡片ob"
+cheat2_handler = "0"
+cheat2_code = "B02D0002#00000000;800A854E#0101"
+
+cheats = 3

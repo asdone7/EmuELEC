@@ -1,0 +1,29 @@
+cheat0_desc = "不死"
+cheat0_handler = "0"
+cheat0_code = "8005518A#2400"
+
+cheat1_desc = "无限子弹"
+cheat1_handler = "0"
+cheat1_code = "80052BAE#2400;800AE5B6#0063;800AE8EA#0063;800AEC1E#0063"
+
+cheat2_desc = "开启所有Levels"
+cheat2_handler = "0"
+cheat2_code = "8007E7E0#0001;80080B68#000D"
+
+cheat3_desc = "无限时间"
+cheat3_handler = "0"
+cheat3_code = "800CBAF2#2400"
+
+cheat4_desc = "时间不减"
+cheat4_handler = "0"
+cheat4_code = "800D3C66#04AF;801C4AB6#04AF"
+
+cheat5_desc = "HP不减(按SELECT)"
+cheat5_handler = "0"
+cheat5_code = "D00808EA#FFFE;30055146#0003"
+
+cheat6_desc = "弹数不减"
+cheat6_handler = "0"
+cheat6_code = "300529C8#0001;30052B5E#0040"
+
+cheats = 7

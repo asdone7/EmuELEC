@@ -1,0 +1,13 @@
+cheat0_desc = "变身力,召唤力,血流量,吸血力,攻击力"
+cheat0_handler = "0"
+cheat0_code = "B0080002#00000000,80096868#0063"
+
+cheat1_desc = "通常体力"
+cheat1_handler = "0"
+cheat1_code = "80096860#03E7;80096862#03E7"
+
+cheat2_desc = "主角的临界体力(改了就会.....)"
+cheat2_handler = "0"
+cheat2_code = "80086864#0063"
+
+cheats = 3

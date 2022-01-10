@@ -1,0 +1,9 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "800EE8E4#C9FF;800EE8E6#3B9A"
+
+cheat1_desc = "马的能力最大"
+cheat1_handler = "0"
+cheat1_code = "D0037F9C#0001;80037F9C#0010;D0037FBC#0001;80037FBC#0010;D0037FE8#0001;80037FE8#0010;D0037010#0001;80037010#0010"
+
+cheats = 2

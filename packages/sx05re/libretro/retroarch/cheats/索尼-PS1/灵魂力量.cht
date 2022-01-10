@@ -1,0 +1,25 @@
+cheat0_desc = "Infinite money"
+cheat0_handler = "0"
+cheat0_code = "801E1DC6#270F"
+
+cheat1_desc = "Always high morale (in battle)"
+cheat1_handler = "0"
+cheat1_code = "B0050058#00000000,801CAADA#8C00"
+
+cheat2_desc = "Infinite soldier for hire"
+cheat2_handler = "0"
+cheat2_code = "801C7A04#270F"
+
+cheat3_desc = "Infinite sp (in battle)"
+cheat3_handler = "0"
+cheat3_code = "801CAAE0#705A"
+
+cheat4_desc = "Morale always high (in battle)"
+cheat4_handler = "0"
+cheat4_code = "801CAADA#8C0E"
+
+cheat5_desc = "Infinite sp bar (in battle)"
+cheat5_handler = "0"
+cheat5_code = "B0050058#00000000,801CAAE0#005A"
+
+cheats = 6

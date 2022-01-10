@@ -1,0 +1,9 @@
+cheat0_desc = "按下Select钱包满满~ "
+cheat0_handler = "0"
+cheat0_code = "D00F4C06#0100;80130FF6#0050"
+
+cheat1_desc = "打魔王时."丁小雨"快没能源A 按下L2马上恢复~ "
+cheat1_handler = "0"
+cheat1_code = "D00F4C06#0001;801E95EE#1000"
+
+cheats = 2

@@ -1,0 +1,85 @@
+cheat0_desc = "金钱"
+cheat0_handler = "0"
+cheat0_code = "80072818#9676;8007281A#0098"
+
+cheat1_desc = "现在体力"
+cheat1_handler = "0"
+cheat1_code = "800727CE#03E7"
+
+cheat2_desc = "最大体力"
+cheat2_handler = "0"
+cheat2_code = "800727D0#03E7"
+
+cheat3_desc = "收入为65535"
+cheat3_handler = "0"
+cheat3_code = "80071FAC#FFFF"
+
+cheat4_desc = "支出为零"
+cheat4_handler = "0"
+cheat4_code = "80071FB0#0000"
+
+cheat5_desc = "不会疲劳"
+cheat5_handler = "0"
+cheat5_code = "D00D7E8A#0082;800D7E8A#0002"
+
+cheat6_desc = "开始持物和裝备就有八格"
+cheat6_handler = "0"
+cheat6_code = "300727DA#0002"
+
+cheat7_desc = "按下选择钮后时间不增"
+cheat7_handler = "0"
+cheat7_code = "D005F96A#FFFE;800C1BB0#0000"
+
+cheat8_desc = "按下开始钮后时间恢复"
+cheat8_handler = "0"
+cheat8_code = "D005F96A#FFF7;800C1BB0#0001"
+
+cheat9_desc = "???好感度最大"
+cheat9_handler = "0"
+cheat9_code = "80079214#FFFF"
+
+cheat10_desc = "资材999"
+cheat10_handler = "0"
+cheat10_code = "80071A7C#03E7"
+
+cheat11_desc = "牛马用饲料999"
+cheat11_handler = "0"
+cheat11_code = "80071A7E#03E7"
+
+cheat12_desc = "鱼饲料999"
+cheat12_handler = "0"
+cheat12_code = "80071A82#03E7"
+
+cheat13_desc = "鸡饲料999"
+cheat13_handler = "0"
+cheat13_code = "80071A84#03E7"
+
+cheat14_desc = "鎌经验值"
+cheat14_handler = "0"
+cheat14_code = "800727FE#FFFF"
+
+cheat15_desc = "鍬经验值"
+cheat15_handler = "0"
+cheat15_code = "80072800#FFFF"
+
+cheat16_desc = "斧经验值"
+cheat16_handler = "0"
+cheat16_code = "80072802#FFFF"
+
+cheat17_desc = "錘经验值"
+cheat17_handler = "0"
+cheat17_code = "80072804#FFFF"
+
+cheat18_desc = "????经验值"
+cheat18_handler = "0"
+cheat18_code = "80072806#FFFF"
+
+cheat19_desc = "狗儿的好感度"
+cheat19_handler = "0"
+cheat19_code = "30076756#00FF"
+
+cheat20_desc = "小马好感度"
+cheat20_handler = "0"
+cheat20_code = "30076842#00FF"
+
+cheats = 21

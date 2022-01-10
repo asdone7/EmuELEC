@@ -1,0 +1,45 @@
+cheat0_desc = "球速"
+cheat0_handler = "0"
+cheat0_code = "8019D248#00CF"
+
+cheat1_desc = "特殊投球方式"
+cheat1_handler = "0"
+cheat1_code = "3019D248B#00XX"
+
+cheat2_desc = "制球率"
+cheat2_handler = "0"
+cheat2_code = "3019D24C#00FF"
+
+cheat3_desc = "体力"
+cheat3_handler = "0"
+cheat3_code = "3019D24D#00FF"
+
+cheat4_desc = "变化球最高x=0-7"
+cheat4_handler = "0"
+cheat4_code = "3019D24E#000X;3019D24F#000X;3019D250#000X;3019D251#000X;3019D252#000X"
+
+cheat5_desc = "高速滑球"
+cheat5_handler = "0"
+cheat5_code = "3019D253#0040"
+
+cheat6_desc = "S滑球"
+cheat6_handler = "0"
+cheat6_code = "3019D253#0020"
+
+cheat7_desc = "SFF"
+cheat7_handler = "0"
+cheat7_code = "3019D253#0004"
+
+cheat8_desc = "V滑球"
+cheat8_handler = "0"
+cheat8_code = "3019D253#0003"
+
+cheat9_desc = "资金MAX"
+cheat9_handler = "0"
+cheat9_code = "94B8CAB4#05F5E09C"
+
+cheat10_desc = "(HDR-0092-0514B)"
+cheat10_handler = "0"
+cheat10_code = "F88956C5#05F5E09C"
+
+cheats = 11

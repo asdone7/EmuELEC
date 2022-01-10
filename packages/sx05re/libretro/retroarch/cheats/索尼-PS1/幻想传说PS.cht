@@ -1,0 +1,549 @@
+cheat0_desc = "金钱"
+cheat0_handler = "0"
+cheat0_code = "9008740C#0098967F"
+
+cheat1_desc = "怪物图鉴全开"
+cheat1_handler = "0"
+cheat1_code = "B0EE0001#00000000,30087B01#00FF"
+
+cheat2_desc = "道具图鉴全开"
+cheat2_handler = "0"
+cheat2_code = "B0320001#00000000,30087A24#00FF"
+
+cheat3_desc = "遇敌率 0"
+cheat3_handler = "0"
+cheat3_code = "30088438#0000"
+
+cheat4_desc = "战斗中(L2+R2)立即逃出BOSS战亦可逃出！"
+cheat4_handler = "0"
+cheat4_code = "D007F378#0003,30145A27#0080"
+
+cheat5_desc = "随时存档"
+cheat5_handler = "0"
+cheat5_code = "D00DCC8D#0002;300DCC8D#0000"
+
+cheat6_desc = "クしス全部技能魔神剑"
+cheat6_handler = "0"
+cheat6_code = "30086F48#0001"
+
+cheat7_desc = "クしス全部技能飞燕连脚"
+cheat7_handler = "0"
+cheat7_code = "30086F49#0002"
+
+cheat8_desc = "クしス全部技能袭爪雷斩"
+cheat8_handler = "0"
+cheat8_code = "30086F4A#0003"
+
+cheat9_desc = "クしス全部技能秋沙雨"
+cheat9_handler = "0"
+cheat9_code = "30086F4B#0004"
+
+cheat10_desc = "クしス全部技能虎牙破斩"
+cheat10_handler = "0"
+cheat10_code = "30086F4C#0005"
+
+cheat11_desc = "クしス全部技能凤凰天驱"
+cheat11_handler = "0"
+cheat11_code = "30086F4D#0006"
+
+cheat12_desc = "クしス全部技能狮子战吼"
+cheat12_handler = "0"
+cheat12_code = "30086F4E#0007"
+
+cheat13_desc = "クしス全部技能闪空裂破"
+cheat13_handler = "0"
+cheat13_code = "30086F4F#0008"
+
+cheat14_desc = "クしス全部技能虚空苍破斩"
+cheat14_handler = "0"
+cheat14_code = "30086F50#0009"
+
+cheat15_desc = "クしス全部技能空间翔转移"
+cheat15_handler = "0"
+cheat15_code = "30086F51#000A"
+
+cheat16_desc = "クしス全部技能次元斩"
+cheat16_handler = "0"
+cheat16_code = "30086F52#000B"
+
+cheat17_desc = "クしス全部技能真空破斩"
+cheat17_handler = "0"
+cheat17_code = "30086F53#000C"
+
+cheat18_desc = "クしス全部技能红莲剑"
+cheat18_handler = "0"
+cheat18_code = "30086F54#000D"
+
+cheat19_desc = "クしス全部技能守护方阵"
+cheat19_handler = "0"
+cheat19_code = "30086F55#000E"
+
+cheat20_desc = "クしス全部技能刚招来"
+cheat20_handler = "0"
+cheat20_code = "30086F56#000F"
+
+cheat21_desc = "クしス全部技能柔招来"
+cheat21_handler = "0"
+cheat21_code = "30086F57#0010"
+
+cheat22_desc = "クしス全部技能集气法"
+cheat22_handler = "0"
+cheat22_code = "30086F58#0011"
+
+cheat23_desc = "クしス全部技能杀剧舞荒剑"
+cheat23_handler = "0"
+cheat23_code = "30086F59#0012"
+
+cheat24_desc = "クしス全部技能魔神飞燕脚"
+cheat24_handler = "0"
+cheat24_code = "30086F5A#0013"
+
+cheat25_desc = "クしス全部技能魔神双破斩"
+cheat25_handler = "0"
+cheat25_code = "30086F5B#0014"
+
+cheat26_desc = "クしス全部技能魔神千裂破"
+cheat26_handler = "0"
+cheat26_code = "30086F5C#0015"
+
+cheat27_desc = "クしス全部技能魔神闪空破"
+cheat27_handler = "0"
+cheat27_code = "30086F5D#0016"
+
+cheat28_desc = "クしス全部技能狮子飞燕脚"
+cheat28_handler = "0"
+cheat28_code = "30086F5E#0017"
+
+cheat29_desc = "クしス全部技能狮子吼破斩"
+cheat29_handler = "0"
+cheat29_code = "30086F5F#0018"
+
+cheat30_desc = "クしス全部技能狮子千裂破"
+cheat30_handler = "0"
+cheat30_code = "30086F60#0019"
+
+cheat31_desc = "クしス全部技能狮子闪空破"
+cheat31_handler = "0"
+cheat31_code = "30086F61#001A"
+
+cheat32_desc = "クしス全部技能袭爪飞燕脚"
+cheat32_handler = "0"
+cheat32_code = "30086F62#001B"
+
+cheat33_desc = "クしス全部技能袭爪雷斩破"
+cheat33_handler = "0"
+cheat33_code = "30086F63#001C"
+
+cheat34_desc = "クしス全部技能袭爪千裂破"
+cheat34_handler = "0"
+cheat34_code = "30086F64#001D"
+
+cheat35_desc = "クしス全部技能袭爪闪空破"
+cheat35_handler = "0"
+cheat35_code = "30086F65#001E"
+
+cheat36_desc = "クしス全部技能凤凰天翔脚"
+cheat36_handler = "0"
+cheat36_code = "30086F66#001F"
+
+cheat37_desc = "クしス全部技能凤凰翔破斩"
+cheat37_handler = "0"
+cheat37_code = "30086F67#0020"
+
+cheat38_desc = "クしス全部技能凤凰千裂破"
+cheat38_handler = "0"
+cheat38_code = "30086F68#0021"
+
+cheat39_desc = "クしス全部技能凤凰天空破"
+cheat39_handler = "0"
+cheat39_code = "30086F69#0022"
+
+cheat40_desc = "クしス全部技能时空苍破斩"
+cheat40_handler = "0"
+cheat40_code = "30086F6A#0023"
+
+cheat41_desc = "クしス全部技能转移苍破斩"
+cheat41_handler = "0"
+cheat41_code = "30086F6B#0024"
+
+cheat42_desc = "クしス全部技能全部技能"
+cheat42_handler = "0"
+cheat42_code = "B0240001#00000001,30086F48#0001"
+
+cheat43_desc = "クしス技能使用次数魔神剑"
+cheat43_handler = "0"
+cheat43_code = "30087A64#00FF"
+
+cheat44_desc = "クしス技能使用次数飞燕连脚"
+cheat44_handler = "0"
+cheat44_code = "30087A65#00FF"
+
+cheat45_desc = "クしス技能使用次数袭爪雷斩"
+cheat45_handler = "0"
+cheat45_code = "30087A66#00FF"
+
+cheat46_desc = "クしス技能使用次数秋沙雨"
+cheat46_handler = "0"
+cheat46_code = "30087A67#00FF"
+
+cheat47_desc = "クしス技能使用次数虎牙破斩"
+cheat47_handler = "0"
+cheat47_code = "30087A68#00FF"
+
+cheat48_desc = "クしス技能使用次数凤凰天驱"
+cheat48_handler = "0"
+cheat48_code = "30087A69#00FF"
+
+cheat49_desc = "クしス技能使用次数狮子战吼"
+cheat49_handler = "0"
+cheat49_code = "30087A6A#00FF"
+
+cheat50_desc = "クしス技能使用次数闪空裂破"
+cheat50_handler = "0"
+cheat50_code = "30087A6B#00FF"
+
+cheat51_desc = "クしス技能使用次数虚空苍破斩"
+cheat51_handler = "0"
+cheat51_code = "30087A6C#00FF"
+
+cheat52_desc = "クしス技能使用次数空间翔转移"
+cheat52_handler = "0"
+cheat52_code = "30087A6D#00FF"
+
+cheat53_desc = "クしス技能使用次数次元斩"
+cheat53_handler = "0"
+cheat53_code = "30087A6E#FF"
+
+cheat54_desc = "クしス技能使用次数全部技能"
+cheat54_handler = "0"
+cheat54_code = "B00B0001#00000000,30087A64#00FF"
+
+cheat55_desc = "ミソト全部魔法HP小回复"
+cheat55_handler = "0"
+cheat55_code = "30086FE8#005B"
+
+cheat56_desc = "ミソト全部魔法气绝小锤"
+cheat56_handler = "0"
+cheat56_code = "30086FE9#0063"
+
+cheat57_desc = "ミソト全部魔法分TP给队友"
+cheat57_handler = "0"
+cheat57_code = "30086FEA#0069"
+
+cheat58_desc = "ミソト全部魔法雾(敌命中率下降)"
+cheat58_handler = "0"
+cheat58_code = "30086FEB#0066"
+
+cheat59_desc = "ミソト全部魔法HP中回复"
+cheat59_handler = "0"
+cheat59_code = "30086FEC#005C"
+
+cheat60_desc = "ミソト全部魔法酸雨(敌防御力下降)"
+cheat60_handler = "0"
+cheat60_code = "30086FED#0065"
+
+cheat61_desc = "ミソト全部魔法解毒"
+cheat61_handler = "0"
+cheat61_code = "30086FEE#0060"
+
+cheat62_desc = "ミソト全部魔法敌咒文封印"
+cheat62_handler = "0"
+cheat62_code = "30086FEF#0067"
+
+cheat63_desc = "ミソト全部魔法全员HP回复"
+cheat63_handler = "0"
+cheat63_code = "30086FF0#005E"
+
+cheat64_desc = "ミソト全部魔法攻击力上升"
+cheat64_handler = "0"
+cheat64_code = "30086FF1#006B"
+
+cheat65_desc = "ミソト全部魔法毒、麻痹、石化回复"
+cheat65_handler = "0"
+cheat65_code = "30086FF2#0061"
+
+cheat66_desc = "ミソト全部魔法解除所有异常状态"
+cheat66_handler = "0"
+cheat66_code = "30086FF3#006C"
+
+cheat67_desc = "ミソト全部魔法HP大回复"
+cheat67_handler = "0"
+cheat67_code = "30086FF4#005D"
+
+cheat68_desc = "ミソト全部魔法气绝大锤"
+cheat68_handler = "0"
+cheat68_code = "30086FF5#0064"
+
+cheat69_desc = "ミソト全部魔法防御力上升"
+cheat69_handler = "0"
+cheat69_code = "30086FF6#006A"
+
+cheat70_desc = "ミソト全部魔法战斗不能回复"
+cheat70_handler = "0"
+cheat70_code = "30086FF7#0062"
+
+cheat71_desc = "ミソト全部魔法全员HP大回复"
+cheat71_handler = "0"
+cheat71_code = "30086FF8#005F"
+
+cheat72_desc = "ミソト全部魔法敌行动一定时间停止"
+cheat72_handler = "0"
+cheat72_code = "30086FF9#0068"
+
+cheat73_desc = "ミソト全部魔法全部魔法"
+cheat73_handler = "0"
+cheat73_code = "B0120001#00000001,30086FE8#005B"
+
+cheat74_desc = "アーチェ全部魔法火炎弹"
+cheat74_handler = "0"
+cheat74_code = "30087088#0037"
+
+cheat75_desc = "アーチェ全部魔法冰刃"
+cheat75_handler = "0"
+cheat75_code = "30087089#003E"
+
+cheat76_desc = "アーチェ全部魔法落石"
+cheat76_handler = "0"
+cheat76_code = "3008708A#0042"
+
+cheat77_desc = "アーチェ全部魔法落雷"
+cheat77_handler = "0"
+cheat77_code = "3008708B#003B"
+
+cheat78_desc = "アーチェ全部魔法突风"
+cheat78_handler = "0"
+cheat78_code = "3008708C#0046"
+
+cheat79_desc = "アーチェ全部魔法岩枪"
+cheat79_handler = "0"
+cheat79_code = "3008708D#0043"
+
+cheat80_desc = "アーチェ全部魔法冰岚"
+cheat80_handler = "0"
+cheat80_code = "3008708E#003F"
+
+cheat81_desc = "アーチェ全部魔法溶岩流"
+cheat81_handler = "0"
+cheat81_code = "3008708F#0038"
+
+cheat82_desc = "アーチェ全部魔法无属性"
+cheat82_handler = "0"
+cheat82_code = "30087090#004C"
+
+cheat83_desc = "アーチェ全部魔法落大雷"
+cheat83_handler = "0"
+cheat83_code = "30087091#003C"
+
+cheat84_desc = "アーチェ全部魔法龙卷风"
+cheat84_handler = "0"
+cheat84_code = "30087092#0047"
+
+cheat85_desc = "アーチェ全部魔法光"
+cheat85_handler = "0"
+cheat85_code = "30087093#004A"
+
+cheat86_desc = "アーチェ全部魔法炎岚"
+cheat86_handler = "0"
+cheat86_code = "30087094#0039"
+
+cheat87_desc = "アーチェ全部魔法落巨石"
+cheat87_handler = "0"
+cheat87_code = "30087095#0044"
+
+cheat88_desc = "アーチェ全部魔法大龙卷风"
+cheat88_handler = "0"
+cheat88_code = "30087096#0048"
+
+cheat89_desc = "アーチェ全部魔法大旋涡"
+cheat89_handler = "0"
+cheat89_code = "30087097#0040"
+
+cheat90_desc = "アーチェ全部魔法大地震"
+cheat90_handler = "0"
+cheat90_code = "30087098#0045"
+
+cheat91_desc = "アーチェ全部魔法风压押"
+cheat91_handler = "0"
+cheat91_code = "30087099#0049"
+
+cheat92_desc = "アーチェ全部魔法大爆炸"
+cheat92_handler = "0"
+cheat92_code = "3008709A#003A"
+
+cheat93_desc = "アーチェ全部魔法神雷"
+cheat93_handler = "0"
+cheat93_code = "3008709B#003D"
+
+cheat94_desc = "アーチェ全部魔法洪水"
+cheat94_handler = "0"
+cheat94_code = "3008709C#0041"
+
+cheat95_desc = "アーチェ全部魔法暗黑之穴"
+cheat95_handler = "0"
+cheat95_code = "3008709D#004E"
+
+cheat96_desc = "アーチェ全部魔法陨石"
+cheat96_handler = "0"
+cheat96_code = "3008709E#004D"
+
+cheat97_desc = "アーチェ全部魔法超爆炸"
+cheat97_handler = "0"
+cheat97_code = "3008709F#004B"
+
+cheat98_desc = "アーチェ全部魔法全部魔法"
+cheat98_handler = "0"
+cheat98_code = "B0180001#00000001,30087088#0037"
+
+cheat99_desc = "クラース全部精灵风の精灵"
+cheat99_handler = "0"
+cheat99_code = "30087128#004F"
+
+cheat100_desc = "クラース全部精灵水の精灵"
+cheat100_handler = "0"
+cheat100_code = "30087129#0050"
+
+cheat101_desc = "クラース全部精灵地の精灵"
+cheat101_handler = "0"
+cheat101_code = "3008712A#0051"
+
+cheat102_desc = "クラース全部精灵炎の精灵"
+cheat102_handler = "0"
+cheat102_code = "3008712B#0052"
+
+cheat103_desc = "クラース全部精灵元素精灵"
+cheat103_handler = "0"
+cheat103_code = "3008712C#0053"
+
+cheat104_desc = "クラース全部精灵月の精灵"
+cheat104_handler = "0"
+cheat104_code = "3008712D#0054"
+
+cheat105_desc = "クラース全部精灵暗の精灵"
+cheat105_handler = "0"
+cheat105_code = "3008712E#0055"
+
+cheat106_desc = "クラース全部精灵光の精灵"
+cheat106_handler = "0"
+cheat106_code = "3008712F#0056"
+
+cheat107_desc = "クラース全部精灵雷の精灵"
+cheat107_handler = "0"
+cheat107_code = "30087130#0057"
+
+cheat108_desc = "クラース全部精灵根源精灵"
+cheat108_handler = "0"
+cheat108_code = "30087131#0058"
+
+cheat109_desc = "クラース全部精灵魔界小恶魔"
+cheat109_handler = "0"
+cheat109_code = "30087132#0059"
+
+cheat110_desc = "クラース全部精灵魔界の魔王"
+cheat110_handler = "0"
+cheat110_code = "30087133#005A"
+
+cheat111_desc = "クラース全部精灵全部精灵"
+cheat111_handler = "0"
+cheat111_code = "B00C0001#00000001,30087128#004F"
+
+cheat112_desc = "チェスター全部箭术红莲"
+cheat112_handler = "0"
+cheat112_code = "300871C8#0025"
+
+cheat113_desc = "チェスター全部箭术冻牙"
+cheat113_handler = "0"
+cheat113_code = "300871C9#0026"
+
+cheat114_desc = "チェスター全部箭术轰天"
+cheat114_handler = "0"
+cheat114_code = "300871CA#0027"
+
+cheat115_desc = "チェスター全部箭术鹫羽"
+cheat115_handler = "0"
+cheat115_code = "300871CB#0028"
+
+cheat116_desc = "チェスター全部箭术疾风"
+cheat116_handler = "0"
+cheat116_code = "300871CC#0029"
+
+cheat117_desc = "チェスター全部箭术冲破"
+cheat117_handler = "0"
+cheat117_code = "300871CD#002A"
+
+cheat118_desc = "チェスター全部箭术震天"
+cheat118_handler = "0"
+cheat118_code = "300871CE#002B"
+
+cheat119_desc = "チェスター全部箭术大牙"
+cheat119_handler = "0"
+cheat119_code = "300871CF#002C"
+
+cheat120_desc = "チェスター全部箭术屠龙"
+cheat120_handler = "0"
+cheat120_code = "300871D0#002D"
+
+cheat121_desc = "チェスター全部箭术全部箭术"
+cheat121_handler = "0"
+cheat121_code = "B0090001#00000001,300871C8#0025"
+
+cheat122_desc = "すず全部忍术写身"
+cheat122_handler = "0"
+cheat122_code = "30087268#002E"
+
+cheat123_desc = "すず全部忍术不知火"
+cheat123_handler = "0"
+cheat123_code = "30087269#0032"
+
+cheat124_desc = "すず全部忍术饭纲落とし"
+cheat124_handler = "0"
+cheat124_code = "3008726A#0030"
+
+cheat125_desc = "すず全部忍术叶隐"
+cheat125_handler = "0"
+cheat125_code = "3008726B#0031"
+
+cheat126_desc = "すず全部忍术曼珠沙华"
+cheat126_handler = "0"
+cheat126_code = "3008726C#0033"
+
+cheat127_desc = "すず全部忍术雷电"
+cheat127_handler = "0"
+cheat127_code = "3008726D#0034"
+
+cheat128_desc = "すず全部忍术镰鼬"
+cheat128_handler = "0"
+cheat128_code = "3008726E#0035"
+
+cheat129_desc = "すず全部忍术五月雨"
+cheat129_handler = "0"
+cheat129_code = "3008726F#002F"
+
+cheat130_desc = "すず全部忍术儿雷也"
+cheat130_handler = "0"
+cheat130_code = "30087270#0036"
+
+cheat131_desc = "すず全部忍术全部忍术"
+cheat131_handler = "0"
+cheat131_code = "B0090001#00000001,30087268#002E"
+
+cheat132_desc = "全部道具有(?)类"
+cheat132_handler = "0"
+cheat132_code = "B14B0002#00000001,80087614#0045;B14B0001#00000000,30087459#000C;B02F0002#00000001,800878AA#0001;B02F0001#00000000,30087415#000C"
+
+cheat133_desc = "全部道具无(?)类"
+cheat133_handler = "0"
+cheat133_code = "B14B0002#00000001,80087614#0045;B14B0001#00000000,30087459#000C"
+
+cheat134_desc = "贵重品"
+cheat134_handler = "0"
+cheat134_code = "B0150001#00000000,30087444#0001"
+
+cheat135_desc = "经验值LV 999"
+cheat135_handler = "0"
+cheat135_code = "901459EC#05F5E0FF"
+
+cheat136_desc = "经验值LV 100"
+cheat136_handler = "0"
+cheat136_code = "901459EC#003B2D3B"
+
+cheats = 137

@@ -1,0 +1,9 @@
+cheat0_desc = "1P生命力不减"
+cheat0_handler = "0"
+cheat0_code = "80059B50#1A0A"
+
+cheat1_desc = "2P生命力不减"
+cheat1_handler = "0"
+cheat1_code = "80059B54#1A0A"
+
+cheats = 2

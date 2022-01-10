@@ -1,0 +1,45 @@
+cheat0_desc = "1P血不减"
+cheat0_handler = "0"
+cheat0_code = "800DE8A0#0100"
+
+cheat1_desc = "1P怒全满"
+cheat1_handler = "0"
+cheat1_code = "800DE8AC#0080"
+
+cheat2_desc = "Low health player 1:"
+cheat2_handler = "0"
+cheat2_code = "800DE8A0#0001"
+
+cheat3_desc = "Low health player 2:"
+cheat3_handler = "0"
+cheat3_code = "800DE8D8#0001"
+
+cheat4_desc = "所有隐藏人物"
+cheat4_handler = "0"
+cheat4_code = "B0070002#00000000;80080034#0101;30080040#0001"
+
+cheat5_desc = "所有动画"
+cheat5_handler = "0"
+cheat5_code = "B0070002#00000000;800800C2#0101"
+
+cheat6_desc = "全部图片"
+cheat6_handler = "0"
+cheat6_code = "B0090002#00000000;80080520#FFFF"
+
+cheat7_desc = "可使用特殊模式"
+cheat7_handler = "0"
+cheat7_code = "30080044#0001"
+
+cheat8_desc = "交换扎99枚"
+cheat8_handler = "0"
+cheat8_code = "800C78A8#000D"
+
+cheat9_desc = "潜在能力最高"
+cheat9_handler = "0"
+cheat9_code = "800800D6#0078"
+
+cheat10_desc = "Low power player 2:"
+cheat10_handler = "0"
+cheat10_code = "800DE8E4#0000"
+
+cheats = 11

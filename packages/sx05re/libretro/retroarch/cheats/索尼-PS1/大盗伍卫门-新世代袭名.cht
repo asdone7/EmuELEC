@@ -1,0 +1,45 @@
+cheat0_desc = "時間NO"
+cheat0_handler = "0"
+cheat0_code = "8005C420#0055"
+
+cheat1_desc = "金錢NO"
+cheat1_handler = "0"
+cheat1_code = "8005D2D6#FFFF"
+
+cheat2_desc = "血不減NO"
+cheat2_handler = "0"
+cheat2_code = "8007A536#0006"
+
+cheat3_desc = "能源不減NO"
+cheat3_handler = "0"
+cheat3_code = "8005D2D8#0064"
+
+cheat4_desc = "無敵NO"
+cheat4_handler = "0"
+cheat4_code = "8007A590#0080"
+
+cheat5_desc = "隻數NO"
+cheat5_handler = "0"
+cheat5_code = "3005D2EC#0006"
+
+cheat6_desc = "機器人GASNO"
+cheat6_handler = "0"
+cheat6_code = "800D3418#03E7"
+
+cheat7_desc = "機器人VALCAN.BEAMNO"
+cheat7_handler = "0"
+cheat7_code = "800D3420#03E7"
+
+cheat8_desc = "機器人CHARGENO"
+cheat8_handler = "0"
+cheat8_code = "800D3428#012C"
+
+cheat9_desc = "血最大值NO"
+cheat9_handler = "0"
+cheat9_code = "3005D2ED#000A"
+
+cheat10_desc = "煙斗等級NO"
+cheat10_handler = "0"
+cheat10_code = "8005D2E2#0303;8005D2E4#0303"
+
+cheats = 11

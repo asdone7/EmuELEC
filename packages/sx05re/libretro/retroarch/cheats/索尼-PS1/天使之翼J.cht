@@ -1,0 +1,9 @@
+cheat0_desc = "我方上半场得分自订"
+cheat0_handler = "0"
+cheat0_code = "800DB4E8#00XX"
+
+cheat1_desc = "自由控制比赛时"
+cheat1_handler = "0"
+cheat1_code = "800B4AFC#XXXX"
+
+cheats = 2

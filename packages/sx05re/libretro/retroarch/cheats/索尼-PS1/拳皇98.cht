@@ -1,0 +1,41 @@
+cheat0_desc = "P1 INFINITE LIFE"
+cheat0_handler = "0"
+cheat0_code = "800BC550#0067;800C2748#0067"
+
+cheat1_desc = "P1 INFINITE POW"
+cheat1_handler = "0"
+cheat1_code = "800C27E8#05FF"
+
+cheat2_desc = "1P空中绝招"
+cheat2_handler = "0"
+cheat2_code = "800C26FC#9010"
+
+cheat3_desc = "攻击增加密码"
+cheat3_handler = "0"
+cheat3_code = "800C26FE#0000;800C28C6#0000"
+
+cheat4_desc = "按L1後1PHP全满"
+cheat4_handler = "0"
+cheat4_code = "D00CC2E2#FBFF;800C2784#0067"
+
+cheat5_desc = "按L2後2PHP=0"
+cheat5_handler = "0"
+cheat5_code = "D00CC2E2#FFFF;800C2910#0000"
+
+cheat6_desc = "按R1後，气有5个"
+cheat6_handler = "0"
+cheat6_code = "D00CC2E2#F7FF;800C27E8#05FE"
+
+cheat7_desc = "按着R2的期间成为慢动作"
+cheat7_handler = "0"
+cheat7_code = "D00CC2E2#FDFF;8009D1F8#35CA"
+
+cheat8_desc = "敌不动的无限打"
+cheat8_handler = "0"
+cheat8_code = "800C2874#0100"
+
+cheat9_desc = "无限自创攻击招式"
+cheat9_handler = "0"
+cheat9_code = "D00C6620#0040;800C26AC#0062;D00C6620#0030;800C26AC#0034;D00C6620#0080;800C26AC#006B;D00C6620#00C0;800C26AC#0074;D00C6620#0010;800C26AC#0050;D00C6620#0020;800C26AC#0059;800C2906#1400"
+
+cheats = 10

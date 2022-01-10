@@ -1,0 +1,37 @@
+cheat0_desc = "全防具"
+cheat0_handler = "0"
+cheat0_code = "50004602#0000;8009D17A#6363"
+
+cheat1_desc = "全武器"
+cheat1_handler = "0"
+cheat1_code = "50007902#0000;8009D242#6363"
+
+cheat2_desc = "全道具"
+cheat2_handler = "0"
+cheat2_code = "50001802#0000;8009D20A#6363"
+
+cheat3_desc = "全召唤石"
+cheat3_handler = "0"
+cheat3_code = "50002602#0000;8009D33A#6363"
+
+cheat4_desc = "战斗后得大量经验值"
+cheat4_handler = "0"
+cheat4_code = "80097ADC#270F"
+
+cheat5_desc = "主角HP及MP MAX"
+cheat5_handler = "0"
+cheat5_code = "80099404#03E7;80099406#03E7;80099408#03E7;8009940A#03E7"
+
+cheat6_desc = "HIDDEN Song"
+cheat6_handler = "0"
+cheat6_code = "3008894D#0000;D001004C#0100;3008894B#0000"
+
+cheat7_desc = "All song in endless mode"
+cheat7_handler = "0"
+cheat7_code = "30010B80#00FF;30010B83#00FF;30010BB0#00FF;30010BB3#00FF"
+
+cheat8_desc = "ALL THINGS"
+cheat8_handler = "0"
+cheat8_code = "B0460002#00000000;8009936A#6363;B0460002#00000000;8009D17A#6363;B0180002#00000000;8009D20A#6363;B07A0002#00000000;8009D242#6363;B0210002#00000000;8009D33A#6363"
+
+cheats = 9

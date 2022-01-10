@@ -1,0 +1,13 @@
+cheat0_desc = ""
+cheat0_handler = "0"
+cheat0_code = "801450D8#0032"
+
+cheat1_desc = ""
+cheat1_handler = "0"
+cheat1_code = "301450D8#0064"
+
+cheat2_desc = ""
+cheat2_handler = "0"
+cheat2_code = "80141570#0000;801452C8#0000;801452D0#0009;80145300#0005"
+
+cheats = 3

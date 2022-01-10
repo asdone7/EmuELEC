@@ -1,0 +1,97 @@
+cheat0_desc = "开机码A"
+cheat0_handler = "0"
+cheat0_code = "D00B2612#1040,800B2612#1000"
+
+cheat1_desc = "开机码B"
+cheat1_handler = "0"
+cheat1_code = "D00B2D4E#1040,800B2D4E#1000"
+
+cheat2_desc = "无限金钱"
+cheat2_handler = "0"
+cheat2_code = "80114BE8#967F;80114BEA#0098"
+
+cheat3_desc = "敌一击必死"
+cheat3_handler = "0"
+cheat3_code = "D0047328#0018,8004732A#ACC0"
+
+cheat4_desc = "战斗后特技等级最大"
+cheat4_handler = "0"
+cheat4_code = "D0043BD2#3042,80043BD2#3442"
+
+cheat5_desc = "战斗后快速升等级"
+cheat5_handler = "0"
+cheat5_code = "D0042B9C#0004,80042B9C#0001"
+
+cheat6_desc = "MP不减"
+cheat6_handler = "0"
+cheat6_code = "D004751A#0050,8004751A#0040"
+
+cheat7_desc = "主角HP最大"
+cheat7_handler = "0"
+cheat7_code = "800D1516#FFFF;800D151C#FFFF"
+
+cheat8_desc = "主角MP最大"
+cheat8_handler = "0"
+cheat8_code = "800D1518#FFFF;800D151E#FFFF"
+
+cheat9_desc = "主角攻击力"
+cheat9_handler = "0"
+cheat9_code = "800D152A#FFFF"
+
+cheat10_desc = "主角防御力"
+cheat10_handler = "0"
+cheat10_code = "800D152C#FFFF"
+
+cheat11_desc = "主角经验值"
+cheat11_handler = "0"
+cheat11_code = "800D1538#FFFF"
+
+cheat12_desc = "道具不增不减"
+cheat12_handler = "0"
+cheat12_code = "D005D6A8#1821,8005D6AA#0060"
+
+cheat13_desc = "战斗获得大量经验值"
+cheat13_handler = "0"
+cheat13_code = "D0042BC4#00CC,80042BC6#1400"
+
+cheat14_desc = "不遇敌(某些地方无效)"
+cheat14_handler = "0"
+cheat14_code = "D0114602#0002,800E83BA#0027"
+
+cheat15_desc = "全装备:(需配合"道具皆99个"的密码),慎用!"
+cheat15_handler = "0"
+cheat15_code = "B00F0002#00000001,80114BEC#0000;B00A0002#00000001,80114C0A#0100;B00C0002#00000001,80114C1E#0200;B00A0002#00000001,80114C36#0300;B00C0002#00000001,80114C4A#0400;B0090002#00000001,80114C62#0500;B0090002#00000001,80114C74#0700;B0030002#00000001,80114C86#0800;B0150002#00000001,80114C8C#0900;B0140002#00000001,80114CB6#0A00;B01A0002#00000001,80114CDE#0B00;B0050002#00000001,80114D12#0C00;B0040002#00000001,80114D1C#0D00;B0040002#00000001,80114D24#0E00;B0040002#00000001,80114D2C#0F00;B0020002#00000001,80114D34#1000;B0040002#00000001,80114D38#1100;B0090002#00000001,80114D40#1200;B00E0002#00000001,80114D52#1300;B0200002#00000001,80114D6E#1400;B0060002#00000001,80114DAE#1500;B0040002#00000001,80114DBA#1600;B0020002#00000001,80114DC2#1700;B0270002#00000001,80114DC6#1800;B0320002#00000001,80114E14#1900;B0120002#00000001,80114E78#1A00"
+
+cheat16_desc = "道具皆99个"
+cheat16_handler = "0"
+cheat16_code = "B0AC0002#00000000,80114F0C#6363"
+
+cheat17_desc = "全图签"
+cheat17_handler = "0"
+cheat17_code = "B0100001#00000000,9011B3BC#00FF"
+
+cheat18_desc = "全地图"
+cheat18_handler = "0"
+cheat18_code = "3017ED78#0019"
+
+cheat19_desc = "アイテムを卖ったり买ったりすると金最大"
+cheat19_handler = "0"
+cheat19_code = "D005D5D8#0003,8005D5DA#1400"
+
+cheat20_desc = "ピエトロの武器栏(代码见说明)"
+cheat20_handler = "0"
+cheat20_code = "800D155E#????"
+
+cheat21_desc = "ピエトロのうでわ栏(代码见说明)"
+cheat21_handler = "0"
+cheat21_code = "800D1560#????"
+
+cheat22_desc = "ピエトロのくつ栏(代码见说明)"
+cheat22_handler = "0"
+cheat22_code = "800D1562#????"
+
+cheat23_desc = "プレイ时间"
+cheat23_handler = "0"
+cheat23_code = "8011509C#XXXX;8011509D#XXXX"
+
+cheats = 24

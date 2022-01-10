@@ -1,0 +1,81 @@
+cheat0_desc = "成吉思汗主城金"
+cheat0_handler = "0"
+cheat0_code = "80138C72#C350"
+
+cheat1_desc = "成吉思汗主城粮"
+cheat1_handler = "0"
+cheat1_code = "80138C74#C350"
+
+cheat2_desc = "成吉思汗主城兵"
+cheat2_handler = "0"
+cheat2_code = "80138C76#C350"
+
+cheat3_desc = "成吉思汗主城文化"
+cheat3_handler = "0"
+cheat3_code = "80138C7A#FFFF"
+
+cheat4_desc = "燕京金"
+cheat4_handler = "0"
+cheat4_code = "80138FA2#C350"
+
+cheat5_desc = "燕京粮"
+cheat5_handler = "0"
+cheat5_code = "80138FA4#C350"
+
+cheat6_desc = "燕京兵"
+cheat6_handler = "0"
+cheat6_code = "80138FA6#C350"
+
+cheat7_desc = "燕京文化"
+cheat7_handler = "0"
+cheat7_code = "80138FAA#FFFF"
+
+cheat8_desc = "会宁金"
+cheat8_handler = "0"
+cheat8_code = "80138ED6#C350"
+
+cheat9_desc = "会宁粮"
+cheat9_handler = "0"
+cheat9_code = "80138ED8#C350"
+
+cheat10_desc = "会宁兵"
+cheat10_handler = "0"
+cheat10_code = "80138EDA#C350"
+
+cheat11_desc = "会宁文化"
+cheat11_handler = "0"
+cheat11_code = "80138EDE#FFFF"
+
+cheat12_desc = "泉州金"
+cheat12_handler = "0"
+cheat12_code = "8013913A#C350"
+
+cheat13_desc = "泉州粮"
+cheat13_handler = "0"
+cheat13_code = "8013913C#C350"
+
+cheat14_desc = "泉州兵"
+cheat14_handler = "0"
+cheat14_code = "8013913E#C350"
+
+cheat15_desc = "泉州文化"
+cheat15_handler = "0"
+cheat15_code = "80139142#FFFF"
+
+cheat16_desc = "临安金"
+cheat16_handler = "0"
+cheat16_code = "8013906E#C350"
+
+cheat17_desc = "临安粮"
+cheat17_handler = "0"
+cheat17_code = "80139070#C350"
+
+cheat18_desc = "临安兵"
+cheat18_handler = "0"
+cheat18_code = "80139072#C350"
+
+cheat19_desc = "临安文化"
+cheat19_handler = "0"
+cheat19_code = "80139076#FFFF"
+
+cheats = 20

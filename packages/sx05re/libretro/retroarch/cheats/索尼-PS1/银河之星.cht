@@ -1,0 +1,21 @@
+cheat0_desc = "钱"
+cheat0_handler = "0"
+cheat0_code = "801dc37c#ffff"
+
+cheat1_desc = "阿雷斯EXP"
+cheat1_handler = "0"
+cheat1_code = "801dbffc#0001"
+
+cheat2_desc = "露娜EXP"
+cheat2_handler = "0"
+cheat2_code = "801dc13c#0001"
+
+cheat3_desc = "阿雷斯能力"
+cheat3_handler = "0"
+cheat3_code = "801dbfc0#03e7;801dbfc2#03e7;801dbfc4#03e7;801dbfc6#03e7;801dbfc8#03e7;801dbfcA#03e7;801dbfcC#03e7;801dbfcE#03e7;801dbfd0#03e7;801dbfd2#6363;801dbfda#6363"
+
+cheat4_desc = "露娜能力"
+cheat4_handler = "0"
+cheat4_code = "801dc100#03e7;801dc102#03e7;801dc104#03e7;801dc106#03e7;801dc108#03e7;801dc10A#03e7;801dc10C#03e7;801dc10E#03e7;801dc110#03e7;801dc112#6363;801dc11a#6363"
+
+cheats = 5

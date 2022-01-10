@@ -1,0 +1,57 @@
+cheat0_desc = "圭輔 HP MAX"
+cheat0_handler = "0"
+cheat0_code = "80192D2A#03E7"
+
+cheat1_desc = "MP MAX"
+cheat1_handler = "0"
+cheat1_code = "80192D2C#03E7"
+
+cheat2_desc = "攻"
+cheat2_handler = "0"
+cheat2_code = "80192D30#03E7"
+
+cheat3_desc = "守"
+cheat3_handler = "0"
+cheat3_code = "80192D32#03E7"
+
+cheat4_desc = "技"
+cheat4_handler = "0"
+cheat4_code = "80192D34#03E7"
+
+cheat5_desc = "速"
+cheat5_handler = "0"
+cheat5_code = "80192D36#03E7"
+
+cheat6_desc = "經驗值"
+cheat6_handler = "0"
+cheat6_code = "80192D3A#03E7"
+
+cheat7_desc = "美 HP MAX"
+cheat7_handler = "0"
+cheat7_code = "801932C2#03E7"
+
+cheat8_desc = "MP MAX"
+cheat8_handler = "0"
+cheat8_code = "801932C4#03E7"
+
+cheat9_desc = "攻"
+cheat9_handler = "0"
+cheat9_code = "801932C8#03E7"
+
+cheat10_desc = "守"
+cheat10_handler = "0"
+cheat10_code = "801932CA#03E7"
+
+cheat11_desc = "技"
+cheat11_handler = "0"
+cheat11_code = "801932CC#03E7"
+
+cheat12_desc = "速"
+cheat12_handler = "0"
+cheat12_code = "801932CE#03E7"
+
+cheat13_desc = "經驗值"
+cheat13_handler = "0"
+cheat13_code = "801932D2#03E7"
+
+cheats = 14

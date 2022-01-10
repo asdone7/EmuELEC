@@ -1,0 +1,61 @@
+cheat0_desc = "战斗后Lv"
+cheat0_handler = "0"
+cheat0_code = "D00FD91C#0010;800FD91C#0001"
+
+cheat1_desc = "快速升级"
+cheat1_handler = "0"
+cheat1_code = "800FD91C#0001"
+
+cheat2_desc = "買東西時金錢不減"
+cheat2_handler = "0"
+cheat2_code = "8004B376#1000;8002A9C6#0040"
+
+cheat3_desc = "无限金钱"
+cheat3_handler = "0"
+cheat3_code = "90183058#006BD0C5;90185FE0#006BD0C5"
+
+cheat4_desc = "地形熟練度"
+cheat4_handler = "0"
+cheat4_code = "80111512#1400"
+
+cheat5_desc = "撃破type熟練度"
+cheat5_handler = "0"
+cheat5_code = "8011155A#1400"
+
+cheat6_desc = "武器熟練度"
+cheat6_handler = "0"
+cheat6_code = "801115AA#1400"
+
+cheat7_desc = "杖使用熟練度"
+cheat7_handler = "0"
+cheat7_code = "8015245E#1400"
+
+cheat8_desc = "地圖畫面中出現全道具"
+cheat8_handler = "0"
+cheat8_code = "8007D390#0063;8007D394#0001;8007D396#A202;8007D3BE#2A42"
+
+cheat9_desc = "全物品交换可能"
+cheat9_handler = "0"
+cheat9_code = "80026D94#0001;80026DC0#0001"
+
+cheat10_desc = "無限移動"
+cheat10_handler = "0"
+cheat10_code = "8015BBB0#0000"
+
+cheat11_desc = "升级後全能力上昇1点"
+cheat11_handler = "0"
+cheat11_code = "8005AE90#1021"
+
+cheat12_desc = "升级时移动力上升1"
+cheat12_handler = "0"
+cheat12_code = "80111032#1400"
+
+cheat13_desc = "游戏高速化"
+cheat13_handler = "0"
+cheat13_code = "8009B14A#1400"
+
+cheat14_desc = "游戏时间不增"
+cheat14_handler = "0"
+cheat14_code = "80024BD8#0000"
+
+cheats = 15

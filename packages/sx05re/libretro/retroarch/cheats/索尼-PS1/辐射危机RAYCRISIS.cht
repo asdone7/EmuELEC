@@ -1,0 +1,105 @@
+cheat0_desc = "INVINCIBLE"
+cheat0_handler = "0"
+cheat0_code = "300DB8D5#0000"
+
+cheat1_desc = "ENROACHMENT 100%"
+cheat1_handler = "0"
+cheat1_code = "800D70E6#0064"
+
+cheat2_desc = "MACHINE MAX"
+cheat2_handler = "0"
+cheat2_code = "00DB8D7#0009"
+
+cheat3_desc = "MAX SCORE"
+cheat3_handler = "0"
+cheat3_code = "800D9A6C#369A;800D9A6E#C9FF"
+
+cheat4_desc = "QUICK ROUND DIVIDER BAR"
+cheat4_handler = "0"
+cheat4_code = "D00D9A76#0000;300D9A76#0010"
+
+cheat5_desc = "绝对无敌"
+cheat5_handler = "0"
+cheat5_code = "800DB8D4#0001"
+
+cheat6_desc = "追踪导弹最大"
+cheat6_handler = "0"
+cheat6_code = "800DB8E0#000A"
+
+cheat7_desc = "武器等级最大"
+cheat7_handler = "0"
+cheat7_code = "800DB8DC#0006"
+
+cheat8_desc = "只数X9"
+cheat8_handler = "0"
+cheat8_code = "800DB8D8#0900"
+
+cheat9_desc = "能量暴弹"
+cheat9_handler = "0"
+cheat9_code = "800D9A76#0010"
+
+cheat10_desc = "时间自我倒退"
+cheat10_handler = "0"
+cheat10_code = "800D70E4#0000"
+
+cheat11_desc = "追踪雷射不减"
+cheat11_handler = "0"
+cheat11_code = "D00F3BBA#0001;300F3BB8#0009"
+
+cheat12_desc = "时间为零"
+cheat12_handler = "0"
+cheat12_code = "800D70E6#0000"
+
+cheat13_desc = "只数"
+cheat13_handler = "0"
+cheat13_code = "800DB8D6#0900"
+
+cheat14_desc = "武器能量全满"
+cheat14_handler = "0"
+cheat14_code = "800D9A76#0010"
+
+cheat15_desc = "只数为9"
+cheat15_handler = "0"
+cheat15_code = "300DB8D7#0009"
+
+cheat16_desc = "无限使用爆弹"
+cheat16_handler = "0"
+cheat16_code = "300D9A76#0010"
+
+cheat17_desc = "导弹最大"
+cheat17_handler = "0"
+cheat17_code = "300DB8E0#0018"
+
+cheat18_desc = "火力战机1"
+cheat18_handler = "0"
+cheat18_code = "300BB8DC#0006"
+
+cheat19_desc = "火力战机2"
+cheat19_handler = "0"
+cheat19_code = "300BB8DC#0006"
+
+cheat20_desc = "火力战机3"
+cheat20_handler = "0"
+cheat20_code = "300BB8DC#0004"
+
+cheat21_desc = "战斗前选择隐藏机种R-GRAY1 (按"SELECT+R1"即可)"
+cheat21_handler = "0"
+cheat21_code = "D00C7914#0108;30112C95#0003"
+
+cheat22_desc = "战斗前选择隐藏机种R-GRAY2 (按"SELECT+R2"即可)"
+cheat22_handler = "0"
+cheat22_code = "D00C7914#0102;30112C95#0004"
+
+cheat23_desc = "战斗中(战死接关时)选择隐藏机种R-GRAY1 (按"SELECT+L1"即可)"
+cheat23_handler = "0"
+cheat23_code = "D00C7914#0104;300D0F05#0003"
+
+cheat24_desc = "战斗中(战死接关时)选择隐藏机种R-GRAY2 (按"SELECT+L2"即可)"
+cheat24_handler = "0"
+cheat24_code = "D00C7914#0101;300D0F05#0004"
+
+cheat25_desc = "火力最强(机种自动判别版)"
+cheat25_handler = "0"
+cheat25_code = "300DB8DC#0006;D00D0F04#0200;300DB8DC#0004;D00D0F04#0202;300DB8DC#0004"
+
+cheats = 26

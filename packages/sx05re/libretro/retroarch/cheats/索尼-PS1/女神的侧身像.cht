@@ -1,0 +1,53 @@
+cheat0_desc = "SKILL点数"
+cheat0_handler = "0"
+cheat0_code = "D005C244#1023,8005C244#03E7；D005C246#0051,8005C246#2002"
+
+cheat1_desc = "无限MP"
+cheat1_handler = "0"
+cheat1_code = "801F5F80#C9FF；801F5F82#3B9A"
+
+cheat2_desc = "使用回復道具不減"
+cheat2_handler = "0"
+cheat2_code = "D004582A#A069,8004582A#2400"
+
+cheat3_desc = "評價值最大"
+cheat3_handler = "0"
+cheat3_code = "301F6264#0064"
+
+cheat4_desc = "隨時記錄"
+cheat4_handler = "0"
+cheat4_code = "301F6274#0011"
+
+cheat5_desc = "经验の宝珠"
+cheat5_handler = "0"
+cheat5_code = "801E5BF8#967F;801E5BFA#0098"
+
+cheat6_desc = "一开始全部SKILL成长可能"
+cheat6_handler = "0"
+cheat6_code = "901E62C4#FFFFFF00；801E62C8#00FF"
+
+cheat7_desc = "跳跃力加强"
+cheat7_handler = "0"
+cheat7_code = "D002FFD6#2462,8002FFD4#0000"
+
+cheat8_desc = "全道具"
+cheat8_handler = "0"
+cheat8_code = "B0FF0002#00000001,301F62A2#0000；B0FF0001#00000000,301F676A#0063"
+
+cheat9_desc = "一発で決め技ゲージMAX"
+cheat9_handler = "0"
+cheat9_code = "D003DC64#1021,8003DC64#0064;D003DC66#0045,8003DC66#2002"
+
+cheat10_desc = "ターン終了時にCT0"
+cheat10_handler = "0"
+cheat10_code = "D0066B32#A4A2,80066B32#A4A0"
+
+cheat11_desc = "遊戲時間停止"
+cheat11_handler = "0"
+cheat11_code = "D0035122#2442,80035122#2400"
+
+cheat12_desc = "战斗后LV最大"
+cheat12_handler = "0"
+cheat12_code = "D00998B2#1C60,800998B2#0000;D00998B0#012A,800998B0#0000"
+
+cheats = 13

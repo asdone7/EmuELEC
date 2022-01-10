@@ -1,0 +1,9 @@
+cheat0_desc = "右分數:9"
+cheat0_handler = "0"
+cheat0_code = "300CB7BD#0090"
+
+cheat1_desc = "左分數:9"
+cheat1_handler = "0"
+cheat1_code = "300CB7BF#0090"
+
+cheats = 2

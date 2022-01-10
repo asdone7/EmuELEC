@@ -1,0 +1,133 @@
+cheat0_desc = "所有人员LV.EXP.HP攻击力MAX"
+cheat0_handler = "0"
+cheat0_code = "90043750#98967F63;900439A0#98967F63;90043BF0#98967F63;90043E50#98967F63;B0040250#00000000;80043754#03E7;B0040250#00000000;800437A4#03E7"
+
+cheat1_desc = "所有人员各种防御能力MAX"
+cheat1_handler = "0"
+cheat1_code = "B0040250#00000000;900437E4#00630063;B0040250#00000000;900437E8#00630063"
+
+cheat2_desc = "金钱多更多"
+cheat2_handler = "0"
+cheat2_code = "9004316C#00989680"
+
+cheat3_desc = "齐图鉴"
+cheat3_handler = "0"
+cheat3_code = "B0410002#00000000;80046210#FFFF"
+
+cheat4_desc = "主角必殺技量表不減"
+cheat4_handler = "0"
+cheat4_code = "D01055D0#0000;801055D0#00FF"
+
+cheat5_desc = "同伴第2人必殺技量表不減"
+cheat5_handler = "0"
+cheat5_code = "D010580C#0000;8010580C#00FF"
+
+cheat6_desc = "同伴第3人必殺技量表不減"
+cheat6_handler = "0"
+cheat6_code = "D0105A48#0000;80105A48#00FF"
+
+cheat7_desc = "擁有所有必殺技"
+cheat7_handler = "0"
+cheat7_code = "30043173#00FF;B0160002#00000000;80043174#FFFF"
+
+cheat8_desc = "擁有全部道具"
+cheat8_handler = "0"
+cheat8_code = "B0800002#00000000;80045720#6363"
+
+cheat9_desc = "各種狀況值MAX"
+cheat9_handler = "0"
+cheat9_code = "B0080002#00000000;30043761#00C8;B0080002#00000000;300439B1#00C8;B0080002#00000000;30043C01#00C8"
+
+cheat10_desc = "全部道具不減99個武器除外"
+cheat10_handler = "0"
+cheat10_code = "E0143370#02000003;8014BDF0#0063;8014BDF2#2402;8014BDF6#A242"
+
+cheat11_desc = "武器攻擊力999"
+cheat11_handler = "0"
+cheat11_code = "E0143370#02200003;801461F0#03E7;801461F2#2406;801461FE#A446"
+
+cheat12_desc = "防具防禦力99"
+cheat12_handler = "0"
+cheat12_code = "E0143370#02200003;80146774#0063;80146776#2406;8014678A#A446"
+
+cheat13_desc = "武器全部屬性"
+cheat13_handler = "0"
+cheat13_code = "E0143370#02200002;801459F6#A048;80145A06#2200"
+
+cheat14_desc = "武器屬性等級最高"
+cheat14_handler = "0"
+cheat14_code = "E0143370#02200002;80145EFC#3027;80145F0E#AC46"
+
+cheat15_desc = "防具屬性等級最高"
+cheat15_handler = "0"
+cheat15_code = "E0143370#02200002;80145848#3027;8014584E#A466"
+
+cheat16_desc = "武器防具能力修正值MAX"
+cheat16_handler = "0"
+cheat16_code = "E0143370#02200002;801483DC#1027;801483E2#AC82"
+
+cheat17_desc = "金錢永不減"
+cheat17_handler = "0"
+cheat17_code = "D0140B10#0220;801425AE#2200"
+
+cheat18_desc = "升級一次能力99"
+cheat18_handler = "0"
+cheat18_code = "E00C11EA#30620002;900C11EC#3402A082;900C11F0#00000000"
+
+cheat19_desc = "升級一次HP最大值"
+cheat19_handler = "0"
+cheat19_code = "D00C15DA#3042;800915DC#0001"
+
+cheat20_desc = "戰鬥不能瞬間復活"
+cheat20_handler = "0"
+cheat20_code = "D01413B0#0220;8008F0AE#1000"
+
+cheat21_desc = "日記"
+cheat21_handler = "0"
+cheat21_code = "B0040002#00000000;8004622D#FFFF;30046236#FFFF"
+
+cheat22_desc = "作成小部屋無"
+cheat22_handler = "0"
+cheat22_code = "30043348#0000"
+
+cheat23_desc = "作成小部屋魔法樂器作成"
+cheat23_handler = "0"
+cheat23_code = "30043348#0001"
+
+cheat24_desc = "作成小部屋研究室"
+cheat24_handler = "0"
+cheat24_code = "30043348#0002"
+
+cheat25_desc = "作成小部屋武器製作室"
+cheat25_handler = "0"
+cheat25_code = "30043348#0004"
+
+cheat26_desc = "作成小部屋全部"
+cheat26_handler = "0"
+cheat26_code = "30043348#0007"
+
+cheat27_desc = "金錢一千萬元"
+cheat27_handler = "0"
+cheat27_code = "9004316C#00989680"
+
+cheat28_desc = "果樹園無"
+cheat28_handler = "0"
+cheat28_code = "30043263#0000"
+
+cheat29_desc = "果樹園雜草狀態"
+cheat29_handler = "0"
+cheat29_code = "30043263#0010"
+
+cheat30_desc = "果樹園樹神浮上"
+cheat30_handler = "0"
+cheat30_code = "30043263#0020"
+
+cheat31_desc = "果樹園樹神出現後"
+cheat31_handler = "0"
+cheat31_code = "30043263#0030"
+
+cheat32_desc = "果樹園不明"
+cheat32_handler = "0"
+cheat32_code = "30043263#0040"
+
+cheats = 33

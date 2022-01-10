@@ -1,0 +1,33 @@
+cheat0_desc = "1p时间不减"
+cheat0_handler = "0"
+cheat0_code = "801E03F0#6399"
+
+cheat1_desc = "一击必杀"
+cheat1_handler = "0"
+cheat1_code = "D01E02A8#0100;801E2438#0000"
+
+cheat2_desc = "1p血不减"
+cheat2_handler = "0"
+cheat2_code = "801E2150#0090"
+
+cheat3_desc = "必杀次数全满"
+cheat3_handler = "0"
+cheat3_code = "301E2271#0009"
+
+cheat4_desc = "必杀等级最高"
+cheat4_handler = "0"
+cheat4_code = "301E226B#0002;801E226C#0202"
+
+cheat5_desc = "1p气力被打一次升一级"
+cheat5_handler = "0"
+cheat5_code = "801E2272#0065"
+
+cheat6_desc = "*2P血不减*"
+cheat6_handler = "0"
+cheat6_code = "801E2438#0090"
+
+cheat7_desc = "1P无敌气力"
+cheat7_handler = "0"
+cheat7_code = "801E2150#0090;801E2194#0090;801E2270#0900"
+
+cheats = 8

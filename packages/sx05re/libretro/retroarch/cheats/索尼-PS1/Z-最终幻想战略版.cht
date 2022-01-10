@@ -1,0 +1,89 @@
+cheat0_desc = "快速升级"
+cheat0_handler = "0"
+cheat0_code = "8017EB54#0100;8017EB56#2443;8017EB70#0100;8017EB72#2443"
+
+cheat1_desc = "最大HP 角色 1"
+cheat1_handler = "0"
+cheat1_code = "801924f4#03e7;801924f6#03e7"
+
+cheat2_desc = "最大HP 角色 2"
+cheat2_handler = "0"
+cheat2_code = "801926b4#03e7;801926b6#03e7"
+
+cheat3_desc = "最大HP 角色 3"
+cheat3_handler = "0"
+cheat3_code = "80192874#03e7;80192876#03e7"
+
+cheat4_desc = "最大HP 角色 4"
+cheat4_handler = "0"
+cheat4_code = "80192a34#03e7;80192a36#03e7"
+
+cheat5_desc = "最大HP 角色 5"
+cheat5_handler = "0"
+cheat5_code = "80192bf4#03e7;80192bf6#03e7"
+
+cheat6_desc = "最大MP 角色 1"
+cheat6_handler = "0"
+cheat6_code = "801924f8#03e7;801924fa#03e7"
+
+cheat7_desc = "最大MP 角色 2"
+cheat7_handler = "0"
+cheat7_code = "801926b8#03e7;801926ba#03e7"
+
+cheat8_desc = "最大MP 角色 3"
+cheat8_handler = "0"
+cheat8_code = "80192878#03e7;8019287a#03e7"
+
+cheat9_desc = "最大MP 角色 4"
+cheat9_handler = "0"
+cheat9_code = "80192a38#03e7;80192a3a#03e7"
+
+cheat10_desc = "最大MP 角色 5"
+cheat10_handler = "0"
+cheat10_code = "80192bf8#03e7;80192bfa#03e7"
+
+cheat11_desc = "战斗中升级"
+cheat11_handler = "0"
+cheat11_code = "801924ec#63ff;801926ac#63ff;8019286c#63ff;80192a2c#63ff;80192bec#63ff"
+
+cheat12_desc = "JP不会减少"
+cheat12_handler = "0"
+cheat12_code = "d004760c#0001;8011fad4#0000"
+
+cheat13_desc = "所有道具"
+cheat13_handler = "0"
+cheat13_code = "50006f02#0000;80059700#6363"
+
+cheat14_desc = "战斗调试菜单"
+cheat14_handler = "0"
+cheat14_code = "8016bc1c#0003"
+
+cheat15_desc = "世界调试菜单"
+cheat15_handler = "0"
+cheat15_code = "d0198090#0000;80198090#0006"
+
+cheat16_desc = "CT全满 角色 1"
+cheat16_handler = "0"
+cheat16_code = "801924fc#0064"
+
+cheat17_desc = "CT全满 角色 2"
+cheat17_handler = "0"
+cheat17_code = "801926bc#0064"
+
+cheat18_desc = "CT全满 角色 3"
+cheat18_handler = "0"
+cheat18_code = "8019287c#0064"
+
+cheat19_desc = "CT全满 角色 4"
+cheat19_handler = "0"
+cheat19_code = "80192a3c#0064"
+
+cheat20_desc = "CT全满 角色 5"
+cheat20_handler = "0"
+cheat20_code = "80192bfc#0064"
+
+cheat21_desc = "无限金钱"
+cheat21_handler = "0"
+cheat21_code = "800577ce#0fff"
+
+cheats = 22

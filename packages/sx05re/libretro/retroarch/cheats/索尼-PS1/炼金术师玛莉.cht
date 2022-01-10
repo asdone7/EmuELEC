@@ -1,0 +1,49 @@
+cheat0_desc = "最强"
+cheat0_handler = "0"
+cheat0_code = "B0040002#00000000;801C133C#03E7;B0070002#00000000;801C1340#0063"
+
+cheat1_desc = "HP 999"
+cheat1_handler = "0"
+cheat1_code = "801BF99C#03E7;801BF99E#03E7;801C133C#03E7;801C133E#03E7"
+
+cheat2_desc = "MP 999"
+cheat2_handler = "0"
+cheat2_code = "801BF9A0#03E7;801BF9A2#03E7;801C1340#03E7;801C1342#03E7"
+
+cheat3_desc = "金钱 99999"
+cheat3_handler = "0"
+cheat3_code = "801BFAE0#869F;801BFAE2#0001"
+
+cheat4_desc = "知识 5000"
+cheat4_handler = "0"
+cheat4_code = "801BFAE4#1388"
+
+cheat5_desc = "知名 999"
+cheat5_handler = "0"
+cheat5_code = "801BFAE6#03E7"
+
+cheat6_desc = "物理攻击 100"
+cheat6_handler = "0"
+cheat6_code = "801C1344#0064"
+
+cheat7_desc = "物理防守 100"
+cheat7_handler = "0"
+cheat7_code = "801C1346#0064"
+
+cheat8_desc = "魔法攻击 100"
+cheat8_handler = "0"
+cheat8_code = "801C1348#0064;801C134A#0064"
+
+cheat9_desc = "速度 100"
+cheat9_handler = "0"
+cheat9_code = "801C134C#0064"
+
+cheat10_desc = "经验 100"
+cheat10_handler = "0"
+cheat10_code = "801C134E#1388"
+
+cheat11_desc = "全道具"
+cheat11_handler = "0"
+cheat11_code = "B1450002#00000000;801C232A#0063"
+
+cheats = 12

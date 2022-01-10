@@ -1,0 +1,41 @@
+cheat0_desc = "按SELECT+R2 能力全满"
+cheat0_handler = "0"
+cheat0_code = "D018DEAA#FDFE;801CF78C#0064;D018DEAA#FDFE;801CF78E#0064;D018DEAA#FDFE;801CF790#0064"
+
+cheat1_desc = "教师经验值不减"
+cheat1_handler = "0"
+cheat1_code = "D007BAF0#1823;8007BAF2#0060"
+
+cheat2_desc = "职员经验值不减"
+cheat2_handler = "0"
+cheat2_code = "D008EFF8#1823;8008EFFA#0060"
+
+cheat3_desc = "MONEY"
+cheat3_handler = "0"
+cheat3_code = "801CEDE0#E0FF;801CEDE2#05F5"
+
+cheat4_desc = "HEART"
+cheat4_handler = "0"
+cheat4_code = "D018DEAA#FDFE;801CF78C#0064"
+
+cheat5_desc = "RADEN"
+cheat5_handler = "0"
+cheat5_code = "D018DEAA#FDFE;801CF78E#0064"
+
+cheat6_desc = "TON"
+cheat6_handler = "0"
+cheat6_code = "D018DEAA#FDFE;801CF790#0064"
+
+cheat7_desc = "EXP"
+cheat7_handler = "0"
+cheat7_code = "D007BAF0#1823;8007BAF2#0060"
+
+cheat8_desc = "KILL"
+cheat8_handler = "0"
+cheat8_code = "D007B9B6#2842;B0040038#00000000;8007B9B4#0000"
+
+cheat9_desc = "金钱不减"
+cheat9_handler = "0"
+cheat9_code = "801CEDE0#967F;801CEDE2#0098"
+
+cheats = 10

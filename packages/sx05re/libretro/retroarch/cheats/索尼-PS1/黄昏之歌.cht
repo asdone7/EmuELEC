@@ -1,0 +1,13 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "801DB5B4#FFFF"
+
+cheat1_desc = "LEVEL UP"
+cheat1_handler = "0"
+cheat1_code = "801DA500#869F;801DA502#0001"
+
+cheat2_desc = "同伴LEVEL UP"
+cheat2_handler = "0"
+cheat2_code = "801DA570#869F;801DA572#0001;801DA5A8#869F;801DA5AA#0001;801DA5E0#869F;801DA5E2#0001;801DA538#869F;801DA53A#0001"
+
+cheats = 3

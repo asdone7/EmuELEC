@@ -1,0 +1,41 @@
+cheat0_desc = "无限金钱"
+cheat0_handler = "0"
+cheat0_code = "80011368#423F;8001136A#000F"
+
+cheat1_desc = "银行里大量金钱"
+cheat1_handler = "0"
+cheat1_code = "8001136C#967F;8001136E#0098"
+
+cheat2_desc = "BAG内全道具、全装备"
+cheat2_handler = "0"
+cheat2_code = "E2040004#00000001;80010424#0001;E2040004#00000000;80010426#0062"
+
+cheat3_desc = "游戏高速化"
+cheat3_handler = "0"
+cheat3_code = "D00967E0#FFE9;800967E0#0001"
+
+cheat4_desc = "游戏时间为0"
+cheat4_handler = "0"
+cheat4_code = "8001003C#0000;3001003E#0000"
+
+cheat5_desc = "高经验值"
+cheat5_handler = "0"
+cheat5_code = "80010C98#FFFF;30010C9A#00FF"
+
+cheat6_desc = "HP、MP最大值"
+cheat6_handler = "0"
+cheat6_code = "80010CA4#03E7;80010CA6#3E7E;80010CA8#F3E7"
+
+cheat7_desc = "各能力超强"
+cheat7_handler = "0"
+cheat7_code = "B0030002#00000000,80010CAA#FFFF"
+
+cheat8_desc = "职业"
+cheat8_handler = "0"
+cheat8_code = "B0070001#00000000,30010CBA#00FF"
+
+cheat9_desc = "全技能"
+cheat9_handler = "0"
+cheat9_code = "B00D0002#00000000,80010D30#FFFF"
+
+cheats = 10

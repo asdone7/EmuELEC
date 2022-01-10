@@ -1,0 +1,57 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "800CA28C#967F;800CA28E#0098"
+
+cheat1_desc = "敌人无法行动"
+cheat1_handler = "0"
+cheat1_code = "300E66AD#0000"
+
+cheat2_desc = "我方马上行动"
+cheat2_handler = "0"
+cheat2_code = "300E66AC#0063"
+
+cheat3_desc = "魔法只要学一次就能学全"
+cheat3_handler = "0"
+cheat3_code = "D00431C4#1825;800431C4#00FF;D00431C6#0062;800431C4#3403"
+
+cheat4_desc = "HP"
+cheat4_handler = "0"
+cheat4_code = "300C8560#0063"
+
+cheat5_desc = "MP"
+cheat5_handler = "0"
+cheat5_code = "300C8561#0063"
+
+cheat6_desc = "AT"
+cheat6_handler = "0"
+cheat6_code = "300C8562#0063"
+
+cheat7_desc = "DF"
+cheat7_handler = "0"
+cheat7_code = "300C8563#0063"
+
+cheat8_desc = "AG"
+cheat8_handler = "0"
+cheat8_code = "300C8564#0063"
+
+cheat9_desc = "MR"
+cheat9_handler = "0"
+cheat9_code = "300C8565#0063"
+
+cheat10_desc = "MV"
+cheat10_handler = "0"
+cheat10_code = "300C8566#0063"
+
+cheat11_desc = "CP"
+cheat11_handler = "0"
+cheat11_code = "300C8567#0063"
+
+cheat12_desc = "魔法"
+cheat12_handler = "0"
+cheat12_code = "300C856C#00FF"
+
+cheat13_desc = "必杀技"
+cheat13_handler = "0"
+cheat13_code = "800CA290#FFFF;800CA292#00FF"
+
+cheats = 14

@@ -1,0 +1,9 @@
+cheat0_desc = "开机码"
+cheat0_handler = "0"
+cheat0_code = "D006CA82#1040,8006CA82#1000"
+
+cheat1_desc = "能源不减"
+cheat1_handler = "0"
+cheat1_code = "3005D090#001C"
+
+cheats = 2

@@ -1,0 +1,61 @@
+cheat0_desc = "~1P血不减&友情Power~"
+cheat0_handler = "0"
+cheat0_code = "801EFA02#00C8;801EFC18#0964"
+
+cheat1_desc = "~2P血不减&友情Power~"
+cheat1_handler = "0"
+cheat1_code = "801EFE02#00C8;801F0018#0964"
+
+cheat2_desc = "*电脑一击死*"
+cheat2_handler = "0"
+cheat2_code = "801EFE02#0000"
+
+cheat3_desc = "*学科测验只要一次就通过*"
+cheat3_handler = "0"
+cheat3_code = "801F1F14#0A00"
+
+cheat4_desc = "完结模式(问题的那个)"
+cheat4_handler = "0"
+cheat4_code = "801F65D0#00FF;801F65D4#00FF;801F65D8#FFFF;801F65DA#FFFF;801F65DC#FFFF;301F65DE#00FF"
+
+cheat5_desc = "All secret character :"
+cheat5_handler = "0"
+cheat5_code = "801F65D0#00FF;801F65D4#00FF;801F65D8#00FF;801F65DA#00FF;801F65DC#00FF;801F65DE#00FF"
+
+cheat6_desc = "All Statue Max :"
+cheat6_handler = "0"
+cheat6_code = "801f181e#0200;801f1820#0200;801f1824#0200;801f1826#0200;801f182a#0200;801f182c#0200;801f1830#0200;801f1832#0200;801f1836#0200;801f1838#0200;801f183c#0200;801f183e#0200;801f1842#0200;801f1848#0200"
+
+cheat7_desc = "All schoolmates are Very friendly:"
+cheat7_handler = "0"
+cheat7_code = "801f18a8#1f1f;801f18aa#1f1f;801f18ac#1f1f;801f18ae#1f1f;801f18b0#1f1f;801f18b2#1f1f;801f18b4#1f1f;801f18b6#1f1f;801f18b8#1f1f"
+
+cheat8_desc = "时间为0"
+cheat8_handler = "0"
+cheat8_code = "801F1F54#0000"
+
+cheat9_desc = "PK战根性不减"
+cheat9_handler = "0"
+cheat9_code = "801EFC18#0300"
+
+cheat10_desc = "爆烈射门游戏超高"
+cheat10_handler = "0"
+cheat10_code = "801F1F5C#270F"
+
+cheat11_desc = "友好度MAX"
+cheat11_handler = "0"
+cheat11_code = "B0120001#00000000;301F18A8#0064"
+
+cheat12_desc = "训练之後各能力值"
+cheat12_handler = "0"
+cheat12_code = "B0100002#00000000;801F181E#03E7"
+
+cheat13_desc = "1P HP"
+cheat13_handler = "0"
+cheat13_code = "801EFA02#00C8"
+
+cheat14_desc = "MAX"
+cheat14_handler = "0"
+cheat14_code = "801EFC18#0900"
+
+cheats = 15

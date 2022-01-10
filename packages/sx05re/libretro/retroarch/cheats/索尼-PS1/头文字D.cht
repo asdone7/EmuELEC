@@ -1,0 +1,21 @@
+cheat0_desc = "时间不加可先走"
+cheat0_handler = "0"
+cheat0_code = "80193E6C#0119"
+
+cheat1_desc = "按选择后超加速"
+cheat1_handler = "0"
+cheat1_code = "D00BE6BA#FFFE;80193F52#0100"
+
+cheat2_desc = "可用所有车种"
+cheat2_handler = "0"
+cheat2_code = "B0090002#0000;80010AEC#FFFF"
+
+cheat3_desc = "所有车种"
+cheat3_handler = "0"
+cheat3_code = "80010AEC#FFFF;80010AEE#FFFF;80010AF0#FFFF;80010AF2#FFFF;80010AF4#FFFF;80010AF6#FFFF;80010AF8#FFFF;80010AFA#FFFF;80010AFC#FFFF"
+
+cheat4_desc = "练习模式全过及可选D CHECK模式"
+cheat4_handler = "0"
+cheat4_code = "80010B00#FFFF;30010B02#00FF;80010B08#FFFF;30010B0A#00FF;80010B10#FFFF;30010B12#00FF"
+
+cheats = 5

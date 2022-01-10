@@ -1,0 +1,33 @@
+cheat0_desc = "第一人"
+cheat0_handler = "0"
+cheat0_code = "8010FB26#0064;8010FB28#008C;8010FB2A#03E8"
+
+cheat1_desc = "第二人"
+cheat1_handler = "0"
+cheat1_code = "8010FB30#0064;8010FB32#008C;8010FB34#03E8"
+
+cheat2_desc = "第三人"
+cheat2_handler = "0"
+cheat2_code = "8010FB3A#0064;8010FB3C#008C;8010FB3E#03E8"
+
+cheat3_desc = "第四人"
+cheat3_handler = "0"
+cheat3_code = "8010FB44#0064;8010FB46#008C;8010FB46#03E8"
+
+cheat4_desc = "第五人"
+cheat4_handler = "0"
+cheat4_code = "8010FB4E#0064;8010FB50#008C;8010Fb52#03E8"
+
+cheat5_desc = "兵 x 1000"
+cheat5_handler = "0"
+cheat5_code = "D00480A0#0004;800480A0#0000"
+
+cheat6_desc = "无限攻击"
+cheat6_handler = "0"
+cheat6_code = "D004E764#0001;8004E764#0000"
+
+cheat7_desc = "无限探索"
+cheat7_handler = "0"
+cheat7_code = "D004B7D0#0001;8004B7D0#0000"
+
+cheats = 8

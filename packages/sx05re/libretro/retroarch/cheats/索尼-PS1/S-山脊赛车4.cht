@@ -1,0 +1,17 @@
+cheat0_desc = "全车及全赛道及隐藏选项"
+cheat0_handler = "0"
+cheat0_code = "B01F0002#0000,800F3710#FFFF;800F374E#00FF;800F370C#FFFF;300F3754#0001;900F3758#01010101"
+
+cheat1_desc = "只按R2速度超快"
+cheat1_handler = "0"
+cheat1_code = "D00F381A#0002,800ABF76#03E7"
+
+cheat2_desc = "拥有全车系"
+cheat2_handler = "0"
+cheat2_code = "B0200002#00000000,800F3710#FFFF"
+
+cheat3_desc = "使用所有车子(第一种板本)"
+cheat3_handler = "0"
+cheat3_code = "800822a4#0001;800822b0#0001"
+
+cheats = 4

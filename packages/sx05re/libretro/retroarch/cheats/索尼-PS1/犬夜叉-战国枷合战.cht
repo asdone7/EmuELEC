@@ -1,0 +1,113 @@
+cheat0_desc = "P1 人物选择犬夜叉"
+cheat0_handler = "0"
+cheat0_code = "300AA356#0;300AA282#0"
+
+cheat1_desc = "P1 人物选择かごめ"
+cheat1_handler = "0"
+cheat1_code = "300AA356#1;300AA282#1"
+
+cheat2_desc = "P1 人物选择弥勒"
+cheat2_handler = "0"
+cheat2_code = "300AA356#2;300AA282#2"
+
+cheat3_desc = "P1 人物选择珊瑚"
+cheat3_handler = "0"
+cheat3_code = "300AA356#3;300AA282#3"
+
+cheat4_desc = "P1 人物选择七宝"
+cheat4_handler = "0"
+cheat4_code = "300AA356#4;300AA282#4"
+
+cheat5_desc = "P1 人物选择桔梗"
+cheat5_handler = "0"
+cheat5_code = "300AA356#5;300AA282#5"
+
+cheat6_desc = "P1 人物选择钢牙"
+cheat6_handler = "0"
+cheat6_code = "300AA356#6;300AA282#6"
+
+cheat7_desc = "P1 人物选择杀生丸"
+cheat7_handler = "0"
+cheat7_code = "300AA356#7;300AA282#7"
+
+cheat8_desc = "P1 人物选择神乐"
+cheat8_handler = "0"
+cheat8_code = "300AA356#8;300AA282#8"
+
+cheat9_desc = "P1 人物选择奈落"
+cheat9_handler = "0"
+cheat9_code = "300AA356#9;300AA282#9"
+
+cheat10_desc = "P1 人物选择刀刀斋"
+cheat10_handler = "0"
+cheat10_code = "300AA356#A;300AA282#A"
+
+cheat11_desc = "P1 人物选择犬夜叉(变身)"
+cheat11_handler = "0"
+cheat11_code = "300AA356#0;300AA282#B"
+
+cheat12_desc = "P1 体力全满*"
+cheat12_handler = "0"
+cheat12_code = "300AA295#64"
+
+cheat13_desc = "P1 能量全满"
+cheat13_handler = "0"
+cheat13_code = "300AA299#64"
+
+cheat14_desc = "P2 人物选择犬夜叉"
+cheat14_handler = "0"
+cheat14_code = "300AA2DA#0"
+
+cheat15_desc = "P2 人物选择かごめ"
+cheat15_handler = "0"
+cheat15_code = "300AA2DA#1"
+
+cheat16_desc = "P2 人物选择弥勒"
+cheat16_handler = "0"
+cheat16_code = "300AA2DA#2"
+
+cheat17_desc = "P2 人物选择珊瑚"
+cheat17_handler = "0"
+cheat17_code = "300AA2DA#3"
+
+cheat18_desc = "P2 人物选择七宝"
+cheat18_handler = "0"
+cheat18_code = "300AA2DA#4"
+
+cheat19_desc = "P2 人物选择桔梗"
+cheat19_handler = "0"
+cheat19_code = "300AA2DA#5"
+
+cheat20_desc = "P2 人物选择钢牙"
+cheat20_handler = "0"
+cheat20_code = "300AA2DA#6"
+
+cheat21_desc = "P2 人物选择杀生丸"
+cheat21_handler = "0"
+cheat21_code = "300AA2DA#7"
+
+cheat22_desc = "P2 人物选择神乐"
+cheat22_handler = "0"
+cheat22_code = "300AA2DA#8"
+
+cheat23_desc = "P2 人物选择奈落"
+cheat23_handler = "0"
+cheat23_code = "300AA2DA#9"
+
+cheat24_desc = "P2 人物选择刀刀斋"
+cheat24_handler = "0"
+cheat24_code = "300AA2DA#A"
+
+cheat25_desc = "P2 人物选择犬夜叉(变身)"
+cheat25_handler = "0"
+cheat25_code = "300AA2DA#B"
+
+cheat26_desc = "P1 体力全满*"
+cheat26_handler = "0"
+cheat26_code = "300AA2ED#64"
+
+cheat27_desc = "P1 能量全满"
+cheat27_handler = "0"
+cheat27_code = "300AA2F1#64"
+
+cheats = 28

@@ -1,0 +1,37 @@
+cheat0_desc = "Maximum Money Cheat"
+cheat0_handler = "0"
+cheat0_code = "800833A8#E0FF;800833AA#05F5"
+
+cheat1_desc = "Infinite Tokens Cheat"
+cheat1_handler = "0"
+cheat1_code = "800833AC#FFFF"
+
+cheat2_desc = "Maximum Tokens Cheat"
+cheat2_handler = "0"
+cheat2_code = "800833AC#967F;800833AE#0098"
+
+cheat3_desc = "All Usable & Equipable Items Cheat"
+cheat3_handler = "0"
+cheat3_code = "5000FF01#0000;300833B1#0063;5000FF01#0000;300834B0#0063;50003701#0000;300835AF#0063"
+
+cheat4_desc = "All Persona Arcanums Cheat(Note: You must have Gameshark version 2.2 or better to use this cheat code. )"
+cheat4_handler = "0"
+cheat4_code = "50000B02#0000;8008392C#FFFF"
+
+cheat5_desc = "All Persona Arcanums Cheat"
+cheat5_handler = "0"
+cheat5_code = "8008392C#FFFF;8008392E#FFFF;80083930#FFFF;80083932#FFFF;80083934#FFFF;80083936#FFFF;80083938#FFFF;8008393A#FFFF;8008393C#FFFF;8008393E#FFFF ;80083940#FFFF"
+
+cheat6_desc = "All Tarot Cards Cheat"
+cheat6_handler = "0"
+cheat6_code = "50001602#0000;800835E6#03E7"
+
+cheat7_desc = "All Material Cards Cheat"
+cheat7_handler = "0"
+cheat7_code = "50002002#0000;80083624#03E7"
+
+cheat8_desc = "Level 99 Cheat"
+cheat8_handler = "0"
+cheat8_code = "30084699#0063"
+
+cheats = 9

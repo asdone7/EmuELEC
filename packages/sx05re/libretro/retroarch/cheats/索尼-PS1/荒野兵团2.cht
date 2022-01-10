@@ -1,0 +1,145 @@
+cheat0_desc = "1 Fight For Level Up"
+cheat0_handler = "0"
+cheat0_code = "800FB690#FFFF"
+
+cheat1_desc = "1 Fight For Max money"
+cheat1_handler = "0"
+cheat1_code = "800FB68C#FFFF"
+
+cheat2_desc = "Infinite Money"
+cheat2_handler = "0"
+cheat2_code = "8011AF5C#967F;8011AF5E#0098"
+
+cheat3_desc = "Main Charactet Infinite HP"
+cheat3_handler = "0"
+cheat3_code = "8011A79C#270F"
+
+cheat4_desc = "Max HP"
+cheat4_handler = "0"
+cheat4_code = "8011A7A0#270F"
+
+cheat5_desc = "Infinite FP"
+cheat5_handler = "0"
+cheat5_code = "8011A7AA#03F0"
+
+cheat6_desc = "Max FP"
+cheat6_handler = "0"
+cheat6_code = "8011A7AC#03F0"
+
+cheat7_desc = "Max STR"
+cheat7_handler = "0"
+cheat7_code = "8011A7AE#03E7;8011A7B0#03E7"
+
+cheat8_desc = "Max VIT"
+cheat8_handler = "0"
+cheat8_code = "8011A7B6#03E7;8011A7B8#03E7"
+
+cheat9_desc = "Max SOR"
+cheat9_handler = "0"
+cheat9_code = "8011A7BE#03E7;8011A7C0#03E7"
+
+cheat10_desc = "Max RES"
+cheat10_handler = "0"
+cheat10_code = "8011A7C6#03E7;8011A7C8#03E7"
+
+cheat11_desc = "LCK Always BEST"
+cheat11_handler = "0"
+cheat11_code = "8011A7EE#0004"
+
+cheat12_desc = "Max EXP"
+cheat12_handler = "0"
+cheat12_code = "8011A810#967F;8011A812#0098"
+
+cheat13_desc = "2nd Character Infinite HP"
+cheat13_handler = "0"
+cheat13_code = "8011A818#270F"
+
+cheat14_desc = "Max HP"
+cheat14_handler = "0"
+cheat14_code = "8011A81C#270F"
+
+cheat15_desc = "Infinite FP"
+cheat15_handler = "0"
+cheat15_code = "8011A826#03F0"
+
+cheat16_desc = "Max FP"
+cheat16_handler = "0"
+cheat16_code = "8011A828#03F0"
+
+cheat17_desc = "Max VIT"
+cheat17_handler = "0"
+cheat17_code = "8011A832#03E7;8011A834#03E7"
+
+cheat18_desc = "Max SOR"
+cheat18_handler = "0"
+cheat18_code = "8011A83A#03E7;8011A83C#03E7"
+
+cheat19_desc = "Max RES"
+cheat19_handler = "0"
+cheat19_code = "8011A842#03E7;8011A844#03E7"
+
+cheat20_desc = "LCK Always BEST"
+cheat20_handler = "0"
+cheat20_code = "8011A86A#0004"
+
+cheat21_desc = "Max EXP"
+cheat21_handler = "0"
+cheat21_code = "8011A88C#967F;8011A88E#0098"
+
+cheat22_desc = "Character 3 Infinite HP"
+cheat22_handler = "0"
+cheat22_code = "8011A894#270F"
+
+cheat23_desc = "Max HP"
+cheat23_handler = "0"
+cheat23_code = "8011A898#270F"
+
+cheat24_desc = "Infinite FP"
+cheat24_handler = "0"
+cheat24_code = "8011A8A2#03F0"
+
+cheat25_desc = "Max FP"
+cheat25_handler = "0"
+cheat25_code = "8011A8A4#03F0"
+
+cheat26_desc = "Max STR"
+cheat26_handler = "0"
+cheat26_code = "8011A8A6#03E7;8011A8A8#03E7"
+
+cheat27_desc = "Max VIT"
+cheat27_handler = "0"
+cheat27_code = "8011A8AE#03E7;8011A8B0#03E7"
+
+cheat28_desc = "Max SOR"
+cheat28_handler = "0"
+cheat28_code = "8011A8B6#03E7;8011A8B8#03E7"
+
+cheat29_desc = "Max RES"
+cheat29_handler = "0"
+cheat29_code = "8011A8BE#03E7;8011A8C0#03E7"
+
+cheat30_desc = "LCK Always BEST"
+cheat30_handler = "0"
+cheat30_code = "8011A8E6#0004"
+
+cheat31_desc = "Max EXP"
+cheat31_handler = "0"
+cheat31_code = "8011A908#967F;8011A90A#0098"
+
+cheat32_desc = "All Item"
+cheat32_handler = "0"
+cheat32_code = "B0FF0002#00000001,3011AC58#0000"
+
+cheat33_desc = "Infinite Item"
+cheat33_handler = "0"
+cheat33_code = "B0FF0002#00000000,3011AC59#00C6"
+
+cheat34_desc = "迭走羅拉！ 迭走可轉灣！"
+cheat34_handler = "0"
+cheat34_code = "D004A7AC#0001;8004A7AC#0000"
+
+cheat35_desc = "自動對焦! L1"
+cheat35_handler = "0"
+cheat35_code = "E004C03C#00A60015;9004C03C#0C002C40;9000B100#3C04800F;9000B104#2402F000;9000B108#94845CA4;9000B110#00821024;9000B118#14400015;9000B11C#24020001;9000B124#00822024;9000B12C#14820010;9000B130#86440000;9000B138#3084000E;9000B140#24020010;9000B144#00442022;9000B14C#866200A6;9000B150#00042200;9000B154#3042F1FF;9000B158#30840E00;9000B160#00822025;9000B168#A66400A6;9000B170#866200A6;9000B174#03E00008"
+
+cheats = 36

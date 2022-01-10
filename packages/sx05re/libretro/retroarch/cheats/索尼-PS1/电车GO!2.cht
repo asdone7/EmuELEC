@@ -1,0 +1,21 @@
+cheat0_desc = "时间不减"
+cheat0_handler = "0"
+cheat0_code = "8005D984#03E7"
+
+cheat1_desc = "全照片"
+cheat1_handler = "0"
+cheat1_code = "8005D524#FFFF;8005D526#FFFF"
+
+cheat2_desc = "全MOVIE"
+cheat2_handler = "0"
+cheat2_code = "8005D528#FFFF;8005D52A#FFFF"
+
+cheat3_desc = "Total running distance MAX"
+cheat3_handler = "0"
+cheat3_code = "8005D53C#C9FF;8005D53E#3B9A"
+
+cheat4_desc = "All vehicle arcade"
+cheat4_handler = "0"
+cheat4_code = "8005D52C#FFFF;3005D52E#000F"
+
+cheats = 5

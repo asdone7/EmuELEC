@@ -1,0 +1,145 @@
+cheat0_desc = "Infinity Money"
+cheat0_handler = "0"
+cheat0_code = "8002F860#967F;8002F862#0098"
+
+cheat1_desc = "All Sommon"
+cheat1_handler = "0"
+cheat1_code = "3002FA69#00FF;3002FA6A#00FF;3002FA6B#00FF;3002FA6C#00FF"
+
+cheat2_desc = "All Magic For Tena"
+cheat2_handler = "0"
+cheat2_code = "B0180001#00000000,3002FA6E#00FF;B0150001#00000000,3002FA86#00FF;B0090001#00000000,3002FA9B#00FF"
+
+cheat3_desc = "Max EXP All Characters"
+cheat3_handler = "0"
+cheat3_code = "B00D0025#00000000,3002F611#007F;B00D0025#00000000,3002F612#0096;B00D0025#00000000,3002F613#0098"
+
+cheat4_desc = "Max Status All Characters"
+cheat4_handler = "0"
+cheat4_code = "B00D0025#00000000,3002F61A#0080;B00D0025#00000000,3002F61B#0080;B00D0025#00000000,3002F61C#0080;B00D0025#00000000,3002F61D#0080"
+
+cheat5_desc = "Infinity Item"
+cheat5_handler = "0"
+cheat5_code = "B1000001#00000000,3002F969#000A"
+
+cheat6_desc = "All Item"
+cheat6_handler = "0"
+cheat6_code = "B1000001#00000001,3002F869#0000"
+
+cheat7_desc = "金钱999999999"
+cheat7_handler = "0"
+cheat7_code = "8002F860#967F;3002F862#0098"
+
+cheat8_desc = "战斗中快速集气"
+cheat8_handler = "0"
+cheat8_code = "B0040001#00000000,30020022#00FF"
+
+cheat9_desc = "战斗中全员血不减按下R1键回复"
+cheat9_handler = "0"
+cheat9_code = "D0007572#F7FF"
+
+cheat10_desc = "目前值"
+cheat10_handler = "0"
+cheat10_code = "B0040002#00000000,80021BF4#270F;B0040002#00000000,80020E78#270F"
+
+cheat11_desc = "最大值"
+cheat11_handler = "0"
+cheat11_code = "B0040002#00000000,80021C1C#270F;B0040002#00000000,80020E80#270F"
+
+cheat12_desc = "战斗中魔法值不减第一位"
+cheat12_handler = "0"
+cheat12_code = "80020E88#03E7;80020E90#03E7"
+
+cheat13_desc = "第二位"
+cheat13_handler = "0"
+cheat13_code = "80020E8A#03E7;80020E92#03E7"
+
+cheat14_desc = "第三位"
+cheat14_handler = "0"
+cheat14_code = "80020E8E#03E7;80020E96#03E7"
+
+cheat15_desc = "第四位"
+cheat15_handler = "0"
+cheat15_code = "80020E94#03E7;80021C0C#03E7"
+
+cheat16_desc = "战斗中状态安定 蒂那"
+cheat16_handler = "0"
+cheat16_code = "8002F614#0000"
+
+cheat17_desc = "爱德佳"
+cheat17_handler = "0"
+cheat17_code = "8002F6A8#0000"
+
+cheat18_desc = "遇不到敌人(草原无效)"
+cheat18_handler = "0"
+cheat18_code = "8002E056#0000;8002FF6E#0000"
+
+cheat19_desc = "按住R2键即遇敌"
+cheat19_handler = "0"
+cheat19_code = "D0007572#FDFF,8002E056#0100"
+
+cheat20_desc = "战斗後经验值大增xx"
+cheat20_handler = "0"
+cheat20_code = "30020F35#00XX;30020F36#00XX;30020F37#00XX"
+
+cheat21_desc = "战斗後金钱大增xx"
+cheat21_handler = "0"
+cheat21_code = "80020F38#XXXX"
+
+cheat22_desc = "随时记忆一"
+cheat22_handler = "0"
+cheat22_code = "D002E200#0000;8002E200#8000"
+
+cheat23_desc = "随时记忆二"
+cheat23_handler = "0"
+cheat23_code = "80021622#FFFF;8002E01E#0078;8002E0A6#9698;8002E0AA#9692;8002E31C#5F78;8002E33C#6F78;8002E78E#0201;8002FEB6#8068"
+
+cheat24_desc = "时间为零"
+cheat24_handler = "0"
+cheat24_code = "8002E21A#0000;8002E21C#0000"
+
+cheat25_desc = "凯炎{剑术}"
+cheat25_handler = "0"
+cheat25_code = "3002FCF7#00FF"
+
+cheat26_desc = "马修{武斗技}"
+cheat26_handler = "0"
+cheat26_code = "3002FD28#00FF"
+
+cheat27_desc = "史特拉{青魔法}"
+cheat27_handler = "0"
+cheat27_code = "B0040001#00000000,3002FD29#00FF"
+
+cheat28_desc = "高兀{野蛮技}"
+cheat28_handler = "0"
+cheat28_code = "B01E0001#00000000,3002FD2D#00FF"
+
+cheat29_desc = "全道具"
+cheat29_handler = "0"
+cheat29_code = "B1000001#00000001,3002F869#0000;B1000001#00000000,3002F969#005A"
+
+cheat30_desc = "全{配件}"
+cheat30_handler = "0"
+cheat30_code = "B0360001#00000001,3002F919#00B0;B0360001#00000000,3002FA19#005A"
+
+cheat31_desc = "全{一般用品}"
+cheat31_handler = "0"
+cheat31_code = "B0180001#00000001,3032F94F#00E7;B0180001#00000000,3002FA31#005A"
+
+cheat32_desc = "全召唤兽"
+cheat32_handler = "0"
+cheat32_code = "B0040001#00000000,3002FA69#00FF;3002FA6A#00FF;3002FA6B#00FF;3002FA6C#00FF"
+
+cheat33_desc = "全魔法"
+cheat33_handler = "0"
+cheat33_code = "B0180001#00000000;3002FA6E#00FF;B0150001#00000000;3002FA86#00FF;B0090001#00000000;3002FA9B#00FF"
+
+cheat34_desc = "全体经验值最高"
+cheat34_handler = "0"
+cheat34_code = "B00D0025#00000000;3002F611#007F;B00D0025#00000000;3002F612#0096;B00D0025#00000000;3002F613#0098"
+
+cheat35_desc = "全体能力最大"
+cheat35_handler = "0"
+cheat35_code = "B00D0025#00000000,3002F61A#0080;B00D0025#00000000,3002F61B#0080;B00D0025#00000000,3002F61C#0080;B00D0025#00000000,3002F61D#0080"
+
+cheats = 36

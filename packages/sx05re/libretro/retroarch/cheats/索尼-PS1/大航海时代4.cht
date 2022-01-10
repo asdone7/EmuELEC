@@ -1,0 +1,33 @@
+cheat0_desc = "卖出一個道具后金钱最大"
+cheat0_handler = "0"
+cheat0_code = "D0045A90#0003,30045A92#0000"
+
+cheat1_desc = "金钱不减"
+cheat1_handler = "0"
+cheat1_code = "D0045AD2#AC82,80045AD2#2400"
+
+cheat2_desc = "食物，水不减"
+cheat2_handler = "0"
+cheat2_code = "D006813A#A443,8006813A#2400"
+
+cheat3_desc = "船夫不减"
+cheat3_handler = "0"
+cheat3_code = "D005FFEE#A611,8005FFEE#2400"
+
+cheat4_desc = "全角色能力最高(包括非我方角色)"
+cheat4_handler = "0"
+cheat4_code = "B00D00020#00000000,801D1324#FFFF;B00D00020#00000000,801D1326#FFFF;B00D00020#00000000,801D1328#FFFF"
+
+cheat5_desc = "体调状况最佳"
+cheat5_handler = "0"
+cheat5_code = "B00D00020#00000000,801D1322#0000"
+
+cheat6_desc = "全部道具（无地图、霸者之证）"
+cheat6_handler = "0"
+cheat6_code = "B07F0014#00000000,301D0471#000C"
+
+cheat7_desc = "有地图，霸者之证"
+cheat7_handler = "0"
+cheat7_code = "B0BC0014#00000000,301D0471#000C"
+
+cheats = 8

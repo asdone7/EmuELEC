@@ -1,0 +1,89 @@
+cheat0_desc = "Hana Assult Rifle 不用装弹"
+cheat0_handler = "0"
+cheat0_code = "8008BB54#0063"
+
+cheat1_desc = "无限Assult Rifle子弹"
+cheat1_handler = "0"
+cheat1_code = "8008BC0C#03E7"
+
+cheat2_desc = "Shotgun不用装弹"
+cheat2_handler = "0"
+cheat2_code = "8008BB64#0063"
+
+cheat3_desc = "无限Shotgun子弹"
+cheat3_handler = "0"
+cheat3_code = "8008BC0E#03E7"
+
+cheat4_desc = "无限Uzi子弹"
+cheat4_handler = "0"
+cheat4_code = "8008BC0A#03E7"
+
+cheat5_desc = "Uzi不用装弹Never Reload"
+cheat5_handler = "0"
+cheat5_code = "8008BB44#0063"
+
+cheat6_desc = ".90 Pistol不用装弹"
+cheat6_handler = "0"
+cheat6_code = "8008BB3C#0031;8008BB3E#0031"
+
+cheat7_desc = "Rain Shotgun无限子弹"
+cheat7_handler = "0"
+cheat7_code = "8008Bf0R#03E7"
+
+cheat8_desc = "Shotgun不用装弹"
+cheat8_handler = "0"
+cheat8_code = "8008BE64#0063"
+
+cheat9_desc = "Uzi无限子弹"
+cheat9_handler = "0"
+cheat9_code = "8008BF0A#03E7"
+
+cheat10_desc = "Uzi不用装弹"
+cheat10_handler = "0"
+cheat10_code = "8008BE44#0063"
+
+cheat11_desc = "Assult Rifle无限子弹"
+cheat11_handler = "0"
+cheat11_code = "8008BF0C#03E7"
+
+cheat12_desc = "Assult Rifle不用装弹"
+cheat12_handler = "0"
+cheat12_code = "8008BF08#03E7"
+
+cheat13_desc = ".90 Pistol无限子弹"
+cheat13_handler = "0"
+cheat13_code = "801f1DD0#0100"
+
+cheat14_desc = ".90 Pistol不用装弹"
+cheat14_handler = "0"
+cheat14_code = "8008BE3C#0031;8008BE3E#0031"
+
+cheat15_desc = "Deke GL 150无限子弹"
+cheat15_handler = "0"
+cheat15_code = "8008BE12#03E7"
+
+cheat16_desc = "GL 150不用装弹"
+cheat16_handler = "0"
+cheat16_code = "8008BD8C#0063"
+
+cheat17_desc = "Shotgun无限子弹"
+cheat17_handler = "0"
+cheat17_code = "8008BE0E#03E7"
+
+cheat18_desc = "Shotgun不用装弹"
+cheat18_handler = "0"
+cheat18_code = "8008BD64#0063"
+
+cheat19_desc = "Assult Rifle无限子弹"
+cheat19_handler = "0"
+cheat19_code = "8008BE0C#03E7"
+
+cheat20_desc = "Assult Rifle不用装弹"
+cheat20_handler = "0"
+cheat20_code = "8008BD54#0063"
+
+cheat21_desc = "Shot Pistol不用装弹"
+cheat21_handler = "0"
+cheat21_code = "8008BD4C#0031;8008BD4E#0031"
+
+cheats = 22

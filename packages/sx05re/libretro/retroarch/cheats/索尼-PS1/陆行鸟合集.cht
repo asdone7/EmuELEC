@@ -1,0 +1,9 @@
+cheat0_desc = "Inf Money"
+cheat0_handler = "0"
+cheat0_code = "80079080#967F;80079082#0098"
+
+cheat1_desc = "2 Speed up Par code"
+cheat1_handler = "0"
+cheat1_code = "D0036524#FFE9,80036524#0001"
+
+cheats = 2

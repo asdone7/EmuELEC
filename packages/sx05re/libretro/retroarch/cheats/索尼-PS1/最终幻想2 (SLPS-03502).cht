@@ -1,0 +1,229 @@
+cheat0_desc = "金钱MAX"
+cheat0_handler = "0"
+cheat0_code = "800AFA7C#E0FF;800AFA7E#05F5"
+
+cheat1_desc = "游戏时间为0"
+cheat1_handler = "0"
+cheat1_code = "800AFA80#0000"
+
+cheat2_desc = "走路步数最小"
+cheat2_handler = "0"
+cheat2_code = "80AFA78#0000"
+
+cheat3_desc = "走路步数最大"
+cheat3_handler = "0"
+cheat3_code = "80AFA78#FFFF"
+
+cheat4_desc = "不遇敌"
+cheat4_handler = "0"
+cheat4_code = "300B017F#0000"
+
+cheat5_desc = "全部关键语(可能影响剧情)"
+cheat5_handler = "0"
+cheat5_code = "B00F0001#00000001,300AFC08#0001"
+
+cheat6_desc = "附录怪物图鉴100%"
+cheat6_handler = "0"
+cheat6_code = "B07F0002#00000000,800AFC5A#03E7"
+
+cheat7_desc = "附录物品收集率100%"
+cheat7_handler = "0"
+cheat7_code = "B00F0002#00000000,800AFBA8#0000"
+
+cheat8_desc = "附录插图馆100%"
+cheat8_handler = "0"
+cheat8_code = "300AFB2B#00FF;B07F0002#00000000,800AFC5A#03E7;B00F0002#00000000,800AFBA8#0000"
+
+cheat9_desc = "全物品第一部分"
+cheat9_handler = "0"
+cheat9_code = "B01E0001#00000001,300AFA89#0010;B01E0001#00000001,300AFAA8#0031"
+
+cheat10_desc = "全物品第二部分"
+cheat10_handler = "0"
+cheat10_code = "B03D0001#00000001,300AFA89#0050"
+
+cheat11_desc = "全物品第三部分"
+cheat11_handler = "0"
+cheat11_code = "B0310001#00000001,300AFA89#008E"
+
+cheat12_desc = "关键物戒指"
+cheat12_handler = "0"
+cheat12_code = "300AFA88#0001"
+
+cheat13_desc = "关键物独木舟"
+cheat13_handler = "0"
+cheat13_code = "300AFA88#0002"
+
+cheat14_desc = "关键物通行证"
+cheat14_handler = "0"
+cheat14_code = "300AFA88#0003"
+
+cheat15_desc = "关键物魔法秘银"
+cheat15_handler = "0"
+cheat15_code = "300AFA88#0004"
+
+cheat16_desc = "关键物雪上船"
+cheat16_handler = "0"
+cheat16_code = "300AFA88#0005"
+
+cheat17_desc = "关键物女神铃"
+cheat17_handler = "0"
+cheat17_code = "300AFA88#0006"
+
+cheat18_desc = "关键物超级火把"
+cheat18_handler = "0"
+cheat18_code = "300AFA88#0007"
+
+cheat19_desc = "关键物太阳火炎"
+cheat19_handler = "0"
+cheat19_code = "300AFA88#0008"
+
+cheat20_desc = "关键物龙骑坠饰"
+cheat20_handler = "0"
+cheat20_code = "300AFA88#0009"
+
+cheat21_desc = "关键物飞龙卵"
+cheat21_handler = "0"
+cheat21_code = "300AFA88#000A"
+
+cheat22_desc = "关键物白色假面"
+cheat22_handler = "0"
+cheat22_code = "300AFA88#000B"
+
+cheat23_desc = "关键物黑色假面"
+cheat23_handler = "0"
+cheat23_code = "300AFA88#000C"
+
+cheat24_desc = "关键物水晶杖"
+cheat24_handler = "0"
+cheat24_code = "300AFA88#000D"
+
+cheat25_desc = "关键物飞龙"
+cheat25_handler = "0"
+cheat25_code = "300AFA88#000E"
+
+cheat26_desc = "菲尼奥尼尔超强"
+cheat26_handler = "0"
+cheat26_code = "800AF892#270F;800AF894#270F;800AF896#03E7;800AF898#03E7;800AF89A#FFFF;800AF89C#FFFF;800AF89E#FFFF"
+
+cheat27_desc = "菲尼奥尼尔异常回复"
+cheat27_handler = "0"
+cheat27_code = "300AF881#0001"
+
+cheat28_desc = "菲尼奥尼尔武器熟练度全99级"
+cheat28_handler = "0"
+cheat28_code = "B0070002#00000000,800AF8CA#6300"
+
+cheat29_desc = "菲尼奥尼尔武器熟练度快速升"
+cheat29_handler = "0"
+cheat29_code = "B0070002#00000000,300AF8CA#0063"
+
+cheat30_desc = "菲尼奥尼尔魔法熟练度全99级"
+cheat30_handler = "0"
+cheat30_code = "B00F0002#00000000,800AF8DA#6300"
+
+cheat31_desc = "菲尼奥尼尔魔法熟练度快速升"
+cheat31_handler = "0"
+cheat31_code = "B00F0002#00000000,300AF8DA#0063"
+
+cheat32_desc = "玛利亚超强"
+cheat32_handler = "0"
+cheat32_code = "800AF910#270F;800AF912#270F;800AF914#03E7;800AF916#03E7;800AF918#FFFF;800AF91A#FFFF;800AF91C#FFFF"
+
+cheat33_desc = "玛利亚异常回复"
+cheat33_handler = "0"
+cheat33_code = "300AF8FF#0001"
+
+cheat34_desc = "玛利亚武器熟练度全99级"
+cheat34_handler = "0"
+cheat34_code = "B0070002#00000000,800AF948#6300"
+
+cheat35_desc = "玛利亚武器熟练度快速升"
+cheat35_handler = "0"
+cheat35_code = "B0070002#00000000,300AF948#0063"
+
+cheat36_desc = "玛利亚魔法熟练度全99级"
+cheat36_handler = "0"
+cheat36_code = "B00F0002#00000000,800AF958#6300"
+
+cheat37_desc = "玛利亚魔法熟练度快速升"
+cheat37_handler = "0"
+cheat37_code = "B00F0002#00000000,300AF958#0063"
+
+cheat38_desc = "盖超强"
+cheat38_handler = "0"
+cheat38_code = "800AF98E#270F;800AF990#270F;800AF992#03E7;800AF994#03E7;800AF996#FFFF;800AF998#FFFF;800AF99A#FFFF"
+
+cheat39_desc = "盖异常回复"
+cheat39_handler = "0"
+cheat39_code = "300AF97D#0001"
+
+cheat40_desc = "盖武器熟练度全99级"
+cheat40_handler = "0"
+cheat40_code = "B0070002#00000000,800AF9C6#6300"
+
+cheat41_desc = "盖武器熟练度快速升"
+cheat41_handler = "0"
+cheat41_code = "B0070002#00000000,300AF9C6#0063"
+
+cheat42_desc = "盖魔法熟练度全99级"
+cheat42_handler = "0"
+cheat42_code = "B00F0002#00000000,800AF9D6#6300"
+
+cheat43_desc = "盖魔法熟练度快速升"
+cheat43_handler = "0"
+cheat43_code = "B00F0002#00000000,300AF9D6#0063"
+
+cheat44_desc = "第4人能力"
+cheat44_handler = "0"
+cheat44_code = "800AFA0C#270F;800AFA0E#270F;800AFA10#03E7;800AFA12#03E7;B0100001#0000,300AFA44#0063;B0080002#0000,300AFA45#0010;800AFA14#6363;800AFA16#6363;800AFA18#6363"
+
+cheat45_desc = "第1人魔法等级最高99"
+cheat45_handler = "0"
+cheat45_code = "B0200001#0000,300AF8DA#0063"
+
+cheat46_desc = "第1人魔法等级最高16"
+cheat46_handler = "0"
+cheat46_code = "B0100002#0000,300AF8DB#0010"
+
+cheat47_desc = "第2人魔法等级最高99"
+cheat47_handler = "0"
+cheat47_code = "B0200001#0000,300AF958#0063"
+
+cheat48_desc = "第2人魔法等级最高16"
+cheat48_handler = "0"
+cheat48_code = "B0100002#0000,300AF959#0010"
+
+cheat49_desc = "第3人魔法等级最高99"
+cheat49_handler = "0"
+cheat49_code = "B0200001#0000,300AF9D6#0063"
+
+cheat50_desc = "第3人魔法等级最高16"
+cheat50_handler = "0"
+cheat50_code = "B0100002#0000,300AF9D7#0010"
+
+cheat51_desc = "第4人魔法等级最高99"
+cheat51_handler = "0"
+cheat51_code = "B0200001#0000,300AFA54#0063"
+
+cheat52_desc = "第4人魔法等级最高16"
+cheat52_handler = "0"
+cheat52_code = "B0100002#0000,300AFA55#0010"
+
+cheat53_desc = "全道具"
+cheat53_handler = "0"
+cheat53_code = "B00E0001#0001,300AFA88#0001;B01F0001#0001,300AFA96#0010"
+
+cheat54_desc = "全武器"
+cheat54_handler = "0"
+cheat54_code = "B03F0001#0001,300AFA88#0031"
+
+cheat55_desc = "全防具"
+cheat55_handler = "0"
+cheat55_code = "B0280001#0001,300AFA88#0070"
+
+cheat56_desc = "全魔法书"
+cheat56_handler = "0"
+cheat56_code = "B0280001#0001,300AFA88#0098"
+
+cheats = 57

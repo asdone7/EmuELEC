@@ -1,0 +1,9 @@
+cheat0_desc = "无限生命"
+cheat0_handler = "0"
+cheat0_code = "901E55B2#FFFF"
+
+cheat1_desc = "无限炸弹"
+cheat1_handler = "0"
+cheat1_code = "901E55CD#FFFF"
+
+cheats = 2

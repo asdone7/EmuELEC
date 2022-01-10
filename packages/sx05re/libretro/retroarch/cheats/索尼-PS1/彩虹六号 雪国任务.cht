@@ -1,0 +1,9 @@
+cheat0_desc = "手榴弹不减"
+cheat0_handler = "0"
+cheat0_code = "D00AA20C#FFFF;800AA20C#0000"
+
+cheat1_desc = "子弹不减"
+cheat1_handler = "0"
+cheat1_code = "D00A9C7C#FFFF;800A9C7C#0000;D00A9C82#A082;800A9C82#9082"
+
+cheats = 2

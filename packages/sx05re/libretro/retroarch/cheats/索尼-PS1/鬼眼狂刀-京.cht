@@ -1,0 +1,865 @@
+cheat0_desc = "游戏进度运行游戏后立即进入选人画面"
+cheat0_handler = "0"
+cheat0_code = "300CB174#1E"
+
+cheat1_desc = "游戏进度主菜单"
+cheat1_handler = "0"
+cheat1_code = "300CB174#15"
+
+cheat2_desc = "背景音乐菜单画面"
+cheat2_handler = "0"
+cheat2_code = "3006090C#00"
+
+cheat3_desc = "背景音乐鬼眼の狂"
+cheat3_handler = "0"
+cheat3_code = "3006090C#01"
+
+cheat4_desc = "背景音乐壬生京四郎"
+cheat4_handler = "0"
+cheat4_code = "3006090C#02"
+
+cheat5_desc = "背景音乐椎名中也"
+cheat5_handler = "0"
+cheat5_code = "3006090C#03"
+
+cheat6_desc = "背景音乐影法師の紅虎"
+cheat6_handler = "0"
+cheat6_code = "3006090C#04"
+
+cheat7_desc = "背景音乐真田幸村"
+cheat7_handler = "0"
+cheat7_code = "3006090C#05"
+
+cheat8_desc = "背景音乐猿飛"
+cheat8_handler = "0"
+cheat8_code = "3006090C#06"
+
+cheat9_desc = "背景音乐蜘蛛遣の真尋"
+cheat9_handler = "0"
+cheat9_code = "3006090C#07"
+
+cheat10_desc = "背景音乐四聖天"
+cheat10_handler = "0"
+cheat10_code = "3006090C#08"
+
+cheat11_desc = "背景音乐四聖天梵天丸"
+cheat11_handler = "0"
+cheat11_code = "3006090C#09"
+
+cheat12_desc = "背景音乐德川家康"
+cheat12_handler = "0"
+cheat12_code = "3006090C#0A"
+
+cheat13_desc = "背景音乐織田信長"
+cheat13_handler = "0"
+cheat13_code = "3006090C#0B"
+
+cheat14_desc = "背景音乐軀"
+cheat14_handler = "0"
+cheat14_code = "3006090C#0C"
+
+cheat15_desc = "背景音乐鬼眼の狂对决壬生京四郎"
+cheat15_handler = "0"
+cheat15_code = "3006090C#0D"
+
+cheat16_desc = "背景音乐通关音乐"
+cheat16_handler = "0"
+cheat16_code = "3006090C#0E"
+
+cheat17_desc = "背景音乐最后一首"
+cheat17_handler = "0"
+cheat17_code = "3006090C#0F"
+
+cheat18_desc = "选关需先打一局才见效最终回"
+cheat18_handler = "0"
+cheat18_code = "3005BAF8#0B"
+
+cheat19_desc = "选关需先打一局才见效最终回序幕"
+cheat19_handler = "0"
+cheat19_code = "3005BAF8#0A"
+
+cheat20_desc = "选关需先打一局才见效織田信長"
+cheat20_handler = "0"
+cheat20_code = "3005BAF8#08"
+
+cheat21_desc = "选关需先打一局才见效德川家康"
+cheat21_handler = "0"
+cheat21_code = "3005BAF8#07"
+
+cheat22_desc = "结局选择对决壬生京四郎"
+cheat22_handler = "0"
+cheat22_code = "3005BAFA#01"
+
+cheat23_desc = "1P选人軀"
+cheat23_handler = "0"
+cheat23_code = "300608EC#0B"
+
+cheat24_desc = "1P选人織田信長"
+cheat24_handler = "0"
+cheat24_code = "300608EC#0A"
+
+cheat25_desc = "1P选人德川家康"
+cheat25_handler = "0"
+cheat25_code = "300608EC#09"
+
+cheat26_desc = "1P选人四聖天梵天丸"
+cheat26_handler = "0"
+cheat26_code = "300608EC#08"
+
+cheat27_desc = "1P选人四聖天"
+cheat27_handler = "0"
+cheat27_code = "300608EC#07"
+
+cheat28_desc = "1P选人蜘蛛遣の真尋"
+cheat28_handler = "0"
+cheat28_code = "300608EC#06"
+
+cheat29_desc = "1P选人猿飛"
+cheat29_handler = "0"
+cheat29_code = "300608EC#05"
+
+cheat30_desc = "1P选人真田幸村"
+cheat30_handler = "0"
+cheat30_code = "300608EC#04"
+
+cheat31_desc = "1P选人影法師の紅虎"
+cheat31_handler = "0"
+cheat31_code = "300608EC#03"
+
+cheat32_desc = "1P选人椎名中也"
+cheat32_handler = "0"
+cheat32_code = "300608EC#02"
+
+cheat33_desc = "1P选人壬生京四郎"
+cheat33_handler = "0"
+cheat33_code = "300608EC#01"
+
+cheat34_desc = "1P选人鬼眼の狂"
+cheat34_handler = "0"
+cheat34_code = "300608EC#00"
+
+cheat35_desc = "1P选人霧隱才藏"
+cheat35_handler = "0"
+cheat35_code = "300608EC#14"
+
+cheat36_desc = "1P选人蒙面人"
+cheat36_handler = "0"
+cheat36_code = "300608EC#13"
+
+cheat37_desc = "1P选人村正"
+cheat37_handler = "0"
+cheat37_code = "300608EC#12"
+
+cheat38_desc = "1P选人四聖天.女"
+cheat38_handler = "0"
+cheat38_code = "300608EC#11"
+
+cheat39_desc = "1P选人五曜星辰伶"
+cheat39_handler = "0"
+cheat39_code = "300608EC#10"
+
+cheat40_desc = "1P选人真達羅"
+cheat40_handler = "0"
+cheat40_code = "300608EC#0F"
+
+cheat41_desc = "1P选人出雲阿国"
+cheat41_handler = "0"
+cheat41_code = "300608EC#0E"
+
+cheat42_desc = "1P选人摩虎羅"
+cheat42_handler = "0"
+cheat42_code = "300608EC#0D"
+
+cheat43_desc = "1P选人白鴉"
+cheat43_handler = "0"
+cheat43_code = "300608EC#0C"
+
+cheat44_desc = "1P援助使用霧隱才藏"
+cheat44_handler = "0"
+cheat44_code = "300608F0#14"
+
+cheat45_desc = "1P援助使用蒙面人"
+cheat45_handler = "0"
+cheat45_code = "300608F0#13"
+
+cheat46_desc = "1P援助使用村正"
+cheat46_handler = "0"
+cheat46_code = "300608F0#12"
+
+cheat47_desc = "1P援助使用四聖天.女"
+cheat47_handler = "0"
+cheat47_code = "300608F0#11"
+
+cheat48_desc = "1P援助使用五曜星辰伶"
+cheat48_handler = "0"
+cheat48_code = "300608F0#10"
+
+cheat49_desc = "1P援助使用真達羅"
+cheat49_handler = "0"
+cheat49_code = "300608F0#0F"
+
+cheat50_desc = "1P援助使用出雲阿国"
+cheat50_handler = "0"
+cheat50_code = "300608F0#0E"
+
+cheat51_desc = "1P援助使用摩虎羅"
+cheat51_handler = "0"
+cheat51_code = "300608F0#0D"
+
+cheat52_desc = "1P援助使用白鴉"
+cheat52_handler = "0"
+cheat52_code = "300608F0#0C"
+
+cheat53_desc = "1P援助使用軀"
+cheat53_handler = "0"
+cheat53_code = "300608F0#0B"
+
+cheat54_desc = "1P援助使用織田信長"
+cheat54_handler = "0"
+cheat54_code = "300608F0#0A"
+
+cheat55_desc = "1P援助使用德川家康"
+cheat55_handler = "0"
+cheat55_code = "300608F0#09"
+
+cheat56_desc = "1P援助使用四聖天梵天丸"
+cheat56_handler = "0"
+cheat56_code = "300608F0#08"
+
+cheat57_desc = "1P援助使用四聖天"
+cheat57_handler = "0"
+cheat57_code = "300608F0#07"
+
+cheat58_desc = "1P援助使用蜘蛛遣の真尋"
+cheat58_handler = "0"
+cheat58_code = "300608F0#06"
+
+cheat59_desc = "1P援助使用猿飛"
+cheat59_handler = "0"
+cheat59_code = "300608F0#05"
+
+cheat60_desc = "1P援助使用真田幸村"
+cheat60_handler = "0"
+cheat60_code = "300608F0#04"
+
+cheat61_desc = "1P援助使用影法師の紅虎"
+cheat61_handler = "0"
+cheat61_code = "300608F0#03"
+
+cheat62_desc = "1P援助使用椎名中也"
+cheat62_handler = "0"
+cheat62_code = "300608F0#02"
+
+cheat63_desc = "1P援助使用壬生京四郎"
+cheat63_handler = "0"
+cheat63_code = "300608F0#01"
+
+cheat64_desc = "1P援助使用鬼眼の狂"
+cheat64_handler = "0"
+cheat64_code = "300608F0#00"
+
+cheat65_desc = "1P援助使用無援助"
+cheat65_handler = "0"
+cheat65_code = "300608F0#16"
+
+cheat66_desc = "2P选人軀"
+cheat66_handler = "0"
+cheat66_code = "300608EE#0B"
+
+cheat67_desc = "2P选人織田信長"
+cheat67_handler = "0"
+cheat67_code = "300608EE#0A"
+
+cheat68_desc = "2P选人德川家康"
+cheat68_handler = "0"
+cheat68_code = "300608EE#09"
+
+cheat69_desc = "2P选人四聖天梵天丸"
+cheat69_handler = "0"
+cheat69_code = "300608EE#08"
+
+cheat70_desc = "2P选人四聖天"
+cheat70_handler = "0"
+cheat70_code = "300608EE#07"
+
+cheat71_desc = "2P选人蜘蛛遣の真尋"
+cheat71_handler = "0"
+cheat71_code = "300608EE#06"
+
+cheat72_desc = "2P选人猿飛"
+cheat72_handler = "0"
+cheat72_code = "300608EE#05"
+
+cheat73_desc = "2P选人真田幸村"
+cheat73_handler = "0"
+cheat73_code = "300608EE#04"
+
+cheat74_desc = "2P选人影法師の紅虎"
+cheat74_handler = "0"
+cheat74_code = "300608EE#03"
+
+cheat75_desc = "2P选人椎名中也"
+cheat75_handler = "0"
+cheat75_code = "300608EE#02"
+
+cheat76_desc = "2P选人壬生京四郎"
+cheat76_handler = "0"
+cheat76_code = "300608EE#01"
+
+cheat77_desc = "2P选人鬼眼の狂"
+cheat77_handler = "0"
+cheat77_code = "300608EE#00"
+
+cheat78_desc = "2P选人霧隱才藏"
+cheat78_handler = "0"
+cheat78_code = "300608EE#14"
+
+cheat79_desc = "2P选人蒙面人"
+cheat79_handler = "0"
+cheat79_code = "300608EE#13"
+
+cheat80_desc = "2P选人村正"
+cheat80_handler = "0"
+cheat80_code = "300608EE#12"
+
+cheat81_desc = "2P选人四聖天.女"
+cheat81_handler = "0"
+cheat81_code = "300608EE#11"
+
+cheat82_desc = "2P选人五曜星辰伶"
+cheat82_handler = "0"
+cheat82_code = "300608EE#10"
+
+cheat83_desc = "2P选人真達羅"
+cheat83_handler = "0"
+cheat83_code = "300608EE#0F"
+
+cheat84_desc = "2P选人出雲阿国"
+cheat84_handler = "0"
+cheat84_code = "300608EE#0E"
+
+cheat85_desc = "2P选人摩虎羅"
+cheat85_handler = "0"
+cheat85_code = "300608EE#0D"
+
+cheat86_desc = "2P选人白鴉"
+cheat86_handler = "0"
+cheat86_code = "300608EE#0C"
+
+cheat87_desc = "2P援助使用霧隱才藏"
+cheat87_handler = "0"
+cheat87_code = "300608F2#14"
+
+cheat88_desc = "2P援助使用蒙面人"
+cheat88_handler = "0"
+cheat88_code = "300608F2#13"
+
+cheat89_desc = "2P援助使用村正"
+cheat89_handler = "0"
+cheat89_code = "300608F2#12"
+
+cheat90_desc = "2P援助使用四聖天.女"
+cheat90_handler = "0"
+cheat90_code = "300608F2#11"
+
+cheat91_desc = "2P援助使用五曜星辰伶"
+cheat91_handler = "0"
+cheat91_code = "300608F2#10"
+
+cheat92_desc = "2P援助使用真達羅"
+cheat92_handler = "0"
+cheat92_code = "300608F2#0F"
+
+cheat93_desc = "2P援助使用出雲阿国"
+cheat93_handler = "0"
+cheat93_code = "300608F2#0E"
+
+cheat94_desc = "2P援助使用摩虎羅"
+cheat94_handler = "0"
+cheat94_code = "300608F2#0D"
+
+cheat95_desc = "2P援助使用白鴉"
+cheat95_handler = "0"
+cheat95_code = "300608F2#0C"
+
+cheat96_desc = "2P援助使用軀"
+cheat96_handler = "0"
+cheat96_code = "300608F2#0B"
+
+cheat97_desc = "2P援助使用織田信長"
+cheat97_handler = "0"
+cheat97_code = "300608F2#0A"
+
+cheat98_desc = "2P援助使用德川家康"
+cheat98_handler = "0"
+cheat98_code = "300608F2#09"
+
+cheat99_desc = "2P援助使用四聖天梵天丸"
+cheat99_handler = "0"
+cheat99_code = "300608F2#08"
+
+cheat100_desc = "2P援助使用四聖天"
+cheat100_handler = "0"
+cheat100_code = "300608F2#07"
+
+cheat101_desc = "2P援助使用蜘蛛遣の真尋"
+cheat101_handler = "0"
+cheat101_code = "300608F2#06"
+
+cheat102_desc = "2P援助使用猿飛"
+cheat102_handler = "0"
+cheat102_code = "300608F2#05"
+
+cheat103_desc = "2P援助使用真田幸村"
+cheat103_handler = "0"
+cheat103_code = "300608F2#04"
+
+cheat104_desc = "2P援助使用影法師の紅虎"
+cheat104_handler = "0"
+cheat104_code = "300608F2#03"
+
+cheat105_desc = "2P援助使用椎名中也"
+cheat105_handler = "0"
+cheat105_code = "300608F2#02"
+
+cheat106_desc = "2P援助使用壬生京四郎"
+cheat106_handler = "0"
+cheat106_code = "300608F2#01"
+
+cheat107_desc = "2P援助使用鬼眼の狂"
+cheat107_handler = "0"
+cheat107_code = "300608F2#00"
+
+cheat108_desc = "2P援助使用無援助"
+cheat108_handler = "0"
+cheat108_code = "300608F2#16"
+
+cheat109_desc = "1P选人只在选人画面四聖天梵天丸"
+cheat109_handler = "0"
+cheat109_code = "300C2E02#08"
+
+cheat110_desc = "1P选人只在选人画面四聖天"
+cheat110_handler = "0"
+cheat110_code = "300C2E02#07"
+
+cheat111_desc = "1P选人只在选人画面蜘蛛遣の真尋"
+cheat111_handler = "0"
+cheat111_code = "300C2E02#06"
+
+cheat112_desc = "1P选人只在选人画面猿飛"
+cheat112_handler = "0"
+cheat112_code = "300C2E02#05"
+
+cheat113_desc = "1P选人只在选人画面真田幸村"
+cheat113_handler = "0"
+cheat113_code = "300C2E02#04"
+
+cheat114_desc = "1P选人只在选人画面影法師の紅虎"
+cheat114_handler = "0"
+cheat114_code = "300C2E02#03"
+
+cheat115_desc = "1P选人只在选人画面椎名中也"
+cheat115_handler = "0"
+cheat115_code = "300C2E02#02"
+
+cheat116_desc = "1P选人只在选人画面壬生京四郎"
+cheat116_handler = "0"
+cheat116_code = "300C2E02#01"
+
+cheat117_desc = "1P选人只在选人画面鬼眼の狂"
+cheat117_handler = "0"
+cheat117_code = "300C2E02#00"
+
+cheat118_desc = "1P选人只在选人画面霧隱才藏"
+cheat118_handler = "0"
+cheat118_code = "300C2E02#14"
+
+cheat119_desc = "1P选人只在选人画面蒙面人"
+cheat119_handler = "0"
+cheat119_code = "300C2E02#13"
+
+cheat120_desc = "1P选人只在选人画面村正"
+cheat120_handler = "0"
+cheat120_code = "300C2E02#12"
+
+cheat121_desc = "1P选人只在选人画面四聖天.女"
+cheat121_handler = "0"
+cheat121_code = "300C2E02#11"
+
+cheat122_desc = "1P选人只在选人画面五曜星辰伶"
+cheat122_handler = "0"
+cheat122_code = "300C2E02#10"
+
+cheat123_desc = "1P选人只在选人画面真達羅"
+cheat123_handler = "0"
+cheat123_code = "300C2E02#0F"
+
+cheat124_desc = "1P选人只在选人画面出雲阿国"
+cheat124_handler = "0"
+cheat124_code = "300C2E02#0E"
+
+cheat125_desc = "1P选人只在选人画面摩虎羅"
+cheat125_handler = "0"
+cheat125_code = "300C2E02#0D"
+
+cheat126_desc = "1P选人只在选人画面白鴉"
+cheat126_handler = "0"
+cheat126_code = "300C2E02#0C"
+
+cheat127_desc = "1P选人只在选人画面軀"
+cheat127_handler = "0"
+cheat127_code = "300C2E02#0B"
+
+cheat128_desc = "1P选人只在选人画面織田信長"
+cheat128_handler = "0"
+cheat128_code = "300C2E02#0A"
+
+cheat129_desc = "1P选人只在选人画面德川家康"
+cheat129_handler = "0"
+cheat129_code = "300C2E02#09"
+
+cheat130_desc = "1P选援助只在选人画面霧隱才藏"
+cheat130_handler = "0"
+cheat130_code = "300C2E06#14"
+
+cheat131_desc = "1P选援助只在选人画面蒙面人"
+cheat131_handler = "0"
+cheat131_code = "300C2E06#13"
+
+cheat132_desc = "1P选援助只在选人画面村正"
+cheat132_handler = "0"
+cheat132_code = "300C2E06#12"
+
+cheat133_desc = "1P选援助只在选人画面四聖天.女"
+cheat133_handler = "0"
+cheat133_code = "300C2E06#11"
+
+cheat134_desc = "1P选援助只在选人画面五曜星辰伶"
+cheat134_handler = "0"
+cheat134_code = "300C2E06#10"
+
+cheat135_desc = "1P选援助只在选人画面真達羅"
+cheat135_handler = "0"
+cheat135_code = "300C2E06#0F"
+
+cheat136_desc = "1P选援助只在选人画面出雲阿国"
+cheat136_handler = "0"
+cheat136_code = "300C2E06#0E"
+
+cheat137_desc = "1P选援助只在选人画面摩虎羅"
+cheat137_handler = "0"
+cheat137_code = "300C2E06#0D"
+
+cheat138_desc = "1P选援助只在选人画面白鴉"
+cheat138_handler = "0"
+cheat138_code = "300C2E06#0C"
+
+cheat139_desc = "1P选援助只在选人画面軀"
+cheat139_handler = "0"
+cheat139_code = "300C2E06#0B"
+
+cheat140_desc = "1P选援助只在选人画面織田信長"
+cheat140_handler = "0"
+cheat140_code = "300C2E06#0A"
+
+cheat141_desc = "1P选援助只在选人画面德川家康"
+cheat141_handler = "0"
+cheat141_code = "300C2E06#09"
+
+cheat142_desc = "1P选援助只在选人画面四聖天梵天丸"
+cheat142_handler = "0"
+cheat142_code = "300C2E06#08"
+
+cheat143_desc = "1P选援助只在选人画面四聖天"
+cheat143_handler = "0"
+cheat143_code = "300C2E06#07"
+
+cheat144_desc = "1P选援助只在选人画面蜘蛛遣の真尋"
+cheat144_handler = "0"
+cheat144_code = "300C2E06#06"
+
+cheat145_desc = "1P选援助只在选人画面猿飛"
+cheat145_handler = "0"
+cheat145_code = "300C2E06#05"
+
+cheat146_desc = "1P选援助只在选人画面真田幸村"
+cheat146_handler = "0"
+cheat146_code = "300C2E06#04"
+
+cheat147_desc = "1P选援助只在选人画面影法師の紅虎"
+cheat147_handler = "0"
+cheat147_code = "300C2E06#03"
+
+cheat148_desc = "1P选援助只在选人画面椎名中也"
+cheat148_handler = "0"
+cheat148_code = "300C2E06#02"
+
+cheat149_desc = "1P选援助只在选人画面壬生京四郎"
+cheat149_handler = "0"
+cheat149_code = "300C2E06#01"
+
+cheat150_desc = "1P选援助只在选人画面鬼眼の狂"
+cheat150_handler = "0"
+cheat150_code = "300C2E06#00"
+
+cheat151_desc = "1P选援助只在选人画面無援助"
+cheat151_handler = "0"
+cheat151_code = "300C2E06#16"
+
+cheat152_desc = "2P选人只在选人画面四聖天梵天丸"
+cheat152_handler = "0"
+cheat152_code = "300C2E04#08"
+
+cheat153_desc = "2P选人只在选人画面四聖天"
+cheat153_handler = "0"
+cheat153_code = "300C2E04#07"
+
+cheat154_desc = "2P选人只在选人画面蜘蛛遣の真尋"
+cheat154_handler = "0"
+cheat154_code = "300C2E04#06"
+
+cheat155_desc = "2P选人只在选人画面猿飛"
+cheat155_handler = "0"
+cheat155_code = "300C2E04#05"
+
+cheat156_desc = "2P选人只在选人画面真田幸村"
+cheat156_handler = "0"
+cheat156_code = "300C2E04#04"
+
+cheat157_desc = "2P选人只在选人画面影法師の紅虎"
+cheat157_handler = "0"
+cheat157_code = "300C2E04#03"
+
+cheat158_desc = "2P选人只在选人画面椎名中也"
+cheat158_handler = "0"
+cheat158_code = "300C2E04#02"
+
+cheat159_desc = "2P选人只在选人画面壬生京四郎"
+cheat159_handler = "0"
+cheat159_code = "300C2E04#01"
+
+cheat160_desc = "2P选人只在选人画面鬼眼の狂"
+cheat160_handler = "0"
+cheat160_code = "300C2E04#00"
+
+cheat161_desc = "2P选人只在选人画面霧隱才藏"
+cheat161_handler = "0"
+cheat161_code = "300C2E04#14"
+
+cheat162_desc = "2P选人只在选人画面蒙面人"
+cheat162_handler = "0"
+cheat162_code = "300C2E04#13"
+
+cheat163_desc = "2P选人只在选人画面村正"
+cheat163_handler = "0"
+cheat163_code = "300C2E04#12"
+
+cheat164_desc = "2P选人只在选人画面四聖天.女"
+cheat164_handler = "0"
+cheat164_code = "300C2E04#11"
+
+cheat165_desc = "2P选人只在选人画面五曜星辰伶"
+cheat165_handler = "0"
+cheat165_code = "300C2E04#10"
+
+cheat166_desc = "2P选人只在选人画面真達羅"
+cheat166_handler = "0"
+cheat166_code = "300C2E04#0F"
+
+cheat167_desc = "2P选人只在选人画面出雲阿国"
+cheat167_handler = "0"
+cheat167_code = "300C2E04#0E"
+
+cheat168_desc = "2P选人只在选人画面摩虎羅"
+cheat168_handler = "0"
+cheat168_code = "300C2E04#0D"
+
+cheat169_desc = "2P选人只在选人画面白鴉"
+cheat169_handler = "0"
+cheat169_code = "300C2E04#0C"
+
+cheat170_desc = "2P选人只在选人画面軀"
+cheat170_handler = "0"
+cheat170_code = "300C2E04#0B"
+
+cheat171_desc = "2P选人只在选人画面織田信長"
+cheat171_handler = "0"
+cheat171_code = "300C2E04#0A"
+
+cheat172_desc = "2P选人只在选人画面德川家康"
+cheat172_handler = "0"
+cheat172_code = "300C2E04#09"
+
+cheat173_desc = "2P选援助只在选人画面霧隱才藏"
+cheat173_handler = "0"
+cheat173_code = "300C2E08#14"
+
+cheat174_desc = "2P选援助只在选人画面蒙面人"
+cheat174_handler = "0"
+cheat174_code = "300C2E08#13"
+
+cheat175_desc = "2P选援助只在选人画面村正"
+cheat175_handler = "0"
+cheat175_code = "300C2E08#12"
+
+cheat176_desc = "2P选援助只在选人画面四聖天.女"
+cheat176_handler = "0"
+cheat176_code = "300C2E08#11"
+
+cheat177_desc = "2P选援助只在选人画面五曜星辰伶"
+cheat177_handler = "0"
+cheat177_code = "300C2E08#10"
+
+cheat178_desc = "2P选援助只在选人画面真達羅"
+cheat178_handler = "0"
+cheat178_code = "300C2E08#0F"
+
+cheat179_desc = "2P选援助只在选人画面出雲阿国"
+cheat179_handler = "0"
+cheat179_code = "300C2E08#0E"
+
+cheat180_desc = "2P选援助只在选人画面摩虎羅"
+cheat180_handler = "0"
+cheat180_code = "300C2E08#0D"
+
+cheat181_desc = "2P选援助只在选人画面白鴉"
+cheat181_handler = "0"
+cheat181_code = "300C2E08#0C"
+
+cheat182_desc = "2P选援助只在选人画面軀"
+cheat182_handler = "0"
+cheat182_code = "300C2E08#0B"
+
+cheat183_desc = "2P选援助只在选人画面織田信長"
+cheat183_handler = "0"
+cheat183_code = "300C2E08#0A"
+
+cheat184_desc = "2P选援助只在选人画面德川家康"
+cheat184_handler = "0"
+cheat184_code = "300C2E08#09"
+
+cheat185_desc = "2P选援助只在选人画面四聖天梵天丸"
+cheat185_handler = "0"
+cheat185_code = "300C2E08#08"
+
+cheat186_desc = "2P选援助只在选人画面四聖天"
+cheat186_handler = "0"
+cheat186_code = "300C2E08#07"
+
+cheat187_desc = "2P选援助只在选人画面蜘蛛遣の真尋"
+cheat187_handler = "0"
+cheat187_code = "300C2E08#06"
+
+cheat188_desc = "2P选援助只在选人画面猿飛"
+cheat188_handler = "0"
+cheat188_code = "300C2E08#05"
+
+cheat189_desc = "2P选援助只在选人画面真田幸村"
+cheat189_handler = "0"
+cheat189_code = "300C2E08#04"
+
+cheat190_desc = "2P选援助只在选人画面影法師の紅虎"
+cheat190_handler = "0"
+cheat190_code = "300C2E08#03"
+
+cheat191_desc = "2P选援助只在选人画面椎名中也"
+cheat191_handler = "0"
+cheat191_code = "300C2E08#02"
+
+cheat192_desc = "2P选援助只在选人画面壬生京四郎"
+cheat192_handler = "0"
+cheat192_code = "300C2E08#01"
+
+cheat193_desc = "2P选援助只在选人画面鬼眼の狂"
+cheat193_handler = "0"
+cheat193_code = "300C2E08#00"
+
+cheat194_desc = "2P选援助只在选人画面無援助"
+cheat194_handler = "0"
+cheat194_code = "300C2E08#16"
+
+cheat195_desc = "时间无限"
+cheat195_handler = "0"
+cheat195_code = "3006094B#FF"
+
+cheat196_desc = "終極模式終極"
+cheat196_handler = "0"
+cheat196_code = "30061280#08"
+
+cheat197_desc = "終極模式正常"
+cheat197_handler = "0"
+cheat197_code = "30061280#00"
+
+cheat198_desc = "玩家1无限血"
+cheat198_handler = "0"
+cheat198_code = "80060968#2710"
+
+cheat199_desc = "玩家1一击必杀(按Select)"
+cheat199_handler = "0"
+cheat199_code = "D007218A#FFFE;80060968#03E7"
+
+cheat200_desc = "玩家1使用能量助杀(按L1)BOSS"
+cheat200_handler = "0"
+cheat200_code = "8006096A#06A3"
+
+cheat201_desc = "玩家1使用能量助杀(按L1)"
+cheat201_handler = "0"
+cheat201_code = "D007218A#FBFF;8006096A#03E7"
+
+cheat202_desc = "玩家1无限特殊力量"
+cheat202_handler = "0"
+cheat202_code = "8006096C#03E8"
+
+cheat203_desc = "玩家1获胜局数三戰兩勝"
+cheat203_handler = "0"
+cheat203_code = "30060904#02"
+
+cheat204_desc = "玩家2无限血"
+cheat204_handler = "0"
+cheat204_code = "80060AA4#2710"
+
+cheat205_desc = "玩家2一击必杀(按Select)一击必杀"
+cheat205_handler = "0"
+cheat205_code = "D007218A#FFFF;80060AA4#0001"
+
+cheat206_desc = "玩家2一击必杀(按Select)立死"
+cheat206_handler = "0"
+cheat206_code = "D007218A#FFFE;80060AA4#0000"
+
+cheat207_desc = "玩家2使用能量助杀(按R1)"
+cheat207_handler = "0"
+cheat207_code = "D007218A#F7FF;80060AA6#03E7"
+
+cheat208_desc = "玩家2无限特殊力量"
+cheat208_handler = "0"
+cheat208_code = "80060AA8#03E8"
+
+cheat209_desc = "玩家2获胜局数三戰兩勝"
+cheat209_handler = "0"
+cheat209_code = "30060906#02"
+
+cheat210_desc = "全体角色"
+cheat210_handler = "0"
+cheat210_code = "8005BAC8#FFFF;8005BACA#FFFF"
+
+cheat211_desc = "OPTION时间无限"
+cheat211_handler = "0"
+cheat211_code = "3005BAD4#04"
+
+cheat212_desc = "回合数一戦定江山"
+cheat212_handler = "0"
+cheat212_code = "3005BAD6#00"
+
+cheat213_desc = "会话无"
+cheat213_handler = "0"
+cheat213_code = "3005BABC#00"
+
+cheat214_desc = "1P难易度难"
+cheat214_handler = "0"
+cheat214_code = "3005BAD8#04"
+
+cheat215_desc = "2P难易度易"
+cheat215_handler = "0"
+cheat215_code = "3005BADA#00"
+
+cheats = 216

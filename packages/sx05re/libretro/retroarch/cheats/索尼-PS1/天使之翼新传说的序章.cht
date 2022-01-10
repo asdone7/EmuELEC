@@ -1,0 +1,253 @@
+cheat0_desc = "我方进球数99个NO"
+cheat0_handler = "0"
+cheat0_code = "D00CAE3C#0810;300E75F1#0063"
+
+cheat1_desc = "时间无限时间"
+cheat1_handler = "0"
+cheat1_code = "D00CAE3C#0880;300E7612#0000"
+
+cheat2_desc = "时间比赛马上结束"
+cheat2_handler = "0"
+cheat2_code = "D00CAE3C#0840;300E7612#00B4"
+
+cheat3_desc = "大空 翼满气"
+cheat3_handler = "0"
+cheat3_code = "300C91BE#32"
+
+cheat4_desc = "大空 翼无气"
+cheat4_handler = "0"
+cheat4_code = "300C91BE#00"
+
+cheat5_desc = "岬 太郎满气"
+cheat5_handler = "0"
+cheat5_code = "300C9230#32"
+
+cheat6_desc = "岬 太郎无气"
+cheat6_handler = "0"
+cheat6_code = "300C9230#00"
+
+cheat7_desc = "若林 源三满气"
+cheat7_handler = "0"
+cheat7_code = "300C921E#32"
+
+cheat8_desc = "若林 源三无气"
+cheat8_handler = "0"
+cheat8_code = "300C921E#00"
+
+cheat9_desc = "滝 一满气"
+cheat9_handler = "0"
+cheat9_code = "300C91A6#32"
+
+cheat10_desc = "滝 一无气"
+cheat10_handler = "0"
+cheat10_code = "300C91A6#00"
+
+cheat11_desc = "井沢 守满气"
+cheat11_handler = "0"
+cheat11_code = "300C91B8#32"
+
+cheat12_desc = "井沢 守无气"
+cheat12_handler = "0"
+cheat12_code = "300C91B8#00"
+
+cheat13_desc = "来生 哲平满气"
+cheat13_handler = "0"
+cheat13_code = "300C91AC#32"
+
+cheat14_desc = "来生 哲平无气"
+cheat14_handler = "0"
+cheat14_code = "300C91AC#00"
+
+cheat15_desc = "石崎 了满气"
+cheat15_handler = "0"
+cheat15_code = "300C91CA#32"
+
+cheat16_desc = "石崎 了无气"
+cheat16_handler = "0"
+cheat16_code = "300C91CA#00"
+
+cheat17_desc = "高杉 真吾满气"
+cheat17_handler = "0"
+cheat17_code = "300C91D0#32"
+
+cheat18_desc = "高杉 真吾无气"
+cheat18_handler = "0"
+cheat18_code = "300C91D0#00"
+
+cheat19_desc = "森崎 有三满气"
+cheat19_handler = "0"
+cheat19_code = "300C91E2#32"
+
+cheat20_desc = "森崎 有三无气"
+cheat20_handler = "0"
+cheat20_code = "300C91E2#00"
+
+cheat21_desc = "日向 小次郎满气"
+cheat21_handler = "0"
+cheat21_code = "300C91FA#32"
+
+cheat22_desc = "日向 小次郎无气"
+cheat22_handler = "0"
+cheat22_code = "300C91FA#00"
+
+cheat23_desc = "沢田 タケシ满气"
+cheat23_handler = "0"
+cheat23_code = "300C91F4#32"
+
+cheat24_desc = "沢田 タケシ无气"
+cheat24_handler = "0"
+cheat24_code = "300C91F4#00"
+
+cheat25_desc = "反町 一樹满气"
+cheat25_handler = "0"
+cheat25_code = "300C920C#32"
+
+cheat26_desc = "反町 一樹无气"
+cheat26_handler = "0"
+cheat26_code = "300C920C#00"
+
+cheat27_desc = "若島津 健满气"
+cheat27_handler = "0"
+cheat27_code = "300C9200#32"
+
+cheat28_desc = "若島津 健无气"
+cheat28_handler = "0"
+cheat28_code = "300C9200#00"
+
+cheat29_desc = "立花 政夫满气"
+cheat29_handler = "0"
+cheat29_code = "300C91C4#32"
+
+cheat30_desc = "立花 政夫无气"
+cheat30_handler = "0"
+cheat30_code = "300C91C4#00"
+
+cheat31_desc = "立花 和夫满气"
+cheat31_handler = "0"
+cheat31_code = "300C91B2#32"
+
+cheat32_desc = "立花 和夫无气"
+cheat32_handler = "0"
+cheat32_code = "300C91B2#00"
+
+cheat33_desc = "次藤 洋满气"
+cheat33_handler = "0"
+cheat33_code = "300C9212#32"
+
+cheat34_desc = "次藤 洋无气"
+cheat34_handler = "0"
+cheat34_code = "300C9212#00"
+
+cheat35_desc = "佐野 満满气"
+cheat35_handler = "0"
+cheat35_code = "300C91EE#32"
+
+cheat36_desc = "佐野 満无气"
+cheat36_handler = "0"
+cheat36_code = "300C91EE#00"
+
+cheat37_desc = "三杉 淳满气"
+cheat37_handler = "0"
+cheat37_code = "300C91E8#32"
+
+cheat38_desc = "三杉 淳无气"
+cheat38_handler = "0"
+cheat38_code = "300C91E8#00"
+
+cheat39_desc = "新田 瞬满气"
+cheat39_handler = "0"
+cheat39_code = "300C923C#32"
+
+cheat40_desc = "新田 瞬无气"
+cheat40_handler = "0"
+cheat40_code = "300C923C#00"
+
+cheat41_desc = "早田 誠满气"
+cheat41_handler = "0"
+cheat41_code = "300C9236#32"
+
+cheat42_desc = "早田 誠无气"
+cheat42_handler = "0"
+cheat42_code = "300C9236#00"
+
+cheat43_desc = "葵 新伍满气"
+cheat43_handler = "0"
+cheat43_code = "300C9206#32"
+
+cheat44_desc = "葵 新伍无气"
+cheat44_handler = "0"
+cheat44_code = "300C9206#00"
+
+cheat45_desc = "赤井 止也满气"
+cheat45_handler = "0"
+cheat45_code = "300C9218#32"
+
+cheat46_desc = "赤井 止也无气"
+cheat46_handler = "0"
+cheat46_code = "300C9218#00"
+
+cheat47_desc = "中山 政男满气"
+cheat47_handler = "0"
+cheat47_code = "300C91DC#32"
+
+cheat48_desc = "中山 政男无气"
+cheat48_handler = "0"
+cheat48_code = "300C91DC#00"
+
+cheat49_desc = "岸田 猛满气"
+cheat49_handler = "0"
+cheat49_code = "300C91D6#32"
+
+cheat50_desc = "岸田 猛无气"
+cheat50_handler = "0"
+cheat50_code = "300C91D6#00"
+
+cheat51_desc = "火野 竜馬满气"
+cheat51_handler = "0"
+cheat51_code = "300C924E#32"
+
+cheat52_desc = "火野 竜馬无气"
+cheat52_handler = "0"
+cheat52_code = "300C924E#00"
+
+cheat53_desc = "ミッシェル山田满气"
+cheat53_handler = "0"
+cheat53_code = "300C9254#32"
+
+cheat54_desc = "ミッシェル山田无气"
+cheat54_handler = "0"
+cheat54_code = "300C9254#00"
+
+cheat55_desc = "弓倉 宣之满气"
+cheat55_handler = "0"
+cheat55_code = "300C922A#32"
+
+cheat56_desc = "弓倉 宣之无气"
+cheat56_handler = "0"
+cheat56_code = "300C922A#00"
+
+cheat57_desc = "杉本 高史满气"
+cheat57_handler = "0"
+cheat57_code = "300C9224#32"
+
+cheat58_desc = "杉本 高史无气"
+cheat58_handler = "0"
+cheat58_code = "300C9224#00"
+
+cheat59_desc = "岡野 俊也满气"
+cheat59_handler = "0"
+cheat59_code = "300C9242#32"
+
+cheat60_desc = "岡野 俊也无气"
+cheat60_handler = "0"
+cheat60_code = "300C9242#00"
+
+cheat61_desc = "坂木 優二满气"
+cheat61_handler = "0"
+cheat61_code = "300C9248#32"
+
+cheat62_desc = "坂木 優二无气"
+cheat62_handler = "0"
+cheat62_code = "300C9248#00"
+
+cheats = 63

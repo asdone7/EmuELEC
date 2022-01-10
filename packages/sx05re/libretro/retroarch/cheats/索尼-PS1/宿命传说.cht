@@ -1,0 +1,33 @@
+cheat0_desc = "无限HPOK"
+cheat0_handler = "0"
+cheat0_code = "801EB050#03E7"
+
+cheat1_desc = "无限TPOK"
+cheat1_handler = "0"
+cheat1_code = "801EB056#03E7"
+
+cheat2_desc = "无限金钱MAX"
+cheat2_handler = "0"
+cheat2_code = "801F7246#FFFF"
+
+cheat3_desc = "无限LENSOK"
+cheat3_handler = "0"
+cheat3_code = "801F724A#FFFF"
+
+cheat4_desc = "最高EXP99999"
+cheat4_handler = "0"
+cheat4_code = "801F724E#FFFF"
+
+cheat5_desc = "最高EXP0"
+cheat5_handler = "0"
+cheat5_code = "801F724E#FFFF"
+
+cheat6_desc = "快速升级OK"
+cheat6_handler = "0"
+cheat6_code = "801F724C#FFFF"
+
+cheat7_desc = "不遇敌OK"
+cheat7_handler = "0"
+cheat7_code = "801D39FA#00FF"
+
+cheats = 8

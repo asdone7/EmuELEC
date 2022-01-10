@@ -1,0 +1,25 @@
+cheat0_desc = "无限金钱"
+cheat0_handler = "0"
+cheat0_code = "800fd700#967f;800fd702#0098"
+
+cheat1_desc = "1p血.气1000"
+cheat1_handler = "0"
+cheat1_code = "800FD506#03e8;800FD50A#03e8"
+
+cheat2_desc = "1p血.气1500"
+cheat2_handler = "0"
+cheat2_code = "800FD506#05dc;800FD50A#05dc"
+
+cheat3_desc = "1p血.气2000"
+cheat3_handler = "0"
+cheat3_code = "800FD506#07d0;800FD50A#07d0"
+
+cheat4_desc = "怒气"
+cheat4_handler = "0"
+cheat4_code = "801255de#0020;80125682#0020;80125726#0020"
+
+cheat5_desc = "第三选单"
+cheat5_handler = "0"
+cheat5_code = "800FD6DE#FFFF"
+
+cheats = 6

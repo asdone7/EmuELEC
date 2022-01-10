@@ -1,0 +1,21 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "8011BB74#270F;8011BB76#270F"
+
+cheat1_desc = "冒險家能力"
+cheat1_handler = "0"
+cheat1_code = "8013E16C#6464;8013E174#6464"
+
+cheat2_desc = "冒險家全部技巧"
+cheat2_handler = "0"
+cheat2_code = "8013E180#64FF"
+
+cheat3_desc = "海賊能力"
+cheat3_handler = "0"
+cheat3_code = "8013E188#6464;8013E190#6464"
+
+cheat4_desc = "海賊全部技巧"
+cheat4_handler = "0"
+cheat4_code = "8013E19C#66FF"
+
+cheats = 5

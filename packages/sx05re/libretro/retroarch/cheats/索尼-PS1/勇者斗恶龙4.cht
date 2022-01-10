@@ -1,0 +1,89 @@
+cheat0_desc = "★金変更xx"
+cheat0_handler = "0"
+cheat0_code = "80010C7C#xxxx;80010C7E#xxxx"
+
+cheat1_desc = "★硬币変更xx"
+cheat1_handler = "0"
+cheat1_code = "80010C84#xxxx;80010C86#xxxx"
+
+cheat2_desc = "★袋的内容変更yy xx"
+cheat2_handler = "0"
+cheat2_code = "8001040A yyxx"
+
+cheat3_desc = "★袋的内容変更yy xx;ｙｙ"
+cheat3_handler = "0"
+cheat3_code = "所持数(所持数×2hをいれる)"
+
+cheat4_desc = "★袋の中、道具全て99個"
+cheat4_handler = "0"
+cheat4_code = "5000A102#0001;8001040A#C600"
+
+cheat5_desc = "★伤害不减"
+cheat5_handler = "0"
+cheat5_code = "800FE6C0#0000"
+
+cheat6_desc = "勇者(男)status xx"
+cheat6_handler = "0"
+cheat6_code = "80010580#xxxx;30010582#xxxx;8001058C#0xxx;30010583#00xx;30010587#00xx;3001058B#00xx;80010590#xxxx"
+
+cheat7_desc = "最大HP＆現在HP＆最大MP＆現在MP999&Lv99"
+cheat7_handler = "0"
+cheat7_code = "8001058C#F3E7;8001058E#7E7F;80010594#8FE7;30010596#0043"
+
+cheat8_desc = "毒になる"
+cheat8_handler = "0"
+cheat8_code = "30010597#0002"
+
+cheat9_desc = "道具変更 yy xx"
+cheat9_handler = "0"
+cheat9_code = "80010550#yyxx"
+
+cheat10_desc = "道具変更 yy xx;xx"
+cheat10_handler = "0"
+cheat10_code = "道具番号(00～A0(推測)、A1で空欄)　yy"
+
+cheat11_desc = "ライアンstats xx"
+cheat11_handler = "0"
+cheat11_code = "800105C8#xxxx;300105CA#xxxx;800105D4#0xxx;300105CB#00xx;300105CF#00xx;300105D3#00xx;800105D8#xxxx"
+
+cheat12_desc = "最大HP＆現在HP＆最大MP＆現在MP999&Lv99"
+cheat12_handler = "0"
+cheat12_code = "800105D4#F3E7;800105D6#7E7F;800105DC#8FE7;300105DE#0045"
+
+cheat13_desc = "毒になる"
+cheat13_handler = "0"
+cheat13_code = "300105DF#0002"
+
+cheat14_desc = "道具変更yy xx"
+cheat14_handler = "0"
+cheat14_code = "80010598#yyxx"
+
+cheat15_desc = "道具変更yy xx;xx"
+cheat15_handler = "0"
+cheat15_code = "道具番号(00～A0(推測)、A1で空欄)　yy"
+
+cheat16_desc = "アリーナstats xx"
+cheat16_handler = "0"
+cheat16_code = "80010610#xxxx;30010612#xxxx;8001061C#0xxx;30010613#00xx;30010617#00xx;3001061B#00xx;80010620#xxxx"
+
+cheat17_desc = "最大HP＆現在HP＆最大MP＆現在MP999&Lv99"
+cheat17_handler = "0"
+cheat17_code = "8001061C#F3E7;8001061E#BE7F;80010624#8FE7;30010626#0047"
+
+cheat18_desc = "毒になる"
+cheat18_handler = "0"
+cheat18_code = "30010627#0002"
+
+cheat19_desc = "道具変更yy xx"
+cheat19_handler = "0"
+cheat19_code = "800105E0#yyxx"
+
+cheat20_desc = "道具変更yy xx;xx"
+cheat20_handler = "0"
+cheat20_code = "道具番号(00～A0(推測)、A1で空欄)　yy"
+
+cheat21_desc = "★聖水効果無限"
+cheat21_handler = "0"
+cheat21_code = "30010D08#0080"
+
+cheats = 22

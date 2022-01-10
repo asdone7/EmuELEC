@@ -1,0 +1,13 @@
+cheat0_desc = "ＢＧＭ倍速"
+cheat0_handler = "0"
+cheat0_code = "80034BE8#3040;80034BEA#0006"
+
+cheat1_desc = "モンスター図鉴100%"
+cheat1_handler = "0"
+cheat1_code = "D00D34FA#1040;800D34F0#03E7;D00D34FA#1040;800D34F2#2402;D00D34FA#1040;800D34F6#A462"
+
+cheat2_desc = "アイテム収集率100%"
+cheat2_handler = "0"
+cheat2_code = "D00D3594#10C3;800D3580#00FF;D00D3594#10C3;800D3582#2404;D00D3594#10C3;800D359E#A064"
+
+cheats = 3

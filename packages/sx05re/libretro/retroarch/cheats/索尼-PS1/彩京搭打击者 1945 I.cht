@@ -1,0 +1,9 @@
+cheat0_desc = "P1 生命数"
+cheat0_handler = "0"
+cheat0_code = "81B0D20#0006"
+
+cheat1_desc = "P1 炸弹数"
+cheat1_handler = "0"
+cheat1_code = "81B0D24#0005"
+
+cheats = 2

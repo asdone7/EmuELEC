@@ -1,0 +1,17 @@
+cheat0_desc = "1P血全满"
+cheat0_handler = "0"
+cheat0_code = "8009101E#03E7"
+
+cheat1_desc = "选单全开"
+cheat1_handler = "0"
+cheat1_code = "300912F1#0001;800912F2#0101;800912F4#0101"
+
+cheat2_desc = "可用全部角色"
+cheat2_handler = "0"
+cheat2_code = "30091329#0001;8009132A#0101;8009132C#0101;8009132E#0101;30091330#0001"
+
+cheat3_desc = "拥有全部卡片"
+cheat3_handler = "0"
+cheat3_code = "B0780001#00000000;3009127E#0001"
+
+cheats = 4

@@ -1,0 +1,9 @@
+cheat0_desc = "TIME"
+cheat0_handler = "0"
+cheat0_code = "80072B7A#0060"
+
+cheat1_desc = "隱藏功能"
+cheat1_handler = "0"
+cheat1_code = "30071906#0052"
+
+cheats = 2

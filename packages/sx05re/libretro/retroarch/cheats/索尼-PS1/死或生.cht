@@ -1,0 +1,29 @@
+cheat0_desc = "2p一击死"
+cheat0_handler = "0"
+cheat0_code = "30093C88#1"
+
+cheat1_desc = "直接最终关"
+cheat1_handler = "0"
+cheat1_code = "30085E1A#0A"
+
+cheat2_desc = "衣服"
+cheat2_handler = "0"
+cheat2_code = "30092F84#0e;30092F86#0e;30092F88#0e;30092F8a#0e;30092F8c#0e;30092F8e#0e;30092F90#0e;30092F92#0e;30092F94#0e;30092F96#0e;30092F98#0e"
+
+cheat3_desc = "kumiti mode round 990n"
+cheat3_handler = "0"
+cheat3_code = "30085e1a#63"
+
+cheat4_desc = "セーブ可能"
+cheat4_handler = "0"
+cheat4_code = "BE4E3467#00000101;181C187B#0000FFFF;1825587B#E0703041;9721AE1E"
+
+cheat5_desc = "1P ライフへらない"
+cheat5_handler = "0"
+cheat5_code = "7FC5DDD1#0000012C"
+
+cheat6_desc = "2P ライフ"
+cheat6_handler = "0"
+cheat6_code = "7E65DDD1#00000000"
+
+cheats = 7

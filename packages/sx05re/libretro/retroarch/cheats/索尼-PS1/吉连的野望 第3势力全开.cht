@@ -1,0 +1,5 @@
+cheat0_desc = ""
+cheat0_handler = "0"
+cheat0_code = "64D3B,5;64D41,2;64D43,3;64D45,4"
+
+cheats = 1

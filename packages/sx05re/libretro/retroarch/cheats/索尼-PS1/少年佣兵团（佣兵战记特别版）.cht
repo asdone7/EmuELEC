@@ -1,0 +1,21 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "800CA28C#967F;800CA28E#0098"
+
+cheat1_desc = "敌人无法行动&我方马上行动"
+cheat1_handler = "0"
+cheat1_code = "300E66AD#0000;300E66AC#0063"
+
+cheat2_desc = "魔法&必杀技"
+cheat2_handler = "0"
+cheat2_code = "300C856C#00FF;800CA290#FFFF;800CA292#00FF"
+
+cheat3_desc = "主角能力&HP&AT&CP&DF"
+cheat3_handler = "0"
+cheat3_code = "300C8560#0063;300C8562#0063;300C8563#0063;300C8567#0063"
+
+cheat4_desc = "MP&AG&MR&MV"
+cheat4_handler = "0"
+cheat4_code = "300C8561#0063;300C8564#0063;300C8565#0063;300C8566#0063"
+
+cheats = 5

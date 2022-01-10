@@ -1,0 +1,89 @@
+cheat0_desc = "钱无限"
+cheat0_handler = "0"
+cheat0_code = "8019BA6A#967F;3019BA6C#0098"
+
+cheat1_desc = "增加机械人第一架东方不败"
+cheat1_handler = "0"
+cheat1_code = "8019AB54#0101;8019AB56#0001"
+
+cheat2_desc = "增加机械人第一架ノイエ·ジール"
+cheat2_handler = "0"
+cheat2_code = "8019AB54#006C;8019AB56#0001"
+
+cheat3_desc = "增加机械人第一架ν高达"
+cheat3_handler = "0"
+cheat3_code = "8019AB54#0009;8019AB56#0001"
+
+cheat4_desc = "增加机械人第一架ゴッドガンダムS"
+cheat4_handler = "0"
+cheat4_code = "8019AB54#00FD;8019AB56#0001"
+
+cheat5_desc = "第二架东方不败"
+cheat5_handler = "0"
+cheat5_code = "8019AB72#0101;8019AB74#000"
+
+cheat6_desc = "第二架ゲ-マルク"
+cheat6_handler = "0"
+cheat6_code = "8019AB72#0078;8019AB74#0001"
+
+cheat7_desc = "第三架キュベレイ"
+cheat7_handler = "0"
+cheat7_code = "8019AB90#006D;8019AB92#0001"
+
+cheat8_desc = "第4架サザビー"
+cheat8_handler = "0"
+cheat8_code = "8019ABAE#007E;8019ABB0#0001"
+
+cheat9_desc = "第5架ノイエ·ジール"
+cheat9_handler = "0"
+cheat9_code = "8019ABCC#006C;8019ABCE#0001"
+
+cheat10_desc = "第5架ゴッドガンダム"
+cheat10_handler = "0"
+cheat10_code = "8019ABCC#00FC;8019ABCE#0001"
+
+cheat11_desc = "第6架零式高达W改"
+cheat11_handler = "0"
+cheat11_code = "8019ABEA#014C;8019ABEC#0001"
+
+cheat12_desc = "第7架零式高达W改"
+cheat12_handler = "0"
+cheat12_code = "8019AC08#014C;8019AC0A#0001"
+
+cheat13_desc = "第8架零式高达W改"
+cheat13_handler = "0"
+cheat13_code = "8019AC26#014C;8019AC28#0001"
+
+cheat14_desc = "第9架キュベレイ"
+cheat14_handler = "0"
+cheat14_code = "8019AC44#006D;8019AC46#0001"
+
+cheat15_desc = "第10架サザビー"
+cheat15_handler = "0"
+cheat15_code = "8019AC62#007E;8019AC64#0001"
+
+cheat16_desc = "第11架キュベレイ"
+cheat16_handler = "0"
+cheat16_code = "8019AC80#006D;8019AC82#0001"
+
+cheat17_desc = "第12架サザビー"
+cheat17_handler = "0"
+cheat17_code = "8019AC9E#007E;8019ACA0#0001"
+
+cheat18_desc = "第13架零式高达W改"
+cheat18_handler = "0"
+cheat18_code = "8019ACBC#014C;8019ACBE#0001"
+
+cheat19_desc = "第17架ノイエ·ジール"
+cheat19_handler = "0"
+cheat19_code = "8019AD34#006C;8019AD36#0001"
+
+cheat20_desc = "第23架零式高达W改"
+cheat20_handler = "0"
+cheat20_code = "8019ADE8#014C;8019ADEA#0001"
+
+cheat21_desc = "第24架サザビー"
+cheat21_handler = "0"
+cheat21_code = "8019AE06#007E;8019AE08#0001"
+
+cheats = 22

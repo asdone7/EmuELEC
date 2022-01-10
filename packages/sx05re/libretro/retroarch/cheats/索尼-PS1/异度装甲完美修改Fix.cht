@@ -1,0 +1,405 @@
+cheat0_desc = "无限金钱"
+cheat0_handler = "0"
+cheat0_code = "8006E5E8#C9FF;8006E5EA#3B9A"
+
+cheat1_desc = "全部物品"
+cheat1_handler = "0"
+cheat1_code = "B06B0001#00000000,3006EC54#0032;B06B0001#00000001,3006ECEA#0001"
+
+cheat2_desc = "全部人物装备物"
+cheat2_handler = "0"
+cheat2_code = "B0900001#00000000,3006EAC4#0032;B0900001#00000001,3006EB8C#0001"
+
+cheat3_desc = "游戏总时间不加"
+cheat3_handler = "0"
+cheat3_code = "80058B24#0000;80058B26#0000"
+
+cheat4_desc = "所有能力最高第1人HP现在值"
+cheat4_handler = "0"
+cheat4_code = "8006CF7C#03E7"
+
+cheat5_desc = "所有能力最高HP 最大值"
+cheat5_handler = "0"
+cheat5_code = "8006CF7E#03E7"
+
+cheat6_desc = "所有能力最高EP 现在值"
+cheat6_handler = "0"
+cheat6_code = "8006CF80#0063"
+
+cheat7_desc = "所有能力最高EP 最大值"
+cheat7_handler = "0"
+cheat7_code = "8006CF82#0063"
+
+cheat8_desc = "所有能力最高功击及防御"
+cheat8_handler = "0"
+cheat8_code = "8006CF88#C8C8"
+
+cheat9_desc = "所有能力最高魔法及素早"
+cheat9_handler = "0"
+cheat9_code = "8006CF8A#C814"
+
+cheat10_desc = "所有能力最高魔法防御"
+cheat10_handler = "0"
+cheat10_code = "800C6F8C#00C8"
+
+cheat11_desc = "所有能力最高命中及回避"
+cheat11_handler = "0"
+cheat11_code = "8006CF8E#6363"
+
+cheat12_desc = "第2人HP 现在值"
+cheat12_handler = "0"
+cheat12_code = "8006D020#03E7"
+
+cheat13_desc = "第2人HP 最大值"
+cheat13_handler = "0"
+cheat13_code = "8006D022#03E7"
+
+cheat14_desc = "第2人EP 现在值"
+cheat14_handler = "0"
+cheat14_code = "8006D024#0063"
+
+cheat15_desc = "第2人EP 最大值"
+cheat15_handler = "0"
+cheat15_code = "8006D026#0063"
+
+cheat16_desc = "第2人功击及防御"
+cheat16_handler = "0"
+cheat16_code = "8006D02C#C8C8"
+
+cheat17_desc = "第2人魔法及素早"
+cheat17_handler = "0"
+cheat17_code = "8006D02E#C814"
+
+cheat18_desc = "第2人魔法防御"
+cheat18_handler = "0"
+cheat18_code = "800CD030#00C8"
+
+cheat19_desc = "第2人命中及回避"
+cheat19_handler = "0"
+cheat19_code = "8006D032#6363"
+
+cheat20_desc = "第3人HP 现在值"
+cheat20_handler = "0"
+cheat20_code = "8006D0C4#03E7"
+
+cheat21_desc = "第3人HP 最大值"
+cheat21_handler = "0"
+cheat21_code = "8006D0C6#03E7"
+
+cheat22_desc = "第3人EP 现在值"
+cheat22_handler = "0"
+cheat22_code = "8006D0C8#0063"
+
+cheat23_desc = "第3人EP 最大值"
+cheat23_handler = "0"
+cheat23_code = "8006D0CA#0063"
+
+cheat24_desc = "第3人功击及防"
+cheat24_handler = "0"
+cheat24_code = "8006D0D0#C8C8"
+
+cheat25_desc = "第3人魔法及素早"
+cheat25_handler = "0"
+cheat25_code = "8006D0D2#C814"
+
+cheat26_desc = "第3人魔法防御"
+cheat26_handler = "0"
+cheat26_code = "800CD0D4#00C8"
+
+cheat27_desc = "第3人命中及回避"
+cheat27_handler = "0"
+cheat27_code = "8006D0D6#6363"
+
+cheat28_desc = "第4人HP 现在值"
+cheat28_handler = "0"
+cheat28_code = "8006D618#03E7"
+
+cheat29_desc = "第4人HP 最大值"
+cheat29_handler = "0"
+cheat29_code = "8006D16A#03E7"
+
+cheat30_desc = "第4人EP 现在值"
+cheat30_handler = "0"
+cheat30_code = "8006D16C#0063"
+
+cheat31_desc = "第4人EP 最大值"
+cheat31_handler = "0"
+cheat31_code = "8006D16E#0063"
+
+cheat32_desc = "第4人功击及防御"
+cheat32_handler = "0"
+cheat32_code = "8006D174#C8C8"
+
+cheat33_desc = "第4人魔法及素早"
+cheat33_handler = "0"
+cheat33_code = "8006D176#C814"
+
+cheat34_desc = "第4人魔法防御"
+cheat34_handler = "0"
+cheat34_code = "800CD178#00C8"
+
+cheat35_desc = "第4人命中及回避"
+cheat35_handler = "0"
+cheat35_code = "8006D17A#6363"
+
+cheat36_desc = "第5人HP 现在值"
+cheat36_handler = "0"
+cheat36_code = "8006D20C#03E7"
+
+cheat37_desc = "第5人HP 最大值"
+cheat37_handler = "0"
+cheat37_code = "8006D20E#03E7"
+
+cheat38_desc = "第5人EP 现在值"
+cheat38_handler = "0"
+cheat38_code = "8006D210#0063"
+
+cheat39_desc = "第5人EP 最大值"
+cheat39_handler = "0"
+cheat39_code = "8006D212#0063"
+
+cheat40_desc = "第5人功击及防御"
+cheat40_handler = "0"
+cheat40_code = "8006D218#C8C8"
+
+cheat41_desc = "第5人魔法及素早"
+cheat41_handler = "0"
+cheat41_code = "8006D21A#C814"
+
+cheat42_desc = "第5人魔法防御"
+cheat42_handler = "0"
+cheat42_code = "800CD21C#00C8"
+
+cheat43_desc = "第5人命中及回避"
+cheat43_handler = "0"
+cheat43_code = "8006D21E#6363"
+
+cheat44_desc = "第6人HP 现在值"
+cheat44_handler = "0"
+cheat44_code = "8006D2B0#03E7"
+
+cheat45_desc = "第6人HP 最大值"
+cheat45_handler = "0"
+cheat45_code = "8006D2B2#03E7"
+
+cheat46_desc = "第6人EP 现在值"
+cheat46_handler = "0"
+cheat46_code = "8006D2B4#0063"
+
+cheat47_desc = "第6人EP 最大值"
+cheat47_handler = "0"
+cheat47_code = "8006D2B6#0063"
+
+cheat48_desc = "第6人功击及防御"
+cheat48_handler = "0"
+cheat48_code = "8006D2BC#C8C8"
+
+cheat49_desc = "第6人魔法及素早"
+cheat49_handler = "0"
+cheat49_code = "8006D2BE#C814"
+
+cheat50_desc = "第6人魔法防御"
+cheat50_handler = "0"
+cheat50_code = "800CD2C0#00C8"
+
+cheat51_desc = "第6人命中及回避"
+cheat51_handler = "0"
+cheat51_code = "8006D2C2#6363"
+
+cheat52_desc = "第7人HP 现在值"
+cheat52_handler = "0"
+cheat52_code = "8006D354#03E7"
+
+cheat53_desc = "第7人HP 最大值"
+cheat53_handler = "0"
+cheat53_code = "8006D356#03E7"
+
+cheat54_desc = "第7人EP 现在值"
+cheat54_handler = "0"
+cheat54_code = "8006D358#0063"
+
+cheat55_desc = "第7人EP 最大值"
+cheat55_handler = "0"
+cheat55_code = "8006D35A#0063"
+
+cheat56_desc = "第7人功击及防御"
+cheat56_handler = "0"
+cheat56_code = "8006D360#C8C8"
+
+cheat57_desc = "第7人魔法及素早"
+cheat57_handler = "0"
+cheat57_code = "8006D362#C814"
+
+cheat58_desc = "第7人魔法防御"
+cheat58_handler = "0"
+cheat58_code = "800CD364#00C8"
+
+cheat59_desc = "第7人命中及回避"
+cheat59_handler = "0"
+cheat59_code = "8006D2C2#6363"
+
+cheat60_desc = "第8人HP 现在值"
+cheat60_handler = "0"
+cheat60_code = "8006D3F8#03E7"
+
+cheat61_desc = "第8人HP 最大值"
+cheat61_handler = "0"
+cheat61_code = "8006D3FA#03E7"
+
+cheat62_desc = "第8人EP 现在值"
+cheat62_handler = "0"
+cheat62_code = "8006D3FC#0063"
+
+cheat63_desc = "第8人EP 最大值"
+cheat63_handler = "0"
+cheat63_code = "8006D3FE#0063"
+
+cheat64_desc = "第8人功击及防御"
+cheat64_handler = "0"
+cheat64_code = "8006D404#C8C8"
+
+cheat65_desc = "第8人魔法及素早"
+cheat65_handler = "0"
+cheat65_code = "8006D406#C814"
+
+cheat66_desc = "第8人魔法防御"
+cheat66_handler = "0"
+cheat66_code = "800CD408#00C8"
+
+cheat67_desc = "第8人命中及回避"
+cheat67_handler = "0"
+cheat67_code = "8006D366#6363"
+
+cheat68_desc = "第9人HP 现在值"
+cheat68_handler = "0"
+cheat68_code = "8006D49C#03E7"
+
+cheat69_desc = "第9人HP 最大值"
+cheat69_handler = "0"
+cheat69_code = "8006D49E#03E7"
+
+cheat70_desc = "第9人EP 现在值"
+cheat70_handler = "0"
+cheat70_code = "8006D4A0#0063"
+
+cheat71_desc = "第9人EP 最大值"
+cheat71_handler = "0"
+cheat71_code = "8006D4A2#0063"
+
+cheat72_desc = "第9人功击及防御"
+cheat72_handler = "0"
+cheat72_code = "8006D4A8#C8C8"
+
+cheat73_desc = "第9人魔法及素早"
+cheat73_handler = "0"
+cheat73_code = "8006D4AA#C814"
+
+cheat74_desc = "第9人魔法防御"
+cheat74_handler = "0"
+cheat74_code = "800CD4AC#00C8"
+
+cheat75_desc = "第9人命中及回避"
+cheat75_handler = "0"
+cheat75_code = "8006D40A#6363"
+
+cheat76_desc = "第10人HP 现在值"
+cheat76_handler = "0"
+cheat76_code = "8006D540#03E7"
+
+cheat77_desc = "第10人HP 最大值"
+cheat77_handler = "0"
+cheat77_code = "8006D542#03E7"
+
+cheat78_desc = "第10人EP 现在值"
+cheat78_handler = "0"
+cheat78_code = "8006D544#0063"
+
+cheat79_desc = "第10人EP 最大值"
+cheat79_handler = "0"
+cheat79_code = "8006D546#0063"
+
+cheat80_desc = "第10人功击及防御"
+cheat80_handler = "0"
+cheat80_code = "8006D54C#C8C8"
+
+cheat81_desc = "第10人魔法及素早"
+cheat81_handler = "0"
+cheat81_code = "8006D54E#C814"
+
+cheat82_desc = "第10人魔法防御"
+cheat82_handler = "0"
+cheat82_code = "800CD550#00C8"
+
+cheat83_desc = "第10人命中及回避"
+cheat83_handler = "0"
+cheat83_code = "8006D4AE#6363"
+
+cheat84_desc = "所有人无限 EP"
+cheat84_handler = "0"
+cheat84_code = "D01DDD08#7765;801DDCF0#CF82;D0088084#2027;80088082#9422"
+
+cheat85_desc = "所有GEAR无限 FUEL"
+cheat85_handler = "0"
+cheat85_code = "D00845D8#35CC;800845CA#9425;D0089BA0#26EE;80089B9E#9422;D0084D14#135D;80084D12#9422"
+
+cheat86_desc = "即升 LV99"
+cheat86_handler = "0"
+cheat86_code = "800CC9A6#01C9"
+
+cheat87_desc = "机器人的全道具(防具*80)打开(80个)"
+cheat87_handler = "0"
+cheat87_code = "B0340002#00000000,8006EE48#5050;B0340002#00000202,8006EEDE#0201"
+
+cheat88_desc = "所有角色必杀技不推荐(有问题)"
+cheat88_handler = "0"
+cheat88_code = "B0090020#00000000,3006E384#FFFF"
+
+cheat89_desc = "所有角色特殊能力不推荐(有问题)"
+cheat89_handler = "0"
+cheat89_code = "B0090020#00000000,3006E386#FF00"
+
+cheat90_desc = "快速学会必杀技第1个角色打开(要多打几仗)"
+cheat90_handler = "0"
+cheat90_code = "8006CFC0#FFFF;8006CFC2#FFFF;8006CFC4#FFFF;8006CFC6#FFFF;8006CFC8#FFFF;8006"
+
+cheat91_desc = "快速学会必杀技第2个角色打开(要多打几仗)"
+cheat91_handler = "0"
+cheat91_code = "8006D064#FFFF;8006D066#FFFF;8006D068#FFFF;8006D06A#FFFF;8006D06C#FFFF;8006D06"
+
+cheat92_desc = "快速学会必杀技第3个角色打开(要多打几仗)"
+cheat92_handler = "0"
+cheat92_code = "8006D108#FFFF;8006D10A#FFFF;8006D10C#FFFF;8006D10E#FFFF;8006D110#FFFF;8006D112"
+
+cheat93_desc = "快速学会必杀技第4个角色打开(要多打几仗)"
+cheat93_handler = "0"
+cheat93_code = "8006D1AC#FFFF;8006D1AE#FFFF;8006D1B0#FFFF;8006D1B2#FFFF;8006D1B4#FFFF;8006D1B6"
+
+cheat94_desc = "快速学会必杀技第5个角色打开(要多打几仗)"
+cheat94_handler = "0"
+cheat94_code = "8006D250#FFFF;8006D252#FFFF;8006D254#FFFF;8006D256#FFFF;8006D258#FFFF;8006D25"
+
+cheat95_desc = "打一仗升一级第1个角色打开"
+cheat95_handler = "0"
+cheat95_code = "8006CF74#0000;8006CF76#0000"
+
+cheat96_desc = "打一仗升一级第2个角色打开"
+cheat96_handler = "0"
+cheat96_code = "8006D018#0000;8006D01A#0000"
+
+cheat97_desc = "打一仗升一级第3个角色打开"
+cheat97_handler = "0"
+cheat97_code = "8006D0BC#0000;8006D0BE#0000"
+
+cheat98_desc = "打一仗升一级第4个角色打开"
+cheat98_handler = "0"
+cheat98_code = "8006D160#0000;8006D162#0000"
+
+cheat99_desc = "打一仗升一级第5个角色打开"
+cheat99_handler = "0"
+cheat99_code = "8006D204#0000;8006D206#0000"
+
+cheat100_desc = "体重0千克打开"
+cheat100_handler = "0"
+cheat100_code = "8006D6A4#0000;8006D748#0000;8006D7EC#0000;8006D890#0000;8006D934#0000"
+
+cheats = 101

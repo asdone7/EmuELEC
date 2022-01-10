@@ -1,0 +1,9 @@
+cheat0_desc = "主码"
+cheat0_handler = "0"
+cheat0_code = "F6000914#C305,B6002800#0000"
+
+cheat1_desc = "1~3片战斗中血不减"
+cheat1_handler = "0"
+cheat1_code = "16042542#0064;160430C6#0064;16042EE2#0064"
+
+cheats = 2

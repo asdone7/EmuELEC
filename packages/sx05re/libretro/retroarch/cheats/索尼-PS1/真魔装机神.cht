@@ -1,0 +1,21 @@
+cheat0_desc = "一击必杀ok"
+cheat0_handler = "0"
+cheat0_code = "D0178528#0101,800CA1B6#1400;D0178528#0102,800CA1B6#1400"
+
+cheat1_desc = "无限移动NO"
+cheat1_handler = "0"
+cheat1_code = "D00DC356#A062,800DC356#A060;D00BD61A#A045,800BD61A#A040;D0178528#0104,800CAFE#A080;D0178528#0108,800C2AFE#A082"
+
+cheat2_desc = "PRANA GAUGE不减NO"
+cheat2_handler = "0"
+cheat2_code = "800CB9B2#2400"
+
+cheat3_desc = "精神不减NO"
+cheat3_handler = "0"
+cheat3_code = "800DE626#2400;800DE62A#2400"
+
+cheat4_desc = "众机体等级上升NO"
+cheat4_handler = "0"
+cheat4_code = "B00900F1#00000000,801786C4#423F;B00900F1#00000000,301786C4#000F"
+
+cheats = 5

@@ -1,0 +1,181 @@
+cheat0_desc = "代币MAX"
+cheat0_handler = "0"
+cheat0_code = "801CAC0E#FFFF;801CAC16#00FF"
+
+cheat1_desc = "钓鱼点数"
+cheat1_handler = "0"
+cheat1_code = "801CAABC#FFFF"
+
+cheat2_desc = "没有小敌人"
+cheat2_handler = "0"
+cheat2_code = "3007D3D4#0040"
+
+cheat3_desc = "随时保存记录"
+cheat3_handler = "0"
+cheat3_code = "d01d8e48#0005;801d8e48#0000"
+
+cheat4_desc = "不减道具, 装备"
+cheat4_handler = "0"
+cheat4_code = "d0043210#036e;800431d6#0060"
+
+cheat5_desc = "AP不减"
+cheat5_handler = "0"
+cheat5_code = "d01F2958#0170;801F2956#0040"
+
+cheat6_desc = "MP不减"
+cheat6_handler = "0"
+cheat6_code = "d01dBBB8#7Be8;801dBB8e#0080;d01e73B4#1F80;801e73AA#0040"
+
+cheat7_desc = "被攻击一次,行动点最高,可使出9连技"
+cheat7_handler = "0"
+cheat7_code = "d01DB644#0121;801dB644#0001"
+
+cheat8_desc = "全技(招式)主角"
+cheat8_handler = "0"
+cheat8_code = "301CAeFd#000F;B00F0001#00000001;301CAeFe#0000;301CB311#000d;801CB312#0100;B00B0001#00000001;301CB314#0004;301CB725#000F;B00F0001#00000001;301CB726#00000000"
+
+cheat9_desc = "金钱"
+cheat9_handler = "0"
+cheat9_code = "801CAC0C#E0FF;801CAC0E#05F5"
+
+cheat10_desc = "EXP"
+cheat10_handler = "0"
+cheat10_code = "801CAD78#FFFF;801CAD7A#00FF"
+
+cheat11_desc = "HP"
+cheat11_handler = "0"
+cheat11_code = "801CAE7E#270F"
+
+cheat12_desc = "MP"
+cheat12_handler = "0"
+cheat12_code = "801CAE82#03E7"
+
+cheat13_desc = "AP"
+cheat13_handler = "0"
+cheat13_code = "801CAE86#0064"
+
+cheat14_desc = "(HP)"
+cheat14_handler = "0"
+cheat14_code = "801CAE94#270F"
+
+cheat15_desc = "(MP)"
+cheat15_handler = "0"
+cheat15_code = "801CAE96#03E7"
+
+cheat16_desc = "(AP)"
+cheat16_handler = "0"
+cheat16_code = "801CAE98#0064"
+
+cheat17_desc = "(行动力)"
+cheat17_handler = "0"
+cheat17_code = "801CAE9A#03E7"
+
+cheat18_desc = "(攻击力)"
+cheat18_handler = "0"
+cheat18_code = "801CAE9C#03E7"
+
+cheat19_desc = "(上防御)"
+cheat19_handler = "0"
+cheat19_code = "801CAE9E#03E7"
+
+cheat20_desc = "(下防御)"
+cheat20_handler = "0"
+cheat20_code = "801CAEA0#03E7"
+
+cheat21_desc = "(素早)"
+cheat21_handler = "0"
+cheat21_code = "801CAEA2#03E7"
+
+cheat22_desc = "(贤?)"
+cheat22_handler = "0"
+cheat22_code = "801CAEA4#03E7"
+
+cheat23_desc = "召唤"
+cheat23_handler = "0"
+cheat23_code = "801CAEB4#910D;801CAEB6#9392;801CAEB8#9594;801CAEBA#9A99;801CAEBC#9C9B;801CAEBE#9E9D;801CAEC0#A09F;801CAED8#0900;801CAEDA#0909;801CAEDC#0909;801CAEDE#0909;801CAEE0#0909;801CAEE2#0909;801CAEE4#0909"
+
+cheat24_desc = "技"
+cheat24_handler = "0"
+cheat24_code = "801CAEFC#0F00;801CAEFE#0201;801CAF00#0403;801CAF02#0605;801CAF04#0807;801CAF06#0A09;801CAF08#0C0B;801CAF0A#0E0D"
+
+cheat25_desc = "诺雅EXP"
+cheat25_handler = "0"
+cheat25_code = "801CB18C#FFFF;801CB18E#00FF"
+
+cheat26_desc = "HP"
+cheat26_handler = "0"
+cheat26_code = "801CB292#270F"
+
+cheat27_desc = "MP"
+cheat27_handler = "0"
+cheat27_code = "801CB296#03E7"
+
+cheat28_desc = "AP"
+cheat28_handler = "0"
+cheat28_code = "801CB29A#0064"
+
+cheat29_desc = "(HP)"
+cheat29_handler = "0"
+cheat29_code = "801CB2A8#270F"
+
+cheat30_desc = "(MP)"
+cheat30_handler = "0"
+cheat30_code = "801CB2AA#03E7"
+
+cheat31_desc = "(AP)"
+cheat31_handler = "0"
+cheat31_code = "801CB2AC#0064"
+
+cheat32_desc = "(行动力)"
+cheat32_handler = "0"
+cheat32_code = "801CB2AE#03E7"
+
+cheat33_desc = "(攻击力)"
+cheat33_handler = "0"
+cheat33_code = "801CB2B0#03E7"
+
+cheat34_desc = "(上防御)"
+cheat34_handler = "0"
+cheat34_code = "801CB2B2#03E7"
+
+cheat35_desc = "(下防御)"
+cheat35_handler = "0"
+cheat35_code = "801CB2B4#03E7"
+
+cheat36_desc = "(素早)"
+cheat36_handler = "0"
+cheat36_code = "801CB2B6#03E7"
+
+cheat37_desc = "(贤?)"
+cheat37_handler = "0"
+cheat37_code = "801CB2B8#03E7"
+
+cheat38_desc = "召唤"
+cheat38_handler = "0"
+cheat38_code = "801CB2C8#910D;801CB2CA#9392;801CB2CC#9594;801CB2CE#9A99;801CB2D0#9C9B;801CB2D2#9E9D;801CB2D4#A09F;801CB2EC#0900;801CB2EE#0909;801CB2F0#0909;801CB2F2#0909;801CB2F4#0909;801CB2F6#0909;801CB2F8#0909"
+
+cheat39_desc = "技"
+cheat39_handler = "0"
+cheat39_code = "801CB310#1000;801CB312#0201;801CB314#0403;801CB316#0605;801CB318#0807;801CB31A#0A09;801CB31C#0C0B;801CB31E#0E0D;801CB320#000F"
+
+cheat40_desc = "部份道具"
+cheat40_handler = "0"
+cheat40_code = "B01B0002#00000001;801CBFC8#637F;B0410002#00000001;801CBFFE#63BF"
+
+cheat41_desc = "战斗一次後等级MAX"
+cheat41_handler = "0"
+cheat41_code = "80050B44#7FFF;80050B46#2402;80050B4C#1280;80050B4E#0022"
+
+cheat42_desc = "战斗一次後AP MAX"
+cheat42_handler = "0"
+cheat42_code = "D01E8DA4#0003;801E8DA4#0001"
+
+cheat43_desc = "AP不会减少"
+cheat43_handler = "0"
+cheat43_code = "D01E8C90#0044;801E8C90#0040;D01F2956#0044;801F2956#0040"
+
+cheat44_desc = "攻击时AP MAX"
+cheat44_handler = "0"
+cheat44_code = "D01F2E28#1021;801F2E28#0064;D01F2E2A#0044;801F2E2A#2402"
+
+cheats = 45

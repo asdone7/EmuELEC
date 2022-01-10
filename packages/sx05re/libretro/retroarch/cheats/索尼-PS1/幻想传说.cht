@@ -1,0 +1,65 @@
+cheat0_desc = "钱"
+cheat0_handler = "0"
+cheat0_code = "8008740C#967F;8008740E#0098"
+
+cheat1_desc = "LV"
+cheat1_handler = "0"
+cheat1_code = "800227C4#0008;800227C6#8E05"
+
+cheat2_desc = "随时记录"
+cheat2_handler = "0"
+cheat2_code = "D0088726#6000;80088726#6200;d00dcc8c#0200;300dcc8d#0000"
+
+cheat3_desc = "主角特技最大"
+cheat3_handler = "0"
+cheat3_code = "30087A64#00FF;30087A66#00FF;30087A68#00FF;30087A6E#00FF"
+
+cheat4_desc = "不遇敌人"
+cheat4_handler = "0"
+cheat4_code = "80088724#0000"
+
+cheat5_desc = "全道具"
+cheat5_handler = "0"
+cheat5_code = "B07F0002#00000001;80087614#0045;B07F0002#00000001;80087712#00C5;B04C0002#00000001;80087810#0144;30087459#000F;B07F"
+
+cheat6_desc = "貴重品"
+cheat6_handler = "0"
+cheat6_code = "B00A0002#00000000;80087444#0101;30087458#0001"
+
+cheat7_desc = "１回戰闘加１級"
+cheat7_handler = "0"
+cheat7_code = "800227C4#0008;800227C6#8E05"
+
+cheat8_desc = "１回等級UP HP最大"
+cheat8_handler = "0"
+cheat8_code = "80022260#0001"
+
+cheat9_desc = "１回等級UP TP最大"
+cheat9_handler = "0"
+cheat9_code = "800222CC#0001"
+
+cheat10_desc = "１回等級UP 能力值最大"
+cheat10_handler = "0"
+cheat10_code = "80022374#0001;8002245C#0001;80022544#0001"
+
+cheat11_desc = "戰闘中TP不減 戰鬥後TP回復"
+cheat11_handler = "0"
+cheat11_code = "D0131E0E#1C40;80131E0E#1000;D0131E28#0002;80131E28#0001"
+
+cheat12_desc = "小敵人不出現"
+cheat12_handler = "0"
+cheat12_code = "80088724#0000"
+
+cheat13_desc = "不減tp"
+cheat13_handler = "0"
+cheat13_code = "d0131e18#0138;80131e0a#0040;d00a1cbc#195a;800a1c5a#0040"
+
+cheat14_desc = "不減道具"
+cheat14_handler = "0"
+cheat14_code = "d0014a40#52ad;80014a5a#00e0"
+
+cheat15_desc = "主人公全技"
+cheat15_handler = "0"
+cheat15_code = "d0014a40#52ad;b0130001#00000001;30086f48#0001"
+
+cheats = 16

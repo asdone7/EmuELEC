@@ -1,0 +1,41 @@
+cheat0_desc = "接关无限"
+cheat0_handler = "0"
+cheat0_code = "800AB508#0000"
+
+cheat1_desc = "在movie观赏影片"
+cheat1_handler = "0"
+cheat1_code = "300D5438#001F"
+
+cheat2_desc = "只数"
+cheat2_handler = "0"
+cheat2_code = "800B9DBE#0063"
+
+cheat3_desc = "护罩不减"
+cheat3_handler = "0"
+cheat3_code = "800BA34A#060F"
+
+cheat4_desc = "无敌"
+cheat4_handler = "0"
+cheat4_code = "800B9DC2#0075"
+
+cheat5_desc = "WAVE最强"
+cheat5_handler = "0"
+cheat5_code = "800BA2F8#0502"
+
+cheat6_desc = "MULTI最强"
+cheat6_handler = "0"
+cheat6_code = "800BA328#0202"
+
+cheat7_desc = "HYPER最强"
+cheat7_handler = "0"
+cheat7_code = "800BA348#0402"
+
+cheat8_desc = "能源球不减"
+cheat8_handler = "0"
+cheat8_code = "300B3A4B#0006"
+
+cheat9_desc = "大型雷射"
+cheat9_handler = "0"
+cheat9_code = "800DBDB6#01FF"
+
+cheats = 10

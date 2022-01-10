@@ -1,0 +1,9 @@
+cheat0_desc = "粮食很多"
+cheat0_handler = "0"
+cheat0_code = "801444A0#987F;801444A2#0098"
+
+cheat1_desc = "兵数1000000"
+cheat1_handler = "0"
+cheat1_code = "801444A4#987F;801444A6#0098"
+
+cheats = 2

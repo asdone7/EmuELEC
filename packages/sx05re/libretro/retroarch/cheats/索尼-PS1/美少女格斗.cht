@@ -1,0 +1,17 @@
+cheat0_desc = "生命力不减"
+cheat0_handler = "0"
+cheat0_code = "8005B00C#4B00"
+
+cheat1_desc = "防御值不减"
+cheat1_handler = "0"
+cheat1_code = "8005B00E#3200"
+
+cheat2_desc = "能量表最大不减"
+cheat2_handler = "0"
+cheat2_code = "8005B010#0078"
+
+cheat3_desc = "隐藏角色全现"
+cheat3_handler = "0"
+cheat3_code = "8005A42C#0007"
+
+cheats = 4

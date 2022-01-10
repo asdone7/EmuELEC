@@ -1,0 +1,9 @@
+cheat0_desc = "无敌"
+cheat0_handler = "0"
+cheat0_code = "800A4AE6#0100"
+
+cheat1_desc = "子弹"
+cheat1_handler = "0"
+cheat1_code = "800A4AE2#0925"
+
+cheats = 2

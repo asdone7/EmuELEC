@@ -1,0 +1,5 @@
+cheat0_desc = "全ＣＧ"
+cheat0_handler = "0"
+cheat0_code = "B0230002#00000000;800A4A84#0101"
+
+cheats = 1

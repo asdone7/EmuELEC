@@ -1,0 +1,133 @@
+cheat0_desc = "无限金钱"
+cheat0_handler = "0"
+cheat0_code = "8006E5E8#C9FF;8006E5EA#3B9A"
+
+cheat1_desc = "游戏总时间不加"
+cheat1_handler = "0"
+cheat1_code = "80058B24#0000;80058B26#0000"
+
+cheat2_desc = "隋时SAVE"
+cheat2_handler = "0"
+cheat2_code = "800B1840#0001"
+
+cheat3_desc = "所有能力最高第一人HP现在值"
+cheat3_handler = "0"
+cheat3_code = "8006CF7C#03E7"
+
+cheat4_desc = "所有能力最高HP 最大值"
+cheat4_handler = "0"
+cheat4_code = "8006CF7E#03E7"
+
+cheat5_desc = "所有能力最高EP 现在值"
+cheat5_handler = "0"
+cheat5_code = "8006CF80#0063"
+
+cheat6_desc = "所有能力最高EP 最大值"
+cheat6_handler = "0"
+cheat6_code = "8006CF82#0063"
+
+cheat7_desc = "所有能力最高功击及防御"
+cheat7_handler = "0"
+cheat7_code = "8006CF88#C8C8"
+
+cheat8_desc = "所有能力最高魔法及素早"
+cheat8_handler = "0"
+cheat8_code = "8006CF8A#C814"
+
+cheat9_desc = "所有能力最高魔法防御"
+cheat9_handler = "0"
+cheat9_code = "800C6F8C#00C8"
+
+cheat10_desc = "所有能力最高命中及回避"
+cheat10_handler = "0"
+cheat10_code = "8006CF8E#6363"
+
+cheat11_desc = "第贰人HP 现在值"
+cheat11_handler = "0"
+cheat11_code = "8006D020#03E7"
+
+cheat12_desc = "第贰人HP 最大值"
+cheat12_handler = "0"
+cheat12_code = "8006D022#03E7"
+
+cheat13_desc = "第贰人EP 现在值"
+cheat13_handler = "0"
+cheat13_code = "8006D024#0063"
+
+cheat14_desc = "第贰人EP 最大值"
+cheat14_handler = "0"
+cheat14_code = "8006D026#0063"
+
+cheat15_desc = "第贰人功击及防御"
+cheat15_handler = "0"
+cheat15_code = "8006D02C#C8C8"
+
+cheat16_desc = "第贰人魔法及素早"
+cheat16_handler = "0"
+cheat16_code = "8006D02E#C814"
+
+cheat17_desc = "第贰人魔法防御"
+cheat17_handler = "0"
+cheat17_code = "800CD030#00C8"
+
+cheat18_desc = "第贰人命中及回避"
+cheat18_handler = "0"
+cheat18_code = "8006D032#6363"
+
+cheat19_desc = "第叁人HP 现在值"
+cheat19_handler = "0"
+cheat19_code = "8006D0C4#03E7"
+
+cheat20_desc = "第叁人HP 最大值"
+cheat20_handler = "0"
+cheat20_code = "8006D0C6#03E7"
+
+cheat21_desc = "第叁人EP 现在值"
+cheat21_handler = "0"
+cheat21_code = "8006D0C8#0063"
+
+cheat22_desc = "第叁人EP 最大值"
+cheat22_handler = "0"
+cheat22_code = "8006D0CA#0063"
+
+cheat23_desc = "第叁人功击及防"
+cheat23_handler = "0"
+cheat23_code = "8006D0D0#C8C8"
+
+cheat24_desc = "第叁人魔法及素早"
+cheat24_handler = "0"
+cheat24_code = "8006D0D2#C814"
+
+cheat25_desc = "第叁人魔法防御"
+cheat25_handler = "0"
+cheat25_code = "800CD0D4#00C8"
+
+cheat26_desc = "第叁人命中及回避"
+cheat26_handler = "0"
+cheat26_code = "8006D0D6#6363"
+
+cheat27_desc = "所有人无限 EP"
+cheat27_handler = "0"
+cheat27_code = "D01DDD08#7765;801DDCF0#CF82;D0088084#2027;80088082#9422"
+
+cheat28_desc = "所有GEAR无限 FUEL"
+cheat28_handler = "0"
+cheat28_code = "D00845D8#35CC;800845CA#9425;D0089BA0#26EE;80089B9E#9422;D0084D14#135D;80084D12#9422"
+
+cheat29_desc = "即升 LV99"
+cheat29_handler = "0"
+cheat29_code = "800CC9A6#01C9"
+
+cheat30_desc = "机器人的全道具(防具)"
+cheat30_handler = "0"
+cheat30_code = "B0340002#00000000,8006EE48#6363;B0340002#00000202,8006EEDE#0201"
+
+cheat31_desc = "所有角色必杀技"
+cheat31_handler = "0"
+cheat31_code = "B0090020#00000000,3006E384#FFFF"
+
+cheat32_desc = "所有角色特殊能力"
+cheat32_handler = "0"
+cheat32_code = "B0090020#00000000,3006E386#FF00"
+
+cheats = 33

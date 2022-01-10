@@ -1,0 +1,21 @@
+cheat0_desc = "金錢NO"
+cheat0_handler = "0"
+cheat0_code = "80194304#423F;80194306#000F"
+
+cheat1_desc = "道具不減NO"
+cheat1_handler = "0"
+cheat1_code = "D008959E#A230,8008959E#2400"
+
+cheat2_desc = "MP不減NO"
+cheat2_handler = "0"
+cheat2_code = "D003047E#A622,8003047E#2400"
+
+cheat3_desc = "全道具NO"
+cheat3_handler = "0"
+cheat3_code = "B0E10002#00000000,801DDA09#8009;B0E10002#00000001,801DDD06#0001"
+
+cheat4_desc = "经验值NO"
+cheat4_handler = "0"
+cheat4_code = "D0028F20#0000,80028F20#8200;D0028F22#0000,80028F22#0010"
+
+cheats = 5

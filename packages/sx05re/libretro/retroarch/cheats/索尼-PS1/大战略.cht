@@ -1,0 +1,49 @@
+cheat0_desc = "战斗中金无线"
+cheat0_handler = "0"
+cheat0_code = "80126294#FFFF"
+
+cheat1_desc = "兵器改造金无限"
+cheat1_handler = "0"
+cheat1_code = "801A5B04#FFFF"
+
+cheat2_desc = "主码"
+cheat2_handler = "0"
+cheat2_code = "F6000914#C305;B6002800#0000"
+
+cheat3_desc = "金钱无限"
+cheat3_handler = "0"
+cheat3_code = "1607D904#0098;1607D906#967F"
+
+cheat4_desc = "军事费MAX"
+cheat4_handler = "0"
+cheat4_code = "D8184F1F#0098967F"
+
+cheat5_desc = "2 军事费0"
+cheat5_handler = "0"
+cheat5_code = "870341D8#00000000"
+
+cheat6_desc = "3 军事费0"
+cheat6_handler = "0"
+cheat6_code = "CBAB2B17#00000000"
+
+cheat7_desc = "4 军事费0"
+cheat7_handler = "0"
+cheat7_code = "622BA7A7#00000000"
+
+cheat8_desc = "5 军事费0"
+cheat8_handler = "0"
+cheat8_code = "D0184F21#00000000"
+
+cheat9_desc = "6 军事费0"
+cheat9_handler = "0"
+cheat9_code = "8F0341F5#00000000"
+
+cheat10_desc = "7 军事费0"
+cheat10_handler = "0"
+cheat10_code = "B296F781#00000000"
+
+cheat11_desc = "8 军事费0"
+cheat11_handler = "0"
+cheat11_code = "71D51E06#00000000"
+
+cheats = 12
