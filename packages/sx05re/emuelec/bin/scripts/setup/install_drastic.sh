@@ -7,6 +7,7 @@
 . /etc/profile
 
 function drastic_confirm() {
+if [ $(get_ee_setting system.language) == "zh_CN" ]; then
     text_viewer -y -w -t "安装NDS模拟器" -f 24 -m "这将安装并启用NDS模拟器\n\n注意: 您需要连接互联网，并且在安装结束后重新启动，是否继续?"
         if [[ $? == 21 ]]; then
             if drastic_install; then
@@ -16,6 +17,7 @@ function drastic_confirm() {
             fi
       fi
     ee_console disable
+fi
  }
 
 function drastic_install() {
