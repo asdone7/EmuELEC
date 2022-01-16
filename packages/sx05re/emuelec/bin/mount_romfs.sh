@@ -9,6 +9,12 @@
 # fat32 is default
 ROM_FS_TYPE="vfat"
 
+ESRESTART="${1}"
+
+EXTERNALDRIVE="${2}"
+[[ -z "${EXTERNALDRIVE}" ]] && EXTERNALDRIVE=$(get_ee_setting global.externalmount)
+[[ -z "${EXTERNALDRIVE}" || "${EXTERNALDRIVE}" == "auto" ]] && EXTERNALDRIVE=""
+
 # Get EEROMS filetype
 if [ -e "/flash/ee_fstype" ]; then
     EE_FS_TYPE=$(cat "/flash/ee_fstype")
@@ -28,7 +34,7 @@ EE_FS_TYPE=${ROM_FS_TYPE}
 
 # Wait for the time specified in ee_load.delay setting in emuelec.conf
 LOADTIME=$(get_ee_setting ee_load.delay)
-[ ! -z "$LOADTIME" ] && sleep $LOADTIME
+[ ! -z "${LOADTIME}" ] && sleep ${LOADTIME}
 
 # Kodi seems to set its own FB settings for 720p, so we revert them to one that work on ES, I use all resolutions just in case :)
 setres.sh
@@ -53,26 +59,29 @@ else
 umount "/storage/roms/ports_scripts" > /dev/null 2>&1
 umount "/var/media/EEROMS/roms/ports_scripts" > /dev/null 2>&1
 
-
 # Lets try and find some roms on a mounted USB drive
 # name of the file we need to put in the roms folder in your USB or SDCARD
 ROMFILE="emuelecroms"
 
 # Only run the USB check if the ROMFILE does not exists in /storage/roms, this can help for manually created symlinks or network shares
 # or if you want to skip the USB rom mount for whatever reason
-if  [ ! -f "/storage/roms/$ROMFILE" ]; then
+if  [ ! -f "/storage/roms/$ROMFILE" ] || [ "${ESRESTART}" == "yes" ]; then
 
 # if the file is not present then we look for the file in connected USB media, and only return the first match 
-FULLPATHTOROMS="$(find /media/*/roms/ -name $ROMFILE* -maxdepth 1 | head -n 1)"
+ROMSPATH="/media/*/roms/"
+[[ ! -z "${EXTERNALDRIVE}" ]] && ROMSPATH="/var/media/${EXTERNALDRIVE}/roms/"
+FULLPATHTOROMS="$(find ${ROMSPATH} -name ${ROMFILE}* -maxdepth 1 | head -n 1)"
+
+echo "Using path ${FULLPATHTOROMS}"
 
 if [[ -z "${FULLPATHTOROMS}" ]]; then
 TRY=0
 RETRY=$(get_ee_setting ee_mount.retry)
     if [ "${RETRY}" -ge  1 ]; then
         while [ "${TRY}" -le "${RETRY}" ] ; do
-            FULLPATHTOROMS="$(find /media/*/roms/ -name $ROMFILE* -maxdepth 1 | head -n 1)"
+            FULLPATHTOROMS="$(find ${ROMSPATH} -name ${ROMFILE}* -maxdepth 1 | head -n 1)"
             [[ ! -z "${FULLPATHTOROMS}" ]] && break;
-            try=$((try+1))
+            TRY=$((TRY+1))
             sleep 1
         done
     fi
@@ -84,6 +93,8 @@ systemctl stop smbd
 if [[ -z "${FULLPATHTOROMS}" ]]; then
 # Can't find the ROMFILE, if the symlink exists, then remove it and mount the roms partition
 [[ -L "/storage/roms" ]] && rm /storage/roms
+# "/storage/roms" should never be a directory, move the directory instead of deleting it in case it has ROMS
+[[ ! -L "/storage/roms" && -d "/storage/roms" ]] && mv /storage/roms /storage/roms_backup
 
 if /usr/bin/busybox mountpoint -q /var/media/EEROMS ; then
       umount /var/media/EEROMS > /dev/null 2>&1
@@ -109,9 +120,11 @@ fi
 # only delete the symlink if the ROMFILE is found.
 # this could be bad if you manually create the symlink, but if you do that, then you know how to edit this file :) 
 # but we need to find a better way
+# "/storage/roms" should never be a directory, move the directory instead of deleting it in case it has ROMS
        
 [[ -L "/storage/roms" ]] && rm /storage/roms
-   
+[[ ! -L "/storage/roms" && -d "/storage/roms" ]] && mv /storage/roms /storage/roms_backup
+
 # All the sanity checks have passed, we have a ROMFILE so we create the symlink to the roms in our USB
 ## this could potentially be a mount bind, but for now symlink helps us identify if its external or not.
     ln -sTf "$PATHTOROMS" /storage/roms
@@ -119,3 +132,7 @@ fi
 fi 
 
 fi # samba 
+
+systemctl start smbd
+
+[[ "${ESRESTART}" == "yes" ]] && systemctl restart emustation
