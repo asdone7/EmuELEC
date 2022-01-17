@@ -2,8 +2,8 @@
 # Copyright (C) 2019-present Shanti Gilbert (https://github.com/shantigilbert)
 
 PKG_NAME="hbfbneo"
-PKG_VERSION="b55cd2f8122c8570f3f120819fc781485699531a"
-PKG_SHA256="bcc696812710ee21ad6e3acf72c795dc867c67eee186a4183d50302219b5e318"
+PKG_VERSION="0847baf4b21d191196b79adf7018ae274e26fa12"
+PKG_SHA256="0921b5ab4460166309431e2befc30ba368f45f460bdaa6adbdba56b87f0f678e"
 PKG_REV="1"
 PKG_ARCH="any"
 PKG_LICENSE="Non-commercial"
@@ -17,7 +17,7 @@ PKG_TOOLCHAIN="make"
 
 
 pre_configure_target() {
-sed -i "s|LDFLAGS += -static-libgcc -static-libstdc++|LDFLAGS += -static-libgcc|"  ./src/burner/libretro/Makefile
+sed -i "s|LDFLAGS += -static-libgcc -static-libstdc++|LDFLAGS += -static-libgcc|"  ./src/burner/libretro
 
 PKG_MAKE_OPTS_TARGET=" -C ./src/burner/libretro USE_CYCLONE=0 profile=performance"
 

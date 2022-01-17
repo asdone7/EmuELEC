@@ -2,8 +2,8 @@
 # Copyright (C) 2009-2016 Stephan Raue (stephan@openelec.tv)
 
 PKG_NAME="liberation-core-supplement"
-PKG_VERSION="279bc402d551d5490b4a4321c4eaff1118e70272"
-PKG_SHA256="b0f2b88b2fb30a8585068a60f4f46a135c4224c468d666e8ce49ad9867a958b2"
+PKG_VERSION="f4f8e132591081e24fec6366247b20a3e9c826f7"
+PKG_SHA256="cbc55979aaac208ead26860d3ebb3ae7dfde949fd3ce2f6ac695d91ca82d85d0"
 PKG_LICENSE="FBN_FBA"
 PKG_SITE="https://github.com/asdone7/liberation-core-supplement"
 PKG_URL="$PKG_SITE/archive/$PKG_VERSION.tar.gz"
