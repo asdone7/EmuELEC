@@ -17,8 +17,8 @@ PKG_AUTORECONF="no"
 PKG_TOOLCHAIN="make"
 PKG_NEED_UNPACK="$(get_pkg_directory busybox)"
 
-PKG_EXPERIMENTAL="munt nestopiaCV quasi88 xmil np2kai hypseus-singe dosbox-x yabasanshiroSA fbneoSA"
-PKG_EMUS="$LIBRETRO_CORES advancemame PPSSPPSDL amiberry hatarisa openbor dosbox-staging mupen64plus-nx-alt stellasa solarus dosbox-pure pcsx_rearmed ecwolf potator freej2me duckstation-lr duckstation flycastsa fmsx-libretro jzintv mupen64plussa liberation-core-supplement"
+PKG_EXPERIMENTAL="munt nestopiaCV quasi88 xmil np2kai hypseus-singe dosbox-x yabasanshiroSA"
+PKG_EMUS="$LIBRETRO_CORES advancemame PPSSPPSDL amiberry hatarisa openbor dosbox-staging mupen64plus-nx-alt stellasa solarus dosbox-pure pcsx_rearmed ecwolf potator freej2me duckstation flycastsa fmsx-libretro jzintv mupen64plussa liberation-core-supplement"
 PKG_TOOLS="emuelec-tools"
 PKG_DEPENDS_TARGET+=" $PKG_TOOLS $PKG_EMUS $PKG_EXPERIMENTAL"
 
@@ -47,6 +47,7 @@ if [ "$ARCH" == "aarch64" ]; then
 for discore in munt_neon quicknes parallel-n64 pcsx_rearmed; do
 		PKG_DEPENDS_TARGET=$(echo $PKG_DEPENDS_TARGET | sed "s|$discore| |")
 	done
+	
 PKG_DEPENDS_TARGET+=" swanstation emuelec-32bit-libs"
 
 if [ "${DEVICE}" == "Amlogic-ng" ]; then

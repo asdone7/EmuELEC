@@ -28,6 +28,15 @@
 		<image>./downloaded_images/drastic.png</image>
 	</game>
 	<game>
+		<path>./install_pixelcade.sh</path>
+		<name>安装 Pixelcade</name>
+		<desc>下载并安装Pixelcade - LED Marquee软件,用于街机!</desc>
+		<developer>pixelcade</developer>
+		<publisher>pixelcade.org</publisher>
+		<genre>script</genre>
+		<image>./downloaded_images/pixelcade.png</image>
+	</game>
+	<game>
 		<path>./sselphs_scraper.sh</path>
 		<name>Sselphs 抓取元数据</name>
 		<desc>替代 ROM 抓取元数据. 需要配置!</desc>
@@ -98,15 +107,6 @@
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
 		<image>./downloaded_images/youtube.png</image>
-	</game>
-	<game>
-		<path>./bt_controller_management.sh</path>
-		<name>蓝牙控制器管理</name>
-		<desc>代替蓝牙配置菜单</desc>
-		<developer>shantigilbert </developer>
-		<publisher>Emuelec</publisher>
-		<genre>script</genre>
-		<image>./downloaded_images/bluetooth.png</image>
 	</game>
 	<game>
 		<path>./scan_scummVM_games.sh</path>
