@@ -6,7 +6,7 @@ index 1c0800f37..62f74e402 100644
  	{ "sfzech"        , CPS_B_21_DEF, mapper_sfzch , 0, NULL                },
  	{ "sfzhch"        , CPS_B_21_DEF, mapper_sfzch , 0, NULL                },
  
-+	// Add Hack Roms
++	// Add Hack Roms patch
 +	{ "area88k"       , CPS_B_11    , mapper_AR22B , 0, NULL                },
 +	{ "captcommk"     , CPS_B_21_BT3, mapper_CC63B , 0, NULL                },
 +	{ "daimakaik"     , CPS_B_01    , mapper_DM22A , 0, NULL                },
@@ -35,7 +35,7 @@ index 1c0800f37..62f74e402 100644
  #include "d_kenseim.h"
  
 +//============================================================
-+//  Add Hack Roms
++//  Add Hack Roms patch
 +//============================================================
 +
 +static struct BurnRomInfo Area88kRomDesc[] = {
@@ -1003,7 +1003,7 @@ index 6f15f10ea..27ceec74d 100644
  };
 +
 +//============================================================
-+//  Add Hack Roms
++//  Add Hack Roms patch
 +//============================================================
 +
 +static struct BurnRomInfo Ddsomav4RomDesc[] = {
@@ -1961,7 +1961,7 @@ index 6f15f10ea..27ceec74d 100644
  };
 +
 +//============================================================
-+// Add Hack Roms
++// Add Hack Roms patch
 +//============================================================
 +
 +static INT32 kof99ndInit()
@@ -4984,3 +4984,54 @@ index 6f15f10ea..27ceec74d 100644
 +	NeoInit, NeoExit, NeoFrame, NeoRender, NeoScan, &NeoRecalcPalette,
 +	0x1000, 304, 224, 4, 3
 +};
+--- a/src/burn/drv/pgm/d_pgm.cpp	2022-01-31 14:29:07.000000000 +0800
++++ b/src/burn/drv/pgm/d_pgm.cpp	2022-02-16 12:55:06.692552880 +0800
+@@ -8099,3 +8099,47 @@
+ 	kovassgaInit, pgmExit, pgmFrame, pgmDraw, pgmScan, &nPgmPalRecalc, 0x900,
+ 	448, 224, 4, 3
+ };
++
++// 西游释厄传 103 五行传说 唐僧天王版
++
++static struct BurnRomInfo olds103twxcsRomDesc[] = {
++	{ "p0500.v103",			0x0400000, 0xc4832cda, 1 | BRF_PRG | BRF_ESS }, //  0 68K Code
++
++	{ "t0500.rom",	  			0x0400000, 0x7c0bb3cb, 2 | BRF_GRA },			//  5 Tile data
++	{ "pgm_t0501.u19",	   		0x0200000, 0xd2106864, 2 | BRF_GRA },			//  6
++
++	{ "a0500.rom",	   			0x0400000, 0x5a35bd57, 3 | BRF_GRA },			//  7 Sprite Color Data
++	{ "pgm_a0501.u6",	   		0x0400000, 0x98c931b1, 3 | BRF_GRA },			//  8
++	{ "pgm_a0502.u7",	   		0x0400000, 0xc3fcdf1d, 3 | BRF_GRA },			//  9
++	{ "pgm_a0503.u8",	   		0x0400000, 0x066dffec, 3 | BRF_GRA },			// 10
++	{ "pgm_a0504.u11",	   		0x0400000, 0x45337583, 3 | BRF_GRA },			// 11
++	{ "pgm_a0505.u12",	   		0x0400000, 0x5b8cf3a5, 3 | BRF_GRA },			// 12
++	{ "a0506.rom",	   			0x0800001, 0xc17a9691, 3 | BRF_GRA },			// 13
++
++	{ "b0500.rom",	   			0x0400000, 0x6d08b15b, 4 | BRF_GRA },			// 14 Sprite Masks & Color Indexes
++	{ "pgm_b0501.u10",	   		0x0400000, 0x1546c2e9, 4 | BRF_GRA },			// 15
++	{ "pgm_b0502.u15",	   		0x0400000, 0xe97b31c3, 4 | BRF_GRA },			// 16
++	{ "pgm_b0503.u16",	   		0x0800001, 0x161cb487, 4 | BRF_GRA },			// 17
++
++	{ "m0500.rom",	   			0x0600000, 0x37928cdd, 5 | BRF_SND },			// 18 Samples
++
++#if !defined (ROM_VERIFY)
++	// ROM label SP 西遊記 DATA on sticker
++	{ "sp_data.u6",	   			0x010000, 0xe7613dda, 9 | BRF_PRG | BRF_ESS },  // 15 Protection Rom
++#else
++	{ "ram_dump",	   				0x040000, 0x280cfb4e, 0 | BRF_OPT },			// 16 Dump of RAM shared with protection device
++#endif
++};
++
++STDROMPICKEXT(olds103twxcs, olds103twxcs, pgm)
++STD_ROM_FN(olds103twxcs)
++
++struct BurnDriver BurnDrvolds103twxcs = {
++	"olds103twxcs", "olds", "pgm", NULL, "1998",
++	"西游释厄传 103 五行传说 唐僧天王版\0", "Imperfect Protection Emulation", "IGS", "PolyGameMaster",
++	L"Oriental Legend Super\0\u897F\u6E38\u91CA\u5384\u4F20 Super (olds103twxcs)\0", NULL, NULL, NULL,
++	BDF_GAME_WORKING | BDF_CLONE, 4, HARDWARE_IGS_PGM, GBF_SCRFIGHT, 0,
++	NULL, olds103twxcsRomInfo, olds103twxcsRomName, NULL, NULL, NULL, NULL, pgmInputInfo, olds100DIPInfo,
++	oldsInit, pgmExit, pgmFrame, pgmDraw, pgmScan, &nPgmPalRecalc, 0x900,
++	448, 224, 4, 3
++};
+

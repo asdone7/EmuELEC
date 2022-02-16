@@ -51,4 +51,5 @@ makeinstall_target() {
     cp -rf $PKG_DIR/config/* $INSTALL/usr/config/ppsspp/
     rm $INSTALL/usr/config/ppsspp/assets/gamecontrollerdb.txt
     ln -sf /storage/.config/SDL-GameControllerDB/gamecontrollerdb.txt $INSTALL/usr/config/ppsspp/assets/gamecontrollerdb.txt
+    cp -rf $PKG_DIR/font/* $INSTALL/usr/config/ppsspp/assets/flash0/font/
 } 

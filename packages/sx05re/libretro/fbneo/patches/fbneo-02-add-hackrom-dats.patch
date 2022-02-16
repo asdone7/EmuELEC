@@ -1,0 +1,55 @@
+--- a/dats/FinalBurn Neo (ClrMame Pro XML, Arcade only).dat	2022-01-21 20:48:47.000000000 +0800
++++ b/dats/FinalBurn Neo (ClrMame Pro XML, Arcade only).dat	2022-02-11 12:49:23.288131096 +0800
+@@ -70406,6 +70406,52 @@
+		<video orientation="horizontal" width="448" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+	</game>
++	<game name="kovplus6" cloneof="kovplus" romof="kovplus">
++		<description>Knights of Valour Plus Liu Jian Chuan Qi 2015 [hack]</description>
++		<year>2015</year>
++		<manufacturer>IGS</manufacturer>
++		<rom name="p0600.119" size="7675112" crc="1b9d9073"/>
++		<rom name="pgm_t0600.rom" size="8388608" crc="6459e292"/>
++		<rom name="pgm_a0600.rom" size="8388608" crc="b64be5d6"/>
++		<rom name="pgm_a0601.rom" size="8388608" crc="ff7a4373"/>
++		<rom name="pgm_a0602.rom" size="8388608" crc="e7a32959"/>
++		<rom name="pgm_a0603.rom" size="4194304" crc="ec31abda"/>
++		<rom name="pgm_b0600.rom" size="8388608" crc="789b172f"/>
++		<rom name="pgm_b0601.rom" size="4194304" crc="a0bb1c2f"/>
++		<rom name="pgm_m0600.rom" size="4194304" crc="3ada4fd6"/>
++		<rom name="kov_igs027a.bin" size="16384" status="nodump"/>
++		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0"/>
++		<rom name="pgm_m01s.rom" merge="pgm_m01s.rom" size="2097152" crc="45ae7159"/>
++		<rom name="pgm_p01s.u20" merge="pgm_p01s.u20" size="131072" crc="e42b166e"/>
++		<rom name="pgm_p02s.u20" merge="pgm_p02s.u20" size="131072" crc="78c15fa2"/>
++		<rom name="ddp3_bios.u37" merge="ddp3_bios.u37" size="524288" crc="b3cc5c8f"/>
++		<rom name="bios.u42" merge="bios.u42" size="131072" crc="517cf7a2"/>
++		<video orientation="horizontal" width="448" height="224" aspectx="4" aspecty="3"/>
++		<driver status="good"/>
++	</game>
++	<game name="kovplus2016em" cloneof="kovplus" romof="kovplus">
++		<description>Knights of Valour Plus Liu Jian Chuan Qi 2016 [hack]</description>
++		<year>2016</year>
++		<manufacturer>IGS</manufacturer>
++		<rom name="p0600.119" size="7675112" crc="ff1dad51"/>
++		<rom name="pgm_t0600.rom" size="8388608" crc="92b89388"/>
++		<rom name="pgm_a0600.rom" size="8388608" crc="098cd614"/>
++		<rom name="pgm_a0601.rom" size="8388608" crc="ff7a4373"/>
++		<rom name="pgm_a0602.rom" size="8388608" crc="efb30f14"/>
++		<rom name="pgm_a0603.rom" size="4194304" crc="ec31abda"/>
++		<rom name="pgm_b0600.rom" size="8388608" crc="b3691ed3"/>
++		<rom name="pgm_b0601.rom" size="4194304" crc="f43e4276"/>
++		<rom name="pgm_m0600.rom" size="4194304" crc="3ada4fd6"/>
++		<rom name="kov_igs027a.bin" size="16384" status="nodump"/>
++		<rom name="pgm_t01s.rom" merge="pgm_t01s.rom" size="2097152" crc="1a7123a0"/>
++		<rom name="pgm_m01s.rom" merge="pgm_m01s.rom" size="2097152" crc="45ae7159"/>
++		<rom name="pgm_p01s.u20" merge="pgm_p01s.u20" size="131072" crc="e42b166e"/>
++		<rom name="pgm_p02s.u20" merge="pgm_p02s.u20" size="131072" crc="78c15fa2"/>
++		<rom name="ddp3_bios.u37" merge="ddp3_bios.u37" size="524288" crc="b3cc5c8f"/>
++		<rom name="bios.u42" merge="bios.u42" size="131072" crc="517cf7a2"/>
++		<video orientation="horizontal" width="448" height="224" aspectx="4" aspecty="3"/>
++		<driver status="good"/>
++	</game>
+	<game name="kovplusa" cloneof="kovplus" romof="kovplus">
+		<comment>no PLUS on screen when set to KOREA</comment>
+		<description>Knights of Valour Plus - Sangoku Senki Plus (V119, Korea)</description>
