@@ -28,4 +28,6 @@ mkdir -p $INSTALL/usr/bin
 cp -rf ${PKG_BUILD}/fbneo $INSTALL/usr/bin
 cp -rf ${PKG_BUILD}/src/license.txt $INSTALL/usr/bin/fbneo_license.txt
 cp -rf ${PKG_DIR}/scripts/* $INSTALL/usr/bin
+
+chmod +x $INSTALL/usr/bin/fbneo.sh
 }
