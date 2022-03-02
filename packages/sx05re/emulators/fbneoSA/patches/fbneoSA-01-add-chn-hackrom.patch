@@ -4986,7 +4986,7 @@ index 6f15f10ea..27ceec74d 100644
 +};
 --- a/src/burn/drv/pgm/d_pgm.cpp	2022-01-31 14:29:07.000000000 +0800
 +++ b/src/burn/drv/pgm/d_pgm.cpp	2022-02-16 12:55:06.692552880 +0800
-@@ -8099,3 +8099,47 @@
+@@ -8098,3 +8098,47 @@
  	kovassgaInit, pgmExit, pgmFrame, pgmDraw, pgmScan, &nPgmPalRecalc, 0x900,
  	448, 224, 4, 3
  };
