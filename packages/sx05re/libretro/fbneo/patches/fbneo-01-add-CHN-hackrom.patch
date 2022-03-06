@@ -5120,7 +5120,7 @@ index ac714003f..c4e14a884 100644
 +// 三国战记115二锅头整合优化完美版
 +
 +static struct BurnRomInfo kov115egtRomDesc[] = {
-+	{ "p0600.115",     			0x0400000, 0x3f13d1fe, 1 | BRF_PRG | BRF_ESS }, //  0 68K Code
++	{ "p0600.115",     			0x0400000, 0x06944513, 1 | BRF_PRG | BRF_ESS }, //  0 68K Code
 +
 +	{ "pgm_t0600.u11",     		0x0800000, 0x4acc1ad6, 2 | BRF_GRA },	//  1 Tile data
 +	
