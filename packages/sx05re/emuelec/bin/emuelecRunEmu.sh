@@ -181,15 +181,15 @@ case ${PLATFORM} in
 		if [ "$EMU" = "AdvanceMame" ]; then
             set_kill_keys "advmame"
             RUNTHIS='${TBASH} advmame.sh "${ROMNAME}"'
-		elif [ "$EMU" = "FbneoSA" ]; then
+		elif [ "$EMU" = "FBNEOSA" ]; then
             set_kill_keys "fbneo"
-            RUNTHIS='fbneo.sh "${ROMNAME}"'
+            RUNTHIS='${TBASH} fbneo.sh "${ROMNAME}"'
 		fi
 		;;
 	"fbn"|"neogeo")
-        if [ "$EMU" = "FbneoSA" ]; then
+        if [ "$EMU" = "FBNEOSA" ]; then
             set_kill_keys "fbneo"
-            RUNTHIS='fbneo.sh "${ROMNAME}"'
+            RUNTHIS='${TBASH} fbneo.sh "${ROMNAME}"'
 		fi
 		;;
 	"nds")
@@ -261,9 +261,9 @@ case ${PLATFORM} in
 	"neocd")
 		if [ "$EMU" = "fbneo" ]; then
             RUNTHIS='${RABIN} $VERBOSE -L /tmp/cores/fbneo_libretro.so --subsystem neocd --config ${RACONF} "${ROMNAME}"'
-		elif [ "$EMU" = "FbneoSA" ]; then
+		elif [ "$EMU" = "FBNEOSA" ]; then
             set_kill_keys "fbneo"
-            RUNTHIS='fbneo.sh "${ROMNAME}" NCD'
+            RUNTHIS='${TBASH} fbneo.sh "${ROMNAME}" NCD'
 		fi
 		;;
 	"mplayer")
