@@ -5040,9 +5040,9 @@ index ac714003f..c4e14a884 100644
 +	kof99ndInit, NeoExit, NeoFrame, NeoRender, NeoScan, &NeoRecalcPalette,
 +	0x1000, 304, 224, 4, 3
 +};
---- a/src/burn/drv/pgm/d_pgm.cpp
-+++ b/src/burn/drv/pgm/d_pgm.cpp
-@@ -8466,3 +8466,106 @@
+--- a/src/burn/drv/pgm/d_pgm.cpp	2022-01-02 18:27:30.072534000 +0800
++++ b/src/burn/drv/pgm/d_pgm.cpp	2022-03-06 14:40:56.231547864 +0800
+@@ -8460,3 +8460,106 @@ struct BurnDriver BurnDrvkovpls = {
  	kovInit, pgmExit, pgmFrame, pgmDraw, pgmScan, &nPgmPalRecalc, 0x900,
  	448, 224, 4, 3
  };
