@@ -30,7 +30,7 @@ if [ "$DEVICE" == "OdroidGoAdvance" ] || [ "$DEVICE" == "GameForce" ]; then
 	PKG_MAKE_OPTS_TARGET+=" platform=classic_armv8_a35"
 	fi
 fi
-
+perl ./src/dep/scripts/gamelist.pl -o ./src/dep/generated/driverlist.h ./src/burn/drv/neogeo ./src/burn/drv/pgm ./src/burn/drv
 }
 
 makeinstall_target() {

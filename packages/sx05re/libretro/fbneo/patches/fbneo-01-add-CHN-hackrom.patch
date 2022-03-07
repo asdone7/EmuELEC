@@ -3301,7 +3301,7 @@ index ac714003f..c4e14a884 100644
 +// 拳皇97 狂龙版2022(简化)
 +
 +static struct BurnRomInfo kof97kl2022RomDesc[] = {
-+	{ "232-p1kl.p1",   0x100000, 0x6b47565a, 1 | BRF_ESS | BRF_PRG }, //  0 68K code
++	{ "232-p1kl.p1",   0x100000, 0x834dbc4a, 1 | BRF_ESS | BRF_PRG }, //  0 68K code
 +	{ "232-p2kl.p2",   0x400000, 0xe5dbd06e, 1 | BRF_ESS | BRF_PRG }, //  1 
 +
 +	{ "232-s1.bin",    0x020000, 0xe338d57f, 2 | BRF_GRA },           //  2 Text layer tiles
@@ -3325,7 +3325,7 @@ index ac714003f..c4e14a884 100644
 +STD_ROM_FN(kof97kl2022)
 +
 +struct BurnDriver BurnDrvkof97kl2022 = {
-+	"kof97kl2022", "kof97", "neogeo", NULL, "2005",
++	"kof97kl2022", "kof97", "neogeo", NULL, "2022",
 +	"The King of Fighters '97 (kl2022 Hack)\0", "Hack", "SNK", "Neo Geo MVS",
 +	NULL, NULL, NULL, NULL,
 +	BDF_GAME_WORKING | BDF_CLONE | BDF_HACK, 2, HARDWARE_PREFIX_CARTRIDGE | HARDWARE_SNK_NEOGEO, GBF_VSFIGHT, FBF_KOF,
@@ -3615,7 +3615,7 @@ index ac714003f..c4e14a884 100644
 +	0x1000, 304, 224, 4, 3
 +};
 +
-+// The King of Fighters '99 八神仿屠蛇
++// 拳皇 '99 八神仿屠蛇
 +
 +static struct BurnRomInfo kof99ptsRomDesc[] = {
 +	{ "251-p1p.bin",  0x100000, 0x402d7572, 1 | BRF_ESS | BRF_PRG }, //  0 68K code
@@ -5063,7 +5063,7 @@ index ac714003f..c4e14a884 100644
 +	{ "pgm_a0602.rom",     	0x0800000, 0xe7a32959, 3 | BRF_GRA },		//  4
 +	{ "pgm_a0603.rom",     	0x0400000, 0xec31abda, 3 | BRF_GRA },		//  5
 +	
-+	{ "pgm_b0600.rom",     	0x0800000, 0x789b172f, 4 | BRF_GRA },		//  6 Sprite Masks & Color Indexes
++	{ "pgm_b0600.rom",     	0x0800000, 0x759b172f, 4 | BRF_GRA },		//  6 Sprite Masks & Color Indexes
 +	{ "pgm_b0601.rom",     	0x0400000, 0xa0bb1c2f, 4 | BRF_GRA },		//  7
 +	
 +	{ "pgm_m0600.rom",     	0x0400000, 0x3ada4fd6, 5 | BRF_SND },		//  8 Samples
@@ -5120,7 +5120,7 @@ index ac714003f..c4e14a884 100644
 +// 三国战记115二锅头整合优化完美版
 +
 +static struct BurnRomInfo kov115egtRomDesc[] = {
-+	{ "p0600.115",     			0x0400000, 0x06944513, 1 | BRF_PRG | BRF_ESS }, //  0 68K Code
++	{ "p0600.115",     			0x0400000, 0xef7c64bb, 1 | BRF_PRG | BRF_ESS }, //  0 68K Code
 +
 +	{ "pgm_t0600.u11",     		0x0800000, 0x4acc1ad6, 2 | BRF_GRA },	//  1 Tile data
 +	

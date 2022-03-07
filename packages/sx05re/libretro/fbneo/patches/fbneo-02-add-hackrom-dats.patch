@@ -14,7 +14,7 @@
 +		<rom name="pgm_a0601.rom" size="8388608" crc="ff7a4373"/>
 +		<rom name="pgm_a0602.rom" size="8388608" crc="e7a32959"/>
 +		<rom name="pgm_a0603.rom" size="4194304" crc="ec31abda"/>
-+		<rom name="pgm_b0600.rom" size="8388608" crc="789b172f"/>
++		<rom name="pgm_b0600.rom" size="8388608" crc="759b172f"/>
 +		<rom name="pgm_b0601.rom" size="4194304" crc="a0bb1c2f"/>
 +		<rom name="pgm_m0600.rom" size="4194304" crc="3ada4fd6"/>
 +		<rom name="kov_igs027a.bin" size="16384" status="nodump"/>
