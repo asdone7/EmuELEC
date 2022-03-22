@@ -17,7 +17,8 @@ PKG_BUILD_FLAGS="-gold"
 GET_HANDLER_SUPPORT="git"
 
 # themes for Emulationstation
-PKG_DEPENDS_TARGET="$PKG_DEPENDS_TARGET Crystal es-theme-EmuELEC-carbon"
+#PKG_DEPENDS_TARGET="$PKG_DEPENDS_TARGET Crystal es-theme-EmuELEC-carbon"
+PKG_DEPENDS_TARGET="$PKG_DEPENDS_TARGET Crystal"
 
 pre_configure_target() {
 PKG_CMAKE_OPTS_TARGET=" -DENABLE_EMUELEC=1 -DDISABLE_KODI=1 -DENABLE_FILEMANAGER=1 -DGLES2=1"
@@ -75,9 +76,10 @@ makeinstall_target() {
 	chmod +x ${INSTALL}/usr/config/emulationstation/scripts/*
 	chmod +x ${INSTALL}/usr/config/emulationstation/scripts/configscripts/*
 	find ${INSTALL}/usr/config/emulationstation/scripts/ -type f -exec chmod o+x {} \; 
-	
-	mkdir -p $INSTALL/usr/config/emulationstation/themesettings
-	cp -rf $PKG_DIR/themesettings/*.cfg $INSTALL/usr/config/emulationstation/themesettings
+
+# If used es-theme-EmuELEC-carbon themese, uncomment	
+#	mkdir -p $INSTALL/usr/config/emulationstation/themesettings
+#	cp -rf $PKG_DIR/themesettings/*.cfg $INSTALL/usr/config/emulationstation/themesettings
 	
 	# Vertical Games are only supported in the OdroidGoAdvance
     if [[ ${DEVICE} != "OdroidGoAdvance" ]]; then
