@@ -2,9 +2,9 @@
 # Copyright (C) 2021-present Shanti Gilbert (https://github.com/shantigilbert)
 
 PKG_NAME="flycastsa"
-PKG_VERSION="544c711fd797881fe9d9761628a56a495217faed"
+PKG_VERSION="3fefa281139f9794262cfad5b781968dcbc239ff"
 PKG_LICENSE="GPLv2"
-PKG_SITE="https://github.com/flyinghead/flycast"
+PKG_SITE="https://github.com/asdone7/flycast"
 PKG_URL="$PKG_SITE.git"
 PKG_DEPENDS_TARGET="toolchain $OPENGLES alsa SDL2 libzip zip"
 PKG_LONGDESC="Flycast is a multiplatform Sega Dreamcast, Naomi and Atomiswave emulator"

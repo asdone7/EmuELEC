@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[全部动物+FF]On"
+cheat0_code = "FF12DA:FF+FF12DB:01"
+cheat0_enable = false
+
+cheat1_desc = "[羽毛]On"
+cheat1_code = "FF12DE:05"
+cheat1_enable = false
+

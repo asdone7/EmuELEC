@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#无限健康"
+cheat0_code = "800B9B8C 003C"
+cheat0_enable = false
+
+cheat1_desc = "#无限子弹"
+cheat1_code = "800CB75E 0063"
+cheat1_enable = false
+
+

@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "#对手总得0分"
+cheat0_code = "8010B691 0000"
+cheat0_enable = false
+
+

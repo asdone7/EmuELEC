@@ -1,0 +1,734 @@
+cheats = 183
+
+cheat0_desc = "[孙悟空HP及卡片最大]ON"
+cheat0_code = "02D9:0F+02DA:27+02E4:0F+02E5:27+02DC:07"
+cheat0_enable = false
+
+cheat1_desc = "[短笛HP及卡片最大]ON"
+cheat1_code = "02E9:0F+02EA:27+02F4:0F+02F5:27+02EC:07"
+cheat1_enable = false
+
+cheat2_desc = "[贝吉塔HP及卡片最大]ON"
+cheat2_code = "02F9:0F+02FA:27+0304:0F+0305:27+02FC:07"
+cheat2_enable = false
+
+cheat3_desc = "[孙悟饭HP及卡片最大]ON"
+cheat3_code = "0309:0F+030A:27+0314:0F+0315:27+030C:07"
+cheat3_enable = false
+
+cheat4_desc = "[特兰克斯HP及卡片最大]ON"
+cheat4_code = "0319:0F+031A:27+0324:0F+0325:27+031C:07"
+cheat4_enable = false
+
+cheat5_desc = "[全人物绝招全显示]ON"
+cheat5_code = "0593:FF+0595:FF+0597:FF+0599:FF+059B:FF"
+cheat5_enable = false
+
+cheat6_desc = "[全部卡片]ON"
+cheat6_code = "041B:01+041C:02+041D:03+041E:04+041F:05+0420:06+0421:07+0422:08+0423:09+0424:0A+0425:0B+0426:0C+0427:0D+0428:0E+0429:0F+042A:10+042B:11+042C:12+042D:13+042E:18+042F:19+0430:1A+0431:1B+0432:1C+0433:1D+0434:1E+0435:1F+0436:20+0437:21+0438:22+0439:23+043A:24+043B:25+043C:26+043D:27+043E:28+043F:2E+0440:30+0441:31+0442:32+0443:33+0444:34"
+cheat6_enable = false
+
+cheat7_desc = "[所有点数最大]ON"
+cheat7_code = "0466:08+046E:08+0476:08+047E:08+0486:08+048E:08+0496:08"
+cheat7_enable = false
+
+cheat8_desc = "[第一张牌字号]拳"
+cheat8_code = "0467:00"
+cheat8_enable = false
+
+cheat9_desc = "[第一张牌字号]蹴"
+cheat9_code = "0467:01"
+cheat9_enable = false
+
+cheat10_desc = "[第一张牌字号]投"
+cheat10_code = "0467:02"
+cheat10_enable = false
+
+cheat11_desc = "[第一张牌字号]体"
+cheat11_code = "0467:03"
+cheat11_enable = false
+
+cheat12_desc = "[第一张牌字号]斩"
+cheat12_code = "0467:04"
+cheat12_enable = false
+
+cheat13_desc = "[第一张牌字号]贯"
+cheat13_code = "0467:05"
+cheat13_enable = false
+
+cheat14_desc = "[第一张牌字号]光"
+cheat14_code = "0467:06"
+cheat14_enable = false
+
+cheat15_desc = "[第一张牌字号]爆"
+cheat15_code = "0467:07"
+cheat15_enable = false
+
+cheat16_desc = "[第一张牌字号]分"
+cheat16_code = "0467:08"
+cheat16_enable = false
+
+cheat17_desc = "[第一张牌字号]怒"
+cheat17_code = "0467:09"
+cheat17_enable = false
+
+cheat18_desc = "[第一张牌字号]气"
+cheat18_code = "0467:0A"
+cheat18_enable = false
+
+cheat19_desc = "[第一张牌字号]逆"
+cheat19_code = "0467:0B"
+cheat19_enable = false
+
+cheat20_desc = "[第一张牌字号]静"
+cheat20_code = "0467:0C"
+cheat20_enable = false
+
+cheat21_desc = "[第一张牌字号]跳"
+cheat21_code = "0467:0D"
+cheat21_enable = false
+
+cheat22_desc = "[第一张牌字号]追"
+cheat22_code = "0467:0E"
+cheat22_enable = false
+
+cheat23_desc = "[第一张牌字号]瞬"
+cheat23_code = "0467:0F"
+cheat23_enable = false
+
+cheat24_desc = "[第一张牌字号]变"
+cheat24_code = "0467:10"
+cheat24_enable = false
+
+cheat25_desc = "[第一张牌字号]Ｚ"
+cheat25_code = "0467:11"
+cheat25_enable = false
+
+cheat26_desc = "[第二张牌字号]拳"
+cheat26_code = "046F:00"
+cheat26_enable = false
+
+cheat27_desc = "[第二张牌字号]蹴"
+cheat27_code = "046F:01"
+cheat27_enable = false
+
+cheat28_desc = "[第二张牌字号]投"
+cheat28_code = "046F:02"
+cheat28_enable = false
+
+cheat29_desc = "[第二张牌字号]体"
+cheat29_code = "046F:03"
+cheat29_enable = false
+
+cheat30_desc = "[第二张牌字号]斩"
+cheat30_code = "046F:04"
+cheat30_enable = false
+
+cheat31_desc = "[第二张牌字号]贯"
+cheat31_code = "046F:05"
+cheat31_enable = false
+
+cheat32_desc = "[第二张牌字号]光"
+cheat32_code = "046F:06"
+cheat32_enable = false
+
+cheat33_desc = "[第二张牌字号]爆"
+cheat33_code = "046F:07"
+cheat33_enable = false
+
+cheat34_desc = "[第二张牌字号]分"
+cheat34_code = "046F:08"
+cheat34_enable = false
+
+cheat35_desc = "[第二张牌字号]怒"
+cheat35_code = "046F:09"
+cheat35_enable = false
+
+cheat36_desc = "[第二张牌字号]气"
+cheat36_code = "046F:0A"
+cheat36_enable = false
+
+cheat37_desc = "[第二张牌字号]逆"
+cheat37_code = "046F:0B"
+cheat37_enable = false
+
+cheat38_desc = "[第二张牌字号]静"
+cheat38_code = "046F:0C"
+cheat38_enable = false
+
+cheat39_desc = "[第二张牌字号]跳"
+cheat39_code = "046F:0D"
+cheat39_enable = false
+
+cheat40_desc = "[第二张牌字号]追"
+cheat40_code = "046F:0E"
+cheat40_enable = false
+
+cheat41_desc = "[第二张牌字号]瞬"
+cheat41_code = "046F:0F"
+cheat41_enable = false
+
+cheat42_desc = "[第二张牌字号]变"
+cheat42_code = "046F:10"
+cheat42_enable = false
+
+cheat43_desc = "[第二张牌字号]Ｚ"
+cheat43_code = "046F:11"
+cheat43_enable = false
+
+cheat44_desc = "[第三张牌字号]拳"
+cheat44_code = "0477:00"
+cheat44_enable = false
+
+cheat45_desc = "[第三张牌字号]蹴"
+cheat45_code = "0477:01"
+cheat45_enable = false
+
+cheat46_desc = "[第三张牌字号]投"
+cheat46_code = "0477:02"
+cheat46_enable = false
+
+cheat47_desc = "[第三张牌字号]体"
+cheat47_code = "0477:03"
+cheat47_enable = false
+
+cheat48_desc = "[第三张牌字号]斩"
+cheat48_code = "0477:04"
+cheat48_enable = false
+
+cheat49_desc = "[第三张牌字号]贯"
+cheat49_code = "0477:05"
+cheat49_enable = false
+
+cheat50_desc = "[第三张牌字号]光"
+cheat50_code = "0477:06"
+cheat50_enable = false
+
+cheat51_desc = "[第三张牌字号]爆"
+cheat51_code = "0477:07"
+cheat51_enable = false
+
+cheat52_desc = "[第三张牌字号]分"
+cheat52_code = "0477:08"
+cheat52_enable = false
+
+cheat53_desc = "[第三张牌字号]怒"
+cheat53_code = "0477:09"
+cheat53_enable = false
+
+cheat54_desc = "[第三张牌字号]气"
+cheat54_code = "0477:0A"
+cheat54_enable = false
+
+cheat55_desc = "[第三张牌字号]逆"
+cheat55_code = "0477:0B"
+cheat55_enable = false
+
+cheat56_desc = "[第三张牌字号]静"
+cheat56_code = "0477:0C"
+cheat56_enable = false
+
+cheat57_desc = "[第三张牌字号]跳"
+cheat57_code = "0477:0D"
+cheat57_enable = false
+
+cheat58_desc = "[第三张牌字号]追"
+cheat58_code = "0477:0E"
+cheat58_enable = false
+
+cheat59_desc = "[第三张牌字号]瞬"
+cheat59_code = "0477:0F"
+cheat59_enable = false
+
+cheat60_desc = "[第三张牌字号]变"
+cheat60_code = "0477:10"
+cheat60_enable = false
+
+cheat61_desc = "[第三张牌字号]Ｚ"
+cheat61_code = "0477:11"
+cheat61_enable = false
+
+cheat62_desc = "[第四张牌字号]拳"
+cheat62_code = "047F:00"
+cheat62_enable = false
+
+cheat63_desc = "[第四张牌字号]蹴"
+cheat63_code = "047F:01"
+cheat63_enable = false
+
+cheat64_desc = "[第四张牌字号]投"
+cheat64_code = "047F:02"
+cheat64_enable = false
+
+cheat65_desc = "[第四张牌字号]体"
+cheat65_code = "047F:03"
+cheat65_enable = false
+
+cheat66_desc = "[第四张牌字号]斩"
+cheat66_code = "047F:04"
+cheat66_enable = false
+
+cheat67_desc = "[第四张牌字号]贯"
+cheat67_code = "047F:05"
+cheat67_enable = false
+
+cheat68_desc = "[第四张牌字号]光"
+cheat68_code = "047F:06"
+cheat68_enable = false
+
+cheat69_desc = "[第四张牌字号]爆"
+cheat69_code = "047F:07"
+cheat69_enable = false
+
+cheat70_desc = "[第四张牌字号]分"
+cheat70_code = "047F:08"
+cheat70_enable = false
+
+cheat71_desc = "[第四张牌字号]怒"
+cheat71_code = "047F:09"
+cheat71_enable = false
+
+cheat72_desc = "[第四张牌字号]气"
+cheat72_code = "047F:0A"
+cheat72_enable = false
+
+cheat73_desc = "[第四张牌字号]逆"
+cheat73_code = "047F:0B"
+cheat73_enable = false
+
+cheat74_desc = "[第四张牌字号]静"
+cheat74_code = "047F:0C"
+cheat74_enable = false
+
+cheat75_desc = "[第四张牌字号]跳"
+cheat75_code = "047F:0D"
+cheat75_enable = false
+
+cheat76_desc = "[第四张牌字号]追"
+cheat76_code = "047F:0E"
+cheat76_enable = false
+
+cheat77_desc = "[第四张牌字号]瞬"
+cheat77_code = "047F:0F"
+cheat77_enable = false
+
+cheat78_desc = "[第四张牌字号]变"
+cheat78_code = "047F:10"
+cheat78_enable = false
+
+cheat79_desc = "[第四张牌字号]Ｚ"
+cheat79_code = "047F:11"
+cheat79_enable = false
+
+cheat80_desc = "[第五张牌字号]拳"
+cheat80_code = "0487:00"
+cheat80_enable = false
+
+cheat81_desc = "[第五张牌字号]蹴"
+cheat81_code = "0487:01"
+cheat81_enable = false
+
+cheat82_desc = "[第五张牌字号]投"
+cheat82_code = "0487:02"
+cheat82_enable = false
+
+cheat83_desc = "[第五张牌字号]体"
+cheat83_code = "0487:03"
+cheat83_enable = false
+
+cheat84_desc = "[第五张牌字号]斩"
+cheat84_code = "0487:04"
+cheat84_enable = false
+
+cheat85_desc = "[第五张牌字号]贯"
+cheat85_code = "0487:05"
+cheat85_enable = false
+
+cheat86_desc = "[第五张牌字号]光"
+cheat86_code = "0487:06"
+cheat86_enable = false
+
+cheat87_desc = "[第五张牌字号]爆"
+cheat87_code = "0487:07"
+cheat87_enable = false
+
+cheat88_desc = "[第五张牌字号]分"
+cheat88_code = "0487:08"
+cheat88_enable = false
+
+cheat89_desc = "[第五张牌字号]怒"
+cheat89_code = "0487:09"
+cheat89_enable = false
+
+cheat90_desc = "[第五张牌字号]气"
+cheat90_code = "0487:0A"
+cheat90_enable = false
+
+cheat91_desc = "[第五张牌字号]逆"
+cheat91_code = "0487:0B"
+cheat91_enable = false
+
+cheat92_desc = "[第五张牌字号]静"
+cheat92_code = "0487:0C"
+cheat92_enable = false
+
+cheat93_desc = "[第五张牌字号]跳"
+cheat93_code = "0487:0D"
+cheat93_enable = false
+
+cheat94_desc = "[第五张牌字号]追"
+cheat94_code = "0487:0E"
+cheat94_enable = false
+
+cheat95_desc = "[第五张牌字号]瞬"
+cheat95_code = "0487:0F"
+cheat95_enable = false
+
+cheat96_desc = "[第五张牌字号]变"
+cheat96_code = "0487:10"
+cheat96_enable = false
+
+cheat97_desc = "[第五张牌字号]Ｚ"
+cheat97_code = "0487:11"
+cheat97_enable = false
+
+cheat98_desc = "[第六张牌字号]拳"
+cheat98_code = "048F:00"
+cheat98_enable = false
+
+cheat99_desc = "[第六张牌字号]蹴"
+cheat99_code = "048F:01"
+cheat99_enable = false
+
+cheat100_desc = "[第六张牌字号]投"
+cheat100_code = "048F:02"
+cheat100_enable = false
+
+cheat101_desc = "[第六张牌字号]体"
+cheat101_code = "048F:03"
+cheat101_enable = false
+
+cheat102_desc = "[第六张牌字号]斩"
+cheat102_code = "048F:04"
+cheat102_enable = false
+
+cheat103_desc = "[第六张牌字号]贯"
+cheat103_code = "048F:05"
+cheat103_enable = false
+
+cheat104_desc = "[第六张牌字号]光"
+cheat104_code = "048F:06"
+cheat104_enable = false
+
+cheat105_desc = "[第六张牌字号]爆"
+cheat105_code = "048F:07"
+cheat105_enable = false
+
+cheat106_desc = "[第六张牌字号]分"
+cheat106_code = "048F:08"
+cheat106_enable = false
+
+cheat107_desc = "[第六张牌字号]怒"
+cheat107_code = "048F:09"
+cheat107_enable = false
+
+cheat108_desc = "[第六张牌字号]气"
+cheat108_code = "048F:0A"
+cheat108_enable = false
+
+cheat109_desc = "[第六张牌字号]逆"
+cheat109_code = "048F:0B"
+cheat109_enable = false
+
+cheat110_desc = "[第六张牌字号]静"
+cheat110_code = "048F:0C"
+cheat110_enable = false
+
+cheat111_desc = "[第六张牌字号]跳"
+cheat111_code = "048F:0D"
+cheat111_enable = false
+
+cheat112_desc = "[第六张牌字号]追"
+cheat112_code = "048F:0E"
+cheat112_enable = false
+
+cheat113_desc = "[第六张牌字号]瞬"
+cheat113_code = "048F:0F"
+cheat113_enable = false
+
+cheat114_desc = "[第六张牌字号]变"
+cheat114_code = "048F:10"
+cheat114_enable = false
+
+cheat115_desc = "[第六张牌字号]Ｚ"
+cheat115_code = "048F:11"
+cheat115_enable = false
+
+cheat116_desc = "[第七张牌字号]拳"
+cheat116_code = "0497:00"
+cheat116_enable = false
+
+cheat117_desc = "[第七张牌字号]蹴"
+cheat117_code = "0497:01"
+cheat117_enable = false
+
+cheat118_desc = "[第七张牌字号]投"
+cheat118_code = "0497:02"
+cheat118_enable = false
+
+cheat119_desc = "[第七张牌字号]体"
+cheat119_code = "0497:03"
+cheat119_enable = false
+
+cheat120_desc = "[第七张牌字号]斩"
+cheat120_code = "0497:04"
+cheat120_enable = false
+
+cheat121_desc = "[第七张牌字号]贯"
+cheat121_code = "0497:05"
+cheat121_enable = false
+
+cheat122_desc = "[第七张牌字号]光"
+cheat122_code = "0497:06"
+cheat122_enable = false
+
+cheat123_desc = "[第七张牌字号]爆"
+cheat123_code = "0497:07"
+cheat123_enable = false
+
+cheat124_desc = "[第七张牌字号]分"
+cheat124_code = "0497:08"
+cheat124_enable = false
+
+cheat125_desc = "[第七张牌字号]怒"
+cheat125_code = "0497:09"
+cheat125_enable = false
+
+cheat126_desc = "[第七张牌字号]气"
+cheat126_code = "0497:0A"
+cheat126_enable = false
+
+cheat127_desc = "[第七张牌字号]逆"
+cheat127_code = "0497:0B"
+cheat127_enable = false
+
+cheat128_desc = "[第七张牌字号]静"
+cheat128_code = "0497:0C"
+cheat128_enable = false
+
+cheat129_desc = "[第七张牌字号]跳"
+cheat129_code = "0497:0D"
+cheat129_enable = false
+
+cheat130_desc = "[第七张牌字号]追"
+cheat130_code = "0497:0E"
+cheat130_enable = false
+
+cheat131_desc = "[第七张牌字号]瞬"
+cheat131_code = "0497:0F"
+cheat131_enable = false
+
+cheat132_desc = "[第七张牌字号]变"
+cheat132_code = "0497:10"
+cheat132_enable = false
+
+cheat133_desc = "[第七张牌字号]Ｚ"
+cheat133_code = "0497:11"
+cheat133_enable = false
+
+cheat134_desc = "[第一张牌下小标]红心"
+cheat134_code = "0468:01"
+cheat134_enable = false
+
+cheat135_desc = "[第一张牌下小标]拳头"
+cheat135_code = "0468:02"
+cheat135_enable = false
+
+cheat136_desc = "[第一张牌下小标]鞋子"
+cheat136_code = "0468:03"
+cheat136_enable = false
+
+cheat137_desc = "[第一张牌下小标]饼干"
+cheat137_code = "0468:04"
+cheat137_enable = false
+
+cheat138_desc = "[第一张牌下小标]杠铃"
+cheat138_code = "0468:05"
+cheat138_enable = false
+
+cheat139_desc = "[第一张牌下小标]感叹"
+cheat139_code = "0468:06"
+cheat139_enable = false
+
+cheat140_desc = "[第一张牌下小标]大叉"
+cheat140_code = "0468:07"
+cheat140_enable = false
+
+cheat141_desc = "[第二张牌下小标]红心"
+cheat141_code = "0470:01"
+cheat141_enable = false
+
+cheat142_desc = "[第二张牌下小标]拳头"
+cheat142_code = "0470:02"
+cheat142_enable = false
+
+cheat143_desc = "[第二张牌下小标]鞋子"
+cheat143_code = "0470:03"
+cheat143_enable = false
+
+cheat144_desc = "[第二张牌下小标]饼干"
+cheat144_code = "0470:04"
+cheat144_enable = false
+
+cheat145_desc = "[第二张牌下小标]杠铃"
+cheat145_code = "0470:05"
+cheat145_enable = false
+
+cheat146_desc = "[第二张牌下小标]感叹"
+cheat146_code = "0470:06"
+cheat146_enable = false
+
+cheat147_desc = "[第二张牌下小标]大叉"
+cheat147_code = "0470:07"
+cheat147_enable = false
+
+cheat148_desc = "[第三张牌下小标]红心"
+cheat148_code = "0478:01"
+cheat148_enable = false
+
+cheat149_desc = "[第三张牌下小标]拳头"
+cheat149_code = "0478:02"
+cheat149_enable = false
+
+cheat150_desc = "[第三张牌下小标]鞋子"
+cheat150_code = "0478:03"
+cheat150_enable = false
+
+cheat151_desc = "[第三张牌下小标]饼干"
+cheat151_code = "0478:04"
+cheat151_enable = false
+
+cheat152_desc = "[第三张牌下小标]杠铃"
+cheat152_code = "0478:05"
+cheat152_enable = false
+
+cheat153_desc = "[第三张牌下小标]感叹"
+cheat153_code = "0478:06"
+cheat153_enable = false
+
+cheat154_desc = "[第三张牌下小标]大叉"
+cheat154_code = "0478:07"
+cheat154_enable = false
+
+cheat155_desc = "[第四张牌下小标]红心"
+cheat155_code = "0480:01"
+cheat155_enable = false
+
+cheat156_desc = "[第四张牌下小标]拳头"
+cheat156_code = "0480:02"
+cheat156_enable = false
+
+cheat157_desc = "[第四张牌下小标]鞋子"
+cheat157_code = "0480:03"
+cheat157_enable = false
+
+cheat158_desc = "[第四张牌下小标]饼干"
+cheat158_code = "0480:04"
+cheat158_enable = false
+
+cheat159_desc = "[第四张牌下小标]杠铃"
+cheat159_code = "0480:05"
+cheat159_enable = false
+
+cheat160_desc = "[第四张牌下小标]感叹"
+cheat160_code = "0480:06"
+cheat160_enable = false
+
+cheat161_desc = "[第四张牌下小标]大叉"
+cheat161_code = "0480:07"
+cheat161_enable = false
+
+cheat162_desc = "[第五张牌下小标]红心"
+cheat162_code = "0488:01"
+cheat162_enable = false
+
+cheat163_desc = "[第五张牌下小标]拳头"
+cheat163_code = "0488:02"
+cheat163_enable = false
+
+cheat164_desc = "[第五张牌下小标]鞋子"
+cheat164_code = "0488:03"
+cheat164_enable = false
+
+cheat165_desc = "[第五张牌下小标]饼干"
+cheat165_code = "0488:04"
+cheat165_enable = false
+
+cheat166_desc = "[第五张牌下小标]杠铃"
+cheat166_code = "0488:05"
+cheat166_enable = false
+
+cheat167_desc = "[第五张牌下小标]感叹"
+cheat167_code = "0488:06"
+cheat167_enable = false
+
+cheat168_desc = "[第五张牌下小标]大叉"
+cheat168_code = "0488:07"
+cheat168_enable = false
+
+cheat169_desc = "[第六张牌下小标]红心"
+cheat169_code = "0490:01"
+cheat169_enable = false
+
+cheat170_desc = "[第六张牌下小标]拳头"
+cheat170_code = "0490:02"
+cheat170_enable = false
+
+cheat171_desc = "[第六张牌下小标]鞋子"
+cheat171_code = "0490:03"
+cheat171_enable = false
+
+cheat172_desc = "[第六张牌下小标]饼干"
+cheat172_code = "0490:04"
+cheat172_enable = false
+
+cheat173_desc = "[第六张牌下小标]杠铃"
+cheat173_code = "0490:05"
+cheat173_enable = false
+
+cheat174_desc = "[第六张牌下小标]感叹"
+cheat174_code = "0490:06"
+cheat174_enable = false
+
+cheat175_desc = "[第六张牌下小标]大叉"
+cheat175_code = "0490:07"
+cheat175_enable = false
+
+cheat176_desc = "[第七张牌下小标]红心"
+cheat176_code = "0498:01"
+cheat176_enable = false
+
+cheat177_desc = "[第七张牌下小标]拳头"
+cheat177_code = "0498:02"
+cheat177_enable = false
+
+cheat178_desc = "[第七张牌下小标]鞋子"
+cheat178_code = "0498:03"
+cheat178_enable = false
+
+cheat179_desc = "[第七张牌下小标]饼干"
+cheat179_code = "0498:04"
+cheat179_enable = false
+
+cheat180_desc = "[第七张牌下小标]杠铃"
+cheat180_code = "0498:05"
+cheat180_enable = false
+
+cheat181_desc = "[第七张牌下小标]感叹"
+cheat181_code = "0498:06"
+cheat181_enable = false
+
+cheat182_desc = "[第七张牌下小标]大叉"
+cheat182_code = "0498:07"
+cheat182_enable = false
+

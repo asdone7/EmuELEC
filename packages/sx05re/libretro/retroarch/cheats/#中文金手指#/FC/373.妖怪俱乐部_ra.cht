@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[hp]ON"
+cheat0_code = "0079:18"
+cheat0_enable = false
+
+cheat1_desc = "[time]ON"
+cheat1_code = "008A:E7+008B:03"
+cheat1_enable = false
+

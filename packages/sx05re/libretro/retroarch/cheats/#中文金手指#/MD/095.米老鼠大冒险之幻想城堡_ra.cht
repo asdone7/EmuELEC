@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[体力值]ON"
+cheat0_code = "FFF322:05"
+cheat0_enable = false
+
+cheat1_desc = "[子弹无限]ON"
+cheat1_code = "FFF320:1E"
+cheat1_enable = false
+
+cheat2_desc = "[人数]ON"
+cheat2_code = "FFF324:0A"
+cheat2_enable = false
+

@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "血"
+cheat0_code = "02042FC5 0000001F"
+cheat0_enable = false
+
+cheat1_desc = "加速数"
+cheat1_code = "02042FC6 00000003"
+cheat1_enable = false
+
+

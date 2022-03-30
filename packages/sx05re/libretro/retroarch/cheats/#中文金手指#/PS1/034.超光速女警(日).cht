@@ -1,0 +1,43 @@
+cheats = 10
+
+cheat0_desc = "#无限健康"
+cheat0_code = "800B4D64 0060"
+cheat0_enable = false
+
+cheat1_desc = "#所有5个变更单"
+cheat1_code = "300B4D6A 0005"
+cheat1_enable = false
+
+cheat2_desc = "#无限键"
+cheat2_code = "800A282C 0101"
+cheat2_enable = false
+
+cheat3_desc = "#无限炸弹"
+cheat3_code = "800B4D66 0101"
+cheat3_enable = false
+
+cheat4_desc = "#无敌"
+cheat4_code = "300A266C 0001"
+cheat4_enable = false
+
+cheat5_desc = "#完全无敌"
+cheat5_code = "800A262E 0001"
+cheat5_enable = false
+
+cheat6_desc = "#死亡的打击"
+cheat6_code = "800B4D66 0003"
+cheat6_enable = false
+
+cheat7_desc = "#所有电影都开放"
+cheat7_code = "800A29EE FFFF"
+cheat7_enable = false
+
+cheat8_desc = "#卡"
+cheat8_code = "800A282C 0001"
+cheat8_enable = false
+
+cheat9_desc = "#我可以改变所有"
+cheat9_code = "800B4D6A 0005"
+cheat9_enable = false
+
+

@@ -1,0 +1,34 @@
+cheats = 8
+
+cheat0_desc = "[弓统壳属性]ON"
+cheat0_code = "7E230364+7E2310E7+7E231103+7E2312E7+7E231303+7E2314E7+7E231503"
+cheat0_enable = false
+
+cheat1_desc = "[月光壳属性]ON"
+cheat1_code = "7E232364+7E2330E7+7E233103+7E2332E7+7E233303+7E2334E7+7E233503"
+cheat1_enable = false
+
+cheat2_desc = "[流星属性]ON"
+cheat2_code = "7E234364+7E2350E7+7E235103+7E2352E7+7E235303+7E2354E7+7E235503"
+cheat2_enable = false
+
+cheat3_desc = "[百式属性]ON"
+cheat3_code = "7E236364+7E2370E7+7E237103+7E2372E7+7E237303+7E2374E7+7E237503"
+cheat3_enable = false
+
+cheat4_desc = "[ざくれろ属性]ON"
+cheat4_code = "7E238364+7E2390E7+7E239103+7E2392E7+7E239303+7E2394E7+7E239503"
+cheat4_enable = false
+
+cheat5_desc = "[飛銀属性]ON"
+cheat5_code = "7E23A364+7E23B0E7+7E23B103+7E23B2E7+7E23B303+7E23B4E7+7E23B503"
+cheat5_enable = false
+
+cheat6_desc = "[電歐属性]ON"
+cheat6_code = "7E23E364+7E23F0E7+7E23F103+7E23F2E7+7E23F303+7E23F4E7+7E23F503"
+cheat6_enable = false
+
+cheat7_desc = "[射銳属性]ON"
+cheat7_code = "7E23C364+7E23D0E7+7E23D103+7E23D2E7+7E23D303+7E23D4E7+7E23D503"
+cheat7_enable = false
+

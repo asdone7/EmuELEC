@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[人质]0"
+cheat0_code = "FF0810:00"
+cheat0_enable = false
+
+cheat1_desc = "[机枪弹药数]ON"
+cheat1_code = "FF0844:99"
+cheat1_enable = false
+
+cheat2_desc = "[时间]ON"
+cheat2_code = "FF0866:99"
+cheat2_enable = false
+
+cheat3_desc = "[体力值]ON"
+cheat3_code = "FF0880:37"
+cheat3_enable = false
+
+cheat4_desc = "[喷火枪弹药数]ON"
+cheat4_code = "FF0846:99"
+cheat4_enable = false
+
+cheat5_desc = "[流弹枪弹药数]ON"
+cheat5_code = "FF0848:99"
+cheat5_enable = false
+
+cheat6_desc = "[炸弹数]ON"
+cheat6_code = "FF084A:99"
+cheat6_enable = false
+

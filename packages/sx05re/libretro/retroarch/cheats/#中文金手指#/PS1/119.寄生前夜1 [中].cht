@@ -1,0 +1,91 @@
+cheats = 22
+
+cheat0_desc = "#当前Hp"
+cheat0_code = "800B84EC 270F"
+cheat0_enable = false
+
+cheat1_desc = "#最大马力"
+cheat1_code = "800B84FC 270F"
+cheat1_enable = false
+
+cheat2_desc = "#当前PE"
+cheat2_code = "800B84EA 270F"
+cheat2_enable = false
+
+cheat3_desc = "#Max P.E."
+cheat3_code = "800B850A 270F"
+cheat3_enable = false
+
+cheat4_desc = "#所有特殊能力"
+cheat4_code = "800C08E4 1FFF+800C08E6 000C"
+cheat4_enable = false
+
+cheat5_desc = "#无限子弹盒"
+cheat5_code = "800514B8 03E7+800514BA 3402"
+cheat5_enable = false
+
+cheat6_desc = "#最高奖励积分"
+cheat6_code = "800C08D0 869F+800C08D2 0001"
+cheat6_enable = false
+
+cheat7_desc = "#快速升级-争取99级战斗"
+cheat7_code = "8009CDC6 7FFF"
+cheat7_enable = false
+
+cheat8_desc = "#99级"
+cheat8_code = "800C08CA 0062"
+cheat8_enable = false
+
+cheat9_desc = "#Max在战斗中（主动时间）"
+cheat9_code = "800B84F0 2328"
+cheat9_enable = false
+
+cheat10_desc = "#Total Time = 00“ 00” 00"
+cheat10_code = "800A717C 0000+800A717E 0000"
+cheat10_enable = false
+
+cheat11_desc = "#最大进攻"
+cheat11_code = "800C08EA 0630"
+cheat11_enable = false
+
+cheat12_desc = "#最大防御"
+cheat12_code = "800C08EC 0630"
+cheat12_enable = false
+
+cheat13_desc = "#Max P.Energy"
+cheat13_code = "800C08EE 0630"
+cheat13_enable = false
+
+cheat14_desc = "#Max状态恢复"
+cheat14_code = "800C08F0 0630"
+cheat14_enable = false
+
+cheat15_desc = "#最大活动时间"
+cheat15_code = "800C08F2 0630"
+cheat15_enable = false
+
+cheat16_desc = "#最大物品容量"
+cheat16_code = "800C08F4 0630"
+cheat16_enable = false
+
+cheat17_desc = "#70层建筑物的钥匙此代码使您可以拥有70层建筑物的钥匙"
+cheat17_code = "800C0908 0038+800C090A 0039+800C090C 003A+800C090E 003B+800C0910 003C+800C0912 003D+800C0914 003E"
+cheat17_enable = false
+
+cheat18_desc = "#特殊代码\\走得更快"
+cheat18_code = "80070BF0 000A"
+cheat18_enable = false
+
+cheat19_desc = "#特殊代码\\运行得更快"
+cheat19_code = "80070E70 002C"
+cheat19_enable = false
+
+cheat20_desc = "#战斗立即完成"
+cheat20_code = "800A73F2 FFFF"
+cheat20_enable = false
+
+cheat21_desc = "#调试室"
+cheat21_code = "8009CD3C 6048+3009CD3E 0006"
+cheat21_enable = false
+
+

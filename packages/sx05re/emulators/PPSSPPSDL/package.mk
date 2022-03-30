@@ -2,7 +2,7 @@
 # Copyright (C) 2019-present Shanti Gilbert (https://github.com/shantigilbert)
 
 PKG_NAME="PPSSPPSDL"
-PKG_VERSION="a155c497288259f83eed4126b66f8fdd86cdaef9"
+PKG_VERSION="6f04f52f5ca51b60c719e074199691b2ccf32860"
 PKG_REV="1"
 PKG_ARCH="any"
 PKG_LICENSE="MAME"
@@ -51,5 +51,5 @@ makeinstall_target() {
     cp -rf $PKG_DIR/config/* $INSTALL/usr/config/ppsspp/
     rm $INSTALL/usr/config/ppsspp/assets/gamecontrollerdb.txt
     ln -sf /storage/.config/SDL-GameControllerDB/gamecontrollerdb.txt $INSTALL/usr/config/ppsspp/assets/gamecontrollerdb.txt
-    cp -rf $PKG_DIR/font/* $INSTALL/usr/config/ppsspp/assets/flash0/font/
+    ln -sf /storage/roms/savestates/PPSSPPSDL/PSP/Cheats $INSTALL/usr/config/ppsspp/PSP/Cheats
 } 

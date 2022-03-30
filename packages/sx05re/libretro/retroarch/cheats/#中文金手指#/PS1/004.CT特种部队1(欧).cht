@@ -1,0 +1,31 @@
+cheats = 7
+
+cheat0_desc = "#无限能量PL 1"
+cheat0_code = "8009D8F0 0064"
+cheat0_enable = false
+
+cheat1_desc = "#无限能量PL 2"
+cheat1_code = "8009DA2C 0064"
+cheat1_enable = false
+
+cheat2_desc = "#无限的生命"
+cheat2_code = "8004D318 0000"
+cheat2_enable = false
+
+cheat3_desc = "#额外生活"
+cheat3_code = "8004D318 0001"
+cheat3_enable = false
+
+cheat4_desc = "#无限手榴弹PL1"
+cheat4_code = "8009DA0C 0005"
+cheat4_enable = false
+
+cheat5_desc = "#无限手榴弹PL2"
+cheat5_code = "8009db48 0005"
+cheat5_enable = false
+
+cheat6_desc = "#狙击级无限时间"
+cheat6_code = "80078674 1770"
+cheat6_enable = false
+
+

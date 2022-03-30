@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[HP MAX]ON"
+cheat0_code = "7E0094FF+7E0096FF+7E0098FF+7E009AFF"
+cheat0_enable = false
+
+cheat1_desc = "[一击必杀]ON"
+cheat1_code = "7E009C00+7E009E00+7E00A000+7E00A200"
+cheat1_enable = false
+

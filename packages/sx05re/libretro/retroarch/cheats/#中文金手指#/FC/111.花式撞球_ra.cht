@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[分数]ON"
+cheat0_code = "0099:63"
+cheat0_enable = false
+
+cheat1_desc = "[球数]ON"
+cheat1_code = "04A4:01+008B:06"
+cheat1_enable = false
+
+cheat2_desc = "[一杆清台不可锁定]一杆清（6球）"
+cheat2_code = "0216:6F+0217:7B+0218:64+0219:78+021A:67+021B:7D+021C:63+022C:A3+022D:82+022E:82+022F:8A+0230:8A+0231:91+0232:91"
+cheat2_enable = false
+
+cheat3_desc = "[一杆清台不可锁定]洞口球6球"
+cheat3_code = "0216:6F+0217:A6+0218:38+0219:AB+021A:34+021B:A8+021C:37+022C:93+022D:23+022E:25+022F:81+0230:81+0231:D8+0232:D8"
+cheat3_enable = false
+
+cheat4_desc = "[一杆清台不可锁定]洞口球9球"
+cheat4_code = "0216:6F+0217:A6+0218:38+0219:AB+021A:34+021B:A8+021C:37+021D:6F+021E:A6+021F:38+022C:93+022D:23+022E:25+022F:81+0230:81+0231:D8+0232:D8"
+cheat4_enable = false
+
+cheat5_desc = "[一杆清台不可锁定]洞口球11球"
+cheat5_code = "0216:6F+0217:A6+0218:38+0219:AB+021A:34+021B:A8+021C:37+021D:6F+021E:A6+021F:38+0220:6F+0221:A6+0222:38+022C:93+022D:23+022E:25+022F:81+0230:81+0231:D8+0232:D8"
+cheat5_enable = false
+

@@ -1,0 +1,39 @@
+cheats = 9
+
+cheat0_desc = "#无限健康Sasami阶段1、4、8、9和10"
+cheat0_code = "800D60FC 091D"
+cheat0_enable = false
+
+cheat1_desc = "#无限健康Sasami阶段2"
+cheat1_code = "800D6BFC 091D"
+cheat1_enable = false
+
+cheat2_desc = "#无限健康Sasami阶段3和5"
+cheat2_code = "800D64FC 091D"
+cheat2_enable = false
+
+cheat3_desc = "#无限健康Sasami第六阶段"
+cheat3_code = "800D66FC 091D"
+cheat3_enable = false
+
+cheat4_desc = "#无限健康Sasami阶段7"
+cheat4_code = "800DAE7C 091D"
+cheat4_enable = false
+
+cheat5_desc = "#无限健康Sasami阶段11"
+cheat5_code = "800D667C 091D"
+cheat5_enable = false
+
+cheat6_desc = "#无限健康Sasami阶段12"
+cheat6_code = "800D65FC 091D"
+cheat6_enable = false
+
+cheat7_desc = "#无限健康Sasami阶段13"
+cheat7_code = "800D6BFC 091D"
+cheat7_enable = false
+
+cheat8_desc = "#无限健康Sasami阶段14"
+cheat8_code = "800D63FC 091D"
+cheat8_enable = false
+
+

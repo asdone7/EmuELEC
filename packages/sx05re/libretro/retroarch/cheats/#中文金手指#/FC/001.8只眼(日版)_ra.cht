@@ -1,0 +1,178 @@
+cheats = 44
+
+cheat0_desc = "[Item最大]ON"
+cheat0_code = "0596:36"
+cheat0_enable = false
+
+cheat1_desc = "[Bond最大]ON"
+cheat1_code = "0594:36"
+cheat1_enable = false
+
+cheat2_desc = "[Cuturs最大]ON"
+cheat2_code = "0595:36"
+cheat2_enable = false
+
+cheat3_desc = "[隐身]ON"
+cheat3_code = "030E:FF"
+cheat3_enable = false
+
+cheat4_desc = "[武器选择]Nothing"
+cheat4_code = "007F:00"
+cheat4_enable = false
+
+cheat5_desc = "[武器选择]Dagger"
+cheat5_code = "007F:01"
+cheat5_enable = false
+
+cheat6_desc = "[武器选择]Boomerang"
+cheat6_code = "007F:02"
+cheat6_enable = false
+
+cheat7_desc = "[武器选择]Dagger/Boomerang"
+cheat7_code = "007F:03"
+cheat7_enable = false
+
+cheat8_desc = "[武器选择]Ice Ball"
+cheat8_code = "007F:04"
+cheat8_enable = false
+
+cheat9_desc = "[武器选择]Dagger/Ice Ball"
+cheat9_code = "007F:05"
+cheat9_enable = false
+
+cheat10_desc = "[武器选择]Boomerang/Ice Ball"
+cheat10_code = "007F:06"
+cheat10_enable = false
+
+cheat11_desc = "[武器选择]Dagger/Boomerang/Ice Ball"
+cheat11_code = "007F:07"
+cheat11_enable = false
+
+cheat12_desc = "[武器选择]Power Ball"
+cheat12_code = "007F:08"
+cheat12_enable = false
+
+cheat13_desc = "[武器选择]Dagger/Power"
+cheat13_code = "007F:09"
+cheat13_enable = false
+
+cheat14_desc = "[武器选择]Boomerang/Power Ball"
+cheat14_code = "007F:0A"
+cheat14_enable = false
+
+cheat15_desc = "[武器选择]Dagger/Boomerang/Power Ball"
+cheat15_code = "007F:0B"
+cheat15_enable = false
+
+cheat16_desc = "[武器选择]Ice Ball/Power Ball"
+cheat16_code = "007F:0C"
+cheat16_enable = false
+
+cheat17_desc = "[武器选择]Dagger/Ice Ball/Power Ball"
+cheat17_code = "007F:0D"
+cheat17_enable = false
+
+cheat18_desc = "[武器选择]Boomerang/Ice Ball/Power Ball"
+cheat18_code = "007F:0E"
+cheat18_enable = false
+
+cheat19_desc = "[武器选择]Dagger/Boomerang/Ice Ball/Power Ball"
+cheat19_code = "007F:0F"
+cheat19_enable = false
+
+cheat20_desc = "[武器选择]Molotov Cocktail"
+cheat20_code = "007F:10"
+cheat20_enable = false
+
+cheat21_desc = "[武器选择]Dagger/Molotov"
+cheat21_code = "007F:11"
+cheat21_enable = false
+
+cheat22_desc = "[武器选择]Boomerang/Molotov"
+cheat22_code = "007F:12"
+cheat22_enable = false
+
+cheat23_desc = "[武器选择]Dagger/Boomerang/Molotov"
+cheat23_code = "007F:13"
+cheat23_enable = false
+
+cheat24_desc = "[武器选择]Ice Ball/Molotov Cocktail"
+cheat24_code = "007F:14"
+cheat24_enable = false
+
+cheat25_desc = "[武器选择]Dagger/Ice Ball/Molotov"
+cheat25_code = "007F:15"
+cheat25_enable = false
+
+cheat26_desc = "[武器选择]Boomerang/Ice Ball/Molotov"
+cheat26_code = "007F:16"
+cheat26_enable = false
+
+cheat27_desc = "[武器选择]Dagger/Boomerang/Ice Ball/Molotov"
+cheat27_code = "007F:17"
+cheat27_enable = false
+
+cheat28_desc = "[武器选择]Power Ball/Molotov"
+cheat28_code = "007F:18"
+cheat28_enable = false
+
+cheat29_desc = "[武器选择]Dagger/Power Ball/Molotov"
+cheat29_code = "007F:19"
+cheat29_enable = false
+
+cheat30_desc = "[武器选择]Boomerang/Power Ball/Molotov"
+cheat30_code = "007F:1A"
+cheat30_enable = false
+
+cheat31_desc = "[武器选择]Dagger/Boomerang/Power Ball/Molotov"
+cheat31_code = "007F:1B"
+cheat31_enable = false
+
+cheat32_desc = "[武器选择]Ice Ball/Power Ball/Molotov"
+cheat32_code = "007F:1C"
+cheat32_enable = false
+
+cheat33_desc = "[武器选择]Dagger/Ice Ball/Power Ball/Molotov"
+cheat33_code = "007F:1D"
+cheat33_enable = false
+
+cheat34_desc = "[武器选择]Boomerang/Ice Ball/Power Ball/Molotov"
+cheat34_code = "007F:1E"
+cheat34_enable = false
+
+cheat35_desc = "[武器选择]Dagger/Boomerang/Ice Ball/Power Ball/Molotov"
+cheat35_code = "007F:1F"
+cheat35_enable = false
+
+cheat36_desc = "[关卡选择]Arabia"
+cheat36_code = "0050:00"
+cheat36_enable = false
+
+cheat37_desc = "[关卡选择]Italy"
+cheat37_code = "0050:01"
+cheat37_enable = false
+
+cheat38_desc = "[关卡选择]India"
+cheat38_code = "0050:02"
+cheat38_enable = false
+
+cheat39_desc = "[关卡选择]Egypt"
+cheat39_code = "0050:03"
+cheat39_enable = false
+
+cheat40_desc = "[关卡选择]Germany"
+cheat40_code = "0050:04"
+cheat40_enable = false
+
+cheat41_desc = "[关卡选择]Spain"
+cheat41_code = "0050:05"
+cheat41_enable = false
+
+cheat42_desc = "[关卡选择]Africa"
+cheat42_code = "0050:06"
+cheat42_enable = false
+
+cheat43_desc = "[关卡选择]House of Ruth"
+cheat43_code = "0050:07"
+cheat43_enable = false
+

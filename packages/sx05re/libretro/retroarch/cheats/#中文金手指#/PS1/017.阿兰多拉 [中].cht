@@ -1,0 +1,51 @@
+cheats = 12
+
+cheat0_desc = "#无限金钱"
+cheat0_code = "800AABB0 0FFF"
+cheat0_enable = false
+
+cheat1_desc = "#无限马力"
+cheat1_code = "801AE43C 0032"
+cheat1_enable = false
+
+cheat2_desc = "#最大马力"
+cheat2_code = "801AE440 0032"
+cheat2_enable = false
+
+cheat3_desc = "#无限MP"
+cheat3_code = "801DE5A4 0004"
+cheat3_enable = false
+
+cheat4_desc = "#最大Mp"
+cheat4_code = "801DE5A6 0004"
+cheat4_enable = false
+
+cheat5_desc = "#拥有所有键"
+cheat5_code = "801DE6A8 0063+801DE6A8 0032+801DE6D8 0001+801DE6DC 0001+801DE6E0 0001"
+cheat5_enable = false
+
+cheat6_desc = "#Max Money"
+cheat6_code = "801DE5A8 270F"
+cheat6_enable = false
+
+cheat7_desc = "#无限金鸟"
+cheat7_code = "801DE5AE 0063"
+cheat7_enable = false
+
+cheat8_desc = "#无敌"
+cheat8_code = "801AE5F4 0002"
+cheat8_enable = false
+
+cheat9_desc = "#输入调试图"
+cheat9_code = "80010000 FFFF"
+cheat9_enable = false
+
+cheat10_desc = "#输入调试图在按住L2 + R2的同时切换屏幕屏幕黑屏时，请释放L2 + R2的按钮（如果卡住了字符，请按L1 + R1按钮）"
+cheat10_code = "D01DE7C8 0003+801E9E2C 000B+D01DE7C8 000C+801AE530 021C+D01DE7C8 000C+801AE542 01D8"
+cheat10_enable = false
+
+cheat11_desc = "#A调试模式Pad 2选择Debug ON / OFF L1 / L2选项菜单开始确认"
+cheat11_code = "301DE1B7 0080"
+cheat11_enable = false
+
+

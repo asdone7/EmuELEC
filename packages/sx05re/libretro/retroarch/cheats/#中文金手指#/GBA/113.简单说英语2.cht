@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "成功次数（剪纸）"
+cheat0_code = "020000B4 00000003"
+cheat0_enable = false
+
+

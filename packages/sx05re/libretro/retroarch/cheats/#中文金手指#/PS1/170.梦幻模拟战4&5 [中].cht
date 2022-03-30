@@ -1,0 +1,115 @@
+cheats = 28
+
+cheat0_desc = "#1争取升级"
+cheat0_code = "50000AE4 0000+3011856D 0001"
+cheat0_enable = false
+
+cheat1_desc = "#无限金钱"
+cheat1_code = "800DC380 FFFF"
+cheat1_enable = false
+
+cheat2_desc = "#英雄代码\\等级"
+cheat2_code = "3011856C 000A"
+cheat2_enable = false
+
+cheat3_desc = "#Hero Codes \\ Max Exp"
+cheat3_code = "8011856E FFFF"
+cheat3_enable = false
+
+cheat4_desc = "#英雄代码\\状态"
+cheat4_code = "30118570 00FF+30118574 0063"
+cheat4_enable = false
+
+cheat5_desc = "#英雄代码\\在"
+cheat5_code = "3011862D 0063"
+cheat5_enable = false
+
+cheat6_desc = "#英雄代码\\ Df"
+cheat6_code = "30118630 0063"
+cheat6_enable = false
+
+cheat7_desc = "#英雄代码\\ A +"
+cheat7_code = "30118571 0063"
+cheat7_enable = false
+
+cheat8_desc = "#英雄代码\\ D +"
+cheat8_code = "30118572 0063"
+cheat8_enable = false
+
+cheat9_desc = "#英雄代码\\ Mp"
+cheat9_code = "30118575 0063+30118576 0063"
+cheat9_enable = false
+
+cheat10_desc = "#英雄代码\\ M +"
+cheat10_code = "30118573 0063"
+cheat10_enable = false
+
+cheat11_desc = "#英雄代码\\移动"
+cheat11_code = "30118633 0063+30118634 0063"
+cheat11_enable = false
+
+cheat12_desc = "#英雄代码\\攻击状态"
+cheat12_code = "80118598 6363+8011859A 6363+8011859C 6363+8011859E 6363"
+cheat12_enable = false
+
+cheat13_desc = "#英雄代码\\单位英雄无敌"
+cheat13_code = "80118610 0A0A+80118612 0A0A+80118614 0A0A+30118616 000A"
+cheat13_enable = false
+
+cheat14_desc = "#Secondary Codes \\ Level"
+cheat14_code = "30118650 000A"
+cheat14_enable = false
+
+cheat15_desc = "#Secondary Codes \\ Max Exp"
+cheat15_code = "80118652 FFFF"
+cheat15_enable = false
+
+cheat16_desc = "#Secondary Codes \\ Status"
+cheat16_code = "30118654 00FF+30118658 0063"
+cheat16_enable = false
+
+cheat17_desc = "#Secondary Codes \\ At"
+cheat17_code = "30118711 0063"
+cheat17_enable = false
+
+cheat18_desc = "#Secondary Codes \\ Df"
+cheat18_code = "30118714 0063"
+cheat18_enable = false
+
+cheat19_desc = "#Secondary Codes \\ A +"
+cheat19_code = "30118655 0063"
+cheat19_enable = false
+
+cheat20_desc = "#Secondary Codes \\ D +"
+cheat20_code = "30118656 0063"
+cheat20_enable = false
+
+cheat21_desc = "#Secondary Codes \\ Mp"
+cheat21_code = "30118659 0063+3011865A 0063"
+cheat21_enable = false
+
+cheat22_desc = "#Secondary Codes \\ M +"
+cheat22_code = "30118657 0063"
+cheat22_enable = false
+
+cheat23_desc = "#Secondary Codes \\ Move"
+cheat23_code = "30118717 0063+30118718 0063"
+cheat23_enable = false
+
+cheat24_desc = "#次要代码\\攻击状态"
+cheat24_code = "8011867C 6363+8011867E 6363+80118680 6363+80118682 6363"
+cheat24_enable = false
+
+cheat25_desc = "#Secondary Codes \\ Unit Hero Invincible"
+cheat25_code = "801186F4 0A0A+801186F6 0A0A+801186F8 0A0A+301186FA 000A"
+cheat25_enable = false
+
+cheat26_desc = "#Secondary Codes \\ Item"
+cheat26_code = "50006002 0001+80114698 FF01"
+cheat26_enable = false
+
+cheat27_desc = "#添加奖金这是（不影响保存数据）并在标题屏幕上按菜单屏幕上的L2 + R2按钮，从配音演员中添加到房屋中的配置"
+cheat27_code = "D00DC328 0003+800DC1C0 0100"
+cheat27_enable = false
+
+

@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "turbo"
+cheat0_code = "02013137 00000024"
+cheat0_enable = false
+
+cheat1_desc = "trick"
+cheat1_code = "02013138 0000002C+02013139 00000001"
+cheat1_enable = false
+
+

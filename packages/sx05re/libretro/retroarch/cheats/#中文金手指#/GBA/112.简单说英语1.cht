@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "成功次数（吃饭、逗狗）"
+cheat0_code = "020000B0 00000003"
+cheat0_enable = false
+
+

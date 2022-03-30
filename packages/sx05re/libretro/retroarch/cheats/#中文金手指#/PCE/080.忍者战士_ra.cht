@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[体力不减]On"
+cheat0_code = "1F1319:80"
+cheat0_enable = false
+
+cheat1_desc = "[手里剑无限]On"
+cheat1_code = "1F0E7D:63"
+cheat1_enable = false
+
+cheat2_desc = "[时间无限]On"
+cheat2_code = "1F0FC8:3C"
+cheat2_enable = false
+

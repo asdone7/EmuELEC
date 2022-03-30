@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "命不减"
+cheat0_code = "02040954 00000009"
+cheat0_enable = false
+
+cheat1_desc = "RING 999"
+cheat1_code = "0204094C 000000E7+0204094D 00000003"
+cheat1_enable = false
+
+cheat2_desc = "时间 0'00'00"
+cheat2_code = "0204094E 00000000+0204094F 00000000"
+cheat2_enable = false
+
+

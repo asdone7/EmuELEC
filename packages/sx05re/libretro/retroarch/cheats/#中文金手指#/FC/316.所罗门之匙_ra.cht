@@ -1,0 +1,226 @@
+cheats = 56
+
+cheat0_desc = "[魔法]ON"
+cheat0_code = "0071:80"
+cheat0_enable = false
+
+cheat1_desc = "[时间]ON"
+cheat1_code = "0436:09+0437:09+0438:09+0439:09+043A:09"
+cheat1_enable = false
+
+cheat2_desc = "[人数无限]ON"
+cheat2_code = "0452:63"
+cheat2_enable = false
+
+cheat3_desc = "[火球无限]ON"
+cheat3_code = "042F:AA"
+cheat3_enable = false
+
+cheat4_desc = "[时间无限]ON"
+cheat4_code = "0438:00+0439:00+043A:00+043B:01"
+cheat4_enable = false
+
+cheat5_desc = "[仙女]ON"
+cheat5_code = "0453:09"
+cheat5_enable = false
+
+cheat6_desc = "[快速过关]ON"
+cheat6_code = "0314:07+0315:07+0316:07+0317:07+0318:07+0319:07+031A:07+031B:07+031C:07+031D:07+031E:07+031F:07+0320:07+0321:07+0322:07+0323:07+0324:07+0325:07+0326:07+0327:07+0328:07+0329:07+032A:07+032B:07+032C:07+032D:07+032E:07+032F:07+0330:07+0331:07+0332:07+0333:07+0334:07+0335:07+0336:07+0337:07+0338:07+0339:07+033A:07+033B:07+033C:07+033D:07+033E:07+033F:07+0340:07+0341:07+0342:07+0343:07+0344:07+0345:07+0346:07+0347:07+0348:07+0349:07+034A:07+034B:07+034C:07+034D:07+034E:07+034F:07+0350:07+0351:07+0352:07+0353:07+0354:07+0355:07+0356:07+0357:07+0358:07+0359:07+035A:07+035B:07+035C:07+035D:07+035E:07+035F:07+0360:07+0361:07+0362:07+0363:07+0364:07+0365:07+0366:07+0367:07+0368:07+0369:07+036A:07+036B:07+036C:07+036D:07+036E:07+036F:07+0370:07+0371:07+0372:07+0373:07+0374:07+0375:07+0376:07+0377:07+0378:07+0379:07+037A:07+037B:07+037C:07+037D:07+037E:07+037F:07+0380:07+0381:07+0382:07+0383:07+0384:07+0385:07+0386:07+0387:07+0388:07+0389:07+038A:07+038B:07+038C:07+038D:07+038E:07+038F:07+0390:07+0391:07+0392:07+0393:07+0394:07+0395:07+0396:07+0397:07+0398:07+0399:07+039A:07+039B:07+039C:07+039D:07+039E:07+039F:07+03A0:07+03A1:07+03A2:07+03A3:07+03A4:07+03A5:07+03A6:07+03A7:07+03A8:07+03A9:07+03AA:07+03AB:07+03AC:07+03AD:07+03AE:07+03AF:07+03B0:07+03B1:07+03B2:07+03B3:07+03B4:07+03B5:07+03B6:07+03B7:07+03B8:07+03B9:07+03BA:07+03BB:07+03BC:07+03BD:07+03BE:07+03BF:07+03C0:07+03C1:07+03C2:07+03C3:07+03C4:07+03C5:07+03C6:07+03C7:07+03C8:07+03C9:07+03CA:07+03CB:07+03CC:07+03CD:07+03CE:07+03CF:07+03D0:07+03D1:07+03D2:07+03D3:07"
+cheat6_enable = false
+
+cheat7_desc = "[选关]2"
+cheat7_code = "0428:01"
+cheat7_enable = false
+
+cheat8_desc = "[选关]3"
+cheat8_code = "0428:02"
+cheat8_enable = false
+
+cheat9_desc = "[选关]4"
+cheat9_code = "0428:03"
+cheat9_enable = false
+
+cheat10_desc = "[选关]5"
+cheat10_code = "0428:04"
+cheat10_enable = false
+
+cheat11_desc = "[选关]6"
+cheat11_code = "0428:05"
+cheat11_enable = false
+
+cheat12_desc = "[选关]7"
+cheat12_code = "0428:06"
+cheat12_enable = false
+
+cheat13_desc = "[选关]8"
+cheat13_code = "0428:07"
+cheat13_enable = false
+
+cheat14_desc = "[选关]9"
+cheat14_code = "0428:08"
+cheat14_enable = false
+
+cheat15_desc = "[选关]10"
+cheat15_code = "0428:09"
+cheat15_enable = false
+
+cheat16_desc = "[选关]11"
+cheat16_code = "0428:0A"
+cheat16_enable = false
+
+cheat17_desc = "[选关]12"
+cheat17_code = "0428:0B"
+cheat17_enable = false
+
+cheat18_desc = "[选关]13"
+cheat18_code = "0428:0C"
+cheat18_enable = false
+
+cheat19_desc = "[选关]14"
+cheat19_code = "0428:0D"
+cheat19_enable = false
+
+cheat20_desc = "[选关]15"
+cheat20_code = "0428:0E"
+cheat20_enable = false
+
+cheat21_desc = "[选关]16"
+cheat21_code = "0428:0F"
+cheat21_enable = false
+
+cheat22_desc = "[选关]17"
+cheat22_code = "0428:10"
+cheat22_enable = false
+
+cheat23_desc = "[选关]18"
+cheat23_code = "0428:11"
+cheat23_enable = false
+
+cheat24_desc = "[选关]19"
+cheat24_code = "0428:12"
+cheat24_enable = false
+
+cheat25_desc = "[选关]20"
+cheat25_code = "0428:13"
+cheat25_enable = false
+
+cheat26_desc = "[选关]21"
+cheat26_code = "0428:14"
+cheat26_enable = false
+
+cheat27_desc = "[选关]22"
+cheat27_code = "0428:15"
+cheat27_enable = false
+
+cheat28_desc = "[选关]23"
+cheat28_code = "0428:16"
+cheat28_enable = false
+
+cheat29_desc = "[选关]24"
+cheat29_code = "0428:17"
+cheat29_enable = false
+
+cheat30_desc = "[选关]25"
+cheat30_code = "0428:18"
+cheat30_enable = false
+
+cheat31_desc = "[选关]26"
+cheat31_code = "0428:19"
+cheat31_enable = false
+
+cheat32_desc = "[选关]27"
+cheat32_code = "0428:1A"
+cheat32_enable = false
+
+cheat33_desc = "[选关]28"
+cheat33_code = "0428:1B"
+cheat33_enable = false
+
+cheat34_desc = "[选关]29"
+cheat34_code = "0428:1C"
+cheat34_enable = false
+
+cheat35_desc = "[选关]30"
+cheat35_code = "0428:1D"
+cheat35_enable = false
+
+cheat36_desc = "[选关]31"
+cheat36_code = "0428:1E"
+cheat36_enable = false
+
+cheat37_desc = "[选关]32"
+cheat37_code = "0428:1F"
+cheat37_enable = false
+
+cheat38_desc = "[选关]33"
+cheat38_code = "0428:20"
+cheat38_enable = false
+
+cheat39_desc = "[选关]34"
+cheat39_code = "0428:21"
+cheat39_enable = false
+
+cheat40_desc = "[选关]35"
+cheat40_code = "0428:22"
+cheat40_enable = false
+
+cheat41_desc = "[选关]36"
+cheat41_code = "0428:23"
+cheat41_enable = false
+
+cheat42_desc = "[选关]37"
+cheat42_code = "0428:24"
+cheat42_enable = false
+
+cheat43_desc = "[选关]38"
+cheat43_code = "0428:25"
+cheat43_enable = false
+
+cheat44_desc = "[选关]39"
+cheat44_code = "0428:26"
+cheat44_enable = false
+
+cheat45_desc = "[选关]40"
+cheat45_code = "0428:27"
+cheat45_enable = false
+
+cheat46_desc = "[选关]41"
+cheat46_code = "0428:28"
+cheat46_enable = false
+
+cheat47_desc = "[选关]42"
+cheat47_code = "0428:29"
+cheat47_enable = false
+
+cheat48_desc = "[选关]43"
+cheat48_code = "0428:2A"
+cheat48_enable = false
+
+cheat49_desc = "[选关]44"
+cheat49_code = "0428:2B"
+cheat49_enable = false
+
+cheat50_desc = "[选关]45"
+cheat50_code = "0428:2C"
+cheat50_enable = false
+
+cheat51_desc = "[选关]46"
+cheat51_code = "0428:2D"
+cheat51_enable = false
+
+cheat52_desc = "[选关]47"
+cheat52_code = "0428:2E"
+cheat52_enable = false
+
+cheat53_desc = "[选关]48"
+cheat53_code = "0428:2F"
+cheat53_enable = false
+
+cheat54_desc = "[选关]49"
+cheat54_code = "0428:30"
+cheat54_enable = false
+
+cheat55_desc = "[选关]50"
+cheat55_code = "0428:31"
+cheat55_enable = false
+

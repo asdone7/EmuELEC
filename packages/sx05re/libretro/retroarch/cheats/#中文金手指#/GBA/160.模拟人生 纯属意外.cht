@@ -1,0 +1,173 @@
+cheats = 42
+
+cheat0_desc = "洗澡"
+cheat0_code = "02043A07 00000064"
+cheat0_enable = false
+
+cheat1_desc = "睡觉"
+cheat1_code = "02043A0B 00000064"
+cheat1_enable = false
+
+cheat2_desc = "进食"
+cheat2_code = "02043A03 00000064"
+cheat2_enable = false
+
+cheat3_desc = "社交"
+cheat3_code = "02043A0F 00000064"
+cheat3_enable = false
+
+cheat4_desc = "舒适"
+cheat4_code = "02043A13 00000064"
+cheat4_enable = false
+
+cheat5_desc = "如厕"
+cheat5_code = "02043A17 00000064"
+cheat5_enable = false
+
+cheat6_desc = "娱乐"
+cheat6_code = "02043A1B 00000064"
+cheat6_enable = false
+
+cheat7_desc = "环境"
+cheat7_code = "02043A1F 00000064"
+cheat7_enable = false
+
+cheat8_desc = "分钟(自由调教)"
+cheat8_code = "0204395B 00000001"
+cheat8_enable = false
+
+cheat9_desc = "小时(自由调教) 12 am"
+cheat9_code = "0204395A 00000000"
+cheat9_enable = false
+
+cheat10_desc = "小时(自由调教) 01 am"
+cheat10_code = "0204395A 00000001"
+cheat10_enable = false
+
+cheat11_desc = "小时(自由调教) 02 am"
+cheat11_code = "0204395A 00000002"
+cheat11_enable = false
+
+cheat12_desc = "小时(自由调教) 03 am"
+cheat12_code = "0204395A 00000003"
+cheat12_enable = false
+
+cheat13_desc = "小时(自由调教) 04 am"
+cheat13_code = "0204395A 00000004"
+cheat13_enable = false
+
+cheat14_desc = "小时(自由调教) 05 am"
+cheat14_code = "0204395A 00000005"
+cheat14_enable = false
+
+cheat15_desc = "小时(自由调教) 06 am"
+cheat15_code = "0204395A 00000006"
+cheat15_enable = false
+
+cheat16_desc = "小时(自由调教) 07 am"
+cheat16_code = "0204395A 00000007"
+cheat16_enable = false
+
+cheat17_desc = "小时(自由调教) 08 am"
+cheat17_code = "0204395A 00000008"
+cheat17_enable = false
+
+cheat18_desc = "小时(自由调教) 09 am"
+cheat18_code = "0204395A 00000009"
+cheat18_enable = false
+
+cheat19_desc = "小时(自由调教) 10 am"
+cheat19_code = "0204395A 0000000A"
+cheat19_enable = false
+
+cheat20_desc = "小时(自由调教) 11 am"
+cheat20_code = "0204395A 0000000B"
+cheat20_enable = false
+
+cheat21_desc = "小时(自由调教) 12 pm"
+cheat21_code = "0204395A 00000018"
+cheat21_enable = false
+
+cheat22_desc = "小时(自由调教) 01 pm"
+cheat22_code = "0204395A 0000000D"
+cheat22_enable = false
+
+cheat23_desc = "小时(自由调教) 02 pm"
+cheat23_code = "0204395A 0000000E"
+cheat23_enable = false
+
+cheat24_desc = "小时(自由调教) 03 pm"
+cheat24_code = "0204395A 0000000F"
+cheat24_enable = false
+
+cheat25_desc = "小时(自由调教) 04 pm"
+cheat25_code = "0204395A 00000010"
+cheat25_enable = false
+
+cheat26_desc = "小时(自由调教) 05 pm"
+cheat26_code = "0204395A 00000011"
+cheat26_enable = false
+
+cheat27_desc = "小时(自由调教) 06 pm"
+cheat27_code = "0204395A 00000012"
+cheat27_enable = false
+
+cheat28_desc = "小时(自由调教) 07 pm"
+cheat28_code = "0204395A 00000013"
+cheat28_enable = false
+
+cheat29_desc = "小时(自由调教) 08 pm"
+cheat29_code = "0204395A 00000014"
+cheat29_enable = false
+
+cheat30_desc = "小时(自由调教) 09 pm"
+cheat30_code = "0204395A 00000015"
+cheat30_enable = false
+
+cheat31_desc = "小时(自由调教) 10 pm"
+cheat31_code = "0204395A 00000016"
+cheat31_enable = false
+
+cheat32_desc = "小时(自由调教) 11 pm"
+cheat32_code = "0204395A 00000017"
+cheat32_enable = false
+
+cheat33_desc = "钱"
+cheat33_code = "22043954 0001869F+Body+020439F7 0000000A+Creativity+020439F3 0000000A+Charisma+020439FF 0000000A+Cooking+020439EB 0000000A"
+cheat33_enable = false
+
+cheat34_desc = "logic"
+cheat34_code = "020439FB 0000000A"
+cheat34_enable = false
+
+cheat35_desc = "mechanical"
+cheat35_code = "020439EF 0000000A"
+cheat35_enable = false
+
+cheat36_desc = "金钱"
+
+cheat36_desc = "状态全满"
+cheat36_code = "02043A03 00000064+02043A07 00000064+02043A0B 00000064+02043A0F 00000064+02043A13 00000064+02043A17 00000064+02043A1B 00000064+02043A1F 00000064"
+cheat36_enable = false
+
+cheat37_desc = "技能等级全满"
+cheat37_code = "020439EB 0000000A+020439EF 0000000A+020439F3 0000000A+020439F7 0000000A+020439FB 0000000A+020439FF 0000000A"
+cheat37_enable = false
+
+cheat38_desc = "全员平均友好度"
+cheat38_code = "02043982 00000064"
+cheat38_enable = false
+
+cheat39_desc = "全员满友好度"
+cheat39_code = "02043989 00000064+0204398D 00000064+02043991 00000064+02043995 00000064+02043999 00000064+0204399D 00000064+020439A1 00000064+020439A5 00000064+020439A9 00000064+020439AD 00000064+020439B1 00000064+020439B5 00000064+020439B9 00000064+020439BD 00000064+020439C1 00000064+020439C5 00000064+020439C9 00000064+020439CD 00000064+020439D1 00000064+020439D5 00000064+020439D9 00000064+020439DD 00000064+020439E1 00000064+020439E5 00000064"
+cheat39_enable = false
+
+cheat40_desc = "拾得物全满"
+cheat40_code = "02043A30 00000063+02043A31 00000063+02043A32 00000063+02043A33 00000063+02043A34 00000063"
+cheat40_enable = false
+
+cheat41_desc = "任务积分"
+cheat41_code = "02029758 00000063"
+cheat41_enable = false
+
+

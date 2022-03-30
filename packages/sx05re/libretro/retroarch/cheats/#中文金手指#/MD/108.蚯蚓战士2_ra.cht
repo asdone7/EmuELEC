@@ -1,0 +1,54 @@
+cheats = 13
+
+cheat0_desc = "[角色状态]无敌不闪烁"
+cheat0_code = "FFA1C5:FF"
+cheat0_enable = false
+
+cheat1_desc = "[角色状态]无敌闪烁"
+cheat1_code = "FFFBD7:FF"
+cheat1_enable = false
+
+cheat2_desc = "[无限生命]锁"
+cheat2_code = "FFFAFC:31+FFFAFD:30+FFFAFE:30"
+cheat2_enable = false
+
+cheat3_desc = "[各种武器]初始"
+cheat3_code = "FFFAD8:00+FFFADE:30+FFFADF:30+FFFAE0:39+FFFAE1:39"
+cheat3_enable = false
+
+cheat4_desc = "[各种武器]散弹枪"
+cheat4_code = "FFFAD8:01+FFFADE:30+FFFADF:30+FFFAE0:39+FFFAE1:39"
+cheat4_enable = false
+
+cheat5_desc = "[各种武器]等离子炮"
+cheat5_code = "FFFAD8:02+FFFADE:30+FFFADF:30+FFFAE0:39+FFFAE1:39"
+cheat5_enable = false
+
+cheat6_desc = "[各种武器]泡泡枪"
+cheat6_code = "FFFAD8:03+FFFADE:30+FFFADF:30+FFFAE0:39+FFFAE1:39"
+cheat6_enable = false
+
+cheat7_desc = "[各种武器]追踪弹"
+cheat7_code = "FFFAD8:04+FFFADE:30+FFFADF:30+FFFAE0:39+FFFAE1:39"
+cheat7_enable = false
+
+cheat8_desc = "[各种武器]核子弹"
+cheat8_code = "FFFAD8:06+FFFADE:30+FFFADF:30+FFFAE0:39+FFFAE1:39"
+cheat8_enable = false
+
+cheat9_desc = "[辅助功能]第二关时间"
+cheat9_code = "FFFE81:02"
+cheat9_enable = false
+
+cheat10_desc = "[辅助功能]小狗只数不减"
+cheat10_code = "FFFCC6:00"
+cheat10_enable = false
+
+cheat11_desc = "[辅助功能]蚯蚓条数不减"
+cheat11_code = "FFFC14:09"
+cheat11_enable = false
+
+cheat12_desc = "[辅助功能]奶牛的炸弹时间"
+cheat12_code = "FFFD5F:02"
+cheat12_enable = false
+

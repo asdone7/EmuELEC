@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[生命数]ON"
+cheat0_code = "002B:09"
+cheat0_enable = false
+
+cheat1_desc = "[忍者状态]红色忍者"
+cheat1_code = "0041:00"
+cheat1_enable = false
+
+cheat2_desc = "[忍者状态]绿色忍者"
+cheat2_code = "0041:01"
+cheat2_enable = false
+
+cheat3_desc = "[忍者状态]黄色忍者"
+cheat3_code = "0041:02"
+cheat3_enable = false
+
+cheat4_desc = "[忍术]分身术"
+cheat4_code = "0046:66"
+cheat4_enable = false
+
+cheat5_desc = "[忍术]无敌镖"
+cheat5_code = "0046:255"
+cheat5_enable = false
+
+cheat6_desc = "[忍术]念忍术"
+cheat6_code = "0046:FF"
+cheat6_enable = false
+

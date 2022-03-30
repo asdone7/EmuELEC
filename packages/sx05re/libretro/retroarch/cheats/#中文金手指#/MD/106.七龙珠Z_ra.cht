@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1p无限体力]ON"
+cheat0_code = "FFE782:FF"
+cheat0_enable = false
+
+cheat1_desc = "[1p无限能量]ON"
+cheat1_code = "FFE786:FF"
+cheat1_enable = false
+

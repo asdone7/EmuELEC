@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[血量]ON"
+cheat0_code = "7E0736FF+7E07370F+7E0C36FF+7E0C370F+7E1136FF+7E11370F+7E1A36FF+7E1A370F+7E1C21FF+7E1C220F"
+cheat0_enable = false
+
+cheat1_desc = "[游戏时间无限]99秒"
+cheat1_code = "7E016C64"
+cheat1_enable = false
+
+cheat2_desc = "[透明]无敌"
+cheat2_code = "7E0721FF+7E0C21FF+7E1121FF+7E1A21FF+7E1C21FF"
+cheat2_enable = false
+
+cheat3_desc = "[无限接关]CREDITS 9"
+cheat3_code = "7E011209+7E014609"
+cheat3_enable = false
+
+cheat4_desc = "[接关选人时间无限]99秒"
+cheat4_code = "7E053863"
+cheat4_enable = false
+
+cheat5_desc = "[命数]9命"
+cheat5_code = "7E011009+7E014409"
+cheat5_enable = false
+
+cheat6_desc = "[最后BOSS一击死]ON"
+cheat6_code = "7E1F3600+7E1F5A00+7E1A3600+7E1F5000"
+cheat6_enable = false
+

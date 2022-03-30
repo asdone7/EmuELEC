@@ -1,0 +1,490 @@
+cheats = 122
+
+cheat0_desc = "[时间]锁定"
+cheat0_code = "FF0788:BD+FF0789:00"
+cheat0_enable = false
+
+cheat1_desc = "[时间]建安1年(不锁定就解锁)"
+cheat1_code = "FF0788:00+FF0789:00+FF078B:01"
+cheat1_enable = false
+
+cheat2_desc = "[新君主]+FF99技能点(激活即解锁)"
+cheat2_code = "FFEF24:63"
+cheat2_enable = false
+
+cheat3_desc = "[新君主]+FF1"
+cheat3_code = "FFEF24:01"
+cheat3_enable = false
+
+cheat4_desc = "[新武将]属性全满(激活即解锁)"
+cheat4_code = "FFEF7E:64+FFEF7F:64+FFEF80:64+FFEF81:64+FFEF82:64+FFEF83:64"
+cheat4_enable = false
+
+cheat5_desc = "[战场粮食]ON"
+cheat5_code = "FF92B6:FF+FF92B7:FF"
+cheat5_enable = false
+
+cheat6_desc = "[战场陷阱]ON(挖陷阱时激活即解锁)"
+cheat6_code = "FFEF06:63"
+cheat6_enable = false
+
+cheat7_desc = "[战场机动力]ON(移动时激活即解锁)"
+cheat7_code = "FFEEA2:FF"
+cheat7_enable = false
+
+cheat8_desc = "[火计位置]上上(用火计时激活即解锁)"
+cheat8_code = "FFEE42:07"
+cheat8_enable = false
+
+cheat9_desc = "[火计位置]上右"
+cheat9_code = "FFEE42:08"
+cheat9_enable = false
+
+cheat10_desc = "[火计位置]右侧"
+cheat10_code = "FFEE42:09"
+cheat10_enable = false
+
+cheat11_desc = "[火计位置]右侧"
+cheat11_code = "FFEE42:0A"
+cheat11_enable = false
+
+cheat12_desc = "[火计位置]右侧"
+cheat12_code = "FFEE42:0B"
+cheat12_enable = false
+
+cheat13_desc = "[火计位置]下右"
+cheat13_code = "FFEE42:0C"
+cheat13_enable = false
+
+cheat14_desc = "[火计位置]下下"
+cheat14_code = "FFEE42:0D"
+cheat14_enable = false
+
+cheat15_desc = "[火计位置]下左"
+cheat15_code = "FFEE42:0E"
+cheat15_enable = false
+
+cheat16_desc = "[火计位置]左侧"
+cheat16_code = "FFEE42:0F"
+cheat16_enable = false
+
+cheat17_desc = "[火计位置]左侧"
+cheat17_code = "FFEE42:10"
+cheat17_enable = false
+
+cheat18_desc = "[火计位置]左侧"
+cheat18_code = "FFEE42:11"
+cheat18_enable = false
+
+cheat19_desc = "[火计位置]上左"
+cheat19_code = "FFEE42:12"
+cheat19_enable = false
+
+cheat20_desc = "[董卓]未动"
+cheat20_code = "FF424D:00"
+cheat20_enable = false
+
+cheat21_desc = "[董卓]兵、训、士、宝"
+cheat21_code = "FF4246:88+FF4247:45+FF4248:FF+FF4249:FF+FF4258:FF+FF425B:FF"
+cheat21_enable = false
+
+cheat22_desc = "[吕布]未动"
+cheat22_code = "FF5099:00"
+cheat22_enable = false
+
+cheat23_desc = "[吕布]兵、训、士、宝、忠"
+cheat23_code = "FF5092:50+FF5093:46+FF5094:FF+FF5095:FF+FF50A4:FF+FF50A7:FF+FF509E:64"
+cheat23_enable = false
+
+cheat24_desc = "[吕布]军师"
+cheat24_code = "FF509D:01"
+cheat24_enable = false
+
+cheat25_desc = "[王允]未动"
+cheat25_code = "FF17C3:00"
+cheat25_enable = false
+
+cheat26_desc = "[王允]兵、训、士、宝、忠"
+cheat26_code = "FF17BC:D0+FF17BD:39+FF17BE:FF+FF17BF:FF+FF17CE:FF+FF17D1:FF+FF17C8:64"
+cheat26_enable = false
+
+cheat27_desc = "[貂禅]未动"
+cheat27_code = "FF53A5:02"
+cheat27_enable = false
+
+cheat28_desc = "[貂禅]战场兵种为步兵"
+cheat28_code = "FF53A7:70"
+cheat28_enable = false
+
+cheat29_desc = "[貂禅]战场兵种为军马"
+cheat29_code = "FF53A7:71"
+cheat29_enable = false
+
+cheat30_desc = "[貂禅]战场兵种为弩"
+cheat30_code = "FF53A7:72"
+cheat30_enable = false
+
+cheat31_desc = "[貂禅]战场兵种为巨弩"
+cheat31_code = "FF53A7:73"
+cheat31_enable = false
+
+cheat32_desc = "[貂禅]兵、训、士、宝、忠"
+cheat32_code = "FF539E:74+FF539F:27+FF53A0:FF+FF53A1:FF+FF53B0:FF+FF53B3:FF+FF53AA:64"
+cheat32_enable = false
+
+cheat33_desc = "[貂禅]官职为军师"
+cheat33_code = "FF53A9:01"
+cheat33_enable = false
+
+cheat34_desc = "[貂禅]官职为将军"
+cheat34_code = "FF53A9:02"
+cheat34_enable = false
+
+cheat35_desc = "[孙坚]未动"
+cheat35_code = "FF36EF:00"
+cheat35_enable = false
+
+cheat36_desc = "[孙坚]战场机动255"
+cheat36_code = "FF36FC:FF"
+cheat36_enable = false
+
+cheat37_desc = "[孙坚]战场兵种为步兵"
+cheat37_code = "FF36F1:6C"
+cheat37_enable = false
+
+cheat38_desc = "[孙坚]战场兵种为军马"
+cheat38_code = "FF36F1:6D"
+cheat38_enable = false
+
+cheat39_desc = "[孙坚]战场兵种为弩"
+cheat39_code = "FF36F1:6E"
+cheat39_enable = false
+
+cheat40_desc = "[孙坚]战场兵种为巨弩"
+cheat40_code = "FF36F1:6F"
+cheat40_enable = false
+
+cheat41_desc = "[孙坚]兵、训、士、宝"
+cheat41_code = "FF36E8:38+FF36E9:4A+FF36EA:FF+FF36EB:FF+FF36FA:FF+FF36FD:FF"
+cheat41_enable = false
+
+cheat42_desc = "[孙坚]关张为部下"
+cheat42_code = "FF36E6:47+FF36E7:00"
+cheat42_enable = false
+
+cheat43_desc = "[曹操]未动"
+cheat43_code = "FF343D:00"
+cheat43_enable = false
+
+cheat44_desc = "[曹操]官职为君主"
+cheat44_code = "FF3441:00"
+cheat44_enable = false
+
+cheat45_desc = "[曹操]官职为士兵"
+cheat45_code = "FF3441:1E"
+cheat45_enable = false
+
+cheat46_desc = "[曹操]官职为间谍"
+cheat46_code = "FF3441:15"
+cheat46_enable = false
+
+cheat47_desc = "[曹操]官职为步兵"
+cheat47_code = "FF3441:07"
+cheat47_enable = false
+
+cheat48_desc = "[曹操]兵、训、士、宝"
+cheat48_code = "FF3436:64+FF3437:4B+FF3438:FF+FF3439:FF+FF3448:FF+FF344B:FF"
+cheat48_enable = false
+
+cheat49_desc = "[曹操]战场机动255"
+cheat49_code = "FF344A:FF"
+cheat49_enable = false
+
+cheat50_desc = "[曹操]战场兵种为步兵"
+cheat50_code = "FF343F:61"
+cheat50_enable = false
+
+cheat51_desc = "[曹操]战场兵种为军马"
+cheat51_code = "FF343F:62"
+cheat51_enable = false
+
+cheat52_desc = "[曹操]战场兵种为弩"
+cheat52_code = "FF343F:63"
+cheat52_enable = false
+
+cheat53_desc = "[曹操]战场兵种为巨弩"
+cheat53_code = "FF343F:64"
+cheat53_enable = false
+
+cheat54_desc = "[曹操]关张为部下"
+cheat54_code = "FF3434:47+FF3435:00"
+cheat54_enable = false
+
+cheat55_desc = "[郭嘉]未动"
+cheat55_code = "FF1ACF:00"
+cheat55_enable = false
+
+cheat56_desc = "[郭嘉]战场兵种为步兵"
+cheat56_code = "FF1AD1:61"
+cheat56_enable = false
+
+cheat57_desc = "[郭嘉]战场兵种为军马"
+cheat57_code = "FF1AD1:62"
+cheat57_enable = false
+
+cheat58_desc = "[郭嘉]战场兵种为弩"
+cheat58_code = "FF1AD1:63"
+cheat58_enable = false
+
+cheat59_desc = "[郭嘉]战场兵种为巨弩"
+cheat59_code = "FF1AD1:64"
+cheat59_enable = false
+
+cheat60_desc = "[郭嘉]兵、训、士、宝、忠"
+cheat60_code = "FF1AC8:90+FF1AC9:33+FF1ACA:FF+FF1ACB:FF+FF1ADA:FF+FF1ADD:FF+FF1AD4:64"
+cheat60_enable = false
+
+cheat61_desc = "[郭嘉]战场机动255"
+cheat61_code = "FF1ADC:FF"
+cheat61_enable = false
+
+cheat62_desc = "[刘备]未动"
+cheat62_code = "FF4DC9:04"
+cheat62_enable = false
+
+cheat63_desc = "[刘备]兵、训、士、宝"
+cheat63_code = "FF4DC2:80+FF4DC3:3E+FF4DC4:FF+FF4DC5:FF+FF4DD4:FF+FF4DD7:FF"
+cheat63_enable = false
+
+cheat64_desc = "[关羽]未动"
+cheat64_code = "FF1DBD:00"
+cheat64_enable = false
+
+cheat65_desc = "[关羽]兵、训、士、忠、宝"
+cheat65_code = "FF1DB6:20+FF1DB7:+FF1DB8:FF+FF1DB9:FF4E+FF1DC8:FF+FF1DCB:FF+FF1DC2:64"
+cheat65_enable = false
+
+cheat66_desc = "[关羽]战场机动255"
+cheat66_code = "FF1DCA:FF"
+cheat66_enable = false
+
+cheat67_desc = "[张飞]未动"
+cheat67_code = "FF3CCB:04"
+cheat67_enable = false
+
+cheat68_desc = "[张飞]军师"
+cheat68_code = "FF3CCF:01"
+cheat68_enable = false
+
+cheat69_desc = "[张飞]战场机动255"
+cheat69_code = "FF3CD8:FF"
+cheat69_enable = false
+
+cheat70_desc = "[张飞]兵、训、士、忠、宝"
+cheat70_code = "FF3CC4:7C+FF3CC5:47+FF3CC6:FF+FF3CC7:FF+FF3CD6:FF+FF3CD9:FF+FF3CD0:64"
+cheat70_enable = false
+
+cheat71_desc = "[赵云]兵、训、士、忠、宝"
+cheat71_code = "FF3904:0C+FF3905:49+FF3906:FF+FF3907:FF+FF3916:FF+FF3919:FF+FF3910:64"
+cheat71_enable = false
+
+cheat72_desc = "[徐庶]兵、训、士、忠、宝"
+cheat72_code = "FF3076:44+FF3077:48+FF3078:FF+FF3079:FF+FF3088:FF+FF308B:FF+FF3082:64"
+cheat72_enable = false
+
+cheat73_desc = "[太史慈]兵、训、士、忠、宝"
+cheat73_code = "FF386E:B4+FF386F:46+FF3870:FF+FF3871:FF+FF3880:FF+FF3883:FF+FF387A:64"
+cheat73_enable = false
+
+cheat74_desc = "[颜良]兵、训、士、忠、宝"
+cheat74_code = "FF2068:E0+FF2069:74+FF206A:FF+FF206B:FF+FF207A:FF+FF207D:FF+FF2074:64"
+cheat74_enable = false
+
+cheat75_desc = "[乔瑁]兵、训、士、忠、宝"
+cheat75_code = "FF20FE:1C+FF20FF:3E+FF2100:FF+FF2101:FF+FF2110:28+FF2113:19"
+cheat75_enable = false
+
+cheat76_desc = "[1.襄平 数值全满]ON"
+cheat76_code = "FF07D0:FF+FF07D1:FF+FF07D2:FF+FF07D3:FF+FF07D4:2D+FF07D5:00+FF07D6:C0+FF07D7:C6+FF07E0:FF+FF07E1:FF+FF07E2:FF+FF07E3:FF+FF07E4:0F+FF07E5:27+FF07E6:64+FF07E8:0F+FF07E9:27+FF07EA:0F+FF07EB:27+FF07EC:0F+FF07ED:27"
+cheat76_enable = false
+
+cheat77_desc = "[2.北平 数值全满]ON"
+cheat77_code = "FF0804:FF+FF0805:FF+FF0806:FF+FF0807:FF+FF0808:2D+FF0809:00+FF080A:C0+FF080B:C6+FF0814:FF+FF0815:FF+FF0816:FF+FF0817:FF+FF0818:0F+FF0819:27+FF081A:64+FF081C:0F+FF081D:27+FF081E:0F+FF081F:27+FF0820:0F+FF0821:27"
+cheat77_enable = false
+
+cheat78_desc = "[3.代县 数值全满]ON"
+cheat78_code = "FF0838:FF+FF0839:FF+FF083A:FF+FF083B:FF+FF083C:2D+FF083D:00+FF083E:C0+FF083F:C6+FF0848:FF+FF0849:FF+FF084A:FF+FF084B:FF+FF084C:0F+FF084D:27+FF084E:64+FF0850:0F+FF0851:27+FF0852:0F+FF0853:27+FF0854:0F+FF0855:27"
+cheat78_enable = false
+
+cheat79_desc = "[4.晋阳 数值全满]ON"
+cheat79_code = "FF086C:FF+FF086D:FF+FF086E:FF+FF086F:FF+FF0870:2D+FF0871:00+FF0872:C0+FF0873:C6+FF087C:FF+FF087D:FF+FF087E:FF+FF087F:FF+FF0880:0F+FF0881:27+FF0882:64+FF0884:0F+FF0885:27+FF0886:0F+FF0887:27+FF0888:0F+FF0889:27"
+cheat79_enable = false
+
+cheat80_desc = "[5.南皮 数值全满]ON"
+cheat80_code = "FF08A0:FF+FF08A1:FF+FF08A2:FF+FF08A3:FF+FF08A4:2D+FF08A5:00+FF08A6:C0+FF08A7:C6+FF08B0:FF+FF08B1:FF+FF08B2:FF+FF08B3:FF+FF08B4:0F+FF08B5:27+FF08B6:64+FF08B8:0F+FF08B9:27+FF08BA:0F+FF08BB:27+FF08BC:0F+FF08BD:27"
+cheat80_enable = false
+
+cheat81_desc = "[6.平原 数值全满]ON"
+cheat81_code = "FF08D4:FF+FF08D5:FF+FF08D6:FF+FF08D7:FF+FF08D8:2D+FF08D9:00+FF08DA:C0+FF08DB:C6+FF08E4:FF+FF08E5:FF+FF08E6:FF+FF08E7:FF+FF08E8:0F+FF08E9:27+FF08EA:64+FF08EC:0F+FF08ED:27+FF08EE:0F+FF08EF:27+FF08F0:0F+FF08F1:27"
+cheat81_enable = false
+
+cheat82_desc = "[7.邺 数值全满]ON"
+cheat82_code = "FF0908:FF+FF0909:FF+FF090A:FF+FF090B:FF+FF090C:2D+FF090D:00+FF090E:C0+FF090F:C6+FF0918:FF+FF0919:FF+FF091A:FF+FF091B:FF+FF091C:0F+FF091D:27+FF091E:64+FF0920:0F+FF0921:27+FF0922:0F+FF0923:27+FF0924:0F+FF0925:27"
+cheat82_enable = false
+
+cheat83_desc = "[8.北海 数值全满]ON"
+cheat83_code = "FF093C:FF+FF093D:FF+FF093E:FF+FF093F:FF+FF0940:2D+FF0941:00+FF0942:C0+FF0943:C6+FF094C:FF+FF094D:FF+FF094E:FF+FF094F:FF+FF0950:0F+FF0951:27+FF0952:64+FF0954:0F+FF0955:27+FF0956:0F+FF0957:27+FF0958:0F+FF0959:27"
+cheat83_enable = false
+
+cheat84_desc = "[9.濮阳 数值全满]ON"
+cheat84_code = "FF0970:FF+FF0971:FF+FF0972:FF+FF0973:FF+FF0974:2D+FF0975:00+FF0976:C0+FF0977:C6+FF0980:FF+FF0981:FF+FF0982:FF+FF0983:FF+FF0984:0F+FF0985:27+FF0986:64+FF0988:0F+FF0989:27+FF098A:0F+FF098B:27+FF098C:0F+FF098D:27"
+cheat84_enable = false
+
+cheat85_desc = "[10.陈留 数值全满]ON"
+cheat85_code = "FF09A4:FF+FF09A5:FF+FF09A6:FF+FF09A7:FF+FF09A8:2D+FF09A9:00+FF09AA:C0+FF09AB:C6+FF09B4:FF+FF09B5:FF+FF09B6:FF+FF09B7:FF+FF09B8:0F+FF09B9:27+FF09BA:64+FF09BC:0F+FF09BD:27+FF09BE:0F+FF09BF:27+FF09C0:0F+FF09C1:27"
+cheat85_enable = false
+
+cheat86_desc = "[11.洛阳 数值全满]ON"
+cheat86_code = "FF09D8:FF+FF09D9:FF+FF09DA:FF+FF09DB:FF+FF09DC:2D+FF09DD:00+FF09DE:C0+FF09DF:C6+FF09E8:FF+FF09E9:FF+FF09EA:FF+FF09EB:FF+FF09EC:0F+FF09ED:27+FF09EE:64+FF09F0:0F+FF09F1:27+FF09F2:0F+FF09F3:27+FF09F4:0F+FF09F5:27"
+cheat86_enable = false
+
+cheat87_desc = "[12.弘农 数值全满]ON"
+cheat87_code = "FF0A0C:FF+FF0A0D:FF+FF0A0E:FF+FF0A0F:FF+FF0A10:2D+FF0A11:00+FF0A12:C0+FF0A13:C6+FF0A1C:FF+FF0A1D:FF+FF0A1E:FF+FF0A1F:FF+FF0A20:0F+FF0A21:27+FF0A22:64+FF0A24:0F+FF0A25:27+FF0A26:0F+FF0A27:27+FF0A28:0F+FF0A29:27"
+cheat87_enable = false
+
+cheat88_desc = "[13.长安 数值全满]ON"
+cheat88_code = "FF0A40:FF+FF0A41:FF+FF0A42:FF+FF0A43:FF+FF0A44:2D+FF0A45:00+FF0A46:C0+FF0A47:C6+FF0A50:FF+FF0A51:FF+FF0A52:FF+FF0A53:FF+FF0A54:0F+FF0A55:27+FF0A56:64+FF0A58:0F+FF0A59:27+FF0A5A:0F+FF0A5B:27+FF0A5C:0F+FF0A5D:27"
+cheat88_enable = false
+
+cheat89_desc = "[14.安定 数值全满]ON"
+cheat89_code = "FF0A74:FF+FF0A75:FF+FF0A76:FF+FF0A77:FF+FF0A78:2D+FF0A79:00+FF0A7A:C0+FF0A7B:C6+FF0A84:FF+FF0A85:FF+FF0A86:FF+FF0A87:FF+FF0A88:0F+FF0A89:27+FF0A8A:64+FF0A8C:0F+FF0A8D:27+FF0A8E:0F+FF0A8F:27+FF0A90:0F+FF0A91:27"
+cheat89_enable = false
+
+cheat90_desc = "[15.天水 数值全满]ON"
+cheat90_code = "FF0AA8:FF+FF0AA9:FF+FF0AAA:FF+FF0AAB:FF+FF0AAC:2D+FF0AAD:00+FF0AAE:C0+FF0AAF:C6+FF0AB8:FF+FF0AB9:FF+FF0ABA:FF+FF0ABB:FF+FF0ABC:0F+FF0ABD:27+FF0ABE:64+FF0AC0:0F+FF0AC1:27+FF0AC2:0F+FF0AC3:27+FF0AC4:0F+FF0AC5:27"
+cheat90_enable = false
+
+cheat91_desc = "[16.西凉 数值全满]ON"
+cheat91_code = "FF0ADC:FF+FF0ADD:FF+FF0ADE:FF+FF0ADF:FF+FF0AE0:2D+FF0AE1:00+FF0AE2:C0+FF0AE3:C6+FF0AEC:FF+FF0AED:FF+FF0AEE:FF+FF0AEF:FF+FF0AF0:0F+FF0AF1:27+FF0AF2:64+FF0AF4:0F+FF0AF5:27+FF0AF6:0F+FF0AF7:27+FF0AF8:0F+FF0AF9:27"
+cheat91_enable = false
+
+cheat92_desc = "[17.下邳 数值全满]ON"
+cheat92_code = "FF0B10:FF+FF0B11:FF+FF0B12:FF+FF0B13:FF+FF0B14:2D+FF0B15:00+FF0B16:C0+FF0B17:C6+FF0B20:FF+FF0B21:FF+FF0B22:FF+FF0B23:FF+FF0B24:0F+FF0B25:27+FF0B26:64+FF0B28:0F+FF0B29:27+FF0B2A:0F+FF0B2B:27+FF0B2C:0F+FF0B2D:27"
+cheat92_enable = false
+
+cheat93_desc = "[18.徐州 数值全满]ON"
+cheat93_code = "FF0B44:FF+FF0B45:FF+FF0B46:FF+FF0B47:FF+FF0B48:2D+FF0B49:00+FF0B4A:C0+FF0B4B:C6+FF0B54:FF+FF0B55:FF+FF0B56:FF+FF0B57:FF+FF0B58:0F+FF0B59:27+FF0B5A:64+FF0B5C:0F+FF0B5D:27+FF0B5E:0F+FF0B5F:27+FF0B60:0F+FF0B61:27"
+cheat93_enable = false
+
+cheat94_desc = "[19.许昌 数值全满]ON"
+cheat94_code = "FF0B78:FF+FF0B79:FF+FF0B7A:FF+FF0B7B:FF+FF0B7C:2D+FF0B7D:00+FF0B7E:C0+FF0B7F:C6+FF0B88:FF+FF0B89:FF+FF0B8A:FF+FF0B8B:FF+FF0B8C:0F+FF0B8D:27+FF0B8E:64+FF0B90:0F+FF0B91:27+FF0B92:0F+FF0B93:27+FF0B94:0F+FF0B95:27"
+cheat94_enable = false
+
+cheat95_desc = "[20.谯 数值全满]ON"
+cheat95_code = "FF0BAC:FF+FF0BAD:FF+FF0BAE:FF+FF0BAF:FF+FF0BB0:2D+FF0BB1:00+FF0BB2:C0+FF0BB3:C6+FF0BBC:FF+FF0BBD:FF+FF0BBE:FF+FF0BBF:FF+FF0BC0:0F+FF0BC1:27+FF0BC2:64+FF0BC4:0F+FF0BC5:27+FF0BC6:0F+FF0BC7:27+FF0BC8:0F+FF0BC9:27"
+cheat95_enable = false
+
+cheat96_desc = "[21.汝南 数值全满]ON"
+cheat96_code = "FF0BE0:FF+FF0BE1:FF+FF0BE2:FF+FF0BE3:FF+FF0BE4:2D+FF0BE5:00+FF0BE6:C0+FF0BE7:C6+FF0BF0:FF+FF0BF1:FF+FF0BF2:FF+FF0BF3:FF+FF0BF4:0F+FF0BF5:27+FF0BF6:64+FF0BF8:0F+FF0BF9:27+FF0BFA:0F+FF0BFB:27+FF0BFC:0F+FF0BFD:27"
+cheat96_enable = false
+
+cheat97_desc = "[22.宛 数值全满]ON"
+cheat97_code = "FF0C14:FF+FF0C15:FF+FF0C16:FF+FF0C17:FF+FF0C18:2D+FF0C19:00+FF0C1A:C0+FF0C1B:C6+FF0C24:FF+FF0C25:FF+FF0C26:FF+FF0C27:FF+FF0C28:0F+FF0C29:27+FF0C2A:64+FF0C2C:0F+FF0C2D:27+FF0C2E:0F+FF0C2F:27+FF0C30:0F+FF0C31:27"
+cheat97_enable = false
+
+cheat98_desc = "[23.新野 数值全满]ON"
+cheat98_code = "FF0C48:FF+FF0C49:FF+FF0C4A:FF+FF0C4B:FF+FF0C4C:2D+FF0C4D:00+FF0C4E:C0+FF0C4F:C6+FF0C58:FF+FF0C59:FF+FF0C5A:FF+FF0C5B:FF+FF0C5C:0F+FF0C5D:27+FF0C5E:64+FF0C60:0F+FF0C61:27+FF0C62:0F+FF0C63:27+FF0C64:0F+FF0C65:27"
+cheat98_enable = false
+
+cheat99_desc = "[24.襄阳 数值全满]ON"
+cheat99_code = "FF0C7C:FF+FF0C7D:FF+FF0C7E:FF+FF0C7F:FF+FF0C80:2D+FF0C81:00+FF0C82:C0+FF0C83:C6+FF0C8C:FF+FF0C8D:FF+FF0C8E:FF+FF0C8F:FF+FF0C90:0F+FF0C91:27+FF0C92:64+FF0C94:0F+FF0C95:27+FF0C96:0F+FF0C97:27+FF0C98:0F+FF0C99:27+FF0C9A:FF+FF0C9C:FF+FF0C9D:FF"
+cheat99_enable = false
+
+cheat100_desc = "[25.上庸 数值全满]ON"
+cheat100_code = "FF0CB0:FF+FF0CB1:FF+FF0CB2:FF+FF0CB3:FF+FF0CB4:2D+FF0CB5:00+FF0CB6:C0+FF0CB7:C6+FF0CC0:FF+FF0CC1:FF+FF0CC2:FF+FF0CC3:FF+FF0CC4:0F+FF0CC5:27+FF0CC6:64+FF0CC8:0F+FF0CC9:27+FF0CCA:0F+FF0CCB:27+FF0CCC:0F+FF0CCD:27"
+cheat100_enable = false
+
+cheat101_desc = "[26.江夏 数值全满]ON"
+cheat101_code = "FF0CE4:FF+FF0CE5:FF+FF0CE6:FF+FF0CE7:FF+FF0CE8:2D+FF0CE9:00+FF0CEA:C0+FF0CEB:C6+FF0CF4:FF+FF0CF5:FF+FF0CF6:FF+FF0CF7:FF+FF0CF8:0F+FF0CF9:27+FF0CFA:64+FF0CFC:0F+FF0CFD:27+FF0CFE:0F+FF0CFF:27+FF0D00:0F+FF0D01:27+FF0D02:FF+FF0D04:FF+FF0D05:FF"
+cheat101_enable = false
+
+cheat102_desc = "[27.江陵 数值全满]ON"
+cheat102_code = "FF0D18:FF+FF0D19:FF+FF0D1A:FF+FF0D1B:FF+FF0D1C:2D+FF0D1D:00+FF0D1E:C0+FF0D1F:C6+FF0D28:FF+FF0D29:FF+FF0D2A:FF+FF0D2B:FF+FF0D2C:0F+FF0D2D:27+FF0D2E:64+FF0D30:0F+FF0D31:27+FF0D32:0F+FF0D33:27+FF0D34:0F+FF0D35:27+FF0D36:FF+FF0D38:FF+FF0D39:FF"
+cheat102_enable = false
+
+cheat103_desc = "[28.武陵 数值全满]ON"
+cheat103_code = "FF0D4C:FF+FF0D4D:FF+FF0D4E:FF+FF0D4F:FF+FF0D50:2D+FF0D51:00+FF0D52:C0+FF0D53:C6+FF0D5C:FF+FF0D5D:FF+FF0D5E:FF+FF0D5F:FF+FF0D60:0F+FF0D61:27+FF0D62:64+FF0D64:0F+FF0D65:27+FF0D66:0F+FF0D67:27+FF0D68:0F+FF0D69:27+FF0D6A:FF+FF0D6C:FF+FF0D6D:FF"
+cheat103_enable = false
+
+cheat104_desc = "[29.长沙 数值全满]ON"
+cheat104_code = "FF0D80:FF+FF0D81:FF+FF0D82:FF+FF0D83:FF+FF0D84:2D+FF0D85:00+FF0D86:C0+FF0D87:C6+FF0D90:FF+FF0D91:FF+FF0D92:FF+FF0D93:FF+FF0D94:0F+FF0D95:27+FF0D96:64+FF0D98:0F+FF0D99:27+FF0D9A:0F+FF0D9B:27+FF0D9C:0F+FF0D9D:27"
+cheat104_enable = false
+
+cheat105_desc = "[30.桂阳 数值全满]ON"
+cheat105_code = "FF0DB4:FF+FF0DB5:FF+FF0DB6:FF+FF0DB7:FF+FF0DB8:2D+FF0DB9:00+FF0DBA:C0+FF0DBB:C6+FF0DC4:FF+FF0DC5:FF+FF0DC6:FF+FF0DC7:FF+FF0DC8:0F+FF0DC9:27+FF0DCA:64+FF0DCC:0F+FF0DCD:27+FF0DCE:0F+FF0DCF:27+FF0DD0:0F+FF0DD1:27"
+cheat105_enable = false
+
+cheat106_desc = "[31.零陵 数值全满]ON"
+cheat106_code = "FF0DE8:FF+FF0DE9:FF+FF0DEA:FF+FF0DEB:FF+FF0DEC:2D+FF0DED:00+FF0DEE:C0+FF0DEF:C6+FF0DF8:FF+FF0DF9:FF+FF0DFA:FF+FF0DFB:FF+FF0DFC:0F+FF0DFD:27+FF0DFE:64+FF0E00:0F+FF0E01:27+FF0E02:0F+FF0E03:27+FF0E04:0F+FF0E05:27"
+cheat106_enable = false
+
+cheat107_desc = "[32.寿春 数值全满]ON"
+cheat107_code = "FF0E1C:FF+FF0E1D:FF+FF0E1E:FF+FF0E1F:FF+FF0E20:2D+FF0E21:00+FF0E22:C0+FF0E23:C6+FF0E2C:FF+FF0E2D:FF+FF0E2E:FF+FF0E2F:FF+FF0E30:0F+FF0E31:27+FF0E32:64+FF0E34:0F+FF0E35:27+FF0E36:0F+FF0E37:27+FF0E38:0F+FF0E39:27+FF0E3A:FF+FF0E3C:FF+FF0E3D:FF"
+cheat107_enable = false
+
+cheat108_desc = "[33.建业 数值全满]ON"
+cheat108_code = "FF0E50:FF+FF0E51:FF+FF0E52:FF+FF0E53:FF+FF0E54:2D+FF0E55:00+FF0E56:C0+FF0E57:C6+FF0E60:FF+FF0E61:FF+FF0E62:FF+FF0E63:FF+FF0E64:0F+FF0E65:27+FF0E66:64+FF0E68:0F+FF0E69:27+FF0E6A:0F+FF0E6B:27+FF0E6C:0F+FF0E6D:27+FF0E6E:FF+FF0E70:FF+FF0E71:FF"
+cheat108_enable = false
+
+cheat109_desc = "[34.吴 数值全满]ON"
+cheat109_code = "FF0E84:FF+FF0E85:FF+FF0E86:FF+FF0E87:FF+FF0E88:2D+FF0E89:00+FF0E8A:C0+FF0E8B:C6+FF0E94:FF+FF0E95:FF+FF0E96:FF+FF0E97:FF+FF0E98:0F+FF0E99:27+FF0E9A:64+FF0E9C:0F+FF0E9D:27+FF0E9E:0F+FF0E9F:27+FF0EA0:0F+FF0EA1:27+FF0EA2:FF+FF0EA4:FF+FF0EA5:FF"
+cheat109_enable = false
+
+cheat110_desc = "[35.会稽 数值全满]ON"
+cheat110_code = "FF0EB8:FF+FF0EB9:FF+FF0EBA:FF+FF0EBB:FF+FF0EBC:2D+FF0EBD:00+FF0EBE:C0+FF0EBF:C6+FF0EC8:FF+FF0EC9:FF+FF0ECA:FF+FF0ECB:FF+FF0ECC:0F+FF0ECD:27+FF0ECE:64+FF0ED0:0F+FF0ED1:27+FF0ED2:0F+FF0ED3:27+FF0ED4:0F+FF0ED5:27+FF0ED6:FF+FF0ED8:FF+FF0ED9:FF"
+cheat110_enable = false
+
+cheat111_desc = "[36.庐江 数值全满]ON"
+cheat111_code = "FF0EEC:FF+FF0EED:FF+FF0EEE:FF+FF0EEF:FF+FF0EF0:2D+FF0EF1:00+FF0EF2:C0+FF0EF3:C6+FF0EFC:FF+FF0EFD:FF+FF0EFE:FF+FF0EFF:FF+FF0F00:0F+FF0F01:27+FF0F02:64+FF0F04:0F+FF0F05:27+FF0F06:0F+FF0F07:27+FF0F08:0F+FF0F09:27+FF0F0A:FF+FF0F0C:FF+FF0F0D:FF"
+cheat111_enable = false
+
+cheat112_desc = "[37.柴桑 数值全满]ON"
+cheat112_code = "FF0F20:FF+FF0F21:FF+FF0F22:FF+FF0F23:FF+FF0F24:2D+FF0F25:00+FF0F26:C0+FF0F27:C6+FF0F30:FF+FF0F31:FF+FF0F32:FF+FF0F33:FF+FF0F34:0F+FF0F35:27+FF0F36:64+FF0F38:0F+FF0F39:27+FF0F3A:0F+FF0F3B:27+FF0F3C:0F+FF0F3D:27+FF0F3E:FF+FF0F40:FF+FF0F41:FF"
+cheat112_enable = false
+
+cheat113_desc = "[38.汉中 数值全满]ON"
+cheat113_code = "FF0F54:FF+FF0F55:FF+FF0F56:FF+FF0F57:FF+FF0F58:2D+FF0F59:00+FF0F5A:C0+FF0F5B:C6+FF0F64:FF+FF0F65:FF+FF0F66:FF+FF0F67:FF+FF0F68:0F+FF0F69:27+FF0F6A:64+FF0F6C:0F+FF0F6D:27+FF0F6E:0F+FF0F6F:27+FF0F70:0F+FF0F71:27"
+cheat113_enable = false
+
+cheat114_desc = "[39.下弁 数值全满]ON"
+cheat114_code = "FF0F88:FF+FF0F89:FF+FF0F8A:FF+FF0F8B:FF+FF0F8C:2D+FF0F8D:00+FF0F8E:C0+FF0F8F:C6+FF0F98:FF+FF0F99:FF+FF0F9A:FF+FF0F9B:FF+FF0F9C:0F+FF0F9D:27+FF0F9E:64+FF0FA0:0F+FF0FA1:27+FF0FA2:0F+FF0FA3:27+FF0FA4:0F+FF0FA5:27"
+cheat114_enable = false
+
+cheat115_desc = "[40.梓潼 数值全满]ON"
+cheat115_code = "FF0FBC:FF+FF0FBD:FF+FF0FBE:FF+FF0FBF:FF+FF0FC0:2D+FF0FC1:00+FF0FC2:C0+FF0FC3:C6+FF0FCC:FF+FF0FCD:FF+FF0FCE:FF+FF0FCF:FF+FF0FD0:0F+FF0FD1:27+FF0FD2:64+FF0FD4:0F+FF0FD5:27+FF0FD6:0F+FF0FD7:27+FF0FD8:0F+FF0FD9:27+FF0FDA:FF+FF0FDC:FF+FF0FDD:FF"
+cheat115_enable = false
+
+cheat116_desc = "[41.成都 数值全满]ON"
+cheat116_code = "FF0FF0:FF+FF0FF1:FF+FF0FF2:FF+FF0FF3:FF+FF0FF4:2D+FF0FF5:00+FF0FF6:C0+FF0FF7:C6+FF1000:FF+FF1001:FF+FF1002:FF+FF1003:FF+FF1004:0F+FF1005:27+FF1006:64+FF1008:0F+FF1009:27+FF100A:0F+FF100B:27+FF100C:0F+FF100D:27+FF100E:FF+FF1010:FF+FF1011:FF"
+cheat116_enable = false
+
+cheat117_desc = "[42.永安 数值全满]ON"
+cheat117_code = "FF1024:FF+FF1025:FF+FF1026:FF+FF1027:FF+FF1028:2D+FF1029:00+FF102A:C0+FF102B:C6+FF1034:FF+FF1035:FF+FF1036:FF+FF1037:FF+FF1038:0F+FF1039:27+FF103A:64+FF103C:0F+FF103D:27+FF103E:0F+FF103F:27+FF1040:0F+FF1041:27+FF1042:FF+FF1044:FF+FF1045:FF"
+cheat117_enable = false
+
+cheat118_desc = "[43.江洲 数值全满]ON"
+cheat118_code = "FF1058:FF+FF1059:FF+FF105A:FF+FF105B:FF+FF105C:2D+FF105D:00+FF105E:C0+FF105F:C6+FF1068:FF+FF1069:FF+FF106A:FF+FF106B:FF+FF106C:0F+FF106D:27+FF106E:64+FF1070:0F+FF1071:27+FF1072:0F+FF1073:27+FF1074:0F+FF1075:27+FF1076:FF+FF1078:FF+FF1079:FF"
+cheat118_enable = false
+
+cheat119_desc = "[44.建宁 数值全满]ON"
+cheat119_code = "FF108C:FF+FF108D:FF+FF108E:FF+FF108F:FF+FF1090:2D+FF1091:00+FF1092:C0+FF1093:C6+FF109C:FF+FF109D:FF+FF109E:FF+FF109F:FF+FF10A0:0F+FF10A1:27+FF10A2:64+FF10A4:0F+FF10A5:27+FF10A6:0F+FF10A7:27+FF10A8:0F+FF10A9:27"
+cheat119_enable = false
+
+cheat120_desc = "[45.云南 数值全满]ON"
+cheat120_code = "FF10C0:FF+FF10C1:FF+FF10C2:FF+FF10C3:FF+FF10C4:2D+FF10C5:00+FF10C6:C0+FF10C7:C6+FF1104:FF+FF1105:FF+FF1106:FF+FF1107:FF+FF1108:0F+FF1109:27+FF110A:64+FF10D8:0F+FF10D9:27+FF10DA:0F+FF10DB:27+FF10DC:0F+FF10DD:27"
+cheat120_enable = false
+
+cheat121_desc = "[46.南海 数值全满]ON"
+cheat121_code = "FF10F4:FF+FF10F5:FF+FF10F6:FF+FF10F7:FF+FF10F8:2D+FF10F9:00+FF10FA:C0+FF10FB:C6+FF1138:FF+FF1139:FF+FF113A:FF+FF113B:FF+FF113C:0F+FF113D:27+FF113E:64+FF110C:0F+FF110D:27+FF110E:0F+FF110F:27+FF1110:0F+FF1111:27"
+cheat121_enable = false
+

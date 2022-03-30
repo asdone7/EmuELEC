@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[命] NO"
+cheat0_code = "7E19F405 "
+cheat0_enable = false
+

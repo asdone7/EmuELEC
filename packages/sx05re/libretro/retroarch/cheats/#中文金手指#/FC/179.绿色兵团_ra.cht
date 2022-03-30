@@ -1,0 +1,34 @@
+cheats = 8
+
+cheat0_desc = "[P1 生命数]ON"
+cheat0_code = "0022:09"
+cheat0_enable = false
+
+cheat1_desc = "[P1 武器弹药]ON"
+cheat1_code = "051C:09"
+cheat1_enable = false
+
+cheat2_desc = "[P1 无敌]OFF"
+cheat2_code = "050C:00"
+cheat2_enable = false
+
+cheat3_desc = "[P1 无敌]ON"
+cheat3_code = "050C:1A"
+cheat3_enable = false
+
+cheat4_desc = "[P2 生命数]ON"
+cheat4_code = "0023:09"
+cheat4_enable = false
+
+cheat5_desc = "[P2 武器弹药]ON"
+cheat5_code = "053C:09"
+cheat5_enable = false
+
+cheat6_desc = "[P2 无敌]OFF"
+cheat6_code = "052C:00"
+cheat6_enable = false
+
+cheat7_desc = "[P2 无敌]ON"
+cheat7_code = "052C:1A"
+cheat7_enable = false
+

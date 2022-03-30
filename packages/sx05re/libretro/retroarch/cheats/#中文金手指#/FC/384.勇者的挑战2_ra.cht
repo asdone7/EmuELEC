@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[手枪子弹无限]ON"
+cheat0_code = "00E0:63"
+cheat0_enable = false
+
+cheat1_desc = "[地雷无限]ON"
+cheat1_code = "00E5:63"
+cheat1_enable = false
+
+cheat2_desc = "[罐头无限]ON"
+cheat2_code = "00EA:FF"
+cheat2_enable = false
+
+cheat3_desc = "[LIFE]ON"
+cheat3_code = "0650:FF"
+cheat3_enable = false
+
+cheat4_desc = "[TOKU]ON"
+cheat4_code = "00F7:FF"
+cheat4_enable = false
+
+cheat5_desc = "[无敌]ON"
+cheat5_code = "0740:37"
+cheat5_enable = false
+
+cheat6_desc = "[时间停止]ON"
+cheat6_code = "036D:30"
+cheat6_enable = false
+

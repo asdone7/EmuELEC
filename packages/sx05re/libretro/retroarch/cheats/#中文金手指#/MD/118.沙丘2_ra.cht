@@ -1,0 +1,462 @@
+cheats = 115
+
+cheat0_desc = "[999金钱]ON"
+cheat0_code = "FF4D6A:E7+FF4D6B:03+FF4DB0:E7+FF4DB1:03+FF4D24:E7+FF4D25:03"
+cheat0_enable = false
+
+cheat1_desc = "[电力]ON"
+cheat1_code = "FF4D70:E7+FF4D71:03+FF4D72:01+FF4D73:00+FF4DB6:E7+FF4DB7:03+FF4DB8:01+FF4DB9:00+FF4D2A:E7+FF4D2B:03+FF4D2C:01+FF4D2D:00"
+cheat1_enable = false
+
+cheat2_desc = "[地图开]ON"
+cheat2_code = "FF4D64:04+FF4DAA:04+FF4D1E:04"
+cheat2_enable = false
+
+cheat3_desc = "[基地快速建造]全部关卡"
+cheat3_code = "FF515B:00+FF521F:00+FF4F0F:00+FF583E:01+FF583F:00+FF58A1:01+FF5B4F:00+FF5590:01+FF5591:00"
+cheat3_enable = false
+
+cheat4_desc = "[基地快速建造]第1关"
+cheat4_code = "FF4F0F:00"
+cheat4_enable = false
+
+cheat5_desc = "[基地快速建造]第2关"
+cheat5_code = "FF515B:00"
+cheat5_enable = false
+
+cheat6_desc = "[基地快速建造]第3关"
+cheat6_code = "FF521F:00"
+cheat6_enable = false
+
+cheat7_desc = "[基地快速建造]第4关"
+cheat7_code = "FF4F0F:00"
+cheat7_enable = false
+
+cheat8_desc = "[基地快速建造]第5关"
+cheat8_code = "FF4F0F:00"
+cheat8_enable = false
+
+cheat9_desc = "[基地快速建造]第6关"
+cheat9_code = "FF583E:01+FF583F:00"
+cheat9_enable = false
+
+cheat10_desc = "[基地快速建造]第7关"
+cheat10_code = "FF4F0F:00"
+cheat10_enable = false
+
+cheat11_desc = "[基地快速建造]第8关"
+cheat11_code = "FF5B4F:00"
+cheat11_enable = false
+
+cheat12_desc = "[基地快速建造]第9关"
+cheat12_code = "FF5B4F:00"
+cheat12_enable = false
+
+cheat13_desc = "[兵工厂快速生产]全部关卡（其为第4个建筑物）"
+cheat13_code = "FF5281:01+FF5282:+FF5345:01+FF58A0:01+FF58A1:00+FF5964:01+FF5965:00+FF5A28:01+FF5A29:00+FF5C74:01+FF5C75:00+FF53A6:01+FF53A7:00"
+cheat13_enable = false
+
+cheat14_desc = "[兵工厂快速生产]第2关"
+cheat14_code = "FF5281:01"
+cheat14_enable = false
+
+cheat15_desc = "[兵工厂快速生产]第3关"
+cheat15_code = "FF5345:01"
+cheat15_enable = false
+
+cheat16_desc = "[兵工厂快速生产]第4关"
+cheat16_code = "FF53A6:01+FF53A7:00"
+cheat16_enable = false
+
+cheat17_desc = "[兵工厂快速生产]第5关"
+cheat17_code = "FF58A0:01+FF58A1:00"
+cheat17_enable = false
+
+cheat18_desc = "[兵工厂快速生产]第6关"
+cheat18_code = "FF5964:01+FF5965:00"
+cheat18_enable = false
+
+cheat19_desc = "[兵工厂快速生产]第7关"
+cheat19_code = "FF5A28:01+FF5A29:00"
+cheat19_enable = false
+
+cheat20_desc = "[兵工厂快速生产]第8关"
+cheat20_code = "FF5C74:01+FF5C75:00"
+cheat20_enable = false
+
+cheat21_desc = "[兵工厂快速生产]第9关"
+cheat21_code = "FF5C74:01+FF5C75:00"
+cheat21_enable = false
+
+cheat22_desc = "[大量生产]ATREIDES蓝家族"
+cheat22_code = "FF4D5C:00+FF4D5D:00"
+cheat22_enable = false
+
+cheat23_desc = "[大量生产]ORDOS绿家族"
+cheat23_code = "FF4DA2:00+FF4DA3:00"
+cheat23_enable = false
+
+cheat24_desc = "[大量生产]HARKONNEN红家族"
+cheat24_code = "FF4D16:00+FF4D17:00"
+cheat24_enable = false
+
+cheat25_desc = "[飞机场快速生产]ON（其为第6个建筑物）"
+cheat25_code = "FF5AEC:01+FF5AED:00+FF5D38:01+FF5D39:00"
+cheat25_enable = false
+
+cheat26_desc = "[（BT）高科技研究完毕]蓝家族导弹兵"
+cheat26_code = "FF5D92:00+FF5D9A:00+FFDC4C:01"
+cheat26_enable = false
+
+cheat27_desc = "[（BT）高科技研究完毕]红家族核弹"
+cheat27_code = "FF5DF4:00+FF5DF5:00+FF5DFC:00+FF5DFD:00+FFDC4C:01"
+cheat27_enable = false
+
+cheat28_desc = "[(BT玩法)大部分陆战单位改]LAUCHER坦克/攻112甲100"
+cheat28_code = "FF2BE7:07+FF2A43:07+FF2ACF:07+FF3047:07+FF30D3:07+FF315F:07+FF31EB:07+FF3277:07+FF338F:07+FF3303:07+FF1F53:07+FF206B:07+FF2183:07+FF220F:07+FF229B:07+FF2327:07+FF23B3:07+FF341B:07+FF243F:07+FF24CB:07+FF2557:07+FF25E3:07+FF266F:07+FF26FB:07+FF2787:07+FF2813:07+FF289F:07+FF292B:07+FF29B7:07+FF2B5B:07+FF2FBB:07+FF3533:07+FF35BF:07+FF364B:07+FF37EF:07+FF387B:07+FF3907:07+FF39B3:07+FF3A1F:07+FF3AAB:07+FF3B37:07+FF3BC3:07+FF3C4F:07+FF3F0B:07+FF3E7F:07+FF3DF3:07+FF3D67:07+FF3CDB:07+FF3993:07+FF3763:07+FF36D7:07+FF34A7:07"
+cheat28_enable = false
+
+cheat29_desc = "[(BT玩法)大部分陆战单位改]DEVASTATOR坦克/攻60甲400"
+cheat29_code = "FF2BE7:0B+FF2A43:0B+FF2ACF:0B+FF3047:0B+FF30D3:0B+FF315F:0B+FF31EB:0B+FF3277:0B+FF338F:0B+FF3303:0B+FF1F53:0B+FF206B:0B+FF2183:0B+FF220F:0B+FF229B:0B+FF2327:0B+FF23B3:0B+FF341B:0B+FF243F:0B+FF24CB:0B+FF2557:0B+FF25E3:0B+FF266F:0B+FF26FB:0B+FF2787:0B+FF2813:0B+FF289F:0B+FF292B:0B+FF29B7:0B+FF2B5B:0B+FF2FBB:0B+FF3533:0B+FF35BF:0B+FF364B:0B+FF37EF:0B+FF387B:0B+FF3907:0B+FF39B3:0B+FF3A1F:0B+FF3AAB:0B+FF3B37:0B+FF3BC3:0B+FF3C4F:0B+FF3F0B:0B+FF3E7F:0B+FF3DF3:0B+FF3D67:0B+FF3CDB:0B+FF3993:0B+FF3763:0B+FF36D7:0B+FF34A7:0B"
+cheat29_enable = false
+
+cheat30_desc = "[(BT玩法)大部分陆战单位改]SONIC坦克/攻90甲110"
+cheat30_code = "FF2BE7:0C+FF2A43:0C+FF2ACF:0C+FF3047:0C+FF30D3:0C+FF315F:0C+FF31EB:0C+FF3277:0C+FF338F:0C+FF3303:0C+FF1F53:0C+FF206B:0C+FF2183:0C+FF220F:0C+FF229B:0C+FF2327:0C+FF23B3:0C+FF341B:0C+FF243F:0C+FF24CB:0C+FF2557:0C+FF25E3:0C+FF266F:0C+FF26FB:0C+FF2787:0C+FF2813:0C+FF289F:0C+FF292B:0C+FF29B7:0C+FF2B5B:0C+FF2FBB:0C+FF3533:0C+FF35BF:0C+FF364B:0C+FF37EF:0C+FF387B:0C+FF3907:0C+FF39B3:0C+FF3A1F:0C+FF3AAB:0C+FF3B37:0C+FF3BC3:0C+FF3C4F:0C+FF3F0B:0C+FF3E7F:0C+FF3DF3:0C+FF3D67:0C+FF3CDB:0C+FF3993:0C+FF3763:0C+FF36D7:0C+FF34A7:0C"
+cheat30_enable = false
+
+cheat31_desc = "[(BT玩法)大部分陆战单位改]SIEGE坦克/攻45甲"
+cheat31_code = "FF2BE7:0A+FF2A43:0A+FF2ACF:0A+FF3047:0A+FF30D3:0A+FF315F:0A+FF31EB:0A+FF3277:0A+FF338F:0A+FF3303:0A+FF1F53:0A+FF206B:0A+FF2183:0A+FF220F:0A+FF229B:0A+FF2327:0A+FF23B3:0A+FF341B:0A+FF243F:0A+FF24CB:0A+FF2557:0A+FF25E3:0A+FF266F:0A+FF26FB:0A+FF2787:0A+FF2813:0A+FF289F:0A+FF292B:0A+FF29B7:0A+FF2B5B:0A+FF2FBB:0A+FF3533:0A+FF35BF:0A+FF364B:0A+FF37EF:0A+FF387B:0A+FF3907:0A+FF39B3:0A+FF3A1F:0A+FF3AAB:0A+FF3B37:0A+FF3BC3:0A+FF3C4F:0A+FF3F0B:0A+FF3E7F:0A+FF3DF3:0A+FF3D67:0A+FF3CDB:0A+FF3993:0A+FF3763:0A+FF36D7:0A+FF34A7:0A"
+cheat31_enable = false
+
+cheat32_desc = "[(BT玩法)大部分陆战单位改]火箭兵"
+cheat32_code = "FF2BE7:03+FF2A43:03+FF2ACF:03+FF3047:03+FF30D3:03+FF315F:03+FF31EB:03+FF3277:03+FF338F:03+FF3303:03+FF1F53:03+FF206B:03+FF2183:03+FF220F:03+FF229B:03+FF2327:03+FF23B3:03+FF341B:03+FF243F:03+FF24CB:03+FF2557:03+FF25E3:03+FF266F:03+FF26FB:03+FF2787:03+FF2813:03+FF289F:03+FF292B:03+FF29B7:03+FF2B5B:03+FF2FBB:03+FF3533:03+FF35BF:03+FF364B:03+FF37EF:03+FF387B:03+FF3907:03+FF39B3:03+FF3A1F:03+FF3AAB:03+FF3B37:03+FF3BC3:03+FF3C4F:03+FF3F0B:03+FF3E7F:03+FF3DF3:03+FF3D67:03+FF3CDB:03+FF3993:03+FF3763:03+FF36D7:03+FF34A7:03"
+cheat32_enable = false
+
+cheat33_desc = "[(BT玩法)大部分陆战单位改]歼灭机"
+cheat33_code = "FF2BE7:01+FF2A43:01+FF2ACF:01+FF3047:01+FF30D3:01+FF315F:01+FF31EB:01+FF3277:01+FF338F:01+FF3303:01+FF1F53:01+FF206B:01+FF2183:01+FF220F:01+FF229B:01+FF2327:01+FF23B3:01+FF341B:01+FF243F:01+FF24CB:01+FF2557:01+FF25E3:01+FF266F:01+FF26FB:01+FF2787:01+FF2813:01+FF289F:01+FF292B:01+FF29B7:01+FF2B5B:01+FF2FBB:01+FF3533:01+FF35BF:01+FF364B:01+FF37EF:01+FF387B:01+FF3907:01+FF39B3:01+FF3A1F:01+FF3AAB:01+FF3B37:01+FF3BC3:01+FF3C4F:01+FF3F0B:01+FF3E7F:01+FF3DF3:01+FF3D67:01+FF3CDB:01+FF3993:01+FF3763:01+FF36D7:01+FF34A7:01"
+cheat33_enable = false
+
+cheat34_desc = "[蓝家族初始所有战车耐久]第1关"
+cheat34_code = "FF22AA:64+FF24DA:64"
+cheat34_enable = false
+
+cheat35_desc = "[蓝家族初始所有战车耐久]第2关"
+cheat35_code = "FF23C2:82+FF244E:64+FF25F2:64+FF24DA:64"
+cheat35_enable = false
+
+cheat36_desc = "[蓝家族初始所有战车耐久]第3关"
+cheat36_code = "FF23C2:64+FF244E:82+FF2566:82+FF270A:64"
+cheat36_enable = false
+
+cheat37_desc = "[蓝家族初始所有战车耐久]第4关"
+cheat37_code = "FF23C2:82+FF22AA:64+FF2192:82+FF1F62:82+FF207A:64+FF221E:82"
+cheat37_enable = false
+
+cheat38_desc = "[蓝家族初始所有战车耐久]第5关"
+cheat38_code = "FF1DBE:C8+FF1F62:82+FF2106:82+FF1FEE:C8+FF207A:C8+FF1ED6:82"
+cheat38_enable = false
+
+cheat39_desc = "[蓝家族初始所有战车耐久]第6关"
+cheat39_code = "FF2822:C8+FF28AE:C8+FF2ADE:C8+FF293A:82+FF29C6:82+FF2BF6:82+FF2796:64+FF2B6A:64"
+cheat39_enable = false
+
+cheat40_desc = "[蓝家族初始所有战车耐久]第7关"
+cheat40_code = "FF24DA:C8+FF244E:C8+FF267E:2C+FF267F:01+FF25F2:82+FF23C2:82+FF2566:64+FF2336:2C+FF2337:01"
+cheat40_enable = false
+
+cheat41_desc = "[蓝家族初始所有战车耐久]第8关"
+cheat41_code = "FF316E:6E+FF30E2:6E+FF3056:2C+FF3057:01+FF31FA:64+FF3312:82+FF3286:64+FF339E:2C+FF339F:01"
+cheat41_enable = false
+
+cheat42_desc = "[蓝家族初始所有战车耐久]第9关"
+cheat42_code = "FF2A52:6E+FF29C6:6E+FF2ADE:64+FF293A:64+FF28AE:2C+FF28AF:01+FF2B6A:2C+FF2B6B:01"
+cheat42_enable = false
+
+cheat43_desc = "[蓝家族初始战车改]歼灭机/攻75甲5"
+cheat43_code = "FF229B:01+FF24CB:01"
+cheat43_enable = false
+
+cheat44_desc = "[蓝家族初始战车改]火箭兵"
+cheat44_code = "FF229B:03+FF24CB:03"
+cheat44_enable = false
+
+cheat45_desc = "[蓝家族初始战车改]LAUCHER坦克/攻112甲100"
+cheat45_code = "FF229B:07+FF24CB:07"
+cheat45_enable = false
+
+cheat46_desc = "[蓝家族初始战车改]导弹车"
+cheat46_code = "FF229B:08+FF24CB:08"
+cheat46_enable = false
+
+cheat47_desc = "[蓝家族初始战车改]SIEGE坦克/攻45甲300"
+cheat47_code = "FF229B:0A+FF24CB:0A"
+cheat47_enable = false
+
+cheat48_desc = "[蓝家族初始战车改]DEVASTATOR坦克/攻60甲400"
+cheat48_code = "FF229B:0B+FF24CB:0B"
+cheat48_enable = false
+
+cheat49_desc = "[蓝家族初始战车改]SONIC坦克/攻90甲110"
+cheat49_code = "FF229B:0C+FF24CB:0C"
+cheat49_enable = false
+
+cheat50_desc = "[蓝家族初始战车改]采矿车"
+cheat50_code = "FF229B:10+FF24CB:10"
+cheat50_enable = false
+
+cheat51_desc = "[第2关初始战车改]歼灭机/攻75甲5"
+cheat51_code = "FF23B3:01+FF243F:01+FF25E3:01+FF24CB:01"
+cheat51_enable = false
+
+cheat52_desc = "[第2关初始战车改]火箭兵"
+cheat52_code = "FF23B3:03+FF243F:03+FF25E3:03+FF24CB:03"
+cheat52_enable = false
+
+cheat53_desc = "[第2关初始战车改]LAUCHER坦克/攻112甲100"
+cheat53_code = "FF23B3:07+FF243F:07+FF25E3:07+FF24CB:07"
+cheat53_enable = false
+
+cheat54_desc = "[第2关初始战车改]导弹车"
+cheat54_code = "FF23B3:08+FF243F:08+FF25E3:08+FF24CB:08"
+cheat54_enable = false
+
+cheat55_desc = "[第2关初始战车改]SIEGE坦克/攻45甲300"
+cheat55_code = "FF23B3:0A+FF243F:0A+FF25E3:0A+FF24CB:0A"
+cheat55_enable = false
+
+cheat56_desc = "[第2关初始战车改]DEVASTATOR坦克/攻60甲400"
+cheat56_code = "FF23B3:0B+FF243F:0B+FF25E3:0B+FF24CB:0B"
+cheat56_enable = false
+
+cheat57_desc = "[第2关初始战车改]SONIC坦克/攻90甲110"
+cheat57_code = "FF23B3:0C+FF243F:0C+FF25E3:0C+FF24CB:0C"
+cheat57_enable = false
+
+cheat58_desc = "[第2关初始战车改]采矿车"
+cheat58_code = "FF23B3:10+FF243F:10+FF25E3:10+FF24CB:10"
+cheat58_enable = false
+
+cheat59_desc = "[第3关初始战车改]歼灭机/攻75甲5"
+cheat59_code = "FF23B3:01+FF243F:01+FF2557:01+FF26FB:01"
+cheat59_enable = false
+
+cheat60_desc = "[第3关初始战车改]火箭兵"
+cheat60_code = "FF23B3:03+FF243F:03+FF2557:03+FF26FB:03"
+cheat60_enable = false
+
+cheat61_desc = "[第3关初始战车改]LAUCHER坦克/攻112甲100"
+cheat61_code = "FF23B3:07+FF243F:07+FF2557:07+FF26FB:07"
+cheat61_enable = false
+
+cheat62_desc = "[第3关初始战车改]导弹车"
+cheat62_code = "FF23B3:08+FF243F:08+FF2557:08+FF26FB:08"
+cheat62_enable = false
+
+cheat63_desc = "[第3关初始战车改]SIEGE坦克/攻45甲300"
+cheat63_code = "FF23B3:0A+FF243F:0A+FF2557:0A+FF26FB:0A"
+cheat63_enable = false
+
+cheat64_desc = "[第3关初始战车改]自爆式坦克"
+cheat64_code = "FF23B3:0B+FF243F:0B+FF2557:0B+FF26FB:0B"
+cheat64_enable = false
+
+cheat65_desc = "[第3关初始战车改]SONIC坦克/攻90甲110"
+cheat65_code = "FF23B3:0C+FF243F:0C+FF2557:0C+FF26FB:0C"
+cheat65_enable = false
+
+cheat66_desc = "[第3关初始战车改]采矿车"
+cheat66_code = "FF23B3:10+FF243F:10+FF2557:10+FF26FB:10"
+cheat66_enable = false
+
+cheat67_desc = "[第4关初始战车改]歼灭机/攻75甲5"
+cheat67_code = "FF23B3:01+FF229B:01+FF2183:01+FF1F53:01+FF206B:01+FF220F:01"
+cheat67_enable = false
+
+cheat68_desc = "[第4关初始战车改]火箭兵"
+cheat68_code = "FF23B3:03+FF229B:03+FF2183:03+FF1F53:03+FF206B:03+FF220F:03"
+cheat68_enable = false
+
+cheat69_desc = "[第4关初始战车改]LAUCHER坦克/攻112甲100"
+cheat69_code = "FF23B3:07+FF229B:07+FF2183:07+FF1F53:07+FF206B:07+FF220F:07"
+cheat69_enable = false
+
+cheat70_desc = "[第4关初始战车改]导弹车"
+cheat70_code = "FF23B3:08+FF229B:08+FF2183:08+FF1F53:08+FF206B:08+FF220F:08"
+cheat70_enable = false
+
+cheat71_desc = "[第4关初始战车改]SIEGE坦克/攻45甲300"
+cheat71_code = "FF23B3:0A+FF229B:0A+FF2183:0A+FF1F53:0A+FF206B:0A+FF220F:0A"
+cheat71_enable = false
+
+cheat72_desc = "[第4关初始战车改]DEVASTATOR坦克/攻60甲400"
+cheat72_code = "FF23B3:0B+FF229B:0B+FF2183:0B+FF1F53:0B+FF206B:0B+FF220F:0B"
+cheat72_enable = false
+
+cheat73_desc = "[第4关初始战车改]SONIC坦克/攻90甲110"
+cheat73_code = "FF23B3:0C+FF229B:0C+FF2183:0C+FF1F53:0C+FF206B:0C+FF220F:0C"
+cheat73_enable = false
+
+cheat74_desc = "[第4关初始战车改]采矿车"
+cheat74_code = "FF23B3:10+FF229B:10+FF2183:10+FF1F53:10+FF206B:10+FF220F:10"
+cheat74_enable = false
+
+cheat75_desc = "[第5关初始战车改]歼灭机/攻75甲5"
+cheat75_code = "FF1DAF:01+FF1F53:01+FF20F7:01+FF1FDF:01+FF206B:01+FF1EC7:01"
+cheat75_enable = false
+
+cheat76_desc = "[第5关初始战车改]火箭兵"
+cheat76_code = "FF1DAF:03+FF1F53:03+FF20F7:03+FF1FDF:03+FF206B:03+FF1EC7:03"
+cheat76_enable = false
+
+cheat77_desc = "[第5关初始战车改]LAUCHER坦克/攻112甲100"
+cheat77_code = "FF1DAF:07+FF1F53:07+FF20F7:07+FF1FDF:07+FF206B:07+FF1EC7:07"
+cheat77_enable = false
+
+cheat78_desc = "[第5关初始战车改]导弹车"
+cheat78_code = "FF1DAF:08+FF1F53:08+FF20F7:08+FF1FDF:08+FF206B:08+FF1EC7:08"
+cheat78_enable = false
+
+cheat79_desc = "[第5关初始战车改]SIEGE坦克/攻45甲300"
+cheat79_code = "FF1DAF:0A+FF1F53:0A+FF20F7:0A+FF1FDF:0A+FF206B:0A+FF1EC7:0A"
+cheat79_enable = false
+
+cheat80_desc = "[第5关初始战车改]DEVASTATOR坦克/攻60甲400"
+cheat80_code = "FF1DAF:0B+FF1F53:0B+FF20F7:0B+FF1FDF:0B+FF206B:0B+FF1EC7:0B"
+cheat80_enable = false
+
+cheat81_desc = "[第5关初始战车改]SONIC坦克/攻90甲110"
+cheat81_code = "FF1DAF:0C+FF1F53:0C+FF20F7:0C+FF1FDF:0C+FF206B:0C+FF1EC7:0C"
+cheat81_enable = false
+
+cheat82_desc = "[第5关初始战车改]采矿车"
+cheat82_code = "FF1DAF:10+FF1F53:10+FF20F7:10+FF1FDF:10+FF206B:10+FF1EC7:10"
+cheat82_enable = false
+
+cheat83_desc = "[第6关初始战车改]歼灭机/攻75甲5"
+cheat83_code = "FF2813:01+FF289F:01+FF2ACF:01+FF292B:01+FF29B7:01+FF2BE7:01+FF2787:01+FF2B5B:01"
+cheat83_enable = false
+
+cheat84_desc = "[第6关初始战车改]火箭兵"
+cheat84_code = "FF2813:03+FF289F:03+FF2ACF:03+FF292B:03+FF29B7:03+FF2BE7:03+FF2787:03+FF2B5B:03"
+cheat84_enable = false
+
+cheat85_desc = "[第6关初始战车改]LAUCHER坦克/攻112甲100"
+cheat85_code = "FF2813:07+FF289F:07+FF2ACF:07+FF292B:07+FF29B7:07+FF2BE7:07+FF2787:07+FF2B5B:07"
+cheat85_enable = false
+
+cheat86_desc = "[第6关初始战车改]导弹车"
+cheat86_code = "FF2813:08+FF289F:08+FF2ACF:08+FF292B:08+FF29B7:08+FF2BE7:08+FF2787:08+FF2B5B:08"
+cheat86_enable = false
+
+cheat87_desc = "[第6关初始战车改]SIEGE坦克/攻45甲300"
+cheat87_code = "FF2813:0A+FF289F:0A+FF2ACF:0A+FF292B:0A+FF29B7:0A+FF2BE7:0A+FF2787:0A+FF2B5B:0A"
+cheat87_enable = false
+
+cheat88_desc = "[第6关初始战车改]DEVASTATOR坦克/攻60甲400"
+cheat88_code = "FF2813:0B+FF289F:0B+FF2ACF:0B+FF292B:0B+FF29B7:0B+FF2BE7:0B+FF2787:0B+FF2B5B:0B"
+cheat88_enable = false
+
+cheat89_desc = "[第6关初始战车改]SONIC坦克/攻90甲110"
+cheat89_code = "FF2813:0C+FF289F:0C+FF2ACF:0C+FF292B:0C+FF29B7:0C+FF2BE7:0C+FF2787:0C+FF2B5B:0C"
+cheat89_enable = false
+
+cheat90_desc = "[第6关初始战车改]采矿车"
+cheat90_code = "FF2813:10+FF289F:10+FF2ACF:10+FF292B:10+FF29B7:10+FF2BE7:10+FF2787:10+FF2B5B:10"
+cheat90_enable = false
+
+cheat91_desc = "[第7关初始战车改]歼灭机/攻75甲5"
+cheat91_code = "FF2327:01+FF24CB:01+FF243F:01+FF266F:01+FF25E3:01+FF2557:01+FF23B3:01"
+cheat91_enable = false
+
+cheat92_desc = "[第7关初始战车改]火箭兵"
+cheat92_code = "FF2327:03+FF24CB:03+FF243F:03+FF266F:03+FF25E3:03+FF2557:03+FF23B3:03"
+cheat92_enable = false
+
+cheat93_desc = "[第7关初始战车改]LAUCHER坦克/攻112甲100"
+cheat93_code = "FF2327:07+FF24CB:07+FF243F:07+FF266F:07+FF25E3:07+FF2557:07+FF23B3:07"
+cheat93_enable = false
+
+cheat94_desc = "[第7关初始战车改]导弹车"
+cheat94_code = "FF2327:08+FF24CB:08+FF243F:08+FF266F:08+FF25E3:08+FF2557:08+FF23B3:08"
+cheat94_enable = false
+
+cheat95_desc = "[第7关初始战车改]SIEGE坦克/攻45甲300"
+cheat95_code = "FF2327:0A+FF24CB:0A+FF243F:0A+FF266F:0A+FF25E3:0A+FF2557:0A+FF23B3:0A"
+cheat95_enable = false
+
+cheat96_desc = "[第7关初始战车改]DEVASTATOR坦克/攻60甲400"
+cheat96_code = "FF2327:0B+FF24CB:0B+FF243F:0B+FF266F:0B+FF25E3:0B+FF2557:0B+FF23B3:0B"
+cheat96_enable = false
+
+cheat97_desc = "[第7关初始战车改]SONIC坦克/攻90甲110"
+cheat97_code = "FF2327:0C+FF24CB:0C+FF243F:0C+FF266F:0C+FF25E3:0C+FF2557:0C+FF23B3:0C"
+cheat97_enable = false
+
+cheat98_desc = "[第7关初始战车改]采矿车"
+cheat98_code = "FF2327:10+FF24CB:10+FF243F:10+FF266F:10+FF25E3:10+FF2557:10+FF23B3:10"
+cheat98_enable = false
+
+cheat99_desc = "[第8关初始战车改]歼灭机/攻75甲5"
+cheat99_code = "FF315F:01+FF30D3:01+FF3047:01+FF31EB:01+FF3303:01+FF3277:01+FF338F:01"
+cheat99_enable = false
+
+cheat100_desc = "[第8关初始战车改]火箭兵"
+cheat100_code = "FF315F:03+FF30D3:03+FF3047:03+FF31EB:03+FF3303:03+FF3277:03+FF338F:03"
+cheat100_enable = false
+
+cheat101_desc = "[第8关初始战车改]LAUCHER坦克/攻112甲100"
+cheat101_code = "FF315F:07+FF30D3:07+FF3047:07+FF31EB:07+FF3303:07+FF3277:07+FF338F:07"
+cheat101_enable = false
+
+cheat102_desc = "[第8关初始战车改]导弹车"
+cheat102_code = "FF315F:08+FF30D3:08+FF3047:08+FF31EB:08+FF3303:08+FF3277:08+FF338F:08"
+cheat102_enable = false
+
+cheat103_desc = "[第8关初始战车改]SIEGE坦克/攻45甲300"
+cheat103_code = "FF315F:0A+FF30D3:0A+FF3047:0A+FF31EB:0A+FF3303:0A+FF3277:0A+FF338F:01A"
+cheat103_enable = false
+
+cheat104_desc = "[第8关初始战车改]DEVASTATOR坦克/攻60甲400"
+cheat104_code = "FF315F:0B+FF30D3:0B+FF3047:0B+FF31EB:0B+FF3303:0B+FF3277:0B+FF338F:0B"
+cheat104_enable = false
+
+cheat105_desc = "[第8关初始战车改]SONIC坦克/攻90甲110"
+cheat105_code = "FF315F:0C+FF30D3:0C+FF3047:0C+FF31EB:0C+FF3303:0C+FF3277:0C+FF338F:0C"
+cheat105_enable = false
+
+cheat106_desc = "[第8关初始战车改]采矿车"
+cheat106_code = "FF315F:10+FF30D3:10+FF3047:10+FF31EB:10+FF3303:10+FF3277:10+FF338F:10"
+cheat106_enable = false
+
+cheat107_desc = "[第9关初始战车改]歼灭机/攻75甲5"
+cheat107_code = "FF2A43:01+FF29B7:01+FF2ACF:01+FF292B:01+FF289F:01+FF2B5B:01"
+cheat107_enable = false
+
+cheat108_desc = "[第9关初始战车改]火箭兵"
+cheat108_code = "FF2A43:03+FF29B7:03+FF2ACF:03+FF292B:03+FF289F:03+FF2B5B:03"
+cheat108_enable = false
+
+cheat109_desc = "[第9关初始战车改]LAUCHER坦克/攻112甲100"
+cheat109_code = "FF2A43:07+FF29B7:07+FF2ACF:07+FF292B:07+FF289F:07+FF2B5B:07"
+cheat109_enable = false
+
+cheat110_desc = "[第9关初始战车改]导弹车"
+cheat110_code = "FF2A43:08+FF29B7:08+FF2ACF:08+FF292B:08+FF289F:08+FF2B5B:08"
+cheat110_enable = false
+
+cheat111_desc = "[第9关初始战车改]SIEGE坦克/攻45甲300"
+cheat111_code = "FF2A43:0A+FF29B7:0A+FF2ACF:0A+FF292B:0A+FF289F:0A+FF2B5B:0A"
+cheat111_enable = false
+
+cheat112_desc = "[第9关初始战车改]DEVASTATOR坦克/攻60甲400"
+cheat112_code = "FF2A43:0B+FF29B7:0B+FF2ACF:0B+FF292B:0B+FF289F:0B+FF2B5B:0B"
+cheat112_enable = false
+
+cheat113_desc = "[第9关初始战车改]SONIC坦克/攻90甲110"
+cheat113_code = "FF2A43:0C+FF29B7:0C+FF2ACF:0C+FF292B:0C+FF289F:0C+FF2B5B:0C"
+cheat113_enable = false
+
+cheat114_desc = "[第9关初始战车改]采矿车"
+cheat114_code = "FF2A43:10+FF29B7:10+FF2ACF:10+FF292B:10+FF289F:10+FF2B5B:10"
+cheat114_enable = false
+

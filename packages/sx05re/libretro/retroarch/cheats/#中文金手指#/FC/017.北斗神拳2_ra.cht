@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[主角无限体力]ON"
+cheat0_code = "0073:3C"
+cheat0_enable = false
+
+cheat1_desc = "[主角生命无限]ON"
+cheat1_code = "000B:09"
+cheat1_enable = false
+
+cheat2_desc = "[主角领悟七星拳]ON"
+cheat2_code = "006C:07"
+cheat2_enable = false
+
+cheat3_desc = "[主角时间无限]ON"
+cheat3_code = "0064:09+0065:09"
+cheat3_enable = false
+
+cheat4_desc = "[七星拳下的方块]ON"
+cheat4_code = "0063:07"
+cheat4_enable = false
+
+cheat5_desc = "[关头一击死]ON"
+cheat5_code = "006A:00"
+cheat5_enable = false
+

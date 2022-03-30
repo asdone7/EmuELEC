@@ -1,0 +1,133 @@
+cheats = 32
+
+cheat0_desc = "#无限能量"
+cheat0_code = "80141924 3023+80172206 3030"
+cheat0_enable = false
+
+cheat1_desc = "#无限的生命"
+cheat1_code = "80172204 0909"
+cheat1_enable = false
+
+cheat2_desc = "#无敌"
+cheat2_code = "80141928 0100"
+cheat2_enable = false
+
+cheat3_desc = "#无限武器"
+cheat3_code = "50000502 0000+80141970 3030"
+cheat3_enable = false
+
+cheat4_desc = "#Hit选择“自杀”与无限能量代码一起使用，适用于当您掉入坑中并被卡住时。"
+cheat4_code = "D0166C08 0100+301418CC 0003"
+cheat4_enable = false
+
+cheat5_desc = "#要填充的所有子罐和L2"
+cheat5_code = "8017221A F000+D0166C08 0001+8017221C 2020+D0166C08 0001+8017221E 0020"
+cheat5_enable = false
+
+cheat6_desc = "#Infinite Lightning Web，Nova Strike和Rakuhouha"
+cheat6_code = "80141970 3030"
+cheat6_enable = false
+
+cheat7_desc = "#无限腿喷气机"
+cheat7_code = "8014199C 9D00"
+cheat7_enable = false
+
+cheat8_desc = "使用此代码，按“ X”关闭喷气机"
+
+cheat8_desc = "#Death Touch（每当您使用方形（开火）按钮时，将对手的能量设置为零）"
+cheat8_code = "D0166C08 0080+8013BF2C 0000"
+cheat8_enable = false
+
+cheat9_desc = "#Death Touch 2（每次使用方形（开火）按钮时，将岩浆龙骑兵的能量设置为零）"
+cheat9_code = "D0166C08 0080+8013C19C 0000"
+cheat9_enable = false
+
+cheat10_desc = "#Death Touch 3（每当您使用方形（开火）按钮时，将“虹膜”和“双重”的能量设置为零）"
+cheat10_code = "D0166C08 0080+8013BFC8 0000"
+cheat10_enable = false
+
+cheat11_desc = "#服装更改代码\\特殊服装"
+cheat11_code = "801721F6 0100"
+cheat11_enable = false
+
+cheat12_desc = "#服装更改代码\\旧服装"
+cheat12_code = "801721F6 0000"
+cheat12_enable = false
+
+cheat13_desc = "#Floater代码"
+cheat13_code = "D0166C08 0040+801418EE 0000"
+cheat13_enable = false
+
+cheat14_desc = "#Air x代码"
+cheat14_code = "801418EC 6E00"
+cheat14_enable = false
+
+cheat15_desc = "#天空大师"
+cheat15_code = "8014194E 0000"
+cheat15_enable = false
+
+cheat16_desc = "#致命法令X的武器永久设置为四次蓄能"
+cheat16_code = "3014196E 0404"
+cheat16_enable = false
+
+cheat17_desc = "#超级跳跃超级（空中x变化）"
+cheat17_code = "D0166C08 0040+801418EC 9000+D0166C08 2040+801418EC 9000"
+cheat17_enable = false
+
+cheat18_desc = "#无限霜塔和无限灵魂"
+cheat18_code = "80141972 3030"
+cheat18_enable = false
+
+cheat19_desc = "#Infinite Rising Fire＆Infinite Ground Hunter"
+cheat19_code = "80141974 3030"
+cheat19_enable = false
+
+cheat20_desc = "#无限瞄准激光和无限双旋风"
+cheat20_code = "80141976 3030"
+cheat20_enable = false
+
+cheat21_desc = "#无限双刀"
+cheat21_code = "80141978 3030"
+cheat21_enable = false
+
+cheat22_desc = "#拥有所有武器（无法推进太空港）"
+cheat22_code = "30141981 00FF"
+cheat22_enable = false
+
+cheat23_desc = "#具有所有增强部件"
+cheat23_code = "3014196F 00FF"
+cheat23_enable = false
+
+cheat24_desc = "#X-武器总是带电的"
+cheat24_code = "30141963 0002"
+cheat24_enable = false
+
+cheat25_desc = "#X-Buster始终处于充电状态（其他点火按钮）"
+cheat25_code = "30141964 0002"
+cheat25_enable = false
+
+cheat26_desc = "#Arm Enhancement Type 1，Plasma Blast（Other Fire Button）"
+cheat26_code = "30141980 0002+30141964 0002"
+cheat26_enable = false
+
+cheat27_desc = "#Arm Enhancemen Type 2，Quadra Blast"
+cheat27_code = "30141980 0001+3014196E 0004"
+cheat27_enable = false
+
+cheat28_desc = "#Infinite Leg Jets按X按钮关闭喷气机"
+cheat28_code = "8014199C 9D00"
+cheat28_enable = false
+
+cheat29_desc = "#总是有阴影"
+cheat29_code = "80141954 0001"
+cheat29_enable = false
+
+cheat30_desc = "#Infinite Dash（No Dash Jump）"
+cheat30_code = "8014194C 0000"
+cheat30_enable = false
+
+cheat31_desc = "#Infinite Dash（Easy Dash Jump）"
+cheat31_code = "8014194C 0001"
+cheat31_enable = false
+
+

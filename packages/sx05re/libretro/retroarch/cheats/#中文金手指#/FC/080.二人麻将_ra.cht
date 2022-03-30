@@ -1,0 +1,1906 @@
+cheats = 476
+
+cheat0_desc = "[第一张牌]一万"
+cheat0_code = "00E1:01"
+cheat0_enable = false
+
+cheat1_desc = "[第一张牌]二万"
+cheat1_code = "00E1:02"
+cheat1_enable = false
+
+cheat2_desc = "[第一张牌]三万"
+cheat2_code = "00E1:03"
+cheat2_enable = false
+
+cheat3_desc = "[第一张牌]四万"
+cheat3_code = "00E1:04"
+cheat3_enable = false
+
+cheat4_desc = "[第一张牌]五万"
+cheat4_code = "00E1:05"
+cheat4_enable = false
+
+cheat5_desc = "[第一张牌]六万"
+cheat5_code = "00E1:06"
+cheat5_enable = false
+
+cheat6_desc = "[第一张牌]七万"
+cheat6_code = "00E1:07"
+cheat6_enable = false
+
+cheat7_desc = "[第一张牌]八万"
+cheat7_code = "00E1:08"
+cheat7_enable = false
+
+cheat8_desc = "[第一张牌]九万"
+cheat8_code = "00E1:09"
+cheat8_enable = false
+
+cheat9_desc = "[第一张牌]一筒"
+cheat9_code = "00E1:11"
+cheat9_enable = false
+
+cheat10_desc = "[第一张牌]二筒"
+cheat10_code = "00E1:12"
+cheat10_enable = false
+
+cheat11_desc = "[第一张牌]三筒"
+cheat11_code = "00E1:13"
+cheat11_enable = false
+
+cheat12_desc = "[第一张牌]四筒"
+cheat12_code = "00E1:14"
+cheat12_enable = false
+
+cheat13_desc = "[第一张牌]五筒"
+cheat13_code = "00E1:15"
+cheat13_enable = false
+
+cheat14_desc = "[第一张牌]六筒"
+cheat14_code = "00E1:16"
+cheat14_enable = false
+
+cheat15_desc = "[第一张牌]七筒"
+cheat15_code = "00E1:17"
+cheat15_enable = false
+
+cheat16_desc = "[第一张牌]八筒"
+cheat16_code = "00E1:18"
+cheat16_enable = false
+
+cheat17_desc = "[第一张牌]九筒"
+cheat17_code = "00E1:19"
+cheat17_enable = false
+
+cheat18_desc = "[第一张牌]一索"
+cheat18_code = "00E1:21"
+cheat18_enable = false
+
+cheat19_desc = "[第一张牌]二索"
+cheat19_code = "00E1:22"
+cheat19_enable = false
+
+cheat20_desc = "[第一张牌]三索"
+cheat20_code = "00E1:23"
+cheat20_enable = false
+
+cheat21_desc = "[第一张牌]四索"
+cheat21_code = "00E1:24"
+cheat21_enable = false
+
+cheat22_desc = "[第一张牌]五索"
+cheat22_code = "00E1:25"
+cheat22_enable = false
+
+cheat23_desc = "[第一张牌]六索"
+cheat23_code = "00E1:26"
+cheat23_enable = false
+
+cheat24_desc = "[第一张牌]七索"
+cheat24_code = "00E1:27"
+cheat24_enable = false
+
+cheat25_desc = "[第一张牌]八索"
+cheat25_code = "00E1:28"
+cheat25_enable = false
+
+cheat26_desc = "[第一张牌]九索"
+cheat26_code = "00E1:29"
+cheat26_enable = false
+
+cheat27_desc = "[第一张牌]东风"
+cheat27_code = "00E1:31"
+cheat27_enable = false
+
+cheat28_desc = "[第一张牌]南风"
+cheat28_code = "00E1:32"
+cheat28_enable = false
+
+cheat29_desc = "[第一张牌]西风"
+cheat29_code = "00E1:33"
+cheat29_enable = false
+
+cheat30_desc = "[第一张牌]北风"
+cheat30_code = "00E1:34"
+cheat30_enable = false
+
+cheat31_desc = "[第一张牌]白板"
+cheat31_code = "00E1:35"
+cheat31_enable = false
+
+cheat32_desc = "[第一张牌]发财"
+cheat32_code = "00E1:36"
+cheat32_enable = false
+
+cheat33_desc = "[第一张牌]红中"
+cheat33_code = "00E1:37"
+cheat33_enable = false
+
+cheat34_desc = "[第二张牌]一万"
+cheat34_code = "00E2:01"
+cheat34_enable = false
+
+cheat35_desc = "[第二张牌]二万"
+cheat35_code = "00E2:02"
+cheat35_enable = false
+
+cheat36_desc = "[第二张牌]三万"
+cheat36_code = "00E2:03"
+cheat36_enable = false
+
+cheat37_desc = "[第二张牌]四万"
+cheat37_code = "00E2:04"
+cheat37_enable = false
+
+cheat38_desc = "[第二张牌]五万"
+cheat38_code = "00E2:05"
+cheat38_enable = false
+
+cheat39_desc = "[第二张牌]六万"
+cheat39_code = "00E2:06"
+cheat39_enable = false
+
+cheat40_desc = "[第二张牌]七万"
+cheat40_code = "00E2:07"
+cheat40_enable = false
+
+cheat41_desc = "[第二张牌]八万"
+cheat41_code = "00E2:08"
+cheat41_enable = false
+
+cheat42_desc = "[第二张牌]九万"
+cheat42_code = "00E2:09"
+cheat42_enable = false
+
+cheat43_desc = "[第二张牌]一筒"
+cheat43_code = "00E2:11"
+cheat43_enable = false
+
+cheat44_desc = "[第二张牌]二筒"
+cheat44_code = "00E2:12"
+cheat44_enable = false
+
+cheat45_desc = "[第二张牌]三筒"
+cheat45_code = "00E2:13"
+cheat45_enable = false
+
+cheat46_desc = "[第二张牌]四筒"
+cheat46_code = "00E2:14"
+cheat46_enable = false
+
+cheat47_desc = "[第二张牌]五筒"
+cheat47_code = "00E2:15"
+cheat47_enable = false
+
+cheat48_desc = "[第二张牌]六筒"
+cheat48_code = "00E2:16"
+cheat48_enable = false
+
+cheat49_desc = "[第二张牌]七筒"
+cheat49_code = "00E2:17"
+cheat49_enable = false
+
+cheat50_desc = "[第二张牌]八筒"
+cheat50_code = "00E2:18"
+cheat50_enable = false
+
+cheat51_desc = "[第二张牌]九筒"
+cheat51_code = "00E2:19"
+cheat51_enable = false
+
+cheat52_desc = "[第二张牌]一索"
+cheat52_code = "00E2:21"
+cheat52_enable = false
+
+cheat53_desc = "[第二张牌]二索"
+cheat53_code = "00E2:22"
+cheat53_enable = false
+
+cheat54_desc = "[第二张牌]三索"
+cheat54_code = "00E2:23"
+cheat54_enable = false
+
+cheat55_desc = "[第二张牌]四索"
+cheat55_code = "00E2:24"
+cheat55_enable = false
+
+cheat56_desc = "[第二张牌]五索"
+cheat56_code = "00E2:25"
+cheat56_enable = false
+
+cheat57_desc = "[第二张牌]六索"
+cheat57_code = "00E2:26"
+cheat57_enable = false
+
+cheat58_desc = "[第二张牌]七索"
+cheat58_code = "00E2:27"
+cheat58_enable = false
+
+cheat59_desc = "[第二张牌]八索"
+cheat59_code = "00E2:28"
+cheat59_enable = false
+
+cheat60_desc = "[第二张牌]九索"
+cheat60_code = "00E2:29"
+cheat60_enable = false
+
+cheat61_desc = "[第二张牌]东风"
+cheat61_code = "00E2:31"
+cheat61_enable = false
+
+cheat62_desc = "[第二张牌]南风"
+cheat62_code = "00E2:32"
+cheat62_enable = false
+
+cheat63_desc = "[第二张牌]西风"
+cheat63_code = "00E2:33"
+cheat63_enable = false
+
+cheat64_desc = "[第二张牌]北风"
+cheat64_code = "00E2:34"
+cheat64_enable = false
+
+cheat65_desc = "[第二张牌]白板"
+cheat65_code = "00E2:35"
+cheat65_enable = false
+
+cheat66_desc = "[第二张牌]发财"
+cheat66_code = "00E2:36"
+cheat66_enable = false
+
+cheat67_desc = "[第二张牌]红中"
+cheat67_code = "00E2:37"
+cheat67_enable = false
+
+cheat68_desc = "[第三张牌]一万"
+cheat68_code = "00E3:01"
+cheat68_enable = false
+
+cheat69_desc = "[第三张牌]二万"
+cheat69_code = "00E3:02"
+cheat69_enable = false
+
+cheat70_desc = "[第三张牌]三万"
+cheat70_code = "00E3:03"
+cheat70_enable = false
+
+cheat71_desc = "[第三张牌]四万"
+cheat71_code = "00E3:04"
+cheat71_enable = false
+
+cheat72_desc = "[第三张牌]五万"
+cheat72_code = "00E3:05"
+cheat72_enable = false
+
+cheat73_desc = "[第三张牌]六万"
+cheat73_code = "00E3:06"
+cheat73_enable = false
+
+cheat74_desc = "[第三张牌]七万"
+cheat74_code = "00E3:07"
+cheat74_enable = false
+
+cheat75_desc = "[第三张牌]八万"
+cheat75_code = "00E3:08"
+cheat75_enable = false
+
+cheat76_desc = "[第三张牌]九万"
+cheat76_code = "00E3:09"
+cheat76_enable = false
+
+cheat77_desc = "[第三张牌]一筒"
+cheat77_code = "00E3:11"
+cheat77_enable = false
+
+cheat78_desc = "[第三张牌]二筒"
+cheat78_code = "00E3:12"
+cheat78_enable = false
+
+cheat79_desc = "[第三张牌]三筒"
+cheat79_code = "00E3:13"
+cheat79_enable = false
+
+cheat80_desc = "[第三张牌]四筒"
+cheat80_code = "00E3:14"
+cheat80_enable = false
+
+cheat81_desc = "[第三张牌]五筒"
+cheat81_code = "00E3:15"
+cheat81_enable = false
+
+cheat82_desc = "[第三张牌]六筒"
+cheat82_code = "00E3:16"
+cheat82_enable = false
+
+cheat83_desc = "[第三张牌]七筒"
+cheat83_code = "00E3:17"
+cheat83_enable = false
+
+cheat84_desc = "[第三张牌]八筒"
+cheat84_code = "00E3:18"
+cheat84_enable = false
+
+cheat85_desc = "[第三张牌]九筒"
+cheat85_code = "00E3:19"
+cheat85_enable = false
+
+cheat86_desc = "[第三张牌]一索"
+cheat86_code = "00E3:21"
+cheat86_enable = false
+
+cheat87_desc = "[第三张牌]二索"
+cheat87_code = "00E3:22"
+cheat87_enable = false
+
+cheat88_desc = "[第三张牌]三索"
+cheat88_code = "00E3:23"
+cheat88_enable = false
+
+cheat89_desc = "[第三张牌]四索"
+cheat89_code = "00E3:24"
+cheat89_enable = false
+
+cheat90_desc = "[第三张牌]五索"
+cheat90_code = "00E3:25"
+cheat90_enable = false
+
+cheat91_desc = "[第三张牌]六索"
+cheat91_code = "00E3:26"
+cheat91_enable = false
+
+cheat92_desc = "[第三张牌]七索"
+cheat92_code = "00E3:27"
+cheat92_enable = false
+
+cheat93_desc = "[第三张牌]八索"
+cheat93_code = "00E3:28"
+cheat93_enable = false
+
+cheat94_desc = "[第三张牌]九索"
+cheat94_code = "00E3:29"
+cheat94_enable = false
+
+cheat95_desc = "[第三张牌]东风"
+cheat95_code = "00E3:31"
+cheat95_enable = false
+
+cheat96_desc = "[第三张牌]南风"
+cheat96_code = "00E3:32"
+cheat96_enable = false
+
+cheat97_desc = "[第三张牌]西风"
+cheat97_code = "00E3:33"
+cheat97_enable = false
+
+cheat98_desc = "[第三张牌]北风"
+cheat98_code = "00E3:34"
+cheat98_enable = false
+
+cheat99_desc = "[第三张牌]白板"
+cheat99_code = "00E3:35"
+cheat99_enable = false
+
+cheat100_desc = "[第三张牌]发财"
+cheat100_code = "00E3:36"
+cheat100_enable = false
+
+cheat101_desc = "[第三张牌]红中"
+cheat101_code = "00E3:37"
+cheat101_enable = false
+
+cheat102_desc = "[第四张牌]一万"
+cheat102_code = "00E4:01"
+cheat102_enable = false
+
+cheat103_desc = "[第四张牌]二万"
+cheat103_code = "00E4:02"
+cheat103_enable = false
+
+cheat104_desc = "[第四张牌]三万"
+cheat104_code = "00E4:03"
+cheat104_enable = false
+
+cheat105_desc = "[第四张牌]四万"
+cheat105_code = "00E4:04"
+cheat105_enable = false
+
+cheat106_desc = "[第四张牌]五万"
+cheat106_code = "00E4:05"
+cheat106_enable = false
+
+cheat107_desc = "[第四张牌]六万"
+cheat107_code = "00E4:06"
+cheat107_enable = false
+
+cheat108_desc = "[第四张牌]七万"
+cheat108_code = "00E4:07"
+cheat108_enable = false
+
+cheat109_desc = "[第四张牌]八万"
+cheat109_code = "00E4:08"
+cheat109_enable = false
+
+cheat110_desc = "[第四张牌]九万"
+cheat110_code = "00E4:09"
+cheat110_enable = false
+
+cheat111_desc = "[第四张牌]一筒"
+cheat111_code = "00E4:11"
+cheat111_enable = false
+
+cheat112_desc = "[第四张牌]二筒"
+cheat112_code = "00E4:12"
+cheat112_enable = false
+
+cheat113_desc = "[第四张牌]三筒"
+cheat113_code = "00E4:13"
+cheat113_enable = false
+
+cheat114_desc = "[第四张牌]四筒"
+cheat114_code = "00E4:14"
+cheat114_enable = false
+
+cheat115_desc = "[第四张牌]五筒"
+cheat115_code = "00E4:15"
+cheat115_enable = false
+
+cheat116_desc = "[第四张牌]六筒"
+cheat116_code = "00E4:16"
+cheat116_enable = false
+
+cheat117_desc = "[第四张牌]七筒"
+cheat117_code = "00E4:17"
+cheat117_enable = false
+
+cheat118_desc = "[第四张牌]八筒"
+cheat118_code = "00E4:18"
+cheat118_enable = false
+
+cheat119_desc = "[第四张牌]九筒"
+cheat119_code = "00E4:19"
+cheat119_enable = false
+
+cheat120_desc = "[第四张牌]一索"
+cheat120_code = "00E4:21"
+cheat120_enable = false
+
+cheat121_desc = "[第四张牌]二索"
+cheat121_code = "00E4:22"
+cheat121_enable = false
+
+cheat122_desc = "[第四张牌]三索"
+cheat122_code = "00E4:23"
+cheat122_enable = false
+
+cheat123_desc = "[第四张牌]四索"
+cheat123_code = "00E4:24"
+cheat123_enable = false
+
+cheat124_desc = "[第四张牌]五索"
+cheat124_code = "00E4:25"
+cheat124_enable = false
+
+cheat125_desc = "[第四张牌]六索"
+cheat125_code = "00E4:26"
+cheat125_enable = false
+
+cheat126_desc = "[第四张牌]七索"
+cheat126_code = "00E4:27"
+cheat126_enable = false
+
+cheat127_desc = "[第四张牌]八索"
+cheat127_code = "00E4:28"
+cheat127_enable = false
+
+cheat128_desc = "[第四张牌]九索"
+cheat128_code = "00E4:29"
+cheat128_enable = false
+
+cheat129_desc = "[第四张牌]东风"
+cheat129_code = "00E4:31"
+cheat129_enable = false
+
+cheat130_desc = "[第四张牌]南风"
+cheat130_code = "00E4:32"
+cheat130_enable = false
+
+cheat131_desc = "[第四张牌]西风"
+cheat131_code = "00E4:33"
+cheat131_enable = false
+
+cheat132_desc = "[第四张牌]北风"
+cheat132_code = "00E4:34"
+cheat132_enable = false
+
+cheat133_desc = "[第四张牌]白板"
+cheat133_code = "00E4:35"
+cheat133_enable = false
+
+cheat134_desc = "[第四张牌]发财"
+cheat134_code = "00E4:36"
+cheat134_enable = false
+
+cheat135_desc = "[第四张牌]红中"
+cheat135_code = "00E4:37"
+cheat135_enable = false
+
+cheat136_desc = "[第五张牌]一万"
+cheat136_code = "00E5:01"
+cheat136_enable = false
+
+cheat137_desc = "[第五张牌]二万"
+cheat137_code = "00E5:02"
+cheat137_enable = false
+
+cheat138_desc = "[第五张牌]三万"
+cheat138_code = "00E5:03"
+cheat138_enable = false
+
+cheat139_desc = "[第五张牌]四万"
+cheat139_code = "00E5:04"
+cheat139_enable = false
+
+cheat140_desc = "[第五张牌]五万"
+cheat140_code = "00E5:05"
+cheat140_enable = false
+
+cheat141_desc = "[第五张牌]六万"
+cheat141_code = "00E5:06"
+cheat141_enable = false
+
+cheat142_desc = "[第五张牌]七万"
+cheat142_code = "00E5:07"
+cheat142_enable = false
+
+cheat143_desc = "[第五张牌]八万"
+cheat143_code = "00E5:08"
+cheat143_enable = false
+
+cheat144_desc = "[第五张牌]九万"
+cheat144_code = "00E5:09"
+cheat144_enable = false
+
+cheat145_desc = "[第五张牌]一筒"
+cheat145_code = "00E5:11"
+cheat145_enable = false
+
+cheat146_desc = "[第五张牌]二筒"
+cheat146_code = "00E5:12"
+cheat146_enable = false
+
+cheat147_desc = "[第五张牌]三筒"
+cheat147_code = "00E5:13"
+cheat147_enable = false
+
+cheat148_desc = "[第五张牌]四筒"
+cheat148_code = "00E5:14"
+cheat148_enable = false
+
+cheat149_desc = "[第五张牌]五筒"
+cheat149_code = "00E5:15"
+cheat149_enable = false
+
+cheat150_desc = "[第五张牌]六筒"
+cheat150_code = "00E5:16"
+cheat150_enable = false
+
+cheat151_desc = "[第五张牌]七筒"
+cheat151_code = "00E5:17"
+cheat151_enable = false
+
+cheat152_desc = "[第五张牌]八筒"
+cheat152_code = "00E5:18"
+cheat152_enable = false
+
+cheat153_desc = "[第五张牌]九筒"
+cheat153_code = "00E5:19"
+cheat153_enable = false
+
+cheat154_desc = "[第五张牌]一索"
+cheat154_code = "00E5:21"
+cheat154_enable = false
+
+cheat155_desc = "[第五张牌]二索"
+cheat155_code = "00E5:22"
+cheat155_enable = false
+
+cheat156_desc = "[第五张牌]三索"
+cheat156_code = "00E5:23"
+cheat156_enable = false
+
+cheat157_desc = "[第五张牌]四索"
+cheat157_code = "00E5:24"
+cheat157_enable = false
+
+cheat158_desc = "[第五张牌]五索"
+cheat158_code = "00E5:25"
+cheat158_enable = false
+
+cheat159_desc = "[第五张牌]六索"
+cheat159_code = "00E5:26"
+cheat159_enable = false
+
+cheat160_desc = "[第五张牌]七索"
+cheat160_code = "00E5:27"
+cheat160_enable = false
+
+cheat161_desc = "[第五张牌]八索"
+cheat161_code = "00E5:28"
+cheat161_enable = false
+
+cheat162_desc = "[第五张牌]九索"
+cheat162_code = "00E5:29"
+cheat162_enable = false
+
+cheat163_desc = "[第五张牌]东风"
+cheat163_code = "00E5:31"
+cheat163_enable = false
+
+cheat164_desc = "[第五张牌]南风"
+cheat164_code = "00E5:32"
+cheat164_enable = false
+
+cheat165_desc = "[第五张牌]西风"
+cheat165_code = "00E5:33"
+cheat165_enable = false
+
+cheat166_desc = "[第五张牌]北风"
+cheat166_code = "00E5:34"
+cheat166_enable = false
+
+cheat167_desc = "[第五张牌]白板"
+cheat167_code = "00E5:35"
+cheat167_enable = false
+
+cheat168_desc = "[第五张牌]发财"
+cheat168_code = "00E5:36"
+cheat168_enable = false
+
+cheat169_desc = "[第五张牌]红中"
+cheat169_code = "00E5:37"
+cheat169_enable = false
+
+cheat170_desc = "[第六张牌]一万"
+cheat170_code = "00E6:01"
+cheat170_enable = false
+
+cheat171_desc = "[第六张牌]二万"
+cheat171_code = "00E6:02"
+cheat171_enable = false
+
+cheat172_desc = "[第六张牌]三万"
+cheat172_code = "00E6:03"
+cheat172_enable = false
+
+cheat173_desc = "[第六张牌]四万"
+cheat173_code = "00E6:04"
+cheat173_enable = false
+
+cheat174_desc = "[第六张牌]五万"
+cheat174_code = "00E6:05"
+cheat174_enable = false
+
+cheat175_desc = "[第六张牌]六万"
+cheat175_code = "00E6:06"
+cheat175_enable = false
+
+cheat176_desc = "[第六张牌]七万"
+cheat176_code = "00E6:07"
+cheat176_enable = false
+
+cheat177_desc = "[第六张牌]八万"
+cheat177_code = "00E6:08"
+cheat177_enable = false
+
+cheat178_desc = "[第六张牌]九万"
+cheat178_code = "00E6:09"
+cheat178_enable = false
+
+cheat179_desc = "[第六张牌]一筒"
+cheat179_code = "00E6:11"
+cheat179_enable = false
+
+cheat180_desc = "[第六张牌]二筒"
+cheat180_code = "00E6:12"
+cheat180_enable = false
+
+cheat181_desc = "[第六张牌]三筒"
+cheat181_code = "00E6:13"
+cheat181_enable = false
+
+cheat182_desc = "[第六张牌]四筒"
+cheat182_code = "00E6:14"
+cheat182_enable = false
+
+cheat183_desc = "[第六张牌]五筒"
+cheat183_code = "00E6:15"
+cheat183_enable = false
+
+cheat184_desc = "[第六张牌]六筒"
+cheat184_code = "00E6:16"
+cheat184_enable = false
+
+cheat185_desc = "[第六张牌]七筒"
+cheat185_code = "00E6:17"
+cheat185_enable = false
+
+cheat186_desc = "[第六张牌]八筒"
+cheat186_code = "00E6:18"
+cheat186_enable = false
+
+cheat187_desc = "[第六张牌]九筒"
+cheat187_code = "00E6:19"
+cheat187_enable = false
+
+cheat188_desc = "[第六张牌]一索"
+cheat188_code = "00E6:21"
+cheat188_enable = false
+
+cheat189_desc = "[第六张牌]二索"
+cheat189_code = "00E6:22"
+cheat189_enable = false
+
+cheat190_desc = "[第六张牌]三索"
+cheat190_code = "00E6:23"
+cheat190_enable = false
+
+cheat191_desc = "[第六张牌]四索"
+cheat191_code = "00E6:24"
+cheat191_enable = false
+
+cheat192_desc = "[第六张牌]五索"
+cheat192_code = "00E6:25"
+cheat192_enable = false
+
+cheat193_desc = "[第六张牌]六索"
+cheat193_code = "00E6:26"
+cheat193_enable = false
+
+cheat194_desc = "[第六张牌]七索"
+cheat194_code = "00E6:27"
+cheat194_enable = false
+
+cheat195_desc = "[第六张牌]八索"
+cheat195_code = "00E6:28"
+cheat195_enable = false
+
+cheat196_desc = "[第六张牌]九索"
+cheat196_code = "00E6:29"
+cheat196_enable = false
+
+cheat197_desc = "[第六张牌]东风"
+cheat197_code = "00E6:31"
+cheat197_enable = false
+
+cheat198_desc = "[第六张牌]南风"
+cheat198_code = "00E6:32"
+cheat198_enable = false
+
+cheat199_desc = "[第六张牌]西风"
+cheat199_code = "00E6:33"
+cheat199_enable = false
+
+cheat200_desc = "[第六张牌]北风"
+cheat200_code = "00E6:34"
+cheat200_enable = false
+
+cheat201_desc = "[第六张牌]白板"
+cheat201_code = "00E6:35"
+cheat201_enable = false
+
+cheat202_desc = "[第六张牌]发财"
+cheat202_code = "00E6:36"
+cheat202_enable = false
+
+cheat203_desc = "[第六张牌]红中"
+cheat203_code = "00E6:37"
+cheat203_enable = false
+
+cheat204_desc = "[第七张牌]一万"
+cheat204_code = "00E7:01"
+cheat204_enable = false
+
+cheat205_desc = "[第七张牌]二万"
+cheat205_code = "00E7:02"
+cheat205_enable = false
+
+cheat206_desc = "[第七张牌]三万"
+cheat206_code = "00E7:03"
+cheat206_enable = false
+
+cheat207_desc = "[第七张牌]四万"
+cheat207_code = "00E7:04"
+cheat207_enable = false
+
+cheat208_desc = "[第七张牌]五万"
+cheat208_code = "00E7:05"
+cheat208_enable = false
+
+cheat209_desc = "[第七张牌]六万"
+cheat209_code = "00E7:06"
+cheat209_enable = false
+
+cheat210_desc = "[第七张牌]七万"
+cheat210_code = "00E7:07"
+cheat210_enable = false
+
+cheat211_desc = "[第七张牌]八万"
+cheat211_code = "00E7:08"
+cheat211_enable = false
+
+cheat212_desc = "[第七张牌]九万"
+cheat212_code = "00E7:09"
+cheat212_enable = false
+
+cheat213_desc = "[第七张牌]一筒"
+cheat213_code = "00E7:11"
+cheat213_enable = false
+
+cheat214_desc = "[第七张牌]二筒"
+cheat214_code = "00E7:12"
+cheat214_enable = false
+
+cheat215_desc = "[第七张牌]三筒"
+cheat215_code = "00E7:13"
+cheat215_enable = false
+
+cheat216_desc = "[第七张牌]四筒"
+cheat216_code = "00E7:14"
+cheat216_enable = false
+
+cheat217_desc = "[第七张牌]五筒"
+cheat217_code = "00E7:15"
+cheat217_enable = false
+
+cheat218_desc = "[第七张牌]六筒"
+cheat218_code = "00E7:16"
+cheat218_enable = false
+
+cheat219_desc = "[第七张牌]七筒"
+cheat219_code = "00E7:17"
+cheat219_enable = false
+
+cheat220_desc = "[第七张牌]八筒"
+cheat220_code = "00E7:18"
+cheat220_enable = false
+
+cheat221_desc = "[第七张牌]九筒"
+cheat221_code = "00E7:19"
+cheat221_enable = false
+
+cheat222_desc = "[第七张牌]一索"
+cheat222_code = "00E7:21"
+cheat222_enable = false
+
+cheat223_desc = "[第七张牌]二索"
+cheat223_code = "00E7:22"
+cheat223_enable = false
+
+cheat224_desc = "[第七张牌]三索"
+cheat224_code = "00E7:23"
+cheat224_enable = false
+
+cheat225_desc = "[第七张牌]四索"
+cheat225_code = "00E7:24"
+cheat225_enable = false
+
+cheat226_desc = "[第七张牌]五索"
+cheat226_code = "00E7:25"
+cheat226_enable = false
+
+cheat227_desc = "[第七张牌]六索"
+cheat227_code = "00E7:26"
+cheat227_enable = false
+
+cheat228_desc = "[第七张牌]七索"
+cheat228_code = "00E7:27"
+cheat228_enable = false
+
+cheat229_desc = "[第七张牌]八索"
+cheat229_code = "00E7:28"
+cheat229_enable = false
+
+cheat230_desc = "[第七张牌]九索"
+cheat230_code = "00E7:29"
+cheat230_enable = false
+
+cheat231_desc = "[第七张牌]东风"
+cheat231_code = "00E7:31"
+cheat231_enable = false
+
+cheat232_desc = "[第七张牌]南风"
+cheat232_code = "00E7:32"
+cheat232_enable = false
+
+cheat233_desc = "[第七张牌]西风"
+cheat233_code = "00E7:33"
+cheat233_enable = false
+
+cheat234_desc = "[第七张牌]北风"
+cheat234_code = "00E7:34"
+cheat234_enable = false
+
+cheat235_desc = "[第七张牌]白板"
+cheat235_code = "00E7:35"
+cheat235_enable = false
+
+cheat236_desc = "[第七张牌]发财"
+cheat236_code = "00E7:36"
+cheat236_enable = false
+
+cheat237_desc = "[第七张牌]红中"
+cheat237_code = "00E7:37"
+cheat237_enable = false
+
+cheat238_desc = "[第八张牌]一万"
+cheat238_code = "00E8:01"
+cheat238_enable = false
+
+cheat239_desc = "[第八张牌]二万"
+cheat239_code = "00E8:02"
+cheat239_enable = false
+
+cheat240_desc = "[第八张牌]三万"
+cheat240_code = "00E8:03"
+cheat240_enable = false
+
+cheat241_desc = "[第八张牌]四万"
+cheat241_code = "00E8:04"
+cheat241_enable = false
+
+cheat242_desc = "[第八张牌]五万"
+cheat242_code = "00E8:05"
+cheat242_enable = false
+
+cheat243_desc = "[第八张牌]六万"
+cheat243_code = "00E8:06"
+cheat243_enable = false
+
+cheat244_desc = "[第八张牌]七万"
+cheat244_code = "00E8:07"
+cheat244_enable = false
+
+cheat245_desc = "[第八张牌]八万"
+cheat245_code = "00E8:08"
+cheat245_enable = false
+
+cheat246_desc = "[第八张牌]九万"
+cheat246_code = "00E8:09"
+cheat246_enable = false
+
+cheat247_desc = "[第八张牌]一筒"
+cheat247_code = "00E8:11"
+cheat247_enable = false
+
+cheat248_desc = "[第八张牌]二筒"
+cheat248_code = "00E8:12"
+cheat248_enable = false
+
+cheat249_desc = "[第八张牌]三筒"
+cheat249_code = "00E8:13"
+cheat249_enable = false
+
+cheat250_desc = "[第八张牌]四筒"
+cheat250_code = "00E8:14"
+cheat250_enable = false
+
+cheat251_desc = "[第八张牌]五筒"
+cheat251_code = "00E8:15"
+cheat251_enable = false
+
+cheat252_desc = "[第八张牌]六筒"
+cheat252_code = "00E8:16"
+cheat252_enable = false
+
+cheat253_desc = "[第八张牌]七筒"
+cheat253_code = "00E8:17"
+cheat253_enable = false
+
+cheat254_desc = "[第八张牌]八筒"
+cheat254_code = "00E8:18"
+cheat254_enable = false
+
+cheat255_desc = "[第八张牌]九筒"
+cheat255_code = "00E8:19"
+cheat255_enable = false
+
+cheat256_desc = "[第八张牌]一索"
+cheat256_code = "00E8:21"
+cheat256_enable = false
+
+cheat257_desc = "[第八张牌]二索"
+cheat257_code = "00E8:22"
+cheat257_enable = false
+
+cheat258_desc = "[第八张牌]三索"
+cheat258_code = "00E8:23"
+cheat258_enable = false
+
+cheat259_desc = "[第八张牌]四索"
+cheat259_code = "00E8:24"
+cheat259_enable = false
+
+cheat260_desc = "[第八张牌]五索"
+cheat260_code = "00E8:25"
+cheat260_enable = false
+
+cheat261_desc = "[第八张牌]六索"
+cheat261_code = "00E8:26"
+cheat261_enable = false
+
+cheat262_desc = "[第八张牌]七索"
+cheat262_code = "00E8:27"
+cheat262_enable = false
+
+cheat263_desc = "[第八张牌]八索"
+cheat263_code = "00E8:28"
+cheat263_enable = false
+
+cheat264_desc = "[第八张牌]九索"
+cheat264_code = "00E8:29"
+cheat264_enable = false
+
+cheat265_desc = "[第八张牌]东风"
+cheat265_code = "00E8:31"
+cheat265_enable = false
+
+cheat266_desc = "[第八张牌]南风"
+cheat266_code = "00E8:32"
+cheat266_enable = false
+
+cheat267_desc = "[第八张牌]西风"
+cheat267_code = "00E8:33"
+cheat267_enable = false
+
+cheat268_desc = "[第八张牌]北风"
+cheat268_code = "00E8:34"
+cheat268_enable = false
+
+cheat269_desc = "[第八张牌]白板"
+cheat269_code = "00E8:35"
+cheat269_enable = false
+
+cheat270_desc = "[第八张牌]发财"
+cheat270_code = "00E8:36"
+cheat270_enable = false
+
+cheat271_desc = "[第八张牌]红中"
+cheat271_code = "00E8:37"
+cheat271_enable = false
+
+cheat272_desc = "[第九张牌]一万"
+cheat272_code = "00E9:01"
+cheat272_enable = false
+
+cheat273_desc = "[第九张牌]二万"
+cheat273_code = "00E9:02"
+cheat273_enable = false
+
+cheat274_desc = "[第九张牌]三万"
+cheat274_code = "00E9:03"
+cheat274_enable = false
+
+cheat275_desc = "[第九张牌]四万"
+cheat275_code = "00E9:04"
+cheat275_enable = false
+
+cheat276_desc = "[第九张牌]五万"
+cheat276_code = "00E9:05"
+cheat276_enable = false
+
+cheat277_desc = "[第九张牌]六万"
+cheat277_code = "00E9:06"
+cheat277_enable = false
+
+cheat278_desc = "[第九张牌]七万"
+cheat278_code = "00E9:07"
+cheat278_enable = false
+
+cheat279_desc = "[第九张牌]八万"
+cheat279_code = "00E9:08"
+cheat279_enable = false
+
+cheat280_desc = "[第九张牌]九万"
+cheat280_code = "00E9:09"
+cheat280_enable = false
+
+cheat281_desc = "[第九张牌]一筒"
+cheat281_code = "00E9:11"
+cheat281_enable = false
+
+cheat282_desc = "[第九张牌]二筒"
+cheat282_code = "00E9:12"
+cheat282_enable = false
+
+cheat283_desc = "[第九张牌]三筒"
+cheat283_code = "00E9:13"
+cheat283_enable = false
+
+cheat284_desc = "[第九张牌]四筒"
+cheat284_code = "00E9:14"
+cheat284_enable = false
+
+cheat285_desc = "[第九张牌]五筒"
+cheat285_code = "00E9:15"
+cheat285_enable = false
+
+cheat286_desc = "[第九张牌]六筒"
+cheat286_code = "00E9:16"
+cheat286_enable = false
+
+cheat287_desc = "[第九张牌]七筒"
+cheat287_code = "00E9:17"
+cheat287_enable = false
+
+cheat288_desc = "[第九张牌]八筒"
+cheat288_code = "00E9:18"
+cheat288_enable = false
+
+cheat289_desc = "[第九张牌]九筒"
+cheat289_code = "00E9:19"
+cheat289_enable = false
+
+cheat290_desc = "[第九张牌]一索"
+cheat290_code = "00E9:21"
+cheat290_enable = false
+
+cheat291_desc = "[第九张牌]二索"
+cheat291_code = "00E9:22"
+cheat291_enable = false
+
+cheat292_desc = "[第九张牌]三索"
+cheat292_code = "00E9:23"
+cheat292_enable = false
+
+cheat293_desc = "[第九张牌]四索"
+cheat293_code = "00E9:24"
+cheat293_enable = false
+
+cheat294_desc = "[第九张牌]五索"
+cheat294_code = "00E9:25"
+cheat294_enable = false
+
+cheat295_desc = "[第九张牌]六索"
+cheat295_code = "00E9:26"
+cheat295_enable = false
+
+cheat296_desc = "[第九张牌]七索"
+cheat296_code = "00E9:27"
+cheat296_enable = false
+
+cheat297_desc = "[第九张牌]八索"
+cheat297_code = "00E9:28"
+cheat297_enable = false
+
+cheat298_desc = "[第九张牌]九索"
+cheat298_code = "00E9:29"
+cheat298_enable = false
+
+cheat299_desc = "[第九张牌]东风"
+cheat299_code = "00E9:31"
+cheat299_enable = false
+
+cheat300_desc = "[第九张牌]南风"
+cheat300_code = "00E9:32"
+cheat300_enable = false
+
+cheat301_desc = "[第九张牌]西风"
+cheat301_code = "00E9:33"
+cheat301_enable = false
+
+cheat302_desc = "[第九张牌]北风"
+cheat302_code = "00E9:34"
+cheat302_enable = false
+
+cheat303_desc = "[第九张牌]白板"
+cheat303_code = "00E9:35"
+cheat303_enable = false
+
+cheat304_desc = "[第九张牌]发财"
+cheat304_code = "00E9:36"
+cheat304_enable = false
+
+cheat305_desc = "[第九张牌]红中"
+cheat305_code = "00E9:37"
+cheat305_enable = false
+
+cheat306_desc = "[第十张牌]一万"
+cheat306_code = "00EA:01"
+cheat306_enable = false
+
+cheat307_desc = "[第十张牌]二万"
+cheat307_code = "00EA:02"
+cheat307_enable = false
+
+cheat308_desc = "[第十张牌]三万"
+cheat308_code = "00EA:03"
+cheat308_enable = false
+
+cheat309_desc = "[第十张牌]四万"
+cheat309_code = "00EA:04"
+cheat309_enable = false
+
+cheat310_desc = "[第十张牌]五万"
+cheat310_code = "00EA:05"
+cheat310_enable = false
+
+cheat311_desc = "[第十张牌]六万"
+cheat311_code = "00EA:06"
+cheat311_enable = false
+
+cheat312_desc = "[第十张牌]七万"
+cheat312_code = "00EA:07"
+cheat312_enable = false
+
+cheat313_desc = "[第十张牌]八万"
+cheat313_code = "00EA:08"
+cheat313_enable = false
+
+cheat314_desc = "[第十张牌]九万"
+cheat314_code = "00EA:09"
+cheat314_enable = false
+
+cheat315_desc = "[第十张牌]一筒"
+cheat315_code = "00EA:11"
+cheat315_enable = false
+
+cheat316_desc = "[第十张牌]二筒"
+cheat316_code = "00EA:12"
+cheat316_enable = false
+
+cheat317_desc = "[第十张牌]三筒"
+cheat317_code = "00EA:13"
+cheat317_enable = false
+
+cheat318_desc = "[第十张牌]四筒"
+cheat318_code = "00EA:14"
+cheat318_enable = false
+
+cheat319_desc = "[第十张牌]五筒"
+cheat319_code = "00EA:15"
+cheat319_enable = false
+
+cheat320_desc = "[第十张牌]六筒"
+cheat320_code = "00EA:16"
+cheat320_enable = false
+
+cheat321_desc = "[第十张牌]七筒"
+cheat321_code = "00EA:17"
+cheat321_enable = false
+
+cheat322_desc = "[第十张牌]八筒"
+cheat322_code = "00EA:18"
+cheat322_enable = false
+
+cheat323_desc = "[第十张牌]九筒"
+cheat323_code = "00EA:19"
+cheat323_enable = false
+
+cheat324_desc = "[第十张牌]一索"
+cheat324_code = "00EA:21"
+cheat324_enable = false
+
+cheat325_desc = "[第十张牌]二索"
+cheat325_code = "00EA:22"
+cheat325_enable = false
+
+cheat326_desc = "[第十张牌]三索"
+cheat326_code = "00EA:23"
+cheat326_enable = false
+
+cheat327_desc = "[第十张牌]四索"
+cheat327_code = "00EA:24"
+cheat327_enable = false
+
+cheat328_desc = "[第十张牌]五索"
+cheat328_code = "00EA:25"
+cheat328_enable = false
+
+cheat329_desc = "[第十张牌]六索"
+cheat329_code = "00EA:26"
+cheat329_enable = false
+
+cheat330_desc = "[第十张牌]七索"
+cheat330_code = "00EA:27"
+cheat330_enable = false
+
+cheat331_desc = "[第十张牌]八索"
+cheat331_code = "00EA:28"
+cheat331_enable = false
+
+cheat332_desc = "[第十张牌]九索"
+cheat332_code = "00EA:29"
+cheat332_enable = false
+
+cheat333_desc = "[第十张牌]东风"
+cheat333_code = "00EA:31"
+cheat333_enable = false
+
+cheat334_desc = "[第十张牌]南风"
+cheat334_code = "00EA:32"
+cheat334_enable = false
+
+cheat335_desc = "[第十张牌]西风"
+cheat335_code = "00EA:33"
+cheat335_enable = false
+
+cheat336_desc = "[第十张牌]北风"
+cheat336_code = "00EA:34"
+cheat336_enable = false
+
+cheat337_desc = "[第十张牌]白板"
+cheat337_code = "00EA:35"
+cheat337_enable = false
+
+cheat338_desc = "[第十张牌]发财"
+cheat338_code = "00EA:36"
+cheat338_enable = false
+
+cheat339_desc = "[第十张牌]红中"
+cheat339_code = "00EA:37"
+cheat339_enable = false
+
+cheat340_desc = "[第十一张牌]一万"
+cheat340_code = "00EB:01"
+cheat340_enable = false
+
+cheat341_desc = "[第十一张牌]二万"
+cheat341_code = "00EB:02"
+cheat341_enable = false
+
+cheat342_desc = "[第十一张牌]三万"
+cheat342_code = "00EB:03"
+cheat342_enable = false
+
+cheat343_desc = "[第十一张牌]四万"
+cheat343_code = "00EB:04"
+cheat343_enable = false
+
+cheat344_desc = "[第十一张牌]五万"
+cheat344_code = "00EB:05"
+cheat344_enable = false
+
+cheat345_desc = "[第十一张牌]六万"
+cheat345_code = "00EB:06"
+cheat345_enable = false
+
+cheat346_desc = "[第十一张牌]七万"
+cheat346_code = "00EB:07"
+cheat346_enable = false
+
+cheat347_desc = "[第十一张牌]八万"
+cheat347_code = "00EB:08"
+cheat347_enable = false
+
+cheat348_desc = "[第十一张牌]九万"
+cheat348_code = "00EB:09"
+cheat348_enable = false
+
+cheat349_desc = "[第十一张牌]一筒"
+cheat349_code = "00EB:11"
+cheat349_enable = false
+
+cheat350_desc = "[第十一张牌]二筒"
+cheat350_code = "00EB:12"
+cheat350_enable = false
+
+cheat351_desc = "[第十一张牌]三筒"
+cheat351_code = "00EB:13"
+cheat351_enable = false
+
+cheat352_desc = "[第十一张牌]四筒"
+cheat352_code = "00EB:14"
+cheat352_enable = false
+
+cheat353_desc = "[第十一张牌]五筒"
+cheat353_code = "00EB:15"
+cheat353_enable = false
+
+cheat354_desc = "[第十一张牌]六筒"
+cheat354_code = "00EB:16"
+cheat354_enable = false
+
+cheat355_desc = "[第十一张牌]七筒"
+cheat355_code = "00EB:17"
+cheat355_enable = false
+
+cheat356_desc = "[第十一张牌]八筒"
+cheat356_code = "00EB:18"
+cheat356_enable = false
+
+cheat357_desc = "[第十一张牌]九筒"
+cheat357_code = "00EB:19"
+cheat357_enable = false
+
+cheat358_desc = "[第十一张牌]一索"
+cheat358_code = "00EB:21"
+cheat358_enable = false
+
+cheat359_desc = "[第十一张牌]二索"
+cheat359_code = "00EB:22"
+cheat359_enable = false
+
+cheat360_desc = "[第十一张牌]三索"
+cheat360_code = "00EB:23"
+cheat360_enable = false
+
+cheat361_desc = "[第十一张牌]四索"
+cheat361_code = "00EB:24"
+cheat361_enable = false
+
+cheat362_desc = "[第十一张牌]五索"
+cheat362_code = "00EB:25"
+cheat362_enable = false
+
+cheat363_desc = "[第十一张牌]六索"
+cheat363_code = "00EB:26"
+cheat363_enable = false
+
+cheat364_desc = "[第十一张牌]七索"
+cheat364_code = "00EB:27"
+cheat364_enable = false
+
+cheat365_desc = "[第十一张牌]八索"
+cheat365_code = "00EB:28"
+cheat365_enable = false
+
+cheat366_desc = "[第十一张牌]九索"
+cheat366_code = "00EB:29"
+cheat366_enable = false
+
+cheat367_desc = "[第十一张牌]东风"
+cheat367_code = "00EB:31"
+cheat367_enable = false
+
+cheat368_desc = "[第十一张牌]南风"
+cheat368_code = "00EB:32"
+cheat368_enable = false
+
+cheat369_desc = "[第十一张牌]西风"
+cheat369_code = "00EB:33"
+cheat369_enable = false
+
+cheat370_desc = "[第十一张牌]北风"
+cheat370_code = "00EB:34"
+cheat370_enable = false
+
+cheat371_desc = "[第十一张牌]白板"
+cheat371_code = "00EB:35"
+cheat371_enable = false
+
+cheat372_desc = "[第十一张牌]发财"
+cheat372_code = "00EB:36"
+cheat372_enable = false
+
+cheat373_desc = "[第十一张牌]红中"
+cheat373_code = "00EB:37"
+cheat373_enable = false
+
+cheat374_desc = "[第十二张牌]一万"
+cheat374_code = "00EC:01"
+cheat374_enable = false
+
+cheat375_desc = "[第十二张牌]二万"
+cheat375_code = "00EC:02"
+cheat375_enable = false
+
+cheat376_desc = "[第十二张牌]三万"
+cheat376_code = "00EC:03"
+cheat376_enable = false
+
+cheat377_desc = "[第十二张牌]四万"
+cheat377_code = "00EC:04"
+cheat377_enable = false
+
+cheat378_desc = "[第十二张牌]五万"
+cheat378_code = "00EC:05"
+cheat378_enable = false
+
+cheat379_desc = "[第十二张牌]六万"
+cheat379_code = "00EC:06"
+cheat379_enable = false
+
+cheat380_desc = "[第十二张牌]七万"
+cheat380_code = "00EC:07"
+cheat380_enable = false
+
+cheat381_desc = "[第十二张牌]八万"
+cheat381_code = "00EC:08"
+cheat381_enable = false
+
+cheat382_desc = "[第十二张牌]九万"
+cheat382_code = "00EC:09"
+cheat382_enable = false
+
+cheat383_desc = "[第十二张牌]一筒"
+cheat383_code = "00EC:11"
+cheat383_enable = false
+
+cheat384_desc = "[第十二张牌]二筒"
+cheat384_code = "00EC:12"
+cheat384_enable = false
+
+cheat385_desc = "[第十二张牌]三筒"
+cheat385_code = "00EC:13"
+cheat385_enable = false
+
+cheat386_desc = "[第十二张牌]四筒"
+cheat386_code = "00EC:14"
+cheat386_enable = false
+
+cheat387_desc = "[第十二张牌]五筒"
+cheat387_code = "00EC:15"
+cheat387_enable = false
+
+cheat388_desc = "[第十二张牌]六筒"
+cheat388_code = "00EC:16"
+cheat388_enable = false
+
+cheat389_desc = "[第十二张牌]七筒"
+cheat389_code = "00EC:17"
+cheat389_enable = false
+
+cheat390_desc = "[第十二张牌]八筒"
+cheat390_code = "00EC:18"
+cheat390_enable = false
+
+cheat391_desc = "[第十二张牌]九筒"
+cheat391_code = "00EC:19"
+cheat391_enable = false
+
+cheat392_desc = "[第十二张牌]一索"
+cheat392_code = "00EC:21"
+cheat392_enable = false
+
+cheat393_desc = "[第十二张牌]二索"
+cheat393_code = "00EC:22"
+cheat393_enable = false
+
+cheat394_desc = "[第十二张牌]三索"
+cheat394_code = "00EC:23"
+cheat394_enable = false
+
+cheat395_desc = "[第十二张牌]四索"
+cheat395_code = "00EC:24"
+cheat395_enable = false
+
+cheat396_desc = "[第十二张牌]五索"
+cheat396_code = "00EC:25"
+cheat396_enable = false
+
+cheat397_desc = "[第十二张牌]六索"
+cheat397_code = "00EC:26"
+cheat397_enable = false
+
+cheat398_desc = "[第十二张牌]七索"
+cheat398_code = "00EC:27"
+cheat398_enable = false
+
+cheat399_desc = "[第十二张牌]八索"
+cheat399_code = "00EC:28"
+cheat399_enable = false
+
+cheat400_desc = "[第十二张牌]九索"
+cheat400_code = "00EC:29"
+cheat400_enable = false
+
+cheat401_desc = "[第十二张牌]东风"
+cheat401_code = "00EC:31"
+cheat401_enable = false
+
+cheat402_desc = "[第十二张牌]南风"
+cheat402_code = "00EC:32"
+cheat402_enable = false
+
+cheat403_desc = "[第十二张牌]西风"
+cheat403_code = "00EC:33"
+cheat403_enable = false
+
+cheat404_desc = "[第十二张牌]北风"
+cheat404_code = "00EC:34"
+cheat404_enable = false
+
+cheat405_desc = "[第十二张牌]白板"
+cheat405_code = "00EC:35"
+cheat405_enable = false
+
+cheat406_desc = "[第十二张牌]发财"
+cheat406_code = "00EC:36"
+cheat406_enable = false
+
+cheat407_desc = "[第十二张牌]红中"
+cheat407_code = "00EC:37"
+cheat407_enable = false
+
+cheat408_desc = "[第十三张牌]一万"
+cheat408_code = "00ED:01"
+cheat408_enable = false
+
+cheat409_desc = "[第十三张牌]二万"
+cheat409_code = "00ED:02"
+cheat409_enable = false
+
+cheat410_desc = "[第十三张牌]三万"
+cheat410_code = "00ED:03"
+cheat410_enable = false
+
+cheat411_desc = "[第十三张牌]四万"
+cheat411_code = "00ED:04"
+cheat411_enable = false
+
+cheat412_desc = "[第十三张牌]五万"
+cheat412_code = "00ED:05"
+cheat412_enable = false
+
+cheat413_desc = "[第十三张牌]六万"
+cheat413_code = "00ED:06"
+cheat413_enable = false
+
+cheat414_desc = "[第十三张牌]七万"
+cheat414_code = "00ED:07"
+cheat414_enable = false
+
+cheat415_desc = "[第十三张牌]八万"
+cheat415_code = "00ED:08"
+cheat415_enable = false
+
+cheat416_desc = "[第十三张牌]九万"
+cheat416_code = "00ED:09"
+cheat416_enable = false
+
+cheat417_desc = "[第十三张牌]一筒"
+cheat417_code = "00ED:11"
+cheat417_enable = false
+
+cheat418_desc = "[第十三张牌]二筒"
+cheat418_code = "00ED:12"
+cheat418_enable = false
+
+cheat419_desc = "[第十三张牌]三筒"
+cheat419_code = "00ED:13"
+cheat419_enable = false
+
+cheat420_desc = "[第十三张牌]四筒"
+cheat420_code = "00ED:14"
+cheat420_enable = false
+
+cheat421_desc = "[第十三张牌]五筒"
+cheat421_code = "00ED:15"
+cheat421_enable = false
+
+cheat422_desc = "[第十三张牌]六筒"
+cheat422_code = "00ED:16"
+cheat422_enable = false
+
+cheat423_desc = "[第十三张牌]七筒"
+cheat423_code = "00ED:17"
+cheat423_enable = false
+
+cheat424_desc = "[第十三张牌]八筒"
+cheat424_code = "00ED:18"
+cheat424_enable = false
+
+cheat425_desc = "[第十三张牌]九筒"
+cheat425_code = "00ED:19"
+cheat425_enable = false
+
+cheat426_desc = "[第十三张牌]一索"
+cheat426_code = "00ED:21"
+cheat426_enable = false
+
+cheat427_desc = "[第十三张牌]二索"
+cheat427_code = "00ED:22"
+cheat427_enable = false
+
+cheat428_desc = "[第十三张牌]三索"
+cheat428_code = "00ED:23"
+cheat428_enable = false
+
+cheat429_desc = "[第十三张牌]四索"
+cheat429_code = "00ED:24"
+cheat429_enable = false
+
+cheat430_desc = "[第十三张牌]五索"
+cheat430_code = "00ED:25"
+cheat430_enable = false
+
+cheat431_desc = "[第十三张牌]六索"
+cheat431_code = "00ED:26"
+cheat431_enable = false
+
+cheat432_desc = "[第十三张牌]七索"
+cheat432_code = "00ED:27"
+cheat432_enable = false
+
+cheat433_desc = "[第十三张牌]八索"
+cheat433_code = "00ED:28"
+cheat433_enable = false
+
+cheat434_desc = "[第十三张牌]九索"
+cheat434_code = "00ED:29"
+cheat434_enable = false
+
+cheat435_desc = "[第十三张牌]东风"
+cheat435_code = "00ED:31"
+cheat435_enable = false
+
+cheat436_desc = "[第十三张牌]南风"
+cheat436_code = "00ED:32"
+cheat436_enable = false
+
+cheat437_desc = "[第十三张牌]西风"
+cheat437_code = "00ED:33"
+cheat437_enable = false
+
+cheat438_desc = "[第十三张牌]北风"
+cheat438_code = "00ED:34"
+cheat438_enable = false
+
+cheat439_desc = "[第十三张牌]白板"
+cheat439_code = "00ED:35"
+cheat439_enable = false
+
+cheat440_desc = "[第十三张牌]发财"
+cheat440_code = "00ED:36"
+cheat440_enable = false
+
+cheat441_desc = "[第十三张牌]红中"
+cheat441_code = "00ED:37"
+cheat441_enable = false
+
+cheat442_desc = "[第十四张牌]一万"
+cheat442_code = "00EE:01"
+cheat442_enable = false
+
+cheat443_desc = "[第十四张牌]二万"
+cheat443_code = "00EE:02"
+cheat443_enable = false
+
+cheat444_desc = "[第十四张牌]三万"
+cheat444_code = "00EE:03"
+cheat444_enable = false
+
+cheat445_desc = "[第十四张牌]四万"
+cheat445_code = "00EE:04"
+cheat445_enable = false
+
+cheat446_desc = "[第十四张牌]五万"
+cheat446_code = "00EE:05"
+cheat446_enable = false
+
+cheat447_desc = "[第十四张牌]六万"
+cheat447_code = "00EE:06"
+cheat447_enable = false
+
+cheat448_desc = "[第十四张牌]七万"
+cheat448_code = "00EE:07"
+cheat448_enable = false
+
+cheat449_desc = "[第十四张牌]八万"
+cheat449_code = "00EE:08"
+cheat449_enable = false
+
+cheat450_desc = "[第十四张牌]九万"
+cheat450_code = "00EE:09"
+cheat450_enable = false
+
+cheat451_desc = "[第十四张牌]一筒"
+cheat451_code = "00EE:11"
+cheat451_enable = false
+
+cheat452_desc = "[第十四张牌]二筒"
+cheat452_code = "00EE:12"
+cheat452_enable = false
+
+cheat453_desc = "[第十四张牌]三筒"
+cheat453_code = "00EE:13"
+cheat453_enable = false
+
+cheat454_desc = "[第十四张牌]四筒"
+cheat454_code = "00EE:14"
+cheat454_enable = false
+
+cheat455_desc = "[第十四张牌]五筒"
+cheat455_code = "00EE:15"
+cheat455_enable = false
+
+cheat456_desc = "[第十四张牌]六筒"
+cheat456_code = "00EE:16"
+cheat456_enable = false
+
+cheat457_desc = "[第十四张牌]七筒"
+cheat457_code = "00EE:17"
+cheat457_enable = false
+
+cheat458_desc = "[第十四张牌]八筒"
+cheat458_code = "00EE:18"
+cheat458_enable = false
+
+cheat459_desc = "[第十四张牌]九筒"
+cheat459_code = "00EE:19"
+cheat459_enable = false
+
+cheat460_desc = "[第十四张牌]一索"
+cheat460_code = "00EE:21"
+cheat460_enable = false
+
+cheat461_desc = "[第十四张牌]二索"
+cheat461_code = "00EE:22"
+cheat461_enable = false
+
+cheat462_desc = "[第十四张牌]三索"
+cheat462_code = "00EE:23"
+cheat462_enable = false
+
+cheat463_desc = "[第十四张牌]四索"
+cheat463_code = "00EE:24"
+cheat463_enable = false
+
+cheat464_desc = "[第十四张牌]五索"
+cheat464_code = "00EE:25"
+cheat464_enable = false
+
+cheat465_desc = "[第十四张牌]六索"
+cheat465_code = "00EE:26"
+cheat465_enable = false
+
+cheat466_desc = "[第十四张牌]七索"
+cheat466_code = "00EE:27"
+cheat466_enable = false
+
+cheat467_desc = "[第十四张牌]八索"
+cheat467_code = "00EE:28"
+cheat467_enable = false
+
+cheat468_desc = "[第十四张牌]九索"
+cheat468_code = "00EE:29"
+cheat468_enable = false
+
+cheat469_desc = "[第十四张牌]东风"
+cheat469_code = "00EE:31"
+cheat469_enable = false
+
+cheat470_desc = "[第十四张牌]南风"
+cheat470_code = "00EE:32"
+cheat470_enable = false
+
+cheat471_desc = "[第十四张牌]西风"
+cheat471_code = "00EE:33"
+cheat471_enable = false
+
+cheat472_desc = "[第十四张牌]北风"
+cheat472_code = "00EE:34"
+cheat472_enable = false
+
+cheat473_desc = "[第十四张牌]白板"
+cheat473_code = "00EE:35"
+cheat473_enable = false
+
+cheat474_desc = "[第十四张牌]发财"
+cheat474_code = "00EE:36"
+cheat474_enable = false
+
+cheat475_desc = "[第十四张牌]红中"
+cheat475_code = "00EE:37"
+cheat475_enable = false
+

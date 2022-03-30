@@ -1,0 +1,190 @@
+cheats = 47
+
+cheat0_desc = "[无敌]ON"
+cheat0_code = "1F1460:FF"
+cheat0_enable = false
+
+cheat1_desc = "[物品项(RICHER | MARIA)]火焰鞭|无物品"
+cheat1_code = "1F0093:00"
+cheat1_enable = false
+
+cheat2_desc = "[物品项(RICHER | MARIA)]斧  头|猫  眯"
+cheat2_code = "1F0093:02"
+cheat2_enable = false
+
+cheat3_desc = "[物品项(RICHER | MARIA)]十字架|飞  龙"
+cheat3_code = "1F0093:03"
+cheat3_enable = false
+
+cheat4_desc = "[物品项(RICHER | MARIA)]圣  水|龟  壳"
+cheat4_code = "1F0093:04"
+cheat4_enable = false
+
+cheat5_desc = "[物品项(RICHER | MARIA)]飞  刀|火  鸟"
+cheat5_code = "1F0093:05"
+cheat5_enable = false
+
+cheat6_desc = "[物品项(RICHER | MARIA)]时  钟|鸟  蛋"
+cheat6_code = "1F0093:06"
+cheat6_enable = false
+
+cheat7_desc = "[物品项(RICHER | MARIA)]圣  书|音乐书"
+cheat7_code = "1F0093:08"
+cheat7_enable = false
+
+cheat8_desc = "[物品项(RICHER | MARIA)]钥  匙"
+cheat8_code = "1F0093:07"
+cheat8_enable = false
+
+cheat9_desc = "[HP]ON"
+cheat9_code = "1F0098:5C"
+cheat9_enable = false
+
+cheat10_desc = "[HEART(过关解锁)]ON"
+cheat10_code = "1F0094:99"
+cheat10_enable = false
+
+cheat11_desc = "[LIFE]99"
+cheat11_code = "1F008D:99"
+cheat11_enable = false
+
+cheat12_desc = "[BOSS HP]0"
+cheat12_code = "1F12B8:00"
+cheat12_enable = false
+
+cheat13_desc = "[BOSS HP]full"
+cheat13_code = "1F12B8:5C"
+cheat13_enable = false
+
+cheat14_desc = "[选人]MARIA"
+cheat14_code = "1F009F:01"
+cheat14_enable = false
+
+cheat15_desc = "[选人]RICHTER"
+cheat15_code = "1F009F:00"
+cheat15_enable = false
+
+cheat16_desc = "[全部被救人物]ON"
+cheat16_code = "1F0A9C:38"
+cheat16_enable = false
+
+cheat17_desc = "[MARIA分身攻击距离]到版边"
+cheat17_code = "1F0BD7:EA"
+cheat17_enable = false
+
+cheat18_desc = "[MARIA分身攻击距离]未到版边"
+cheat18_code = "1F0BD7:B8"
+cheat18_enable = false
+
+cheat19_desc = "[可按键跳过开头动画]ON"
+cheat19_code = "1F1F83:01"
+cheat19_enable = false
+
+cheat20_desc = "[选关]STAGE 0"
+cheat20_code = "1F0081:10"
+cheat20_enable = false
+
+cheat21_desc = "[选关]STAGE 1"
+cheat21_code = "1F0081:00"
+cheat21_enable = false
+
+cheat22_desc = "[选关]STAGE 1 BOSS1"
+cheat22_code = "1F0081:91"
+cheat22_enable = false
+
+cheat23_desc = "[选关]STAGE 1 BOSS2"
+cheat23_code = "1F0081:92"
+cheat23_enable = false
+
+cheat24_desc = "[选关]STAGE 2"
+cheat24_code = "1F0081:82"
+cheat24_enable = false
+
+cheat25_desc = "[选关]STAGE 2 BOSS"
+cheat25_code = "1F0081:93"
+cheat25_enable = false
+
+cheat26_desc = "[选关]STAGE 2'"
+cheat26_code = "1F0081:83"
+cheat26_enable = false
+
+cheat27_desc = "[选关]STAGE 2'BOSS"
+cheat27_code = "1F0081:94"
+cheat27_enable = false
+
+cheat28_desc = "[选关]STAGE 3"
+cheat28_code = "1F0081:84"
+cheat28_enable = false
+
+cheat29_desc = "[选关]STAGE 3 BOSS"
+cheat29_code = "1F0081:95"
+cheat29_enable = false
+
+cheat30_desc = "[选关]STAGE 3'"
+cheat30_code = "1F0081:85"
+cheat30_enable = false
+
+cheat31_desc = "[选关]STAGE 3'BOSS"
+cheat31_code = "1F0081:96"
+cheat31_enable = false
+
+cheat32_desc = "[选关]STAGE 4"
+cheat32_code = "1F0081:86"
+cheat32_enable = false
+
+cheat33_desc = "[选关]STAGE 4 BOSS"
+cheat33_code = "1F0081:97"
+cheat33_enable = false
+
+cheat34_desc = "[选关]STAGE 4'"
+cheat34_code = "1F0081:87"
+cheat34_enable = false
+
+cheat35_desc = "[选关]STAGE 4'BOSS"
+cheat35_code = "1F0081:98"
+cheat35_enable = false
+
+cheat36_desc = "[选关]STAGE 5"
+cheat36_code = "1F0081:88"
+cheat36_enable = false
+
+cheat37_desc = "[选关]STAGE 5 BOSS死神DEATH"
+cheat37_code = "1F0081:99"
+cheat37_enable = false
+
+cheat38_desc = "[选关]STAGE 5'"
+cheat38_code = "1F0081:89"
+cheat38_enable = false
+
+cheat39_desc = "[选关]STAGE 6"
+cheat39_code = "1F0081:8A"
+cheat39_enable = false
+
+cheat40_desc = "[选关]STAGE 7"
+cheat40_code = "1F0081:8C"
+cheat40_enable = false
+
+cheat41_desc = "[选关]STAGE 7 BOSS"
+cheat41_code = "1F0081:0E"
+cheat41_enable = false
+
+cheat42_desc = "[选关]STAGE 8"
+cheat42_code = "1F0081:8E"
+cheat42_enable = false
+
+cheat43_desc = "[选关]KONAMI"
+cheat43_code = "1F0081:80"
+cheat43_enable = false
+
+cheat44_desc = "[最大金钱]ON"
+cheat44_code = "1F0096:99+1F0097:99"
+cheat44_enable = false
+
+cheat45_desc = "[最高分数]ON"
+cheat45_code = "1F0024:99+1F0025:99+1F0026:99"
+cheat45_enable = false
+
+cheat46_desc = "[开始游戏可选关]ON"
+cheat46_code = "1F14B8:15"
+cheat46_enable = false
+

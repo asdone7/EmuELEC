@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1P人物最大体力]ON"
+cheat0_code = "7E30BAA3"
+cheat0_enable = false
+
+cheat1_desc = "[2P人物最大体力]ON"
+cheat1_code = "7E325AA3"
+cheat1_enable = false
+

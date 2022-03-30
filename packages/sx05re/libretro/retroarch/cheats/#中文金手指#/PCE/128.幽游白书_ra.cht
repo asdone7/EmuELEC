@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[体力值]ON"
+cheat0_code = "1F1007:70"
+cheat0_enable = false
+
+cheat1_desc = "[绿球数目]ON"
+cheat1_code = "1F1006:05"
+cheat1_enable = false
+
+cheat2_desc = "[对手体力值]0"
+cheat2_code = "1F100B:00"
+cheat2_enable = false
+
+cheat3_desc = "[选关]最终战"
+cheat3_code = "1F002B:0B"
+cheat3_enable = false
+
+cheat4_desc = "[选人]girl"
+cheat4_code = "1F002C:04"
+cheat4_enable = false
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[只数]ON"
+cheat0_code = "1F1476:63"
+cheat0_enable = false
+
+cheat1_desc = "[计量表满(不建议)]ON"
+cheat1_code = "1F0150:80"
+cheat1_enable = false
+

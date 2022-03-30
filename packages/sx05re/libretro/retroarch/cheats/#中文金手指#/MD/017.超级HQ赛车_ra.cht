@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[时间]ON"
+cheat0_code = "FFBC4E:63"
+cheat0_enable = false
+
+cheat1_desc = "[加速器]ON"
+cheat1_code = "FFD590:03"
+cheat1_enable = false
+

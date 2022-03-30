@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "子弹数"
+cheat0_code = "02043ED5 00000063"
+cheat0_enable = false
+
+cheat1_desc = "弹夹数"
+cheat1_code = "02043ED6 00000009"
+cheat1_enable = false
+
+cheat2_desc = "生命值"
+cheat2_code = "02043DEA 00000053"
+cheat2_enable = false
+
+

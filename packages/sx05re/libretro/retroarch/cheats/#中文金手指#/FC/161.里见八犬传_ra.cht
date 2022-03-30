@@ -1,0 +1,90 @@
+cheats = 22
+
+cheat0_desc = "[资金]ON"
+cheat0_code = "05E5:39+05E6:39+05E7:39+05E8:39+05E9:39"
+cheat0_enable = false
+
+cheat1_desc = "[主角 HP]ON"
+cheat1_code = "0523:39+0524:39+0525:39"
+cheat1_enable = false
+
+cheat2_desc = "[主角 MP]ON"
+cheat2_code = "0527:39+0528:39+0529:39"
+cheat2_enable = false
+
+cheat3_desc = "[主角 速度VP]ON"
+cheat3_code = "052B:39+052C:39+052D:39"
+cheat3_enable = false
+
+cheat4_desc = "[主角 攻击力HC]ON"
+cheat4_code = "052F:39+0530:39+0531:39"
+cheat4_enable = false
+
+cheat5_desc = "[主角 防御力MC]ON"
+cheat5_code = "0533:39+0534:39+0535:39"
+cheat5_enable = false
+
+cheat6_desc = "[HHH HP]ON"
+cheat6_code = "0553:39+0554:39+0555:39"
+cheat6_enable = false
+
+cheat7_desc = "[HHH MP]ON"
+cheat7_code = "0557:39+0558:39+0559:39"
+cheat7_enable = false
+
+cheat8_desc = "[HHH 速度VP]ON"
+cheat8_code = "055B:39+055C:39+055D:39"
+cheat8_enable = false
+
+cheat9_desc = "[HHH 攻击力HC]ON"
+cheat9_code = "055F:39+0560:39+0561:39"
+cheat9_enable = false
+
+cheat10_desc = "[HHH 防御力MC]ON"
+cheat10_code = "0563:39+0564:39+0565:39"
+cheat10_enable = false
+
+cheat11_desc = "[LLL HP]ON"
+cheat11_code = "0583:39+0584:39+0585:39"
+cheat11_enable = false
+
+cheat12_desc = "[LLL MP]ON"
+cheat12_code = "0587:39+0588:39+0589:39"
+cheat12_enable = false
+
+cheat13_desc = "[LLL 速度VP]ON"
+cheat13_code = "058B:39+058C:39+058D:39"
+cheat13_enable = false
+
+cheat14_desc = "[LLL 攻击力HC]ON"
+cheat14_code = "058F:39+0590:39+0591:39"
+cheat14_enable = false
+
+cheat15_desc = "[LLL 防御力MC]ON"
+cheat15_code = "0593:39+0594:39+0595:39"
+cheat15_enable = false
+
+cheat16_desc = "[MMM HP]ON"
+cheat16_code = "05B3:39+05B4:39+05B5:39"
+cheat16_enable = false
+
+cheat17_desc = "[MMM MP]ON"
+cheat17_code = "05B7:39+05B8:39+05B9:39"
+cheat17_enable = false
+
+cheat18_desc = "[MMM 速度VP]ON"
+cheat18_code = "05BB:39+05BC:39+05BD:39"
+cheat18_enable = false
+
+cheat19_desc = "[MMM 攻击力HC]ON"
+cheat19_code = "05BF:39+05C0:39+05C1:39"
+cheat19_enable = false
+
+cheat20_desc = "[MMM 防御力MC]ON"
+cheat20_code = "05C3:39+05C4:39+05C5:39"
+cheat20_enable = false
+
+cheat21_desc = "[不遇敌]ON"
+cheat21_code = "00B0:00"
+cheat21_enable = false
+

@@ -1,0 +1,87 @@
+cheats = 21
+
+cheat0_desc = "全隐藏开启"
+cheat0_code = "02042DE4 00000003+02042DE5 00000003+02042DE6 00000003+02042DE7 00000003+02042DE8 00000003+02042DE9 00000003+02042DEA 00000003+02042DEB 00000003+02042DEC 00000003+02042DED 00000003+02042DEE 00000003"
+cheat0_enable = false
+
+cheat1_desc = "隐身"
+cheat1_code = "02042AA6 000000FF"
+cheat1_enable = false
+
+cheat2_desc = "加速"
+cheat2_code = "02042AB7 000000FF"
+cheat2_enable = false
+
+cheat3_desc = "比赛时间"
+cheat3_code = "02042054 00000000+02042055 00000001+02042056 00000000+02042057 00000000"
+cheat3_enable = false
+
+cheat4_desc = "道具种类 炸弹"
+cheat4_code = "02042AB6 00000091"
+cheat4_enable = false
+
+cheat5_desc = "道具种类 鸡头"
+cheat5_code = "02042AB6 00000012"
+cheat5_enable = false
+
+cheat6_desc = "道具种类 盾牌"
+cheat6_code = "02042AB6 00000013"
+cheat6_enable = false
+
+cheat7_desc = "道具种类 雷电"
+cheat7_code = "02042AB6 00000014"
+cheat7_enable = false
+
+cheat8_desc = "道具种类 波菜"
+cheat8_code = "02042AB6 00000015"
+cheat8_enable = false
+
+cheat9_desc = "道具种类 十字键"
+cheat9_code = "02042AB6 00000016"
+cheat9_enable = false
+
+cheat10_desc = "驾驶机器 汽车"
+cheat10_code = "02042AB0 00000001"
+cheat10_enable = false
+
+cheat11_desc = "驾驶机器 弹簧"
+cheat11_code = "02042AB0 00000002"
+cheat11_enable = false
+
+cheat12_desc = "驾驶机器 滑板"
+cheat12_code = "02042AB0 00000003"
+cheat12_enable = false
+
+cheat13_desc = "驾驶机器 可控火箭"
+cheat13_code = "02042AB0 00000004"
+cheat13_enable = false
+
+cheat14_desc = "驾驶机器 上升火箭"
+cheat14_code = "02042AB0 00000005"
+cheat14_enable = false
+
+cheat15_desc = "驾驶机器 恐龙"
+cheat15_code = "02042AB0 00000006"
+cheat15_enable = false
+
+cheat16_desc = "驾驶机器 滑翔机"
+cheat16_code = "02042AB0 00000007"
+cheat16_enable = false
+
+cheat17_desc = "驾驶机器 恶魔斗蓬"
+cheat17_code = "02042AB0 00000008"
+cheat17_enable = false
+
+cheat18_desc = "驾驶机器 飞行器"
+cheat18_code = "02042AB0 00000009"
+cheat18_enable = false
+
+cheat19_desc = "驾驶机器 船"
+cheat19_code = "02042AB0 0000000A"
+cheat19_enable = false
+
+cheat20_desc = "驾驶时间"
+cheat20_code = "02042A98 00000000+02042A99 00000002"
+cheat20_enable = false
+
+

@@ -1,0 +1,62 @@
+cheats = 15
+
+cheat0_desc = "[无限金钱] ON"
+cheat0_code = "7E069499+7E069599+7E069609 "
+cheat0_enable = false
+
+cheat1_desc = "[无限水晶] ON"
+cheat1_code = "7E07ED99+7E07EE09 "
+cheat1_enable = false
+
+cheat2_desc = "[快速升级] ON"
+cheat2_code = "7E069099+7E069199+7E069299 "
+cheat2_enable = false
+
+cheat3_desc = "[透明] ON"
+cheat3_code = "7E12021FF "
+cheat3_enable = false
+
+cheat4_desc = "[生命值] MAX"
+cheat4_code = "7E0657E7+7E065803+7E065DE7+7E065E03 "
+cheat4_enable = false
+
+cheat5_desc = "[获得全部能力] ON"
+cheat5_code = "7E180367A+7E1803701+7E180387B+7E1803901+7E1803A7C+7E1803B01+7E1803C7D+7E1803D01+7E1803E7E+7E1803F01 "
+cheat5_enable = false
+
+cheat6_desc = "[全部徽章] ON"
+cheat6_code = "7E180940B+7E1809509+7E180960C+7E1809709+7E180980D+7E1809909+7E1809A0E+7E1809B09+7E1809C0F+7E1809D09 "
+cheat6_enable = false
+
+cheat7_desc = "[全部指轮] ON"
+cheat7_code = "7E1808001+7E1808109+7E1808202+7E1808309+7E1808403+7E1808509+7E1808604+7E1808709+7E1808805+7E1808909+7E1808A06+7E1808B09+7E1808C07+7E1808D09+7E1808E08+7E1808F09+7E1809009+7E1809109+7E180920A+7E1809309 "
+cheat7_enable = false
+
+cheat8_desc = "[攻击] 255"
+cheat8_code = "7E0662FF "
+cheat8_enable = false
+
+cheat9_desc = "[攻击+7E] 255"
+cheat9_code = "7E0659FF "
+cheat9_enable = false
+
+cheat10_desc = "[守备] 255"
+cheat10_code = "7E065FFF "
+cheat10_enable = false
+
+cheat11_desc = "[守备+7E] 255"
+cheat11_code = "7E065BFF "
+cheat11_enable = false
+
+cheat12_desc = "[运气] 255"
+cheat12_code = "7E0666FF "
+cheat12_enable = false
+
+cheat13_desc = "[最强武器－屎王的礼物] ON"
+cheat13_code = "7E180488A+7E1804901 "
+cheat13_enable = false
+
+cheat14_desc = "[重要物品全集（不推荐使用，最好别用。使用后必须解锁！）] ON"
+cheat14_code = "7E1800012+7E1800109+7E1800213+7E1800309+7E1800414+7E1800509+7E1800615+7E1800709+7E1800816+7E1800909+7E1800A17+7E1800B09+7E1800C18+7E1800D09+7E1800E19+7E1800F09+7E180101A+7E1801109+7E1801232+7E1801301+7E1801433+7E1801501+7E1801634+7E1801701+7E1801836+7E1801901+7E1801A37+7E1801B01+7E1801C38+7E1801D01+7E1801E39+7E1801F01+7E180203A+7E1802101+7E180223B+7E1802301+7E180243C+7E1802501+7E180263D+7E1802701+7E180283F+7E1802901+7E1802A3E+7E1802B01+7E1802C46+7E1802D01+7E1802E47+7E1802F01+7E1803049+7E1803101+7E180324B+7E1803301+7E180345B+7E1803501 "
+cheat14_enable = false
+

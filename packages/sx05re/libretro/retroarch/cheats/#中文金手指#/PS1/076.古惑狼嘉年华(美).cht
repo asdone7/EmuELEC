@@ -1,0 +1,43 @@
+cheats = 10
+
+cheat0_desc = "#只需赢取1个奖杯"
+cheat0_code = "D005A6E0 0000+8005A6E0 0002"
+cheat0_enable = false
+
+cheat1_desc = "#无限球积分"
+cheat1_code = "8009D57C 000F"
+cheat1_enable = false
+
+cheat2_desc = "#无限健康"
+cheat2_code = "8009D562 0014"
+cheat2_enable = false
+
+cheat3_desc = "#无限坦克健康"
+cheat3_code = "800CAD50 0006"
+cheat3_enable = false
+
+cheat4_desc = "#拥有所有宝藏"
+cheat4_code = "50004302 0000+8005A6F8 0202"
+cheat4_enable = false
+
+cheat5_desc = "#Warp Room 2解锁"
+cheat5_code = "3005A780 0001"
+cheat5_enable = false
+
+cheat6_desc = "#Warp Room 3解锁"
+cheat6_code = "3005A792 0001"
+cheat6_enable = false
+
+cheat7_desc = "#Warp Room 4解锁"
+cheat7_code = "3005A785 0001"
+cheat7_enable = false
+
+cheat8_desc = "#Warp Room 5解锁"
+cheat8_code = "3005A79B 0001"
+cheat8_enable = false
+
+cheat9_desc = "#P1无限点"
+cheat9_code = "8009D57C 000F"
+cheat9_enable = false
+
+

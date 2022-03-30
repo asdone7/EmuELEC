@@ -1,0 +1,205 @@
+cheats = 50
+
+cheat0_desc = "#无限健康"
+cheat0_code = "800583FA 3C00"
+cheat0_enable = false
+
+cheat1_desc = "#无限弹药"
+cheat1_code = "8004C23E 3C00+8004C4FE 3C00+8004C7BE 3C00+8004A7CE 3C00+8004CB1A 3C00+8004D2C6 3C00"
+cheat1_enable = false
+
+cheat2_desc = "#Moon Jump"
+cheat2_code = "E00D6501 0080+8004602A 3C00+E10D6501 0080+8004602A A603"
+cheat2_enable = false
+
+cheat3_desc = "#无限护甲"
+cheat3_code = "300C7CAE 00FF"
+cheat3_enable = false
+
+cheat4_desc = "#无限继续"
+cheat4_code = "300B335D 0003"
+cheat4_enable = false
+
+cheat5_desc = "#发现所有秘密"
+cheat5_code = "C20B29F8 0001+800B29FC 0000"
+cheat5_enable = false
+
+cheat6_desc = "#P1-代码\\无限健康"
+cheat6_code = "300CBB30 00FF"
+cheat6_enable = false
+
+cheat7_desc = "#P1-代码\\死亡匹配最大点数"
+cheat7_code = "300B3498 000F"
+cheat7_enable = false
+
+cheat8_desc = "#P1-代码\\拥有超级Super弹枪按L2 +左"
+cheat8_code = "D00C7B60 0180+300C7CC6 0003"
+cheat8_enable = false
+
+cheat9_desc = "#P1-代码\\有机枪按L2 +右"
+cheat9_code = "D00C7B60 0120+300C7CC6 0004"
+cheat9_enable = false
+
+cheat10_desc = "#P1-代码\\有链枪机L2 +向上"
+cheat10_code = "D00C7B60 0110+300C7CC6 0005"
+cheat10_enable = false
+
+cheat11_desc = "#P1-代码\\有手榴弹按下L2 +向下"
+cheat11_code = "D00C7B60 0140+300C7CC6 0006"
+cheat11_enable = false
+
+cheat12_desc = "#P1-代码\\有榴弹发射器按下R2 +左"
+cheat12_code = "D00C7B60 0280+300C7CC6 0007"
+cheat12_enable = false
+
+cheat13_desc = "#P1-代码\\有火箭发射器按R2 +向右"
+cheat13_code = "D00C7B60 0220+300C7CC6 0008"
+cheat13_enable = false
+
+cheat14_desc = "#P1-Codes \\拥有Hyper Blaster。按R2 +向上"
+cheat14_code = "D00C7B60 0210+300C7CC6 0009"
+cheat14_enable = false
+
+cheat15_desc = "#P1-代码\\滑轨按下R2 +向下"
+cheat15_code = "D00C7B60 0240+300C7CC6 000A"
+cheat15_enable = false
+
+cheat16_desc = "#P1-代码\\有Bfg10K按L2 + R2"
+cheat16_code = "D00C7B60 0300+300C7CC6 000B"
+cheat16_enable = false
+
+cheat17_desc = "#P2-代码\\无限健康"
+cheat17_code = "300CC130 00FF"
+cheat17_enable = false
+
+cheat18_desc = "#P2-代码\\死亡匹配最大点数"
+cheat18_code = "300B349A 000F"
+cheat18_enable = false
+
+cheat19_desc = "#P2-代码\\拥有超级Shot弹枪L2 +向左键"
+cheat19_code = "D00C7B72 0180+300C7DA6 0003"
+cheat19_enable = false
+
+cheat20_desc = "#P2-代码\\机枪按L2 +右"
+cheat20_code = "D00C7B72 0120+300C7DA6 0004"
+cheat20_enable = false
+
+cheat21_desc = "#P2-代码\\有链枪机L2 +向上"
+cheat21_code = "D00C7B72 0110+300C7DA6 0005"
+cheat21_enable = false
+
+cheat22_desc = "#P2-代码\\有手榴弹按下L2 +向下"
+cheat22_code = "D00C7B72 0140+300C7DA6 0006"
+cheat22_enable = false
+
+cheat23_desc = "#P2-代码\\有榴弹发射器按下R2 +左"
+cheat23_code = "D00C7B72 0280+300C7DA6 0007"
+cheat23_enable = false
+
+cheat24_desc = "#P2-代码\\有火箭发射器"
+cheat24_code = "D00C7B72 0220+300C7DA6 0008"
+cheat24_enable = false
+
+cheat25_desc = "按R2 +向右"
+
+cheat25_desc = "#P2-代码\\具有Hyper Blaster按R2 +键"
+cheat25_code = "D00C7B72 0210+300C7DA6 0009"
+cheat25_enable = false
+
+cheat26_desc = "#P2-代码\\滑轨按下R2 +向下"
+cheat26_code = "D00C7B72 0240+300C7DA6 000A"
+cheat26_enable = false
+
+cheat27_desc = "#P2-代码\\具有Bfg10K按L2 + R2"
+cheat27_code = "D00C7B72 0300+300C7DA6 000B"
+cheat27_enable = false
+
+cheat28_desc = "#P3-代码\\无限健康"
+cheat28_code = "300CC730 00FF"
+cheat28_enable = false
+
+cheat29_desc = "#P3-代码\\死亡匹配最大点数"
+cheat29_code = "300B349C 000F"
+cheat29_enable = false
+
+cheat30_desc = "#P3-Codes \\拥有L2 +左键超级Shot弹枪"
+cheat30_code = "D00C7B84 0180+300C7E86 0003"
+cheat30_enable = false
+
+cheat31_desc = "#P3-代码\\有机枪按L2 +右"
+cheat31_code = "D00C7B84 0120+300C7E86 0004"
+cheat31_enable = false
+
+cheat32_desc = "#P3-代码\\有链枪机L2 +向上"
+cheat32_code = "D00C7B84 0110+300C7E86 0005"
+cheat32_enable = false
+
+cheat33_desc = "#P3-代码\\手榴弹按下L2 +向下"
+cheat33_code = "D00C7B84 0140+300C7E86 0006"
+cheat33_enable = false
+
+cheat34_desc = "#P3-Codes \\拥有榴弹发射器R2 +向左键"
+cheat34_code = "D00C7B84 0280+300C7E86 0007"
+cheat34_enable = false
+
+cheat35_desc = "#P3-代码\\拥有火箭发射器按R2 +向右"
+cheat35_code = "D00C7B84 0220+300C7E86 0008"
+cheat35_enable = false
+
+cheat36_desc = "#P3-代码\\具有Hyper Blaster按R2 +键"
+cheat36_code = "D00C7B84 0210+300C7E86 0009"
+cheat36_enable = false
+
+cheat37_desc = "#P3-代码\\有滑轨按下R2 +向下"
+cheat37_code = "D00C7B84 0240+300C7E86 000A"
+cheat37_enable = false
+
+cheat38_desc = "#P3-代码\\具有Bfg10K按L2 + R2"
+cheat38_code = "D00C7B84 0300+300C7E86 000B"
+cheat38_enable = false
+
+cheat39_desc = "#P4-代码\\无限健康"
+cheat39_code = "300CCD30 00FF"
+cheat39_enable = false
+
+cheat40_desc = "#P4-代码\\死亡匹配最大点数"
+cheat40_code = "300B349E 000F"
+cheat40_enable = false
+
+cheat41_desc = "#P4-代码\\具有超级Super弹枪L2 +向左键"
+cheat41_code = "D00C7B96 0180+300C7DA6 0003"
+cheat41_enable = false
+
+cheat42_desc = "#P4-代码\\机枪按L2 +右"
+cheat42_code = "D00C7B96 0120+300C7DA6 0004"
+cheat42_enable = false
+
+cheat43_desc = "#P4-代码\\有链枪机L2 +向上"
+cheat43_code = "D00C7B96 0110+300C7DA6 0005"
+cheat43_enable = false
+
+cheat44_desc = "#P4-代码\\有手榴弹按下L2 +向下"
+cheat44_code = "D00C7B96 0140+300C7DA6 0006"
+cheat44_enable = false
+
+cheat45_desc = "#P4-Codes \\拥有榴弹发射器R2 +向左键"
+cheat45_code = "D00C7B96 0280+300C7DA6 0007"
+cheat45_enable = false
+
+cheat46_desc = "#P4-代码\\有火箭发射器按R2 +向右"
+cheat46_code = "D00C7B96 0220+300C7DA6 0008"
+cheat46_enable = false
+
+cheat47_desc = "#P4-Codes \\拥有Hyper Blaster按R2 +键"
+cheat47_code = "D00C7B96 0210+300C7DA6 0009"
+cheat47_enable = false
+
+cheat48_desc = "#P4-Codes \\有滑轨枪。按R2 +向下"
+cheat48_code = "D00C7B96 0240+300C7DA6 000A"
+cheat48_enable = false
+
+cheat49_desc = "#P4-代码\\具有Bfg10K按L2 + R2"
+cheat49_code = "D00C7B96 0300+300C7DA6 000B"
+cheat49_enable = false
+
+

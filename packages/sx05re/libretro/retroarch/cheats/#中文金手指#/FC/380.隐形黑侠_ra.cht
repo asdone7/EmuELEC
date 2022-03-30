@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[体力]ON"
+cheat0_code = "0496:3F"
+cheat0_enable = false
+
+cheat1_desc = "[人数]ON"
+cheat1_code = "0497:04"
+cheat1_enable = false
+
+cheat2_desc = "[时间]ON"
+cheat2_code = "0498:30"
+cheat2_enable = false
+

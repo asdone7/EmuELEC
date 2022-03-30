@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[只数]ON"
+cheat0_code = "1F0912:99"
+cheat0_enable = false
+
+cheat1_desc = "[护身符]ON"
+cheat1_code = "1F00DB:20"
+cheat1_enable = false
+

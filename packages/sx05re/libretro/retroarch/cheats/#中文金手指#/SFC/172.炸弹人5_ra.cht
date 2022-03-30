@@ -1,0 +1,38 @@
+cheats = 9
+
+cheat0_desc = "[1P无敌]ON"
+cheat0_code = "7E15A205 "
+cheat0_enable = false
+
+cheat1_desc = "[2P无敌]ON"
+cheat1_code = "7E0015A305"
+cheat1_enable = false
+
+cheat2_desc = "[雷威力]ON"
+cheat2_code = "7E17CA09"
+cheat2_enable = false
+
+cheat3_desc = "[人数]ON"
+cheat3_code = "7E1D2305"
+cheat3_enable = false
+
+cheat4_desc = "[雷数]ON"
+cheat4_code = "7E4EBD09"
+cheat4_enable = false
+
+cheat5_desc = "[无敌]ON"
+cheat5_code = "7E170AD6"
+cheat5_enable = false
+
+cheat6_desc = "[时间]ON"
+cheat6_code = "7E0E1D31"
+cheat6_enable = false
+
+cheat7_desc = "[可移动雷]ON"
+cheat7_code = "7E4ED50A"
+cheat7_enable = false
+
+cheat8_desc = "[穿雷]ON"
+cheat8_code = "7E167AA0"
+cheat8_enable = false
+

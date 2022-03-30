@@ -1,0 +1,42 @@
+cheats = 10
+
+cheat0_desc = "[P1 心]ON"
+cheat0_code = "0208:16+020C:16+0210:16"
+cheat0_enable = false
+
+cheat1_desc = "[P1 F]0N"
+cheat1_code = "05AA:89+05AC:89+05AE:89"
+cheat1_enable = false
+
+cheat2_desc = "[P1 S]ON"
+cheat2_code = "05B0:89+05B2:89"
+cheat2_enable = false
+
+cheat3_desc = "[P1 P]ON"
+cheat3_code = "05B4:89+05B6:89"
+cheat3_enable = false
+
+cheat4_desc = "[P1 隐身]ON"
+cheat4_code = "005E:C8"
+cheat4_enable = false
+
+cheat5_desc = "[P2 心]ON"
+cheat5_code = "021C:16+0220:16+0224:16"
+cheat5_enable = false
+
+cheat6_desc = "[P2 F]ON"
+cheat6_code = "05DC:89+05DE:89+05E0:89"
+cheat6_enable = false
+
+cheat7_desc = "[P2 S]ON"
+cheat7_code = "05E2:89+05E4:89"
+cheat7_enable = false
+
+cheat8_desc = "[P2 P]ON"
+cheat8_code = "05E6:89+05E8:89"
+cheat8_enable = false
+
+cheat9_desc = "[P2 隐身]ON"
+cheat9_code = "005F:C8"
+cheat9_enable = false
+

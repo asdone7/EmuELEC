@@ -1,0 +1,43 @@
+cheats = 10
+
+cheat0_desc = "生命"
+cheat0_code = "02043636 000000F0"
+cheat0_enable = false
+
+cheat1_desc = "生命上限"
+cheat1_code = "020422BA 000000F0"
+cheat1_enable = false
+
+cheat2_desc = "能量"
+cheat2_code = "020422BE 00000090+020422BF 00000001"
+cheat2_enable = false
+
+cheat3_desc = "能量上限"
+cheat3_code = "020422C0 00000090+020422C1 00000001"
+cheat3_enable = false
+
+cheat4_desc = "攻击力"
+cheat4_code = "020422C2 0000000F+020422C3 00000027"
+cheat4_enable = false
+
+cheat5_desc = "防御力"
+cheat5_code = "020422C4 0000000F+020422C5 00000027"
+cheat5_enable = false
+
+cheat6_desc = "隐身"
+cheat6_code = "02043630 00000030"
+cheat6_enable = false
+
+cheat7_desc = "金钱"
+cheat7_code = "02042310 000000FF+02042311 000000E0+02042312 000000F5+02042313 00000005"
+cheat7_enable = false
+
+cheat8_desc = "属性道具"
+cheat8_code = "02042358 00000063+02042359 00000063+0204235A 00000063"
+cheat8_enable = false
+
+cheat9_desc = "全灵魂"
+cheat9_code = "0204235B 000000FF+0204235C 000000FF+0204235D 000000FF+0204235E 000000FF+0204235F 000000FF+02042360 000000FF+02042361 000000FF+02042362 000000FF+02042363 000000FF+02042364 000000FF"
+cheat9_enable = false
+
+

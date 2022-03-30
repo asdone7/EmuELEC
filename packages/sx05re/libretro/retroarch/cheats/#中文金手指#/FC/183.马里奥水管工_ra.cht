@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[人数]ON"
+cheat0_code = "0048:09"
+cheat0_enable = false
+
+cheat1_desc = "[无敌（不建议锁定）]ON"
+cheat1_code = "0316:00"
+cheat1_enable = false
+

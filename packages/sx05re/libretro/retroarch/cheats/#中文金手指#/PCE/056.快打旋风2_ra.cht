@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[血量不减]ON"
+cheat0_code = "1F1410:B0+1F1424:B0+1F177A:B0"
+cheat0_enable = false
+
+cheat1_desc = "[时间不减]ON"
+cheat1_code = "1F0DBC:99"
+cheat1_enable = false
+

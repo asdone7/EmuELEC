@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "#无限炸弹"
+cheat0_code = "8019B9F4 0003"
+cheat0_enable = false
+
+cheat1_desc = "#无限马力"
+cheat1_code = "8019BC50 003E"
+cheat1_enable = false
+
+cheat2_desc = "#无限额外"
+cheat2_code = "8019B858 2B00"
+cheat2_enable = false
+
+

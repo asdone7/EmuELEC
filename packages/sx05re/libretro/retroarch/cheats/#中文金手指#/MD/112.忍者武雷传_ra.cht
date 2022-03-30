@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "FFC604:99+FFC605:99"
+cheat0_enable = false
+
+cheat1_desc = "[回合数不减]ON"
+cheat1_code = "FFC600:14"
+cheat1_enable = false
+
+cheat2_desc = "[武雷最强(不要锁定)]ON"
+cheat2_code = "FF8488:0E+FF848C:63+FF848E:63+FF8490:63+FF8492:63+FF8499:63+FF849A:63+FF849B:63"
+cheat2_enable = false
+

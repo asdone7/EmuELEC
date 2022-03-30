@@ -1,0 +1,34 @@
+cheats = 8
+
+cheat0_desc = "[Gold 2万金钱]ON"
+cheat0_code = "FF01E0:D0+FF01E1:07"
+cheat0_enable = false
+
+cheat1_desc = "[炮击间断时间]0"
+cheat1_code = "FFFADA:00"
+cheat1_enable = false
+
+cheat2_desc = "[船水手]99"
+cheat2_code = "FFFAA8:63"
+cheat2_enable = false
+
+cheat3_desc = "[船炮台数]99"
+cheat3_code = "FFFAA6:63"
+cheat3_enable = false
+
+cheat4_desc = "[电脑炮击间断时间]0"
+cheat4_code = "FFFB18:00"
+cheat4_enable = false
+
+cheat5_desc = "[电脑炮击间断时间]无法攻击"
+cheat5_code = "FFFB18:7D"
+cheat5_enable = false
+
+cheat6_desc = "[电脑水手]5"
+cheat6_code = "FFFB14:05"
+cheat6_enable = false
+
+cheat7_desc = "[电脑水手]255"
+cheat7_code = "FFFB14:FF"
+cheat7_enable = false
+

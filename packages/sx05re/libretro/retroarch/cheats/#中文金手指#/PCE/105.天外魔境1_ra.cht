@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[金]65535"
+cheat0_code = "1F07C0:FF+1F07C1:FF+1F07C2:00"
+cheat0_enable = false
+
+cheat1_desc = "[自来也 体]999"
+cheat1_code = "1F076C:E7+1F076D:03+1F0770:E7+1F0771:03"
+cheat1_enable = false
+
+cheat2_desc = "[自来也 わざ]999"
+cheat2_code = "1F076E:E7+1F076F:03+1F0772:E7+1F0773:03"
+cheat2_enable = false
+
+cheat3_desc = "[自来也 攻击力]999"
+cheat3_code = "1F0782:E7+1F0783:03"
+cheat3_enable = false
+
+cheat4_desc = "[自来也 守备力]999"
+cheat4_code = "1F0784:E7+1F0785:03"
+cheat4_enable = false
+
+cheat5_desc = "[自来也 すばやさ]999"
+cheat5_code = "1F0786:E7+1F0787:03"
+cheat5_enable = false
+

@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#无限能量SMP"
+cheat0_code = "800A3EA9 00D2"
+cheat0_enable = false
+
+cheat1_desc = "#精神100％"
+cheat1_code = "800A3ECD 0064"
+cheat1_enable = false
+
+cheat2_desc = "#所有阶段"
+cheat2_code = "300A3D88 FFFF+300A3D8A 0001"
+cheat2_enable = false
+
+cheat3_desc = "#启用所有字符"
+cheat3_code = "800A3D80 FFFF+800A3D82 FFFF"
+cheat3_enable = false
+
+cheat4_desc = "#训练安娜的出现"
+cheat4_code = "800A3D84 001F"
+cheat4_enable = false
+
+cheat5_desc = "#突然死亡出现支持"
+cheat5_code = "300A3DC3 0001"
+cheat5_enable = false
+
+

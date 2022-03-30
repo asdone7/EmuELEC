@@ -1,0 +1,158 @@
+cheats = 39
+
+cheat0_desc = "[-金钱- Gold]ON"
+cheat0_code = "7E009102FF+7E009103E0+7E009104F5+7E00910505"
+cheat0_enable = false
+
+cheat1_desc = "[-角色- 1 等级]99"
+cheat1_code = "7E00800663"
+cheat1_enable = false
+
+cheat2_desc = "[-角色- 1 经验值]Max"
+cheat2_code = "7E008013FF+7E008014E0+7E008015F5+7E00801605"
+cheat2_enable = false
+
+cheat3_desc = "[-角色- 1 现在的Hp]9999"
+cheat3_code = "7E00800C0F+7E00800D27"
+cheat3_enable = false
+
+cheat4_desc = "[-角色- 1 最大Hp]9999"
+cheat4_code = "7E00800A0F+7E00800B27"
+cheat4_enable = false
+
+cheat5_desc = "[-角色- 1 战斗Lv,驾驶Lv,修理Lv]99"
+cheat5_code = "7E00800763+7E00800863+7E00800963"
+cheat5_enable = false
+
+cheat6_desc = "[-角色- 1 四大属性]全部Max"
+cheat6_code = "7E00800EFF+7E00800FFF+7E008010FF+7E008011FF"
+cheat6_enable = false
+
+cheat7_desc = "[-角色- 1 攻击力]999"
+cheat7_code = "7E008039E7+7E00803A03"
+cheat7_enable = false
+
+cheat8_desc = "[-角色- 1 攻击力]65535"
+cheat8_code = "7E008039FF+7E00803AFF"
+cheat8_enable = false
+
+cheat9_desc = "[-角色- 1 防御力]999"
+cheat9_code = "7E00803BE7+7E00803C03"
+cheat9_enable = false
+
+cheat10_desc = "[-角色- 1 防御力]65535"
+cheat10_code = "7E00803BFF+7E00803CFF"
+cheat10_enable = false
+
+cheat11_desc = "[-角色- 2 等级]99"
+cheat11_code = "7E00810663"
+cheat11_enable = false
+
+cheat12_desc = "[-角色- 2 经验值]Max"
+cheat12_code = "7E008113FF+7E008114E0+7E008115F5+7E00811605"
+cheat12_enable = false
+
+cheat13_desc = "[-角色- 2 现在的Hp]9999"
+cheat13_code = "7E00810C0F+7E00810D27"
+cheat13_enable = false
+
+cheat14_desc = "[-角色- 2 最大Hp]9999"
+cheat14_code = "7E00810A0F+7E00810B27"
+cheat14_enable = false
+
+cheat15_desc = "[-角色- 2 战斗Lv,驾驶Lv,修理Lv]99"
+cheat15_code = "7E00810763+7E00810863+7E00810963"
+cheat15_enable = false
+
+cheat16_desc = "[-角色- 2 四大属性]全部Max"
+cheat16_code = "7E00810EFF+7E00810FFF+7E008110FF+7E008111FF"
+cheat16_enable = false
+
+cheat17_desc = "[-角色- 2 攻击力]999"
+cheat17_code = "7E008139E7+7E00813A03"
+cheat17_enable = false
+
+cheat18_desc = "[-角色- 2 攻击力]65535"
+cheat18_code = "7E008139FF+7E00813AFF"
+cheat18_enable = false
+
+cheat19_desc = "[-角色- 2 防御力]999"
+cheat19_code = "7E00813BE7+7E00813C03"
+cheat19_enable = false
+
+cheat20_desc = "[-角色- 2 防御力]65535"
+cheat20_code = "7E01803BFF+7E00813CFF"
+cheat20_enable = false
+
+cheat21_desc = "[-角色- 3 等级]99"
+cheat21_code = "7E00820663"
+cheat21_enable = false
+
+cheat22_desc = "[-角色- 3 经验值]Max"
+cheat22_code = "7E008213FF+7E008214E0+7E008215F5+7E00821605"
+cheat22_enable = false
+
+cheat23_desc = "[-角色- 3 现在的HP]9999"
+cheat23_code = "7E00820C0F+7E00820D27"
+cheat23_enable = false
+
+cheat24_desc = "[-角色- 3 最大HP]9999"
+cheat24_code = "7E00820A0F+7E00820B27"
+cheat24_enable = false
+
+cheat25_desc = "[-角色- 3 战斗Lv,驾驶Lv,修理Lv]99"
+cheat25_code = "7E00820763+7E00820863+7E00820963"
+cheat25_enable = false
+
+cheat26_desc = "[-角色- 3 四大属性]全部Max"
+cheat26_code = "7E00820EFF+7E00820FFF+7E008210FF+7E008211FF"
+cheat26_enable = false
+
+cheat27_desc = "[-角色- 3 攻击力]999"
+cheat27_code = "7E008239E7+7E00823A03"
+cheat27_enable = false
+
+cheat28_desc = "[-角色- 3 攻击力]65535"
+cheat28_code = "7E008239FF+7E00823AFF"
+cheat28_enable = false
+
+cheat29_desc = "[-角色- 3 防御力]999"
+cheat29_code = "7E00823BE7+7E00823C03"
+cheat29_enable = false
+
+cheat30_desc = "[-角色- 3 防御力]65535"
+cheat30_code = "7E00823BFF+7E00823CFF"
+cheat30_enable = false
+
+cheat31_desc = "[-战车- 1 装甲(需锁定)]ON"
+cheat31_code = "7E0083280F+7E00832927+7E0083990F+7E00839A27"
+cheat31_enable = false
+
+cheat32_desc = "[-战车- 2 装甲(需锁定)]ON"
+cheat32_code = "7E0084280F+7E00842927+7E0084990F+7E00849A27"
+cheat32_enable = false
+
+cheat33_desc = "[-战车- 3 装甲(需锁定)]ON"
+cheat33_code = "7E0085280F+7E00852927+7E0085990F+7E00859A27"
+cheat33_enable = false
+
+cheat34_desc = "[-战车- 4 装甲(需锁定)]ON"
+cheat34_code = "7E0086280F+7E00862927+7E0086990F+7E00869A27"
+cheat34_enable = false
+
+cheat35_desc = "[-战车- 5 装甲(需锁定)]ON"
+cheat35_code = "7E0087280F+7E00872927+7E0087990F+7E00879A27"
+cheat35_enable = false
+
+cheat36_desc = "[-战车- 6 装甲(需锁定)]ON"
+cheat36_code = "7E0088280F+7E00882927+7E0088990F+7E00889A27"
+cheat36_enable = false
+
+cheat37_desc = "[-战车- 7 装甲(需锁定)]ON"
+cheat37_code = "7E0089280F+7E00892927+7E0089990F+7E00899A27"
+cheat37_enable = false
+
+cheat38_desc = "[-战车- 8 装甲(需锁定)]ON"
+cheat38_code = "7E008A280F+7E008A2927+7E008A990F+7E008A9A27"
+cheat38_enable = false
+

@@ -1,0 +1,262 @@
+cheats = 65
+
+cheat0_desc = "[角色选择（进入游戏后打开，激活后关闭）]1"
+cheat0_code = "7E25FB00"
+cheat0_enable = false
+
+cheat1_desc = "[角色选择（进入游戏后打开，激活后关闭）]2"
+cheat1_code = "7E25FB01"
+cheat1_enable = false
+
+cheat2_desc = "[角色选择（进入游戏后打开，激活后关闭）]3"
+cheat2_code = "7E25FB02"
+cheat2_enable = false
+
+cheat3_desc = "[角色选择（进入游戏后打开，激活后关闭）]4"
+cheat3_code = "7E25FB03"
+cheat3_enable = false
+
+cheat4_desc = "[角色选择（进入游戏后打开，激活后关闭）]5"
+cheat4_code = "7E25FB04"
+cheat4_enable = false
+
+cheat5_desc = "[角色选择（进入游戏后打开，激活后关闭）]6"
+cheat5_code = "7E25FB05"
+cheat5_enable = false
+
+cheat6_desc = "[角色选择（进入游戏后打开，激活后关闭）]7"
+cheat6_code = "7E25FB06"
+cheat6_enable = false
+
+cheat7_desc = "[角色选择（进入游戏后打开，激活后关闭）]8"
+cheat7_code = "7E25FB07"
+cheat7_enable = false
+
+cheat8_desc = "[角色选择（进入游戏后打开，激活后关闭）]9"
+cheat8_code = "7E25FB08"
+cheat8_enable = false
+
+cheat9_desc = "[角色选择（进入游戏后打开，激活后关闭）]10"
+cheat9_code = "7E25FB09"
+cheat9_enable = false
+
+cheat10_desc = "[角色选择（进入游戏后打开，激活后关闭）]11"
+cheat10_code = "7E25FB0A"
+cheat10_enable = false
+
+cheat11_desc = "[角色选择（进入游戏后打开，激活后关闭）]12"
+cheat11_code = "7E25FB0B"
+cheat11_enable = false
+
+cheat12_desc = "[角色选择（进入游戏后打开，激活后关闭）]13"
+cheat12_code = "7E25FB0C"
+cheat12_enable = false
+
+cheat13_desc = "[角色选择（进入游戏后打开，激活后关闭）]14"
+cheat13_code = "7E25FB11"
+cheat13_enable = false
+
+cheat14_desc = "[角色选择（进入游戏后打开，激活后关闭）]15"
+cheat14_code = "7E25FB12"
+cheat14_enable = false
+
+cheat15_desc = "[角色选择（进入游戏后打开，激活后关闭）]16"
+cheat15_code = "7E25FB13"
+cheat15_enable = false
+
+cheat16_desc = "[角色选择（进入游戏后打开，激活后关闭）]17"
+cheat16_code = "7E25FB14"
+cheat16_enable = false
+
+cheat17_desc = "[角色选择（进入游戏后打开，激活后关闭）]18"
+cheat17_code = "7E25FB15"
+cheat17_enable = false
+
+cheat18_desc = "[角色选择（进入游戏后打开，激活后关闭）]19"
+cheat18_code = "7E25FB16"
+cheat18_enable = false
+
+cheat19_desc = "[角色选择（进入游戏后打开，激活后关闭）]20"
+cheat19_code = "7E25FB17"
+cheat19_enable = false
+
+cheat20_desc = "[角色选择（进入游戏后打开，激活后关闭）]21"
+cheat20_code = "7E25FB18"
+cheat20_enable = false
+
+cheat21_desc = "[角色选择（进入游戏后打开，激活后关闭）]22"
+cheat21_code = "7E25FB19"
+cheat21_enable = false
+
+cheat22_desc = "[角色选择（进入游戏后打开，激活后关闭）]23"
+cheat22_code = "7E25FB1A"
+cheat22_enable = false
+
+cheat23_desc = "[角色选择（进入游戏后打开，激活后关闭）]24"
+cheat23_code = "7E25FB1B"
+cheat23_enable = false
+
+cheat24_desc = "[角色选择（进入游戏后打开，激活后关闭）]25"
+cheat24_code = "7E25FB1C"
+cheat24_enable = false
+
+cheat25_desc = "[角色选择（进入游戏后打开，激活后关闭）]26"
+cheat25_code = "7E25FB1D"
+cheat25_enable = false
+
+cheat26_desc = "[角色选择（进入游戏后打开，激活后关闭）]27"
+cheat26_code = "7E25FB1E"
+cheat26_enable = false
+
+cheat27_desc = "[角色选择（进入游戏后打开，激活后关闭）]28"
+cheat27_code = "7E25FB1F"
+cheat27_enable = false
+
+cheat28_desc = "[角色选择（进入游戏后打开，激活后关闭）]29"
+cheat28_code = "7E25FB20"
+cheat28_enable = false
+
+cheat29_desc = "[角色选择（进入游戏后打开，激活后关闭）]30"
+cheat29_code = "7E25FB21"
+cheat29_enable = false
+
+cheat30_desc = "[角色选择（进入游戏后打开，激活后关闭）]31"
+cheat30_code = "7E25FB22"
+cheat30_enable = false
+
+cheat31_desc = "[角色选择（进入游戏后打开，激活后关闭）]32"
+cheat31_code = "7E25FB23"
+cheat31_enable = false
+
+cheat32_desc = "[角色选择（进入游戏后打开，激活后关闭）]33"
+cheat32_code = "7E25FB24"
+cheat32_enable = false
+
+cheat33_desc = "[角色选择（进入游戏后打开，激活后关闭）]34"
+cheat33_code = "7E25FB25"
+cheat33_enable = false
+
+cheat34_desc = "[角色选择（进入游戏后打开，激活后关闭）]35"
+cheat34_code = "7E25FB26"
+cheat34_enable = false
+
+cheat35_desc = "[角色选择（进入游戏后打开，激活后关闭）]36"
+cheat35_code = "7E25FB27"
+cheat35_enable = false
+
+cheat36_desc = "[角色选择（进入游戏后打开，激活后关闭）]37"
+cheat36_code = "7E25FB28"
+cheat36_enable = false
+
+cheat37_desc = "[角色选择（进入游戏后打开，激活后关闭）]38"
+cheat37_code = "7E25FB2A"
+cheat37_enable = false
+
+cheat38_desc = "[角色选择（进入游戏后打开，激活后关闭）]39"
+cheat38_code = "7E25FB2B"
+cheat38_enable = false
+
+cheat39_desc = "[角色选择（进入游戏后打开，激活后关闭）]40"
+cheat39_code = "7E25FB2C"
+cheat39_enable = false
+
+cheat40_desc = "[角色选择（进入游戏后打开，激活后关闭）]41"
+cheat40_code = "7E25FB2D"
+cheat40_enable = false
+
+cheat41_desc = "[角色选择（进入游戏后打开，激活后关闭）]42"
+cheat41_code = "7E25FB2F"
+cheat41_enable = false
+
+cheat42_desc = "[角色选择（进入游戏后打开，激活后关闭）]43"
+cheat42_code = "7E25FB30"
+cheat42_enable = false
+
+cheat43_desc = "[角色选择（进入游戏后打开，激活后关闭）]44"
+cheat43_code = "7E25FB31"
+cheat43_enable = false
+
+cheat44_desc = "[角色选择（进入游戏后打开，激活后关闭）]45"
+cheat44_code = "7E25FB35"
+cheat44_enable = false
+
+cheat45_desc = "[角色选择（进入游戏后打开，激活后关闭）]46"
+cheat45_code = "7E25FB36"
+cheat45_enable = false
+
+cheat46_desc = "[角色选择（进入游戏后打开，激活后关闭）]47"
+cheat46_code = "7E25FB37"
+cheat46_enable = false
+
+cheat47_desc = "[角色选择（进入游戏后打开，激活后关闭）]48"
+cheat47_code = "7E25FB39"
+cheat47_enable = false
+
+cheat48_desc = "[角色选择（进入游戏后打开，激活后关闭）]49"
+cheat48_code = "7E25FB3A"
+cheat48_enable = false
+
+cheat49_desc = "[角色选择（进入游戏后打开，激活后关闭）]50"
+cheat49_code = "7E25FB3B"
+cheat49_enable = false
+
+cheat50_desc = "[角色选择（进入游戏后打开，激活后关闭）]51"
+cheat50_code = "7E25FB3C"
+cheat50_enable = false
+
+cheat51_desc = "[角色选择（进入游戏后打开，激活后关闭）]52"
+cheat51_code = "7E25FB3D"
+cheat51_enable = false
+
+cheat52_desc = "[角色选择（进入游戏后打开，激活后关闭）]53"
+cheat52_code = "7E25FB3E"
+cheat52_enable = false
+
+cheat53_desc = "[角色选择（进入游戏后打开，激活后关闭）]54"
+cheat53_code = "7E25FB40"
+cheat53_enable = false
+
+cheat54_desc = "[角色选择（进入游戏后打开，激活后关闭）]55"
+cheat54_code = "7E25FB41"
+cheat54_enable = false
+
+cheat55_desc = "[角色选择（进入游戏后打开，激活后关闭）]56"
+cheat55_code = "7E25FB43"
+cheat55_enable = false
+
+cheat56_desc = "[角色选择（进入游戏后打开，激活后关闭）]57"
+cheat56_code = "7E25FB44"
+cheat56_enable = false
+
+cheat57_desc = "[角色选择（进入游戏后打开，激活后关闭）]58"
+cheat57_code = "7E25FB45"
+cheat57_enable = false
+
+cheat58_desc = "[角色选择（进入游戏后打开，激活后关闭）]59"
+cheat58_code = "7E25FB46"
+cheat58_enable = false
+
+cheat59_desc = "[角色选择（进入游戏后打开，激活后关闭）]60"
+cheat59_code = "7E25FB47"
+cheat59_enable = false
+
+cheat60_desc = "[角色选择（进入游戏后打开，激活后关闭）]61"
+cheat60_code = "7E25FB48"
+cheat60_enable = false
+
+cheat61_desc = "[角色选择（进入游戏后打开，激活后关闭）]62"
+cheat61_code = "7E25FB49"
+cheat61_enable = false
+
+cheat62_desc = "[角色选择（进入游戏后打开，激活后关闭）]63"
+cheat62_code = "7E25FB4A"
+cheat62_enable = false
+
+cheat63_desc = "[角色选择（进入游戏后打开，激活后关闭）]64"
+cheat63_code = "7E25FB4B"
+cheat63_enable = false
+
+cheat64_desc = "[角色选择（进入游戏后打开，激活后关闭）]65"
+cheat64_code = "7E25FB4C"
+cheat64_enable = false
+

@@ -1,0 +1,62 @@
+cheats = 15
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "FFE112:3F+FFE113:42+FFE114:0F"
+cheat0_enable = false
+
+cheat1_desc = "[史进升级]ON"
+cheat1_code = "FFE850:64"
+cheat1_enable = false
+
+cheat2_desc = "[晁盖]ON"
+cheat2_code = "FFE812:FF"
+cheat2_enable = false
+
+cheat3_desc = "[无用]ON"
+cheat3_code = "FFE792:FF"
+cheat3_enable = false
+
+cheat4_desc = "[燕青]ON"
+cheat4_code = "FFE7D2:FF"
+cheat4_enable = false
+
+cheat5_desc = "[阮小七]ON"
+cheat5_code = "FFE892:FF"
+cheat5_enable = false
+
+cheat6_desc = "[史进]ON"
+cheat6_code = "FFE852:FF"
+cheat6_enable = false
+
+cheat7_desc = "[晁盖升级]ON"
+cheat7_code = "FFE790:64"
+cheat7_enable = false
+
+cheat8_desc = "[燕青升级]ON"
+cheat8_code = "FFE810:64"
+cheat8_enable = false
+
+cheat9_desc = "[阮小七升级]ON"
+cheat9_code = "FFE890:64"
+cheat9_enable = false
+
+cheat10_desc = "[无用升级]ON"
+cheat10_code = "FFE7D0:64"
+cheat10_enable = false
+
+cheat11_desc = "[陆俊谊]ON"
+cheat11_code = "FFE8D2:FF"
+cheat11_enable = false
+
+cheat12_desc = "[花荣]ON"
+cheat12_code = "FFE912:FF"
+cheat12_enable = false
+
+cheat13_desc = "[陆俊谊升级]ON"
+cheat13_code = "FFE8D0:64"
+cheat13_enable = false
+
+cheat14_desc = "[花荣升级]ON"
+cheat14_code = "FFE910:64"
+cheat14_enable = false
+

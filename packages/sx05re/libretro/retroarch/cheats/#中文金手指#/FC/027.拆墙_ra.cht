@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[无限只数]ON"
+cheat0_code = "0090:09"
+cheat0_enable = false
+
+cheat1_desc = "[敌人停止活动]ON"
+cheat1_code = "0317:08"
+cheat1_enable = false
+

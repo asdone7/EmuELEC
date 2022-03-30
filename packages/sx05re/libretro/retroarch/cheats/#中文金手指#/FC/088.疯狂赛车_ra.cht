@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[油全满]ON"
+cheat0_code = "0021:63"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "0095:00"
+cheat1_enable = false
+

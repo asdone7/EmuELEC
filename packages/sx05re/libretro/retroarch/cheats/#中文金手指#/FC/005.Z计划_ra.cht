@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[1P变成战斗机能量无限]ON"
+cheat0_code = "002C:63"
+cheat0_enable = false
+
+cheat1_desc = "[1P主角无限生命]ON"
+cheat1_code = "0032:09"
+cheat1_enable = false
+
+cheat2_desc = "[无敌]ON"
+cheat2_code = "0764:00"
+cheat2_enable = false
+

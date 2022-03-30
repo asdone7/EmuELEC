@@ -1,0 +1,51 @@
+cheats = 12
+
+cheat0_desc = "隐藏要素开启"
+cheat0_code = "02010480 00000001+02010484 00000001"
+cheat0_enable = false
+
+cheat1_desc = "焰火全开"
+cheat1_code = "0201048C 00000001+02010490 00000001+02010494 00000001+02010498 00000001+0201049C 00000001+020104A0 00000001+020104A4 00000001+020104A8 00000001+020104AC 00000001+020104B0 00000001+020104B4 00000001+020104B8 00000001+020104BC 00000001+020104C0 00000001+020104C4 00000001+020104C8 00000001+020104CC 00000001+020104D0 00000001+020104D4 00000001+020104D8 00000001+020104DC 00000001+020104E0 00000001+020104E4 00000001+020104E8 00000001"
+cheat1_enable = false
+
+cheat2_desc = "我方火药"
+cheat2_code = "020426DE 00000000"
+cheat2_enable = false
+
+cheat3_desc = "我方能量"
+cheat3_code = "020429AA 0000000F+020429AB 00000027"
+cheat3_enable = false
+
+cheat4_desc = "对方火药"
+cheat4_code = "0204293A 00000063"
+cheat4_enable = false
+
+cheat5_desc = "对方能量"
+cheat5_code = "0204274E 00000000+0204274F 00000000"
+cheat5_enable = false
+
+cheat6_desc = "点数"
+cheat6_code = "02043A60 000000FF+02043A61 000000E0+02043A62 000000F5+02043A63 00000005"
+cheat6_enable = false
+
+cheat7_desc = "全收集"
+cheat7_code = "02043A90 000000FF+02043A91 000000FF+02043A92 000000FF+02043A93 000000FF"
+cheat7_enable = false
+
+cheat8_desc = "对战难度"
+cheat8_code = "02043A75 00000007"
+cheat8_enable = false
+
+cheat9_desc = "进阶难度"
+cheat9_code = "02043A74 00000003"
+cheat9_enable = false
+
+cheat10_desc = "花火大祭"
+cheat10_code = "02043AA8 000000FF"
+cheat10_enable = false
+
+cheat11_desc = "连放花数"
+cheat11_code = "02042DB4 000000E7+02042DB5 00000003"
+cheat11_enable = false
+
+

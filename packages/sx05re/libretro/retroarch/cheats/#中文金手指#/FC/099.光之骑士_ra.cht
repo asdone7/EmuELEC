@@ -1,0 +1,38 @@
+cheats = 9
+
+cheat0_desc = "[遇敌机率]不遇敌"
+cheat0_code = "06F4:00"
+cheat0_enable = false
+
+cheat1_desc = "[G(钱)]999999"
+cheat1_code = "0300:3F+0301:42+0302:0F"
+cheat1_enable = false
+
+cheat2_desc = "[第1人EXP]999999"
+cheat2_code = "0400:3F+0401:42+0402:0F"
+cheat2_enable = false
+
+cheat3_desc = "[第2人EXP]999999"
+cheat3_code = "0412:3F+0413:42+0414:0F"
+cheat3_enable = false
+
+cheat4_desc = "[第3人EXP]999999"
+cheat4_code = "0424:3F+0425:42+0426:0F"
+cheat4_enable = false
+
+cheat5_desc = "[第4人EXP]999999"
+cheat5_code = "0436:3F+0437:42+0438:0F"
+cheat5_enable = false
+
+cheat6_desc = "[第5人EXP]999999"
+cheat6_code = "0448:3F+0449:42+044A:0F"
+cheat6_enable = false
+
+cheat7_desc = "[第6人EXP]999999"
+cheat7_code = "045A:3F+045B:42+045C:0F"
+cheat7_enable = false
+
+cheat8_desc = "[全卡片]ON"
+cheat8_code = "0321:FF+0322:FF+0323:FF+0324:FF+0325:FF+0326:FF+0327:FF+0328:9F+0329:FF+032A:FF+032B:FF"
+cheat8_enable = false
+

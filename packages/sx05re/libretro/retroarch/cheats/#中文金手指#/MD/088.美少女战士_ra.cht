@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[主角无限生命]ON"
+cheat0_code = "FFFE8B:09"
+cheat0_enable = false
+
+cheat1_desc = "[主角无限体力]ON"
+cheat1_code = "FFE050:64"
+cheat1_enable = false
+

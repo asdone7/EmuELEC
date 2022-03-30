@@ -1,0 +1,54 @@
+cheats = 13
+
+cheat0_desc = "[生命无限]开启"
+cheat0_code = "05C1:09"
+cheat0_enable = false
+
+cheat1_desc = "[体力无限]开启"
+cheat1_code = "05C2:08"
+cheat1_enable = false
+
+cheat2_desc = "[武器分类]拳头"
+cheat2_code = "05C6:00"
+cheat2_enable = false
+
+cheat3_desc = "[武器分类]冲锋枪"
+cheat3_code = "05C6:01"
+cheat3_enable = false
+
+cheat4_desc = "[武器分类]火箭枪"
+cheat4_code = "05C6:02"
+cheat4_enable = false
+
+cheat5_desc = "[武器强化]开启"
+cheat5_code = "05CA:03"
+cheat5_enable = false
+
+cheat6_desc = "[隐身]开启"
+cheat6_code = "05DA:39"
+cheat6_enable = false
+
+cheat7_desc = "[选关(进入关卡后请解锁)]第一关"
+cheat7_code = "05C4:00"
+cheat7_enable = false
+
+cheat8_desc = "[选关(进入关卡后请解锁)]第二关"
+cheat8_code = "05C4:01"
+cheat8_enable = false
+
+cheat9_desc = "[选关(进入关卡后请解锁)]第三关"
+cheat9_code = "05C4:02"
+cheat9_enable = false
+
+cheat10_desc = "[选关(进入关卡后请解锁)]第四关"
+cheat10_code = "05C4:03"
+cheat10_enable = false
+
+cheat11_desc = "[选关(进入关卡后请解锁)]第五关"
+cheat11_code = "05C4:04"
+cheat11_enable = false
+
+cheat12_desc = "[选关(进入关卡后请解锁)]第六关"
+cheat12_code = "05C4:05"
+cheat12_enable = false
+

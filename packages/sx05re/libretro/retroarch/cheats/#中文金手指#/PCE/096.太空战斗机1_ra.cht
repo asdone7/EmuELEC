@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[透明(无法吃宝物)]ON"
+cheat0_code = "1F0BB5:E1"
+cheat0_enable = false
+
+cheat1_desc = "[只数]ON"
+cheat1_code = "1F0BC8:09"
+cheat1_enable = false
+
+cheat2_desc = "[威力最强]ON"
+cheat2_code = "1F0BBE:15+1F0BC0:15+1F0BC5:15+1F0BC6:15"
+cheat2_enable = false
+

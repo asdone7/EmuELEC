@@ -1,0 +1,34 @@
+cheats = 8
+
+cheat0_desc = "[车 无敌]ON"
+cheat0_code = "7E612A8F"
+cheat0_enable = false
+
+cheat1_desc = "[车 全武器+7E火力MAX]ON"
+cheat1_code = "7E60D607+7E60DA07+7E60DE07+7E60E207+7E60E607"
+cheat1_enable = false
+
+cheat2_desc = "[直升机 无敌]ON"
+cheat2_code = "7E612C8F"
+cheat2_enable = false
+
+cheat3_desc = "[直升机 全武器+7E火力MAX]ON"
+cheat3_code = "7E60D807+7E60DC07+7E60E007+7E60E407+7E60E807"
+cheat3_enable = false
+
+cheat4_desc = "[通用 辅助炸弹]H(追踪弹)"
+cheat4_code = "7E60CEE2+7E60D0E2+7E60D20A+7E60D40A+7E622002"
+cheat4_enable = false
+
+cheat5_desc = "[通用 辅助炸弹]S(环型护身弹)"
+cheat5_code = "7E60CEE2+7E60D0E2+7E60D20A+7E60D40A+7E622004"
+cheat5_enable = false
+
+cheat6_desc = "[通用 辅助炸弹]X(直线导弹)"
+cheat6_code = "7E60CEE2+7E60D0E2+7E60D20A+7E60D40A+7E622006"
+cheat6_enable = false
+
+cheat7_desc = "[通用 辅助炸弹]J(作用不明)"
+cheat7_code = "7E60CEE2+7E60D0E2+7E60D20A+7E60D40A+7E622008"
+cheat7_enable = false
+

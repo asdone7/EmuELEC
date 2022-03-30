@@ -1,0 +1,31 @@
+cheats = 7
+
+cheat0_desc = "大量金钱"
+cheat0_code = "020437D0 000000FF+020437D1 000000FF"
+cheat0_enable = false
+
+cheat1_desc = "クロノア体力不减"
+cheat1_code = "02043830 000000E7+02043831 00000003"
+cheat1_enable = false
+
+cheat2_desc = "クロノア技力不减"
+cheat2_code = "02043104 00000020+02043105 00000003"
+cheat2_enable = false
+
+cheat3_desc = "クロノア快速升级"
+cheat3_code = "02043116 00000030+02043117 00000075"
+cheat3_enable = false
+
+cheat4_desc = "ガンツ体力不减"
+cheat4_code = "02043878 000000E7+02043879 00000003"
+cheat4_enable = false
+
+cheat5_desc = "ガンツ技力不减"
+cheat5_code = "02043170 00000020+02043171 00000003"
+cheat5_enable = false
+
+cheat6_desc = "ガンツ快速升级"
+cheat6_code = "02043182 00000030+02043183 00000075"
+cheat6_enable = false
+
+

@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#无限生命P1"
+cheat0_code = "801783C8 0003"
+cheat0_enable = false
+
+cheat1_desc = "#无限生命P2"
+cheat1_code = "80178448 0003"
+cheat1_enable = false
+
+cheat2_desc = "#无限炸弹P1"
+cheat2_code = "801783CC 0002"
+cheat2_enable = false
+
+cheat3_desc = "#无限炸弹P2"
+cheat3_code = "8017844C 0002"
+cheat3_enable = false
+
+cheat4_desc = "#无敌P1"
+cheat4_code = "801783E6 0078"
+cheat4_enable = false
+
+cheat5_desc = "#无敌P2"
+cheat5_code = "80178466 0078"
+cheat5_enable = false
+
+

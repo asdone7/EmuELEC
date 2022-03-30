@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[1P 只数不减]ON"
+cheat0_code = "FF0881:03"
+cheat0_enable = false
+
+cheat1_desc = "[1P 血不减]ON"
+cheat1_code = "FF083F:05"
+cheat1_enable = false
+
+cheat2_desc = "[1P MAGIC]ON"
+cheat2_code = "FF0883:05"
+cheat2_enable = false
+
+cheat3_desc = "[1P MAGIC]角色2"
+cheat3_code = "FF0883:08"
+cheat3_enable = false
+

@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[Hp不减]ON"
+cheat0_code = "7E00043605"
+cheat0_enable = false
+
+cheat1_desc = "[金钱]ON"
+cheat1_code = "7E0004C699+7E04C799"
+cheat1_enable = false
+
+cheat2_desc = "[命]ON"
+cheat2_code = "7E0004CA99"
+cheat2_enable = false
+

@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "1585:FF+1586:FF+1587:00"
+cheat0_enable = false
+
+cheat1_desc = "[王子无限移动]ON"
+cheat1_code = "1755:63"
+cheat1_enable = false
+
+cheat2_desc = "[王子体力]ON"
+cheat2_code = "0325:64"
+cheat2_enable = false
+
+cheat3_desc = "[无限时间]ON"
+cheat3_code = "0330:99"
+cheat3_enable = false
+
+cheat4_desc = "[敌人体力为零]ON"
+cheat4_code = "0326:00"
+cheat4_enable = false
+

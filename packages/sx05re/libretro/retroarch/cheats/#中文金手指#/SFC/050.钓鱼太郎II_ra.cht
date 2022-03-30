@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[体力]ON"
+cheat0_code = "7E0862FF"
+cheat0_enable = false
+
+cheat1_desc = "[金钱]ON"
+cheat1_code = "7E0866FF+7E0867FF"
+cheat1_enable = false
+
+cheat2_desc = "[钓的鱼最大]ON"
+cheat2_code = "7E1A7BFF+7E1A7C1EB1+7E1A7DFF"
+cheat2_enable = false
+

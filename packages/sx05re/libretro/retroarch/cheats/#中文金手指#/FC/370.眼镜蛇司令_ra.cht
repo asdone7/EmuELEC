@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[飞机数]ON"
+cheat0_code = "05BB:09"
+cheat0_enable = false
+
+cheat1_desc = "[救人数]ON"
+cheat1_code = "05BF:14"
+cheat1_enable = false
+
+cheat2_desc = "[不怕攻击]ON"
+cheat2_code = "0312:00+03B4:00+03BB:02"
+cheat2_enable = false
+

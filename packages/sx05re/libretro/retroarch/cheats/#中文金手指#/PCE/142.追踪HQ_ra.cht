@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[时间不减]ON"
+cheat0_code = "1F0053:60"
+cheat0_enable = false
+
+cheat1_desc = "[TURBO 不减]ON"
+cheat1_code = "1F07A7:03"
+cheat1_enable = false
+

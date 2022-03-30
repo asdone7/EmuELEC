@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[自己体力值]ON"
+cheat0_code = "FFC465:78"
+cheat0_enable = false
+
+cheat1_desc = "[对方体力值为0]ON"
+cheat1_code = "FFC462:00"
+cheat1_enable = false
+

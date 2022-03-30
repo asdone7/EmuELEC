@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[无限只数]ON"
+cheat0_code = "7E1FB309"
+cheat0_enable = false
+
+cheat1_desc = "[无限生命值]ON"
+cheat1_code = "7E09FF10"
+cheat1_enable = false
+
+cheat2_desc = "[透明（打BOSS时设置为OFF）]OFF"
+cheat2_code = "7E0A0800"
+cheat2_enable = false
+
+cheat3_desc = "[透明（打BOSS时设置为OFF）]ON"
+cheat3_code = "7E0A0808"
+cheat3_enable = false
+
+cheat4_desc = "[快速储气]ON"
+cheat4_code = "7E0A3006"
+cheat4_enable = false
+
+cheat5_desc = "[地上连续飞行]ON"
+cheat5_code = "7E0A2A7F"
+cheat5_enable = false
+
+cheat6_desc = "[全部能力]ON"
+cheat6_code = "7E1FBBDC+7E1FBDDC+7E1FBFDC+7E1FC1DC+7E1FC3DC+7E1FC5DC+7E1FC7DC+7E1FC9DC+7E1FCBDC+7E1FCDDC"
+cheat6_enable = false
+

@@ -1,0 +1,34 @@
+cheats = 8
+
+cheat0_desc = "[木材]ON"
+cheat0_code = "7E11F0CE7+7E11F0D03"
+cheat0_enable = false
+
+cheat1_desc = "[体力]ON"
+cheat1_code = "7E08F864"
+cheat1_enable = false
+
+cheat2_desc = "[金钱]ON"
+cheat2_code = "7E11F043F+7E11F0542+7E11F060F"
+cheat2_enable = false
+
+cheat3_desc = "[牧草种子]ON"
+cheat3_code = "7E090763"
+cheat3_enable = false
+
+cheat4_desc = "[其它种子]ON"
+cheat4_code = "7E090A63+7E090B63"
+cheat4_enable = false
+
+cheat5_desc = "[牛饲料]ON"
+cheat5_code = "7E090C0C"
+cheat5_enable = false
+
+cheat6_desc = "[鸡饲料]ON"
+cheat6_code = "7E090D0C"
+cheat6_enable = false
+
+cheat7_desc = "[牧草]ON"
+cheat7_code = "7E11F10E7+7E11F1103"
+cheat7_enable = false
+

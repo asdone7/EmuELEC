@@ -1,0 +1,142 @@
+cheats = 35
+
+cheat0_desc = "[资金]ON"
+cheat0_code = "0896:FF+0897:FF"
+cheat0_enable = false
+
+cheat1_desc = "[遇敌率]不遇敌"
+cheat1_code = "0894:FF"
+cheat1_enable = false
+
+cheat2_desc = "[遇敌率]步步遇敌"
+cheat2_code = "0894:00"
+cheat2_enable = false
+
+cheat3_desc = "[战斗无敌]ON"
+cheat3_code = "081A:FF+081B:FF+081C:FF+081D:FF+083A:FF+083B:FF+083C:FF+083D:FF+085A:FF+085B:FF+085C:FF+085D:FF+087A:FF+087B:FF+087C:FF+087D:FF"
+cheat3_enable = false
+
+cheat4_desc = "[全装备]ON"
+cheat4_code = "089C:63+089D:63+089E:63+089F:63+08A0:63+08A1:63+08A2:63+08A3:63+08A4:63+08A5:63+08A6:63+08A7:63+08A8:63+08A9:63+08AA:63+08AB:63+08AC:63+08AD:63+08AE:63+08AF:63+08B0:63+08B1:63+08B2:63+08B3:63+08B4:63+08B5:63+08B6:63+08B7:63+08B8:63+08B9:63+08BA:63+08BB:63+08BC:63+08BD:63+08BE:63+08BF:63+08C0:63+08C1:63+08C2:63+08C3:63+08C4:63+08C5:63+08C6:63+08C7:63+08C8:63+08C9:63+08CA:63+08CB:63+08CC:63+08CD:63+08CE:63+08CF:63+08D0:63+08D1:63+08D2:63+08D3:63+08D4:63+08D5:63+08D6:63+08D7:63+08D8:63+08D9:63+08DA:63+08DB:63+08DC:63+08DD:63+08DE:63+08DF:63+08E0:63+08E1:63+08E2:63+08E3:63+08E4:63+08E5:63+08E6:63+08E7:63+08E8:63+08E9:63+08EA:63+08EB:63+08EC:63+08ED:63+08EE:63"
+cheat4_enable = false
+
+cheat5_desc = "[全道具]ON"
+cheat5_code = "08EF:63+08F0:63+08F1:63+08F2:63+08F3:63+08F4:63+08F5:63+08F6:63+08F7:63+08F8:63+08F9:63+08FA:63+08FB:63+08FC:63+08FD:63+08FE:63+08FF:63+0900:63+0901:63+0902:63+0903:63+0904:63+0905:63+0906:63+0907:63"
+cheat5_enable = false
+
+cheat6_desc = "[全精灵]ON"
+cheat6_code = "080B:00+080C:01+080D:02+082B:03+082C:04+082D:05+0848:06+0849:07+084A:08+086B:09+086C:0A+086D:0B"
+cheat6_enable = false
+
+cheat7_desc = "[第一人变换]罗宾"
+cheat7_code = "0801:00"
+cheat7_enable = false
+
+cheat8_desc = "[第一人变换]杰拉尔德"
+cheat8_code = "0801:01"
+cheat8_enable = false
+
+cheat9_desc = "[第一人变换]伊万"
+cheat9_code = "0801:02"
+cheat9_enable = false
+
+cheat10_desc = "[第一人变换]梅亚莉"
+cheat10_code = "0801:03"
+cheat10_enable = false
+
+cheat11_desc = "[第一人全魔法]ON"
+cheat11_code = "080E:00+080F:2D"
+cheat11_enable = false
+
+cheat12_desc = "[第一人等级]ON"
+cheat12_code = "0802:63"
+cheat12_enable = false
+
+cheat13_desc = "[第一人能力最强]ON"
+cheat13_code = "0803:FF+0804:FF+0816:E7+0817:03+0818:E7+0819:03"
+cheat13_enable = false
+
+cheat14_desc = "[第二人变换]罗宾"
+cheat14_code = "0821:00"
+cheat14_enable = false
+
+cheat15_desc = "[第二人变换]杰拉尔德"
+cheat15_code = "0821:01"
+cheat15_enable = false
+
+cheat16_desc = "[第二人变换]伊万"
+cheat16_code = "0821:02"
+cheat16_enable = false
+
+cheat17_desc = "[第二人变换]梅亚莉"
+cheat17_code = "0821:03"
+cheat17_enable = false
+
+cheat18_desc = "[第二人全魔法]ON"
+cheat18_code = "082E:00+082F:2D"
+cheat18_enable = false
+
+cheat19_desc = "[第二人等级]ON"
+cheat19_code = "0822:63"
+cheat19_enable = false
+
+cheat20_desc = "[第二人能力最强]ON"
+cheat20_code = "0823:FF+0824:FF+0836:E7+0837:03+0838:E7+0839:03"
+cheat20_enable = false
+
+cheat21_desc = "[第三人变换]罗宾"
+cheat21_code = "0841:00"
+cheat21_enable = false
+
+cheat22_desc = "[第三人变换]杰拉尔德"
+cheat22_code = "0841:01"
+cheat22_enable = false
+
+cheat23_desc = "[第三人变换]伊万"
+cheat23_code = "0841:02"
+cheat23_enable = false
+
+cheat24_desc = "[第三人变换]梅亚莉"
+cheat24_code = "0841:03"
+cheat24_enable = false
+
+cheat25_desc = "[第三人全魔法]ON"
+cheat25_code = "084E:00+084F:2D"
+cheat25_enable = false
+
+cheat26_desc = "[第三人等级]ON"
+cheat26_code = "0842:63"
+cheat26_enable = false
+
+cheat27_desc = "[第三人能力最强]ON"
+cheat27_code = "0843:FF+0844:FF+0856:E7+0857:03+0858:E7+0859:03"
+cheat27_enable = false
+
+cheat28_desc = "[第四人变换]罗宾"
+cheat28_code = "0861:00"
+cheat28_enable = false
+
+cheat29_desc = "[第四人变换]杰拉尔德"
+cheat29_code = "0861:01"
+cheat29_enable = false
+
+cheat30_desc = "[第四人变换]伊万"
+cheat30_code = "0861:02"
+cheat30_enable = false
+
+cheat31_desc = "[第四人变换]梅亚莉"
+cheat31_code = "0861:03"
+cheat31_enable = false
+
+cheat32_desc = "[第四人全魔法]ON"
+cheat32_code = "086E:00+086F:2D"
+cheat32_enable = false
+
+cheat33_desc = "[第四人等级]ON"
+cheat33_code = "0862:63"
+cheat33_enable = false
+
+cheat34_desc = "[第四人能力最强]ON"
+cheat34_code = "0863:FF+0864:FF+0876:E7+0877:03+0878:E7+0879:03"
+cheat34_enable = false
+

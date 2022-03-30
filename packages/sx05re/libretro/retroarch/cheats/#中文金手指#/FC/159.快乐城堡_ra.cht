@@ -1,0 +1,70 @@
+cheats = 17
+
+cheat0_desc = "[心数]ON"
+cheat0_code = "0013:63"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "0772:00"
+cheat1_enable = false
+
+cheat2_desc = "[钥匙]ON"
+cheat2_code = "0005:09+0006:09+0007:09+0008:09+0009:09+000A:09"
+cheat2_enable = false
+
+cheat3_desc = "[氧气]ON"
+cheat3_code = "000D:28"
+cheat3_enable = false
+
+cheat4_desc = "[地图]ON"
+cheat4_code = "000F:FF"
+cheat4_enable = false
+
+cheat5_desc = "[位置(可编辑:1-64)]ON"
+cheat5_code = "0037:16"
+cheat5_enable = false
+
+cheat6_desc = "[横坐标(可通过内存查看进行编辑)]中央"
+cheat6_code = "0038:90"
+cheat6_enable = false
+
+cheat7_desc = "[纵坐标(可通过内存查看进行编辑)]最下"
+cheat7_code = "003A:98"
+cheat7_enable = false
+
+cheat8_desc = "[纵坐标(可通过内存查看进行编辑)]一格"
+cheat8_code = "003A:88"
+cheat8_enable = false
+
+cheat9_desc = "[纵坐标(可通过内存查看进行编辑)]二格"
+cheat9_code = "003A:78"
+cheat9_enable = false
+
+cheat10_desc = "[纵坐标(可通过内存查看进行编辑)]三格"
+cheat10_code = "003A:68"
+cheat10_enable = false
+
+cheat11_desc = "[纵坐标(可通过内存查看进行编辑)]四格"
+cheat11_code = "003A:58"
+cheat11_enable = false
+
+cheat12_desc = "[纵坐标(可通过内存查看进行编辑)]中央"
+cheat12_code = "003A:48"
+cheat12_enable = false
+
+cheat13_desc = "[纵坐标(可通过内存查看进行编辑)]六格"
+cheat13_code = "003A:38"
+cheat13_enable = false
+
+cheat14_desc = "[纵坐标(可通过内存查看进行编辑)]七格"
+cheat14_code = "003A:28"
+cheat14_enable = false
+
+cheat15_desc = "[纵坐标(可通过内存查看进行编辑)]八格"
+cheat15_code = "003A:18"
+cheat15_enable = false
+
+cheat16_desc = "[纵坐标(可通过内存查看进行编辑)]最上"
+cheat16_code = "003A:08"
+cheat16_enable = false
+

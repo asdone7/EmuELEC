@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[无限生命]ON"
+cheat0_code = "03A0:09"
+cheat0_enable = false
+
+cheat1_desc = "[无限体力]ON"
+cheat1_code = "00A7:09"
+cheat1_enable = false
+
+cheat2_desc = "[无限时间]ON"
+cheat2_code = "0161:FF"
+cheat2_enable = false
+
+cheat3_desc = "[得到全忍术]ON"
+cheat3_code = "03B2:01+03B3:01+03B4:01+03B5:01+03B6:01+03B7:01+03B8:01+03B9:01+03BA:01+03BB:01+03BC:01+03BD:01"
+cheat3_enable = false
+

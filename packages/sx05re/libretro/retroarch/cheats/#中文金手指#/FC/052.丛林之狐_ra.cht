@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[无限体力]ON"
+cheat0_code = "00BA:00"
+cheat0_enable = false
+
+cheat1_desc = "[无限手雷]ON"
+cheat1_code = "00BD:0B"
+cheat1_enable = false
+
+cheat2_desc = "[子弹数]ON"
+cheat2_code = "00BE:DE"
+cheat2_enable = false
+

@@ -1,0 +1,678 @@
+cheats = 169
+
+cheat0_desc = "[无限金钱]ON"
+cheat0_code = "FFAE6E:30+FFAE6F:75"
+cheat0_enable = false
+
+cheat1_desc = "[第一号主角生命锁定]ON"
+cheat1_code = "FF557E:0A"
+cheat1_enable = false
+
+cheat2_desc = "[第一号主角无限移动]ON"
+cheat2_code = "FF557F:00"
+cheat2_enable = false
+
+cheat3_desc = "[第一号主角经验值]ON"
+cheat3_code = "FF5582:FF"
+cheat3_enable = false
+
+cheat4_desc = "[第一号主角等级]最高"
+cheat4_code = "FF5585:0A"
+cheat4_enable = false
+
+cheat5_desc = "[第一号主角职业]第零一种"
+cheat5_code = "FF557D:01"
+cheat5_enable = false
+
+cheat6_desc = "[第一号主角职业]第零二种"
+cheat6_code = "FF557D:02"
+cheat6_enable = false
+
+cheat7_desc = "[第一号主角职业]第零三种"
+cheat7_code = "FF557D:03"
+cheat7_enable = false
+
+cheat8_desc = "[第一号主角职业]第零四种"
+cheat8_code = "FF557D:04"
+cheat8_enable = false
+
+cheat9_desc = "[第一号主角职业]第零五种"
+cheat9_code = "FF557D:05"
+cheat9_enable = false
+
+cheat10_desc = "[第一号主角职业]第零六种"
+cheat10_code = "FF557D:06"
+cheat10_enable = false
+
+cheat11_desc = "[第一号主角职业]第零七种"
+cheat11_code = "FF557D:07"
+cheat11_enable = false
+
+cheat12_desc = "[第一号主角职业]第零八种"
+cheat12_code = "FF557D:08"
+cheat12_enable = false
+
+cheat13_desc = "[第一号主角职业]第零九种"
+cheat13_code = "FF557D:09"
+cheat13_enable = false
+
+cheat14_desc = "[第一号主角职业]第一十种"
+cheat14_code = "FF557D:0A"
+cheat14_enable = false
+
+cheat15_desc = "[第一号主角职业]第十一种"
+cheat15_code = "FF557D:0B"
+cheat15_enable = false
+
+cheat16_desc = "[第一号主角职业]第十二种"
+cheat16_code = "FF557D:0C"
+cheat16_enable = false
+
+cheat17_desc = "[第一号主角职业]第十三种"
+cheat17_code = "FF557D:0D"
+cheat17_enable = false
+
+cheat18_desc = "[第一号主角职业]第十四种"
+cheat18_code = "FF557D:0E"
+cheat18_enable = false
+
+cheat19_desc = "[第一号主角职业]第十五种"
+cheat19_code = "FF557D:0F"
+cheat19_enable = false
+
+cheat20_desc = "[第一号主角职业]第十六种"
+cheat20_code = "FF557D:10"
+cheat20_enable = false
+
+cheat21_desc = "[第一号主角职业]第十七种"
+cheat21_code = "FF557D:11"
+cheat21_enable = false
+
+cheat22_desc = "[第一号主角职业]第十八种"
+cheat22_code = "FF557D:12"
+cheat22_enable = false
+
+cheat23_desc = "[第一号主角职业]第十九种"
+cheat23_code = "FF557D:13"
+cheat23_enable = false
+
+cheat24_desc = "[第一号主角职业]第二十种"
+cheat24_code = "FF557D:14"
+cheat24_enable = false
+
+cheat25_desc = "[第一号主角职业]第二一种"
+cheat25_code = "FF557D:15"
+cheat25_enable = false
+
+cheat26_desc = "[第一号主角职业]第二二种"
+cheat26_code = "FF557D:16"
+cheat26_enable = false
+
+cheat27_desc = "[第一号主角职业]第二三种"
+cheat27_code = "FF557D:17"
+cheat27_enable = false
+
+cheat28_desc = "[第一号主角职业]第二四种"
+cheat28_code = "FF557D:18"
+cheat28_enable = false
+
+cheat29_desc = "[第一号主角职业]第二五种"
+cheat29_code = "FF557D:19"
+cheat29_enable = false
+
+cheat30_desc = "[第一号主角职业]第二六种"
+cheat30_code = "FF557D:1A"
+cheat30_enable = false
+
+cheat31_desc = "[第一号主角职业]第二七种"
+cheat31_code = "FF557D:1B"
+cheat31_enable = false
+
+cheat32_desc = "[第一号主角职业]第二八种"
+cheat32_code = "FF557D:1C"
+cheat32_enable = false
+
+cheat33_desc = "[第一号主角职业]第二九种"
+cheat33_code = "FF557D:1D"
+cheat33_enable = false
+
+cheat34_desc = "[第一号主角职业]第三○种"
+cheat34_code = "FF557D:1E"
+cheat34_enable = false
+
+cheat35_desc = "[第一号主角职业]第三一种"
+cheat35_code = "FF557D:1F"
+cheat35_enable = false
+
+cheat36_desc = "[第一号主角职业]第三二种"
+cheat36_code = "FF557D:20"
+cheat36_enable = false
+
+cheat37_desc = "[第一号主角职业]第三三种"
+cheat37_code = "FF557D:21"
+cheat37_enable = false
+
+cheat38_desc = "[第一号主角职业]第三四种"
+cheat38_code = "FF557D:22"
+cheat38_enable = false
+
+cheat39_desc = "[第一号主角职业]第三五种"
+cheat39_code = "FF557D:23"
+cheat39_enable = false
+
+cheat40_desc = "[第一号主角职业]第三六种"
+cheat40_code = "FF557D:24"
+cheat40_enable = false
+
+cheat41_desc = "[第一号主角职业]第三七种"
+cheat41_code = "FF557D:25"
+cheat41_enable = false
+
+cheat42_desc = "[第一号主角职业]第三八种"
+cheat42_code = "FF557D:26"
+cheat42_enable = false
+
+cheat43_desc = "[第一号主角职业]第三九种"
+cheat43_code = "FF557D:27"
+cheat43_enable = false
+
+cheat44_desc = "[第一号主角职业]第四○种"
+cheat44_code = "FF557D:28"
+cheat44_enable = false
+
+cheat45_desc = "[第一号主角职业]第四一种"
+cheat45_code = "FF557D:29"
+cheat45_enable = false
+
+cheat46_desc = "[第一号主角职业]第四二种"
+cheat46_code = "FF557D:2A"
+cheat46_enable = false
+
+cheat47_desc = "[第一号主角职业]第四三种"
+cheat47_code = "FF557D:2B"
+cheat47_enable = false
+
+cheat48_desc = "[第一号主角职业]第四四种"
+cheat48_code = "FF557D:2C"
+cheat48_enable = false
+
+cheat49_desc = "[第一号主角职业]第四五种"
+cheat49_code = "FF557D:2D"
+cheat49_enable = false
+
+cheat50_desc = "[第一号主角职业]第四六种"
+cheat50_code = "FF557D:2E"
+cheat50_enable = false
+
+cheat51_desc = "[第一号主角职业]第四七种"
+cheat51_code = "FF557D:2F"
+cheat51_enable = false
+
+cheat52_desc = "[第一号主角职业]第四八种"
+cheat52_code = "FF557D:30"
+cheat52_enable = false
+
+cheat53_desc = "[第一号主角职业]第四九种"
+cheat53_code = "FF557D:31"
+cheat53_enable = false
+
+cheat54_desc = "[第一号主角职业]第五○种"
+cheat54_code = "FF557D:32"
+cheat54_enable = false
+
+cheat55_desc = "[第一号主角职业]第五一种"
+cheat55_code = "FF557D:33"
+cheat55_enable = false
+
+cheat56_desc = "[第一号主角职业]第五二种"
+cheat56_code = "FF557D:34"
+cheat56_enable = false
+
+cheat57_desc = "[第一号主角职业]第五三种"
+cheat57_code = "FF557D:35"
+cheat57_enable = false
+
+cheat58_desc = "[第一号主角职业]第五四种"
+cheat58_code = "FF557D:36"
+cheat58_enable = false
+
+cheat59_desc = "[第一号主角职业]第五五种"
+cheat59_code = "FF557D:37"
+cheat59_enable = false
+
+cheat60_desc = "[第一号主角职业]第五六种"
+cheat60_code = "FF557D:38"
+cheat60_enable = false
+
+cheat61_desc = "[第一号主角职业]第五七种"
+cheat61_code = "FF557D:39"
+cheat61_enable = false
+
+cheat62_desc = "[第一号主角职业]第五八种"
+cheat62_code = "FF557D:3A"
+cheat62_enable = false
+
+cheat63_desc = "[第一号主角职业]第五九种"
+cheat63_code = "FF557D:3B"
+cheat63_enable = false
+
+cheat64_desc = "[第一号主角职业]第六○种"
+cheat64_code = "FF557D:3C"
+cheat64_enable = false
+
+cheat65_desc = "[第一号主角职业]第六一种"
+cheat65_code = "FF557D:3D"
+cheat65_enable = false
+
+cheat66_desc = "[第一号主角职业]第六二种"
+cheat66_code = "FF557D:3E"
+cheat66_enable = false
+
+cheat67_desc = "[第一号主角职业]第六三种"
+cheat67_code = "FF557D:3F"
+cheat67_enable = false
+
+cheat68_desc = "[第一号主角职业]第六四种"
+cheat68_code = "FF557D:40"
+cheat68_enable = false
+
+cheat69_desc = "[第一号主角职业]第六五种"
+cheat69_code = "FF557D:41"
+cheat69_enable = false
+
+cheat70_desc = "[第一号主角职业]第六六种"
+cheat70_code = "FF557D:42"
+cheat70_enable = false
+
+cheat71_desc = "[第一号主角职业]第六七种"
+cheat71_code = "FF557D:43"
+cheat71_enable = false
+
+cheat72_desc = "[第一号主角职业]第六八种"
+cheat72_code = "FF557D:44"
+cheat72_enable = false
+
+cheat73_desc = "[第一号主角职业]第六九种"
+cheat73_code = "FF557D:45"
+cheat73_enable = false
+
+cheat74_desc = "[第一号主角职业]第七○种"
+cheat74_code = "FF557D:46"
+cheat74_enable = false
+
+cheat75_desc = "[第一号主角职业]第七一种"
+cheat75_code = "FF557D:47"
+cheat75_enable = false
+
+cheat76_desc = "[第一号主角职业]第七二种"
+cheat76_code = "FF557D:48"
+cheat76_enable = false
+
+cheat77_desc = "[第二号主角生命锁定]ON"
+cheat77_code = "FF558E:0A"
+cheat77_enable = false
+
+cheat78_desc = "[第二号主角无限移动]ON"
+cheat78_code = "FF558F:00"
+cheat78_enable = false
+
+cheat79_desc = "[第二号主角经验值]ON"
+cheat79_code = "FF5592:FF"
+cheat79_enable = false
+
+cheat80_desc = "[第二号主角等级]最高"
+cheat80_code = "FF5595:0A"
+cheat80_enable = false
+
+cheat81_desc = "[第一号主角职业]第零一种"
+cheat81_code = "FF558D:01"
+cheat81_enable = false
+
+cheat82_desc = "[第一号主角职业]第零二种"
+cheat82_code = "FF558D:02"
+cheat82_enable = false
+
+cheat83_desc = "[第一号主角职业]第零三种"
+cheat83_code = "FF558D:03"
+cheat83_enable = false
+
+cheat84_desc = "[第一号主角职业]第零四种"
+cheat84_code = "FF558D:04"
+cheat84_enable = false
+
+cheat85_desc = "[第一号主角职业]第零五种"
+cheat85_code = "FF558D:05"
+cheat85_enable = false
+
+cheat86_desc = "[第一号主角职业]第零六种"
+cheat86_code = "FF558D:06"
+cheat86_enable = false
+
+cheat87_desc = "[第一号主角职业]第零七种"
+cheat87_code = "FF558D:07"
+cheat87_enable = false
+
+cheat88_desc = "[第一号主角职业]第零八种"
+cheat88_code = "FF558D:08"
+cheat88_enable = false
+
+cheat89_desc = "[第一号主角职业]第零九种"
+cheat89_code = "FF558D:09"
+cheat89_enable = false
+
+cheat90_desc = "[第一号主角职业]第一十种"
+cheat90_code = "FF558D:0A"
+cheat90_enable = false
+
+cheat91_desc = "[第一号主角职业]第十一种"
+cheat91_code = "FF558D:0B"
+cheat91_enable = false
+
+cheat92_desc = "[第一号主角职业]第十二种"
+cheat92_code = "FF558D:0C"
+cheat92_enable = false
+
+cheat93_desc = "[第一号主角职业]第十三种"
+cheat93_code = "FF558D:0D"
+cheat93_enable = false
+
+cheat94_desc = "[第一号主角职业]第十四种"
+cheat94_code = "FF558D:0E"
+cheat94_enable = false
+
+cheat95_desc = "[第一号主角职业]第十五种"
+cheat95_code = "FF558D:0F"
+cheat95_enable = false
+
+cheat96_desc = "[第一号主角职业]第十六种"
+cheat96_code = "FF558D:10"
+cheat96_enable = false
+
+cheat97_desc = "[第一号主角职业]第十七种"
+cheat97_code = "FF558D:11"
+cheat97_enable = false
+
+cheat98_desc = "[第一号主角职业]第十八种"
+cheat98_code = "FF558D:12"
+cheat98_enable = false
+
+cheat99_desc = "[第一号主角职业]第十九种"
+cheat99_code = "FF558D:13"
+cheat99_enable = false
+
+cheat100_desc = "[第一号主角职业]第二十种"
+cheat100_code = "FF558D:14"
+cheat100_enable = false
+
+cheat101_desc = "[第一号主角职业]第二一种"
+cheat101_code = "FF558D:15"
+cheat101_enable = false
+
+cheat102_desc = "[第一号主角职业]第二二种"
+cheat102_code = "FF558D:16"
+cheat102_enable = false
+
+cheat103_desc = "[第一号主角职业]第二三种"
+cheat103_code = "FF558D:17"
+cheat103_enable = false
+
+cheat104_desc = "[第一号主角职业]第二四种"
+cheat104_code = "FF558D:18"
+cheat104_enable = false
+
+cheat105_desc = "[第一号主角职业]第二五种"
+cheat105_code = "FF558D:19"
+cheat105_enable = false
+
+cheat106_desc = "[第一号主角职业]第二六种"
+cheat106_code = "FF558D:1A"
+cheat106_enable = false
+
+cheat107_desc = "[第一号主角职业]第二七种"
+cheat107_code = "FF558D:1B"
+cheat107_enable = false
+
+cheat108_desc = "[第一号主角职业]第二八种"
+cheat108_code = "FF558D:1C"
+cheat108_enable = false
+
+cheat109_desc = "[第一号主角职业]第二九种"
+cheat109_code = "FF558D:1D"
+cheat109_enable = false
+
+cheat110_desc = "[第一号主角职业]第三○种"
+cheat110_code = "FF558D:1E"
+cheat110_enable = false
+
+cheat111_desc = "[第一号主角职业]第三一种"
+cheat111_code = "FF558D:1F"
+cheat111_enable = false
+
+cheat112_desc = "[第一号主角职业]第三二种"
+cheat112_code = "FF558D:20"
+cheat112_enable = false
+
+cheat113_desc = "[第一号主角职业]第三三种"
+cheat113_code = "FF558D:21"
+cheat113_enable = false
+
+cheat114_desc = "[第一号主角职业]第三四种"
+cheat114_code = "FF558D:22"
+cheat114_enable = false
+
+cheat115_desc = "[第一号主角职业]第三五种"
+cheat115_code = "FF558D:23"
+cheat115_enable = false
+
+cheat116_desc = "[第一号主角职业]第三六种"
+cheat116_code = "FF558D:24"
+cheat116_enable = false
+
+cheat117_desc = "[第一号主角职业]第三七种"
+cheat117_code = "FF558D:25"
+cheat117_enable = false
+
+cheat118_desc = "[第一号主角职业]第三八种"
+cheat118_code = "FF558D:26"
+cheat118_enable = false
+
+cheat119_desc = "[第一号主角职业]第三九种"
+cheat119_code = "FF558D:27"
+cheat119_enable = false
+
+cheat120_desc = "[第一号主角职业]第四○种"
+cheat120_code = "FF558D:28"
+cheat120_enable = false
+
+cheat121_desc = "[第一号主角职业]第四一种"
+cheat121_code = "FF558D:29"
+cheat121_enable = false
+
+cheat122_desc = "[第一号主角职业]第四二种"
+cheat122_code = "FF558D:2A"
+cheat122_enable = false
+
+cheat123_desc = "[第一号主角职业]第四三种"
+cheat123_code = "FF558D:2B"
+cheat123_enable = false
+
+cheat124_desc = "[第一号主角职业]第四四种"
+cheat124_code = "FF558D:2C"
+cheat124_enable = false
+
+cheat125_desc = "[第一号主角职业]第四五种"
+cheat125_code = "FF558D:2D"
+cheat125_enable = false
+
+cheat126_desc = "[第一号主角职业]第四六种"
+cheat126_code = "FF558D:2E"
+cheat126_enable = false
+
+cheat127_desc = "[第一号主角职业]第四七种"
+cheat127_code = "FF558D:2F"
+cheat127_enable = false
+
+cheat128_desc = "[第一号主角职业]第四八种"
+cheat128_code = "FF558D:30"
+cheat128_enable = false
+
+cheat129_desc = "[第一号主角职业]第四九种"
+cheat129_code = "FF558D:31"
+cheat129_enable = false
+
+cheat130_desc = "[第一号主角职业]第五○种"
+cheat130_code = "FF558D:32"
+cheat130_enable = false
+
+cheat131_desc = "[第一号主角职业]第五一种"
+cheat131_code = "FF558D:33"
+cheat131_enable = false
+
+cheat132_desc = "[第一号主角职业]第五二种"
+cheat132_code = "FF558D:34"
+cheat132_enable = false
+
+cheat133_desc = "[第一号主角职业]第五三种"
+cheat133_code = "FF558D:35"
+cheat133_enable = false
+
+cheat134_desc = "[第一号主角职业]第五四种"
+cheat134_code = "FF558D:36"
+cheat134_enable = false
+
+cheat135_desc = "[第一号主角职业]第五五种"
+cheat135_code = "FF558D:37"
+cheat135_enable = false
+
+cheat136_desc = "[第一号主角职业]第五六种"
+cheat136_code = "FF558D:38"
+cheat136_enable = false
+
+cheat137_desc = "[第一号主角职业]第五七种"
+cheat137_code = "FF558D:39"
+cheat137_enable = false
+
+cheat138_desc = "[第一号主角职业]第五八种"
+cheat138_code = "FF558D:3A"
+cheat138_enable = false
+
+cheat139_desc = "[第一号主角职业]第五九种"
+cheat139_code = "FF558D:3B"
+cheat139_enable = false
+
+cheat140_desc = "[第一号主角职业]第六○种"
+cheat140_code = "FF558D:3C"
+cheat140_enable = false
+
+cheat141_desc = "[第一号主角职业]第六一种"
+cheat141_code = "FF558D:3D"
+cheat141_enable = false
+
+cheat142_desc = "[第一号主角职业]第六二种"
+cheat142_code = "FF558D:3E"
+cheat142_enable = false
+
+cheat143_desc = "[第一号主角职业]第六三种"
+cheat143_code = "FF558D:3F"
+cheat143_enable = false
+
+cheat144_desc = "[第一号主角职业]第六四种"
+cheat144_code = "FF558D:40"
+cheat144_enable = false
+
+cheat145_desc = "[第一号主角职业]第六五种"
+cheat145_code = "FF558D:41"
+cheat145_enable = false
+
+cheat146_desc = "[第一号主角职业]第六六种"
+cheat146_code = "FF558D:42"
+cheat146_enable = false
+
+cheat147_desc = "[第一号主角职业]第六七种"
+cheat147_code = "FF558D:43"
+cheat147_enable = false
+
+cheat148_desc = "[第一号主角职业]第六八种"
+cheat148_code = "FF558D:44"
+cheat148_enable = false
+
+cheat149_desc = "[第一号主角职业]第六九种"
+cheat149_code = "FF558D:45"
+cheat149_enable = false
+
+cheat150_desc = "[第一号主角职业]第七○种"
+cheat150_code = "FF558D:46"
+cheat150_enable = false
+
+cheat151_desc = "[第一号主角职业]第七一种"
+cheat151_code = "FF558D:47"
+cheat151_enable = false
+
+cheat152_desc = "[第一号主角职业]第七二种"
+cheat152_code = "FF558D:48"
+cheat152_enable = false
+
+cheat153_desc = "[第三号主角生命锁定]ON"
+cheat153_code = "FF559E:0A"
+cheat153_enable = false
+
+cheat154_desc = "[第三号主角无限移动]ON"
+cheat154_code = "FF559F:00"
+cheat154_enable = false
+
+cheat155_desc = "[第三号主角经验值]ON"
+cheat155_code = "FF55A2:FF"
+cheat155_enable = false
+
+cheat156_desc = "[第三号主角等级]最高"
+cheat156_code = "FF55A5:0A"
+cheat156_enable = false
+
+cheat157_desc = "[第四号主角生命锁定]ON"
+cheat157_code = "FF55AE:0A"
+cheat157_enable = false
+
+cheat158_desc = "[第四号主角无限移动]ON"
+cheat158_code = "FF55AF:00"
+cheat158_enable = false
+
+cheat159_desc = "[第四号主角经验值]ON"
+cheat159_code = "FF55B2:FF"
+cheat159_enable = false
+
+cheat160_desc = "[第四号主角等级]最高"
+cheat160_code = "FF55B5:0A"
+cheat160_enable = false
+
+cheat161_desc = "[第五号主角生命锁定]ON"
+cheat161_code = "FF55BE:0A"
+cheat161_enable = false
+
+cheat162_desc = "[第五号主角无限移动]ON"
+cheat162_code = "FF55BF:00"
+cheat162_enable = false
+
+cheat163_desc = "[第五号主角经验值]ON"
+cheat163_code = "FF55C2:FF"
+cheat163_enable = false
+
+cheat164_desc = "[第五号主角等级]最高"
+cheat164_code = "FF55C5:0A"
+cheat164_enable = false
+
+cheat165_desc = "[第六号主角生命锁定]ON"
+cheat165_code = "FF55CE:0A"
+cheat165_enable = false
+
+cheat166_desc = "[第六号主角无限移动]ON"
+cheat166_code = "FF55CF:00"
+cheat166_enable = false
+
+cheat167_desc = "[第六号主角经验值]ON"
+cheat167_code = "FF55D2:FF"
+cheat167_enable = false
+
+cheat168_desc = "[第六号主角等级]最高"
+cheat168_code = "FF55D5:0A"
+cheat168_enable = false
+

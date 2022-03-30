@@ -1,0 +1,55 @@
+cheats = 13
+
+cheat0_desc = "#无限HP主要角色"
+cheat0_code = "8019AC78 0C80"
+cheat0_enable = false
+
+cheat1_desc = "#Infinite HP 2nd character（Gundam CCA-Amuro Rai）"
+cheat1_code = "8019AB6A 0D48"
+cheat1_enable = false
+
+cheat2_desc = "#无限HP第3个角色（GUNDAM NT-1）"
+cheat2_code = "8019AC3C 0C1C"
+cheat2_enable = false
+
+cheat3_desc = "#无限HP第4个角色（GUNDAM MK II）"
+cheat3_code = "8019ABA6 0CE4"
+cheat3_enable = false
+
+cheat4_desc = "#无限HP第5个角色"
+cheat4_code = "80199C00 0C80"
+cheat4_enable = false
+
+cheat5_desc = "#无限HP第6个角色（高达01FB）"
+cheat5_code = "8019ABE2 0C80"
+cheat5_enable = false
+
+cheat6_desc = "#快速升级"
+cheat6_code = "8019A558 0000+8019A564 0000+8019A570 0000+8019A57C 0000+8019A588 0000+8019A594 0000+8019A5A0 0000+8019A5AC 0000+8019A5B8 0000+8019A5C4 0000+8019A5D0 0000+8019A5DC 0000+8019A5E8 0000+8019A5F4 0000+8019A600 0000+8019A60C 0000+8019A618 0000+8019A624 0000+8019A630 0000+8019A63C 0000+8019A648 0000"
+cheat6_enable = false
+
+cheat7_desc = "#无限金钱"
+cheat7_code = "8019BA6A 967F+8019BA6C 0098"
+cheat7_enable = false
+
+cheat8_desc = "#99级输入经验值"
+cheat8_code = "8007BFEC 0063+8007C038 0063+8007BFE0 0001+8007C028 0001+8007C08A 1000"
+cheat8_enable = false
+
+cheat9_desc = "#HP不降低"
+cheat9_code = "80095A80 2800+80095A82 0800+80095A84 0000+80095A86 0000+8000A000 0002+8000A002 9046+8000A004 0001+8000A006 2407+8000A008 0003+8000A00A 10C7+8000A010 0016+8000A012 A443+8000A014 8014+8000A016 3C02+8000A018 56A2+8000A01A 0802"
+cheat9_enable = false
+
+cheat10_desc = "#100％字符字典"
+cheat10_code = "50001702 0000+80147678 FFFF"
+cheat10_enable = false
+
+cheat11_desc = "#100％机器人百科全书"
+cheat11_code = "50001502 0000+801476B8 FFFF"
+cheat11_enable = false
+
+cheat12_desc = "#Demo选择完全打开"
+cheat12_code = "801476F2 8000+801476F4 EC33+801476F6 7072"
+cheat12_enable = false
+
+

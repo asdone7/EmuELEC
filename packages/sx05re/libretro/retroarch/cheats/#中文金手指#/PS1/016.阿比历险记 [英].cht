@@ -1,0 +1,43 @@
+cheats = 10
+
+cheat0_desc = "#有99个逃生通道"
+cheat0_code = "80082170 0063"
+cheat0_enable = false
+
+cheat1_desc = "#零伤亡"
+cheat1_code = "8008216E 0000"
+cheat1_enable = false
+
+cheat2_desc = "#即时接管"
+cheat2_code = "8008213C FFFF"
+cheat2_enable = false
+
+cheat3_desc = "#Bullet Probe Abe该代码可让您在开始念诵的那一刻接管警卫队，没有任何延迟。同样，通过此代码，您在进入鸟类门户网站时也可以关闭游戏鲨鱼。通过门户发送逃生者后，请重新打开鲨鱼。"
+cheat3_code = "D0028868 00F4+80028868 0000"
+cheat3_enable = false
+
+cheat4_desc = "#无敌"
+cheat4_code = "80082186 0001"
+cheat4_enable = false
+
+cheat5_desc = "#拥有99个Escapes版本1.1"
+cheat5_code = "80082240 0063"
+cheat5_enable = false
+
+cheat6_desc = "#零伤亡1.1版"
+cheat6_code = "8008223E 0000"
+cheat6_enable = false
+
+cheat7_desc = "#即时接管1.1版"
+cheat7_code = "8008220C FFFF"
+cheat7_enable = false
+
+cheat8_desc = "#无敌1.1版"
+cheat8_code = "80082256 0001"
+cheat8_enable = false
+
+cheat9_desc = "#Press L1 + Triangle在现场保存Mudokons"
+cheat9_code = "8004DED8 1D80+8004DEDA 0C00+80007600 0000+80007602 80A2+80007604 004B+80007606 3403+80007608 0007+8000760A 1443+8000760C 00F4+8000760E 80A2+80007610 0004+80007612 3403+80007614 0004+80007616 1443+80007618 0001+8000761A 3403+8000761C 00AC+8000761E ACA3+80007620 002C+80007622 3403+80007624 00F4+80007626 A0A3+80007628 000℃+8000762A 8CA2+8000762C 0014+8000762E 8C42+80007630 0008+80007632 03E0"
+cheat9_enable = false
+
+

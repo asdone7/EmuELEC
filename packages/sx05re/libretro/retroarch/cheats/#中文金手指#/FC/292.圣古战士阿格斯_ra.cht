@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[体力值]ON"
+cheat0_code = "00CA:18+00CB:18"
+cheat0_enable = false
+
+cheat1_desc = "[腕力]ON"
+cheat1_code = "00C6:FF+00C7:0F"
+cheat1_enable = false
+
+cheat2_desc = "[胸力]ON"
+cheat2_code = "00C8:FF+00C9:0F"
+cheat2_enable = false
+
+cheat3_desc = "[精神力]ON"
+cheat3_code = "00C3:09"
+cheat3_enable = false
+
+cheat4_desc = "[所有道具]ON"
+cheat4_code = "00C0:E0+00C1:E0"
+cheat4_enable = false
+

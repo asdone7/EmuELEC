@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[主角HP全满]ON"
+cheat0_code = "0085:20+0086:20"
+cheat0_enable = false
+
+cheat1_desc = "[拾到一个水果加一格血]ON"
+cheat1_code = "0087:08"
+cheat1_enable = false
+
+cheat2_desc = "[得到所有道具]ON"
+cheat2_code = "009C:FF+009D:FF+009E:FF+009F:FF"
+cheat2_enable = false
+

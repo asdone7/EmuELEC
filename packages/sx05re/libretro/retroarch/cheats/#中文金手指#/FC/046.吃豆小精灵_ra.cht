@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[生命数]ON"
+cheat0_code = "0067:06"
+cheat0_enable = false
+
+cheat1_desc = "[无敌(过关花絮时请解锁)]ON"
+cheat1_code = "0088:0F"
+cheat1_enable = false
+

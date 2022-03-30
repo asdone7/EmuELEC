@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[体力值]ON"
+cheat0_code = "06EB:10"
+cheat0_enable = false
+
+cheat1_desc = "[钥匙数]ON"
+cheat1_code = "06ED:09"
+cheat1_enable = false
+
+cheat2_desc = "[BOSS体力值]MIN"
+cheat2_code = "05FD:00"
+cheat2_enable = false
+

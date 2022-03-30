@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[机体数]ON"
+cheat0_code = "0050:09"
+cheat0_enable = false
+
+cheat1_desc = "[战机升级]超级战机"
+cheat1_code = "00A1:01"
+cheat1_enable = false
+
+cheat2_desc = "[战机升级]微型战机"
+cheat2_code = "00A1:02"
+cheat2_enable = false
+

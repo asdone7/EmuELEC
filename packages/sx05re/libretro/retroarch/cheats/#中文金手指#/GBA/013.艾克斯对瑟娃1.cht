@@ -1,0 +1,19 @@
+cheats = 4
+
+cheat0_desc = "生命 MAX"
+cheat0_code = "020369DE 00000064"
+cheat0_enable = false
+
+cheat1_desc = "避弹衣 MAX"
+cheat1_code = "020369E0 00000064"
+cheat1_enable = false
+
+cheat2_desc = "子弹数 100"
+cheat2_code = "020369FE 00000064+02036A08 00000064"
+cheat2_enable = false
+
+cheat3_desc = "子弹盒数 100"
+cheat3_code = "02036A16 00000064+02036A20 00000064"
+cheat3_enable = false
+
+

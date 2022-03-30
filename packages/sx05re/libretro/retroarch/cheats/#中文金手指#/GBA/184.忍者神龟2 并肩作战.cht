@@ -1,0 +1,47 @@
+cheats = 11
+
+cheat0_desc = "生命 OM"
+cheat0_code = "020407B5 00000048"
+cheat0_enable = false
+
+cheat1_desc = "隐身"
+cheat1_code = "0204090A 00000048"
+cheat1_enable = false
+
+cheat2_desc = "敌人一击死"
+cheat2_code = "02041314 00000000"
+cheat2_enable = false
+
+cheat3_desc = "全水晶"
+cheat3_code = "02043BF8 00000064+02043BFE 00000064+02043C04 00000064+02043C0A 00000064"
+cheat3_enable = false
+
+cheat4_desc = "剧情关卡全开"
+cheat4_code = "02002DB8 000000FF+02002DB9 000000FF"
+cheat4_enable = false
+
+cheat5_desc = "竞赛关卡全开"
+cheat5_code = "02002F18 000000FF+02002F19 000000FF+02002F1A 000000FF"
+cheat5_enable = false
+
+cheat6_desc = "战斗关卡全开"
+cheat6_code = "02002DE4 000000FF+02002DE5 000000FF+02002DE6 000000FF"
+cheat6_enable = false
+
+cheat7_desc = "选人 LED"
+cheat7_code = "02043CA0 00000000"
+cheat7_enable = false
+
+cheat8_desc = "选人 RAPH"
+cheat8_code = "02043CA0 00000001"
+cheat8_enable = false
+
+cheat9_desc = "选人 DON"
+cheat9_code = "02043CA0 00000002"
+cheat9_enable = false
+
+cheat10_desc = "选人 MIKEY"
+cheat10_code = "02043CA0 00000003"
+cheat10_enable = false
+
+

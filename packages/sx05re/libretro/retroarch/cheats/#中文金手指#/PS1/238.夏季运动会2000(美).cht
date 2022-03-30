@@ -1,0 +1,23 @@
+cheats = 5
+
+cheat0_desc = "#Arcade模式事件始终解锁"
+cheat0_code = "800A6DF4 0000"
+cheat0_enable = false
+
+cheat1_desc = "#Arcade Mode P1 Max Score T"
+cheat1_code = "800A699C FFFF"
+cheat1_enable = false
+
+cheat2_desc = "#Hammer投掷P1始终投掷最大距离"
+cheat2_code = "800C8DC8 967F+800C8DCA 0098+800C8DE4 0001"
+cheat2_enable = false
+
+cheat3_desc = "#跳远P1总是首先尝试"
+cheat3_code = "D00A6828 0001+800A6828 0000"
+cheat3_enable = false
+
+cheat4_desc = "#P1首次尝试的最大体重"
+cheat4_code = "800C4964 967F+800C4966 0098"
+cheat4_enable = false
+
+

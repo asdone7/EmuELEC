@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[无限生命]ON"
+cheat0_code = "0485:09+0487:09"
+cheat0_enable = false
+
+cheat1_desc = "[双枪]ON"
+cheat1_code = "0079:01"
+cheat1_enable = false
+

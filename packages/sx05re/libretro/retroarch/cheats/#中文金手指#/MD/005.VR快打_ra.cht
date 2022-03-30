@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[时间不减]ON"
+cheat0_code = "FF842B:30"
+cheat0_enable = false
+

@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[自己体力不减]ON"
+cheat0_code = "0590:B0"
+cheat0_enable = false
+
+cheat1_desc = "[敌人垂死]ON"
+cheat1_code = "0591:00"
+cheat1_enable = false
+
+cheat2_desc = "[只打一回]ON"
+cheat2_code = "0649:02"
+cheat2_enable = false
+

@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "时间"
+cheat0_code = "02039110 00000058+02039111 00000002"
+cheat0_enable = false
+
+cheat1_desc = "速度"
+cheat1_code = "02040C9C 000000A3+02040C9D 000000A3"
+cheat1_enable = false
+
+cheat2_desc = "车辆耐久度"
+cheat2_code = "02039134 0000000F"
+cheat2_enable = false
+
+

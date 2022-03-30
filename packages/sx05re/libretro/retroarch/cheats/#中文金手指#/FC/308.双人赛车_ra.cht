@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[无限点数]ON"
+cheat0_code = "0404:10"
+cheat0_enable = false
+
+cheat1_desc = "[无限加速]ON"
+cheat1_code = "00DB:3F"
+cheat1_enable = false
+
+cheat2_desc = "[速度最快]ON"
+cheat2_code = "0510:10"
+cheat2_enable = false
+
+cheat3_desc = "[无限时间]ON"
+cheat3_code = "0042:09+0043:09+0044:09"
+cheat3_enable = false
+
+cheat4_desc = "[最后一圈]ON"
+cheat4_code = "00DC:02"
+cheat4_enable = false
+
+cheat5_desc = "[快速恢复]ON"
+cheat5_code = "0500:80+0505:86"
+cheat5_enable = false
+

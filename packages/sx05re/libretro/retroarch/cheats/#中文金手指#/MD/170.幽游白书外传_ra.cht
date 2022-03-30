@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[当前使用角色体力]ON"
+cheat0_code = "FF4AC0:0F+FF4AC1:27+FF5920:0F+FF5921:27"
+cheat0_enable = false
+
+cheat1_desc = "[当前使用角色体力]ON"
+cheat1_code = "FF4AC2:0F+FF4AC3:27+FF5922:0F+FF5923:27"
+cheat1_enable = false
+

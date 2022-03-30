@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#解锁所有内容（字符和曲目）"
+cheat0_code = "50000302 0000+8008E6EC FFFF"
+cheat0_enable = false
+
+cheat1_desc = "#冻结所有定时比赛中的时钟/防止上电使用上电"
+cheat1_code = "80098830 0000"
+cheat1_enable = false
+
+cheat2_desc = "#获得所有奖项"
+cheat2_code = "8008FBA4 FFFF+8008FBA6 FFFF+8008FBA8 FFFF+8008FBAA FFFF+8008FBAC FFFF+8008FBAE FFFF+8008FBB0 FFFF+8008FBB2 FFFF"
+cheat2_enable = false
+
+cheat3_desc = "#使用Nitros Oxide Player 1（。选择角色后按L2。对于玩家1在VS模式下可能根本无法使用。对于Adventure模式，请在进入传送门/挑战之前按L1。在返回地图前按L2。冻结一些曲目。？是您要在“冒险模式”地图中显示的角色。）"
+cheat3_code = "D0096AD6 FEFF+80086E84 000F+D0096AD6 FBFF+80086E84 000？"
+cheat3_enable = false
+
+cheat4_desc = "#参加一场比赛后快速完成冒险模式"
+cheat4_code = "50000D02 0000+8008FF58 FFFF"
+cheat4_enable = false
+
+cheat5_desc = "#无限时间"
+cheat5_code = "80035416 3C00"
+cheat5_enable = false
+
+

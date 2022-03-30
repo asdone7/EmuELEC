@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[生命数锁定]ON"
+cheat0_code = "7E030609"
+cheat0_enable = false
+
+cheat1_desc = "[血格锁定]ON"
+cheat1_code = "7E052263"
+cheat1_enable = false
+
+cheat2_desc = "[能量值锁定]ON"
+cheat2_code = "7E031D00"
+cheat2_enable = false
+
+cheat3_desc = "[武器弹药值锁定]ON"
+cheat3_code = "7E031163+7E031363+7E031563+7E031763"
+cheat3_enable = false
+

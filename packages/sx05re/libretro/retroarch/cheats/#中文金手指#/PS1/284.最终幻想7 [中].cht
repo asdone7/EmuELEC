@@ -1,0 +1,275 @@
+cheats = 68
+
+cheat0_desc = "#无限金钱"
+cheat0_code = "8009C8B0 E0FF+8009C8B2 05F5"
+cheat0_enable = false
+
+cheat1_desc = "#无限Gp和Bp"
+cheat1_code = "8009CA22 2710+8009CA28 FDE8"
+cheat1_enable = false
+
+cheat2_desc = "#保存到任何地方"
+cheat2_code = "8009C8F6 0000+80023AFA 3C04"
+cheat2_enable = false
+
+cheat3_desc = "#Total Time = 00“ 00” 00"
+cheat3_code = "80011634 0000+1次战斗后#Max Exp+8009CE2A 0FFF"
+cheat3_enable = false
+
+cheat4_desc = "#最大战斗后的Ap"
+cheat4_code = "8009CE2E 0FFF"
+cheat4_enable = false
+
+cheat5_desc = "#战后，Hp和Mp自动恢复"
+cheat5_code = "800201FC BDC0+80020220 BDC2"
+cheat5_enable = false
+
+cheat6_desc = "#她死后使用Aerith"
+cheat6_code = "3009C22E 0003"
+cheat6_enable = false
+
+cheat7_desc = "#使用邪恶"
+cheat7_code = "3009C22E 000A"
+cheat7_enable = false
+
+cheat8_desc = "#彩虹攻击7777"
+cheat8_code = "8009CEAC 1E61+8009CEAE 1E61+8009D2EC 1E61+8009D2EE 1E61+8009D72C 1E61+8009D72E 1E61"
+cheat8_enable = false
+
+cheat9_desc = "#在战斗中，所有成员的MP都为9999"
+cheat9_code = "8009CEB0 270F+8009CEB2 270F+8009D2F0 270F+8009D2F2 270F+8009D730 270F+8009D732 270F"
+cheat9_enable = false
+
+cheat10_desc = "#Cloud \\攻击"
+cheat10_code = "3009BD89 0063"
+cheat10_enable = false
+
+cheat11_desc = "#Cloud \\ Speed"
+cheat11_code = "3009BD8A 00FF"
+cheat11_enable = false
+
+cheat12_desc = "#Cloud \\ Health"
+cheat12_code = "3009BD8B 00FF"
+cheat12_enable = false
+
+cheat13_desc = "#Cloud \\ Magic"
+cheat13_code = "3009BD8C 00FF"
+cheat13_enable = false
+
+cheat14_desc = "#Cloud \\浓度"
+cheat14_code = "3009BD8D 00FF"
+cheat14_enable = false
+
+cheat15_desc = "#Cloud \\ Lucky"
+cheat15_code = "8009BD8E FFFF"
+cheat15_enable = false
+
+cheat16_desc = "#Cloud \\可以使用所有限制攻击"
+cheat16_code = "8009BDAA 02DB"
+cheat16_enable = false
+
+cheat17_desc = "#Cloud \\ Infinite Hp"
+cheat17_code = "8009BDB4 270F"
+cheat17_enable = false
+
+cheat18_desc = "#Cloud \\ Max Hp"
+cheat18_code = "8009BDB6 270F"
+cheat18_enable = false
+
+cheat19_desc = "#Cloud \\ Infinite Mp"
+cheat19_code = "8009BDB8 03E7"
+cheat19_enable = false
+
+cheat20_desc = "#Cloud \\ Max Mp"
+cheat20_code = "8009BDBA 03E7"
+cheat20_enable = false
+
+cheat21_desc = "#Cloud \\ Max Exp"
+cheat21_code = "8009BDC4 C9FF+8009BDC6 3B9A"
+cheat21_enable = false
+
+cheat22_desc = "#Barett \\ Attack"
+cheat22_code = "3009BE0D 0063"
+cheat22_enable = false
+
+cheat23_desc = "#Barett \\ Speed"
+cheat23_code = "3009BE0E 00FF"
+cheat23_enable = false
+
+cheat24_desc = "#Barett \\ Health"
+cheat24_code = "3009BE0F 00FF"
+cheat24_enable = false
+
+cheat25_desc = "#巴雷特\\魔术"
+cheat25_code = "3009BE10 00FF"
+cheat25_enable = false
+
+cheat26_desc = "#Barett \\浓度"
+cheat26_code = "3009BE11 00FF"
+cheat26_enable = false
+
+cheat27_desc = "#Barett \\ Lucky"
+cheat27_code = "8009BE12 FFFF"
+cheat27_enable = false
+
+cheat28_desc = "#Barett \\可以使用所有限制攻击"
+cheat28_code = "8009BE2E 02DB"
+cheat28_enable = false
+
+cheat29_desc = "#Barett \\ Infinite Hp"
+cheat29_code = "8009BE38 270F"
+cheat29_enable = false
+
+cheat30_desc = "#Barett \\ Max Hp"
+cheat30_code = "8009BE3A 270F"
+cheat30_enable = false
+
+cheat31_desc = "#Barett \\ Infinite Mp"
+cheat31_code = "8009BE3C 03E7"
+cheat31_enable = false
+
+cheat32_desc = "#Barett \\ Max Mp"
+cheat32_code = "8009BE3E 03E7"
+cheat32_enable = false
+
+cheat33_desc = "#Barett \\ Max Exp"
+cheat33_code = "8009BE48 C9FF+8009BE4A 3B9A"
+cheat33_enable = false
+
+cheat34_desc = "#Tifa \\攻击"
+cheat34_code = "3009BE91 0063"
+cheat34_enable = false
+
+cheat35_desc = "#Tifa \\ Speed"
+cheat35_code = "3009BE92 00FF"
+cheat35_enable = false
+
+cheat36_desc = "#Tifa \\ Health"
+cheat36_code = "3009BE93 00FF"
+cheat36_enable = false
+
+cheat37_desc = "#Tifa \\ Magic"
+cheat37_code = "3009BE94 00FF"
+cheat37_enable = false
+
+cheat38_desc = "#Tifa \\浓度"
+cheat38_code = "3009BE95 00FF"
+cheat38_enable = false
+
+cheat39_desc = "#Tifa \\ Lucky"
+cheat39_code = "8009BE96 FFFF"
+cheat39_enable = false
+
+cheat40_desc = "#Tifa \\可以使用所有限制攻击"
+cheat40_code = "8009BEB2 02DB"
+cheat40_enable = false
+
+cheat41_desc = "#Tifa \\无限Hp"
+cheat41_code = "8009BEBC 270F"
+cheat41_enable = false
+
+cheat42_desc = "#Tifa \\ Max Hp"
+cheat42_code = "8009BEBE 270F"
+cheat42_enable = false
+
+cheat43_desc = "#Tifa \\ Infinite Mp"
+cheat43_code = "8009BEC0 03E7"
+cheat43_enable = false
+
+cheat44_desc = "#Tifa \\ Max Mp"
+cheat44_code = "8009BEC2 03E7"
+cheat44_enable = false
+
+cheat45_desc = "#Tifa \\ Max Exp"
+cheat45_code = "8009BECC C9FF+8009BECE 3B9A"
+cheat45_enable = false
+
+cheat46_desc = "#Aerith \\ Attack"
+cheat46_code = "3009BF15 0063"
+cheat46_enable = false
+
+cheat47_desc = "#Aerith \\ Speed"
+cheat47_code = "3009BF16 00FF"
+cheat47_enable = false
+
+cheat48_desc = "#Aerith \\ Health"
+cheat48_code = "3009BF17 00FF"
+cheat48_enable = false
+
+cheat49_desc = "#Aerith \\ Magic"
+cheat49_code = "3009BF18 00FF"
+cheat49_enable = false
+
+cheat50_desc = "#Aerith \\浓度"
+cheat50_code = "3009BF19 00FF"
+cheat50_enable = false
+
+cheat51_desc = "#Aerith \\ Lucky"
+cheat51_code = "8009BF1A FFFF"
+cheat51_enable = false
+
+cheat52_desc = "#Aerith \\可以使用所有限制攻击"
+cheat52_code = "8009BF36 02DB"
+cheat52_enable = false
+
+cheat53_desc = "#Aerith \\ Infinite Hp"
+cheat53_code = "8009BF40 270F"
+cheat53_enable = false
+
+cheat54_desc = "#Aerith \\ Max Hp"
+cheat54_code = "8009BF42 270F"
+cheat54_enable = false
+
+cheat55_desc = "#Aerith \\ Infinite Mp"
+cheat55_code = "8009BF44 03E7"
+cheat55_enable = false
+
+cheat56_desc = "#Aerith \\ Max Mp"
+cheat56_code = "8009BF46 03E7"
+cheat56_enable = false
+
+cheat57_desc = "#Aerith \\ Max Exp"
+cheat57_code = "8009BF50 C9FF+8009BF52 3B9A"
+cheat57_enable = false
+
+cheat58_desc = "上面提到的#Aerith \\ Red XIII Max状态"
+cheat58_code = "3009BF99 0063+3009BF9A 00FF+3009BF9B 00FF+3009BF9C 00FF+3009BF9D 00FF+8009BF9E FFFF+8009BFBA 02DB+8009BFC4 270F+8009BFC6 270F+8009BFC8 03E7+8009BFCA 03E7+8009BFD4 C9FF+8009BFD6 3B9A"
+cheat58_enable = false
+
+cheat59_desc = "#Aerith \\ Yuffie Max状态如上所述"
+cheat59_code = "3009C01D 0063+3009C01E 00FF+3009C01F 00FF+3009C020 00FF+3009C021 00FF+8009C022 FFFF+8009C03E 02DB+8009C048 270F+8009C04A 270F+8009C04C 03E7+8009C04E 03E7+8009C058 C9FF+8009C05A 3B9A"
+cheat59_enable = false
+
+cheat60_desc = "#Aerith \\ Cait Sith最大状态如上所述"
+cheat60_code = "3009C0A1 0063+3009C0A2 00FF+3009C0A3 00FF+3009C0A4 00FF+3009C0A5 00FF+8009C0A6 FFFF+8009C0C2 02DB+8009C0CC 270F+8009C0CE 270F+8009C0D0 03E7+8009C0D2 03E7+8009C0DC C9FF+8009C0DE 3B9A"
+cheat60_enable = false
+
+cheat61_desc = "如上所述的#Aerith \\ Vincent最大状态"
+cheat61_code = "3009C125 0063+3009C126 00FF+3009C127 00FF+3009C128 00FF+3009C129 00FF+8009C12A FFFF+8009C146 02DB+8009C150 270F+8009C152 270F+8009C154 03E7+8009C156 03E7+8009C160 C9FF+8009C162 3B9A"
+cheat61_enable = false
+
+cheat62_desc = "如上所述的#Aerith \\ Cid最大状态"
+cheat62_code = "3009C1A9 0063+3009C1AA 00FF+3009C1AB 00FF+3009C1AC 00FF+3009C1AD 00FF+8009C1AE FFFF+8009C1CA 02DB+8009C1D4 270F+8009C1D6 270F+8009C1D8 03E7+8009C1DA 03E7+8009C1E4 C9FF+8009C1E6 3B9A"
+cheat62_enable = false
+
+cheat63_desc = "#Aerith \\ Max战斗中的特殊攻击条"
+cheat63_code = "D000E2FC FFFF+300F6264 00FF+D000E2FC FFFF+300F6298 00FF+D000E2FC FFFF+300F62CC 00FF"
+cheat63_enable = false
+
+cheat64_desc = "#Aerith \\ Invincivle时间更长"
+cheat64_code = "D00F87DE 0000+800F87DE 0103+D00F8846 0000+800F8846 0103+D00F88AE 0000+800F88AE 0103"
+cheat64_enable = false
+
+cheat65_desc = "#Aerith \\所有重要项目"
+cheat65_code = "8009C918 FFFF+8009C91A FFFF+8009C91C FFFF+8009C91E 0007"
+cheat65_enable = false
+
+cheat66_desc = "#调试室（按L1 + L2 + R1 + R2）"
+cheat66_code = "D009A2AC 000F+3009A245 0001+D009A2AC 000F+8009A246 0041"
+cheat66_enable = false
+
+cheat67_desc = "#秘密菜单Uso（按R2）"
+cheat67_code = "D0062BC8 0002+80099722 0A00+8009C8F4 FFFF"
+cheat67_enable = false
+
+

@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[道具]皮鞭"
+cheat0_code = "FF6038:01"
+cheat0_enable = false
+
+cheat1_desc = "[道具]铁锹"
+cheat1_code = "FF6038:02"
+cheat1_enable = false
+
+cheat2_desc = "[1P半透明]ON"
+cheat2_code = "FF6014:00"
+cheat2_enable = false
+
+cheat3_desc = "[1P无限体力]ON"
+cheat3_code = "FF6000:5E+FF6001:01"
+cheat3_enable = false
+
+cheat4_desc = "[1P无限生命]ON"
+cheat4_code = "FF6039:09"
+cheat4_enable = false
+
+cheat5_desc = "[2P无限体力]ON"
+cheat5_code = "FF6040:64"
+cheat5_enable = false
+
+cheat6_desc = "[2P无限生命]ON"
+cheat6_code = "FF6079:09"
+cheat6_enable = false
+

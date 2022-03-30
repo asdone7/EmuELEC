@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[1P命] OK"
+cheat0_code = "7E1AAC10 "
+cheat0_enable = false
+
+cheat1_desc = "[1PHP] OK"
+cheat1_code = "7E1AAB99 "
+cheat1_enable = false
+
+cheat2_desc = "[d] OK"
+cheat2_code = "7E1ABB09 "
+cheat2_enable = false
+

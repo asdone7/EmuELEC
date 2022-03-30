@@ -1,0 +1,79 @@
+cheats = 19
+
+cheat0_desc = "#无限瓶氯仿"
+cheat0_code = "300A7313 0009"
+cheat0_enable = false
+
+cheat1_desc = "#无限氧气"
+cheat1_code = "800A71FE 0708"
+cheat1_enable = false
+
+cheat2_desc = "#Level访问菜单在显示“新游戏”的标题屏幕上按L1 + L2。按下三角形按钮将返回“新游戏”。"
+cheat2_code = "D00A603A F5FF+800A2826 0002"
+cheat2_enable = false
+
+cheat3_desc = "#Cutscene访问菜单"
+cheat3_code = "D00A603A FAFF+800A2822 0002"
+cheat3_enable = false
+
+cheat4_desc = "#无限健康（所有级别）"
+cheat4_code = "80007600 3AA4+80007602 8C21+80007604 03E8+80007606 3402+80007608 AAA4+8000760A 0801+8000760C 0022+8000760E A422+D006A7CC BB42+8006A7C8 1D80+D006A7CC BB42+8006A7CA 0C00"
+cheat4_enable = false
+
+cheat5_desc = "#无限大Medipacks"
+cheat5_code = "800A732C FFFF"
+cheat5_enable = false
+
+cheat6_desc = "#Infinite Health Collessum"
+cheat6_code = "801BB992 03E8"
+cheat6_enable = false
+
+cheat7_desc = "#无限健康Deapsea潜水"
+cheat7_code = "80184CC2 03E8"
+cheat7_enable = false
+
+cheat8_desc = "#虹膜无限逃生"
+cheat8_code = "801CC196 03E8"
+cheat8_enable = false
+
+cheat9_desc = "#无限健康绞架树"
+cheat9_code = "801C3A56 03E8"
+cheat9_enable = false
+
+cheat10_desc = "#无限健康迷宫"
+cheat10_code = "801D2BE6 03E8"
+cheat10_enable = false
+
+cheat11_desc = "#无限健康红色警报和安全漏洞"
+cheat11_code = "801C4D7E 03E8"
+cheat11_enable = false
+
+cheat12_desc = "#Infinite Health Sinkinig潜水艇"
+cheat12_code = "801D8B6E 03E8"
+cheat12_enable = false
+
+cheat13_desc = "#罗马无限健康街"
+cheat13_code = "801CB7B2 03E8"
+cheat13_enable = false
+
+cheat14_desc = "#无限健康13楼"
+cheat14_code = "801CDE22 03E8"
+cheat14_enable = false
+
+cheat15_desc = "#无限健康的基础"
+cheat15_code = "801D2FFE 03E8"
+cheat15_enable = false
+
+cheat16_desc = "#无限健康老磨坊"
+cheat16_code = "801C7E2A 03E8"
+cheat16_enable = false
+
+cheat17_desc = "#无限健康潜艇"
+cheat17_code = "801D3152 03E8"
+cheat17_enable = false
+
+cheat18_desc = "#Infinite Health Trajans市场"
+cheat18_code = "801D2126 03E8"
+cheat18_enable = false
+
+

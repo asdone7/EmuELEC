@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#Infinites让玩家1完成等级后停用"
+cheat0_code = "801F7E20 0009"
+cheat0_enable = false
+
+cheat1_desc = "#无限炸弹玩家1完成等级1后停用"
+cheat1_code = "801F7EC4 0009"
+cheat1_enable = false
+
+cheat2_desc = "#Infinites使玩家2完全完成1级后停用"
+cheat2_code = "801F7FD4 0009"
+cheat2_enable = false
+
+cheat3_desc = "#无限炸弹玩家2完成等级1后停用"
+cheat3_code = "801F8078 0009"
+cheat3_enable = false
+
+cheat4_desc = "#Infinites让玩家1生存-其余关卡"
+cheat4_code = "801EAB0C 0063"
+cheat4_enable = false
+
+cheat5_desc = "#Infinites生活玩家2-其余级别"
+cheat5_code = "801EACC0 0063"
+cheat5_enable = false
+
+

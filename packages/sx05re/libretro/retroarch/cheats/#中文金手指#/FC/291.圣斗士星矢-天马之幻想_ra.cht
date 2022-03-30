@@ -1,0 +1,362 @@
+cheats = 90
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "278F:FF+2790:FF"
+cheat0_enable = false
+
+cheat1_desc = "[七感]ON"
+cheat1_code = "278D:FF+278E:FF"
+cheat1_enable = false
+
+cheat2_desc = "[能力点数]ON"
+cheat2_code = "270F:63+2723:63+2737:63"
+cheat2_enable = false
+
+cheat3_desc = "[遇敌率调整]不遇敌"
+cheat3_code = "00C4:00"
+cheat3_enable = false
+
+cheat4_desc = "[遇敌率调整]步步遇敌"
+cheat4_code = "00C4:FF"
+cheat4_enable = false
+
+cheat5_desc = "[全道具]ON"
+cheat5_code = "2798:63+2799:63+279A:63+279B:63+279C:63+279D:63+279E:63+279F:63+27A0:63+27A1:63+27A2:63+27A3:63+27A4:63+27A5:63"
+cheat5_enable = false
+
+cheat6_desc = "[全图签]ON"
+cheat6_code = "27C8:FF+27C9:FF+27CA:FF+27CB:FF+27CC:FF+27CD:FF+27CE:FF+27CF:FF+27D0:FF+27D1:FF+27D2:FF+27D3:FF"
+cheat6_enable = false
+
+cheat7_desc = "[第一人能力最强]ON"
+cheat7_code = "2704:E7+2705:03+2706:E7+2707:03+2708:E7+2709:03+270A:E7+270B:03+270C:E7+270D:03"
+cheat7_enable = false
+
+cheat8_desc = "[第一人变更]星矢"
+cheat8_code = "2700:01+2701:01+2702:33+2703:34"
+cheat8_enable = false
+
+cheat9_desc = "[第一人变更]紫龙"
+cheat9_code = "2700:02+2701:02+2702:35+2703:36"
+cheat9_enable = false
+
+cheat10_desc = "[第一人变更]冰河"
+cheat10_code = "2700:03+2701:03+2702:37+2703:38"
+cheat10_enable = false
+
+cheat11_desc = "[第一人变更]瞬"
+cheat11_code = "2700:04+2701:04+2702:39+2703:3A"
+cheat11_enable = false
+
+cheat12_desc = "[第一人变更]一辉"
+cheat12_code = "2700:05+2701:05+2702:3B"
+cheat12_enable = false
+
+cheat13_desc = "[第一人变更]卡西欧"
+cheat13_code = "2700:28+2701:28"
+cheat13_enable = false
+
+cheat14_desc = "[第一人变更]莎尔拉"
+cheat14_code = "2700:2E+2701:2E"
+cheat14_enable = false
+
+cheat15_desc = "[第一人变更]黄金圣衣星矢"
+cheat15_code = "2700:2F+2701:2F"
+cheat15_enable = false
+
+cheat16_desc = "[第一人变更]暗黑天马"
+cheat16_code = "2700:06+2701:06"
+cheat16_enable = false
+
+cheat17_desc = "[第一人变更]暗黑天龙"
+cheat17_code = "2700:07+2701:07"
+cheat17_enable = false
+
+cheat18_desc = "[第一人变更]暗黑白鸟"
+cheat18_code = "2700:08+2701:08"
+cheat18_enable = false
+
+cheat19_desc = "[第一人变更]暗黑仙女"
+cheat19_code = "2700:09+2701:09"
+cheat19_enable = false
+
+cheat20_desc = "[第一人变更]暗黑凤凰"
+cheat20_code = "2700:0A+2701:0A"
+cheat20_enable = false
+
+cheat21_desc = "[第一人变更]魔玲"
+cheat21_code = "2700:0B+2701:0B"
+cheat21_enable = false
+
+cheat22_desc = "[第一人变更]美狄斯"
+cheat22_code = "2700:0C+2701:0C"
+cheat22_enable = false
+
+cheat23_desc = "[第一人变更]巴比伦"
+cheat23_code = "2700:0D+2701:0D"
+cheat23_enable = false
+
+cheat24_desc = "[第一人变更]达狄"
+cheat24_code = "2700:0E+2701:0E"
+cheat24_enable = false
+
+cheat25_desc = "[第一人变更]亚狄里安"
+cheat25_code = "2700:0F+2701:0F"
+cheat25_enable = false
+
+cheat26_desc = "[第一人变更]亚鲁哥"
+cheat26_code = "2700:10+2701:10"
+cheat26_enable = false
+
+cheat27_desc = "[第一人变更]摩西斯"
+cheat27_code = "2700:12+2701:12"
+cheat27_enable = false
+
+cheat28_desc = "[第一人变更]多雷米"
+cheat28_code = "2700:13+2701:13"
+cheat28_enable = false
+
+cheat29_desc = "[第一人变更]穆"
+cheat29_code = "2700:14+2701:14"
+cheat29_enable = false
+
+cheat30_desc = "[第一人变更]艾欧里亚"
+cheat30_code = "2700:18+2701:18"
+cheat30_enable = false
+
+cheat31_desc = "[第一人变更]斗士"
+cheat31_code = "2700:30+2701:30"
+cheat31_enable = false
+
+cheat32_desc = "[第一人变更]圣衣"
+cheat32_code = "2700:31+2701:31"
+cheat32_enable = false
+
+cheat33_desc = "[第一人变更]鬼魂"
+cheat33_code = "2700:32+2701:32"
+cheat33_enable = false
+
+cheat34_desc = "[第二人能力最强]ON"
+cheat34_code = "2718:E7+2719:03+271A:E7+271B:03+271C:E7+271D:03+271E:E7+271F:03+2720:E7+2721:03"
+cheat34_enable = false
+
+cheat35_desc = "[第二人变更]星矢"
+cheat35_code = "2714:01+2715:01+2716:33+2717:34"
+cheat35_enable = false
+
+cheat36_desc = "[第二人变更]紫龙"
+cheat36_code = "2714:02+2715:02+2716:35+2717:36"
+cheat36_enable = false
+
+cheat37_desc = "[第二人变更]冰河"
+cheat37_code = "2714:03+2715:03+2716:37+2717:38"
+cheat37_enable = false
+
+cheat38_desc = "[第二人变更]瞬"
+cheat38_code = "2714:04+2715:04+2716:39+2717:3A"
+cheat38_enable = false
+
+cheat39_desc = "[第二人变更]一辉"
+cheat39_code = "2714:05+2715:05+2716:3B"
+cheat39_enable = false
+
+cheat40_desc = "[第二人变更]卡西欧"
+cheat40_code = "2714:28+2715:28"
+cheat40_enable = false
+
+cheat41_desc = "[第二人变更]莎尔拉"
+cheat41_code = "2714:2E+2715:2E"
+cheat41_enable = false
+
+cheat42_desc = "[第二人变更]黄金圣衣星矢"
+cheat42_code = "2714:2F+2715:2F"
+cheat42_enable = false
+
+cheat43_desc = "[第二人变更]暗黑天马"
+cheat43_code = "2714:06+2715:06"
+cheat43_enable = false
+
+cheat44_desc = "[第二人变更]暗黑天龙"
+cheat44_code = "2714:07+2715:07"
+cheat44_enable = false
+
+cheat45_desc = "[第二人变更]暗黑白鸟"
+cheat45_code = "2714:08+2715:08"
+cheat45_enable = false
+
+cheat46_desc = "[第二人变更]暗黑仙女"
+cheat46_code = "2714:09+2715:09"
+cheat46_enable = false
+
+cheat47_desc = "[第二人变更]暗黑凤凰"
+cheat47_code = "2714:0A+2715:0A"
+cheat47_enable = false
+
+cheat48_desc = "[第二人变更]魔玲"
+cheat48_code = "2714:0B+2715:0B"
+cheat48_enable = false
+
+cheat49_desc = "[第二人变更]美狄斯"
+cheat49_code = "2714:0C+2715:0C"
+cheat49_enable = false
+
+cheat50_desc = "[第二人变更]巴比伦"
+cheat50_code = "2714:0D+2715:0D"
+cheat50_enable = false
+
+cheat51_desc = "[第二人变更]达狄"
+cheat51_code = "2714:0E+2715:0E"
+cheat51_enable = false
+
+cheat52_desc = "[第二人变更]亚狄里安"
+cheat52_code = "2714:0F+2715:0F"
+cheat52_enable = false
+
+cheat53_desc = "[第二人变更]亚鲁哥"
+cheat53_code = "2714:10+2715:10"
+cheat53_enable = false
+
+cheat54_desc = "[第二人变更]摩西斯"
+cheat54_code = "2714:12+2715:12"
+cheat54_enable = false
+
+cheat55_desc = "[第二人变更]多雷米"
+cheat55_code = "2714:13+2715:13"
+cheat55_enable = false
+
+cheat56_desc = "[第二人变更]穆"
+cheat56_code = "2714:14+2715:14"
+cheat56_enable = false
+
+cheat57_desc = "[第二人变更]艾欧里亚"
+cheat57_code = "2714:18+2715:18"
+cheat57_enable = false
+
+cheat58_desc = "[第二人变更]斗士"
+cheat58_code = "2714:30+2715:30"
+cheat58_enable = false
+
+cheat59_desc = "[第二人变更]圣衣"
+cheat59_code = "2714:31+2715:31"
+cheat59_enable = false
+
+cheat60_desc = "[第二人变更]鬼魂"
+cheat60_code = "2714:32+2715:32"
+cheat60_enable = false
+
+cheat61_desc = "[第三人能力最强]ON"
+cheat61_code = "272C:E7+272D:03+272E:E7+272F:03+2730:E7+2731:03+2732:E7+2733:03+2734:E7+2735:03"
+cheat61_enable = false
+
+cheat62_desc = "[第三人变更]星矢"
+cheat62_code = "2728:01+2729:01+272A:33+272B:34"
+cheat62_enable = false
+
+cheat63_desc = "[第三人变更]紫龙"
+cheat63_code = "2728:02+2729:02+272A:35+272B:36"
+cheat63_enable = false
+
+cheat64_desc = "[第三人变更]冰河"
+cheat64_code = "2728:03+2729:03+272A:37+272B:38"
+cheat64_enable = false
+
+cheat65_desc = "[第三人变更]瞬"
+cheat65_code = "2728:04+2729:04+272A:39+272B:3A"
+cheat65_enable = false
+
+cheat66_desc = "[第三人变更]一辉"
+cheat66_code = "2728:05+2729:05+272A:3B"
+cheat66_enable = false
+
+cheat67_desc = "[第三人变更]卡西欧"
+cheat67_code = "2728:28+2729:28"
+cheat67_enable = false
+
+cheat68_desc = "[第三人变更]莎尔拉"
+cheat68_code = "2728:2E+2729:2E"
+cheat68_enable = false
+
+cheat69_desc = "[第三人变更]黄金圣衣星矢"
+cheat69_code = "2728:2F+2729:2F"
+cheat69_enable = false
+
+cheat70_desc = "[第三人变更]暗黑天马"
+cheat70_code = "2728:06+2729:06"
+cheat70_enable = false
+
+cheat71_desc = "[第三人变更]暗黑天龙"
+cheat71_code = "2728:07+2729:07"
+cheat71_enable = false
+
+cheat72_desc = "[第三人变更]暗黑白鸟"
+cheat72_code = "2728:08+2729:08"
+cheat72_enable = false
+
+cheat73_desc = "[第三人变更]暗黑仙女"
+cheat73_code = "2728:09+2729:09"
+cheat73_enable = false
+
+cheat74_desc = "[第三人变更]暗黑凤凰"
+cheat74_code = "2728:0A+2729:0A"
+cheat74_enable = false
+
+cheat75_desc = "[第三人变更]魔玲"
+cheat75_code = "2728:0B+2729:0B"
+cheat75_enable = false
+
+cheat76_desc = "[第三人变更]美狄斯"
+cheat76_code = "2728:0C+2729:0C"
+cheat76_enable = false
+
+cheat77_desc = "[第三人变更]巴比伦"
+cheat77_code = "2728:0D+2729:0D"
+cheat77_enable = false
+
+cheat78_desc = "[第三人变更]达狄"
+cheat78_code = "2728:0E+2729:0E"
+cheat78_enable = false
+
+cheat79_desc = "[第三人变更]亚狄里安"
+cheat79_code = "2728:0F+2729:0F"
+cheat79_enable = false
+
+cheat80_desc = "[第三人变更]亚鲁哥"
+cheat80_code = "2728:10+2729:10"
+cheat80_enable = false
+
+cheat81_desc = "[第三人变更]摩西斯"
+cheat81_code = "2728:12+2729:12"
+cheat81_enable = false
+
+cheat82_desc = "[第三人变更]多雷米"
+cheat82_code = "2728:13+2729:13"
+cheat82_enable = false
+
+cheat83_desc = "[第三人变更]穆"
+cheat83_code = "2728:14+2729:14"
+cheat83_enable = false
+
+cheat84_desc = "[第三人变更]艾欧里亚"
+cheat84_code = "2728:18+2729:18"
+cheat84_enable = false
+
+cheat85_desc = "[第三人变更]斗士"
+cheat85_code = "2728:30+2729:30"
+cheat85_enable = false
+
+cheat86_desc = "[第三人变更]圣衣"
+cheat86_code = "2728:31+2729:31"
+cheat86_enable = false
+
+cheat87_desc = "[第三人变更]鬼魂"
+cheat87_code = "2728:32+2729:32"
+cheat87_enable = false
+
+cheat88_desc = "[战斗无敌]ON"
+cheat88_code = "2710:E7+2711:03+2712:E7+2713:03+2724:E7+2725:03+2726:E7+2727:03+2738:E7+2739:03+273A:E7+273B:03"
+cheat88_enable = false
+
+cheat89_desc = "[我方即死]ON"
+cheat89_code = "2710:00+2711:00"
+cheat89_enable = false
+

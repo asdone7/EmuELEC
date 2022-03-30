@@ -1,0 +1,55 @@
+cheats = 13
+
+cheat0_desc = "#公鸡\\无限时间"
+cheat0_code = "8009931C 0257"
+cheat0_enable = false
+
+cheat1_desc = "#公鸡\\ P1无敌"
+cheat1_code = "300992D0 00FF"
+cheat1_enable = false
+
+cheat2_desc = "#Roosters \\ P1无限生命"
+cheat2_code = "300992CC 0009"
+cheat2_enable = false
+
+cheat3_desc = "#Roosters \\ P1无限之心"
+cheat3_code = "300992C4 0063"
+cheat3_enable = false
+
+cheat4_desc = "#公鸡\\ P2无敌"
+cheat4_code = "300992D2 00FF"
+cheat4_enable = false
+
+cheat5_desc = "#Roosters \\ P2无限生命"
+cheat5_code = "300992CE 0009"
+cheat5_enable = false
+
+cheat6_desc = "#Roosters \\ P2无限之心"
+cheat6_code = "300992C6 0063"
+cheat6_enable = false
+
+cheat7_desc = "#战车\\ P1无敌"
+cheat7_code = "300886B0 00FF"
+cheat7_enable = false
+
+cheat8_desc = "#战车\\ P1无限生命"
+cheat8_code = "300886AC 0009"
+cheat8_enable = false
+
+cheat9_desc = "#战车\\ P2无敌"
+cheat9_code = "300886B2 00FF"
+cheat9_enable = false
+
+cheat10_desc = "#战车\\ P2无限生命"
+cheat10_code = "300886AE 0009"
+cheat10_enable = false
+
+cheat11_desc = "#Don“ t Pull \\ P1无限生命"
+cheat11_code = "300D00B7 0063"
+cheat11_enable = false
+
+cheat12_desc = "#Don“ t Pull \\ P2无限生命"
+cheat12_code = "300D00B8 0063"
+cheat12_enable = false
+
+

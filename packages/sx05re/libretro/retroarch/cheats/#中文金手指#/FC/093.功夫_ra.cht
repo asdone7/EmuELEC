@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[敌直接投降（奖励关需解锁）]ON"
+cheat0_code = "0073:63"
+cheat0_enable = false
+

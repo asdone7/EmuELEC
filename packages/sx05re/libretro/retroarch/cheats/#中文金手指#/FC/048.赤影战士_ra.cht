@@ -1,0 +1,66 @@
+cheats = 16
+
+cheat0_desc = "[P1 生命值]ON"
+cheat0_code = "06F0:10"
+cheat0_enable = false
+
+cheat1_desc = "[P1 暗器数量]ON"
+cheat1_code = "0662:FF"
+cheat1_enable = false
+
+cheat2_desc = "[P1 武器种类]刀"
+cheat2_code = "06B2:00"
+cheat2_enable = false
+
+cheat3_desc = "[P1 武器种类]ON"
+cheat3_code = "06B2:03"
+cheat3_enable = false
+
+cheat4_desc = "[P1 武器威力]ON"
+cheat4_code = "0680:FF"
+cheat4_enable = false
+
+cheat5_desc = "[P1 暗器种类]标"
+cheat5_code = "0671:00"
+cheat5_enable = false
+
+cheat6_desc = "[P1 暗器种类]雷"
+cheat6_code = "0671:01"
+cheat6_enable = false
+
+cheat7_desc = "[P1 隐身]ON"
+cheat7_code = "0601:4C"
+cheat7_enable = false
+
+cheat8_desc = "[P2 生命值]ON"
+cheat8_code = "06F4:10"
+cheat8_enable = false
+
+cheat9_desc = "[P2 暗器数量]ON"
+cheat9_code = "0666:FF"
+cheat9_enable = false
+
+cheat10_desc = "[P2 武器种类]刀"
+cheat10_code = "06B6:00"
+cheat10_enable = false
+
+cheat11_desc = "[P2 武器种类]ON"
+cheat11_code = "06B6:03"
+cheat11_enable = false
+
+cheat12_desc = "[P2 武器威力]ON"
+cheat12_code = "0684:FF"
+cheat12_enable = false
+
+cheat13_desc = "[P2 暗器种类]标"
+cheat13_code = "0675:00"
+cheat13_enable = false
+
+cheat14_desc = "[P2 暗器种类]雷"
+cheat14_code = "0675:01"
+cheat14_enable = false
+
+cheat15_desc = "[P2 隐身]ON"
+cheat15_code = "0605:4C"
+cheat15_enable = false
+

@@ -1,0 +1,50 @@
+cheats = 12
+
+cheat0_desc = "[MERLIN体力值]ON"
+cheat0_code = "0609:63"
+cheat0_enable = false
+
+cheat1_desc = "[MERLIN魔法值]ON"
+cheat1_code = "060A:63"
+cheat1_enable = false
+
+cheat2_desc = "[ROCHE体力值]ON"
+cheat2_code = "0649:63"
+cheat2_enable = false
+
+cheat3_desc = "[IAGO体力值]ON"
+cheat3_code = "0669:63"
+cheat3_enable = false
+
+cheat4_desc = "[IAGO魔法值]ON"
+cheat4_code = "066A:63"
+cheat4_enable = false
+
+cheat5_desc = "[OMBRE体力值]ON"
+cheat5_code = "0629:63"
+cheat5_enable = false
+
+cheat6_desc = "[敌人1体力为0]ON"
+cheat6_code = "0684:00"
+cheat6_enable = false
+
+cheat7_desc = "[敌人2体力为0]ON"
+cheat7_code = "0694:00"
+cheat7_enable = false
+
+cheat8_desc = "[敌人3体力为0]ON"
+cheat8_code = "06A4:00"
+cheat8_enable = false
+
+cheat9_desc = "[敌人4体力为0]ON"
+cheat9_code = "06B4:00"
+cheat9_enable = false
+
+cheat10_desc = "[敌人5体力为0]ON"
+cheat10_code = "06C4:00"
+cheat10_enable = false
+
+cheat11_desc = "[敌人6体力为0]ON"
+cheat11_code = "06E4:00"
+cheat11_enable = false
+

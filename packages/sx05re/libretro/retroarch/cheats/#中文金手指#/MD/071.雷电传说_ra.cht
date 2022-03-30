@@ -1,0 +1,34 @@
+cheats = 8
+
+cheat0_desc = "[飞机数]ON"
+cheat0_code = "FFE9D8:07"
+cheat0_enable = false
+
+cheat1_desc = "[炸弹]ON"
+cheat1_code = "FFE9EA:07"
+cheat1_enable = false
+
+cheat2_desc = "[枪种类和等级]散弹枪"
+cheat2_code = "FFE9A7:00+FFE9E2:07+FFE9E4:00"
+cheat2_enable = false
+
+cheat3_desc = "[枪种类和等级]激光枪"
+cheat3_code = "FFE9A7:0C+FFE9E2:00+FFE9E4:07"
+cheat3_enable = false
+
+cheat4_desc = "[导弹种类和等级]火箭炮"
+cheat4_code = "FFE9E6:03+FFE9E8:00"
+cheat4_enable = false
+
+cheat5_desc = "[导弹种类和等级]跟踪导弹"
+cheat5_code = "FF"
+cheat5_enable = false
+
+cheat6_desc = "[隐身时间]ON"
+cheat6_code = "FFC432:FF"
+cheat6_enable = false
+
+cheat7_desc = "[积分]ON"
+cheat7_code = "FFC0E6:FF+FFC0E7:FF"
+cheat7_enable = false
+

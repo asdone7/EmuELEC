@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[红色无敌(关底需关闭)]ON"
+cheat0_code = "0083:00+00A6:00+00A8:01+00E2:2E"
+cheat0_enable = false
+
+cheat1_desc = "[能量全满]ON"
+cheat1_code = "00DD:14"
+cheat1_enable = false
+
+cheat2_desc = "[牌力最强]ON"
+cheat2_code = "00CD:49"
+cheat2_enable = false
+

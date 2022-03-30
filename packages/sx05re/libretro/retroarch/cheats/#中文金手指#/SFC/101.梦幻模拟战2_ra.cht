@@ -1,0 +1,90 @@
+cheats = 22
+
+cheat0_desc = "[金钱最多] ON"
+cheat0_code = "7E1CDDFF+7E1CDEFF "
+cheat0_enable = false
+
+cheat1_desc = "[艾尔文无限移动] ON"
+cheat1_code = "7EB00200 "
+cheat1_enable = false
+
+cheat2_desc = "[艾尔文生命值] ON"
+cheat2_code = "7EB0030A "
+cheat2_enable = false
+
+cheat3_desc = "[艾尔文经验值] ON"
+cheat3_code = "7EB02FFF "
+cheat3_enable = false
+
+cheat4_desc = "[艾尔文级别] 一级"
+cheat4_code = "7EB02E01 "
+cheat4_enable = false
+
+cheat5_desc = "[艾尔文级别] 十级"
+cheat5_code = "7EB02E0A "
+cheat5_enable = false
+
+cheat6_desc = "[艾尔文攻、防、魔法值] ON"
+cheat6_code = "7EB03863+7EB03963+7EB03A63+7EB03B63 "
+cheat6_enable = false
+
+cheat7_desc = "[艾尔文其他能力值] ON"
+cheat7_code = "7EB04420+7EB04520+7EB04620+7EB04720 "
+cheat7_enable = false
+
+cheat8_desc = "[艾尔文拥有所有魔法] ON"
+cheat8_code = "7EB050FF+7EB051FF+7EB052FF+7EB053FF "
+cheat8_enable = false
+
+cheat9_desc = "[海恩无限移动] ON"
+cheat9_code = "7EB06200 "
+cheat9_enable = false
+
+cheat10_desc = "[海恩生命值] ON"
+cheat10_code = "7EB0630A "
+cheat10_enable = false
+
+cheat11_desc = "[海恩经验] ON"
+cheat11_code = "7EB08FFF "
+cheat11_enable = false
+
+cheat12_desc = "[海恩等级] 一级"
+cheat12_code = "7EB08E01 "
+cheat12_enable = false
+
+cheat13_desc = "[海恩等级] 十级"
+cheat13_code = "7EB08E0A "
+cheat13_enable = false
+
+cheat14_desc = "[海恩攻、防、魔法值] ON"
+cheat14_code = "7EB09863+7EB09963+7EB09A63+7EB09B63 "
+cheat14_enable = false
+
+cheat15_desc = "[海恩其他能力值] ON"
+cheat15_code = "7EB0A420+7EB0A520+7EB0A620+7EB0A720 "
+cheat15_enable = false
+
+cheat16_desc = "[海恩拥有所有魔法] ON"
+cheat16_code = "7EB0B0FF+7EB0B1FF+7EB0B2FF+7EB0B3FF"
+cheat16_enable = false
+
+cheat17_desc = "[主角 MP] ON"
+cheat17_code = "7EB0381E "
+cheat17_enable = false
+
+cheat18_desc = "[主角行动无限] ON"
+cheat18_code = "7EB00200 "
+cheat18_enable = false
+
+cheat19_desc = "[主角A+7E] ON"
+cheat19_code = "7EB04614 "
+cheat19_enable = false
+
+cheat20_desc = "[主角D+7E] ON"
+cheat20_code = "7EB0471E "
+cheat20_enable = false
+
+cheat21_desc = "[主角 MV] ON"
+cheat21_code = "7EB04428 "
+cheat21_enable = false
+

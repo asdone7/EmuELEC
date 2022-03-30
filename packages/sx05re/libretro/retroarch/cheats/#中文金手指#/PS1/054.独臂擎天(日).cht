@@ -1,0 +1,47 @@
+cheats = 11
+
+cheat0_desc = "#无限的生命"
+cheat0_code = "8008109C 0003"
+cheat0_enable = false
+
+cheat1_desc = "#无敌"
+cheat1_code = "800853F0 001D"
+cheat1_enable = false
+
+cheat2_desc = "#无限特殊武器弹药"
+cheat2_code = "8008450A 000F+8008450C 000F"
+cheat2_enable = false
+
+cheat3_desc = "#Infinite顶级豆荚弹药2"
+cheat3_code = "8008465A 000F"
+cheat3_enable = false
+
+cheat4_desc = "#拥有未知的I型战斗机"
+cheat4_code = "D0083B04 0010+8008110C 0003"
+cheat4_enable = false
+
+cheat5_desc = "#拥有II型未知战斗机"
+cheat5_code = "D0083B04 0010+8008110C 0004"
+cheat5_enable = false
+
+cheat6_desc = "#启用所有级别的级别选择"
+cheat6_code = "800AC5CE 0001+80085638 FFFF"
+cheat6_enable = false
+
+cheat7_desc = "#无敌替代"
+cheat7_code = "800853A4 0000+800AAAE4 0000+800AAAE5 0000"
+cheat7_enable = false
+
+cheat8_desc = "#所有飞机可用"
+cheat8_code = "801FD524 1183"
+cheat8_enable = false
+
+cheat9_desc = "#一开始可以选择所有武器"
+cheat9_code = "801FD526 0FFF"
+cheat9_enable = false
+
+cheat10_desc = "#GALLERY完全开放"
+cheat10_code = "800ABDF0 0001+801FEC98 007F+801FEC9C 0FFF+801FEC9E 001F"
+cheat10_enable = false
+
+

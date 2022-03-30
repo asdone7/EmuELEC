@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[体力最大,不减少(过关请解锁)]ON"
+cheat0_code = "0078:63"
+cheat0_enable = false
+

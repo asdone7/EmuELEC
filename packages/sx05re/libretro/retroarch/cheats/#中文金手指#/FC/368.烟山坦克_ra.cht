@@ -1,0 +1,50 @@
+cheats = 12
+
+cheat0_desc = "[1P 生命]无限"
+cheat0_code = "0051:63"
+cheat0_enable = false
+
+cheat1_desc = "[1P 保护]无限"
+cheat1_code = "0089:03"
+cheat1_enable = false
+
+cheat2_desc = "[1P 削草]ON"
+cheat2_code = "0178:C0"
+cheat2_enable = false
+
+cheat3_desc = "[1P 推铁]ON"
+cheat3_code = "00A8:60"
+cheat3_enable = false
+
+cheat4_desc = "[1P 船]ON"
+cheat4_code = "0170:FF"
+cheat4_enable = false
+
+cheat5_desc = "[2P 生命]无限"
+cheat5_code = "0052:63"
+cheat5_enable = false
+
+cheat6_desc = "[2P 保护]无限"
+cheat6_code = "008A:09"
+cheat6_enable = false
+
+cheat7_desc = "[2P 削草]ON"
+cheat7_code = "0179:C0"
+cheat7_enable = false
+
+cheat8_desc = "[2P 推铁]ON"
+cheat8_code = "00A9:60"
+cheat8_enable = false
+
+cheat9_desc = "[2P 船]ON"
+cheat9_code = "0171:FF"
+cheat9_enable = false
+
+cheat10_desc = "[敌方坦克]随机增加"
+cheat10_code = "007F:28"
+cheat10_enable = false
+
+cheat11_desc = "[基地保护]ON"
+cheat11_code = "074D:10+076D:10+0750:10+0770:10+072D:10+072E:10+072F:10+0730:10"
+cheat11_enable = false
+

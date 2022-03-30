@@ -1,0 +1,23 @@
+cheats = 5
+
+cheat0_desc = "1P HP MAX"
+cheat0_code = "02040731 0000006D"
+cheat0_enable = false
+
+cheat1_desc = "1P HP MIN"
+cheat1_code = "02040731 00000000"
+cheat1_enable = false
+
+cheat1_desc = "TIME"
+cheat1_code = "02040E6C 00000063"
+cheat1_enable = false
+
+cheat1_desc = "2P HP MIN"
+cheat1_code = "02040771 00000000"
+cheat1_enable = false
+
+cheat1_desc = "2P HP MAX"
+cheat1_code = "02040771 0000006D"
+cheat1_enable = false
+
+

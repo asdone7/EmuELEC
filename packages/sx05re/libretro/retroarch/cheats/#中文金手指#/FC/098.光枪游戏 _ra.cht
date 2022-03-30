@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[无子弹限制]ON"
+cheat0_code = "02F9:09"
+cheat0_enable = false
+
+cheat1_desc = "[人数]ON"
+cheat1_code = "0038:09"
+cheat1_enable = false
+

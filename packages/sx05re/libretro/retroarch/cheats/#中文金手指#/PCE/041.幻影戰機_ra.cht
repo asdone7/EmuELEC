@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[无敌]ON"
+cheat0_code = "1F0F21:A1"
+cheat0_enable = false
+
+cheat1_desc = "[机体数不减]ON"
+cheat1_code = "1F14A2:09"
+cheat1_enable = false
+

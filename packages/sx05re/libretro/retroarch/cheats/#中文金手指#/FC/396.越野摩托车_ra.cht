@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[不摔倒]ON"
+cheat0_code = "009C:00"
+cheat0_enable = false
+
+cheat1_desc = "[速度超快]ON"
+cheat1_code = "0094:08"
+cheat1_enable = false
+

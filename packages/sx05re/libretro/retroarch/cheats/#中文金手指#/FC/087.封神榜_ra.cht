@@ -1,0 +1,50 @@
+cheats = 12
+
+cheat0_desc = "[最大金钱]ON"
+cheat0_code = "0501:7F+0502:96+0503:98"
+cheat0_enable = false
+
+cheat1_desc = "[哪叱经验]ON"
+cheat1_code = "0508:3F+0509:42+050A:0F"
+cheat1_enable = false
+
+cheat2_desc = "[哪叱HP]ON"
+cheat2_code = "0514:0F+0515:27+051C:0F+051D:27"
+cheat2_enable = false
+
+cheat3_desc = "[小龙女最大经验]ON"
+cheat3_code = "050B:3F+050C:42+050D:0F"
+cheat3_enable = false
+
+cheat4_desc = "[小龙女当前HP]ON"
+cheat4_code = "0516:0F+0517:27+0526:0F+0527:27"
+cheat4_enable = false
+
+cheat5_desc = "[小龙女最大MP]ON"
+cheat5_code = "051E:0F+051F:27+052E:0F+052F:27"
+cheat5_enable = false
+
+cheat6_desc = "[杨戬最大经验]ON"
+cheat6_code = "050E:3F+050F:42+0510:0F"
+cheat6_enable = false
+
+cheat7_desc = "[杨戬HP]ON"
+cheat7_code = "0518:0F+0519:27+0528:0F+0529:27"
+cheat7_enable = false
+
+cheat8_desc = "[杨戬MP]ON"
+cheat8_code = "0520:0F+0521:27+0530:0F+0531:27"
+cheat8_enable = false
+
+cheat9_desc = "[姜子牙最大经验]ON"
+cheat9_code = "0511:3F+0512:42+0513:0F"
+cheat9_enable = false
+
+cheat10_desc = "[姜子牙HP]ON"
+cheat10_code = "051A:0F+051B:27+0522:0F+0523:27"
+cheat10_enable = false
+
+cheat11_desc = "[姜子牙MP]ON"
+cheat11_code = "052A:0F+052B:27+0532:0F+0533:27"
+cheat11_enable = false
+

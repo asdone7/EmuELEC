@@ -1,0 +1,59 @@
+cheats = 14
+
+cheat0_desc = "生命"
+cheat0_code = "02003755 00000063"
+cheat0_enable = false
+
+cheat1_desc = "体力"
+cheat1_code = "02027F7E 0000000A"
+cheat1_enable = false
+
+cheat2_desc = "体力上限"
+cheat2_code = "02003756 0000000A"
+cheat2_enable = false
+
+cheat3_desc = "星星"
+cheat3_code = "02003757 00000063"
+cheat3_enable = false
+
+cheat4_desc = "无敌"
+cheat4_code = "02027F80 00000005"
+cheat4_enable = false
+
+cheat5_desc = "能量"
+cheat5_code = "020037B2 0000007F+020037B5 00000018+020037B6 00000038"
+cheat5_enable = false
+
+cheat6_desc = "全装备"
+cheat6_code = "02003754 000000FF"
+cheat6_enable = false
+
+cheat7_desc = "全满心"
+cheat7_code = "02003760 00000005+02003761 00000005+02003762 00000005+02003763 00000005"
+cheat7_enable = false
+
+cheat8_desc = "全技能"
+cheat8_code = "02002B01 000000FF+02002B02 000000FF"
+cheat8_enable = false
+
+cheat9_desc = "全物品"
+cheat9_code = "02002B03 000000FF+02002B04 000000FF+02002B05 000000FF+02002B06 000000FF"
+cheat9_enable = false
+
+cheat10_desc = "全卡片"
+cheat10_code = "02002A84 000000FF+02002A85 000000FF+02002A86 000000FF+02002A87 000000FF+02002A88 000000FF+02002A89 000000FF+02002A8A 000000FF+02002A8B 000000FF+02002A8C 000000FF+02002A8D 000000FF+02002A8E 000000FF+02002A8F 000000FF+02002A90 000000FF"
+cheat10_enable = false
+
+cheat11_desc = "关卡全开"
+cheat11_code = "02002AAD 000000FF"
+cheat11_enable = false
+
+cheat12_desc = "小游戏全开"
+cheat12_code = "02002AB0 000000FF"
+cheat12_enable = false
+
+cheat13_desc = "全关卡任意出入"
+cheat13_code = "02002AB8 00000001+02002AB9 00000007+02002ABC 00000001+02002ABD 00000007+02002AC0 00000001+02002AC1 00000007+02002AC4 00000001+02002AC5 00000007+02002AC8 00000001+02002AC9 00000007+02002ACC 00000001+02002ACD 00000007+02002AD0 00000001+02002AD1 00000007+02002AD4 00000001+02002AD5 00000007+02002AD8 00000001+02002AD9 00000007+02002ADC 00000001+02002ADD 00000007+02002AE0 00000001+02002AE1 00000007"
+cheat13_enable = false
+
+

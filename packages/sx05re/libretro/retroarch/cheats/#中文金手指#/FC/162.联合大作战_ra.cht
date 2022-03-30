@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[飞机-生命]ON"
+cheat0_code = "0057:09"
+cheat0_enable = false
+
+cheat1_desc = "[吉普-生命]ON"
+cheat1_code = "0068:09"
+cheat1_enable = false
+
+cheat2_desc = "[飞机-无敌]闪烁"
+cheat2_code = "0051:11"
+cheat2_enable = false
+
+cheat3_desc = "[飞机-无敌]不闪烁"
+cheat3_code = "0051:30"
+cheat3_enable = false
+
+cheat4_desc = "[吉普-无敌]闪烁"
+cheat4_code = "0062:11"
+cheat4_enable = false
+
+cheat5_desc = "[吉普-无敌]不闪烁"
+cheat5_code = "0062:30"
+cheat5_enable = false
+

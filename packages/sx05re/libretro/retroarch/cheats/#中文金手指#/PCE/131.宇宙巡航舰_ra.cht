@@ -1,0 +1,34 @@
+cheats = 8
+
+cheat0_desc = "[机体数最大]ON"
+cheat0_code = "1F0085:99"
+cheat0_enable = false
+
+cheat1_desc = "[防护罩不减]ON"
+cheat1_code = "1F0AD1:10"
+cheat1_enable = false
+
+cheat2_desc = "[升级能源格]一格"
+cheat2_code = "1F00A4:01"
+cheat2_enable = false
+
+cheat3_desc = "[升级能源格]二格"
+cheat3_code = "1F00A4:02"
+cheat3_enable = false
+
+cheat4_desc = "[升级能源格]三格"
+cheat4_code = "1F00A4:03"
+cheat4_enable = false
+
+cheat5_desc = "[升级能源格]四格"
+cheat5_code = "1F00A4:04"
+cheat5_enable = false
+
+cheat6_desc = "[升级能源格]五格"
+cheat6_code = "1F00A4:05"
+cheat6_enable = false
+
+cheat7_desc = "[升级能源格]六格"
+cheat7_code = "1F00A4:06"
+cheat7_enable = false
+

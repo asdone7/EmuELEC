@@ -1,0 +1,51 @@
+cheats = 12
+
+cheat0_desc = "#无处不在"
+cheat0_code = "D00BBC02 FFFF+800BBC48 0100+D00CEE72 FFFF+800CEEB8 0100+D00D8006 FFFF+800D804C 0100+D00D27D6 FFFF+800D281C 0100+D00D5F32 FFFF+800D5F78 0100+D00D8006 FFFF+800D804C 0100+D00CA4A6 FFFF+800CA4EC 0100+D00D25BA FFFF+800D2600 0100"
+cheat0_enable = false
+
+cheat1_desc = "#Maia注意事项中的额外奖金"
+cheat1_code = "D00809F2 FFFF+800809F2 0000"
+cheat1_enable = false
+
+cheat2_desc = "#所有难题"
+cheat2_code = "80010266 0400"
+cheat2_enable = false
+
+cheat3_desc = "#所有电影"
+cheat3_code = "80010238 FFFF+8001023A FFFF+8001023C FFFF+8001023E FFFF+80010240 FFFF+80010242 FFFF+80010244 FFFF+80010246 FFFF+80010248 FFFF+3001024A 00FF"
+cheat3_enable = false
+
+cheat4_desc = "#Intro Chapter \\ Infinite Air and Hp"
+cheat4_code = "D00BBC02 FFFF+800BBC08 4660+D00BBC48 0000+800BBC48 0100"
+cheat4_enable = false
+
+cheat5_desc = "#Chapter 1 \\ Infinite Air And Hp"
+cheat5_code = "D00CEE72 FFFF+800CEE78 4660+D00CEEB8 0000+800CEEB8 0100"
+cheat5_enable = false
+
+cheat6_desc = "#Chapter 2（Part 1）\\ Infinite Air And Hp"
+cheat6_code = "D00D8006 FFFF+800D800C 4660+D00D804C 0000+800C804C 0100"
+cheat6_enable = false
+
+cheat7_desc = "#Chapter 2（Part 2）\\ Infinite Air And Hp"
+cheat7_code = "D00D27D6 FFFF+800D27DC 4660+D00D281C 0000+800C281C 0100"
+cheat7_enable = false
+
+cheat8_desc = "#Chapter 3 \\ Infinite Air and Hp and Gun"
+cheat8_code = "D00D5F32 FFFF+800D5F38 5DBD+D00D5F78 0000+800D5F78 0100"
+cheat8_enable = false
+
+cheat9_desc = "#Chapter 4 \\ Infinite Air and Hp and Gun"
+cheat9_code = "D00D8006 FFFF+800D800C 5DBD+D00D8006 FFFF+800101CC 176F+D00D804C 0000+800C804C 0100"
+cheat9_enable = false
+
+cheat10_desc = "#Chapter 5 \\ Infinite Air and Hp and Gun"
+cheat10_code = "D00CA4A6 FFFF+800CA4AC 5DBD+D00CA4EC 0000+800CA4EC 0100"
+cheat10_enable = false
+
+cheat11_desc = "#Last Chapter-Shrine \\ Infinite Air and Hp and Gun"
+cheat11_code = "D00D25BA FFFF+800D25C0 5DBD+D00D2600 0000+800D2600 0100"
+cheat11_enable = false
+
+

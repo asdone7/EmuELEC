@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[波菜力量]无敌一时"
+cheat0_code = "00E0:40"
+cheat0_enable = false
+
+cheat1_desc = "[心收集满]过关"
+cheat1_code = "006A:18"
+cheat1_enable = false
+

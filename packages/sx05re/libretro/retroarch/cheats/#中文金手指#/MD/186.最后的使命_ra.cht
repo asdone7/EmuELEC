@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1P最大生命力]ON"
+cheat0_code = "FF1108:64"
+cheat0_enable = false
+
+cheat1_desc = "[2p最大生命力]ON"
+cheat1_code = "FF1A46:28"
+cheat1_enable = false
+

@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[血量不减]ON"
+cheat0_code = "FFC02D:09"
+cheat0_enable = false
+
+cheat1_desc = "[只数]ON"
+cheat1_code = "FFC02F:09"
+cheat1_enable = false
+
+cheat2_desc = "[接关数]ON"
+cheat2_code = "FFC033:09"
+cheat2_enable = false
+
+cheat3_desc = "[急救箱数]ON"
+cheat3_code = "FFC032:09"
+cheat3_enable = false
+

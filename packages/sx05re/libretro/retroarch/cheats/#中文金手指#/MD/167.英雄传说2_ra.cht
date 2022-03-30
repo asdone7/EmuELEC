@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[金]ON"
+cheat0_code = "FF001B2D:05"
+cheat0_enable = false
+
+cheat1_desc = "[王子HP]ON"
+cheat1_code = "FF001DC0:0F+FF1DC1:27+FF1DC2:0F+FF1DC3:27+FF1DC4:0F+FF1DC5:27+FF1DC6:0F+FF1DC7:27"
+cheat1_enable = false
+
+cheat2_desc = "[蓝特HP]ON"
+cheat2_code = "FF001E00:0F+FF1E01:27+FF1E02:0F+FF1E03:27+FF1E04:0F+FF1E05:27+FF1E06:0F+FF1E07:27"
+cheat2_enable = false
+
+cheat3_desc = "[芙罗拉HP]ON"
+cheat3_code = "FF001E40:0F+FF1E41:27+FF1E42:0F+FF1E43:27+FF1E44:0F+FF1E45:27+FF1E46:0F+FF1E47:27"
+cheat3_enable = false
+
+cheat4_desc = "[辛蒂HP]ON"
+cheat4_code = "FF001E80:0F+FF1E81:27+FF1E82:0F+FF1E83:27+FF1E84:0F+FF1E85:27+FF1E86:0F+FF1E87:27"
+cheat4_enable = false
+

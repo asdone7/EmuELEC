@@ -1,0 +1,162 @@
+cheats = 40
+
+cheat0_desc = "[1P人物]坂崎亮"
+cheat0_code = "7E012000"
+cheat0_enable = false
+
+cheat1_desc = "[1P人物]坂崎百合"
+cheat1_code = "7E012001"
+cheat1_enable = false
+
+cheat2_desc = "[1P人物]坂崎琢磨"
+cheat2_code = "7E012002"
+cheat2_enable = false
+
+cheat3_desc = "[1P人物]李白龙"
+cheat3_code = "7E012003"
+cheat3_enable = false
+
+cheat4_desc = "[1P人物]杰克"
+cheat4_code = "7E012004"
+cheat4_enable = false
+
+cheat5_desc = "[1P人物]米奇"
+cheat5_code = "7E012005"
+cheat5_enable = false
+
+cheat6_desc = "[1P人物]比克"
+cheat6_code = "7E012006"
+cheat6_enable = false
+
+cheat7_desc = "[1P人物]约翰"
+cheat7_code = "7E012008"
+cheat7_enable = false
+
+cheat8_desc = "[1P人物]如月影二"
+cheat8_code = "7E012009"
+cheat8_enable = false
+
+cheat9_desc = "[1P人物]铁木真"
+cheat9_code = "7E01200A"
+cheat9_enable = false
+
+cheat10_desc = "[1P人物]京"
+cheat10_code = "7E01200B"
+cheat10_enable = false
+
+cheat11_desc = "[1P人物]罗伯特"
+cheat11_code = "7E01200C"
+cheat11_enable = false
+
+cheat12_desc = "[1P使用隐藏BOSS吉斯]*吉斯"
+cheat12_code = "7E012007"
+cheat12_enable = false
+
+cheat13_desc = "[2P人物]坂崎亮"
+cheat13_code = "7E012200"
+cheat13_enable = false
+
+cheat14_desc = "[2P人物]坂崎百合"
+cheat14_code = "7E012201"
+cheat14_enable = false
+
+cheat15_desc = "[2P人物]坂崎琢磨"
+cheat15_code = "7E012202"
+cheat15_enable = false
+
+cheat16_desc = "[2P人物]李白龙"
+cheat16_code = "7E012203"
+cheat16_enable = false
+
+cheat17_desc = "[2P人物]杰克"
+cheat17_code = "7E012204"
+cheat17_enable = false
+
+cheat18_desc = "[2P人物]米奇"
+cheat18_code = "7E012205"
+cheat18_enable = false
+
+cheat19_desc = "[2P人物]比克"
+cheat19_code = "7E012206"
+cheat19_enable = false
+
+cheat20_desc = "[2P人物]约翰"
+cheat20_code = "7E012208"
+cheat20_enable = false
+
+cheat21_desc = "[2P人物]如月影二"
+cheat21_code = "7E012209"
+cheat21_enable = false
+
+cheat22_desc = "[2P人物]铁木真"
+cheat22_code = "7E01220A"
+cheat22_enable = false
+
+cheat23_desc = "[2P人物]京"
+cheat23_code = "7E01220B"
+cheat23_enable = false
+
+cheat24_desc = "[2P人物]罗伯特"
+cheat24_code = "7E01220C"
+cheat24_enable = false
+
+cheat25_desc = "[2P使用隐藏BOSS吉斯]*吉斯"
+cheat25_code = "7E012207"
+cheat25_enable = false
+
+cheat26_desc = "[1P气槽]全满"
+cheat26_code = "7E1456880"
+cheat26_enable = false
+
+cheat27_desc = "[1P气槽]总是没有能量"
+cheat27_code = "7E1456800"
+cheat27_enable = false
+
+cheat28_desc = "[1P血槽]满血"
+cheat28_code = "7E1456280"
+cheat28_enable = false
+
+cheat29_desc = "[1P血槽]红血(连中杀伤力大的超杀可能会死)"
+cheat29_code = "7E145621E"
+cheat29_enable = false
+
+cheat30_desc = "[1P血槽]一击必杀(成功后请解锁)"
+cheat30_code = "7E1456201"
+cheat30_enable = false
+
+cheat31_desc = "[1P血槽]不战自败"
+cheat31_code = "7E1456200"
+cheat31_enable = false
+
+cheat32_desc = "[2P血槽]满血"
+cheat32_code = "7E14A6280"
+cheat32_enable = false
+
+cheat33_desc = "[2P血槽]红血(连中杀伤力大的超杀可能会死)"
+cheat33_code = "7E14A621E"
+cheat33_enable = false
+
+cheat34_desc = "[2P血槽]一击必杀(成功后请解锁)"
+cheat34_code = "7E14A6201"
+cheat34_enable = false
+
+cheat35_desc = "[2P血槽]不战自败"
+cheat35_code = "7E14A6200"
+cheat35_enable = false
+
+cheat36_desc = "[2P气槽]全满"
+cheat36_code = "7E14A6880"
+cheat36_enable = false
+
+cheat37_desc = "[2P气槽]总是没有能量"
+cheat37_code = "7E14A6800"
+cheat37_enable = false
+
+cheat38_desc = "[时间]时间不减"
+cheat38_code = "7E01703C"
+cheat38_enable = false
+
+cheat39_desc = "[时间]TIME OVER"
+cheat39_code = "7E017000"
+cheat39_enable = false
+

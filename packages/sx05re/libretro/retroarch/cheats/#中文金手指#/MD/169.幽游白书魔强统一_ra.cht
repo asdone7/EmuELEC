@@ -1,0 +1,82 @@
+cheats = 20
+
+cheat0_desc = "[1P体力值]体力不损"
+cheat0_code = "FF8478:DF"
+cheat0_enable = false
+
+cheat1_desc = "[1P体力值]体力见红"
+cheat1_code = "FF8478:6F"
+cheat1_enable = false
+
+cheat2_desc = "[1P灵力值]ON"
+cheat2_code = "FF84B8:DF"
+cheat2_enable = false
+
+cheat3_desc = "[1P最强灵丸]ON"
+cheat3_code = "FF847C:FF"
+cheat3_enable = false
+
+cheat4_desc = "[1P 角色速度提升]ON"
+cheat4_code = "FF8492:46+FF8493:59"
+cheat4_enable = false
+
+cheat5_desc = "[2P 体力值]体力不损"
+cheat5_code = "FF9078:DF"
+cheat5_enable = false
+
+cheat6_desc = "[2P 体力值]体力见红"
+cheat6_code = "FF9078:6F"
+cheat6_enable = false
+
+cheat7_desc = "[2P 灵力值]ON"
+cheat7_code = "FF90B8:DF"
+cheat7_enable = false
+
+cheat8_desc = "[2P最强灵丸]ON"
+cheat8_code = "FF907C:FF"
+cheat8_enable = false
+
+cheat9_desc = "[2P 角色速度提升]ON"
+cheat9_code = "FF9092:46+FF9093:59"
+cheat9_enable = false
+
+cheat10_desc = "[3P 体力值]体力不损"
+cheat10_code = "FF8878:DF"
+cheat10_enable = false
+
+cheat11_desc = "[3P 体力值]体力见红"
+cheat11_code = "FF8878:6F"
+cheat11_enable = false
+
+cheat12_desc = "[3P灵力值]ON"
+cheat12_code = "FF88B8:DF"
+cheat12_enable = false
+
+cheat13_desc = "[3P最强灵丸]ON"
+cheat13_code = "FF887C:FF"
+cheat13_enable = false
+
+cheat14_desc = "[3P 角色速度提升]ON"
+cheat14_code = "FF8892:46+FF8893:59"
+cheat14_enable = false
+
+cheat15_desc = "[4P 体力值]体力不损"
+cheat15_code = "FF8C78:DF"
+cheat15_enable = false
+
+cheat16_desc = "[4P 体力值]体力见红"
+cheat16_code = "FF8C78:6F"
+cheat16_enable = false
+
+cheat17_desc = "[4P灵力值]ON"
+cheat17_code = "FF8CB8:DF"
+cheat17_enable = false
+
+cheat18_desc = "[4P最强灵丸]ON"
+cheat18_code = "FF8C7C:FF"
+cheat18_enable = false
+
+cheat19_desc = "[4P 角色速度提升]ON"
+cheat19_code = "FF8C92:46+FF8C93:59"
+cheat19_enable = false
+

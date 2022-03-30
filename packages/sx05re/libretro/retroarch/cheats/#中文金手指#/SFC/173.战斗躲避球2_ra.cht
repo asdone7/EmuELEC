@@ -1,0 +1,610 @@
+cheats = 152
+
+cheat0_desc = "[时间不减]ON"
+cheat0_code = "7E00B200+7E00B400"
+cheat0_enable = false
+
+cheat1_desc = "[全员HP最大]ON"
+cheat1_code = "7E09D010+7E0AD010+7E0BD010+7E0CD010+7E0DD010+7E0ED010"
+cheat1_enable = false
+
+cheat2_desc = "[全员EN最大]ON"
+cheat2_code = "7E098010+7E0A8010+7E0B8010+7E0C8010+7E0D8010+7E0E8010"
+cheat2_enable = false
+
+cheat3_desc = "[敌人一击死]ON"
+cheat3_code = "7E0FD001+7E10D001+7E11D001"
+cheat3_enable = false
+
+cheat4_desc = "[内野1能力最强]ON"
+cheat4_code = "7E1F00220+7E1F00303+7E1F00420+7E1F00503+7E1F00620+7E1F00703+7E1F00820+7E1F00903+7E1F00A20+7E1F00B03"
+cheat4_enable = false
+
+cheat5_desc = "[内野1变更]ガンダムF-91"
+cheat5_code = "7E1F00000"
+cheat5_enable = false
+
+cheat6_desc = "[内野1变更]νガンダム"
+cheat6_code = "7E1F00002"
+cheat6_enable = false
+
+cheat7_desc = "[内野1变更]ZZガンダム"
+cheat7_code = "7E1F00004"
+cheat7_enable = false
+
+cheat8_desc = "[内野1变更]サザビー"
+cheat8_code = "7E1F00006"
+cheat8_enable = false
+
+cheat9_desc = "[内野1变更]ガンダムマークⅤ"
+cheat9_code = "7E1F00008"
+cheat9_enable = false
+
+cheat10_desc = "[内野1变更]ガンダムキラー"
+cheat10_code = "7E1F0000A"
+cheat10_enable = false
+
+cheat11_desc = "[内野1变更]ブラックRX"
+cheat11_code = "7E1F0000C"
+cheat11_enable = false
+
+cheat12_desc = "[内野1变更]ストロンガー"
+cheat12_code = "7E1F0000E"
+cheat12_enable = false
+
+cheat13_desc = "[内野1变更]Z0"
+cheat13_code = "7E1F00010"
+cheat13_enable = false
+
+cheat14_desc = "[内野1变更]ガラガランダ"
+cheat14_code = "7E1F00012"
+cheat14_enable = false
+
+cheat15_desc = "[内野1变更]シャドームーン"
+cheat15_code = "7E1F00014"
+cheat15_enable = false
+
+cheat16_desc = "[内野1变更]ライダーキラー"
+cheat16_code = "7E1F00016"
+cheat16_enable = false
+
+cheat17_desc = "[内野1变更]ウルトラセブン"
+cheat17_code = "7E1F00018"
+cheat17_enable = false
+
+cheat18_desc = "[内野1变更]ウルトラマンA"
+cheat18_code = "7E1F0001A"
+cheat18_enable = false
+
+cheat19_desc = "[内野1变更]ウルトラマンG"
+cheat19_code = "7E1F0001C"
+cheat19_enable = false
+
+cheat20_desc = "[内野1变更]ゼットン"
+cheat20_code = "7E1F0001E"
+cheat20_enable = false
+
+cheat21_desc = "[内野1变更]ベムスター"
+cheat21_code = "7E1F00020"
+cheat21_enable = false
+
+cheat22_desc = "[内野1变更]ウルトラキラー"
+cheat22_code = "7E1F00022"
+cheat22_enable = false
+
+cheat23_desc = "[内野1变更]マジンガーZ"
+cheat23_code = "7E1F00024"
+cheat23_enable = false
+
+cheat24_desc = "[内野1变更]デビルマン"
+cheat24_code = "7E1F00026"
+cheat24_enable = false
+
+cheat25_desc = "[内野1变更]シレーヌ"
+cheat25_code = "7E1F00028"
+cheat25_enable = false
+
+cheat26_desc = "[内野1变更]騎士GP01"
+cheat26_code = "7E1F0002A"
+cheat26_enable = false
+
+cheat27_desc = "[内野1变更]レッドウォリアR"
+cheat27_code = "7E1F0002C"
+cheat27_enable = false
+
+cheat28_desc = "[内野1变更]騎士GP03"
+cheat28_code = "7E1F0002E"
+cheat28_enable = false
+
+cheat29_desc = "[内野1变更]ロア"
+cheat29_code = "7E1F00030"
+cheat29_enable = false
+
+cheat30_desc = "[内野1变更]グシュペンスト"
+cheat30_code = "7E1F00032"
+cheat30_enable = false
+
+cheat31_desc = "[内野1变更]エミィ"
+cheat31_code = "7E1F00034"
+cheat31_enable = false
+
+cheat32_desc = "[内野1变更]ジム83"
+cheat32_code = "7E1F00036"
+cheat32_enable = false
+
+cheat33_desc = "[内野1变更]ザク83"
+cheat33_code = "7E1F00038"
+cheat33_enable = false
+
+cheat34_desc = "[内野1变更]新1号ライダー"
+cheat34_code = "7E1F0003A"
+cheat34_enable = false
+
+cheat35_desc = "[内野1变更]GDP戦斗員"
+cheat35_code = "7E1F0003C"
+cheat35_enable = false
+
+cheat36_desc = "[内野1变更]ウルトラマンJ"
+cheat36_code = "7E1F0003E"
+cheat36_enable = false
+
+cheat37_desc = "[内野1变更]ピグモン"
+cheat37_code = "7E1F00040"
+cheat37_enable = false
+
+cheat38_desc = "[内野1变更]ボスボロット"
+cheat38_code = "7E1F00042"
+cheat38_enable = false
+
+cheat39_desc = "[内野1变更]戦士ジムG"
+cheat39_code = "7E1F00044"
+cheat39_enable = false
+
+cheat40_desc = "[内野1变更]ダークブレイン"
+cheat40_code = "7E1F00046"
+cheat40_enable = false
+
+cheat41_desc = "[内野2能力最强]ON"
+cheat41_code = "7E1F05220+7E1F05303+7E1F05420+7E1F05503+7E1F05620+7E1F05703+7E1F05820+7E1F05903+7E1F05A20+7E1F05B03"
+cheat41_enable = false
+
+cheat42_desc = "[内野2变更]ガンダムF-91"
+cheat42_code = "7E1F05000"
+cheat42_enable = false
+
+cheat43_desc = "[内野2变更]νガンダム"
+cheat43_code = "7E1F05002"
+cheat43_enable = false
+
+cheat44_desc = "[内野2变更]ZZガンダム"
+cheat44_code = "7E1F05004"
+cheat44_enable = false
+
+cheat45_desc = "[内野2变更]サザビー"
+cheat45_code = "7E1F05006"
+cheat45_enable = false
+
+cheat46_desc = "[内野2变更]ガンダムマークⅤ"
+cheat46_code = "7E1F05008"
+cheat46_enable = false
+
+cheat47_desc = "[内野2变更]ガンダムキラー"
+cheat47_code = "7E1F0500A"
+cheat47_enable = false
+
+cheat48_desc = "[内野2变更]ブラックRX"
+cheat48_code = "7E1F0500C"
+cheat48_enable = false
+
+cheat49_desc = "[内野2变更]ストロンガー"
+cheat49_code = "7E1F0500E"
+cheat49_enable = false
+
+cheat50_desc = "[内野2变更]Z0"
+cheat50_code = "7E1F05010"
+cheat50_enable = false
+
+cheat51_desc = "[内野2变更]ガラガランダ"
+cheat51_code = "7E1F05012"
+cheat51_enable = false
+
+cheat52_desc = "[内野2变更]シャドームーン"
+cheat52_code = "7E1F05014"
+cheat52_enable = false
+
+cheat53_desc = "[内野2变更]ライダーキラー"
+cheat53_code = "7E1F05016"
+cheat53_enable = false
+
+cheat54_desc = "[内野2变更]ウルトラセブン"
+cheat54_code = "7E1F05018"
+cheat54_enable = false
+
+cheat55_desc = "[内野2变更]ウルトラマンA"
+cheat55_code = "7E1F0501A"
+cheat55_enable = false
+
+cheat56_desc = "[内野2变更]ウルトラマンG"
+cheat56_code = "7E1F0501C"
+cheat56_enable = false
+
+cheat57_desc = "[内野2变更]ゼットン"
+cheat57_code = "7E1F0501E"
+cheat57_enable = false
+
+cheat58_desc = "[内野2变更]ベムスター"
+cheat58_code = "7E1F05020"
+cheat58_enable = false
+
+cheat59_desc = "[内野2变更]ウルトラキラー"
+cheat59_code = "7E1F05022"
+cheat59_enable = false
+
+cheat60_desc = "[内野2变更]マジンガーZ"
+cheat60_code = "7E1F05024"
+cheat60_enable = false
+
+cheat61_desc = "[内野2变更]デビルマン"
+cheat61_code = "7E1F05026"
+cheat61_enable = false
+
+cheat62_desc = "[内野2变更]シレーヌ"
+cheat62_code = "7E1F05028"
+cheat62_enable = false
+
+cheat63_desc = "[内野2变更]騎士GP01"
+cheat63_code = "7E1F0502A"
+cheat63_enable = false
+
+cheat64_desc = "[内野2变更]レッドウォリアR"
+cheat64_code = "7E1F0502C"
+cheat64_enable = false
+
+cheat65_desc = "[内野2变更]騎士GP03"
+cheat65_code = "7E1F0502E"
+cheat65_enable = false
+
+cheat66_desc = "[内野2变更]ロア"
+cheat66_code = "7E1F05030"
+cheat66_enable = false
+
+cheat67_desc = "[内野2变更]グシュペンスト"
+cheat67_code = "7E1F05032"
+cheat67_enable = false
+
+cheat68_desc = "[内野2变更]エミィ"
+cheat68_code = "7E1F05034"
+cheat68_enable = false
+
+cheat69_desc = "[内野2变更]ジム83"
+cheat69_code = "7E1F05036"
+cheat69_enable = false
+
+cheat70_desc = "[内野2变更]ザク83"
+cheat70_code = "7E1F05038"
+cheat70_enable = false
+
+cheat71_desc = "[内野2变更]新1号ライダー"
+cheat71_code = "7E1F0503A"
+cheat71_enable = false
+
+cheat72_desc = "[内野2变更]GDP戦斗員"
+cheat72_code = "7E1F0503C"
+cheat72_enable = false
+
+cheat73_desc = "[内野2变更]ウルトラマンJ"
+cheat73_code = "7E1F0503E"
+cheat73_enable = false
+
+cheat74_desc = "[内野2变更]ピグモン"
+cheat74_code = "7E1F05040"
+cheat74_enable = false
+
+cheat75_desc = "[内野2变更]ボスボロット"
+cheat75_code = "7E1F05042"
+cheat75_enable = false
+
+cheat76_desc = "[内野2变更]戦士ジムG"
+cheat76_code = "7E1F05044"
+cheat76_enable = false
+
+cheat77_desc = "[内野2变更]ダークブレイン"
+cheat77_code = "7E1F05046"
+cheat77_enable = false
+
+cheat78_desc = "[内野3能力最强]ON"
+cheat78_code = "7E1F0A220+7E1F0A303+7E1F0A420+7E1F0A503+7E1F0A620+7E1F0A703+7E1F0A820+7E1F0A903+7E1F0AA20+7E1F0AB03"
+cheat78_enable = false
+
+cheat79_desc = "[内野3变更]ガンダムF-91"
+cheat79_code = "7E1F0A000"
+cheat79_enable = false
+
+cheat80_desc = "[内野3变更]νガンダム"
+cheat80_code = "7E1F0A002"
+cheat80_enable = false
+
+cheat81_desc = "[内野3变更]ZZガンダム"
+cheat81_code = "7E1F0A004"
+cheat81_enable = false
+
+cheat82_desc = "[内野3变更]サザビー"
+cheat82_code = "7E1F0A006"
+cheat82_enable = false
+
+cheat83_desc = "[内野3变更]ガンダムマークⅤ"
+cheat83_code = "7E1F0A008"
+cheat83_enable = false
+
+cheat84_desc = "[内野3变更]ガンダムキラー"
+cheat84_code = "7E1F0A00A"
+cheat84_enable = false
+
+cheat85_desc = "[内野3变更]ブラックRX"
+cheat85_code = "7E1F0A00C"
+cheat85_enable = false
+
+cheat86_desc = "[内野3变更]ストロンガー"
+cheat86_code = "7E1F0A00E"
+cheat86_enable = false
+
+cheat87_desc = "[内野3变更]Z0"
+cheat87_code = "7E1F0A010"
+cheat87_enable = false
+
+cheat88_desc = "[内野3变更]ガラガランダ"
+cheat88_code = "7E1F0A012"
+cheat88_enable = false
+
+cheat89_desc = "[内野3变更]シャドームーン"
+cheat89_code = "7E1F0A014"
+cheat89_enable = false
+
+cheat90_desc = "[内野3变更]ライダーキラー"
+cheat90_code = "7E1F0A016"
+cheat90_enable = false
+
+cheat91_desc = "[内野3变更]ウルトラセブン"
+cheat91_code = "7E1F0A018"
+cheat91_enable = false
+
+cheat92_desc = "[内野3变更]ウルトラマンA"
+cheat92_code = "7E1F0A01A"
+cheat92_enable = false
+
+cheat93_desc = "[内野3变更]ウルトラマンG"
+cheat93_code = "7E1F0A01C"
+cheat93_enable = false
+
+cheat94_desc = "[内野3变更]ゼットン"
+cheat94_code = "7E1F0A01E"
+cheat94_enable = false
+
+cheat95_desc = "[内野3变更]ベムスター"
+cheat95_code = "7E1F0A020"
+cheat95_enable = false
+
+cheat96_desc = "[内野3变更]ウルトラキラー"
+cheat96_code = "7E1F0A022"
+cheat96_enable = false
+
+cheat97_desc = "[内野3变更]マジンガーZ"
+cheat97_code = "7E1F0A024"
+cheat97_enable = false
+
+cheat98_desc = "[内野3变更]デビルマン"
+cheat98_code = "7E1F0A026"
+cheat98_enable = false
+
+cheat99_desc = "[内野3变更]シレーヌ"
+cheat99_code = "7E1F0A028"
+cheat99_enable = false
+
+cheat100_desc = "[内野3变更]騎士GP01"
+cheat100_code = "7E1F0A02A"
+cheat100_enable = false
+
+cheat101_desc = "[内野3变更]レッドウォリアR"
+cheat101_code = "7E1F0A02C"
+cheat101_enable = false
+
+cheat102_desc = "[内野3变更]騎士GP03"
+cheat102_code = "7E1F0A02E"
+cheat102_enable = false
+
+cheat103_desc = "[内野3变更]ロア"
+cheat103_code = "7E1F0A030"
+cheat103_enable = false
+
+cheat104_desc = "[内野3变更]グシュペンスト"
+cheat104_code = "7E1F0A032"
+cheat104_enable = false
+
+cheat105_desc = "[内野3变更]エミィ"
+cheat105_code = "7E1F0A034"
+cheat105_enable = false
+
+cheat106_desc = "[内野3变更]ジム83"
+cheat106_code = "7E1F0A036"
+cheat106_enable = false
+
+cheat107_desc = "[内野3变更]ザク83"
+cheat107_code = "7E1F0A038"
+cheat107_enable = false
+
+cheat108_desc = "[内野3变更]新1号ライダー"
+cheat108_code = "7E1F0A03A"
+cheat108_enable = false
+
+cheat109_desc = "[内野3变更]GDP戦斗員"
+cheat109_code = "7E1F0A03C"
+cheat109_enable = false
+
+cheat110_desc = "[内野3变更]ウルトラマンJ"
+cheat110_code = "7E1F0A03E"
+cheat110_enable = false
+
+cheat111_desc = "[内野3变更]ピグモン"
+cheat111_code = "7E1F0A040"
+cheat111_enable = false
+
+cheat112_desc = "[内野3变更]ボスボロット"
+cheat112_code = "7E1F0A042"
+cheat112_enable = false
+
+cheat113_desc = "[内野3变更]戦士ジムG"
+cheat113_code = "7E1F0A044"
+cheat113_enable = false
+
+cheat114_desc = "[内野3变更]ダークブレイン"
+cheat114_code = "7E1F0A046"
+cheat114_enable = false
+
+cheat115_desc = "[外野能力最强]ON"
+cheat115_code = "7E1F0F220+7E1F0F303+7E1F0F420+7E1F0F503+7E1F0F620+7E1F0F703+7E1F0F820+7E1F0F903+7E1F0FA20+7E1F0FB03"
+cheat115_enable = false
+
+cheat116_desc = "[外野变更]ジム83"
+cheat116_code = "7E1F0F036"
+cheat116_enable = false
+
+cheat117_desc = "[外野变更]ザク83"
+cheat117_code = "7E1F0F038"
+cheat117_enable = false
+
+cheat118_desc = "[外野变更]新1号ライダー"
+cheat118_code = "7E1F0F03A"
+cheat118_enable = false
+
+cheat119_desc = "[外野变更]GDP戦斗員"
+cheat119_code = "7E1F0F03C"
+cheat119_enable = false
+
+cheat120_desc = "[外野变更]ウルトラマンJ"
+cheat120_code = "7E1F0F03E"
+cheat120_enable = false
+
+cheat121_desc = "[外野变更]ピグモン"
+cheat121_code = "7E1F0F040"
+cheat121_enable = false
+
+cheat122_desc = "[外野变更]ボスボロット"
+cheat122_code = "7E1F0F042"
+cheat122_enable = false
+
+cheat123_desc = "[外野变更]戦士ジムG"
+cheat123_code = "7E1F0F044"
+cheat123_enable = false
+
+cheat124_desc = "[外野变更]ダークブレイン"
+cheat124_code = "7E1F0F046"
+cheat124_enable = false
+
+cheat125_desc = "[外野变更]ガンダムF-91"
+cheat125_code = "7E1F0F000"
+cheat125_enable = false
+
+cheat126_desc = "[外野变更]νガンダム"
+cheat126_code = "7E1F0F002"
+cheat126_enable = false
+
+cheat127_desc = "[外野变更]ZZガンダム"
+cheat127_code = "7E1F0F004"
+cheat127_enable = false
+
+cheat128_desc = "[外野变更]サザビー"
+cheat128_code = "7E1F0F006"
+cheat128_enable = false
+
+cheat129_desc = "[外野变更]ガンダムマークⅤ"
+cheat129_code = "7E1F0F008"
+cheat129_enable = false
+
+cheat130_desc = "[外野变更]ガンダムキラー"
+cheat130_code = "7E1F0F00A"
+cheat130_enable = false
+
+cheat131_desc = "[外野变更]ブラックRX"
+cheat131_code = "7E1F0F00C"
+cheat131_enable = false
+
+cheat132_desc = "[外野变更]ストロンガー"
+cheat132_code = "7E1F0F00E"
+cheat132_enable = false
+
+cheat133_desc = "[外野变更]Z0"
+cheat133_code = "7E1F0F010"
+cheat133_enable = false
+
+cheat134_desc = "[外野变更]ガラガランダ"
+cheat134_code = "7E1F0F012"
+cheat134_enable = false
+
+cheat135_desc = "[外野变更]シャドームーン"
+cheat135_code = "7E1F0F014"
+cheat135_enable = false
+
+cheat136_desc = "[外野变更]ライダーキラー"
+cheat136_code = "7E1F0F016"
+cheat136_enable = false
+
+cheat137_desc = "[外野变更]ウルトラセブン"
+cheat137_code = "7E1F0F018"
+cheat137_enable = false
+
+cheat138_desc = "[外野变更]ウルトラマンA"
+cheat138_code = "7E1F0F01A"
+cheat138_enable = false
+
+cheat139_desc = "[外野变更]ウルトラマンG"
+cheat139_code = "7E1F0F01C"
+cheat139_enable = false
+
+cheat140_desc = "[外野变更]ゼットン"
+cheat140_code = "7E1F0F01E"
+cheat140_enable = false
+
+cheat141_desc = "[外野变更]ベムスター"
+cheat141_code = "7E1F0F020"
+cheat141_enable = false
+
+cheat142_desc = "[外野变更]ウルトラキラー"
+cheat142_code = "7E1F0F022"
+cheat142_enable = false
+
+cheat143_desc = "[外野变更]マジンガーZ"
+cheat143_code = "7E1F0F024"
+cheat143_enable = false
+
+cheat144_desc = "[外野变更]デビルマン"
+cheat144_code = "7E1F0F026"
+cheat144_enable = false
+
+cheat145_desc = "[外野变更]シレーヌ"
+cheat145_code = "7E1F0F028"
+cheat145_enable = false
+
+cheat146_desc = "[外野变更]騎士GP01"
+cheat146_code = "7E1F0F02A"
+cheat146_enable = false
+
+cheat147_desc = "[外野变更]レッドウォリアR"
+cheat147_code = "7E1F0F02C"
+cheat147_enable = false
+
+cheat148_desc = "[外野变更]騎士GP03"
+cheat148_code = "7E1F0F02E"
+cheat148_enable = false
+
+cheat149_desc = "[外野变更]ロア"
+cheat149_code = "7E1F0F030"
+cheat149_enable = false
+
+cheat150_desc = "[外野变更]グシュペンスト"
+cheat150_code = "7E1F0F032"
+cheat150_enable = false
+
+cheat151_desc = "[外野变更]エミィ"
+cheat151_code = "7E1F0F034"
+cheat151_enable = false
+

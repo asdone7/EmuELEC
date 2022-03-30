@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[VITAL]999"
+cheat0_code = "1F1002:E7+1F1003:03+1F00B0:E7+1F00B1:03"
+cheat0_enable = false
+
+cheat1_desc = "[能量表满]ON"
+cheat1_code = "1F0071:60"
+cheat1_enable = false
+
+cheat2_desc = "[经验值]90909"
+cheat2_code = "1F0076:09+1F0077:09+1F0078:09"
+cheat2_enable = false
+
+cheat3_desc = "[蓝珠数(用后解锁)]2"
+cheat3_code = "1F007C:02"
+cheat3_enable = false
+

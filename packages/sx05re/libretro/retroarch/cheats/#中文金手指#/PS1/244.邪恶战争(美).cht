@@ -1,0 +1,123 @@
+cheats = 30
+
+cheat0_desc = "#P1无限金"
+cheat0_code = "8011C5B8 FFFF"
+cheat0_enable = false
+
+cheat1_desc = "#所有地图（策略模式）"
+cheat1_code = "800DE9B8 0001"
+cheat1_enable = false
+
+cheat2_desc = "#P1 Quicksilver无限健康"
+cheat2_code = "801AF610 0258"
+cheat2_enable = false
+
+cheat3_desc = "#P1 Quicksilver无限能量"
+cheat3_code = "801AF614 01F4"
+cheat3_enable = false
+
+cheat4_desc = "#P1 Telsa无限健康"
+cheat4_code = "801AFA48 0258"
+cheat4_enable = false
+
+cheat5_desc = "#P1 Telsa无限能量"
+cheat5_code = "801AFA4C 0640"
+cheat5_enable = false
+
+cheat6_desc = "#P1 Killcycle无限生命"
+cheat6_code = "801AF9D0 01F4"
+cheat6_enable = false
+
+cheat7_desc = "#P1 Killcycle无限能量"
+cheat7_code = "801AF9D4 0258"
+cheat7_enable = false
+
+cheat8_desc = "#P1积家无限健康"
+cheat8_code = "801AF710 03E8"
+cheat8_enable = false
+
+cheat9_desc = "#P1 Jaegar无限能量"
+cheat9_code = "801AF714 0640"
+cheat9_enable = false
+
+cheat10_desc = "#P1螳螂无限健康"
+cheat10_code = "801AF7A8 02EE"
+cheat10_enable = false
+
+cheat11_desc = "#P1螳螂无限能量"
+cheat11_code = "801AF7AC 03E8"
+cheat11_enable = false
+
+cheat12_desc = "#P1 Razorfane无限生命"
+cheat12_code = "801AF610 0320"
+cheat12_enable = false
+
+cheat13_desc = "#P1 Razorfane无限能量"
+cheat13_code = "801AF614 01F4"
+cheat13_enable = false
+
+cheat14_desc = "#P1黄蜂无限健康"
+cheat14_code = "801AF7B0 0190"
+cheat14_enable = false
+
+cheat15_desc = "#P1黄蜂无限能量"
+cheat15_code = "801AF7B4 0258"
+cheat15_enable = false
+
+cheat16_desc = "#P1 Ecton无限健康"
+cheat16_code = "801AF938 01F4"
+cheat16_enable = false
+
+cheat17_desc = "#P1 Ecton无限能量"
+cheat17_code = "801AF93C 0640"
+cheat17_enable = false
+
+cheat18_desc = "#P1 Prana无限健康"
+cheat18_code = "801AF688 0258"
+cheat18_enable = false
+
+cheat19_desc = "#P1 Prana无限能量"
+cheat19_code = "801AF68C 03E8"
+cheat19_enable = false
+
+cheat20_desc = "#P1 Magnus无限生命"
+cheat20_code = "801AF7A8 03E8"
+cheat20_enable = false
+
+cheat21_desc = "#P1马格努斯无限能量"
+cheat21_code = "801AF7AC 01F4"
+cheat21_enable = false
+
+cheat22_desc = "#P1 Brontu无限健康"
+cheat22_code = "801AF540 03E8"
+cheat22_enable = false
+
+cheat23_desc = "#P1布朗图无限能量"
+cheat23_code = "801AF544 05DC"
+cheat23_enable = false
+
+cheat24_desc = "#P1 Firewitch无限生命"
+cheat24_code = "801AFA00 01F4"
+cheat24_enable = false
+
+cheat25_desc = "#P1 Firewitch无限能量"
+cheat25_code = "801AFA04 01F4"
+cheat25_enable = false
+
+cheat26_desc = "#P1天使无限健康"
+cheat26_code = "801AF710 0315"
+cheat26_enable = false
+
+cheat27_desc = "#P1天使无限能量"
+cheat27_code = "801AF714 03E8"
+cheat27_enable = false
+
+cheat28_desc = "#P1 Mogalin无限健康"
+cheat28_code = "801AF7F0 01F4"
+cheat28_enable = false
+
+cheat29_desc = "#P1 Mogalin无限能量"
+cheat29_code = "801AF7F4 0384"
+cheat29_enable = false
+
+

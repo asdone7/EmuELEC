@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[P1 生命数]ON"
+cheat0_code = "0011:05"
+cheat0_enable = false
+
+cheat1_desc = "[P1 体力值]ON"
+cheat1_code = "051F:2F"
+cheat1_enable = false
+
+cheat2_desc = "[P1 透明]ON"
+cheat2_code = "0246:00+0574:61"
+cheat2_enable = false
+

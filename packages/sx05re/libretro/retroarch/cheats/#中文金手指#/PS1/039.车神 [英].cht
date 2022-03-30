@@ -1,0 +1,197 @@
+cheats = 43
+
+cheat0_desc = "#停车场测试代码\\无损坏"
+cheat0_code = "801E35B8 0000"
+cheat0_enable = false
+
+cheat1_desc = "仅在停车测试模式下使用此代码。保存，然后将其关闭。"
+
+cheat1_desc = "#停车场测试代码\\无限时间"
+cheat1_code = "801E4278 0000"
+cheat1_enable = false
+
+cheat2_desc = "仅在停车测试模式下使用此代码。保存，然后将其关闭。"
+
+cheat2_desc = "#停车场测试代码\\已完成倦怠"
+cheat2_code = "301E35A0 003C"
+cheat2_enable = false
+
+cheat3_desc = "仅在停车测试模式下使用此代码。保存，然后将其关闭。"
+
+cheat3_desc = "#停车场测试代码\\已完成手刹"
+cheat3_code = "301E35A1 003C"
+cheat3_enable = false
+
+cheat4_desc = "仅在停车测试模式下使用此代码。保存，然后将其关闭。"
+
+cheat4_desc = "#停车场测试代码\\已设置激流回旋"
+cheat4_code = "301E35A2 003C"
+cheat4_enable = false
+
+cheat5_desc = "仅在停车测试模式下使用此代码。保存，然后将其关闭。"
+
+cheat5_desc = "#停车场测试代码\\已完成180度"
+cheat5_code = "301E35A3 003C"
+cheat5_enable = false
+
+cheat6_desc = "仅在停车测试模式下使用此代码。保存，然后将其关闭。"
+
+cheat6_desc = "#停车场测试代码\\已完成360度"
+cheat6_code = "301E35A4 003C"
+cheat6_enable = false
+
+cheat7_desc = "仅在停车测试模式下使用此代码。保存，然后将其关闭。"
+
+cheat7_desc = "#停车场测试代码\\已反向180度完成"
+cheat7_code = "301E35A5 003C"
+cheat7_enable = false
+
+cheat8_desc = "仅在停车测试模式下使用此代码。保存，然后将其关闭。"
+
+cheat8_desc = "#停车场测试代码\\速度完成"
+cheat8_code = "301E35A6 003C"
+cheat8_enable = false
+
+cheat9_desc = "仅在停车测试模式下使用此代码。保存，然后将其关闭。"
+
+cheat9_desc = "#停车场测试代码\\已完成刹车测试"
+cheat9_code = "301E35A7 003C"
+cheat9_enable = false
+
+cheat10_desc = "仅在停车测试模式下使用此代码。保存，然后将其关闭。"
+
+cheat10_desc = "#停车场测试代码\\已完成搭接"
+cheat10_code = "301E35A8 003C"
+cheat10_enable = false
+
+cheat11_desc = "仅在停车测试模式下使用此代码。保存，然后将其关闭。"
+
+cheat11_desc = "#常规游戏代码\\无伤害"
+cheat11_code = "8009AEE0 0000"
+cheat11_enable = false
+
+cheat12_desc = "#Regular游戏代码\\重犯条为空"
+cheat12_code = "800973C8 0000"
+cheat12_enable = false
+
+cheat13_desc = "#Regular游戏代码\\停止计时器"
+cheat13_code = "800C6E62 D600+800C6E64 0F28"
+cheat13_enable = false
+
+cheat14_desc = "#常规游戏代码\\敌方汽车已死"
+cheat14_code = "8009D274 5050"
+cheat14_enable = false
+
+cheat15_desc = "#Regular游戏代码\\ Nitro Boost（使用此代码，按住L1 + X进行Nitro Boost）"
+cheat15_code = "D0096DB4 0044+8009AE54 FFFF"
+cheat15_enable = false
+
+cheat16_desc = "#Regular游戏代码\\ Scare Meter最大化"
+cheat16_code = "800C6EA0 06A4"
+cheat16_enable = false
+
+cheat17_desc = "#常规游戏代码\\炸弹永不炸毁"
+cheat17_code = "80097428 0000"
+cheat17_enable = false
+
+cheat18_desc = "#常规游戏代码\\翻转模式（使用此代码，按L1 + R1可以在空中翻转您的汽车，直到您全部放回四个车轮上为止）"
+cheat18_code = "D0096DB4 000C+8009AD96 012C"
+cheat18_enable = false
+
+cheat19_desc = "#其他代码\\具有所有标志"
+cheat19_code = "800C6C94 0064"
+cheat19_enable = false
+
+cheat20_desc = "#其他代码\\启用所有轨道"
+cheat20_code = "800964A0 0004"
+cheat20_enable = false
+
+cheat21_desc = "#其他代码\\启用查看信用备忘"
+cheat21_code = "800863DC FFFE"
+cheat21_enable = false
+
+cheat22_desc = "#其他代码\\泥土轨迹-从最后一圈开始"
+cheat22_code = "D00C6CA8 0000+800C6CA8 0002"
+cheat22_enable = false
+
+cheat23_desc = "#其他代码\\跨镇检查点-仅需要1个检查点"
+cheat23_code = "D00C6C94 0000+800C6C94 0004"
+cheat23_enable = false
+
+cheat24_desc = "#其他代码\\无敌作弊"
+cheat24_code = "800964DC 0001"
+cheat24_enable = false
+
+cheat25_desc = "#其他代码\\免疫欺骗"
+cheat25_code = "800964E0 0001"
+cheat25_enable = false
+
+cheat26_desc = "#其他代码\\后轮作弊开启"
+cheat26_code = "8009D59C 0001"
+cheat26_enable = false
+
+cheat27_desc = "#其他代码\\迷你作弊开启"
+cheat27_code = "8009D5A0 0001"
+cheat27_enable = false
+
+cheat28_desc = "#其他代码\\高跷作弊"
+cheat28_code = "8009D5A4 0001"
+cheat28_enable = false
+
+cheat29_desc = "#其他代码\\低重力模式开启"
+cheat29_code = "8009D5A8 0001"
+cheat29_enable = false
+
+cheat30_desc = "#其他代码\\倒置作弊开启"
+cheat30_code = "8009D5AC 0001"
+cheat30_enable = false
+
+cheat31_desc = "#其他代码\\骨架模式/相反转向"
+cheat31_code = "8009D5B0 0001"
+cheat31_enable = false
+
+cheat32_desc = "#其他代码\\低价模式"
+cheat32_code = "8009ADAA FFFF"
+cheat32_enable = false
+
+cheat33_desc = "#No伤害（V.1.1-最高命中）"
+cheat33_code = "8009B220 0000"
+cheat33_enable = false
+
+cheat34_desc = "#Stop Timer（V.1.1-热门歌曲）"
+cheat34_code = "800C6E62 D600+800C71A4 0F28"
+cheat34_enable = false
+
+cheat35_desc = "#All Tracks Beat（V.1.1-Greatest Hits）"
+cheat35_code = "301E38E0 003C+301E38E1 003C+301E38E2 003C"
+cheat35_enable = false
+
+cheat36_desc = "#启用所有曲目（V.1.1-精选）"
+cheat36_code = "800967E0 0004"
+cheat36_enable = false
+
+cheat37_desc = "#启用无敌作弊（V.1.1-最佳精选）"
+cheat37_code = "80086754 FFFE+80086756 FFFF"
+cheat37_enable = false
+
+cheat38_desc = "#不启用任何警察/免责作弊功能（V.1.1-热门歌曲）"
+cheat38_code = "8008678C FFFE+8008678E FFFF"
+cheat38_enable = false
+
+cheat39_desc = "#拥有所有标志（V.1.1-精选）"
+cheat39_code = "800C6FD4 0064"
+cheat39_enable = false
+
+cheat40_desc = "#免疫作弊（V.1.1-精选）"
+cheat40_code = "80096820 0001"
+cheat40_enable = false
+
+cheat41_desc = "#重罪轻罪犯（V.1.1-最佳精选）"
+cheat41_code = "80097708 0000"
+cheat41_enable = false
+
+cheat42_desc = "#解锁所有4个城市（V.1.1-精选）"
+cheat42_code = "800967E0 0004+800967F8 0046+80096814 0001"
+cheat42_enable = false
+
+

@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[Vies Infinies]On"
+cheat0_code = "1F0222:09"
+cheat0_enable = false
+
+cheat1_desc = "[Tir Puissance Max]On"
+cheat1_code = "1F12D8:04"
+cheat1_enable = false
+
+cheat2_desc = "[Avoir les Options]On"
+cheat2_code = "1F1068:02"
+cheat2_enable = false
+

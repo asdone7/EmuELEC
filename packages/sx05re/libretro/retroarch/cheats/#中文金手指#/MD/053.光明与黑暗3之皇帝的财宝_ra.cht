@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "FF120E:0F+FF120F:27"
+cheat0_enable = false
+
+cheat1_desc = "[体力值]ON"
+cheat1_code = "FF547F:6D+FF543F:6D"
+cheat1_enable = false
+
+cheat2_desc = "[所有武器装备]ON"
+cheat2_code = "FF103B:FA+FF103C:FA+FF103D:FA+FF103E:FA+FF103F:FA+FF1040:FA+FF1041:FA+FF1042:FA+FF1043:FA+FF1044:FA+FF1045:FA+FF1046:FA+FF1047:FA+FF1048:FA+FF1049:FA+FF104A:FA+FF104B:FA+FF104C:FA+FF104D:FA+FF104E:FA+FF104F:FA+FF1050:FA+FF1051:FA+FF1052:FA+FF1053:FA+FF1054:FA+FF1055:FA+FF1056:FA+FF1057:FA+FF1058:FA+FF1059:FA+FF105A:FA+FF105B:FA+FF105C:FA+FF105D:FA+FF543F:6D+FF104F:FA"
+cheat2_enable = false
+
+cheat3_desc = "[武器蓄力满档]ON"
+cheat3_code = "FF120B:31"
+cheat3_enable = false
+

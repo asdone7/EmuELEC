@@ -1,0 +1,135 @@
+cheats = 33
+
+cheat0_desc = "HP"
+cheat0_code = "02040CD4 000000E7+02040CD5 00000003"
+cheat0_enable = false
+
+cheat1_desc = "MP"
+cheat1_code = "02040CD6 000000E7+02040CD7 00000003"
+cheat1_enable = false
+
+cheat2_desc = "HP MAX"
+cheat2_code = "02044AE2 000000E7+02044AE3 00000003"
+cheat2_enable = false
+
+cheat3_desc = "MP MAX"
+cheat3_code = "02044AE6 000000E7+02044AE7 00000003"
+cheat3_enable = false
+
+cheat4_desc = "无敌"
+cheat4_code = "02040CE2 00000064"
+cheat4_enable = false
+
+cheat5_desc = "LV"
+cheat5_code = "02044AD1 00000032"
+cheat5_enable = false
+
+cheat6_desc = "攻"
+cheat6_code = "02044AE8 000000FF"
+cheat6_enable = false
+
+cheat7_desc = "防"
+cheat7_code = "02044AE9 000000FF"
+cheat7_enable = false
+
+cheat8_desc = "运"
+cheat8_code = "02044AEA 000000FF"
+cheat8_enable = false
+
+cheat9_desc = "金"
+cheat9_code = "02044AEC 0000007F+02044AED 00000096+02044AEE 00000098+EXP+02044AD8 0000009F+02044AD9 00000086+02044ADA 00000001"
+cheat9_enable = false
+
+cheat10_desc = "副武器?? 鞋1"
+cheat10_code = "02044ACD 00000000"
+cheat10_enable = false
+
+cheat11_desc = "副武器?? 鞋2"
+cheat11_code = "02044ACD 00000001"
+cheat11_enable = false
+
+cheat12_desc = "副武器?? 火球"
+cheat12_code = "02044ACD 00000002"
+cheat12_enable = false
+
+cheat13_desc = "副武器?? 回旋火球"
+cheat13_code = "02044ACD 00000003"
+cheat13_enable = false
+
+cheat14_desc = "副武器?? 回旋护身"
+cheat14_code = "02044ACD 00000004"
+cheat14_enable = false
+
+cheat15_desc = "副武器?? 飞衫"
+cheat15_code = "02044ACD 00000005"
+cheat15_enable = false
+
+cheat16_desc = "副武器?? 放电"
+cheat16_code = "02044ACD 00000006"
+cheat16_enable = false
+
+cheat17_desc = "副武器?? 暴POW"
+cheat17_code = "02044ACD 00000007"
+cheat17_enable = false
+
+cheat18_desc = "大招,用后解锁 大招1"
+cheat18_code = "02044ACE 00000000"
+cheat18_enable = false
+
+cheat19_desc = "大招,用后解锁 大招2"
+cheat19_code = "02044ACE 00000001"
+cheat19_enable = false
+
+cheat20_desc = "大招,用后解锁 大招3"
+cheat20_code = "02044ACE 00000002"
+cheat20_enable = false
+
+cheat21_desc = "大招,用后解锁 大招4"
+cheat21_code = "02044ACE 00000003"
+cheat21_enable = false
+
+cheat22_desc = "大招,用后解锁 大招5"
+cheat22_code = "02044ACE 00000004"
+cheat22_enable = false
+
+cheat23_desc = "大招,用后解锁 大招6"
+cheat23_code = "02044ACE 00000005"
+cheat23_enable = false
+
+cheat24_desc = "全物品"
+cheat24_code = "02044AF0 00000063+02044AF1 00000063+02044AF2 00000063+02044AF3 00000063+02044AF4 00000063+02044AF5 00000063+02044AF6 00000063+02044AF7 00000063+02044AF8 00000063+02044AF9 00000063+02044AFA 00000063+02044AFB 00000063+02044AFC 00000063+02044AFD 00000063+02044AFE 00000063+02044AFF 00000063+02044B00 00000063+02044B01 00000063"
+cheat24_enable = false
+
+cheat25_desc = "全特殊物品"
+cheat25_code = "02044B02 00000001+02044B03 00000001+02044B04 00000001+02044B05 00000001+02044B06 00000001+02044B07 00000001+02044B08 00000001+02044B09 00000001+02044B0A 00000001+02044B0B 00000001+02044B0C 00000001+02044B0D 00000001+02044B0E 00000001+02044B0F 00000001+02044B10 00000001+02044B11 00000001+02044B12 00000001+02044B13 00000001+02044B14 00000001+02044B15 00000001+02044B16 00000001"
+cheat25_enable = false
+
+cheat26_desc = "命"
+cheat26_code = "02044AE0 000000E7+02044AE1 00000003+02044AE2 000000E7+02044AE3 00000003"
+cheat26_enable = false
+
+cheat27_desc = "妖力"
+cheat27_code = "02044AE4 000000F3+02044AE5 00000001+02044AE6 000000F3+02044AE7 00000001"
+cheat27_enable = false
+
+cheat28_desc = "?#092;"
+cheat28_code = "02044AEA 000000FF"
+cheat28_enable = false
+
+cheat29_desc = "经验值"
+cheat29_code = "02044AD8 0000009F+02044AD9 00000086+02044ADA 00000001"
+cheat29_enable = false
+
+cheat30_desc = "金钱"
+cheat30_code = "02044AEC 0000003F+02044AED 00000042+02044AEE 0000000F"
+cheat30_enable = false
+
+cheat31_desc = "全道具"
+cheat31_code = "02044AF0 00000063+02044AF1 00000063+02044AF2 00000063+02044AF3 00000063+02044AF4 00000063+02044AF5 00000063+02044AF6 00000063+02044AF7 00000063+02044AF8 00000063+02044AF9 00000063+02044AFA 00000063+02044AFB 00000063+02044AFC 00000063+02044AFD 00000063+02044AFE 00000063+02044AFF 00000063"
+cheat31_enable = false
+
+cheat32_desc = "全装备"
+cheat32_code = "02044B02 00000001+02044B03 00000001+02044B04 00000001+02044B05 00000001+02044B06 00000001+02044B07 00000001+02044B08 00000001+02044B09 00000001+02044B0A 00000001+02044B0B 00000001+02044B0C 00000001+02044B0D 00000001+02044B0E 00000001+02044B0F 00000001+02044B10 00000001+02044B11 00000001+02044B12 00000001+02044B13 00000001+02044B14 00000001+02044B15 00000001+02044B16 00000001"
+cheat32_enable = false
+
+

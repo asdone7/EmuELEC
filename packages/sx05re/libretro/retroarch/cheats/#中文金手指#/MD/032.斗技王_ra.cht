@@ -1,0 +1,250 @@
+cheats = 62
+
+cheat0_desc = "[跳关（大地图激活）]1"
+cheat0_code = "FFF10A:00"
+cheat0_enable = false
+
+cheat1_desc = "[跳关（大地图激活）]2"
+cheat1_code = "FFF10A:01"
+cheat1_enable = false
+
+cheat2_desc = "[跳关（大地图激活）]3"
+cheat2_code = "FFF10A:02"
+cheat2_enable = false
+
+cheat3_desc = "[跳关（大地图激活）]4"
+cheat3_code = "FFF10A:03"
+cheat3_enable = false
+
+cheat4_desc = "[跳关（大地图激活）]5"
+cheat4_code = "FFF10A:04"
+cheat4_enable = false
+
+cheat5_desc = "[跳关（大地图激活）]6"
+cheat5_code = "FFF10A:05"
+cheat5_enable = false
+
+cheat6_desc = "[跳关（大地图激活）]7"
+cheat6_code = "FFF10A:06"
+cheat6_enable = false
+
+cheat7_desc = "[跳关（大地图激活）]8"
+cheat7_code = "FFF10A:07"
+cheat7_enable = false
+
+cheat8_desc = "[跳关（大地图激活）]9"
+cheat8_code = "FFF10A:08"
+cheat8_enable = false
+
+cheat9_desc = "[跳关（大地图激活）]10"
+cheat9_code = "FFF10A:09"
+cheat9_enable = false
+
+cheat10_desc = "[跳关（大地图激活）]11"
+cheat10_code = "FFF10A:0A"
+cheat10_enable = false
+
+cheat11_desc = "[跳关（大地图激活）]12"
+cheat11_code = "FFF10A:0B"
+cheat11_enable = false
+
+cheat12_desc = "[跳关（大地图激活）]13"
+cheat12_code = "FFF10A:0C"
+cheat12_enable = false
+
+cheat13_desc = "[跳关（大地图激活）]14"
+cheat13_code = "FFF10A:0D"
+cheat13_enable = false
+
+cheat14_desc = "[无敌]ON"
+cheat14_code = "FFE21E:FF+FFE21F:FF"
+cheat14_enable = false
+
+cheat15_desc = "[锁住敌人]ON"
+cheat15_code = "FFE232:FF+FFE233:FF"
+cheat15_enable = false
+
+cheat16_desc = "[EXP经验]65000"
+cheat16_code = "FFF114:E8+FFF115:FD"
+cheat16_enable = false
+
+cheat17_desc = "[LEVEL等级]33"
+cheat17_code = "FFF109:21"
+cheat17_enable = false
+
+cheat18_desc = "[HP体力]ON"
+cheat18_code = "FFF10E:C0+FFF10F:01+FFF110:C0+FFF111:01"
+cheat18_enable = false
+
+cheat19_desc = "[MP法力]ON"
+cheat19_code = "FFF17E:C0+FFF17F:01+FFF180:C0+FFF181:01"
+cheat19_enable = false
+
+cheat20_desc = "[攻]ON"
+cheat20_code = "FFF140:C0+FFF141:01"
+cheat20_enable = false
+
+cheat21_desc = "[防]ON"
+cheat21_code = "FFF144:C0+FFF145:01"
+cheat21_enable = false
+
+cheat22_desc = "[炸弹]ON"
+cheat22_code = "FFF13C:32"
+cheat22_enable = false
+
+cheat23_desc = "[钥匙]ON"
+cheat23_code = "FFF13D:32"
+cheat23_enable = false
+
+cheat24_desc = "[更换武器（武器栏激活）]空手"
+cheat24_code = "FFF11B:01"
+cheat24_enable = false
+
+cheat25_desc = "[更换武器（武器栏激活）]剑"
+cheat25_code = "FFF11B:02"
+cheat25_enable = false
+
+cheat26_desc = "[更换武器（武器栏激活）]剑"
+cheat26_code = "FFF11B:03"
+cheat26_enable = false
+
+cheat27_desc = "[更换武器（武器栏激活）]剑"
+cheat27_code = "FFF11B:04"
+cheat27_enable = false
+
+cheat28_desc = "[更换武器（武器栏激活）]剑"
+cheat28_code = "FFF11B:05"
+cheat28_enable = false
+
+cheat29_desc = "[更换武器（武器栏激活）]剑"
+cheat29_code = "FFF11B:06"
+cheat29_enable = false
+
+cheat30_desc = "[更换武器（武器栏激活）]斧"
+cheat30_code = "FFF11B:07"
+cheat30_enable = false
+
+cheat31_desc = "[更换武器（武器栏激活）]斧"
+cheat31_code = "FFF11B:08"
+cheat31_enable = false
+
+cheat32_desc = "[更换武器（武器栏激活）]矛"
+cheat32_code = "FFF11B:09"
+cheat32_enable = false
+
+cheat33_desc = "[更换武器（武器栏激活）]矛"
+cheat33_code = "FFF11B:0A"
+cheat33_enable = false
+
+cheat34_desc = "[更换武器（武器栏激活）]矛"
+cheat34_code = "FFF11B:0B"
+cheat34_enable = false
+
+cheat35_desc = "[更换武器（武器栏激活）]斧"
+cheat35_code = "FFF11B:0C"
+cheat35_enable = false
+
+cheat36_desc = "[更换武器（武器栏激活）]弓"
+cheat36_code = "FFF11B:0D"
+cheat36_enable = false
+
+cheat37_desc = "[更换武器（武器栏激活）]弓"
+cheat37_code = "FFF11B:0E"
+cheat37_enable = false
+
+cheat38_desc = "[更换武器（武器栏激活）]弓"
+cheat38_code = "FFF11B:0F"
+cheat38_enable = false
+
+cheat39_desc = "[更换武器（武器栏激活）]弓"
+cheat39_code = "FFF11B:10"
+cheat39_enable = false
+
+cheat40_desc = "[更换武器（武器栏激活）]弓"
+cheat40_code = "FFF11B:11"
+cheat40_enable = false
+
+cheat41_desc = "[更换武器（武器栏激活）]手链"
+cheat41_code = "FFF11B:12"
+cheat41_enable = false
+
+cheat42_desc = "[更换武器（武器栏激活）]手链"
+cheat42_code = "FFF11B:13"
+cheat42_enable = false
+
+cheat43_desc = "[更换武器（武器栏激活）]手链"
+cheat43_code = "FFF11B:14"
+cheat43_enable = false
+
+cheat44_desc = "[更换武器（武器栏激活）]手链"
+cheat44_code = "FFF11B:15"
+cheat44_enable = false
+
+cheat45_desc = "[更换武器（武器栏激活）]手链"
+cheat45_code = "FFF11B:16"
+cheat45_enable = false
+
+cheat46_desc = "[更换武器（武器栏激活）]杖"
+cheat46_code = "FFF11B:17"
+cheat46_enable = false
+
+cheat47_desc = "[更换武器（武器栏激活）]杖"
+cheat47_code = "FFF11B:18"
+cheat47_enable = false
+
+cheat48_desc = "[更换武器（武器栏激活）]杖"
+cheat48_code = "FFF11B:19"
+cheat48_enable = false
+
+cheat49_desc = "[更换武器（武器栏激活）]杖"
+cheat49_code = "FFF11B:1A"
+cheat49_enable = false
+
+cheat50_desc = "[更换武器（武器栏激活）]杖"
+cheat50_code = "FFF11B:1B"
+cheat50_enable = false
+
+cheat51_desc = "[更换武器（武器栏激活）]杖"
+cheat51_code = "FFF11B:1E"
+cheat51_enable = false
+
+cheat52_desc = "[武器]ON"
+cheat52_code = "FFF11C:FF+FFF11D:FF+FFF11E:FF+FFF11F:FF+FFF121:FF"
+cheat52_enable = false
+
+cheat53_desc = "[铠甲]ON"
+cheat53_code = "FFF127:FF"
+cheat53_enable = false
+
+cheat54_desc = "[盾牌]ON"
+cheat54_code = "FFF12D:FF"
+cheat54_enable = false
+
+cheat55_desc = "[物品]ON"
+cheat55_code = "FFF138:FF+FFF139:FF+FFF13A:FF+FFF13B:FF"
+cheat55_enable = false
+
+cheat56_desc = "[首饰]ON"
+cheat56_code = "FFF14D:FF+FFF151:FF+FFF155:FF+FFF159:FF"
+cheat56_enable = false
+
+cheat57_desc = "[右移坐标]1"
+cheat57_code = "FFE280:10"
+cheat57_enable = false
+
+cheat58_desc = "[右移坐标]4"
+cheat58_code = "FFE280:40"
+cheat58_enable = false
+
+cheat59_desc = "[右移坐标]8"
+cheat59_code = "FFE280:80"
+cheat59_enable = false
+
+cheat60_desc = "[下移坐标]2"
+cheat60_code = "FFE282:20"
+cheat60_enable = false
+
+cheat61_desc = "[下移坐标]4"
+cheat61_code = "FFE282:40"
+cheat61_enable = false
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1P血]ON"
+cheat0_code = "0048:50"
+cheat0_enable = false
+
+cheat1_desc = "[敌人死亡]ON"
+cheat1_code = "005C:00"
+cheat1_enable = false
+

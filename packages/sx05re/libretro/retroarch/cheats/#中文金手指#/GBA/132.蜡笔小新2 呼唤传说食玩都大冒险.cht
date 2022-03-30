@@ -1,0 +1,111 @@
+cheats = 27
+
+cheat0_desc = "生命"
+cheat0_code = "02034A04 0000000A"
+cheat0_enable = false
+
+cheat1_desc = "生命上限"
+cheat1_code = "02034A05 0000000A"
+cheat1_enable = false
+
+cheat2_desc = "人数"
+cheat2_code = "02034A08 00000063"
+cheat2_enable = false
+
+cheat3_desc = "金币"
+cheat3_code = "02034A0A 000000E8+02034A0B 00000003"
+cheat3_enable = false
+
+cheat4_desc = "全换装"
+cheat4_code = "02034A09 000000FF"
+cheat4_enable = false
+
+cheat5_desc = "卡片星级"
+cheat5_code = "02034A06 00000004"
+cheat5_enable = false
+
+cheat6_desc = "全道具"
+cheat6_code = "02034A26 000000FF+02034A27 000000FF+02034A28 000000FF+02034A29 000000FF+02034A2A 000000FF"
+cheat6_enable = false
+
+cheat7_desc = "全电影"
+cheat7_code = "02034A14 000000FF+02034A15 000000FF+02034A16 000000FF+02034A17 000000FF+02034A18 000000FF+02034A19 000000FF+02034A1A 000000FF+02034A1B 000000FF"
+cheat7_enable = false
+
+cheat8_desc = "全卡片"
+cheat8_code = "02034A1C 000000FF+02034A1D 000000FF+02034A1E 000000FF+02034A1F 000000FF+02034A20 000000FF+02034A21 000000FF+02034A22 000000FF+02034A23 000000FF+02034A24 000000FF+02034A25 000000FF"
+cheat8_enable = false
+
+cheat9_desc = "关卡全开"
+cheat9_code = "02034A3C 000000FF"
+cheat9_enable = false
+
+cheat10_desc = "全小游戏"
+cheat10_code = "02034A46 000000FF"
+cheat10_enable = false
+
+cheat11_desc = "全模型"
+cheat11_code = "02034A47 000000FF"
+cheat11_enable = false
+
+cheat12_desc = "命不减 开"
+cheat12_code = "02034A08 00000063"
+cheat12_enable = false
+
+cheat13_desc = "体力不减 开"
+cheat13_code = "02034A04 0000000A+02034A05 0000000A"
+cheat13_enable = false
+
+cheat14_desc = "闪烁无敌 开"
+cheat14_code = "02028B8C 00000032"
+cheat14_enable = false
+
+cheat15_desc = "金币999 开"
+cheat15_code = "02034A0A 000000E7+02034A0B 00000003"
+cheat15_enable = false
+
+cheat16_desc = "道具全满 开"
+cheat16_code = "02034A26 000000FF+02034A27 000000FF+02034A28 000000FF+02034A29 000000FF+02034A2A 000000FF"
+cheat16_enable = false
+
+cheat17_desc = "变身型态 正常"
+cheat17_code = "02039641 00000000"
+cheat17_enable = false
+
+cheat18_desc = "变身型态 飞天鼠"
+cheat18_code = "02039641 00000001"
+cheat18_enable = false
+
+cheat19_desc = "变身型态 企鹅"
+cheat19_code = "02039641 00000002"
+cheat19_enable = false
+
+cheat20_desc = "变身型态 大象"
+cheat20_code = "02039641 00000003"
+cheat20_enable = false
+
+cheat21_desc = "变身型态 动感超人装"
+cheat21_code = "02039641 00000004"
+cheat21_enable = false
+
+cheat22_desc = "变身型态 蜜蜂装"
+cheat22_code = "02039641 00000005"
+cheat22_enable = false
+
+cheat23_desc = "变身型态 与丑女打排球(用完解锁)"
+cheat23_code = "02039641 00000006"
+cheat23_enable = false
+
+cheat24_desc = "变身型态 三姑六婆(会卡住)"
+cheat24_code = "02039641 00000007"
+cheat24_enable = false
+
+cheat25_desc = "动感光波不减 开"
+cheat25_code = "02039647 0000007F"
+cheat25_enable = false
+
+cheat26_desc = "蜜蜂装无限飞行 开"
+cheat26_code = "02039648 00000038"
+cheat26_enable = false
+
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[主角生命]ON"
+cheat0_code = "0021:09"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "0025:1　"
+cheat1_enable = false
+

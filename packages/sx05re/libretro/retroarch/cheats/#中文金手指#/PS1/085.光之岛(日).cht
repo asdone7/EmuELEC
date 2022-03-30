@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "#无限能量"
+cheat0_code = "800C90BE 001E+800DB18C 001E+800E2E8C 001E+800F72D8 001E"
+cheat0_enable = false
+
+

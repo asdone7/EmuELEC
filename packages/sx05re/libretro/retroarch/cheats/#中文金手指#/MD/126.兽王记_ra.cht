@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[1P主角生命]ON"
+cheat0_code = "FFB121:09"
+cheat0_enable = false
+
+cheat1_desc = "[1P主角HP]ON"
+cheat1_code = "FFCF11:FF"
+cheat1_enable = false
+
+cheat2_desc = "[1P主角变身（变身后要解锁）]ON"
+cheat2_code = "FFD02A:03"
+cheat2_enable = false
+

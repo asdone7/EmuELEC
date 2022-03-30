@@ -1,0 +1,238 @@
+cheats = 59
+
+cheat0_desc = "[运送机数]ON"
+cheat0_code = "FF016C:64"
+cheat0_enable = false
+
+cheat1_desc = "[爆击机数]ON"
+cheat1_code = "FF016A:64"
+cheat1_enable = false
+
+cheat2_desc = "[弹药左]ON"
+cheat2_code = "FF632A:60+FF632B:EA"
+cheat2_enable = false
+
+cheat3_desc = "[燃料左]ON"
+cheat3_code = "FF6330:60+FF6331:EA"
+cheat3_enable = false
+
+cheat4_desc = "[粮食左]ON"
+cheat4_code = "FF6336:60+FF6337:EA"
+cheat4_enable = false
+
+cheat5_desc = "[弹药右]ON"
+cheat5_code = "FF633C:60+FF633D:EA"
+cheat5_enable = false
+
+cheat6_desc = "[燃料右]ON"
+cheat6_code = "FF6342:60+FF6343:EA"
+cheat6_enable = false
+
+cheat7_desc = "[粮食右]ON"
+cheat7_code = "FF6348:60+FF6349:EA"
+cheat7_enable = false
+
+cheat8_desc = "[隆美尔将军指挥值]ON"
+cheat8_code = "FF0279:63"
+cheat8_enable = false
+
+cheat9_desc = "[隆美尔将军魅力值]ON"
+cheat9_code = "FF0278:63"
+cheat9_enable = false
+
+cheat10_desc = "[隆美尔将军步兵值]ON"
+cheat10_code = "FF027C:63"
+cheat10_enable = false
+
+cheat11_desc = "[隆美尔将军炮兵值]ON"
+cheat11_code = "FF027F:63"
+cheat11_enable = false
+
+cheat12_desc = "[隆美尔将军战车值]ON"
+cheat12_code = "FF027E:63"
+cheat12_enable = false
+
+cheat13_desc = "[古德里安将军指挥值]ON"
+cheat13_code = "FF0263:63"
+cheat13_enable = false
+
+cheat14_desc = "[古德里安将军魅力值]ON"
+cheat14_code = "FF0262:63"
+cheat14_enable = false
+
+cheat15_desc = "[古德里安将军步兵值]ON"
+cheat15_code = "FF0266:63"
+cheat15_enable = false
+
+cheat16_desc = "[古德里安将军炮兵值]ON"
+cheat16_code = "FF0269:63"
+cheat16_enable = false
+
+cheat17_desc = "[古德里安将军战车值]ON"
+cheat17_code = "FF0268:63"
+cheat17_enable = false
+
+cheat18_desc = "[克列斯特将军指挥值]ON"
+cheat18_code = "FF024D:63"
+cheat18_enable = false
+
+cheat19_desc = "[克列斯特将军魅力值]ON"
+cheat19_code = "FF024C:63"
+cheat19_enable = false
+
+cheat20_desc = "[克列斯特将军步兵值]ON"
+cheat20_code = "FF0250:63"
+cheat20_enable = false
+
+cheat21_desc = "[克列斯特将军炮兵值]ON"
+cheat21_code = "FF0253:63"
+cheat21_enable = false
+
+cheat22_desc = "[克列斯特将军战车值]ON"
+cheat22_code = "FF0252:63"
+cheat22_enable = false
+
+cheat23_desc = "[赖歇瑙将军指挥值]ON"
+cheat23_code = "FF0237:63"
+cheat23_enable = false
+
+cheat24_desc = "[赖歇瑙将军魅力值]ON"
+cheat24_code = "FF0236:63"
+cheat24_enable = false
+
+cheat25_desc = "[赖歇瑙将军步兵值]ON"
+cheat25_code = "FF023A:63"
+cheat25_enable = false
+
+cheat26_desc = "[赖歇瑙将军炮兵值]ON"
+cheat26_code = "FF023D:63"
+cheat26_enable = false
+
+cheat27_desc = "[赖歇瑙将军战车值]ON"
+cheat27_code = "FF023C:63"
+cheat27_enable = false
+
+cheat28_desc = "[克卢格将军指挥值]ON"
+cheat28_code = "FF0221:63"
+cheat28_enable = false
+
+cheat29_desc = "[克卢格将军魅力值]ON"
+cheat29_code = "FF0220:63"
+cheat29_enable = false
+
+cheat30_desc = "[克卢格将军步兵值]ON"
+cheat30_code = "FF0224:63"
+cheat30_enable = false
+
+cheat31_desc = "[克卢格将军炮兵值]ON"
+cheat31_code = "FF0227:63"
+cheat31_enable = false
+
+cheat32_desc = "[克卢格将军战车值]ON"
+cheat32_code = "FF0226:63"
+cheat32_enable = false
+
+cheat33_desc = "[曼施坦将军指挥值]ON"
+cheat33_code = "FF020B:63"
+cheat33_enable = false
+
+cheat34_desc = "[曼施坦将军魅力值]ON"
+cheat34_code = "FF020A:63"
+cheat34_enable = false
+
+cheat35_desc = "[曼施坦将军步兵值]ON"
+cheat35_code = "FF020E:63"
+cheat35_enable = false
+
+cheat36_desc = "[曼施坦将军炮兵值]ON"
+cheat36_code = "FF0211:63"
+cheat36_enable = false
+
+cheat37_desc = "[曼施坦将军战车值]ON"
+cheat37_code = "FF0210:63"
+cheat37_enable = false
+
+cheat38_desc = "[龙施泰特将军指挥值]ON"
+cheat38_code = "FF01F5:63"
+cheat38_enable = false
+
+cheat39_desc = "[龙施泰特将军魅力值]ON"
+cheat39_code = "FF01F4:63"
+cheat39_enable = false
+
+cheat40_desc = "[龙施泰特将军步兵值]ON"
+cheat40_code = "FF01F8:63"
+cheat40_enable = false
+
+cheat41_desc = "[龙施泰特将军炮兵值]ON"
+cheat41_code = "FF01FB:63"
+cheat41_enable = false
+
+cheat42_desc = "[龙施泰特将军战车值]ON"
+cheat42_code = "FF01FA:63"
+cheat42_enable = false
+
+cheat43_desc = "[一师一连第一位部队数]ON"
+cheat43_code = "FF0D30:63"
+cheat43_enable = false
+
+cheat44_desc = "[一师一连第二位部队数]ON"
+cheat44_code = "FF0D42:63"
+cheat44_enable = false
+
+cheat45_desc = "[一师一连第三位部队数]ON"
+cheat45_code = "FF0D54:63"
+cheat45_enable = false
+
+cheat46_desc = "[一师一连第四位部队数]ON"
+cheat46_code = "FF0D66:63"
+cheat46_enable = false
+
+cheat47_desc = "[一师二连第一位部队数]ON"
+cheat47_code = "FF0D78:63"
+cheat47_enable = false
+
+cheat48_desc = "[一师二连第二位部队数]ON"
+cheat48_code = "FF0D8A:63"
+cheat48_enable = false
+
+cheat49_desc = "[一师二连第三位部队数]ON"
+cheat49_code = "FF0D9C:63"
+cheat49_enable = false
+
+cheat50_desc = "[一师二连第四位部队数]ON"
+cheat50_code = "FF0DAE:63"
+cheat50_enable = false
+
+cheat51_desc = "[一师三连第一位部队数]ON"
+cheat51_code = "FF0DC0:63"
+cheat51_enable = false
+
+cheat52_desc = "[一师三连第二位部队数]ON"
+cheat52_code = "FF0DD2:63"
+cheat52_enable = false
+
+cheat53_desc = "[一师三连第三位部队数]ON"
+cheat53_code = "FF0DE4:63"
+cheat53_enable = false
+
+cheat54_desc = "[一师三连第四位部队数]ON"
+cheat54_code = "FF0DF6:63"
+cheat54_enable = false
+
+cheat55_desc = "[一师四连第一位部队数]ON"
+cheat55_code = "FF0E08:63"
+cheat55_enable = false
+
+cheat56_desc = "[一师四连第二位部队数]ON"
+cheat56_code = "FF0E1A:63"
+cheat56_enable = false
+
+cheat57_desc = "[一师四连第三位部队数]ON"
+cheat57_code = "FF0E2C:63"
+cheat57_enable = false
+
+cheat58_desc = "[一师四连第四位部队数]ON"
+cheat58_code = "FF0E3E:63"
+cheat58_enable = false
+

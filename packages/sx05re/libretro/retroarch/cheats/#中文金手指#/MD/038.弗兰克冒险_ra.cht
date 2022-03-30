@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[生命]ON"
+cheat0_code = "FFA2CA:0F"
+cheat0_enable = false
+
+cheat1_desc = "[体力]ON"
+cheat1_code = "FFC8D0:1F"
+cheat1_enable = false
+
+cheat2_desc = "[钥匙]ON"
+cheat2_code = "FFA2CC:09"
+cheat2_enable = false
+
+cheat3_desc = "[隐身]ON"
+cheat3_code = "FFC8CB:FF"
+cheat3_enable = false
+
+cheat4_desc = "[物品]ON"
+cheat4_code = "FFA2DC:09+FFA2DD:09+FFA2D3:09+FFA2DF:09+FFA2E0:09+FFA2E1:09+FFA2E2:09+FFA2E3:09+FFA2E4:09+FFA2E5:09+FFA2E6:09+FFA2E7:09+FFA2E8:09+FFA2E9:09"
+cheat4_enable = false
+

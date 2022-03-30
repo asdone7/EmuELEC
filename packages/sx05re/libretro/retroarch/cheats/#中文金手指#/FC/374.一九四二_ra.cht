@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[战斗机只数]ON"
+cheat0_code = "0432:09"
+cheat0_enable = false
+
+cheat1_desc = "[防护]ON"
+cheat1_code = "0436:06"
+cheat1_enable = false
+
+cheat2_desc = "[最强火力(绝对无敌)]ON"
+cheat2_code = "048E:8A"
+cheat2_enable = false
+

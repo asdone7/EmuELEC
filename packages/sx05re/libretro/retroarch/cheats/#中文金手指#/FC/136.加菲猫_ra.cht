@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[时间]ON"
+cheat0_code = "0315:00"
+cheat0_enable = false
+
+cheat1_desc = "[生命]ON"
+cheat1_code = "0318:32"
+cheat1_enable = false
+

@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[全零件最佳]ON"
+cheat0_code = "7EFE3805+7EFE3C05+7EFE4005+7EFE4405"
+cheat0_enable = false
+
+cheat1_desc = "[比赛中装甲不减]ON"
+cheat1_code = "7E179E03"
+cheat1_enable = false
+
+cheat2_desc = "[比赛中子弹无限]ON"
+cheat2_code = "7E17C609"
+cheat2_enable = false
+
+cheat3_desc = "[比赛中无敌]ON"
+cheat3_code = "7E179238"
+cheat3_enable = false
+
+cheat4_desc = "[钱]ON"
+cheat4_code = "7EFE3099+7EFE3199"
+cheat4_enable = false
+
+cheat5_desc = "[分最高]ON"
+cheat5_code = "7EFE2499+7EFE2599"
+cheat5_enable = false
+

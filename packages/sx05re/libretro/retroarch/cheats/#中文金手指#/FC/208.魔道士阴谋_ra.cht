@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[王子最强]ON"
+cheat0_code = "1629:FF+165B:FF+168D:63+16BF:63+1585:FF"
+cheat0_enable = false
+

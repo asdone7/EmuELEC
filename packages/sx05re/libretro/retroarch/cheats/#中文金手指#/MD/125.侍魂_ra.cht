@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[无限时间]ON"
+cheat0_code = "FFAA35:99"
+cheat0_enable = false
+
+cheat1_desc = "[P1 生命值]ON"
+cheat1_code = "FF483E:80+FFAAEE:80"
+cheat1_enable = false
+
+cheat2_desc = "[P1 怒 MAX]ON"
+cheat2_code = "FF4878:20+FF4848:FF"
+cheat2_enable = false
+
+cheat3_desc = "[P2 生命值]ON"
+cheat3_code = "FF498E:80+FFAAF4:80"
+cheat3_enable = false
+
+cheat4_desc = "[P2 怒 MAX]ON"
+cheat4_code = "FF49C8:20+FF4998:FF"
+cheat4_enable = false
+

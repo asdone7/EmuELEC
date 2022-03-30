@@ -1,0 +1,182 @@
+cheats = 45
+
+cheat0_desc = "[1P无敌]锁"
+cheat0_code = "FFDD1F:01"
+cheat0_enable = false
+
+cheat1_desc = "[1P角色(选四大天王时请选定后马上解锁)]泰利"
+cheat1_code = "FFCE4C:00"
+cheat1_enable = false
+
+cheat2_desc = "[1P角色(选四大天王时请选定后马上解锁)]安迪"
+cheat2_code = "FFCE4C:04"
+cheat2_enable = false
+
+cheat3_desc = "[1P角色(选四大天王时请选定后马上解锁)]东丈"
+cheat3_code = "FFCE4C:08"
+cheat3_enable = false
+
+cheat4_desc = "[1P角色(选四大天王时请选定后马上解锁)]金甲焕"
+cheat4_code = "FFCE4C:0C"
+cheat4_enable = false
+
+cheat5_desc = "[1P角色(选四大天王时请选定后马上解锁)]不知火舞"
+cheat5_code = "FFCE4C:10"
+cheat5_enable = false
+
+cheat6_desc = "[1P角色(选四大天王时请选定后马上解锁)]大熊"
+cheat6_code = "FFCE4C:14"
+cheat6_enable = false
+
+cheat7_desc = "[1P角色(选四大天王时请选定后马上解锁)]山田十兵卫"
+cheat7_code = "FFCE4C:18"
+cheat7_enable = false
+
+cheat8_desc = "[1P角色(选四大天王时请选定后马上解锁)]陈泰山"
+cheat8_code = "FFCE4C:1C"
+cheat8_enable = false
+
+cheat9_desc = "[1P角色(选四大天王时请选定后马上解锁)]比利"
+cheat9_code = "FFCE4C:20"
+cheat9_enable = false
+
+cheat10_desc = "[1P角色(选四大天王时请选定后马上解锁)]阿塞尔"
+cheat10_code = "FFCE4C:24"
+cheat10_enable = false
+
+cheat11_desc = "[1P角色(选四大天王时请选定后马上解锁)]劳伦斯"
+cheat11_code = "FFCE4C:28"
+cheat11_enable = false
+
+cheat12_desc = "[1P角色(选四大天王时请选定后马上解锁)]克劳撒"
+cheat12_code = "FFCE4C:2C"
+cheat12_enable = false
+
+cheat13_desc = "[2P角色(选四大天王时请选定后马上解锁)]泰利"
+cheat13_code = "FFCECC:00"
+cheat13_enable = false
+
+cheat14_desc = "[2P角色(选四大天王时请选定后马上解锁)]安迪"
+cheat14_code = "FFCECC:04"
+cheat14_enable = false
+
+cheat15_desc = "[2P角色(选四大天王时请选定后马上解锁)]东丈"
+cheat15_code = "FFCECC:08"
+cheat15_enable = false
+
+cheat16_desc = "[2P角色(选四大天王时请选定后马上解锁)]金甲焕"
+cheat16_code = "FFCECC:0C"
+cheat16_enable = false
+
+cheat17_desc = "[2P角色(选四大天王时请选定后马上解锁)]不知火舞"
+cheat17_code = "FFCECC:10"
+cheat17_enable = false
+
+cheat18_desc = "[2P角色(选四大天王时请选定后马上解锁)]大熊"
+cheat18_code = "FFCECC:14"
+cheat18_enable = false
+
+cheat19_desc = "[2P角色(选四大天王时请选定后马上解锁)]山田十兵卫"
+cheat19_code = "FFCECC:18"
+cheat19_enable = false
+
+cheat20_desc = "[2P角色(选四大天王时请选定后马上解锁)]陈泰山"
+cheat20_code = "FFCECC:1C"
+cheat20_enable = false
+
+cheat21_desc = "[2P角色(选四大天王时请选定后马上解锁)]比利"
+cheat21_code = "FFCECC:20"
+cheat21_enable = false
+
+cheat22_desc = "[2P角色(选四大天王时请选定后马上解锁)]阿塞尔"
+cheat22_code = "FFCECC:24"
+cheat22_enable = false
+
+cheat23_desc = "[2P角色(选四大天王时请选定后马上解锁)]劳伦斯"
+cheat23_code = "FFCECC:28"
+cheat23_enable = false
+
+cheat24_desc = "[2P角色(选四大天王时请选定后马上解锁)]克劳撒"
+cheat24_code = "FFCECC:2C"
+cheat24_enable = false
+
+cheat25_desc = "[1P血槽]全满"
+cheat25_code = "FFDD10:60"
+cheat25_enable = false
+
+cheat26_desc = "[1P血槽]红血"
+cheat26_code = "FFDD10:1E"
+cheat26_enable = false
+
+cheat27_desc = "[1P血槽]一击必杀(成功后请解锁)"
+cheat27_code = "FFDD10:01"
+cheat27_enable = false
+
+cheat28_desc = "[2P血槽]全满"
+cheat28_code = "FFDF10:60"
+cheat28_enable = false
+
+cheat29_desc = "[2P血槽]红血"
+cheat29_code = "FFDF10:1E"
+cheat29_enable = false
+
+cheat30_desc = "[2P血槽]一击必杀(成功后请解锁)"
+cheat30_code = "FFDF10:01"
+cheat30_enable = false
+
+cheat31_desc = "[时间]时间不减"
+cheat31_code = "FF019E:60"
+cheat31_enable = false
+
+cheat32_desc = "[时间]TIME OVER"
+cheat32_code = "FF019E:00"
+cheat32_enable = false
+
+cheat33_desc = "[场景选择(要选择好角色再激活,最好是在地球出现时激活)]美国场景1,总统山雕像(泰利)"
+cheat33_code = "FFCE4C:00"
+cheat33_enable = false
+
+cheat34_desc = "[场景选择(要选择好角色再激活,最好是在地球出现时激活)]意大利,水城威尼斯(安迪)"
+cheat34_code = "FFCE4C:01"
+cheat34_enable = false
+
+cheat35_desc = "[场景选择(要选择好角色再激活,最好是在地球出现时激活)]泰国,黄昏的湖畔(东丈)"
+cheat35_code = "FFCE4C:02"
+cheat35_enable = false
+
+cheat36_desc = "[场景选择(要选择好角色再激活,最好是在地球出现时激活)]韩国,汉城街头(金甲焕)"
+cheat36_code = "FFCE4C:03"
+cheat36_enable = false
+
+cheat37_desc = "[场景选择(要选择好角色再激活,最好是在地球出现时激活)]日本场景1,不知火流忍者领地(不知火舞)"
+cheat37_code = "FFCE4C:04"
+cheat37_enable = false
+
+cheat38_desc = "[场景选择(要选择好角色再激活,最好是在地球出现时激活)]澳大利亚原野(大熊)"
+cheat38_code = "FFCE4C:05"
+cheat38_enable = false
+
+cheat39_desc = "[场景选择(要选择好角色再激活,最好是在地球出现时激活)]日本场景2,和式建筑(山田十兵卫)"
+cheat39_code = "FFCE4C:06"
+cheat39_enable = false
+
+cheat40_desc = "[场景选择(要选择好角色再激活,最好是在地球出现时激活)]香港,鲤鱼门海鲜酒家(陈泰山)"
+cheat40_code = "FFCE4C:07"
+cheat40_enable = false
+
+cheat41_desc = "[场景选择(要选择好角色再激活,最好是在地球出现时激活)]*英国,大笨钟(比利)"
+cheat41_code = "FFCE4C:08"
+cheat41_enable = false
+
+cheat42_desc = "[场景选择(要选择好角色再激活,最好是在地球出现时激活)]*美国场景2,死亡擂台(阿塞尔)"
+cheat42_code = "FFCE4C:09"
+cheat42_enable = false
+
+cheat43_desc = "[场景选择(要选择好角色再激活,最好是在地球出现时激活)]*西班牙斗牛场(劳伦斯)"
+cheat43_code = "FFCE4C:0A"
+cheat43_enable = false
+
+cheat44_desc = "[场景选择(要选择好角色再激活,最好是在地球出现时激活)]*德国,克劳撒的宫殿"
+cheat44_code = "FFCE4C:0B"
+cheat44_enable = false
+

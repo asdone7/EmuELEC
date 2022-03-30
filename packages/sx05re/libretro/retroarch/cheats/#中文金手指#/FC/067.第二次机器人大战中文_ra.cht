@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[全队HP全满]ON"
+cheat0_code = "1EB7:FF+1EB8:FF+1EB9:FF+1EBA:FF+1EBB:FF+1EBC:FF+1EBD:FF+1EBE:FF+1EF7:FF+1EF8:FF+1EF9:FF+1EFA:FF+1EFB:FF+1EFC:FF+1EFD:FF+1EFE:FF+1EFF:FF"
+cheat0_enable = false
+
+cheat1_desc = "[全队SP全满]ON"
+cheat1_code = "2022:FF+2023:FF+2024:FF+2025:FF+2026:FF+2027:FF+2028:FF+2029:FF+202D:FF+202E:FF+202F:FF+2030:FF+2031:FF+2032:FF+2033:FF+2034:FF+2035:FF"
+cheat1_enable = false
+
+cheat2_desc = "[全队最高强度]ON"
+cheat2_code = "1E57:FF+1E58:FF+1E59:FF+1E5A:FF+1E5B:FF+1E5C:FF+1E5D:FF+1E5E:FF+1E5F:FF"
+cheat2_enable = false
+
+cheat3_desc = "[全队最高防守]ON"
+cheat3_code = "1E77:FF+1E78:FF+1E79:FF+1E7A:FF+1E7B:FF+1E7C:FF+1E7D:FF+1E7E:FF+1E7F:FF"
+cheat3_enable = false
+
+cheat4_desc = "[全队最高速度]ON"
+cheat4_code = "1E97:FF+1E98:FF+1E99:FF+1E9A:FF+1E9B:FF+1E9C:FF+1E9D:FF+1E9E:FF+1E9F:FF"
+cheat4_enable = false
+
+cheat5_desc = "[全队最高机动力]ON"
+cheat5_code = "1E37:63+1E38:63+1E39:63+1E3A:63+1E3B:63+1E3C:63+1E3D:63+1E3E:63+1E3F:63"
+cheat5_enable = false
+

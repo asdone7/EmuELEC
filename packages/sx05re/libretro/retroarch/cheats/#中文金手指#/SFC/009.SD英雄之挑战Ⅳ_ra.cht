@@ -1,0 +1,46 @@
+cheats = 11
+
+cheat0_desc = "[HP]ON"
+cheat0_code = "7E046C20"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "7E00E4FF"
+cheat1_enable = false
+
+cheat2_desc = "[BOMB]ON"
+cheat2_code = "7E1CE509"
+cheat2_enable = false
+
+cheat3_desc = "[人数]ON"
+cheat3_code = "7E00E00A"
+cheat3_enable = false
+
+cheat4_desc = "[快速升级]ON"
+cheat4_code = "7E00D91E"
+cheat4_enable = false
+
+cheat5_desc = "[V2可无限飞行]ON"
+cheat5_code = "7E1CD030"
+cheat5_enable = false
+
+cheat6_desc = "[BOSS战时间]ON"
+cheat6_code = "7E1BB163"
+cheat6_enable = false
+
+cheat7_desc = "[机器人HP]ON"
+cheat7_code = "7E046C60"
+cheat7_enable = false
+
+cheat8_desc = "[机器人能量]ON"
+cheat8_code = "7E1B9E60"
+cheat8_enable = false
+
+cheat9_desc = "[敌方HP]ON"
+cheat9_code = "7E0D6C00"
+cheat9_enable = false
+
+cheat10_desc = "[敌方能量]ON"
+cheat10_code = "7E1B9D00"
+cheat10_enable = false
+

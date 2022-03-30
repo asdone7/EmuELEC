@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[无敌]ON"
+cheat0_code = "1F0CF5:AA"
+cheat0_enable = false
+
+cheat1_desc = "[生命数最大]ON"
+cheat1_code = "1F042D:99"
+cheat1_enable = false
+
+cheat2_desc = "[炸弹不减]ON"
+cheat2_code = "1F042C:99"
+cheat2_enable = false
+

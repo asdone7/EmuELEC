@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[生命值最大]ON"
+cheat0_code = "1F00C8:64"
+cheat0_enable = false
+
+cheat1_desc = "[金币最多]ON"
+cheat1_code = "1F00CC:0F+1F00CD:27"
+cheat1_enable = false
+
+cheat2_desc = "[无敌(关底须解锁)]ON"
+cheat2_code = "1F0048:14"
+cheat2_enable = false
+
+cheat3_desc = "[龙神丸子弹无限]ON"
+cheat3_code = "1F00CB:63"
+cheat3_enable = false
+

@@ -1,0 +1,50 @@
+cheats = 12
+
+cheat0_desc = "[无限时间]ON"
+cheat0_code = "FFFC3D:99"
+cheat0_enable = false
+
+cheat1_desc = "[P1 生命数]ON"
+cheat1_code = "FFEF82:09"
+cheat1_enable = false
+
+cheat2_desc = "[P1 体力值]ON"
+cheat2_code = "FFEF80:68"
+cheat2_enable = false
+
+cheat3_desc = "[P2 生命数]ON"
+cheat3_code = "FFF082:09"
+cheat3_enable = false
+
+cheat4_desc = "[P2 体力值]ON"
+cheat4_code = "FFF080:68"
+cheat4_enable = false
+
+cheat5_desc = "[选择关卡(需过一版面方有效)]第二关(成功请解锁)"
+cheat5_code = "FFFC42:02"
+cheat5_enable = false
+
+cheat6_desc = "[选择关卡(需过一版面方有效)]第三关(成功请解锁)"
+cheat6_code = "FFFC42:04"
+cheat6_enable = false
+
+cheat7_desc = "[选择关卡(需过一版面方有效)]第四关(成功请解锁)"
+cheat7_code = "FFFC42:06"
+cheat7_enable = false
+
+cheat8_desc = "[选择关卡(需过一版面方有效)]第五关(成功请解锁)"
+cheat8_code = "FFFC42:08"
+cheat8_enable = false
+
+cheat9_desc = "[选择关卡(需过一版面方有效)]第六关(成功请解锁)"
+cheat9_code = "FFFC42:0A"
+cheat9_enable = false
+
+cheat10_desc = "[选择关卡(需过一版面方有效)]第七关(成功请解锁)"
+cheat10_code = "FFFC42:0C"
+cheat10_enable = false
+
+cheat11_desc = "[选择关卡(需过一版面方有效)]第八关(成功请解锁)"
+cheat11_code = "FFFC42:0E"
+cheat11_enable = false
+

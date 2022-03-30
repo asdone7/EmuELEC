@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "FFE768:60+FFE769:EA"
+cheat0_enable = false
+
+cheat1_desc = "[体力]ON"
+cheat1_code = "FFC798:96"
+cheat1_enable = false
+
+cheat2_desc = "[魔法元素-火]ON"
+cheat2_code = "FFE870:63"
+cheat2_enable = false
+
+cheat3_desc = "[魔法元素-气]ON"
+cheat3_code = "FFE871:63"
+cheat3_enable = false
+
+cheat4_desc = "[魔法元素-水]ON"
+cheat4_code = "FFE872:63"
+cheat4_enable = false
+
+cheat5_desc = "[魔法元素-地]ON"
+cheat5_code = "FFE873:63"
+cheat5_enable = false
+

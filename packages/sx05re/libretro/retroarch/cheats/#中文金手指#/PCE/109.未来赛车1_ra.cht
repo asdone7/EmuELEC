@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[$]ON"
+cheat0_code = "1F0A8D:99"
+cheat0_enable = false
+
+cheat1_desc = "[1P能源]ON"
+cheat1_code = "1F0B72:63"
+cheat1_enable = false
+

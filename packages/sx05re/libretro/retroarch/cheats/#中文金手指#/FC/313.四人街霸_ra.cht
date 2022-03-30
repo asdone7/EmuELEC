@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[1P不死]ON"
+cheat0_code = "00A2:00"
+cheat0_enable = false
+
+cheat1_desc = "[时间]ON"
+cheat1_code = "009C:63"
+cheat1_enable = false
+
+cheat2_desc = "[选人]白龙"
+cheat2_code = "00A0:00"
+cheat2_enable = false
+
+cheat3_desc = "[选人]春丽"
+cheat3_code = "00A0:01"
+cheat3_enable = false
+
+cheat4_desc = "[选人]古里"
+cheat4_code = "00A0:02"
+cheat4_enable = false
+
+cheat5_desc = "[选人]俄佬"
+cheat5_code = "00A0:03"
+cheat5_enable = false
+
+cheat6_desc = "[选人]将军"
+cheat6_code = "00A0:04"
+cheat6_enable = false
+

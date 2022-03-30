@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[生命]无限"
+cheat0_code = "0006EB:10"
+cheat0_enable = false
+
+cheat1_desc = "[钥匙]无限"
+cheat1_code = "0006ED:09"
+cheat1_enable = false
+
+cheat2_desc = "[无敌状态，>_<警报长鸣]ON"
+cheat2_code = "06F2:01"
+cheat2_enable = false
+

@@ -1,0 +1,206 @@
+cheats = 51
+
+cheat0_desc = "[人数无限]ON"
+cheat0_code = "00B3:9A+00B4:9A+00B5:9A+00B6:9A"
+cheat0_enable = false
+
+cheat1_desc = "[1P 能量值]一号人物一格"
+cheat1_code = "00B1:10"
+cheat1_enable = false
+
+cheat2_desc = "[1P 能量值]一号人物二格"
+cheat2_code = "00B1:20"
+cheat2_enable = false
+
+cheat3_desc = "[1P 能量值]一号人物三格"
+cheat3_code = "00B1:30"
+cheat3_enable = false
+
+cheat4_desc = "[1P 能量值]一号人物四格"
+cheat4_code = "00B1:40"
+cheat4_enable = false
+
+cheat5_desc = "[1P 能量值]一号人物五格"
+cheat5_code = "00B1:50"
+cheat5_enable = false
+
+cheat6_desc = "[1P 能量值]二号人物一格"
+cheat6_code = "00B1:11"
+cheat6_enable = false
+
+cheat7_desc = "[1P 能量值]二号人物二格"
+cheat7_code = "00B1:21"
+cheat7_enable = false
+
+cheat8_desc = "[1P 能量值]二号人物三格"
+cheat8_code = "00B1:31"
+cheat8_enable = false
+
+cheat9_desc = "[1P 能量值]二号人物四格"
+cheat9_code = "00B1:41"
+cheat9_enable = false
+
+cheat10_desc = "[1P 能量值]二号人物五格"
+cheat10_code = "00B1:51"
+cheat10_enable = false
+
+cheat11_desc = "[1P 能量值]三号人物一格"
+cheat11_code = "00B1:12"
+cheat11_enable = false
+
+cheat12_desc = "[1P 能量值]三号人物二格"
+cheat12_code = "00B1:22"
+cheat12_enable = false
+
+cheat13_desc = "[1P 能量值]三号人物三格"
+cheat13_code = "00B1:32"
+cheat13_enable = false
+
+cheat14_desc = "[1P 能量值]三号人物四格"
+cheat14_code = "00B1:42"
+cheat14_enable = false
+
+cheat15_desc = "[1P 能量值]三号人物五格"
+cheat15_code = "00B1:52"
+cheat15_enable = false
+
+cheat16_desc = "[1P 能量值]四号人物一格"
+cheat16_code = "00B1:13"
+cheat16_enable = false
+
+cheat17_desc = "[1P 能量值]四号人物二格"
+cheat17_code = "00B1:23"
+cheat17_enable = false
+
+cheat18_desc = "[1P 能量值]四号人物三格"
+cheat18_code = "00B1:33"
+cheat18_enable = false
+
+cheat19_desc = "[1P 能量值]四号人物四格"
+cheat19_code = "00B1:43"
+cheat19_enable = false
+
+cheat20_desc = "[1P 能量值]四号人物五格"
+cheat20_code = "00B1:53"
+cheat20_enable = false
+
+cheat21_desc = "[2P 能量值]一号人物一格"
+cheat21_code = "00B2:10"
+cheat21_enable = false
+
+cheat22_desc = "[2P 能量值]一号人物二格"
+cheat22_code = "00B2:20"
+cheat22_enable = false
+
+cheat23_desc = "[2P 能量值]一号人物三格"
+cheat23_code = "00B2:30"
+cheat23_enable = false
+
+cheat24_desc = "[2P 能量值]一号人物四格"
+cheat24_code = "00B2:40"
+cheat24_enable = false
+
+cheat25_desc = "[2P 能量值]一号人物五格"
+cheat25_code = "00B2:50"
+cheat25_enable = false
+
+cheat26_desc = "[2P 能量值]二号人物一格"
+cheat26_code = "00B2:11"
+cheat26_enable = false
+
+cheat27_desc = "[2P 能量值]二号人物二格"
+cheat27_code = "00B2:21"
+cheat27_enable = false
+
+cheat28_desc = "[2P 能量值]二号人物三格"
+cheat28_code = "00B2:31"
+cheat28_enable = false
+
+cheat29_desc = "[2P 能量值]二号人物四格"
+cheat29_code = "00B2:41"
+cheat29_enable = false
+
+cheat30_desc = "[2P 能量值]二号人物五格"
+cheat30_code = "00B2:51"
+cheat30_enable = false
+
+cheat31_desc = "[2P 能量值]三号人物一格"
+cheat31_code = "00B2:12"
+cheat31_enable = false
+
+cheat32_desc = "[2P 能量值]三号人物二格"
+cheat32_code = "00B2:22"
+cheat32_enable = false
+
+cheat33_desc = "[2P 能量值]三号人物三格"
+cheat33_code = "00B2:32"
+cheat33_enable = false
+
+cheat34_desc = "[2P 能量值]三号人物四格"
+cheat34_code = "00B2:42"
+cheat34_enable = false
+
+cheat35_desc = "[2P 能量值]三号人物五格"
+cheat35_code = "00B2:52"
+cheat35_enable = false
+
+cheat36_desc = "[2P 能量值]四号人物一格"
+cheat36_code = "00B2:13"
+cheat36_enable = false
+
+cheat37_desc = "[2P 能量值]四号人物二格"
+cheat37_code = "00B2:23"
+cheat37_enable = false
+
+cheat38_desc = "[2P 能量值]四号人物三格"
+cheat38_code = "00B2:33"
+cheat38_enable = false
+
+cheat39_desc = "[2P 能量值]四号人物四格"
+cheat39_code = "00B2:43"
+cheat39_enable = false
+
+cheat40_desc = "[2P 能量值]四号人物五格"
+cheat40_code = "00B2:53"
+cheat40_enable = false
+
+cheat41_desc = "[1P 子弹射速加快]ON"
+cheat41_code = "0083:00"
+cheat41_enable = false
+
+cheat42_desc = "[2P 子弹射速加快]ON"
+cheat42_code = "0084:00"
+cheat42_enable = false
+
+cheat43_desc = "[一号人物武器]加强炸弹"
+cheat43_code = "007F:15"
+cheat43_enable = false
+
+cheat44_desc = "[一号人物武器]加强机枪"
+cheat44_code = "007F:16"
+cheat44_enable = false
+
+cheat45_desc = "[二号人物武器]加强机枪"
+cheat45_code = "0080:15"
+cheat45_enable = false
+
+cheat46_desc = "[二号人物武器]加强导弹"
+cheat46_code = "0080:16"
+cheat46_enable = false
+
+cheat47_desc = "[三号人物武器]加强火枪"
+cheat47_code = "0081:15"
+cheat47_enable = false
+
+cheat48_desc = "[三号人物武器]加强导弹"
+cheat48_code = "0081:16"
+cheat48_enable = false
+
+cheat49_desc = "[四号人物武器]加强炸弹"
+cheat49_code = "0082:15"
+cheat49_enable = false
+
+cheat50_desc = "[四号人物武器]超强炸弹"
+cheat50_code = "0082:16"
+cheat50_enable = false
+

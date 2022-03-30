@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[时间（过关请解锁）]ON"
+cheat0_code = "0082:00"
+cheat0_enable = false
+
+cheat1_desc = "[生命值]ON"
+cheat1_code = "006E:00"
+cheat1_enable = false
+
+cheat2_desc = "[冲锋枪]ON"
+cheat2_code = "05EF:1410065407"
+cheat2_enable = false
+

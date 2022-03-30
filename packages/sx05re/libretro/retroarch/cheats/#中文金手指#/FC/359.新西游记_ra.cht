@@ -1,0 +1,102 @@
+cheats = 25
+
+cheat0_desc = "[体力无限]ON"
+cheat0_code = "0105:28+0402:05+0403:05+0404:05+0405:05+0406:05+0407:05+0408:05+0409:05+040A:05+040B:05"
+cheat0_enable = false
+
+cheat1_desc = "[钱最多]ON"
+cheat1_code = "0109:FF+010A:FF"
+cheat1_enable = false
+
+cheat2_desc = "[金箍棒]ON"
+cheat2_code = "010C:05"
+cheat2_enable = false
+
+cheat3_desc = "[鞋最强]ON"
+cheat3_code = "010D:04"
+cheat3_enable = false
+
+cheat4_desc = "[盾最强]ON"
+cheat4_code = "010E:04"
+cheat4_enable = false
+
+cheat5_desc = "[装甲最强]ON"
+cheat5_code = "010B:05"
+cheat5_enable = false
+
+cheat6_desc = "[救命丹]ON"
+cheat6_code = "0113:01"
+cheat6_enable = false
+
+cheat7_desc = "[隐身衣]ON"
+cheat7_code = "0111:FF"
+cheat7_enable = false
+
+cheat8_desc = "[飞行鞋]ON"
+cheat8_code = "0112:05"
+cheat8_enable = false
+
+cheat9_desc = "[护身宝物]ON"
+cheat9_code = "010F:05+0110:05"
+cheat9_enable = false
+
+cheat10_desc = "[笛子]ON"
+cheat10_code = "042A:8D"
+cheat10_enable = false
+
+cheat11_desc = "[宝物无限]扇子"
+cheat11_code = "0116:02+0117:00+0118:63"
+cheat11_enable = false
+
+cheat12_desc = "[宝物无限]炸弹"
+cheat12_code = "0116:02+0117:01+0118:63"
+cheat12_enable = false
+
+cheat13_desc = "[宝物无限]火球"
+cheat13_code = "0116:02+0117:02+0118:63"
+cheat13_enable = false
+
+cheat14_desc = "[宝物无限]闪电"
+cheat14_code = "0116:02+0117:03+0118:63"
+cheat14_enable = false
+
+cheat15_desc = "[选关]2"
+cheat15_code = "0102:01"
+cheat15_enable = false
+
+cheat16_desc = "[选关]3"
+cheat16_code = "0102:02"
+cheat16_enable = false
+
+cheat17_desc = "[选关]4"
+cheat17_code = "0102:03"
+cheat17_enable = false
+
+cheat18_desc = "[选关]5"
+cheat18_code = "0102:04"
+cheat18_enable = false
+
+cheat19_desc = "[选关]6"
+cheat19_code = "0102:05"
+cheat19_enable = false
+
+cheat20_desc = "[选关]7"
+cheat20_code = "0102:06"
+cheat20_enable = false
+
+cheat21_desc = "[选关]8"
+cheat21_code = "0102:07"
+cheat21_enable = false
+
+cheat22_desc = "[选关]9"
+cheat22_code = "0102:08"
+cheat22_enable = false
+
+cheat23_desc = "[选关]10"
+cheat23_code = "0102:09"
+cheat23_enable = false
+
+cheat24_desc = "[选关]11"
+cheat24_code = "0102:0A"
+cheat24_enable = false
+

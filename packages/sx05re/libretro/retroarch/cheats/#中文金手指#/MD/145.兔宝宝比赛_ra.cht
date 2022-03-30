@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[分数]ON"
+cheat0_code = "FFE02A:63"
+cheat0_enable = false
+
+cheat1_desc = "[次数]ON"
+cheat1_code = "FFA046:63"
+cheat1_enable = false
+

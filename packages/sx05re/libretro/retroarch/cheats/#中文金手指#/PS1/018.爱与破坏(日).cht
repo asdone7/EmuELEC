@@ -1,0 +1,63 @@
+cheats = 15
+
+cheat0_desc = "#无损伤"
+cheat0_code = "D0073828 6400+80073826 6400+D0074670 6400+8007466E 6400+D0077210 6400+8007720E 6400+D0079680 6400+8007967E 6400+D007D5A0 6400+8007D59E 6400+D007D270 6400+8007D26E 6400"
+cheat0_enable = false
+
+cheat1_desc = "#所有电影"
+cheat1_code = "8017A8C0 FFFF+8017A8C2 FFFF+8017A8C4 FFFF+8017A8C6 FFFF+8017A8C8 FFFF+8017A8CA 0001"
+cheat1_enable = false
+
+cheat2_desc = "#无限时间"
+cheat2_code = "801765F4 0000"
+cheat2_enable = false
+
+cheat3_desc = "#目前的外观"
+cheat3_code = "3015F56F 0080"
+cheat3_enable = false
+
+cheat4_desc = "#ViVi ROOM完全开放"
+cheat4_code = "8015F560 FFFF+8015F562 FFFF+8015F564 FFFF+8015F566 FFFF+8015F568 FFFF+8015F56A FFFF+8015F56C 000F"
+cheat4_enable = false
+
+cheat5_desc = "#LuLu ROOM完全开放"
+cheat5_code = "8015F570 FFFF+8015F572 FFFF+8015F574 FFFF+8015F576 FFFF+8015F578 FFFF+8015F57A FFFF+8015F57C 000F"
+cheat5_enable = false
+
+cheat6_desc = "#KiKi ROOM全面开放"
+cheat6_code = "8015F580 FFFF+8015F582 FFFF+8015F584 FFFF+8015F586 FFFF+8015F588 FFFF+8015F58A FFFF+8015F58C 000F"
+cheat6_enable = false
+
+cheat7_desc = "#ViVi恋爱度"
+cheat7_code = "8015F6C8 03E7"
+cheat7_enable = false
+
+cheat8_desc = "#ViVi选择频率"
+cheat8_code = "8015F6D4 0003"
+cheat8_enable = false
+
+cheat9_desc = "#LuLu恋爱程度"
+cheat9_code = "8015F6C8 03E7"
+cheat9_enable = false
+
+cheat10_desc = "#LuLu选择频率"
+cheat10_code = "8015F6D4 0003"
+cheat10_enable = false
+
+cheat11_desc = "#KiKi恋爱程度"
+cheat11_code = "8015F6C8 03E7"
+cheat11_enable = false
+
+cheat12_desc = "#KiKi选择频率"
+cheat12_code = "8015F6D4 0003"
+cheat12_enable = false
+
+cheat13_desc = "#无敌和BOSS杀手"
+cheat13_code = "D0178056 A487+80178056 A480+D005A1E6 A662+8005A1E6 A660+D017773A 0043+8017773A 0040+D0073826 0000+80073826 6400+D007466E 0000+8007466E 6400+D007720E 0000+8007720E 6400+D007967E 0000+8007967E 6400+D007D59E 0000+8007D59E 6400+D007D26E 0000+8007D26E 6400"
+cheat13_enable = false
+
+cheat14_desc = "#凡人打击。按选择+三角形"
+cheat14_code = "D015B74A 0110+80177752 1400+D015B74A 0180+80177752 1C80"
+cheat14_enable = false
+
+

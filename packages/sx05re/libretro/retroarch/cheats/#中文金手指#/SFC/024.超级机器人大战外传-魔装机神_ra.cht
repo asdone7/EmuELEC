@@ -1,0 +1,2422 @@
+cheats = 605
+
+cheat0_desc = "[金钱无限]ON"
+cheat0_code = "7E10097F+7E100A96+7E100B98"
+cheat0_enable = false
+
+cheat1_desc = "[LV99一次升级]ON"
+cheat1_code = "7E0F79FF+7E0F7AFF"
+cheat1_enable = false
+
+cheat2_desc = "[SP不减]ON"
+cheat2_code = "7E0F8400"
+cheat2_enable = false
+
+cheat3_desc = "[第一人物HP,MG,精神等锁定]ON"
+cheat3_code = "7E13B0FF+7E13B1FF+7E1400FF+7E14C8FF+7E14A0FF+7E14F064"
+cheat3_enable = false
+
+cheat4_desc = "[第一人物无限移动]ON"
+cheat4_code = "7E129900"
+cheat4_enable = false
+
+cheat5_desc = "[第一人物全能力最高]ON"
+cheat5_code = "7E1450FF+7E1451FF+7E1478FF+7E1479FF+7E14C9FF+7E14A1FF+7E1518E7+7E151903+7E13D8FF+7E13D9FF+7E1401FF+7E1428FF+7E1429FF"
+cheat5_enable = false
+
+cheat6_desc = "[第二人物HP,MG,精神等锁定]ON"
+cheat6_code = "7E13B2FF+7E13B3FF+7E1402FF+7E14CAFF+7E14A2FF+7E14F264"
+cheat6_enable = false
+
+cheat7_desc = "[第二人物无限移动]ON"
+cheat7_code = "7E129B01"
+cheat7_enable = false
+
+cheat8_desc = "[第二人物全能力最高]ON"
+cheat8_code = "7E1452FF+7E1453FF+7E147AFF+7E147BFF+7E14CBFF+7E14A3FF+7E151AE7+7E151B03+7E13DAFF+7E13DBFF+7E1403FF+7E142AFF+7E142BFF"
+cheat8_enable = false
+
+cheat9_desc = "[第三人物HP,MG,精神等锁定]ON"
+cheat9_code = "7E13B4FF+7E13B5FF+7E1404FF+7E14CCFF+7E14A4FF+7E14F464"
+cheat9_enable = false
+
+cheat10_desc = "[第三人物无限移动]ON"
+cheat10_code = "7E129D02"
+cheat10_enable = false
+
+cheat11_desc = "[第三人物全能力最高]ON"
+cheat11_code = "7E1454FF+7E1455FF+7E147CFF+7E147DFF+7E14CDFF+7E14A5FF+7E151CE7+7E151D03+7E13DCFF+7E13DDFF+7E1405FF+7E142CFF+7E142DFF"
+cheat11_enable = false
+
+cheat12_desc = "[第四人物HP,MG,精神等锁定]ON"
+cheat12_code = "7E13B6FF+7E13B7FF+7E1406FF+7E14CEFF+7E14A6FF+7E14F664"
+cheat12_enable = false
+
+cheat13_desc = "[第四人物无限移动]ON"
+cheat13_code = "7E129F03"
+cheat13_enable = false
+
+cheat14_desc = "[第四人物全能力最高]ON"
+cheat14_code = "7E1456FF+7E1457FF+7E147EFF+7E147FFF+7E14CFFF+7E14A7FF+7E151EE7+7E151F03+7E13DEFF+7E13DFFF+7E1407FF+7E142EFF+7E142FFF"
+cheat14_enable = false
+
+cheat15_desc = "[第五人物HP,MG,精神等锁定]ON"
+cheat15_code = "7E13B8FF+7E13B9FF+7E1408FF+7E14D0FF+7E14A8FF+7E14F864"
+cheat15_enable = false
+
+cheat16_desc = "[第五人物无限移动]ON"
+cheat16_code = "7E12A104"
+cheat16_enable = false
+
+cheat17_desc = "[第五人物全能力最高]ON"
+cheat17_code = "7E1458FF+7E1459FF+7E1480FF+7E1481FF+7E14D1FF+7E14A9FF+7E1520E7+7E152103+7E13E0FF+7E13E1FF+7E1409FF+7E1430FF+7E1431FF"
+cheat17_enable = false
+
+cheat18_desc = "[第六人物HP,MG,精神等锁定]ON"
+cheat18_code = "7E13BAFF+7E13BBFF+7E140AFF+7E14D2FF+7E14AAFF+7E14FA64"
+cheat18_enable = false
+
+cheat19_desc = "[第六人物无限移动]ON"
+cheat19_code = "7E12A305"
+cheat19_enable = false
+
+cheat20_desc = "[第六人物全能力最高]ON"
+cheat20_code = "7E145AFF+7E145BFF+7E1482FF+7E1483FF+7E14D3FF+7E14ABFF+7E1522E7+7E152303+7E13E2FF+7E13E3FF+7E140BFF+7E1432FF+7E1433FF"
+cheat20_enable = false
+
+cheat21_desc = "[第七人物HP,MG,精神等锁定]ON"
+cheat21_code = "7E13BCFF+7E13BDFF+7E140CFF+7E14D4FF+7E14ACFF+7E14FC64"
+cheat21_enable = false
+
+cheat22_desc = "[第七人物无限移动]ON"
+cheat22_code = "7E12A506"
+cheat22_enable = false
+
+cheat23_desc = "[第七人物全能力最高]ON"
+cheat23_code = "7E145CFF+7E145DFF+7E1484FF+7E1485FF+7E14D5FF+7E14ADFF+7E1524E7+7E152503+7E13E4FF+7E13E5FF+7E140DFF+7E1434FF+7E1435FF"
+cheat23_enable = false
+
+cheat24_desc = "[第八人物HP,MG,精神等锁定]ON"
+cheat24_code = "7E13BEFF+7E13BFFF+7E140EFF+7E14D6FF+7E14AEFF+7E14FE64"
+cheat24_enable = false
+
+cheat25_desc = "[第八人物无限移动]ON"
+cheat25_code = "7E12A707"
+cheat25_enable = false
+
+cheat26_desc = "[第八人物全能力最高]ON"
+cheat26_code = "7E145EFF+7E145FFF+7E1486FF+7E1487FF+7E14D7FF+7E14AFFF+7E1526E7+7E152703+7E13E6FF+7E13E7FF+7E140FFF+7E1436FF+7E1437FF"
+cheat26_enable = false
+
+cheat27_desc = "[机体1]*サイバスタ―"
+cheat27_code = "7E136001"
+cheat27_enable = false
+
+cheat28_desc = "[机体1]*グランヴェ―ル"
+cheat28_code = "7E136002"
+cheat28_enable = false
+
+cheat29_desc = "[机体1]*ガッデス"
+cheat29_code = "7E136003"
+cheat29_enable = false
+
+cheat30_desc = "[机体1]*ザムヅ―ド"
+cheat30_code = "7E136004"
+cheat30_enable = false
+
+cheat31_desc = "[机体1]*ヴァルシオ―ネR"
+cheat31_code = "7E136005"
+cheat31_enable = false
+
+cheat32_desc = "[机体1]*グランゾン"
+cheat32_code = "7E136006"
+cheat32_enable = false
+
+cheat33_desc = "[机体1]*ネオグランゾン"
+cheat33_code = "7E136007"
+cheat33_enable = false
+
+cheat34_desc = "[机体1]ディアブロ"
+cheat34_code = "7E136008"
+cheat34_enable = false
+
+cheat35_desc = "[机体1]ジャオ―ム"
+cheat35_code = "7E136009"
+cheat35_enable = false
+
+cheat36_desc = "[机体1]ラスト―ル"
+cheat36_code = "7E13600A"
+cheat36_enable = false
+
+cheat37_desc = "[机体1]ギオラスト"
+cheat37_code = "7E13600B"
+cheat37_enable = false
+
+cheat38_desc = "[机体1]ジェイファ―"
+cheat38_code = "7E13600C"
+cheat38_enable = false
+
+cheat39_desc = "[机体1]ガルガ―ド"
+cheat39_code = "7E13600D"
+cheat39_enable = false
+
+cheat40_desc = "[机体1]ソルガディ"
+cheat40_code = "7E13600E"
+cheat40_enable = false
+
+cheat41_desc = "[机体1]ザイン"
+cheat41_code = "7E13600F"
+cheat41_enable = false
+
+cheat42_desc = "[机体1]ファルク"
+cheat42_code = "7E136010"
+cheat42_enable = false
+
+cheat43_desc = "[机体1]自己测试1"
+cheat43_code = "7E136011"
+cheat43_enable = false
+
+cheat44_desc = "[机体1]自己测试2"
+cheat44_code = "7E136012"
+cheat44_enable = false
+
+cheat45_desc = "[机体1]自己测试3"
+cheat45_code = "7E136013"
+cheat45_enable = false
+
+cheat46_desc = "[机体1]自己测试4"
+cheat46_code = "7E136014"
+cheat46_enable = false
+
+cheat47_desc = "[机体1]自己测试5"
+cheat47_code = "7E136015"
+cheat47_enable = false
+
+cheat48_desc = "[机体1]自己测试6"
+cheat48_code = "7E136016"
+cheat48_enable = false
+
+cheat49_desc = "[机体1]自己测试7"
+cheat49_code = "7E136017"
+cheat49_enable = false
+
+cheat50_desc = "[机体1]自己测试8"
+cheat50_code = "7E136018"
+cheat50_enable = false
+
+cheat51_desc = "[机体1]自己测试9"
+cheat51_code = "7E136019"
+cheat51_enable = false
+
+cheat52_desc = "[机体1]自己测试10"
+cheat52_code = "7E13601A"
+cheat52_enable = false
+
+cheat53_desc = "[机体1]自己测试11"
+cheat53_code = "7E13601B"
+cheat53_enable = false
+
+cheat54_desc = "[机体1]自己测试12"
+cheat54_code = "7E13601C"
+cheat54_enable = false
+
+cheat55_desc = "[机体1]自己测试13"
+cheat55_code = "7E13601D"
+cheat55_enable = false
+
+cheat56_desc = "[机体1]自己测试14"
+cheat56_code = "7E13601E"
+cheat56_enable = false
+
+cheat57_desc = "[机体1]自己测试15"
+cheat57_code = "7E13601F"
+cheat57_enable = false
+
+cheat58_desc = "[机体1]自己测试16"
+cheat58_code = "7E136020"
+cheat58_enable = false
+
+cheat59_desc = "[机体1]自己测试17"
+cheat59_code = "7E136021"
+cheat59_enable = false
+
+cheat60_desc = "[机体1]自己测试18"
+cheat60_code = "7E136022"
+cheat60_enable = false
+
+cheat61_desc = "[机体1]自己测试19"
+cheat61_code = "7E136023"
+cheat61_enable = false
+
+cheat62_desc = "[机体1]自己测试20"
+cheat62_code = "7E136024"
+cheat62_enable = false
+
+cheat63_desc = "[机体1]自己测试21"
+cheat63_code = "7E136025"
+cheat63_enable = false
+
+cheat64_desc = "[机体1]自己测试22"
+cheat64_code = "7E136026"
+cheat64_enable = false
+
+cheat65_desc = "[机体1]自己测试23"
+cheat65_code = "7E136027"
+cheat65_enable = false
+
+cheat66_desc = "[机体1]自己测试24"
+cheat66_code = "7E136028"
+cheat66_enable = false
+
+cheat67_desc = "[机体1]自己测试25"
+cheat67_code = "7E136029"
+cheat67_enable = false
+
+cheat68_desc = "[机体1]自己测试26"
+cheat68_code = "7E13602A"
+cheat68_enable = false
+
+cheat69_desc = "[机体1]自己测试27"
+cheat69_code = "7E13602B"
+cheat69_enable = false
+
+cheat70_desc = "[机体1]自己测试28"
+cheat70_code = "7E13602C"
+cheat70_enable = false
+
+cheat71_desc = "[机体1]自己测试29"
+cheat71_code = "7E13602D"
+cheat71_enable = false
+
+cheat72_desc = "[机体1]自己测试30"
+cheat72_code = "7E13602E"
+cheat72_enable = false
+
+cheat73_desc = "[机体1]自己测试31"
+cheat73_code = "7E13602F"
+cheat73_enable = false
+
+cheat74_desc = "[机体1]自己测试32"
+cheat74_code = "7E136030"
+cheat74_enable = false
+
+cheat75_desc = "[机体1]自己测试33"
+cheat75_code = "7E136031"
+cheat75_enable = false
+
+cheat76_desc = "[机体1]自己测试34"
+cheat76_code = "7E136032"
+cheat76_enable = false
+
+cheat77_desc = "[机体1]最后一个35"
+cheat77_code = "7E136033"
+cheat77_enable = false
+
+cheat78_desc = "[机体2]*サイバスタ―"
+cheat78_code = "7E136201"
+cheat78_enable = false
+
+cheat79_desc = "[机体2]*グランヴェ―ル"
+cheat79_code = "7E136202"
+cheat79_enable = false
+
+cheat80_desc = "[机体2]*ガッデス"
+cheat80_code = "7E136203"
+cheat80_enable = false
+
+cheat81_desc = "[机体2]*ザムヅ―ド"
+cheat81_code = "7E136204"
+cheat81_enable = false
+
+cheat82_desc = "[机体2]*ヴァルシオ―ネR"
+cheat82_code = "7E136205"
+cheat82_enable = false
+
+cheat83_desc = "[机体2]*グランゾン"
+cheat83_code = "7E136206"
+cheat83_enable = false
+
+cheat84_desc = "[机体2]*ネオグランゾン"
+cheat84_code = "7E136207"
+cheat84_enable = false
+
+cheat85_desc = "[机体2]ディアブロ"
+cheat85_code = "7E136208"
+cheat85_enable = false
+
+cheat86_desc = "[机体2]ジャオ―ム"
+cheat86_code = "7E136209"
+cheat86_enable = false
+
+cheat87_desc = "[机体2]ラスト―ル"
+cheat87_code = "7E13620A"
+cheat87_enable = false
+
+cheat88_desc = "[机体2]ギオラスト"
+cheat88_code = "7E13620B"
+cheat88_enable = false
+
+cheat89_desc = "[机体2]ジェイファ―"
+cheat89_code = "7E13620C"
+cheat89_enable = false
+
+cheat90_desc = "[机体2]ガルガ―ド"
+cheat90_code = "7E13620D"
+cheat90_enable = false
+
+cheat91_desc = "[机体2]ソルガディ"
+cheat91_code = "7E13620E"
+cheat91_enable = false
+
+cheat92_desc = "[机体2]ザイン"
+cheat92_code = "7E13620F"
+cheat92_enable = false
+
+cheat93_desc = "[机体2]ファルク"
+cheat93_code = "7E136210"
+cheat93_enable = false
+
+cheat94_desc = "[机体2]自己测试1"
+cheat94_code = "7E136211"
+cheat94_enable = false
+
+cheat95_desc = "[机体2]自己测试2"
+cheat95_code = "7E136212"
+cheat95_enable = false
+
+cheat96_desc = "[机体2]自己测试3"
+cheat96_code = "7E136213"
+cheat96_enable = false
+
+cheat97_desc = "[机体2]自己测试4"
+cheat97_code = "7E136214"
+cheat97_enable = false
+
+cheat98_desc = "[机体2]自己测试5"
+cheat98_code = "7E136215"
+cheat98_enable = false
+
+cheat99_desc = "[机体2]自己测试6"
+cheat99_code = "7E136216"
+cheat99_enable = false
+
+cheat100_desc = "[机体2]自己测试7"
+cheat100_code = "7E136217"
+cheat100_enable = false
+
+cheat101_desc = "[机体2]自己测试8"
+cheat101_code = "7E136218"
+cheat101_enable = false
+
+cheat102_desc = "[机体2]自己测试9"
+cheat102_code = "7E136219"
+cheat102_enable = false
+
+cheat103_desc = "[机体2]自己测试10"
+cheat103_code = "7E13621A"
+cheat103_enable = false
+
+cheat104_desc = "[机体2]自己测试11"
+cheat104_code = "7E13621B"
+cheat104_enable = false
+
+cheat105_desc = "[机体2]自己测试12"
+cheat105_code = "7E13621C"
+cheat105_enable = false
+
+cheat106_desc = "[机体2]自己测试13"
+cheat106_code = "7E13621D"
+cheat106_enable = false
+
+cheat107_desc = "[机体2]自己测试14"
+cheat107_code = "7E13621E"
+cheat107_enable = false
+
+cheat108_desc = "[机体2]自己测试15"
+cheat108_code = "7E13621F"
+cheat108_enable = false
+
+cheat109_desc = "[机体2]自己测试16"
+cheat109_code = "7E136220"
+cheat109_enable = false
+
+cheat110_desc = "[机体2]自己测试17"
+cheat110_code = "7E136221"
+cheat110_enable = false
+
+cheat111_desc = "[机体2]自己测试18"
+cheat111_code = "7E136222"
+cheat111_enable = false
+
+cheat112_desc = "[机体2]自己测试19"
+cheat112_code = "7E136223"
+cheat112_enable = false
+
+cheat113_desc = "[机体2]自己测试20"
+cheat113_code = "7E136224"
+cheat113_enable = false
+
+cheat114_desc = "[机体2]自己测试21"
+cheat114_code = "7E136225"
+cheat114_enable = false
+
+cheat115_desc = "[机体2]自己测试22"
+cheat115_code = "7E136226"
+cheat115_enable = false
+
+cheat116_desc = "[机体2]自己测试23"
+cheat116_code = "7E136227"
+cheat116_enable = false
+
+cheat117_desc = "[机体2]自己测试24"
+cheat117_code = "7E136228"
+cheat117_enable = false
+
+cheat118_desc = "[机体2]自己测试25"
+cheat118_code = "7E136229"
+cheat118_enable = false
+
+cheat119_desc = "[机体2]自己测试26"
+cheat119_code = "7E13622A"
+cheat119_enable = false
+
+cheat120_desc = "[机体2]自己测试27"
+cheat120_code = "7E13622B"
+cheat120_enable = false
+
+cheat121_desc = "[机体2]自己测试28"
+cheat121_code = "7E13622C"
+cheat121_enable = false
+
+cheat122_desc = "[机体2]自己测试29"
+cheat122_code = "7E13622D"
+cheat122_enable = false
+
+cheat123_desc = "[机体2]自己测试30"
+cheat123_code = "7E13622E"
+cheat123_enable = false
+
+cheat124_desc = "[机体2]自己测试31"
+cheat124_code = "7E13622F"
+cheat124_enable = false
+
+cheat125_desc = "[机体2]自己测试32"
+cheat125_code = "7E136230"
+cheat125_enable = false
+
+cheat126_desc = "[机体2]自己测试33"
+cheat126_code = "7E136231"
+cheat126_enable = false
+
+cheat127_desc = "[机体2]自己测试34"
+cheat127_code = "7E136232"
+cheat127_enable = false
+
+cheat128_desc = "[机体2]最后一个35"
+cheat128_code = "7E136233"
+cheat128_enable = false
+
+cheat129_desc = "[机体3]*サイバスタ―"
+cheat129_code = "7E136401"
+cheat129_enable = false
+
+cheat130_desc = "[机体3]*グランヴェ―ル"
+cheat130_code = "7E136402"
+cheat130_enable = false
+
+cheat131_desc = "[机体3]*ガッデス"
+cheat131_code = "7E136403"
+cheat131_enable = false
+
+cheat132_desc = "[机体3]*ザムヅ―ド"
+cheat132_code = "7E136404"
+cheat132_enable = false
+
+cheat133_desc = "[机体3]*ヴァルシオ―ネR"
+cheat133_code = "7E136405"
+cheat133_enable = false
+
+cheat134_desc = "[机体3]*グランゾン"
+cheat134_code = "7E136406"
+cheat134_enable = false
+
+cheat135_desc = "[机体3]*ネオグランゾン"
+cheat135_code = "7E136407"
+cheat135_enable = false
+
+cheat136_desc = "[机体3]ディアブロ"
+cheat136_code = "7E136408"
+cheat136_enable = false
+
+cheat137_desc = "[机体3]ジャオ―ム"
+cheat137_code = "7E136409"
+cheat137_enable = false
+
+cheat138_desc = "[机体3]ラスト―ル"
+cheat138_code = "7E13640A"
+cheat138_enable = false
+
+cheat139_desc = "[机体3]ギオラスト"
+cheat139_code = "7E13640B"
+cheat139_enable = false
+
+cheat140_desc = "[机体3]ジェイファ―"
+cheat140_code = "7E13640C"
+cheat140_enable = false
+
+cheat141_desc = "[机体3]ガルガ―ド"
+cheat141_code = "7E13640D"
+cheat141_enable = false
+
+cheat142_desc = "[机体3]ソルガディ"
+cheat142_code = "7E13640E"
+cheat142_enable = false
+
+cheat143_desc = "[机体3]ザイン"
+cheat143_code = "7E13640F"
+cheat143_enable = false
+
+cheat144_desc = "[机体3]ファルク"
+cheat144_code = "7E136410"
+cheat144_enable = false
+
+cheat145_desc = "[机体3]自己测试1"
+cheat145_code = "7E136411"
+cheat145_enable = false
+
+cheat146_desc = "[机体3]自己测试2"
+cheat146_code = "7E136412"
+cheat146_enable = false
+
+cheat147_desc = "[机体3]自己测试3"
+cheat147_code = "7E136413"
+cheat147_enable = false
+
+cheat148_desc = "[机体3]自己测试4"
+cheat148_code = "7E136414"
+cheat148_enable = false
+
+cheat149_desc = "[机体3]自己测试5"
+cheat149_code = "7E136415"
+cheat149_enable = false
+
+cheat150_desc = "[机体3]自己测试6"
+cheat150_code = "7E136416"
+cheat150_enable = false
+
+cheat151_desc = "[机体3]自己测试7"
+cheat151_code = "7E136417"
+cheat151_enable = false
+
+cheat152_desc = "[机体3]自己测试8"
+cheat152_code = "7E136418"
+cheat152_enable = false
+
+cheat153_desc = "[机体3]自己测试9"
+cheat153_code = "7E136419"
+cheat153_enable = false
+
+cheat154_desc = "[机体3]自己测试10"
+cheat154_code = "7E13641A"
+cheat154_enable = false
+
+cheat155_desc = "[机体3]自己测试11"
+cheat155_code = "7E13641B"
+cheat155_enable = false
+
+cheat156_desc = "[机体3]自己测试12"
+cheat156_code = "7E13641C"
+cheat156_enable = false
+
+cheat157_desc = "[机体3]自己测试13"
+cheat157_code = "7E13641D"
+cheat157_enable = false
+
+cheat158_desc = "[机体3]自己测试14"
+cheat158_code = "7E13641E"
+cheat158_enable = false
+
+cheat159_desc = "[机体3]自己测试15"
+cheat159_code = "7E13641F"
+cheat159_enable = false
+
+cheat160_desc = "[机体3]自己测试16"
+cheat160_code = "7E136420"
+cheat160_enable = false
+
+cheat161_desc = "[机体3]自己测试17"
+cheat161_code = "7E136421"
+cheat161_enable = false
+
+cheat162_desc = "[机体3]自己测试18"
+cheat162_code = "7E136422"
+cheat162_enable = false
+
+cheat163_desc = "[机体3]自己测试19"
+cheat163_code = "7E136423"
+cheat163_enable = false
+
+cheat164_desc = "[机体3]自己测试20"
+cheat164_code = "7E136424"
+cheat164_enable = false
+
+cheat165_desc = "[机体3]自己测试21"
+cheat165_code = "7E136425"
+cheat165_enable = false
+
+cheat166_desc = "[机体3]自己测试22"
+cheat166_code = "7E136426"
+cheat166_enable = false
+
+cheat167_desc = "[机体3]自己测试23"
+cheat167_code = "7E136427"
+cheat167_enable = false
+
+cheat168_desc = "[机体3]自己测试24"
+cheat168_code = "7E136428"
+cheat168_enable = false
+
+cheat169_desc = "[机体3]自己测试25"
+cheat169_code = "7E136429"
+cheat169_enable = false
+
+cheat170_desc = "[机体3]自己测试26"
+cheat170_code = "7E13642A"
+cheat170_enable = false
+
+cheat171_desc = "[机体3]自己测试27"
+cheat171_code = "7E13642B"
+cheat171_enable = false
+
+cheat172_desc = "[机体3]自己测试28"
+cheat172_code = "7E13642C"
+cheat172_enable = false
+
+cheat173_desc = "[机体3]自己测试29"
+cheat173_code = "7E13642D"
+cheat173_enable = false
+
+cheat174_desc = "[机体3]自己测试30"
+cheat174_code = "7E13642E"
+cheat174_enable = false
+
+cheat175_desc = "[机体3]自己测试31"
+cheat175_code = "7E13642F"
+cheat175_enable = false
+
+cheat176_desc = "[机体3]自己测试32"
+cheat176_code = "7E136430"
+cheat176_enable = false
+
+cheat177_desc = "[机体3]自己测试33"
+cheat177_code = "7E136431"
+cheat177_enable = false
+
+cheat178_desc = "[机体3]自己测试34"
+cheat178_code = "7E136432"
+cheat178_enable = false
+
+cheat179_desc = "[机体3]最后一个35"
+cheat179_code = "7E136433"
+cheat179_enable = false
+
+cheat180_desc = "[机体4]*サイバスタ―"
+cheat180_code = "7E136601"
+cheat180_enable = false
+
+cheat181_desc = "[机体4]*グランヴェ―ル"
+cheat181_code = "7E136602"
+cheat181_enable = false
+
+cheat182_desc = "[机体4]*ガッデス"
+cheat182_code = "7E136603"
+cheat182_enable = false
+
+cheat183_desc = "[机体4]*ザムヅ―ド"
+cheat183_code = "7E136604"
+cheat183_enable = false
+
+cheat184_desc = "[机体4]*ヴァルシオ―ネR"
+cheat184_code = "7E136605"
+cheat184_enable = false
+
+cheat185_desc = "[机体4]*グランゾン"
+cheat185_code = "7E136606"
+cheat185_enable = false
+
+cheat186_desc = "[机体4]*ネオグランゾン"
+cheat186_code = "7E136607"
+cheat186_enable = false
+
+cheat187_desc = "[机体4]ディアブロ"
+cheat187_code = "7E136608"
+cheat187_enable = false
+
+cheat188_desc = "[机体4]ジャオ―ム"
+cheat188_code = "7E136609"
+cheat188_enable = false
+
+cheat189_desc = "[机体4]ラスト―ル"
+cheat189_code = "7E13660A"
+cheat189_enable = false
+
+cheat190_desc = "[机体4]ギオラスト"
+cheat190_code = "7E13660B"
+cheat190_enable = false
+
+cheat191_desc = "[机体4]ジェイファ―"
+cheat191_code = "7E13660C"
+cheat191_enable = false
+
+cheat192_desc = "[机体4]ガルガ―ド"
+cheat192_code = "7E13660D"
+cheat192_enable = false
+
+cheat193_desc = "[机体4]ソルガディ"
+cheat193_code = "7E13660E"
+cheat193_enable = false
+
+cheat194_desc = "[机体4]ザイン"
+cheat194_code = "7E13660F"
+cheat194_enable = false
+
+cheat195_desc = "[机体4]ファルク"
+cheat195_code = "7E136610"
+cheat195_enable = false
+
+cheat196_desc = "[机体4]自己测试1"
+cheat196_code = "7E136611"
+cheat196_enable = false
+
+cheat197_desc = "[机体4]自己测试2"
+cheat197_code = "7E136612"
+cheat197_enable = false
+
+cheat198_desc = "[机体4]自己测试3"
+cheat198_code = "7E136613"
+cheat198_enable = false
+
+cheat199_desc = "[机体4]自己测试4"
+cheat199_code = "7E136614"
+cheat199_enable = false
+
+cheat200_desc = "[机体4]自己测试5"
+cheat200_code = "7E136615"
+cheat200_enable = false
+
+cheat201_desc = "[机体4]自己测试6"
+cheat201_code = "7E136616"
+cheat201_enable = false
+
+cheat202_desc = "[机体4]自己测试7"
+cheat202_code = "7E136617"
+cheat202_enable = false
+
+cheat203_desc = "[机体4]自己测试8"
+cheat203_code = "7E136618"
+cheat203_enable = false
+
+cheat204_desc = "[机体4]自己测试9"
+cheat204_code = "7E136619"
+cheat204_enable = false
+
+cheat205_desc = "[机体4]自己测试10"
+cheat205_code = "7E13661A"
+cheat205_enable = false
+
+cheat206_desc = "[机体4]自己测试11"
+cheat206_code = "7E13661B"
+cheat206_enable = false
+
+cheat207_desc = "[机体4]自己测试12"
+cheat207_code = "7E13661C"
+cheat207_enable = false
+
+cheat208_desc = "[机体4]自己测试13"
+cheat208_code = "7E13661D"
+cheat208_enable = false
+
+cheat209_desc = "[机体4]自己测试14"
+cheat209_code = "7E13661E"
+cheat209_enable = false
+
+cheat210_desc = "[机体4]自己测试15"
+cheat210_code = "7E13661F"
+cheat210_enable = false
+
+cheat211_desc = "[机体4]自己测试16"
+cheat211_code = "7E136620"
+cheat211_enable = false
+
+cheat212_desc = "[机体4]自己测试17"
+cheat212_code = "7E136621"
+cheat212_enable = false
+
+cheat213_desc = "[机体4]自己测试18"
+cheat213_code = "7E136622"
+cheat213_enable = false
+
+cheat214_desc = "[机体4]自己测试19"
+cheat214_code = "7E136623"
+cheat214_enable = false
+
+cheat215_desc = "[机体4]自己测试20"
+cheat215_code = "7E136624"
+cheat215_enable = false
+
+cheat216_desc = "[机体4]自己测试21"
+cheat216_code = "7E136625"
+cheat216_enable = false
+
+cheat217_desc = "[机体4]自己测试22"
+cheat217_code = "7E136626"
+cheat217_enable = false
+
+cheat218_desc = "[机体4]自己测试23"
+cheat218_code = "7E136627"
+cheat218_enable = false
+
+cheat219_desc = "[机体4]自己测试24"
+cheat219_code = "7E136628"
+cheat219_enable = false
+
+cheat220_desc = "[机体4]自己测试25"
+cheat220_code = "7E136629"
+cheat220_enable = false
+
+cheat221_desc = "[机体4]自己测试26"
+cheat221_code = "7E13662A"
+cheat221_enable = false
+
+cheat222_desc = "[机体4]自己测试27"
+cheat222_code = "7E13662B"
+cheat222_enable = false
+
+cheat223_desc = "[机体4]自己测试28"
+cheat223_code = "7E13662C"
+cheat223_enable = false
+
+cheat224_desc = "[机体4]自己测试29"
+cheat224_code = "7E13662D"
+cheat224_enable = false
+
+cheat225_desc = "[机体4]自己测试30"
+cheat225_code = "7E13662E"
+cheat225_enable = false
+
+cheat226_desc = "[机体4]自己测试31"
+cheat226_code = "7E13662F"
+cheat226_enable = false
+
+cheat227_desc = "[机体4]自己测试32"
+cheat227_code = "7E136630"
+cheat227_enable = false
+
+cheat228_desc = "[机体4]自己测试33"
+cheat228_code = "7E136631"
+cheat228_enable = false
+
+cheat229_desc = "[机体4]自己测试34"
+cheat229_code = "7E136632"
+cheat229_enable = false
+
+cheat230_desc = "[机体4]最后一个35"
+cheat230_code = "7E136633"
+cheat230_enable = false
+
+cheat231_desc = "[机体5]*サイバスタ―"
+cheat231_code = "7E136801"
+cheat231_enable = false
+
+cheat232_desc = "[机体5]*グランヴェ―ル"
+cheat232_code = "7E136802"
+cheat232_enable = false
+
+cheat233_desc = "[机体5]*ガッデス"
+cheat233_code = "7E136803"
+cheat233_enable = false
+
+cheat234_desc = "[机体5]*ザムヅ―ド"
+cheat234_code = "7E136804"
+cheat234_enable = false
+
+cheat235_desc = "[机体5]*ヴァルシオ―ネR"
+cheat235_code = "7E136805"
+cheat235_enable = false
+
+cheat236_desc = "[机体5]*グランゾン"
+cheat236_code = "7E136806"
+cheat236_enable = false
+
+cheat237_desc = "[机体5]*ネオグランゾン"
+cheat237_code = "7E136807"
+cheat237_enable = false
+
+cheat238_desc = "[机体5]ディアブロ"
+cheat238_code = "7E136808"
+cheat238_enable = false
+
+cheat239_desc = "[机体5]ジャオ―ム"
+cheat239_code = "7E136809"
+cheat239_enable = false
+
+cheat240_desc = "[机体5]ラスト―ル"
+cheat240_code = "7E13680A"
+cheat240_enable = false
+
+cheat241_desc = "[机体5]ギオラスト"
+cheat241_code = "7E13680B"
+cheat241_enable = false
+
+cheat242_desc = "[机体5]ジェイファ―"
+cheat242_code = "7E13680C"
+cheat242_enable = false
+
+cheat243_desc = "[机体5]ガルガ―ド"
+cheat243_code = "7E13680D"
+cheat243_enable = false
+
+cheat244_desc = "[机体5]ソルガディ"
+cheat244_code = "7E13680E"
+cheat244_enable = false
+
+cheat245_desc = "[机体5]ザイン"
+cheat245_code = "7E13680F"
+cheat245_enable = false
+
+cheat246_desc = "[机体5]ファルク"
+cheat246_code = "7E136810"
+cheat246_enable = false
+
+cheat247_desc = "[机体5]自己测试1"
+cheat247_code = "7E136811"
+cheat247_enable = false
+
+cheat248_desc = "[机体5]自己测试2"
+cheat248_code = "7E136812"
+cheat248_enable = false
+
+cheat249_desc = "[机体5]自己测试3"
+cheat249_code = "7E136813"
+cheat249_enable = false
+
+cheat250_desc = "[机体5]自己测试4"
+cheat250_code = "7E136814"
+cheat250_enable = false
+
+cheat251_desc = "[机体5]自己测试5"
+cheat251_code = "7E136815"
+cheat251_enable = false
+
+cheat252_desc = "[机体5]自己测试6"
+cheat252_code = "7E136816"
+cheat252_enable = false
+
+cheat253_desc = "[机体5]自己测试7"
+cheat253_code = "7E136817"
+cheat253_enable = false
+
+cheat254_desc = "[机体5]自己测试8"
+cheat254_code = "7E136818"
+cheat254_enable = false
+
+cheat255_desc = "[机体5]自己测试9"
+cheat255_code = "7E136819"
+cheat255_enable = false
+
+cheat256_desc = "[机体5]自己测试10"
+cheat256_code = "7E13681A"
+cheat256_enable = false
+
+cheat257_desc = "[机体5]自己测试11"
+cheat257_code = "7E13681B"
+cheat257_enable = false
+
+cheat258_desc = "[机体5]自己测试12"
+cheat258_code = "7E13681C"
+cheat258_enable = false
+
+cheat259_desc = "[机体5]自己测试13"
+cheat259_code = "7E13681D"
+cheat259_enable = false
+
+cheat260_desc = "[机体5]自己测试14"
+cheat260_code = "7E13681E"
+cheat260_enable = false
+
+cheat261_desc = "[机体5]自己测试15"
+cheat261_code = "7E13681F"
+cheat261_enable = false
+
+cheat262_desc = "[机体5]自己测试16"
+cheat262_code = "7E136820"
+cheat262_enable = false
+
+cheat263_desc = "[机体5]自己测试17"
+cheat263_code = "7E136821"
+cheat263_enable = false
+
+cheat264_desc = "[机体5]自己测试18"
+cheat264_code = "7E136822"
+cheat264_enable = false
+
+cheat265_desc = "[机体5]自己测试19"
+cheat265_code = "7E136823"
+cheat265_enable = false
+
+cheat266_desc = "[机体5]自己测试20"
+cheat266_code = "7E136824"
+cheat266_enable = false
+
+cheat267_desc = "[机体5]自己测试21"
+cheat267_code = "7E136825"
+cheat267_enable = false
+
+cheat268_desc = "[机体5]自己测试22"
+cheat268_code = "7E136826"
+cheat268_enable = false
+
+cheat269_desc = "[机体5]自己测试23"
+cheat269_code = "7E136827"
+cheat269_enable = false
+
+cheat270_desc = "[机体5]自己测试24"
+cheat270_code = "7E136828"
+cheat270_enable = false
+
+cheat271_desc = "[机体5]自己测试25"
+cheat271_code = "7E136829"
+cheat271_enable = false
+
+cheat272_desc = "[机体5]自己测试26"
+cheat272_code = "7E13682A"
+cheat272_enable = false
+
+cheat273_desc = "[机体5]自己测试27"
+cheat273_code = "7E13682B"
+cheat273_enable = false
+
+cheat274_desc = "[机体5]自己测试28"
+cheat274_code = "7E13682C"
+cheat274_enable = false
+
+cheat275_desc = "[机体5]自己测试29"
+cheat275_code = "7E13682D"
+cheat275_enable = false
+
+cheat276_desc = "[机体5]自己测试30"
+cheat276_code = "7E13682E"
+cheat276_enable = false
+
+cheat277_desc = "[机体5]自己测试31"
+cheat277_code = "7E13682F"
+cheat277_enable = false
+
+cheat278_desc = "[机体5]自己测试32"
+cheat278_code = "7E136830"
+cheat278_enable = false
+
+cheat279_desc = "[机体5]自己测试33"
+cheat279_code = "7E136831"
+cheat279_enable = false
+
+cheat280_desc = "[机体5]自己测试34"
+cheat280_code = "7E136832"
+cheat280_enable = false
+
+cheat281_desc = "[机体5]最后一个35"
+cheat281_code = "7E136833"
+cheat281_enable = false
+
+cheat282_desc = "[机体6]*サイバスタ―"
+cheat282_code = "7E136A01"
+cheat282_enable = false
+
+cheat283_desc = "[机体6]*グランヴェ―ル"
+cheat283_code = "7E136A02"
+cheat283_enable = false
+
+cheat284_desc = "[机体6]*ガッデス"
+cheat284_code = "7E136A03"
+cheat284_enable = false
+
+cheat285_desc = "[机体6]*ザムヅ―ド"
+cheat285_code = "7E136A04"
+cheat285_enable = false
+
+cheat286_desc = "[机体6]*ヴァルシオ―ネR"
+cheat286_code = "7E136A05"
+cheat286_enable = false
+
+cheat287_desc = "[机体6]*グランゾン"
+cheat287_code = "7E136A06"
+cheat287_enable = false
+
+cheat288_desc = "[机体6]*ネオグランゾン"
+cheat288_code = "7E136A07"
+cheat288_enable = false
+
+cheat289_desc = "[机体6]ディアブロ"
+cheat289_code = "7E136A08"
+cheat289_enable = false
+
+cheat290_desc = "[机体6]ジャオ―ム"
+cheat290_code = "7E136A09"
+cheat290_enable = false
+
+cheat291_desc = "[机体6]ラスト―ル"
+cheat291_code = "7E136A0A"
+cheat291_enable = false
+
+cheat292_desc = "[机体6]ギオラスト"
+cheat292_code = "7E136A0B"
+cheat292_enable = false
+
+cheat293_desc = "[机体6]ジェイファ―"
+cheat293_code = "7E136A0C"
+cheat293_enable = false
+
+cheat294_desc = "[机体6]ガルガ―ド"
+cheat294_code = "7E136A0D"
+cheat294_enable = false
+
+cheat295_desc = "[机体6]ソルガディ"
+cheat295_code = "7E136A0E"
+cheat295_enable = false
+
+cheat296_desc = "[机体6]ザイン"
+cheat296_code = "7E136A0F"
+cheat296_enable = false
+
+cheat297_desc = "[机体6]ファルク"
+cheat297_code = "7E136A10"
+cheat297_enable = false
+
+cheat298_desc = "[机体6]自己测试1"
+cheat298_code = "7E136A11"
+cheat298_enable = false
+
+cheat299_desc = "[机体6]自己测试2"
+cheat299_code = "7E136A12"
+cheat299_enable = false
+
+cheat300_desc = "[机体6]自己测试3"
+cheat300_code = "7E136A13"
+cheat300_enable = false
+
+cheat301_desc = "[机体6]自己测试4"
+cheat301_code = "7E136A14"
+cheat301_enable = false
+
+cheat302_desc = "[机体6]自己测试5"
+cheat302_code = "7E136A15"
+cheat302_enable = false
+
+cheat303_desc = "[机体6]自己测试6"
+cheat303_code = "7E136A16"
+cheat303_enable = false
+
+cheat304_desc = "[机体6]自己测试7"
+cheat304_code = "7E136A17"
+cheat304_enable = false
+
+cheat305_desc = "[机体6]自己测试8"
+cheat305_code = "7E136A18"
+cheat305_enable = false
+
+cheat306_desc = "[机体6]自己测试9"
+cheat306_code = "7E136A19"
+cheat306_enable = false
+
+cheat307_desc = "[机体6]自己测试10"
+cheat307_code = "7E136A1A"
+cheat307_enable = false
+
+cheat308_desc = "[机体6]自己测试11"
+cheat308_code = "7E136A1B"
+cheat308_enable = false
+
+cheat309_desc = "[机体6]自己测试12"
+cheat309_code = "7E136A1C"
+cheat309_enable = false
+
+cheat310_desc = "[机体6]自己测试13"
+cheat310_code = "7E136A1D"
+cheat310_enable = false
+
+cheat311_desc = "[机体6]自己测试14"
+cheat311_code = "7E136A1E"
+cheat311_enable = false
+
+cheat312_desc = "[机体6]自己测试15"
+cheat312_code = "7E136A1F"
+cheat312_enable = false
+
+cheat313_desc = "[机体6]自己测试16"
+cheat313_code = "7E136A20"
+cheat313_enable = false
+
+cheat314_desc = "[机体6]自己测试17"
+cheat314_code = "7E136A21"
+cheat314_enable = false
+
+cheat315_desc = "[机体6]自己测试18"
+cheat315_code = "7E136A22"
+cheat315_enable = false
+
+cheat316_desc = "[机体6]自己测试19"
+cheat316_code = "7E136A23"
+cheat316_enable = false
+
+cheat317_desc = "[机体6]自己测试20"
+cheat317_code = "7E136A24"
+cheat317_enable = false
+
+cheat318_desc = "[机体6]自己测试21"
+cheat318_code = "7E136A25"
+cheat318_enable = false
+
+cheat319_desc = "[机体6]自己测试22"
+cheat319_code = "7E136A26"
+cheat319_enable = false
+
+cheat320_desc = "[机体6]自己测试23"
+cheat320_code = "7E136A27"
+cheat320_enable = false
+
+cheat321_desc = "[机体6]自己测试24"
+cheat321_code = "7E136A28"
+cheat321_enable = false
+
+cheat322_desc = "[机体6]自己测试25"
+cheat322_code = "7E136A29"
+cheat322_enable = false
+
+cheat323_desc = "[机体6]自己测试26"
+cheat323_code = "7E136A2A"
+cheat323_enable = false
+
+cheat324_desc = "[机体6]自己测试27"
+cheat324_code = "7E136A2B"
+cheat324_enable = false
+
+cheat325_desc = "[机体6]自己测试28"
+cheat325_code = "7E136A2C"
+cheat325_enable = false
+
+cheat326_desc = "[机体6]自己测试29"
+cheat326_code = "7E136A2D"
+cheat326_enable = false
+
+cheat327_desc = "[机体6]自己测试30"
+cheat327_code = "7E136A2E"
+cheat327_enable = false
+
+cheat328_desc = "[机体6]自己测试31"
+cheat328_code = "7E136A2F"
+cheat328_enable = false
+
+cheat329_desc = "[机体6]自己测试32"
+cheat329_code = "7E136A30"
+cheat329_enable = false
+
+cheat330_desc = "[机体6]自己测试33"
+cheat330_code = "7E136A31"
+cheat330_enable = false
+
+cheat331_desc = "[机体6]自己测试34"
+cheat331_code = "7E136A32"
+cheat331_enable = false
+
+cheat332_desc = "[机体6]最后一个35"
+cheat332_code = "7E136A33"
+cheat332_enable = false
+
+cheat333_desc = "[机体7]*サイバスタ―"
+cheat333_code = "7E136C01"
+cheat333_enable = false
+
+cheat334_desc = "[机体7]*グランヴェ―ル"
+cheat334_code = "7E136C02"
+cheat334_enable = false
+
+cheat335_desc = "[机体7]*ガッデス"
+cheat335_code = "7E136C03"
+cheat335_enable = false
+
+cheat336_desc = "[机体7]*ザムヅ―ド"
+cheat336_code = "7E136C04"
+cheat336_enable = false
+
+cheat337_desc = "[机体7]*ヴァルシオ―ネR"
+cheat337_code = "7E136C05"
+cheat337_enable = false
+
+cheat338_desc = "[机体7]*グランゾン"
+cheat338_code = "7E136C06"
+cheat338_enable = false
+
+cheat339_desc = "[机体7]*ネオグランゾン"
+cheat339_code = "7E136C07"
+cheat339_enable = false
+
+cheat340_desc = "[机体7]ディアブロ"
+cheat340_code = "7E136C08"
+cheat340_enable = false
+
+cheat341_desc = "[机体7]ジャオ―ム"
+cheat341_code = "7E136C09"
+cheat341_enable = false
+
+cheat342_desc = "[机体7]ラスト―ル"
+cheat342_code = "7E136C0A"
+cheat342_enable = false
+
+cheat343_desc = "[机体7]ギオラスト"
+cheat343_code = "7E136C0B"
+cheat343_enable = false
+
+cheat344_desc = "[机体7]ジェイファ―"
+cheat344_code = "7E136C0C"
+cheat344_enable = false
+
+cheat345_desc = "[机体7]ガルガ―ド"
+cheat345_code = "7E136C0D"
+cheat345_enable = false
+
+cheat346_desc = "[机体7]ソルガディ"
+cheat346_code = "7E136C0E"
+cheat346_enable = false
+
+cheat347_desc = "[机体7]ザイン"
+cheat347_code = "7E136C0F"
+cheat347_enable = false
+
+cheat348_desc = "[机体7]ファルク"
+cheat348_code = "7E136C10"
+cheat348_enable = false
+
+cheat349_desc = "[机体7]自己测试1"
+cheat349_code = "7E136C11"
+cheat349_enable = false
+
+cheat350_desc = "[机体7]自己测试2"
+cheat350_code = "7E136C12"
+cheat350_enable = false
+
+cheat351_desc = "[机体7]自己测试3"
+cheat351_code = "7E136C13"
+cheat351_enable = false
+
+cheat352_desc = "[机体7]自己测试4"
+cheat352_code = "7E136C14"
+cheat352_enable = false
+
+cheat353_desc = "[机体7]自己测试5"
+cheat353_code = "7E136C15"
+cheat353_enable = false
+
+cheat354_desc = "[机体7]自己测试6"
+cheat354_code = "7E136C16"
+cheat354_enable = false
+
+cheat355_desc = "[机体7]自己测试7"
+cheat355_code = "7E136C17"
+cheat355_enable = false
+
+cheat356_desc = "[机体7]自己测试8"
+cheat356_code = "7E136C18"
+cheat356_enable = false
+
+cheat357_desc = "[机体7]自己测试9"
+cheat357_code = "7E136C19"
+cheat357_enable = false
+
+cheat358_desc = "[机体7]自己测试10"
+cheat358_code = "7E136C1A"
+cheat358_enable = false
+
+cheat359_desc = "[机体7]自己测试11"
+cheat359_code = "7E136C1B"
+cheat359_enable = false
+
+cheat360_desc = "[机体7]自己测试12"
+cheat360_code = "7E136C1C"
+cheat360_enable = false
+
+cheat361_desc = "[机体7]自己测试13"
+cheat361_code = "7E136C1D"
+cheat361_enable = false
+
+cheat362_desc = "[机体7]自己测试14"
+cheat362_code = "7E136C1E"
+cheat362_enable = false
+
+cheat363_desc = "[机体7]自己测试15"
+cheat363_code = "7E136C1F"
+cheat363_enable = false
+
+cheat364_desc = "[机体7]自己测试16"
+cheat364_code = "7E136C20"
+cheat364_enable = false
+
+cheat365_desc = "[机体7]自己测试17"
+cheat365_code = "7E136C21"
+cheat365_enable = false
+
+cheat366_desc = "[机体7]自己测试18"
+cheat366_code = "7E136C22"
+cheat366_enable = false
+
+cheat367_desc = "[机体7]自己测试19"
+cheat367_code = "7E136C23"
+cheat367_enable = false
+
+cheat368_desc = "[机体7]自己测试20"
+cheat368_code = "7E136C24"
+cheat368_enable = false
+
+cheat369_desc = "[机体7]自己测试21"
+cheat369_code = "7E136C25"
+cheat369_enable = false
+
+cheat370_desc = "[机体7]自己测试22"
+cheat370_code = "7E136C26"
+cheat370_enable = false
+
+cheat371_desc = "[机体7]自己测试23"
+cheat371_code = "7E136C27"
+cheat371_enable = false
+
+cheat372_desc = "[机体7]自己测试24"
+cheat372_code = "7E136C28"
+cheat372_enable = false
+
+cheat373_desc = "[机体7]自己测试25"
+cheat373_code = "7E136C29"
+cheat373_enable = false
+
+cheat374_desc = "[机体7]自己测试26"
+cheat374_code = "7E136C2A"
+cheat374_enable = false
+
+cheat375_desc = "[机体7]自己测试27"
+cheat375_code = "7E136C2B"
+cheat375_enable = false
+
+cheat376_desc = "[机体7]自己测试28"
+cheat376_code = "7E136C2C"
+cheat376_enable = false
+
+cheat377_desc = "[机体7]自己测试29"
+cheat377_code = "7E136C2D"
+cheat377_enable = false
+
+cheat378_desc = "[机体7]自己测试30"
+cheat378_code = "7E136C2E"
+cheat378_enable = false
+
+cheat379_desc = "[机体7]自己测试31"
+cheat379_code = "7E136C2F"
+cheat379_enable = false
+
+cheat380_desc = "[机体7]自己测试32"
+cheat380_code = "7E136C30"
+cheat380_enable = false
+
+cheat381_desc = "[机体7]自己测试33"
+cheat381_code = "7E136C31"
+cheat381_enable = false
+
+cheat382_desc = "[机体7]自己测试34"
+cheat382_code = "7E136C32"
+cheat382_enable = false
+
+cheat383_desc = "[机体7]最后一个35"
+cheat383_code = "7E136C33"
+cheat383_enable = false
+
+cheat384_desc = "[机体8]*サイバスタ―"
+cheat384_code = "7E136E01"
+cheat384_enable = false
+
+cheat385_desc = "[机体8]*グランヴェ―ル"
+cheat385_code = "7E136E02"
+cheat385_enable = false
+
+cheat386_desc = "[机体8]*ガッデス"
+cheat386_code = "7E136E03"
+cheat386_enable = false
+
+cheat387_desc = "[机体8]*ザムヅ―ド"
+cheat387_code = "7E136E04"
+cheat387_enable = false
+
+cheat388_desc = "[机体8]*ヴァルシオ―ネR"
+cheat388_code = "7E136E05"
+cheat388_enable = false
+
+cheat389_desc = "[机体8]*グランゾン"
+cheat389_code = "7E136E06"
+cheat389_enable = false
+
+cheat390_desc = "[机体8]*ネオグランゾン"
+cheat390_code = "7E136E07"
+cheat390_enable = false
+
+cheat391_desc = "[机体8]ディアブロ"
+cheat391_code = "7E136E08"
+cheat391_enable = false
+
+cheat392_desc = "[机体8]ジャオ―ム"
+cheat392_code = "7E136E09"
+cheat392_enable = false
+
+cheat393_desc = "[机体8]ラスト―ル"
+cheat393_code = "7E136E0A"
+cheat393_enable = false
+
+cheat394_desc = "[机体8]ギオラスト"
+cheat394_code = "7E136E0B"
+cheat394_enable = false
+
+cheat395_desc = "[机体8]ジェイファ―"
+cheat395_code = "7E136E0C"
+cheat395_enable = false
+
+cheat396_desc = "[机体8]ガルガ―ド"
+cheat396_code = "7E136E0D"
+cheat396_enable = false
+
+cheat397_desc = "[机体8]ソルガディ"
+cheat397_code = "7E136E0E"
+cheat397_enable = false
+
+cheat398_desc = "[机体8]ザイン"
+cheat398_code = "7E136E0F"
+cheat398_enable = false
+
+cheat399_desc = "[机体8]ファルク"
+cheat399_code = "7E136E10"
+cheat399_enable = false
+
+cheat400_desc = "[机体8]自己测试1"
+cheat400_code = "7E136E11"
+cheat400_enable = false
+
+cheat401_desc = "[机体8]自己测试2"
+cheat401_code = "7E136E12"
+cheat401_enable = false
+
+cheat402_desc = "[机体8]自己测试3"
+cheat402_code = "7E136E13"
+cheat402_enable = false
+
+cheat403_desc = "[机体8]自己测试4"
+cheat403_code = "7E136E14"
+cheat403_enable = false
+
+cheat404_desc = "[机体8]自己测试5"
+cheat404_code = "7E136E15"
+cheat404_enable = false
+
+cheat405_desc = "[机体8]自己测试6"
+cheat405_code = "7E136E16"
+cheat405_enable = false
+
+cheat406_desc = "[机体8]自己测试7"
+cheat406_code = "7E136E17"
+cheat406_enable = false
+
+cheat407_desc = "[机体8]自己测试8"
+cheat407_code = "7E136E18"
+cheat407_enable = false
+
+cheat408_desc = "[机体8]自己测试9"
+cheat408_code = "7E136E19"
+cheat408_enable = false
+
+cheat409_desc = "[机体8]自己测试10"
+cheat409_code = "7E136E1A"
+cheat409_enable = false
+
+cheat410_desc = "[机体8]自己测试11"
+cheat410_code = "7E136E1B"
+cheat410_enable = false
+
+cheat411_desc = "[机体8]自己测试12"
+cheat411_code = "7E136E1C"
+cheat411_enable = false
+
+cheat412_desc = "[机体8]自己测试13"
+cheat412_code = "7E136E1D"
+cheat412_enable = false
+
+cheat413_desc = "[机体8]自己测试14"
+cheat413_code = "7E136E1E"
+cheat413_enable = false
+
+cheat414_desc = "[机体8]自己测试15"
+cheat414_code = "7E136E1F"
+cheat414_enable = false
+
+cheat415_desc = "[机体8]自己测试16"
+cheat415_code = "7E136E20"
+cheat415_enable = false
+
+cheat416_desc = "[机体8]自己测试17"
+cheat416_code = "7E136E21"
+cheat416_enable = false
+
+cheat417_desc = "[机体8]自己测试18"
+cheat417_code = "7E136E22"
+cheat417_enable = false
+
+cheat418_desc = "[机体8]自己测试19"
+cheat418_code = "7E136E23"
+cheat418_enable = false
+
+cheat419_desc = "[机体8]自己测试20"
+cheat419_code = "7E136E24"
+cheat419_enable = false
+
+cheat420_desc = "[机体8]自己测试21"
+cheat420_code = "7E136E25"
+cheat420_enable = false
+
+cheat421_desc = "[机体8]自己测试22"
+cheat421_code = "7E136E26"
+cheat421_enable = false
+
+cheat422_desc = "[机体8]自己测试23"
+cheat422_code = "7E136E27"
+cheat422_enable = false
+
+cheat423_desc = "[机体8]自己测试24"
+cheat423_code = "7E136E28"
+cheat423_enable = false
+
+cheat424_desc = "[机体8]自己测试25"
+cheat424_code = "7E136E29"
+cheat424_enable = false
+
+cheat425_desc = "[机体8]自己测试26"
+cheat425_code = "7E136E2A"
+cheat425_enable = false
+
+cheat426_desc = "[机体8]自己测试27"
+cheat426_code = "7E136E2B"
+cheat426_enable = false
+
+cheat427_desc = "[机体8]自己测试28"
+cheat427_code = "7E136E2C"
+cheat427_enable = false
+
+cheat428_desc = "[机体8]自己测试29"
+cheat428_code = "7E136E2D"
+cheat428_enable = false
+
+cheat429_desc = "[机体8]自己测试30"
+cheat429_code = "7E136E2E"
+cheat429_enable = false
+
+cheat430_desc = "[机体8]自己测试31"
+cheat430_code = "7E136E2F"
+cheat430_enable = false
+
+cheat431_desc = "[机体8]自己测试32"
+cheat431_code = "7E136E30"
+cheat431_enable = false
+
+cheat432_desc = "[机体8]自己测试33"
+cheat432_code = "7E136E31"
+cheat432_enable = false
+
+cheat433_desc = "[机体8]自己测试34"
+cheat433_code = "7E136E32"
+cheat433_enable = false
+
+cheat434_desc = "[机体8]最后一个35"
+cheat434_code = "7E136E33"
+cheat434_enable = false
+
+cheat435_desc = "[人物1修改]マサキ"
+cheat435_code = "7E138801"
+cheat435_enable = false
+
+cheat436_desc = "[人物1修改]テュッティ"
+cheat436_code = "7E138802"
+cheat436_enable = false
+
+cheat437_desc = "[人物1修改]ヤンロン"
+cheat437_code = "7E138803"
+cheat437_enable = false
+
+cheat438_desc = "[人物1修改]リカルド"
+cheat438_code = "7E138804"
+cheat438_enable = false
+
+cheat439_desc = "[人物1修改]ミオ"
+cheat439_code = "7E138805"
+cheat439_enable = false
+
+cheat440_desc = "[人物1修改]リュ―ネ"
+cheat440_code = "7E138806"
+cheat440_enable = false
+
+cheat441_desc = "[人物1修改]シュウ"
+cheat441_code = "7E138807"
+cheat441_enable = false
+
+cheat442_desc = "[人物1修改]サフィ―ネ"
+cheat442_code = "7E138808"
+cheat442_enable = false
+
+cheat443_desc = "[人物1修改]ゲンナジ―"
+cheat443_code = "7E138809"
+cheat443_enable = false
+
+cheat444_desc = "[人物1修改]ティアン"
+cheat444_code = "7E13880A"
+cheat444_enable = false
+
+cheat445_desc = "[人物1修改]シモ―ヌ"
+cheat445_code = "7E13880B"
+cheat445_enable = false
+
+cheat446_desc = "[人物1修改]デメクサ"
+cheat446_code = "7E13880C"
+cheat446_enable = false
+
+cheat447_desc = "[人物1修改]ベッキ―"
+cheat447_code = "7E13880D"
+cheat447_enable = false
+
+cheat448_desc = "[人物1修改]プレシア"
+cheat448_code = "7E13880E"
+cheat448_enable = false
+
+cheat449_desc = "[人物1修改]ロドニ―"
+cheat449_code = "7E13880F"
+cheat449_enable = false
+
+cheat450_desc = "[人物1修改]ザッシュ"
+cheat450_code = "7E138810"
+cheat450_enable = false
+
+cheat451_desc = "[人物1修改]モニカ"
+cheat451_code = "7E138811"
+cheat451_enable = false
+
+cheat452_desc = "[人物1修改]エリス"
+cheat452_code = "7E138812"
+cheat452_enable = false
+
+cheat453_desc = "[人物1修改]自己测试1"
+cheat453_code = "7E138813"
+cheat453_enable = false
+
+cheat454_desc = "[人物1修改]自己测试2"
+cheat454_code = "7E138814"
+cheat454_enable = false
+
+cheat455_desc = "[人物1修改]自己测试3"
+cheat455_code = "7E138815"
+cheat455_enable = false
+
+cheat456_desc = "[人物1修改]自己测试4"
+cheat456_code = "7E138816"
+cheat456_enable = false
+
+cheat457_desc = "[人物1修改]自己测试5"
+cheat457_code = "7E138817"
+cheat457_enable = false
+
+cheat458_desc = "[人物1修改]自己测试6"
+cheat458_code = "7E138818"
+cheat458_enable = false
+
+cheat459_desc = "[人物1修改]自己测试7"
+cheat459_code = "7E138819"
+cheat459_enable = false
+
+cheat460_desc = "[人物1修改]自己测试8"
+cheat460_code = "7E13881A"
+cheat460_enable = false
+
+cheat461_desc = "[人物1修改]自己测试9"
+cheat461_code = "7E13881B"
+cheat461_enable = false
+
+cheat462_desc = "[人物1修改]自己测试10"
+cheat462_code = "7E13881C"
+cheat462_enable = false
+
+cheat463_desc = "[人物1修改]自己测试11"
+cheat463_code = "7E13881D"
+cheat463_enable = false
+
+cheat464_desc = "[人物1修改]自己测试12"
+cheat464_code = "7E13881E"
+cheat464_enable = false
+
+cheat465_desc = "[人物1修改]自己测试13"
+cheat465_code = "7E13881F"
+cheat465_enable = false
+
+cheat466_desc = "[人物1修改]自己测试14"
+cheat466_code = "7E138820"
+cheat466_enable = false
+
+cheat467_desc = "[人物1修改]自己测试15"
+cheat467_code = "7E138821"
+cheat467_enable = false
+
+cheat468_desc = "[人物1修改]自己测试16"
+cheat468_code = "7E138822"
+cheat468_enable = false
+
+cheat469_desc = "[人物1修改]自己测试17"
+cheat469_code = "7E138823"
+cheat469_enable = false
+
+cheat470_desc = "[人物1修改]自己测试18"
+cheat470_code = "7E138824"
+cheat470_enable = false
+
+cheat471_desc = "[人物1修改]自己测试19"
+cheat471_code = "7E138825"
+cheat471_enable = false
+
+cheat472_desc = "[人物1修改]自己测试20"
+cheat472_code = "7E138826"
+cheat472_enable = false
+
+cheat473_desc = "[人物1修改]自己测试21"
+cheat473_code = "7E138827"
+cheat473_enable = false
+
+cheat474_desc = "[人物1修改]自己测试22"
+cheat474_code = "7E138828"
+cheat474_enable = false
+
+cheat475_desc = "[人物1修改]自己测试23"
+cheat475_code = "7E138829"
+cheat475_enable = false
+
+cheat476_desc = "[人物1修改]自己测试24"
+cheat476_code = "7E13882A"
+cheat476_enable = false
+
+cheat477_desc = "[人物1修改]自己测试25"
+cheat477_code = "7E13882B"
+cheat477_enable = false
+
+cheat478_desc = "[人物1修改]自己测试26"
+cheat478_code = "7E13882C"
+cheat478_enable = false
+
+cheat479_desc = "[人物1修改]自己测试27"
+cheat479_code = "7E13882D"
+cheat479_enable = false
+
+cheat480_desc = "[人物1修改]自己测试28"
+cheat480_code = "7E13882E"
+cheat480_enable = false
+
+cheat481_desc = "[人物1修改]自己测试29"
+cheat481_code = "7E13882F"
+cheat481_enable = false
+
+cheat482_desc = "[人物1修改]自己测试30"
+cheat482_code = "7E138830"
+cheat482_enable = false
+
+cheat483_desc = "[人物1修改]自己测试31"
+cheat483_code = "7E138831"
+cheat483_enable = false
+
+cheat484_desc = "[人物1修改]自己测试32"
+cheat484_code = "7E138832"
+cheat484_enable = false
+
+cheat485_desc = "[人物1修改]自己测试33"
+cheat485_code = "7E138833"
+cheat485_enable = false
+
+cheat486_desc = "[人物1修改]自己测试34"
+cheat486_code = "7E138834"
+cheat486_enable = false
+
+cheat487_desc = "[人物1修改]自己测试35"
+cheat487_code = "7E138835"
+cheat487_enable = false
+
+cheat488_desc = "[人物1修改]自己测试36"
+cheat488_code = "7E138836"
+cheat488_enable = false
+
+cheat489_desc = "[人物1修改]自己测试37"
+cheat489_code = "7E138837"
+cheat489_enable = false
+
+cheat490_desc = "[人物1修改]自己测试38"
+cheat490_code = "7E138838"
+cheat490_enable = false
+
+cheat491_desc = "[人物1修改]自己测试39"
+cheat491_code = "7E138839"
+cheat491_enable = false
+
+cheat492_desc = "[人物1修改]自己测试40"
+cheat492_code = "7E13883A"
+cheat492_enable = false
+
+cheat493_desc = "[人物1修改]自己测试41"
+cheat493_code = "7E13883B"
+cheat493_enable = false
+
+cheat494_desc = "[人物1修改]自己测试42"
+cheat494_code = "7E13883C"
+cheat494_enable = false
+
+cheat495_desc = "[人物1修改]自己测试43"
+cheat495_code = "7E13883D"
+cheat495_enable = false
+
+cheat496_desc = "[人物1修改]自己测试44"
+cheat496_code = "7E13883E"
+cheat496_enable = false
+
+cheat497_desc = "[人物1修改]自己测试45"
+cheat497_code = "7E13883F"
+cheat497_enable = false
+
+cheat498_desc = "[人物1修改]自己测试46"
+cheat498_code = "7E138840"
+cheat498_enable = false
+
+cheat499_desc = "[人物1修改]自己测试47"
+cheat499_code = "7E138841"
+cheat499_enable = false
+
+cheat500_desc = "[人物1修改]自己测试48"
+cheat500_code = "7E138842"
+cheat500_enable = false
+
+cheat501_desc = "[人物1修改]自己测试49"
+cheat501_code = "7E138843"
+cheat501_enable = false
+
+cheat502_desc = "[人物1修改]自己测试50"
+cheat502_code = "7E138844"
+cheat502_enable = false
+
+cheat503_desc = "[人物1修改]自己测试51"
+cheat503_code = "7E138845"
+cheat503_enable = false
+
+cheat504_desc = "[人物1修改]自己测试52"
+cheat504_code = "7E138846"
+cheat504_enable = false
+
+cheat505_desc = "[人物1修改]自己测试53"
+cheat505_code = "7E138847"
+cheat505_enable = false
+
+cheat506_desc = "[人物1修改]自己测试54"
+cheat506_code = "7E138848"
+cheat506_enable = false
+
+cheat507_desc = "[人物1修改]自己测试55"
+cheat507_code = "7E138849"
+cheat507_enable = false
+
+cheat508_desc = "[人物1修改]自己测试56"
+cheat508_code = "7E13884A"
+cheat508_enable = false
+
+cheat509_desc = "[人物1修改]自己测试57"
+cheat509_code = "7E13884B"
+cheat509_enable = false
+
+cheat510_desc = "[人物1修改]自己测试58"
+cheat510_code = "7E13884C"
+cheat510_enable = false
+
+cheat511_desc = "[人物1修改]自己测试59"
+cheat511_code = "7E13884D"
+cheat511_enable = false
+
+cheat512_desc = "[人物1修改]自己测试60"
+cheat512_code = "7E13884E"
+cheat512_enable = false
+
+cheat513_desc = "[人物1修改]自己测试61"
+cheat513_code = "7E13884F"
+cheat513_enable = false
+
+cheat514_desc = "[人物1修改]自己测试62"
+cheat514_code = "7E138850"
+cheat514_enable = false
+
+cheat515_desc = "[人物1修改]自己测试63"
+cheat515_code = "7E138851"
+cheat515_enable = false
+
+cheat516_desc = "[人物1修改]自己测试64"
+cheat516_code = "7E138852"
+cheat516_enable = false
+
+cheat517_desc = "[人物1修改]自己测试65"
+cheat517_code = "7E138853"
+cheat517_enable = false
+
+cheat518_desc = "[人物1修改]自己测试66"
+cheat518_code = "7E138854"
+cheat518_enable = false
+
+cheat519_desc = "[人物1修改]最后一个"
+cheat519_code = "7E138855"
+cheat519_enable = false
+
+cheat520_desc = "[人物2修改]マサキ"
+cheat520_code = "7E138A01"
+cheat520_enable = false
+
+cheat521_desc = "[人物2修改]テュッティ"
+cheat521_code = "7E138A02"
+cheat521_enable = false
+
+cheat522_desc = "[人物2修改]ヤンロン"
+cheat522_code = "7E138A03"
+cheat522_enable = false
+
+cheat523_desc = "[人物2修改]リカルド"
+cheat523_code = "7E138A04"
+cheat523_enable = false
+
+cheat524_desc = "[人物2修改]ミオ"
+cheat524_code = "7E138A05"
+cheat524_enable = false
+
+cheat525_desc = "[人物2修改]リュ―ネ"
+cheat525_code = "7E138A06"
+cheat525_enable = false
+
+cheat526_desc = "[人物2修改]シュウ"
+cheat526_code = "7E138A07"
+cheat526_enable = false
+
+cheat527_desc = "[人物2修改]サフィ―ネ"
+cheat527_code = "7E138A08"
+cheat527_enable = false
+
+cheat528_desc = "[人物2修改]ゲンナジ―"
+cheat528_code = "7E138A09"
+cheat528_enable = false
+
+cheat529_desc = "[人物2修改]ティアン"
+cheat529_code = "7E138A0A"
+cheat529_enable = false
+
+cheat530_desc = "[人物2修改]シモ―ヌ"
+cheat530_code = "7E138A0B"
+cheat530_enable = false
+
+cheat531_desc = "[人物2修改]デメクサ"
+cheat531_code = "7E138A0C"
+cheat531_enable = false
+
+cheat532_desc = "[人物2修改]ベッキ―"
+cheat532_code = "7E138A0D"
+cheat532_enable = false
+
+cheat533_desc = "[人物2修改]プレシア"
+cheat533_code = "7E138A0E"
+cheat533_enable = false
+
+cheat534_desc = "[人物2修改]ロドニ―"
+cheat534_code = "7E138A0F"
+cheat534_enable = false
+
+cheat535_desc = "[人物2修改]ザッシュ"
+cheat535_code = "7E138A10"
+cheat535_enable = false
+
+cheat536_desc = "[人物2修改]モニカ"
+cheat536_code = "7E138A11"
+cheat536_enable = false
+
+cheat537_desc = "[人物2修改]エリス"
+cheat537_code = "7E138A12"
+cheat537_enable = false
+
+cheat538_desc = "[人物2修改]自己测试1"
+cheat538_code = "7E138A13"
+cheat538_enable = false
+
+cheat539_desc = "[人物2修改]自己测试2"
+cheat539_code = "7E138A14"
+cheat539_enable = false
+
+cheat540_desc = "[人物2修改]自己测试3"
+cheat540_code = "7E138A15"
+cheat540_enable = false
+
+cheat541_desc = "[人物2修改]自己测试4"
+cheat541_code = "7E138A16"
+cheat541_enable = false
+
+cheat542_desc = "[人物2修改]自己测试5"
+cheat542_code = "7E138A17"
+cheat542_enable = false
+
+cheat543_desc = "[人物2修改]自己测试6"
+cheat543_code = "7E138A18"
+cheat543_enable = false
+
+cheat544_desc = "[人物2修改]自己测试7"
+cheat544_code = "7E138A19"
+cheat544_enable = false
+
+cheat545_desc = "[人物2修改]自己测试8"
+cheat545_code = "7E138A1A"
+cheat545_enable = false
+
+cheat546_desc = "[人物2修改]自己测试9"
+cheat546_code = "7E138A1B"
+cheat546_enable = false
+
+cheat547_desc = "[人物2修改]自己测试10"
+cheat547_code = "7E138A1C"
+cheat547_enable = false
+
+cheat548_desc = "[人物2修改]自己测试11"
+cheat548_code = "7E138A1D"
+cheat548_enable = false
+
+cheat549_desc = "[人物2修改]自己测试12"
+cheat549_code = "7E138A1E"
+cheat549_enable = false
+
+cheat550_desc = "[人物2修改]自己测试13"
+cheat550_code = "7E138A1F"
+cheat550_enable = false
+
+cheat551_desc = "[人物2修改]自己测试14"
+cheat551_code = "7E138A20"
+cheat551_enable = false
+
+cheat552_desc = "[人物2修改]自己测试15"
+cheat552_code = "7E138A21"
+cheat552_enable = false
+
+cheat553_desc = "[人物2修改]自己测试16"
+cheat553_code = "7E138A22"
+cheat553_enable = false
+
+cheat554_desc = "[人物2修改]自己测试17"
+cheat554_code = "7E138A23"
+cheat554_enable = false
+
+cheat555_desc = "[人物2修改]自己测试18"
+cheat555_code = "7E138A24"
+cheat555_enable = false
+
+cheat556_desc = "[人物2修改]自己测试19"
+cheat556_code = "7E138A25"
+cheat556_enable = false
+
+cheat557_desc = "[人物2修改]自己测试20"
+cheat557_code = "7E138A26"
+cheat557_enable = false
+
+cheat558_desc = "[人物2修改]自己测试21"
+cheat558_code = "7E138A27"
+cheat558_enable = false
+
+cheat559_desc = "[人物2修改]自己测试22"
+cheat559_code = "7E138A28"
+cheat559_enable = false
+
+cheat560_desc = "[人物2修改]自己测试23"
+cheat560_code = "7E138A29"
+cheat560_enable = false
+
+cheat561_desc = "[人物2修改]自己测试24"
+cheat561_code = "7E138A2A"
+cheat561_enable = false
+
+cheat562_desc = "[人物2修改]自己测试25"
+cheat562_code = "7E138A2B"
+cheat562_enable = false
+
+cheat563_desc = "[人物2修改]自己测试26"
+cheat563_code = "7E138A2C"
+cheat563_enable = false
+
+cheat564_desc = "[人物2修改]自己测试27"
+cheat564_code = "7E138A2D"
+cheat564_enable = false
+
+cheat565_desc = "[人物2修改]自己测试28"
+cheat565_code = "7E138A2E"
+cheat565_enable = false
+
+cheat566_desc = "[人物2修改]自己测试29"
+cheat566_code = "7E138A2F"
+cheat566_enable = false
+
+cheat567_desc = "[人物2修改]自己测试30"
+cheat567_code = "7E138A30"
+cheat567_enable = false
+
+cheat568_desc = "[人物2修改]自己测试31"
+cheat568_code = "7E138A31"
+cheat568_enable = false
+
+cheat569_desc = "[人物2修改]自己测试32"
+cheat569_code = "7E138A32"
+cheat569_enable = false
+
+cheat570_desc = "[人物2修改]自己测试33"
+cheat570_code = "7E138A33"
+cheat570_enable = false
+
+cheat571_desc = "[人物2修改]自己测试34"
+cheat571_code = "7E138A34"
+cheat571_enable = false
+
+cheat572_desc = "[人物2修改]自己测试35"
+cheat572_code = "7E138A35"
+cheat572_enable = false
+
+cheat573_desc = "[人物2修改]自己测试36"
+cheat573_code = "7E138A36"
+cheat573_enable = false
+
+cheat574_desc = "[人物2修改]自己测试37"
+cheat574_code = "7E138A37"
+cheat574_enable = false
+
+cheat575_desc = "[人物2修改]自己测试38"
+cheat575_code = "7E138A38"
+cheat575_enable = false
+
+cheat576_desc = "[人物2修改]自己测试39"
+cheat576_code = "7E138A39"
+cheat576_enable = false
+
+cheat577_desc = "[人物2修改]自己测试40"
+cheat577_code = "7E138A3A"
+cheat577_enable = false
+
+cheat578_desc = "[人物2修改]自己测试41"
+cheat578_code = "7E138A3B"
+cheat578_enable = false
+
+cheat579_desc = "[人物2修改]自己测试42"
+cheat579_code = "7E138A3C"
+cheat579_enable = false
+
+cheat580_desc = "[人物2修改]自己测试43"
+cheat580_code = "7E138A3D"
+cheat580_enable = false
+
+cheat581_desc = "[人物2修改]自己测试44"
+cheat581_code = "7E138A3E"
+cheat581_enable = false
+
+cheat582_desc = "[人物2修改]自己测试45"
+cheat582_code = "7E138A3F"
+cheat582_enable = false
+
+cheat583_desc = "[人物2修改]自己测试46"
+cheat583_code = "7E138A40"
+cheat583_enable = false
+
+cheat584_desc = "[人物2修改]自己测试47"
+cheat584_code = "7E138A41"
+cheat584_enable = false
+
+cheat585_desc = "[人物2修改]自己测试48"
+cheat585_code = "7E138A42"
+cheat585_enable = false
+
+cheat586_desc = "[人物2修改]自己测试49"
+cheat586_code = "7E138A43"
+cheat586_enable = false
+
+cheat587_desc = "[人物2修改]自己测试50"
+cheat587_code = "7E138A44"
+cheat587_enable = false
+
+cheat588_desc = "[人物2修改]自己测试51"
+cheat588_code = "7E138A45"
+cheat588_enable = false
+
+cheat589_desc = "[人物2修改]自己测试52"
+cheat589_code = "7E138A46"
+cheat589_enable = false
+
+cheat590_desc = "[人物2修改]自己测试53"
+cheat590_code = "7E138A47"
+cheat590_enable = false
+
+cheat591_desc = "[人物2修改]自己测试54"
+cheat591_code = "7E138A48"
+cheat591_enable = false
+
+cheat592_desc = "[人物2修改]自己测试55"
+cheat592_code = "7E138A49"
+cheat592_enable = false
+
+cheat593_desc = "[人物2修改]自己测试56"
+cheat593_code = "7E138A4A"
+cheat593_enable = false
+
+cheat594_desc = "[人物2修改]自己测试57"
+cheat594_code = "7E138A4B"
+cheat594_enable = false
+
+cheat595_desc = "[人物2修改]自己测试58"
+cheat595_code = "7E138A4C"
+cheat595_enable = false
+
+cheat596_desc = "[人物2修改]自己测试59"
+cheat596_code = "7E138A4D"
+cheat596_enable = false
+
+cheat597_desc = "[人物2修改]自己测试60"
+cheat597_code = "7E138A4E"
+cheat597_enable = false
+
+cheat598_desc = "[人物2修改]自己测试61"
+cheat598_code = "7E138A4F"
+cheat598_enable = false
+
+cheat599_desc = "[人物2修改]自己测试62"
+cheat599_code = "7E138A50"
+cheat599_enable = false
+
+cheat600_desc = "[人物2修改]自己测试63"
+cheat600_code = "7E138A51"
+cheat600_enable = false
+
+cheat601_desc = "[人物2修改]自己测试64"
+cheat601_code = "7E138A52"
+cheat601_enable = false
+
+cheat602_desc = "[人物2修改]自己测试65"
+cheat602_code = "7E138A53"
+cheat602_enable = false
+
+cheat603_desc = "[人物2修改]自己测试66"
+cheat603_code = "7E138A54"
+cheat603_enable = false
+
+cheat604_desc = "[人物2修改]最后一个"
+cheat604_code = "7E138A55"
+cheat604_enable = false
+

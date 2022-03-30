@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "#敌人无能为力（只需击中他一次即可获胜）"
+cheat0_code = "801F0B90 0000"
+cheat0_enable = false
+
+cheat1_desc = "#第二名玩家迷失按下SELECT按钮后"
+cheat1_code = "D00870EC FEFF+801F0B90 0000"
+cheat1_enable = false
+
+cheat2_desc = "#无限HP 1P"
+cheat2_code = "801F0790 00E0"
+cheat2_enable = false
+
+

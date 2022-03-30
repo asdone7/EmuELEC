@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[绿色贝蕾帽-血]ON"
+cheat0_code = "FF16D7:C8"
+cheat0_enable = false
+
+cheat1_desc = "[水鬼-血]ON"
+cheat1_code = "FF16F3:A0"
+cheat1_enable = false
+
+cheat2_desc = "[狙击手-血]ON"
+cheat2_code = "FF170F:64"
+cheat2_enable = false
+
+cheat3_desc = "[狙击手-子弹]ON"
+cheat3_code = "FF1721:05"
+cheat3_enable = false
+
+cheat4_desc = "[工兵-血]ON"
+cheat4_code = "FF172B:82"
+cheat4_enable = false
+

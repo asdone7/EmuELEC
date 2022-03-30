@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[桃乐丝体力]ON"
+cheat0_code = "00A7:01+00A8:FF"
+cheat0_enable = false
+
+cheat1_desc = "[桃乐丝攻击力]ON"
+cheat1_code = "00AB:01+00AC:EF"
+cheat1_enable = false
+
+cheat2_desc = "[桃乐丝防御力]ON"
+cheat2_code = "00AF:01+00B0:EF"
+cheat2_enable = false
+
+cheat3_desc = "[桃乐丝魔力]ON"
+cheat3_code = "00B3:01+00B4:EF+00A8:01+00A9:EF+00AC:01+00AD:EF+00B0:01+00B1:EF+00B4:01+00B5:EF"
+cheat3_enable = false
+

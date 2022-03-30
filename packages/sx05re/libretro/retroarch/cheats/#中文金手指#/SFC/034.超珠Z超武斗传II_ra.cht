@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[指定人物的单打故事模式]斯路"
+cheat0_code = "7E050005"
+cheat0_enable = false
+
+cheat1_desc = "[指定人物的单打故事模式]小斯路"
+cheat1_code = "7E050009"
+cheat1_enable = false
+
+cheat2_desc = "[指定人物的单打故事模式]波积高"
+cheat2_code = "7E050007"
+cheat2_enable = false
+
+cheat3_desc = "[指定人物的单打故事模式]女银河战士"
+cheat3_code = "7E050008"
+cheat3_enable = false
+
+cheat4_desc = "[指定人物的单打故事模式]超西布罗利"
+cheat4_code = "7E050006"
+cheat4_enable = false
+

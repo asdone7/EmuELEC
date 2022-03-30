@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "鼠生命"
+cheat0_code = "02000304 00000000"
+cheat0_enable = false
+
+cheat1_desc = "猫生命 3命速死"
+cheat1_code = "02000305 00000003"
+cheat1_enable = false
+
+cheat2_desc = "猫生命 4命速死"
+cheat2_code = "02000305 00000004"
+cheat2_enable = false
+
+cheat3_desc = "猫生命 5命速死"
+cheat3_code = "02000305 00000005"
+cheat3_enable = false
+
+cheat4_desc = "最终关"
+cheat4_code = "0204101C 00000021"
+cheat4_enable = false
+
+cheat5_desc = "全形象+全关卡"
+cheat5_code = "02046558 00000046+02046559 00000048+0204655A 00000035+0204655B 00000058+0204655C 00000052+0204655D 00000041"
+cheat5_enable = false
+
+

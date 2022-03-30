@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[赛车耐久]锁"
+cheat0_code = "FFD19F:0C"
+cheat0_enable = false
+
+cheat1_desc = "[大量金钱]On"
+cheat1_code = "FFD322:80"
+cheat1_enable = false
+
+cheat2_desc = "[无限武器]锁"
+cheat2_code = "FFD157:07+FFD15B:0E+FFD16F:07+FFD153:07+FFD16B:07+FFD15F:07"
+cheat2_enable = false
+
+cheat3_desc = "[赛程/激活即解锁]跑完"
+cheat3_code = "FFD1B1:00"
+cheat3_enable = false
+
+cheat4_desc = "[赛程/激活即解锁]剩1圈"
+cheat4_code = "FFD1B1:01"
+cheat4_enable = false
+

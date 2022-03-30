@@ -1,0 +1,323 @@
+cheats = 80
+
+cheat0_desc = "#无限弹药全取"
+cheat0_code = "800467C6 2400"
+cheat0_enable = false
+
+cheat1_desc = "#无限计时器所有级别"
+cheat1_code = "80116690 FFFF"
+cheat1_enable = false
+
+cheat2_desc = "#无敌"
+cheat2_code = "80115FEC 0000+80116820 FFBC"
+cheat2_enable = false
+
+cheat3_desc = "#在级别选择屏幕中具有所有级别"
+cheat3_code = "801462AA 0B14"
+cheat3_enable = false
+
+cheat4_desc = "#Georgia街道代码\\无限的装甲"
+cheat4_code = "801A8BDA 0258"
+cheat4_enable = false
+
+cheat5_desc = "#Georgia街道代码\\无限健康"
+cheat5_code = "801A8BDC 0096"
+cheat5_enable = false
+
+cheat6_desc = "#销毁的地铁代码\\无限的装甲"
+cheat6_code = "801A2EE2 0258"
+cheat6_enable = false
+
+cheat7_desc = "#销毁的地铁代码\\无限健康"
+cheat7_code = "801A2EE4 0096"
+cheat7_enable = false
+
+cheat8_desc = "#Subway Line Codes \\ Infinite Armor"
+cheat8_code = "801C6CCA 0258"
+cheat8_enable = false
+
+cheat9_desc = "#Subway Line Codes \\ Infinite Health"
+cheat9_code = "801C6CCC 0096"
+cheat9_enable = false
+
+cheat10_desc = "#Washington Park Codes \\ Infinite Armor"
+cheat10_code = "801AA442 0258"
+cheat10_enable = false
+
+cheat11_desc = "#华盛顿公园法规\\无限健康"
+cheat11_code = "801AA444 0096"
+cheat11_enable = false
+
+cheat12_desc = "#Freedom纪念法规\\无限的装甲"
+cheat12_code = "801C0496 0258"
+cheat12_enable = false
+
+cheat13_desc = "#Freedom纪念代码\\无限健康"
+cheat13_code = "801C0498 0096"
+cheat13_enable = false
+
+cheat14_desc = "#Expo中心接收代码\\无限的装甲"
+cheat14_code = "801AC26E 0258"
+cheat14_enable = false
+
+cheat15_desc = "#Expo Center接收代码\\无限健康"
+cheat15_code = "801AC270 0096"
+cheat15_enable = false
+
+cheat16_desc = "#Expo Center Dinorama代码\\无限的装甲"
+cheat16_code = "801A9ABA 0258"
+cheat16_enable = false
+
+cheat17_desc = "#Expo Center Dinorama代码\\无限健康"
+cheat17_code = "801A9ABC 0096"
+cheat17_enable = false
+
+cheat18_desc = "#Rhoemer的基本代码\\无限的装甲"
+cheat18_code = "801A9292 0258"
+cheat18_enable = false
+
+cheat19_desc = "#Rhoemer的基本代码\\无限健康"
+cheat19_code = "801A9294 0096"
+cheat19_enable = false
+
+cheat20_desc = "#基础邦克代码\\无限装甲"
+cheat20_code = "801B381E 0258"
+cheat20_enable = false
+
+cheat21_desc = "#基础邦克代码\\无限健康"
+cheat21_code = "801B3820 0096"
+cheat21_enable = false
+
+cheat22_desc = "#基础塔代码\\无限的装甲"
+cheat22_code = "801C5A5A 0258"
+cheat22_enable = false
+
+cheat23_desc = "#基本塔楼代码\\无限健康"
+cheat23_code = "801C5A5C 0096"
+cheat23_enable = false
+
+cheat24_desc = "#基础转义码\\无限防具"
+cheat24_code = "801AE44E 0258"
+cheat24_enable = false
+
+cheat25_desc = "#Base转义码\\无限健康"
+cheat25_code = "801AE450 0096"
+cheat25_enable = false
+
+cheat26_desc = "#Rhoemer的据点代码\\无限的装甲"
+cheat26_code = "801AD592 0258"
+cheat26_enable = false
+
+cheat27_desc = "#Rhoemer的据点代码\\无限健康"
+cheat27_code = "801AD594 0096"
+cheat27_enable = false
+
+cheat28_desc = "#要塞下级代码\\无限的装甲"
+cheat28_code = "801AB066 0258"
+cheat28_enable = false
+
+cheat29_desc = "#Stronghold下级代码\\无限健康"
+cheat29_code = "801AB068 0096"
+cheat29_enable = false
+
+cheat30_desc = "#要塞地下墓穴代码\\无限的装甲"
+cheat30_code = "801ACE96 0258"
+cheat30_enable = false
+
+cheat31_desc = "#堡垒地下墓穴代码\\无限生命"
+cheat31_code = "801ACE98 0096"
+cheat31_enable = false
+
+cheat32_desc = "#Pharcom仓库代码\\无限装甲"
+cheat32_code = "801AACF2 0258"
+cheat32_enable = false
+
+cheat33_desc = "#Pharcom仓库代码\\无限健康"
+cheat33_code = "801AACF4 0096"
+cheat33_enable = false
+
+cheat34_desc = "#Pharcom精英卫队代码\\无限装甲"
+cheat34_code = "801A4566 0258"
+cheat34_enable = false
+
+cheat35_desc = "#Pharcom精英卫队代码\\无限健康"
+cheat35_code = "801A4568 0096"
+cheat35_enable = false
+
+cheat36_desc = "#仓库76码\\无限的装甲"
+cheat36_code = "801B725E 0258"
+cheat36_enable = false
+
+cheat37_desc = "#Warehouse 76代码\\无限健康"
+cheat37_code = "801B7260 0096"
+cheat37_enable = false
+
+cheat38_desc = "#Silo Access隧道代码\\无限装甲"
+cheat38_code = "801A2092 0258"
+cheat38_enable = false
+
+cheat39_desc = "#Silo访问隧道代码\\无限健康"
+cheat39_code = "801A2094 0096"
+cheat39_enable = false
+
+cheat40_desc = "#Tunnel停电代码\\无限的装甲"
+cheat40_code = "801B0A62 0258"
+cheat40_enable = false
+
+cheat41_desc = "#隧道停电代码\\无限健康"
+cheat41_code = "801B0A64 0096"
+cheat41_enable = false
+
+cheat42_desc = "#导弹筒仓代码\\无限装甲"
+cheat42_code = "801AD5D2 0258"
+cheat42_enable = false
+
+cheat43_desc = "#导弹孤岛代码\\无限健康"
+cheat43_code = "801AD5D4 0096"
+cheat43_enable = false
+
+cheat44_desc = "#导弹筒仓代码\\停止倒数计时器"
+cheat44_code = "80116BAC 008A"
+cheat44_enable = false
+
+cheat45_desc = "#更多杂项。代码\\最大弹药重载静音9毫米"
+cheat45_code = "8012F0B4 03E7"
+cheat45_enable = false
+
+cheat46_desc = "#更多杂项。代码\\无限弹药静音9毫米"
+cheat46_code = "8012F0B6 0063"
+cheat46_enable = false
+
+cheat47_desc = "#更多杂项。代码\\最大弹药重载.45"
+cheat47_code = "8012F0C0 03E7"
+cheat47_enable = false
+
+cheat48_desc = "#更多杂项。代码\\无限弹药.45"
+cheat48_code = "8012F0C2 0063"
+cheat48_enable = false
+
+cheat49_desc = "#更多杂项。代码\\最大弹药重装G-18"
+cheat49_code = "8012F0C4 03E7"
+cheat49_enable = false
+
+cheat50_desc = "#更多杂项。代码\\无限弹药G-18"
+cheat50_code = "8012F0C6 0063"
+cheat50_enable = false
+
+cheat51_desc = "#更多杂项。代码\\最大弹药重装战斗Shot弹枪"
+cheat51_code = "8012F0C8 03E7"
+cheat51_enable = false
+
+cheat52_desc = "#更多杂项。代码\\无限弹药打击Shot弹枪"
+cheat52_code = "8012F0CA 0063"
+cheat52_enable = false
+
+cheat53_desc = "#更多杂项。代码\\最大弹药重装Shot弹枪"
+cheat53_code = "8012F0CC 03E7"
+cheat53_enable = false
+
+cheat54_desc = "#更多杂项。代码\\无限弹药Shot弹枪"
+cheat54_code = "8012F0CE 0063"
+cheat54_enable = false
+
+cheat55_desc = "#更多杂项。代码\\最大弹药重载Pk-102"
+cheat55_code = "8012F0D0 03E7"
+cheat55_enable = false
+
+cheat56_desc = "#更多杂项。代码\\无限弹药Pk-102"
+cheat56_code = "8012F0D2 0063"
+cheat56_enable = false
+
+cheat57_desc = "#更多杂项。代码\\最大弹药重装M-16"
+cheat57_code = "8012F0D4 03E7"
+cheat57_enable = false
+
+cheat58_desc = "#更多杂项。代码\\无限弹药M-16"
+cheat58_code = "8012F0D6 0063"
+cheat58_enable = false
+
+cheat59_desc = "#更多杂项。代码\\最大弹药重装Eiz-2"
+cheat59_code = "8012F0D8 03E7"
+cheat59_enable = false
+
+cheat60_desc = "#更多杂项。代码\\无限弹药Eiz-2"
+cheat60_code = "8012F0DA 0063"
+cheat60_enable = false
+
+cheat61_desc = "#更多杂项。代码\\最大弹药重新加载Hk-5"
+cheat61_code = "8012F0DC 03E7"
+cheat61_enable = false
+
+cheat62_desc = "#更多杂项。代码\\无限弹药Hk-5"
+cheat62_code = "8012F0DE 0063"
+cheat62_enable = false
+
+cheat63_desc = "#更多杂项。代码\\最大弹药重装Nightvision步枪"
+cheat63_code = "8012F0E0 03E7"
+cheat63_enable = false
+
+cheat64_desc = "#更多杂项。代码\\无限弹药Nightvision步枪"
+cheat64_code = "8012F0E2 0063"
+cheat64_enable = false
+
+cheat65_desc = "#更多杂项。代码\\最大弹药重装狙击步枪"
+cheat65_code = "8012F0E4 03E7"
+cheat65_enable = false
+
+cheat66_desc = "#更多杂项。代码\\无限弹药狙击步枪"
+cheat66_code = "8012F0E6 0063"
+cheat66_enable = false
+
+cheat67_desc = "#更多杂项。代码\\最大弹药重装M-79"
+cheat67_code = "8012F0F0 03E7"
+cheat67_enable = false
+
+cheat68_desc = "#更多杂项。代码\\无限弹药M-79"
+cheat68_code = "8012F0F2 0063"
+cheat68_enable = false
+
+cheat69_desc = "#更多杂项。代码\\最大弹药重装K3G4"
+cheat69_code = "8012F0F4 03E7"
+cheat69_enable = false
+
+cheat70_desc = "#更多杂项。代码\\无限弹药K3G4"
+cheat70_code = "8012F0F6 0063"
+cheat70_enable = false
+
+cheat71_desc = "#更多杂项。代码\\最大弹药重装手榴弹"
+cheat71_code = "8012F0FC 03E7"
+cheat71_enable = false
+
+cheat72_desc = "#更多杂项。代码\\无限弹药手榴弹"
+cheat72_code = "8012F0FE 0063"
+cheat72_enable = false
+
+cheat73_desc = "#更多杂项。代码\\最大弹药装填手榴弹"
+cheat73_code = "8012F100 03E7"
+cheat73_enable = false
+
+cheat74_desc = "#更多杂项。代码\\无限弹药加油手榴弹"
+cheat74_code = "8012F102 0063"
+cheat74_enable = false
+
+cheat75_desc = "#更多杂项。代码\\对大多数爆炸/火灾免疫"
+cheat75_code = "80069FB0 FFFF+80069FB2 2401+80069FD0 0008+80069FD2 1029"
+cheat75_enable = false
+
+cheat76_desc = "#更多杂项。代码\\对大多数子弹的免疫"
+cheat76_code = "80068974 0000+80068976 2401+80068B94 0016+80068B96 1420"
+cheat76_enable = false
+
+cheat77_desc = "#更多杂项。密码\\ 1枪杀死敌人"
+cheat77_code = "301168D1 0001"
+cheat77_enable = false
+
+cheat78_desc = "#更多杂项。代码\\硬模式（任务开始时按x）"
+cheat78_code = "301168D0 0001"
+cheat78_enable = false
+
+cheat79_desc = "#更多杂项。代码\\停止倒数计时器（导弹筒仓级别）"
+cheat79_code = "80116690 0BB8"
+cheat79_enable = false
+
+

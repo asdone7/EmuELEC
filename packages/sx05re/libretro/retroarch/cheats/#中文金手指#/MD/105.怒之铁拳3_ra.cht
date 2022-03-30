@@ -1,0 +1,118 @@
+cheats = 29
+
+cheat0_desc = "[一击杀敌]ON"
+cheat0_code = "FFE16D:01+FFE26D:01+FFE36D:01+FFE46D:01+FFE56D:01+FFE66D:01"
+cheat0_enable = false
+
+cheat1_desc = "[P1 角色]AXEL"
+cheat1_code = "FFDF0C:06"
+cheat1_enable = false
+
+cheat2_desc = "[P1 角色]BLAZE"
+cheat2_code = "FFDF0C:08"
+cheat2_enable = false
+
+cheat3_desc = "[P1 角色]SKATE"
+cheat3_code = "FFDF0C:0A"
+cheat3_enable = false
+
+cheat4_desc = "[P1 角色]ZAN"
+cheat4_code = "FFDF0C:04"
+cheat4_enable = false
+
+cheat5_desc = "[P1 角色]袋鼠"
+cheat5_code = "FFDF0C:0C"
+cheat5_enable = false
+
+cheat6_desc = "[P1 角色]隐藏人物.A"
+cheat6_code = "FFDF0C:00"
+cheat6_enable = false
+
+cheat7_desc = "[P1 角色]隐藏人物.B"
+cheat7_code = "FFDF0C:02"
+cheat7_enable = false
+
+cheat8_desc = "[P1 生命数]ON"
+cheat8_code = "FFDF8A:09"
+cheat8_enable = false
+
+cheat9_desc = "[P1 体力值]ON"
+cheat9_code = "FFDF6D:34"
+cheat9_enable = false
+
+cheat10_desc = "[P1 能量槽]ON"
+cheat10_code = "FFF616:90"
+cheat10_enable = false
+
+cheat11_desc = "[P2 角色]AXEL"
+cheat11_code = "FFE00C:06"
+cheat11_enable = false
+
+cheat12_desc = "[P2 角色]BLAZE"
+cheat12_code = "FFE00C:08"
+cheat12_enable = false
+
+cheat13_desc = "[P2 角色]SKATE"
+cheat13_code = "FFE00C:0A"
+cheat13_enable = false
+
+cheat14_desc = "[P2 角色]ZAN"
+cheat14_code = "FFE00C:04"
+cheat14_enable = false
+
+cheat15_desc = "[P2 角色]袋鼠"
+cheat15_code = "FFE00C:0C"
+cheat15_enable = false
+
+cheat16_desc = "[P2 角色]隐藏人物.A"
+cheat16_code = "FFE00C:00"
+cheat16_enable = false
+
+cheat17_desc = "[P2 角色]隐藏人物.B"
+cheat17_code = "FFE00C:02"
+cheat17_enable = false
+
+cheat18_desc = "[P2 生命数]ON"
+cheat18_code = "FFE08A:09"
+cheat18_enable = false
+
+cheat19_desc = "[P2 体力值]ON"
+cheat19_code = "FFE06D:34"
+cheat19_enable = false
+
+cheat20_desc = "[P2 能量槽]ON"
+cheat20_code = "FFF618:C0"
+cheat20_enable = false
+
+cheat21_desc = "[选择关卡(标题画面时)].NONE."
+cheat21_code = "FFFB04:06"
+cheat21_enable = false
+
+cheat22_desc = "[选择关卡(标题画面时)]第二关"
+cheat22_code = "FFFB04:01"
+cheat22_enable = false
+
+cheat23_desc = "[选择关卡(标题画面时)]第三关"
+cheat23_code = "FFFB04:02"
+cheat23_enable = false
+
+cheat24_desc = "[选择关卡(标题画面时)]第四关"
+cheat24_code = "FFFB04:03"
+cheat24_enable = false
+
+cheat25_desc = "[选择关卡(标题画面时)]第五关"
+cheat25_code = "FFFB04:04"
+cheat25_enable = false
+
+cheat26_desc = "[选择关卡(标题画面时)]第六关"
+cheat26_code = "FFFB04:05"
+cheat26_enable = false
+
+cheat27_desc = "[选择关卡(标题画面时)]第七关-分支.A"
+cheat27_code = "FFFB02:01+FFFB03:00+FFFB04:06"
+cheat27_enable = false
+
+cheat28_desc = "[选择关卡(标题画面时)]第七关-分支.B"
+cheat28_code = "FFFB02:02+FFFB03:00+FFFB04:06"
+cheat28_enable = false
+

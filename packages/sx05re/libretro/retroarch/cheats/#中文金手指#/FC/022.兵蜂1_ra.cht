@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[P1 无限只数]ON"
+cheat0_code = "0080:08"
+cheat0_enable = false
+
+cheat1_desc = "[P1 有双子弹]ON"
+cheat1_code = "0085:02"
+cheat1_enable = false
+
+cheat2_desc = "[P1 移动速度]ON"
+cheat2_code = "0082:03"
+cheat2_enable = false
+
+cheat3_desc = "[P1 有防护罩]ON"
+cheat3_code = "0090:01+0092:00"
+cheat3_enable = false
+

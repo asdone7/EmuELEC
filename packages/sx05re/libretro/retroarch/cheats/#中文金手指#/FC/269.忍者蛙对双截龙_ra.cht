@@ -1,0 +1,122 @@
+cheats = 30
+
+cheat0_desc = "[1P体力]ON"
+cheat0_code = "051B:30"
+cheat0_enable = false
+
+cheat1_desc = "[1P心数]ON"
+cheat1_code = "0011:05"
+cheat1_enable = false
+
+cheat2_desc = "[1P角色选择(游戏时可选,选定即解锁!)]RASH"
+cheat2_code = "05F0:00+05F2:00"
+cheat2_enable = false
+
+cheat3_desc = "[1P角色选择(游戏时可选,选定即解锁!)]ZITZ"
+cheat3_code = "05F0:01+05F2:00"
+cheat3_enable = false
+
+cheat4_desc = "[1P角色选择(游戏时可选,选定即解锁!)]PIMPLE"
+cheat4_code = "05F0:02+05F2:00"
+cheat4_enable = false
+
+cheat5_desc = "[1P角色选择(游戏时可选,选定即解锁!)]BILLY"
+cheat5_code = "05F0:03+05F2:01"
+cheat5_enable = false
+
+cheat6_desc = "[1P角色选择(游戏时可选,选定即解锁!)]JIMMY"
+cheat6_code = "05F0:04+05F2:01"
+cheat6_enable = false
+
+cheat7_desc = "[1P半透明(出现问题即解锁!)]ON"
+cheat7_code = "0575:20"
+cheat7_enable = false
+
+cheat8_desc = "[1P无敌]ON"
+cheat8_code = "04B2:00+0548:00"
+cheat8_enable = false
+
+cheat9_desc = "[1P手持道具]铁棍"
+cheat9_code = "04B2:20"
+cheat9_enable = false
+
+cheat10_desc = "[1P手持道具]炸弹"
+cheat10_code = "04B2:20+05B9:35"
+cheat10_enable = false
+
+cheat11_desc = "[1P赛车障碍]ON"
+cheat11_code = "0575:00+0578:00+00D7:00"
+cheat11_enable = false
+
+cheat12_desc = "[1P漂浮]ON"
+cheat12_code = "0539:47"
+cheat12_enable = false
+
+cheat13_desc = "[1P漂浮]OFF"
+cheat13_code = "0539:00"
+cheat13_enable = false
+
+cheat14_desc = "[1P绳索]ON"
+cheat14_code = "05CB:02"
+cheat14_enable = false
+
+cheat15_desc = "[1P绳索]OFF"
+cheat15_code = "05CB:00"
+cheat15_enable = false
+
+cheat16_desc = "[2P体力]ON"
+cheat16_code = "051C:30"
+cheat16_enable = false
+
+cheat17_desc = "[2P心数]ON"
+cheat17_code = "0012:05"
+cheat17_enable = false
+
+cheat18_desc = "[2P角色选择(游戏时可选,选定即解锁!)]RASH"
+cheat18_code = "05F1:00+05F3:00"
+cheat18_enable = false
+
+cheat19_desc = "[2P角色选择(游戏时可选,选定即解锁!)]ZITZ"
+cheat19_code = "05F1:01+05F3:00"
+cheat19_enable = false
+
+cheat20_desc = "[2P角色选择(游戏时可选,选定即解锁!)]PIMPLE"
+cheat20_code = "05F1:02+05F3:00"
+cheat20_enable = false
+
+cheat21_desc = "[2P角色选择(游戏时可选,选定即解锁!)]BILLY"
+cheat21_code = "05F1:03+05F3:01"
+cheat21_enable = false
+
+cheat22_desc = "[2P角色选择(游戏时可选,选定即解锁!)]JIMMY"
+cheat22_code = "05F1:04+05F3:01"
+cheat22_enable = false
+
+cheat23_desc = "[2P半透明(出现问题即解锁!)]ON"
+cheat23_code = "0576:20"
+cheat23_enable = false
+
+cheat24_desc = "[2P无敌]ON"
+cheat24_code = "04B3:00+0549:00"
+cheat24_enable = false
+
+cheat25_desc = "[2P手持道具]铁棍"
+cheat25_code = "04B3:20"
+cheat25_enable = false
+
+cheat26_desc = "[2P手持道具]炸弹"
+cheat26_code = "04B3:20+05BA:35"
+cheat26_enable = false
+
+cheat27_desc = "[所有敌兵全是]赛车"
+cheat27_code = "03C5:3A+03C6:3A+03C7:3A+03C8:3A+03C9:3A+03CA:3A+03CB:3A+03CC:3A+03CD:3A+03CE:3A+03CF:3A+03D0:3A"
+cheat27_enable = false
+
+cheat28_desc = "[所有敌兵全是]炸弹"
+cheat28_code = "03C5:35+03C6:35+03C7:35+03C8:35+03C9:35+03CA:35+03CB:35+03CC:35+03CD:35+03CE:35+03CF:35+03D0:35"
+cheat28_enable = false
+
+cheat29_desc = "[敌兵自杀过关]ON"
+cheat29_code = "03C5:3D+03C6:3D+03C7:3D+03C8:3D+03C9:3D+03CA:3D+03CB:3D+03CC:3D+03CD:3D+03CE:3D+03CF:3D+03D0:3D"
+cheat29_enable = false
+

@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[最大HP]ON"
+cheat0_code = "0017:7F+001C:7F"
+cheat0_enable = false
+

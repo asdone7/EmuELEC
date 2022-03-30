@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[血]ON"
+cheat0_code = "0066:40"
+cheat0_enable = false
+

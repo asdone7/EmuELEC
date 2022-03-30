@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[子弹数无限(用完请解锁)]ON"
+cheat0_code = "0057:63"
+cheat0_enable = false
+

@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[生命数]ON"
+cheat0_code = "0051:63"
+cheat0_enable = false
+
+cheat1_desc = "[护身圈]ON"
+cheat1_code = "0089:03"
+cheat1_enable = false
+
+cheat2_desc = "[炮弹威力]能穿钢板"
+cheat2_code = "00A8:60"
+cheat2_enable = false
+
+cheat3_desc = "[炮弹威力]普通"
+cheat3_code = "00A8:00"
+cheat3_enable = false
+
+cheat4_desc = "[炮弹威力]加快"
+cheat4_code = "00A8:20"
+cheat4_enable = false
+
+cheat5_desc = "[炮弹威力]连发"
+cheat5_code = "00A8:40"
+cheat5_enable = false
+
+cheat6_desc = "[基地周围铁幕]ON"
+cheat6_code = "074D:10+076D:10+0750:10+0770:10+072D:10+072E:10+072F:10+0730:10"
+cheat6_enable = false
+

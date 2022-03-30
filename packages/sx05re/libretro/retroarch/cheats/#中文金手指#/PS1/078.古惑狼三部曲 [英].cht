@@ -1,0 +1,151 @@
+cheats = 37
+
+cheat0_desc = "#Infinite Life“ Boulder Dash”舞台"
+cheat0_code = "8009E808 6300"
+cheat0_enable = false
+
+cheat1_desc = "#Infinite Lives“ Boulders”舞台"
+cheat1_code = "8009E584 6300"
+cheat1_enable = false
+
+cheat2_desc = "#Infinite Lifes“城堡机械”舞台"
+cheat2_code = "8009E88C 6300"
+cheat2_enable = false
+
+cheat3_desc = "#Infinite Lives“ Cortex Power”舞台"
+cheat3_code = "8009E77C 6300"
+cheat3_enable = false
+
+cheat4_desc = "#Infinite Lives“ Neo Cortex博士”舞台"
+cheat4_code = "8009E0F8 6300"
+cheat4_enable = false
+
+cheat5_desc = "#Infinite生活在黑暗中摸索"
+cheat5_code = "8009E5AC 6300"
+cheat5_enable = false
+
+cheat6_desc = "#Infinite Lives“ Generator Room”舞台"
+cheat6_code = "8009E54C 6300"
+cheat6_enable = false
+
+cheat7_desc = "#无限度过“重型机械”舞台"
+cheat7_code = "8009E828 6300"
+cheat7_enable = false
+
+cheat8_desc = "#Infinite Lives“ Hog Wild”舞台"
+cheat8_code = "8009E64C 6300"
+cheat8_enable = false
+
+cheat9_desc = "#Infinite Lives“黑暗之爪”舞台"
+cheat9_code = "8009E778 6300"
+cheat9_enable = false
+
+cheat10_desc = "#无限生活“丛林滚子”舞台"
+cheat10_code = "8009E59C 6300"
+cheat10_enable = false
+
+cheat11_desc = "#无限生活“考拉岗”舞台"
+cheat11_code = "8009E198 6300"
+cheat11_enable = false
+
+cheat12_desc = "#Infinite Lives“熄灯”舞台"
+cheat12_code = "8009E508 6300"
+cheat12_enable = false
+
+cheat13_desc = "#Infinite Lives“ N. Sanity Beach”舞台"
+cheat13_code = "8009E538 6300"
+cheat13_enable = false
+
+cheat14_desc = "#Infinite Lives“ Native Fortress”舞台"
+cheat14_code = "8009E7D0 6300"
+cheat14_enable = false
+
+cheat15_desc = "#Infinite Lives“ Nitrus Brio”舞台"
+cheat15_code = "8009E1A0 6300"
+cheat15_enable = false
+
+cheat16_desc = "#Infinite Life“ Papu Papu”舞台"
+cheat16_code = "8009E0D0 6300"
+cheat16_enable = false
+
+cheat17_desc = "#Infinite Life“ Pinstripe”舞台"
+cheat17_code = "8009E190 6300"
+cheat17_enable = false
+
+cheat18_desc = "#Infinite Lives“ Ripp Roo”舞台"
+cheat18_code = "8009E0E0 6300"
+cheat18_enable = false
+
+cheat19_desc = "#Infinite Lives“ Road to Nowhere”舞台"
+cheat19_code = "8009E620 6300"
+cheat19_enable = false
+
+cheat20_desc = "#无限生命的“滚石”舞台"
+cheat20_code = "8009E610 6300"
+cheat20_enable = false
+
+cheat21_desc = "#无限生活“滑爬”阶段"
+cheat21_code = "8009E5F0 6300"
+cheat21_enable = false
+
+cheat22_desc = "#Infinite Lives“ Sunset Vista”舞台"
+cheat22_code = "8009E818 6300"
+cheat22_enable = false
+
+cheat23_desc = "#Infinite Lives“ The Great Gate”舞台"
+cheat23_code = "8009E750 6300"
+cheat23_enable = false
+
+cheat24_desc = "#无限生活“人民大会堂”舞台"
+cheat24_code = "8009E368 6300"
+cheat24_enable = false
+
+cheat25_desc = "#Infinite Lives“ High Road”舞台"
+cheat25_code = "8009E5C0 6300"
+cheat25_enable = false
+
+cheat26_desc = "#Infinite Lives“实验室”舞台"
+cheat26_code = "8009E52C 6300"
+cheat26_enable = false
+
+cheat27_desc = "#无限生活“失落的城市”舞台"
+cheat27_code = "8009E6A4 6300"
+cheat27_enable = false
+
+cheat28_desc = "#无限生活“有毒废物”阶段"
+cheat28_code = "8009E4CC 6300"
+cheat28_enable = false
+
+cheat29_desc = "#Infinite Life“ Up the Creek”舞台"
+cheat29_code = "8009E6A0 6300"
+cheat29_enable = false
+
+cheat30_desc = "#Infinite Lives“上游”阶段"
+cheat30_code = "8009E5DC 6300"
+cheat30_enable = false
+
+cheat31_desc = "#无限女巫医生面具（接送）“丛林滚子”舞台"
+cheat31_code = "80091AD4 0200"
+cheat31_enable = false
+
+cheat32_desc = "#无限女巫医生面具（接送）“ N。健全海滩”舞台"
+cheat32_code = "80092898 0200"
+cheat32_enable = false
+
+cheat33_desc = "#无限女巫医生面具（上门接送）“ Great Gate”舞台"
+cheat33_code = "80092AB0 0200"
+cheat33_enable = false
+
+cheat34_desc = "#即时保存菜单"
+cheat34_code = "800A264C 0004"
+cheat34_enable = false
+
+cheat35_desc = "#L2：启用“无敌”，R2：禁用“无敌”"
+cheat35_code = "D005E72C 0001+80024352 2400+D005E72C 0002+80024352 0C00"
+cheat35_enable = false
+
+cheat36_desc = "#Level选择"
+cheat36_code = "30061948 0040"
+cheat36_enable = false
+
+

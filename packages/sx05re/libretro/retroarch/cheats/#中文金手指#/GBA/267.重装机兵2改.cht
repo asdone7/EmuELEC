@@ -1,0 +1,215 @@
+cheats = 53
+
+cheat0_desc = "金钱MAX"
+cheat0_code = "02043B3A 0000007E+02043B3B 00000096+02043B3C 00000098"
+cheat0_enable = false
+
+cheat1_desc = "不遇敌"
+cheat1_code = "02043115 000000FF"
+cheat1_enable = false
+
+cheat2_desc = "第1角色LV"
+cheat2_code = "02043C35 00000063"
+cheat2_enable = false
+
+cheat3_desc = "第1角色当前HP"
+cheat3_code = "02043C0D 0000000F+02043C0E 00000027"
+cheat3_enable = false
+
+cheat4_desc = "第1角色最大HP"
+cheat4_code = "02043C0F 0000000F+02043C10 00000027"
+cheat4_enable = false
+
+cheat5_desc = "第1角色攻击力"
+cheat5_code = "02043C11 0000000F+02043C12 00000027"
+cheat5_enable = false
+
+cheat6_desc = "第1角色守备力"
+cheat6_code = "02043C13 0000000F+02043C14 00000027"
+cheat6_enable = false
+
+cheat7_desc = "第1角色腕力"
+cheat7_code = "02043C36 000000FF"
+cheat7_enable = false
+
+cheat8_desc = "第1角色智力"
+cheat8_code = "02043C37 000000FF"
+cheat8_enable = false
+
+cheat9_desc = "第1角色体力"
+cheat9_code = "02043C38 000000FF"
+cheat9_enable = false
+
+cheat10_desc = "第1角色敏捷"
+cheat10_code = "02043C39 000000FF"
+cheat10_enable = false
+
+cheat11_desc = "第1角色战斗LV"
+cheat11_code = "02043C3A 000000FF"
+cheat11_enable = false
+
+cheat12_desc = "第1角色运转LV"
+cheat12_code = "02043C3B 000000FF"
+cheat12_enable = false
+
+cheat13_desc = "第1角色修理LV"
+cheat13_code = "02043C3C 000000FF"
+cheat13_enable = false
+
+cheat14_desc = "第1角色EXP"
+cheat14_code = "02043AFB 0000007F+02043AFC 00000096+02043AFD 00000098"
+cheat14_enable = false
+
+cheat15_desc = "第2角色LV"
+cheat15_code = "02043C3D 00000063"
+cheat15_enable = false
+
+cheat16_desc = "第2角色当前HP"
+cheat16_code = "02043C15 0000000F+02043C16 00000027"
+cheat16_enable = false
+
+cheat17_desc = "第2角色最大HP"
+cheat17_code = "02043C17 0000000F+02043C18 00000027"
+cheat17_enable = false
+
+cheat18_desc = "第2角色攻击力"
+cheat18_code = "02043C19 0000000F+02043C1A 00000027"
+cheat18_enable = false
+
+cheat19_desc = "第2角色守备力"
+cheat19_code = "02043C1B 0000000F+02043C1C 00000027"
+cheat19_enable = false
+
+cheat20_desc = "第2角色腕力"
+cheat20_code = "02043C3E 000000FF"
+cheat20_enable = false
+
+cheat21_desc = "第2角色智力"
+cheat21_code = "02043C3F 000000FF"
+cheat21_enable = false
+
+cheat22_desc = "第2角色体力"
+cheat22_code = "02043C40 000000FF"
+cheat22_enable = false
+
+cheat23_desc = "第2角色敏捷"
+cheat23_code = "02043C41 000000FF"
+cheat23_enable = false
+
+cheat24_desc = "第2角色战斗LV"
+cheat24_code = "02043C42 000000FF"
+cheat24_enable = false
+
+cheat25_desc = "第2角色运转LV"
+cheat25_code = "02043C43 000000FF"
+cheat25_enable = false
+
+cheat26_desc = "第2角色修理LV"
+cheat26_code = "02043C44 000000FF"
+cheat26_enable = false
+
+cheat27_desc = "第2角色EXP"
+cheat27_code = "02043B03 0000007F+02043B04 00000096+02043B05 00000098"
+cheat27_enable = false
+
+cheat28_desc = "第3角色LV"
+cheat28_code = "02043C45 00000063"
+cheat28_enable = false
+
+cheat29_desc = "第3角色当前HP"
+cheat29_code = "02043C1D 0000000F+02043C1E 00000027"
+cheat29_enable = false
+
+cheat30_desc = "第3角色最大HP"
+cheat30_code = "02043C1F 0000000F+02043C20 00000027"
+cheat30_enable = false
+
+cheat31_desc = "第3角色攻击力"
+cheat31_code = "02043C21 0000000F+02043C22 00000027"
+cheat31_enable = false
+
+cheat32_desc = "第3角色守备力"
+cheat32_code = "02043C23 0000000F+02043C24 00000027"
+cheat32_enable = false
+
+cheat33_desc = "第3角色腕力"
+cheat33_code = "02043C46 000000FF"
+cheat33_enable = false
+
+cheat34_desc = "第3角色智力"
+cheat34_code = "02043C47 000000FF"
+cheat34_enable = false
+
+cheat35_desc = "第3角色体力"
+cheat35_code = "02043C48 000000FF"
+cheat35_enable = false
+
+cheat36_desc = "第3角色敏捷"
+cheat36_code = "02043C49 000000FF"
+cheat36_enable = false
+
+cheat37_desc = "第3角色战斗LV"
+cheat37_code = "02043C4A 000000FF"
+cheat37_enable = false
+
+cheat38_desc = "第3角色运转LV"
+cheat38_code = "02043C4B 000000FF"
+cheat38_enable = false
+
+cheat39_desc = "第3角色修理LV"
+cheat39_code = "02043C4C 000000FF"
+cheat39_enable = false
+
+cheat40_desc = "第3角色EXP"
+cheat40_code = "02043B0B 0000007F+02043B0C 00000096+02043B0D 00000098"
+cheat40_enable = false
+
+cheat41_desc = "第4角色LV(红狗)"
+cheat41_code = "02043C4D 00000063"
+cheat41_enable = false
+
+cheat42_desc = "第4角色当前HP(红狗)"
+cheat42_code = "02043C25 0000000F+02043C26 00000027"
+cheat42_enable = false
+
+cheat43_desc = "第4角色最大HP(红狗)"
+cheat43_code = "02043C27 0000000F+02043C28 00000027"
+cheat43_enable = false
+
+cheat44_desc = "第4角色攻击力(红狗)"
+cheat44_code = "02043C29 0000000F+02043C2A 00000027"
+cheat44_enable = false
+
+cheat45_desc = "第4角色守备力(红狗)"
+cheat45_code = "02043C2B 0000000F+02043C2C 00000027"
+cheat45_enable = false
+
+cheat46_desc = "第4角色腕力(红狗)"
+cheat46_code = "02043C4E 000000FF"
+cheat46_enable = false
+
+cheat47_desc = "第4角色智力(红狗)"
+cheat47_code = "02043C4F 000000FF"
+cheat47_enable = false
+
+cheat48_desc = "第4角色体力(红狗)"
+cheat48_code = "02043C50 000000FF"
+cheat48_enable = false
+
+cheat49_desc = "第4角色敏捷(红狗)"
+cheat49_code = "02043C51 000000FF"
+cheat49_enable = false
+
+cheat50_desc = "第4角色战斗LV(红狗)"
+cheat50_code = "02043C52 000000FF"
+cheat50_enable = false
+
+cheat51_desc = "第4角色けづや(红狗)"
+cheat51_code = "02043C53 000000FF"
+cheat51_enable = false
+
+cheat52_desc = "第4角色EXP(红狗)"
+cheat52_code = "02043B13 0000007F+02043B14 00000096+02043B15 00000098+1号战车底盘守备+02043F16 000000FF+1号战车底盘弹仓+02043F18 000000FF+1号战车底盘重量+02043F1B 00000001+2号战车底盘守备+02043F1E 000000FF+2号战车底盘弹仓+02043F20 000000FF+2号战车底盘重量+02043F23 00000001+3号战车底盘守备+02043F26 000000FF+3号战车底盘弹仓+02043F28 000000FF+3号战车底盘重量+02043F2B 00000001+4号战车底盘守备+02043F2E 000000FF+4号战车底盘弹仓+02043F30 000000FF+4号战车底盘重量+02043F33 00000001+5号战车底盘守备+02043F36 000000FF+5号战车底盘弹仓+02043F38 000000FF+5号战车底盘重量+02043F3B 000000FF+6号战车底盘守备+02043F3E 000000FF+6号战车底盘弹仓+02043F3F 000000FF+6号战车底盘重量+02043F43 000000FF+7号战车底盘守备+02043F46 000000FF+7号战车底盘弹仓+02043F48 000000FF+7号战车底盘重量+02043F4B 000000FF+8号战车底盘守备+02043F4E 000000FF+8号战车底盘弹仓+02043F50 000000FF+8号战车底盘重量+02043F53 000000FF"
+cheat52_enable = false
+
+

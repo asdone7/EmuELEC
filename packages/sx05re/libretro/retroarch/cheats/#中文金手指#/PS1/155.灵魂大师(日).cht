@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#无限能量和最大能量主要特征"
+cheat0_code = "80122BA0 0063+801236CC 0063"
+cheat0_enable = false
+
+cheat1_desc = "#敌人能量为1看到能量水平为1后停用"
+cheat1_code = "80122C24 0001"
+cheat1_enable = false
+
+

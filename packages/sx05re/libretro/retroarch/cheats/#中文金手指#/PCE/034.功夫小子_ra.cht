@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[时间不减]ON"
+cheat0_code = "1F070F:99"
+cheat0_enable = false
+
+cheat1_desc = "[血不减]ON"
+cheat1_code = "1F07C9:70"
+cheat1_enable = false
+
+cheat2_desc = "[只数]ON"
+cheat2_code = "1F0755:09"
+cheat2_enable = false
+
+cheat3_desc = "[不遇敌(会造成当机)]ON"
+cheat3_code = "1F0995:33"
+cheat3_enable = false
+
+cheat4_desc = "[双截棍]ON"
+cheat4_code = "1F0757:01"
+cheat4_enable = false
+
+cheat5_desc = "[头目一击死]ON"
+cheat5_code = "1F07DC:00"
+cheat5_enable = false
+

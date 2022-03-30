@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "绿宝石数"
+cheat0_code = "02031B61 00000009+02031B62 00000009+02031B63 00000009+02041432 0000002C+02041433 00000001"
+cheat0_enable = false
+
+cheat1_desc = "只数"
+cheat1_code = "02032039 00000009"
+cheat1_enable = false
+
+cheat2_desc = "精灵数"
+cheat2_code = "02031E49 00000064"
+cheat2_enable = false
+
+

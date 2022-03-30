@@ -1,0 +1,35 @@
+cheats = 8
+
+cheat0_desc = "#P1最大舞蹈成绩"
+cheat0_code = "8005FBE8 FFFF"
+cheat0_enable = false
+
+cheat1_desc = "#P1无限特惠"
+cheat1_code = "3005FC33 0002"
+cheat1_enable = false
+
+cheat2_desc = "#P2没有舞蹈成绩"
+cheat2_code = "8005FBEC 0000"
+cheat2_enable = false
+
+cheat3_desc = "#P2没有特价"
+cheat3_code = "3005FC65 0000"
+cheat3_enable = false
+
+cheat4_desc = "#解锁所有角色"
+cheat4_code = "50000801 0000+3004F667 0001"
+cheat4_enable = false
+
+cheat5_desc = "#从最后阶段开始"
+cheat5_code = "E005FC7C 0000+3005FC7C 0007"
+cheat5_enable = false
+
+cheat6_desc = "#解锁舞蹈观看模式"
+cheat6_code = "30191C30 0001"
+cheat6_enable = false
+
+cheat7_desc = "#解锁所有Dance View播放器"
+cheat7_code = "50001201 0000+3004F66F 0001"
+cheat7_enable = false
+
+

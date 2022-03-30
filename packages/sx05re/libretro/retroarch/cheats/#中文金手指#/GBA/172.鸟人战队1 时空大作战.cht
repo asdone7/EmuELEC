@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "血"
+cheat0_code = "0200225C 000000B4"
+cheat0_enable = false
+
+cheat1_desc = "怒"
+cheat1_code = "0200229D 00000050"
+cheat1_enable = false
+
+

@@ -1,0 +1,294 @@
+cheats = 73
+
+cheat0_desc = "[无敌]ON"
+cheat0_code = "00AD:32"
+cheat0_enable = false
+
+cheat1_desc = "[忍刀]SUPER"
+cheat1_code = "00A9:01"
+cheat1_enable = false
+
+cheat2_desc = "[忍刀]NORMOL"
+cheat2_code = "00A9:00"
+cheat2_enable = false
+
+cheat3_desc = "[体力]Unlimited"
+cheat3_code = "00A7:10"
+cheat3_enable = false
+
+cheat4_desc = "[忍法]Unlimited"
+cheat4_code = "00C8:09+00C9:09+00CA:09+00CB:09+00CC:09+00CD:5A"
+cheat4_enable = false
+
+cheat5_desc = "[忍术样式]旋炎A"
+cheat5_code = "0381:17+0386:2B+0387:2B+0388:2B+03C9:36"
+cheat5_enable = false
+
+cheat6_desc = "[忍术样式]旋炎B"
+cheat6_code = "0381:1A+0386:2E+0387:2E+0388:2E+03C9:37"
+cheat6_enable = false
+
+cheat7_desc = "[忍术样式]弹炎"
+cheat7_code = "0381:18+0386:2C+0387:2C+0388:2C+03C9:34"
+cheat7_enable = false
+
+cheat8_desc = "[忍术样式]半月刃"
+cheat8_code = "0381:19+0386:CD+0387:2D+0388:2D+03C9:3A"
+cheat8_enable = false
+
+cheat9_desc = "[忍术样式]手里剑"
+cheat9_code = "0381:16+0386:2A+0387:2A+0388:2A+03C9:35"
+cheat9_enable = false
+
+cheat10_desc = "[忍术方式]水平回射"
+cheat10_code = "009F:00"
+cheat10_enable = false
+
+cheat11_desc = "[忍术方式]扬三射放"
+cheat11_code = "009F:01"
+cheat11_enable = false
+
+cheat12_desc = "[忍术方式]俯三射放"
+cheat12_code = "009F:02"
+cheat12_enable = false
+
+cheat13_desc = "[忍术方式]双向垂直"
+cheat13_code = "009F:03"
+cheat13_enable = false
+
+cheat14_desc = "[忍术方式]身躯同步"
+cheat14_code = "009F:04"
+cheat14_enable = false
+
+cheat15_desc = "[忍术方式]身躯同步LOCK"
+cheat15_code = "009F:04+0476:FF"
+cheat15_enable = false
+
+cheat16_desc = "[时间]Unlimited"
+cheat16_code = "00C5:09+00C6:09+00C7:09+00D0:FF"
+cheat16_enable = false
+
+cheat17_desc = "[生命]Unlimited"
+cheat17_code = "00C4:09"
+cheat17_enable = false
+
+cheat18_desc = "[章话选节(不荐锁定)]挑战1.1A"
+cheat18_code = "005F:00+00E2:00"
+cheat18_enable = false
+
+cheat19_desc = "[章话选节(不荐锁定)]挑战1.1B"
+cheat19_code = "005F:01+00E2:00"
+cheat19_enable = false
+
+cheat20_desc = "[章话选节(不荐锁定)]挑战1.1C"
+cheat20_code = "005F:02+00E2:00"
+cheat20_enable = false
+
+cheat21_desc = "[章话选节(不荐锁定)]挑战1.2A"
+cheat21_code = "005F:03+00E2:00"
+cheat21_enable = false
+
+cheat22_desc = "[章话选节(不荐锁定)]挑战章末CG"
+cheat22_code = "005F:04+00E2:01"
+cheat22_enable = false
+
+cheat23_desc = "[章话选节(不荐锁定)]敌　2.1A"
+cheat23_code = "005F:04+00E2:02"
+cheat23_enable = false
+
+cheat24_desc = "[章话选节(不荐锁定)]敌　2.2A"
+cheat24_code = "005F:05+00E2:02"
+cheat24_enable = false
+
+cheat25_desc = "[章话选节(不荐锁定)]敌　2.2B"
+cheat25_code = "005F:06+00E2:02"
+cheat25_enable = false
+
+cheat26_desc = "[章话选节(不荐锁定)]敌　2.2C"
+cheat26_code = "005F:07+00E2:02"
+cheat26_enable = false
+
+cheat27_desc = "[章话选节(不荐锁定)]敌　2.2D"
+cheat27_code = "005F:08+00E2:02"
+cheat27_enable = false
+
+cheat28_desc = "[章话选节(不荐锁定)]敌　2.3A"
+cheat28_code = "005F:09+00E2:02"
+cheat28_enable = false
+
+cheat29_desc = "[章话选节(不荐锁定)]敌章末CG"
+cheat29_code = "005F:0A+00E2:03"
+cheat29_enable = false
+
+cheat30_desc = "[章话选节(不荐锁定)]恶梦3.1A"
+cheat30_code = "005F:0A+00E2:04"
+cheat30_enable = false
+
+cheat31_desc = "[章话选节(不荐锁定)]恶梦3.2A"
+cheat31_code = "005F:0B+00E2:04"
+cheat31_enable = false
+
+cheat32_desc = "[章话选节(不荐锁定)]恶梦3.2B"
+cheat32_code = "005F:0C+00E2:04"
+cheat32_enable = false
+
+cheat33_desc = "[章话选节(不荐锁定)]恶梦3.2C"
+cheat33_code = "005F:0D+00E2:04"
+cheat33_enable = false
+
+cheat34_desc = "[章话选节(不荐锁定)]恶梦3.2D"
+cheat34_code = "005F:0E+00E2:04"
+cheat34_enable = false
+
+cheat35_desc = "[章话选节(不荐锁定)]恶梦3.3A"
+cheat35_code = "005F:0F+00E2:04"
+cheat35_enable = false
+
+cheat36_desc = "[章话选节(不荐锁定)]恶梦章末CG"
+cheat36_code = "005F:10+00E2:05"
+cheat36_enable = false
+
+cheat37_desc = "[章话选节(不荐锁定)]封印4.1A"
+cheat37_code = "005F:10+00E2:06"
+cheat37_enable = false
+
+cheat38_desc = "[章话选节(不荐锁定)]封印4.2A"
+cheat38_code = "005F:11+00E2:06"
+cheat38_enable = false
+
+cheat39_desc = "[章话选节(不荐锁定)]封印4.2B"
+cheat39_code = "005F:12+00E2:06"
+cheat39_enable = false
+
+cheat40_desc = "[章话选节(不荐锁定)]封印4.2C"
+cheat40_code = "005F:13+00E2:06"
+cheat40_enable = false
+
+cheat41_desc = "[章话选节(不荐锁定)]封印4.3A"
+cheat41_code = "005F:14+00E2:06"
+cheat41_enable = false
+
+cheat42_desc = "[章话选节(不荐锁定)]封印章末CG"
+cheat42_code = "005F:15+00E2:07"
+cheat42_enable = false
+
+cheat43_desc = "[章话选节(不荐锁定)]要塞5.1A"
+cheat43_code = "005F:15+00E2:08"
+cheat43_enable = false
+
+cheat44_desc = "[章话选节(不荐锁定)]要塞5.1B"
+cheat44_code = "005F:16+00E2:08"
+cheat44_enable = false
+
+cheat45_desc = "[章话选节(不荐锁定)]要塞5.1C"
+cheat45_code = "005F:17+00E2:08"
+cheat45_enable = false
+
+cheat46_desc = "[章话选节(不荐锁定)]要塞5.2A"
+cheat46_code = "005F:18+00E2:08"
+cheat46_enable = false
+
+cheat47_desc = "[章话选节(不荐锁定)]要塞5.2B"
+cheat47_code = "005F:19+00E2:08"
+cheat47_enable = false
+
+cheat48_desc = "[章话选节(不荐锁定)]要塞5.2C"
+cheat48_code = "005F:1A+00E2:08"
+cheat48_enable = false
+
+cheat49_desc = "[章话选节(不荐锁定)]要塞5.2D"
+cheat49_code = "005F:1B+00E2:08"
+cheat49_enable = false
+
+cheat50_desc = "[章话选节(不荐锁定)]要塞5.2E"
+cheat50_code = "005F:1C+00E2:08"
+cheat50_enable = false
+
+cheat51_desc = "[章话选节(不荐锁定)]要塞5.3A"
+cheat51_code = "005F:1D+00E2:09"
+cheat51_enable = false
+
+cheat52_desc = "[章话选节(不荐锁定)]要塞章末CG"
+cheat52_code = "005F:1E+00E2:0A"
+cheat52_enable = false
+
+cheat53_desc = "[章话选节(不荐锁定)]苏生6.1A"
+cheat53_code = "005F:1E+00E2:0B"
+cheat53_enable = false
+
+cheat54_desc = "[章话选节(不荐锁定)]苏生6.1B"
+cheat54_code = "005F:1F+00E2:0B"
+cheat54_enable = false
+
+cheat55_desc = "[章话选节(不荐锁定)]苏生6.1C"
+cheat55_code = "005F:20+00E2:0B"
+cheat55_enable = false
+
+cheat56_desc = "[章话选节(不荐锁定)]苏生6.2A"
+cheat56_code = "005F:21+00E2:0B"
+cheat56_enable = false
+
+cheat57_desc = "[章话选节(不荐锁定)]苏生6.2B"
+cheat57_code = "005F:22+00E2:0B"
+cheat57_enable = false
+
+cheat58_desc = "[章话选节(不荐锁定)]苏生6.3A"
+cheat58_code = "005F:23+00E2:0C"
+cheat58_enable = false
+
+cheat59_desc = "[章话选节(不荐锁定)]苏生章末CG"
+cheat59_code = "005F:24+00E2:0D"
+cheat59_enable = false
+
+cheat60_desc = "[章话选节(不荐锁定)]妖兽7.1A"
+cheat60_code = "005F:24+00E2:0E"
+cheat60_enable = false
+
+cheat61_desc = "[章话选节(不荐锁定)]妖兽7.2A"
+cheat61_code = "005F:25+00E2:0E"
+cheat61_enable = false
+
+cheat62_desc = "[章话选节(不荐锁定)]妖兽7.2B"
+cheat62_code = "005F:26+00E2:0E"
+cheat62_enable = false
+
+cheat63_desc = "[章话选节(不荐锁定)]妖兽7.2C"
+cheat63_code = "005F:27+00E2:0E"
+cheat63_enable = false
+
+cheat64_desc = "[章话选节(不荐锁定)]妖兽7.2D"
+cheat64_code = "00FC:28+00E2:0E"
+cheat64_enable = false
+
+cheat65_desc = "[章话选节(不荐锁定)]妖兽7.3A"
+cheat65_code = "005F:29+00E2:0E"
+cheat65_enable = false
+
+cheat66_desc = "[章话选节(不荐锁定)]妖兽7.3B"
+cheat66_code = "005F:2A+00E2:0E"
+cheat66_enable = false
+
+cheat67_desc = "[章话选节(不荐锁定)]妖兽7.3C"
+cheat67_code = "005F:2B+00E2:0E"
+cheat67_enable = false
+
+cheat68_desc = "[章话选节(不荐锁定)]妖兽7.3D"
+cheat68_code = "005F:2C+00E2:0E"
+cheat68_enable = false
+
+cheat69_desc = "[章话选节(不荐锁定)]妖兽7.4A"
+cheat69_code = "005F:2D+00E2:0F"
+cheat69_enable = false
+
+cheat70_desc = "[章话选节(不荐锁定)]妖兽7.5A"
+cheat70_code = "005F:2E+00E2:10"
+cheat70_enable = false
+
+cheat71_desc = "[章话选节(不荐锁定)]妖兽7.6A"
+cheat71_code = "005F:2F+00E2:11"
+cheat71_enable = false
+
+cheat72_desc = "[章话选节(不荐锁定)]全终CG&Credit"
+cheat72_code = "00E2:12"
+cheat72_enable = false
+

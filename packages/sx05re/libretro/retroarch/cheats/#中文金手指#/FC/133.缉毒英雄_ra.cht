@@ -1,0 +1,58 @@
+cheats = 14
+
+cheat0_desc = "[选关]真相之战"
+cheat0_code = "0030:08+0031:08"
+cheat0_enable = false
+
+cheat1_desc = "[选关]第2关"
+cheat1_code = "0030:01+0031:01"
+cheat1_enable = false
+
+cheat2_desc = "[选关]第3关"
+cheat2_code = "0030:02+0031:02"
+cheat2_enable = false
+
+cheat3_desc = "[选关]第4关"
+cheat3_code = "0030:03+0031:03"
+cheat3_enable = false
+
+cheat4_desc = "[选关]第5关"
+cheat4_code = "0030:04+0031:04"
+cheat4_enable = false
+
+cheat5_desc = "[选关]第6关"
+cheat5_code = "0030:05+0031:05"
+cheat5_enable = false
+
+cheat6_desc = "[选关]第7关"
+cheat6_code = "0030:06+0031:06"
+cheat6_enable = false
+
+cheat7_desc = "[选关]第8关"
+cheat7_code = "0030:07+0031:07"
+cheat7_enable = false
+
+cheat8_desc = "[选关]第1关"
+cheat8_code = "0030:00+0031:00"
+cheat8_enable = false
+
+cheat9_desc = "[血量]ON"
+cheat9_code = "06F8:07"
+cheat9_enable = false
+
+cheat10_desc = "[生命数]ON"
+cheat10_code = "06E8:26"
+cheat10_enable = false
+
+cheat11_desc = "[弹药威力]超强火力"
+cheat11_code = "06E0:FF+06E1:FF+06E2:FF+06E3:FF"
+cheat11_enable = false
+
+cheat12_desc = "[弹药威力]1000粒子弹"
+cheat12_code = "06E0:E7+06E1:03"
+cheat12_enable = false
+
+cheat13_desc = "[手镏弹]ON"
+cheat13_code = "06EE:FF+06EF:FF+06F0:FF+06F1:FF"
+cheat13_enable = false
+

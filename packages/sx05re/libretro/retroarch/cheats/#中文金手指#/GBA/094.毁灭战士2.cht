@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "子弹"
+cheat0_code = "02016348 00000063"
+cheat0_enable = false
+
+cheat1_desc = "血"
+cheat1_code = "02016326 000000C8"
+cheat1_enable = false
+
+

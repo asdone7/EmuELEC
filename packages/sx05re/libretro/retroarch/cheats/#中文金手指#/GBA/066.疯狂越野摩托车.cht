@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "喷射器不减"
+cheat0_code = "02045D32 00000063"
+cheat0_enable = false
+
+

@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[武器威力最强]On"
+cheat0_code = "1F0B78:0F"
+cheat0_enable = false
+
+cheat1_desc = "[影分身]On"
+cheat1_code = "1F184C:03"
+cheat1_enable = false
+
+cheat2_desc = "[接关数]ON"
+cheat2_code = "1F0B68:09+1F0B79:09"
+cheat2_enable = false
+
+cheat3_desc = "[命]ON"
+cheat3_code = "1F17C9:09"
+cheat3_enable = false
+

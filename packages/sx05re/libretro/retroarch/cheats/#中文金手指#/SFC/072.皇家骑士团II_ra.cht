@@ -1,0 +1,198 @@
+cheats = 49
+
+cheat0_desc = "[无限金钱]ON"
+cheat0_code = "7EBD8A7F+7EBD8B96+7EBD8C98"
+cheat0_enable = false
+
+cheat1_desc = "[1-6MP]ON"
+cheat1_code = "7E1876E7+7E187703+7E1878E7+7E187903+7E187AE7+7E187B03+7E187CE7+7E187D03+7E187EE7+7E187F03+7E1880E7+7E188103"
+cheat1_enable = false
+
+cheat2_desc = "[7MP]ON"
+cheat2_code = "7E1882E7+7E188303"
+cheat2_enable = false
+
+cheat3_desc = "[8MP]ON"
+cheat3_code = "7E1884E7+7E188503"
+cheat3_enable = false
+
+cheat4_desc = "[9MP]ON"
+cheat4_code = "7E1886E7+7E188703"
+cheat4_enable = false
+
+cheat5_desc = "[主角经验值]ON"
+cheat5_code = "7E17FF63"
+cheat5_enable = false
+
+cheat6_desc = "[2EXP]ON"
+cheat6_code = "7E180163"
+cheat6_enable = false
+
+cheat7_desc = "[3EXP]ON"
+cheat7_code = "7E180363"
+cheat7_enable = false
+
+cheat8_desc = "[4EXP]ON"
+cheat8_code = "7E180563"
+cheat8_enable = false
+
+cheat9_desc = "[5EXP]ON"
+cheat9_code = "7E180763"
+cheat9_enable = false
+
+cheat10_desc = "[6EXP]ON"
+cheat10_code = "7E180963"
+cheat10_enable = false
+
+cheat11_desc = "[7EXP]ON"
+cheat11_code = "7E180B63"
+cheat11_enable = false
+
+cheat12_desc = "[8EXP]ON"
+cheat12_code = "7E180D63"
+cheat12_enable = false
+
+cheat13_desc = "[9EXP]ON"
+cheat13_code = "7E180F63"
+cheat13_enable = false
+
+cheat14_desc = "[主角生命值]半 "
+cheat14_code = "7E1826F4+7E182701"
+cheat14_enable = false
+
+cheat15_desc = "[主角生命值]MAX"
+cheat15_code = "7E1826E7+7E182703"
+cheat15_enable = false
+
+cheat16_desc = "[2-6生命值]半 "
+cheat16_code = "7E1828F4+7E182901+7E182AF4+7E182B01+7E182CF4+7E182D01+7E182EF4+7E182F01+7E1830F4+7E183101"
+cheat16_enable = false
+
+cheat17_desc = "[2-6生命值]MAX"
+cheat17_code = "7E1828E7+7E182903+7E182AE7+7E182B03+7E182CE7+7E182D03+7E182EE7+7E182F03+7E1830E7+7E183103"
+cheat17_enable = false
+
+cheat18_desc = "[7生命值]半 "
+cheat18_code = "7E1832F4+7E183301"
+cheat18_enable = false
+
+cheat19_desc = "[7生命值]MAX"
+cheat19_code = "7E1832E7+7E183303"
+cheat19_enable = false
+
+cheat20_desc = "[8生命值]半 "
+cheat20_code = "7E1834F4+7E183501"
+cheat20_enable = false
+
+cheat21_desc = "[8生命值]MAX"
+cheat21_code = "7E1834E7+7E183503"
+cheat21_enable = false
+
+cheat22_desc = "[主角能力]半"
+cheat22_code = "7E18C6F4+7E18C701+7E1966F4+7E196701+7E18EEF4+7E18EF01+7E198EF4+7E198F01+7E1916F4+7E191701+7E193EF4+7E193F01+7E19B664"
+cheat22_enable = false
+
+cheat23_desc = "[主角能力]MAX"
+cheat23_code = "7E18C6E7+7E18C703+7E1966E7+7E196703+7E18EEE7+7E18EF03+7E198EE7+7E198F03+7E1916E7+7E191703+7E193EE7+7E193F03+7E19B664"
+cheat23_enable = false
+
+cheat24_desc = "[2-6能力]半 "
+cheat24_code = "7E18C8F4+7E18C901+7E1968F4+7E196901+7E18F0F4+7E18F101+7E1990F4+7E199101+7E1918F4+7E191901+7E1940F4+7E194101+7E19B864+7E18CAF4+7E18CB01+7E196AF4+7E196B01+7E18F2F4+7E18F301+7E1992F4+7E199301+7E191AF4+7E191B01+7E1942F4+7E194301+7E19BA64+7E18CCF4+7E18CD01+7E196CF4+7E196D01+7E18F4F4+7E18F501+7E1994F4+7E199501+7E191CF4+7E191D01+7E1944F4+7E194501+7E19BC64+7E18CEF4+7E18CF01+7E196EF4+7E196F01+7E18F6F4+7E18F701+7E1996F4+7E199701+7E191EF4+7E191F01+7E1946F4+7E194701+7E19BE64+7E18D0F4+7E18D101+7E1970F4+7E197101+7E18F8F4+7E18F901+7E1998F4+7E199901+7E1920F4+7E192101+7E1948F4+7E194901+7E19C064"
+cheat24_enable = false
+
+cheat25_desc = "[2-6能力]MAX"
+cheat25_code = "7E18C8E7+7E18C903+7E1968E7+7E196903+7E18F0E7+7E18F103+7E1990E7+7E199103+7E1918E7+7E191903+7E1940E7+7E194103+7E19B864+7E18CAE7+7E18CB03+7E196AE7+7E196B03+7E18F2E7+7E18F303+7E1992E7+7E199303+7E191AE7+7E191B03+7E1942E7+7E194303+7E19BA64+7E18CCE7+7E18CD03+7E196CE7+7E196D03+7E18F4E7+7E18F503+7E1994E7+7E199503+7E191CE7+7E191D03+7E1944E7+7E194503+7E19BC64+7E18CEE7+7E18CF03+7E196EE7+7E196F03+7E18F6E7+7E18F703+7E1996E7+7E199703+7E191EE7+7E191F03+7E1946E7+7E194703+7E19BE64+7E18D0E7+7E18D103+7E1970E7+7E197103+7E18F8E7+7E18F903+7E1998E7+7E199903+7E1920E7+7E192103+7E1948E7+7E194903+7E19C064"
+cheat25_enable = false
+
+cheat26_desc = "[7能力]半 "
+cheat26_code = "7E18D2F4+7E18D301+7E1972F4+7E197301+7E18FAF4+7E18FB01+7E199AF4+7E199B01+7E1922F4+7E192301+7E194AF4+7E194B01+7E19C264"
+cheat26_enable = false
+
+cheat27_desc = "[7能力]MAX"
+cheat27_code = "7E18D2E7+7E18D303+7E1972E7+7E197303+7E18FAE7+7E18FB03+7E199AE7+7E199B03+7E1922E7+7E192303+7E194AE7+7E194B03+7E19C264"
+cheat27_enable = false
+
+cheat28_desc = "[8能力]半 "
+cheat28_code = "7E18D4F4+7E18D501+7E1974F4+7E197501+7E18FCF4+7E18FD01+7E199CF4+7E199D01+7E1924F4+7E192501+7E194CF4+7E194D01+7E19C464"
+cheat28_enable = false
+
+cheat29_desc = "[8能力]MAX"
+cheat29_code = "7E18D4E7+7E18D503+7E1974E7+7E197503+7E18FCE7+7E18FD03+7E199CE7+7E199D03+7E1924E7+7E192503+7E194CE7+7E194D03+7E19C464"
+cheat29_enable = false
+
+cheat30_desc = "[部分推荐物品]ON"
+cheat30_code = "7EBB7B99+7EBC4763+7EBB7CA1+7EBC4863+7EBB7D5C+7EBC4932+7EBB7E1A+7EBC4A63+7EBB7F60+7EBC4B63+7EBB8074+7EBC4C32+7EBB82CD+7EBC4E63+7EBB83C0+7EBC4F63+7EBB84C9+7EBC5063+7EBB85CC+7EBC5163+7EBB86CA+7EBC5263+7EBB87CB+7EBC5363"
+cheat30_enable = false
+
+cheat31_desc = "[1移动]15"
+cheat31_code = "7E1DEE0F"
+cheat31_enable = false
+
+cheat32_desc = "[1移动]30"
+cheat32_code = "7E1DEE1E"
+cheat32_enable = false
+
+cheat33_desc = "[2移动]15"
+cheat33_code = "7E1DF00F"
+cheat33_enable = false
+
+cheat34_desc = "[2移动]30"
+cheat34_code = "7E1DF01E"
+cheat34_enable = false
+
+cheat35_desc = "[3移动]15"
+cheat35_code = "7E1DF20F"
+cheat35_enable = false
+
+cheat36_desc = "[3移动]30"
+cheat36_code = "7E1DF21E"
+cheat36_enable = false
+
+cheat37_desc = "[4移动]15"
+cheat37_code = "7E1DF40F"
+cheat37_enable = false
+
+cheat38_desc = "[4移动]30"
+cheat38_code = "7E1DF41E"
+cheat38_enable = false
+
+cheat39_desc = "[5移动]15"
+cheat39_code = "7E1DF60F"
+cheat39_enable = false
+
+cheat40_desc = "[5移动]30"
+cheat40_code = "7E1DF61E"
+cheat40_enable = false
+
+cheat41_desc = "[6移动]15"
+cheat41_code = "7E1DF80F"
+cheat41_enable = false
+
+cheat42_desc = "[6移动]30"
+cheat42_code = "7E1DF81E"
+cheat42_enable = false
+
+cheat43_desc = "[7移动]15"
+cheat43_code = "7E1DFA0F"
+cheat43_enable = false
+
+cheat44_desc = "[7移动]30"
+cheat44_code = "7E1DFA1E"
+cheat44_enable = false
+
+cheat45_desc = "[8移动]15"
+cheat45_code = "7E1DFC0F"
+cheat45_enable = false
+
+cheat46_desc = "[8移动]30"
+cheat46_code = "7E1DFC1E"
+cheat46_enable = false
+
+cheat47_desc = "[9移动]15"
+cheat47_code = "7E1DFE0F"
+cheat47_enable = false
+
+cheat48_desc = "[9移动]30"
+cheat48_code = "7E1DFE1E"
+cheat48_enable = false
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1p-HP]ON"
+cheat0_code = "FF9B62:FF+FF9B63:FF+FF9B64:00"
+cheat0_enable = false
+
+cheat1_desc = "[1p-生命]ON"
+cheat1_code = "FFF46F:09"
+cheat1_enable = false
+

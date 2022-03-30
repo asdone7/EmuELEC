@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[血量]ON"
+cheat0_code = "1F15C8:63"
+cheat0_enable = false
+

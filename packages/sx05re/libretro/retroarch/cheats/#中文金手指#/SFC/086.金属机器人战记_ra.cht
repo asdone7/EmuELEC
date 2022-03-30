@@ -1,0 +1,38 @@
+cheats = 9
+
+cheat0_desc = "[wd]ON"
+cheat0_code = "7E00015000"
+cheat0_enable = false
+
+cheat1_desc = "[WD2]ON"
+cheat1_code = "7E00014E00"
+cheat1_enable = false
+
+cheat2_desc = "[携带武器]ON"
+cheat2_code = "7E00013602"
+cheat2_enable = false
+
+cheat3_desc = "[携带武器]导弹"
+cheat3_code = "7E00013603"
+cheat3_enable = false
+
+cheat4_desc = "[携带武器]加速"
+cheat4_code = "7E00013604"
+cheat4_enable = false
+
+cheat5_desc = "[携带武器]上升箭头"
+cheat5_code = "7E00013605"
+cheat5_enable = false
+
+cheat6_desc = "[携带武器]向后蹦豆"
+cheat6_code = "7E00013606"
+cheat6_enable = false
+
+cheat7_desc = "[携带武器]向前蹦豆"
+cheat7_code = "7E00013607"
+cheat7_enable = false
+
+cheat8_desc = "[携带武器]炸弹"
+cheat8_code = "7E00013608"
+cheat8_enable = false
+

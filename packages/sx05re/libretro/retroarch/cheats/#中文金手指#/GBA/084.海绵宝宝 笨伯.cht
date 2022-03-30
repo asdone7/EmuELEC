@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "血无限"
+cheat0_code = "02041A0C 00000005"
+cheat0_enable = false
+
+cheat1_desc = "无限人数"
+cheat1_code = "02041A10 00000063"
+cheat1_enable = false
+
+cheat2_desc = "金币"
+cheat2_code = "02041A08 000000E7+02041A09 00000003"
+cheat2_enable = false
+
+

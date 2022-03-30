@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[不死]ON"
+cheat0_code = "04D5:01"
+cheat0_enable = false
+
+cheat1_desc = "[武器选择]光波"
+cheat1_code = "00D5:01"
+cheat1_enable = false
+
+cheat2_desc = "[武器选择]激光"
+cheat2_code = "00D5:02"
+cheat2_enable = false
+
+cheat3_desc = "[武器选择]爆破"
+cheat3_code = "00D5:03"
+cheat3_enable = false
+
+cheat4_desc = "[威力最大]ON"
+cheat4_code = "00D6:02"
+cheat4_enable = false
+
+cheat5_desc = "[副机(请先获得副机)]ON"
+cheat5_code = "04D6:02+04D7:02"
+cheat5_enable = false
+

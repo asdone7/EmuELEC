@@ -1,0 +1,747 @@
+cheats = 186
+
+cheat0_desc = "金钱"
+cheat0_code = "0203CB7C 0000000F+0203CB7D 00000027"
+cheat0_enable = false
+
+cheat1_desc = "阳光储备"
+cheat1_code = "0403CB7C 0000000F+0403CB7D 00000027"
+cheat1_enable = false
+
+cheat2_desc = "阳光强度 最强"
+cheat2_code = "0203FFFF 0000000A"
+cheat2_enable = false
+
+cheat3_desc = "阳光强度 最弱"
+cheat3_code = "0203FFFF 00000000"
+cheat3_enable = false
+
+cheat4_desc = "等级"
+cheat4_code = "0203C440 00000063"
+cheat4_enable = false
+
+cheat5_desc = "生命"
+cheat5_code = "0203C428 000000E8+0203C429 00000003"
+cheat5_enable = false
+
+cheat6_desc = "能量"
+cheat6_code = "0203C42C 00000058+0203C42D 00000002"
+cheat6_enable = false
+
+cheat7_desc = "TRC"
+cheat7_code = "0203CA08 000000E8+0203CA09 00000003"
+cheat7_enable = false
+
+cheat8_desc = "能力点数"
+cheat8_code = "0203C442 00000064"
+cheat8_enable = false
+
+cheat9_desc = "能力全满"
+cheat9_code = "0203C418 00000064+0203C419 00000000+0203C41A 00000064+0203C41B 00000000+0203C41C 00000064"
+cheat9_enable = false
+
+cheat10_desc = "经验"
+cheat10_code = "0203C448 0000003F+0203C449 00000042+0203C44A 0000000F"
+cheat10_enable = false
+
+cheat11_desc = "全太阳枪"
+cheat11_code = "0203C8C0 00000001+0203C8C1 00000000+0203C8C2 00000002+0203C8C3 00000000+0203C8C4 00000003+0203C8C5 00000000+0203C8C6 00000004+0203C8C7 00000000+0203C8C8 00000005+0203C8C9 00000000+0203C8CA 00000006+0203C8CB 00000000+0203C8CC 00000007+0203C8CD 00000000+0203C8CE 00000008+0203C8CF 00000000+0203C8D0 00000009+0203C8D1 00000000+0203C8D2 0000000A+0203C8D3 00000000+0203C8D4 0000000B+0203C8D5 00000000+0203C8D6 0000000C"
+cheat11_enable = false
+
+cheat12_desc = "全太阳枪配件"
+cheat12_code = "0203CC28 00000000+0203CC29 00000000+0203CC2A 00000001+0203CC2B 00000000+0203CC2C 00000002+0203CC2D 00000000+0203CC2E 00000003+0203CC2F 00000000+0203CC30 00000004+0203CC31 00000000+0203CC32 00000005+0203CC33 00000000+0203CC34 00000006+0203CC35 00000000+0203CC36 00000007"
+cheat12_enable = false
+
+cheat13_desc = "全魔法"
+cheat13_code = "0203C488 00000000+0203C489 00000000+0203C48A 00000001+0203C48B 00000000+0203C48C 00000002+0203C48D 00000000+0203C48E 00000003+0203C48F 00000000"
+cheat13_enable = false
+
+cheat14_desc = "首位道具 回复药"
+cheat14_code = "0203C4A0 00000000+0203C4A1 00000000"
+cheat14_enable = false
+
+cheat15_desc = "首位道具 大地の实"
+cheat15_code = "0203C4A0 00000001+0203C4A1 00000000"
+cheat15_enable = false
+
+cheat16_desc = "首位道具 くさった实"
+cheat16_code = "0203C4A0 00000002+0203C4A1 00000000"
+cheat16_enable = false
+
+cheat17_desc = "首位道具 干し肉"
+cheat17_code = "0203C4A0 00000003+0203C4A1 00000000"
+cheat17_enable = false
+
+cheat18_desc = "首位道具 おいしい肉"
+cheat18_code = "0203C4A0 00000004+0203C4A1 00000000"
+cheat18_enable = false
+
+cheat19_desc = "首位道具 くさった肉"
+cheat19_code = "0203C4A0 00000005+0203C4A1 00000000"
+cheat19_enable = false
+
+cheat20_desc = "首位道具 チョコレート"
+cheat20_code = "0203C4A0 00000006+0203C4A1 00000000"
+cheat20_enable = false
+
+cheat21_desc = "首位道具 デラックスチョコ"
+cheat21_code = "0203C4A0 00000007+0203C4A1 00000000"
+cheat21_enable = false
+
+cheat22_desc = "首位道具 溶けたチョコ"
+cheat22_code = "0203C4A0 00000008+0203C4A1 00000000"
+cheat22_enable = false
+
+cheat23_desc = "首位道具 チョコまみれ"
+cheat23_code = "0203C4A0 00000009+0203C4A1 00000000"
+cheat23_enable = false
+
+cheat24_desc = "首位道具 ガリガリ君ソーダ"
+cheat24_code = "0203C4A0 0000000A+0203C4A1 00000000"
+cheat24_enable = false
+
+cheat25_desc = "首位道具 ガリガリ君コーラ"
+cheat25_code = "0203C4A0 0000000B+0203C4A1 00000000"
+cheat25_enable = false
+
+cheat26_desc = "首位道具 魔法药"
+cheat26_code = "0203C4A0 0000000C+0203C4A1 00000000"
+cheat26_enable = false
+
+cheat27_desc = "首位道具 太阳の实"
+cheat27_code = "0203C4A0 0000000D+0203C4A1 00000000"
+cheat27_enable = false
+
+cheat28_desc = "首位道具 恶いキノコ"
+cheat28_code = "0203C4A0 0000000E+0203C4A1 00000000"
+cheat28_enable = false
+
+cheat29_desc = "首位道具 毒消し"
+cheat29_code = "0203C4A0 0000000F+0203C4A1 00000000"
+cheat29_enable = false
+
+cheat30_desc = "首位道具 万能药"
+cheat30_code = "0203C4A0 00000010+0203C4A1 00000000"
+cheat30_enable = false
+
+cheat31_desc = "首位道具 太阳のしずく"
+cheat31_code = "0203C4A0 00000011+0203C4A1 00000000"
+cheat31_enable = false
+
+cheat32_desc = "首位道具 がまんの实"
+cheat32_code = "0203C4A0 00000012+0203C4A1 00000000"
+cheat32_enable = false
+
+cheat33_desc = "首位道具 はやさの实"
+cheat33_code = "0203C4A0 00000013+0203C4A1 00000000"
+cheat33_enable = false
+
+cheat34_desc = "首位道具 ちからの实"
+cheat34_code = "0203C4A0 00000014+0203C4A1 00000000"
+cheat34_enable = false
+
+cheat35_desc = "首位道具 チョコバナナ"
+cheat35_code = "0203C4A0 00000015+0203C4A1 00000000"
+cheat35_enable = false
+
+cheat36_desc = "首位道具 しのびの实"
+cheat36_code = "0203C4A0 00000016+0203C4A1 00000000"
+cheat36_enable = false
+
+cheat37_desc = "首位道具 赤いキノコ"
+cheat37_code = "0203C4A0 00000017+0203C4A1 00000000"
+cheat37_enable = false
+
+cheat38_desc = "首位道具 青いキノコ"
+cheat38_code = "0203C4A0 00000018+0203C4A1 00000000"
+cheat38_enable = false
+
+cheat39_desc = "首位道具 千里眼の实"
+cheat39_code = "0203C4A0 00000019+0203C4A1 00000000"
+cheat39_enable = false
+
+cheat40_desc = "首位道具 转移の叶"
+cheat40_code = "0203C4A0 0000001A+0203C4A1 00000000"
+cheat40_enable = false
+
+cheat41_desc = "首位道具 テルテルボーズ"
+cheat41_code = "0203C4A0 0000001B+0203C4A1 00000000"
+cheat41_enable = false
+
+cheat42_desc = "首位道具 ズーボルテルテ"
+cheat42_code = "0203C4A0 0000001C+0203C4A1 00000000"
+cheat42_enable = false
+
+cheat43_desc = "首位道具 おてんきゲタ"
+cheat43_code = "0203C4A0 0000001D+0203C4A1 00000000"
+cheat43_enable = false
+
+cheat44_desc = "首位道具 はずれスティック"
+cheat44_code = "0203C4A0 0000001E+0203C4A1 00000000"
+cheat44_enable = false
+
+cheat45_desc = "首位道具 当たりスティック"
+cheat45_code = "0203C4A0 0000001F+0203C4A1 00000000"
+cheat45_enable = false
+
+cheat46_desc = "首位道具 女教皇のカード"
+cheat46_code = "0203C4A0 00000020+0203C4A1 00000000"
+cheat46_enable = false
+
+cheat47_desc = "首位道具 女帝のカード"
+cheat47_code = "0203C4A0 00000022+0203C4A1 00000000"
+cheat47_enable = false
+
+cheat48_desc = "首位道具 力のカード"
+cheat48_code = "0203C4A0 00000022+0203C4A1 00000000"
+cheat48_enable = false
+
+cheat49_desc = "首位道具 运命の轮のカード"
+cheat49_code = "0203C4A0 00000023+0203C4A1 00000000"
+cheat49_enable = false
+
+cheat50_desc = "首位道具 月のカード"
+cheat50_code = "0203C4A0 00000024+0203C4A1 00000000"
+cheat50_enable = false
+
+cheat51_desc = "首位道具 太阳のカード"
+cheat51_code = "0203C4A0 00000025+0203C4A1 00000000"
+cheat51_enable = false
+
+cheat52_desc = "首位道具 审判のカード"
+cheat52_code = "0203C4A0 00000026+0203C4A1 00000000"
+cheat52_enable = false
+
+cheat53_desc = "首位道具 暗黑のカード"
+cheat53_code = "0203C4A0 00000027+0203C4A1 00000000"
+cheat53_enable = false
+
+cheat54_desc = "首位贵重品 ライセンスオブソード"
+cheat54_code = "0203CC38 00000029+0203CC39 00000000"
+cheat54_enable = false
+
+cheat55_desc = "首位贵重品 PET"
+cheat55_code = "0203CC38 0000002A+0203CC39 00000000"
+cheat55_enable = false
+
+cheat56_desc = "首位贵重品 ベクターコフィン"
+cheat56_code = "0203CC38 0000002B+0203CC39 00000000"
+cheat56_enable = false
+
+cheat57_desc = "首位贵重品 赤のカギ"
+cheat57_code = "0203CC38 0000002C+0203CC39 00000000"
+cheat57_enable = false
+
+cheat58_desc = "首位贵重品 黄のカギ"
+cheat58_code = "0203CC38 0000002D+0203CC39 00000000"
+cheat58_enable = false
+
+cheat59_desc = "首位贵重品 绿のカギ"
+cheat59_code = "0203CC38 0000002E+0203CC39 00000000"
+cheat59_enable = false
+
+cheat60_desc = "首位贵重品 Ｘのカギ"
+cheat60_code = "0203CC38 0000002F+0203CC39 00000000"
+cheat60_enable = false
+
+cheat61_desc = "首位贵重品 パイルパーシ"
+cheat61_code = "0203CC38 00000030+0203CC39 00000000"
+cheat61_enable = false
+
+cheat62_desc = "首位贵重品 运命の女神像"
+cheat62_code = "0203CC38 00000032+0203CC39 00000000"
+cheat62_enable = false
+
+cheat63_desc = "首位贵重品 存在の女神像"
+cheat63_code = "0203CC38 00000033+0203CC39 00000000"
+cheat63_enable = false
+
+cheat64_desc = "首位贵重品 必然の女神像"
+cheat64_code = "0203CC38 00000034+0203CC39 00000000"
+cheat64_enable = false
+
+cheat65_desc = "首位武器种类 ゲラディウス　　　LV.01 威力:06"
+cheat65_code = "0203C5C0 00000000"
+cheat65_enable = false
+
+cheat66_desc = "首位武器种类 エストック　　　　LV.05 威力:10"
+cheat66_code = "0203C5C0 00000001"
+cheat66_enable = false
+
+cheat67_desc = "首位武器种类 コピス　　　　　　LV.05 威力:10"
+cheat67_code = "0203C5C0 00000002"
+cheat67_enable = false
+
+cheat68_desc = "首位武器种类 ショートソード　　LV.05 威力:10"
+cheat68_code = "0203C5C0 00000003"
+cheat68_enable = false
+
+cheat69_desc = "首位武器种类 ツヴァイハンダー　LV.05 威力:12"
+cheat69_code = "0203C5C0 00000004"
+cheat69_enable = false
+
+cheat70_desc = "首位武器种类 レイピア　　　　　LV.10 威力:15"
+cheat70_code = "0203C5C0 00000005"
+cheat70_enable = false
+
+cheat71_desc = "首位武器种类 ブロンズエッジ　　LV.10 威力:15"
+cheat71_code = "0203C5C0 00000006"
+cheat71_enable = false
+
+cheat72_desc = "首位武器种类 阳炎　　　　　　　LV.10 威力:15"
+cheat72_code = "0203C5C0 00000007"
+cheat72_enable = false
+
+cheat73_desc = "首位武器种类 ブロードソード　　LV.10 威力:15"
+cheat73_code = "0203C5C0 00000008"
+cheat73_enable = false
+
+cheat74_desc = "首位武器种类 黑金の剑　　　　　LV.10 威力:17"
+cheat74_code = "0203C5C0 00000009"
+cheat74_enable = false
+
+cheat75_desc = "首位武器种类 エペ　　　　　　　LV.15 威力:20"
+cheat75_code = "0203C5C0 0000000A"
+cheat75_enable = false
+
+cheat76_desc = "首位武器种类 カッシバルゲル　　LV.15 威力:20"
+cheat76_code = "0203C5C0 0000000B"
+cheat76_enable = false
+
+cheat77_desc = "首位武器种类 ワイルドローズ　　LV.20 威力:25"
+cheat77_code = "0203C5C0 0000000C"
+cheat77_enable = false
+
+cheat78_desc = "首位武器种类 ファルカタ　　　　LV.20 威力:25"
+cheat78_code = "0203C5C0 0000000D"
+cheat78_enable = false
+
+cheat79_desc = "首位武器种类 不知火　　　　　　LV.20 威力:25"
+cheat79_code = "0203C5C0 0000000E"
+cheat79_enable = false
+
+cheat80_desc = "首位武器种类 アイアンブレード　LV.20 威力:25"
+cheat80_code = "0203C5C0 0000000F"
+cheat80_enable = false
+
+cheat81_desc = "首位武器种类 フランベレジェ　　LV.20 威力:27"
+cheat81_code = "0203C5C0 00000010"
+cheat81_enable = false
+
+cheat82_desc = "首位武器种类 ファルシオン　　　LV.25 威力:30"
+cheat82_code = "0203C5C0 00000011"
+cheat82_enable = false
+
+cheat83_desc = "首位武器种类 クレイモア　　　　LV.25 威力:32"
+cheat83_code = "0203C5C0 00000012"
+cheat83_enable = false
+
+cheat84_desc = "首位武器种类 サーベル　　　　　LV.30 威力:35"
+cheat84_code = "0203C5C0 00000013"
+cheat84_enable = false
+
+cheat85_desc = "首位武器种类 シルバーエッジ　　LV.30 威力:35"
+cheat85_code = "0203C5C0 00000014"
+cheat85_enable = false
+
+cheat86_desc = "首位武器种类 深山　　　　　　　LV.30 威力:35"
+cheat86_code = "0203C5C0 00000015"
+cheat86_enable = false
+
+cheat87_desc = "首位武器种类 スャアヴォーナ　　LV.30 威力:35"
+cheat87_code = "0203C5C0 00000016"
+cheat87_enable = false
+
+cheat88_desc = "首位武器种类 钢铁の剑　　　　　LV.30 威力:37"
+cheat88_code = "0203C5C0 00000017"
+cheat88_enable = false
+
+cheat89_desc = "首位武器种类 パラッシュ　　　　LV.35 威力:40"
+cheat89_code = "0203C5C0 00000018"
+cheat89_enable = false
+
+cheat90_desc = "首位武器种类 バスタードソード　LV.35 威力:40"
+cheat90_code = "0203C5C0 00000019"
+cheat90_enable = false
+
+cheat91_desc = "首位武器种类 ブラッディローズ　LV.40 威力:45"
+cheat91_code = "0203C5C0 0000001A"
+cheat91_enable = false
+
+cheat92_desc = "首位武器种类 コラ　　　　　　　LV.40 威力:45"
+cheat92_code = "0203C5C0 0000001B"
+cheat92_enable = false
+
+cheat93_desc = "首位武器种类 樱花　　　　　　　LV.40 威力:45"
+cheat93_code = "0203C5C0 0000001C"
+cheat93_enable = false
+
+cheat94_desc = "首位武器种类 名を持たぬ名剑　　LV.40 威力:45"
+cheat94_code = "0203C5C0 0000001D"
+cheat94_enable = false
+
+cheat95_desc = "首位武器种类 グレートソード　　LV.40 威力:47"
+cheat95_code = "0203C5C0 0000001E"
+cheat95_enable = false
+
+cheat96_desc = "首位武器种类 アイスエッジ　　　LV.45 威力:50"
+cheat96_code = "0203C5C0 0000001F"
+cheat96_enable = false
+
+cheat97_desc = "首位武器种类 エアブレード　　　LV.45 威力:50"
+cheat97_code = "0203C5C0 00000020"
+cheat97_enable = false
+
+cheat98_desc = "首位武器种类 キングオブソード　LV.45 威力:52"
+cheat98_code = "0203C5C0 00000021"
+cheat98_enable = false
+
+cheat99_desc = "首位武器种类 プライムローズ　　LV.50 威力:55"
+cheat99_code = "0203C5C0 00000022"
+cheat99_enable = false
+
+cheat100_desc = "首位武器种类 ダマスカスエッジ　LV.50 威力:55"
+cheat100_code = "0203C5C0 00000023"
+cheat100_enable = false
+
+cheat101_desc = "首位武器种类 秋水　　　　　　　LV.50 威力:55"
+cheat101_code = "0203C5C0 00000024"
+cheat101_enable = false
+
+cheat102_desc = "首位武器种类 グラム　　　　　　LV.50 威力:55"
+cheat102_code = "0203C5C0 00000025"
+cheat102_enable = false
+
+cheat103_desc = "首位武器种类 プラチナブレード　LV.50 威力:55"
+cheat103_code = "0203C5C0 00000026"
+cheat103_enable = false
+
+cheat104_desc = "首位武器种类 金刚の剑　　　　　LV.50 威力:57"
+cheat104_code = "0203C5C0 00000027"
+cheat104_enable = false
+
+cheat105_desc = "首位武器种类 ブルーローズ　　　LV.55 威力:60"
+cheat105_code = "0203C5C0 00000028"
+cheat105_enable = false
+
+cheat106_desc = "首位武器种类 サンダーエッジ　　LV.55 威力:60"
+cheat106_code = "0203C5C0 00000029"
+cheat106_enable = false
+
+cheat107_desc = "首位武器种类 村雨　　　　　　　LV.55 威力:60"
+cheat107_code = "0203C5C0 0000002A"
+cheat107_enable = false
+
+cheat108_desc = "首位武器种类 ファイアブレード　LV.55 威力:60"
+cheat108_code = "0203C5C0 0000002B"
+cheat108_enable = false
+
+cheat109_desc = "首位武器种类 大地の剑　　　　　LV.55 威力:62"
+cheat109_code = "0203C5C0 0000002C"
+cheat109_enable = false
+
+cheat110_desc = "首位武器种类 ブレードオブソル　LV.60 威力:65"
+cheat110_code = "0203C5C0 0000002D"
+cheat110_enable = false
+
+cheat111_desc = "首位武器种类 不灭の剑　　　　　LV.60 威力:67"
+cheat111_code = "0203C5C0 0000002E"
+cheat111_enable = false
+
+cheat112_desc = "首位武器种类 ラビアンローズ　　LV.?? 威力:??"
+cheat112_code = "0203C5C0 0000002F"
+cheat112_enable = false
+
+cheat113_desc = "首位武器种类 ロックバスター　　LV.?? 威力:06"
+cheat113_code = "0203C5C0 00000030"
+cheat113_enable = false
+
+cheat114_desc = "首位武器SP附加"
+cheat114_code = "0203C5C4 00000001"
+cheat114_enable = false
+
+cheat115_desc = "全武器耐久"
+cheat115_code = "0203C5C2 000000E8+0203C5C3 00000003+0203C5D2 000000E8+0203C5D3 00000003+0203C5E2 000000E8+0203C5E3 00000003+0203C5F2 000000E8+0203C5F3 00000003+0203C602 000000E8+0203C603 00000003+0203C612 000000E8+0203C613 00000003+0203C622 000000E8+0203C623 00000003+0203C632 000000E8+0203C633 00000003+0203C642 000000E8+0203C643 00000003+0203C652 000000E8+0203C653 00000003+0203C662 000000E8+0203C663 00000003+0203C672 000000E8+0203C673 00000003+0203C682 000000E8+0203C683 00000003+0203C692 000000E8+0203C693 00000003+0203C6A2 000000E8+0203C6A3 00000003+0203C6B2 000000E8+0203C6B3 00000003"
+cheat115_enable = false
+
+cheat116_desc = "首位防具 サークレット"
+cheat116_code = "0203C560 00000000+0203C561 00000000"
+cheat116_enable = false
+
+cheat117_desc = "首位防具 クールバンダナ"
+cheat117_code = "0203C560 00000001+0203C561 00000000"
+cheat117_enable = false
+
+cheat118_desc = "首位防具 热血ハチマキ"
+cheat118_code = "0203C560 00000002+0203C561 00000000"
+cheat118_enable = false
+
+cheat119_desc = "首位防具 大地の守り"
+cheat119_code = "0203C560 00000003+0203C561 00000000"
+cheat119_enable = false
+
+cheat120_desc = "首位防具 しのびのアカシ"
+cheat120_code = "0203C560 00000004+0203C561 00000000"
+cheat120_enable = false
+
+cheat121_desc = "首位防具 アルファルのティアラ"
+cheat121_code = "0203C560 00000005+0203C561 00000000"
+cheat121_enable = false
+
+cheat122_desc = "首位防具 グリグリメガネ"
+cheat122_code = "0203C560 00000006+0203C561 00000000"
+cheat122_enable = false
+
+cheat123_desc = "首位防具 黄金假面"
+cheat123_code = "0203C560 00000007+0203C561 00000000"
+cheat123_enable = false
+
+cheat124_desc = "首位防具 色あせたボウシ"
+cheat124_code = "0203C560 00000008+0203C561 00000000"
+cheat124_enable = false
+
+cheat125_desc = "首位防具 おおかみのキバ"
+cheat125_code = "0203C560 00000009+0203C561 00000000"
+cheat125_enable = false
+
+cheat126_desc = "首位防具 カーネルヘルム"
+cheat126_code = "0203C560 0000000A+0203C561 00000000"
+cheat126_enable = false
+
+cheat127_desc = "首位防具 レザーアーマー"
+cheat127_code = "0203C560 0000000B+0203C561 00000000"
+cheat127_enable = false
+
+cheat128_desc = "首位防具 チェアンメイル"
+cheat128_code = "0203C560 0000000C+0203C561 00000000"
+cheat128_enable = false
+
+cheat129_desc = "首位防具 プレートメイル"
+cheat129_code = "0203C560 0000000D+0203C561 00000000"
+cheat129_enable = false
+
+cheat130_desc = "首位防具 火龙のヨロイ"
+cheat130_code = "0203C560 0000000E+0203C561 00000000"
+cheat130_enable = false
+
+cheat131_desc = "首位防具 水龙のヨロイ"
+cheat131_code = "0203C560 0000000F+0203C561 00000000"
+cheat131_enable = false
+
+cheat132_desc = "首位防具 风龙のヨロイ"
+cheat132_code = "0203C560 00000010+0203C561 00000000"
+cheat132_enable = false
+
+cheat133_desc = "首位防具 地龙のヨロイ"
+cheat133_code = "0203C560 00000011+0203C561 00000000"
+cheat133_enable = false
+
+cheat134_desc = "首位防具 レインコート"
+cheat134_code = "0203C560 00000012+0203C561 00000000"
+cheat134_enable = false
+
+cheat135_desc = "首位防具 ルーンアーマー"
+cheat135_code = "0203C560 00000013+0203C561 00000000"
+cheat135_enable = false
+
+cheat136_desc = "首位防具 スパアクメイル"
+cheat136_code = "0203C560 00000014+0203C561 00000000"
+cheat136_enable = false
+
+cheat137_desc = "首位防具 ノービスメイル"
+cheat137_code = "0203C560 00000015+0203C561 00000000"
+cheat137_enable = false
+
+cheat138_desc = "首位防具 ホワイトアーマー"
+cheat138_code = "0203C560 00000016+0203C561 00000000"
+cheat138_enable = false
+
+cheat139_desc = "首位防具 ブラックアーマー"
+cheat139_code = "0203C560 00000017+0203C561 00000000"
+cheat139_enable = false
+
+cheat140_desc = "首位防具 古ぼけたコート"
+cheat140_code = "0203C560 00000018+0203C561 00000000"
+cheat140_enable = false
+
+cheat141_desc = "首位防具 こうもりのハネ"
+cheat141_code = "0203C560 00000019+0203C561 00000000"
+cheat141_enable = false
+
+cheat142_desc = "首位防具 フォルテマント"
+cheat142_code = "0203C560 0000001A+0203C561 00000000"
+cheat142_enable = false
+
+cheat143_desc = "首位防具 パワーリスト"
+cheat143_code = "0203C560 0000001B+0203C561 00000000"
+cheat143_enable = false
+
+cheat144_desc = "首位防具 ブレスレット"
+cheat144_code = "0203C560 0000001C+0203C561 00000000"
+cheat144_enable = false
+
+cheat145_desc = "首位防具 クレストオブクラブ"
+cheat145_code = "0203C560 0000001D+0203C561 00000000"
+cheat145_enable = false
+
+cheat146_desc = "首位防具 クレストオブダイヤ"
+cheat146_code = "0203C560 0000001E+0203C561 00000000"
+cheat146_enable = false
+
+cheat147_desc = "首位防具 バックラー"
+cheat147_code = "0203C560 0000001F+0203C561 00000000"
+cheat147_enable = false
+
+cheat148_desc = "首位防具 ルーンガントレット"
+cheat148_code = "0203C560 00000020+0203C561 00000000"
+cheat148_enable = false
+
+cheat149_desc = "首位防具 ホワイトガントレット"
+cheat149_code = "0203C560 00000021+0203C561 00000000"
+cheat149_enable = false
+
+cheat150_desc = "首位防具 ブラックガントレット"
+cheat150_code = "0203C560 00000022+0203C561 00000000"
+cheat150_enable = false
+
+cheat151_desc = "首位防具 あせくさいグローブ"
+cheat151_code = "0203C560 00000023+0203C561 00000000"
+cheat151_enable = false
+
+cheat152_desc = "首位防具 死者のシメ"
+cheat152_code = "0203C560 00000024+0203C561 00000000"
+cheat152_enable = false
+
+cheat153_desc = "首位防具 トマホークアーム"
+cheat153_code = "0203C560 00000025+0203C561 00000000"
+cheat153_enable = false
+
+cheat154_desc = "首位防具 铁ゲタ"
+cheat154_code = "0203C560 00000026+0203C561 00000000"
+cheat154_enable = false
+
+cheat155_desc = "首位防具 ファニーシューズ"
+cheat155_code = "0203C560 00000027+0203C561 00000000"
+cheat155_enable = false
+
+cheat156_desc = "首位防具 パワーアンクル"
+cheat156_code = "0203C560 00000028+0203C561 00000000"
+cheat156_enable = false
+
+cheat157_desc = "首位防具 旅人のクシ"
+cheat157_code = "0203C560 00000029+0203C561 00000000"
+cheat157_enable = false
+
+cheat158_desc = "首位防具 サバトン"
+cheat158_code = "0203C560 0000002A+0203C561 00000000"
+cheat158_enable = false
+
+cheat159_desc = "首位防具 ウイングブーシ"
+cheat159_code = "0203C560 0000002B+0203C561 00000000"
+cheat159_enable = false
+
+cheat160_desc = "首位防具 冒险者のブーシ"
+cheat160_code = "0203C560 0000002C+0203C561 00000000"
+cheat160_enable = false
+
+cheat161_desc = "首位防具 すり切れブーシ"
+cheat161_code = "0203C560 0000002D+0203C561 00000000"
+cheat161_enable = false
+
+cheat162_desc = "首位防具 ねずみのシッポ"
+cheat162_code = "0203C560 0000002E+0203C561 00000000"
+cheat162_enable = false
+
+cheat163_desc = "首位防具 ブルースレッグ"
+cheat163_code = "0203C560 0000002F+0203C561 00000000"
+cheat163_enable = false
+
+cheat164_desc = "武器项开启"
+cheat164_code = "02004A6E 00000001"
+cheat164_enable = false
+
+cheat165_desc = "防具项开启"
+cheat165_code = "02004A6F 00000001"
+cheat165_enable = false
+
+cheat166_desc = "全人物图鉴"
+cheat166_code = "0203CB28 000000FF+0203CB29 000000FF+0203CB2A 000000FF+0203CB2B 000000FF"
+cheat166_enable = false
+
+cheat167_desc = "全冶炼图鉴"
+cheat167_code = "0203CB20 000000FF+0203CB21 000000FF+0203CB22 000000FF+0203CB23 000000FF+0203CB24 000000FF+0203CB25 000000FF+0203CB2C 000000FF+0203CB2D 000000FF+0203CB2E 000000FF+0203CB2F 000000FF+0203CB30 000000FF+0203CB31 000000FF+0203CB32 000000FF+0203CB33 000000FF"
+cheat167_enable = false
+
+cheat168_desc = "全魔物图鉴"
+cheat168_code = "0203CAF0 000000FF+0203CAF1 000000FF+0203CAF2 000000FF+0203CAF3 000000FF+0203CAF4 000000FF+0203CAF5 000000FF+0203CAF6 000000FF+0203CAF7 000000FF+0203CAF8 000000FF+0203CAF9 000000FF+0203CAFA 000000FF+0203CAFB 000000FF"
+cheat168_enable = false
+
+cheat169_desc = "全称号"
+cheat169_code = "0203DB5D 000000FF+0203DB5E 000000FF+0203DB9C 000000FF"
+cheat169_enable = false
+
+cheat170_desc = "摩托车战全开"
+cheat170_code = "0203CA34 000000FF+0203CA35 000000FF"
+cheat170_enable = false
+
+cheat171_desc = "摩托车全配件"
+cheat171_code = "0203CBB8 000000FF+0203CBBC 000000FF+0203CBC0 000000FF+0203CBC4 000000FF"
+cheat171_enable = false
+
+cheat172_desc = "摩托车全配色"
+cheat172_code = "0203CBF8 000000FF+0203CBF9 000000FF"
+cheat172_enable = false
+
+cheat173_desc = "摩托车全图鉴"
+cheat173_code = "0203CC1C 000000FF+0203CC1D 000000FF+0203CC1E 000000FF+0203CC1F 000000FF"
+cheat173_enable = false
+
+cheat174_desc = "全玩偶"
+cheat174_code = "0203C996 000000FF+0203C997 000000FF"
+cheat174_enable = false
+
+cheat175_desc = "武器屋全武器"
+cheat175_code = "0203CB48 000000FF+0203CB49 000000FF+0203CB4A 000000FF+0203CB4B 000000FF+0203CB4C 000000FF"
+cheat175_enable = false
+
+cheat176_desc = "道具屋全道具"
+cheat176_code = "0203CB50 000000FF+0203CB51 000000FF+0203CB52 000000FF+0203CB53 000000FF+BOSS快速净化+0203CA18 00000000+0203CA19 00000000"
+cheat176_enable = false
+
+cheat177_desc = "关卡全开(慎用)"
+cheat177_code = "0203DA3C 000000FF"
+cheat177_enable = false
+
+cheat178_desc = "斗技场开启"
+cheat178_code = "0203C99E 00000001"
+cheat178_enable = false
+
+cheat179_desc = "摩托车赛S级"
+cheat179_code = "0203CC8C 00000000+0203CC8D 00000000"
+cheat179_enable = false
+
+cheat180_desc = "支线任务S级"
+cheat180_code = "0203DA8A 00000005+0203DA8B 00000005+0203DA8C 00000005+0203DA8D 00000005+0203DA8E 00000005+0203DA8F 00000005+0203DA90 00000005+0203DA91 00000005+0203DA92 00000005+0203DA93 00000005+0203DA94 00000005+0203DA95 00000005+0203DA96 00000005+0203DA97 00000005+0203DA98 00000005"
+cheat180_enable = false
+
+cheat181_desc = "摩托车战记录时间最短"
+cheat181_code = "0203CBC8 00000000+0203CBC9 00000000+0203CBCA 00000000+0203CBCB 00000000+0203CBCC 00000000+0203CBCD 00000000+0203CBCE 00000000+0203CBCF 00000000+0203CBD0 00000000+0203CBD1 00000000+0203CBD2 00000000+0203CBD3 00000000+0203CBD4 00000000+0203CBD5 00000000+0203CBD6 00000000+0203CBD7 00000000+0203CBD8 00000000+0203CBD9 00000000+0203CBDA 00000000+0203CBDB 00000000+0203CBDC 00000000+0203CBDD 00000000+0203CBDE 00000000+0203CBDF 00000000+0203CBE0 00000000+0203CBE1 00000000+0203CBE2 00000000+0203CBE3 00000000+0203CBE4 00000000+0203CBE5 00000000+0203CBE6 00000000+0203CBE7 00000000+0203CBE8 00000000+0203CBE9 00000000+0203CBEA 00000000+0203CBEB 00000000+0203CBEC 00000000+0203CBED 00000000+0203CBEE 00000000+0203CBEF 00000000+0203CBF0 00000000+0203CBF1 00000000+0203CBF2 00000000+0203CBF3 00000000"
+cheat181_enable = false
+
+cheat182_desc = "摩托车战记录全S"
+cheat182_code = "0203CC00 00000000+0203CC01 00000000+0203CC02 00000000+0203CC03 00000000+0203CC04 00000000+0203CC05 00000000+0203CC06 00000000+0203CC07 00000000+0203CC08 00000000+0203CC09 00000000+0203CC0A 00000000+0203CC0B 00000000+0203CC0C 00000000+0203CC0D 00000000+0203CC0E 00000000+0203CC0F 00000000+0203CC10 00000000+0203CC11 00000000+0203CC12 00000000+0203CC13 00000000+0203CC14 00000000+0203CC15 00000000"
+cheat182_enable = false
+
+cheat183_desc = "支线任务记录全S"
+cheat183_code = "0203DB5F 00000005+0203DB60 00000005+0203DB61 00000005+0203DB62 00000005+0203DB63 00000005+0203DB64 00000005+0203DB65 00000005+0203DB66 00000005+0203DB67 00000005+0203DB68 00000005+0203DB69 00000005+0203DB6A 00000005+0203DB6B 00000005+0203DB6C 00000005+0203DB6D 00000005"
+cheat183_enable = false
+
+cheat184_desc = "锻冶快速结束"
+cheat184_code = "0200E560 00000000+0200E561 00000000"
+cheat184_enable = false
+
+cheat185_desc = "锻冶评价最高"
+cheat185_code = "0200E58C 000000E7+0200E58D 00000003+0200E590 00000000+0200E591 00000000+0200E594 00000000+0200E595 00000000"
+cheat185_enable = false
+
+

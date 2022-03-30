@@ -1,0 +1,827 @@
+cheats = 206
+
+cheat0_desc = "怪物图鉴"
+cheat0_code = "02045600 00000001+02045601 00000000+02045602 00000001+02045603 00000000+02045604 00000001+02045605 00000000+02045606 00000001+02045607 00000000+02045608 00000001+02045609 00000000+0204560A 00000001+0204560B 00000000+0204560C 00000001+0204560D 00000000+0204560E 00000001+0204560F 00000000+02045610 00000001+02045611 00000000+02045612 00000001+02045613 00000000+02045614 00000001+02045615 00000000+02045616 00000001+02045617 00000000+02045618 00000001+02045619 00000000+0204561A 00000001+0204561B 00000000+0204561C 00000001+0204561D 00000000+0204561E 00000001+0204561F 00000000+02045620 00000001+02045621 00000000+02045622 00000001+02045623 00000000+02045624 00000001+02045625 00000000+02045626 00000001+02045627 00000000+02045628 00000001+02045629 00000000+0204562A 00000001+0204562B 00000000+0204562C 00000001+0204562D 00000000+0204562E 00000001+0204562F 00000000+02045630 00000001+02045631 00000000+02045632 00000001+02045633 00000000+02045634 00000001+02045635 00000000+02045636 00000001+02045637 00000000+02045638 00000001+02045639 00000000+0204563A 00000001+0204563B 00000000+0204563C 00000001+0204563D 00000000+0204563E 00000001+0204563F 00000000+02045640 00000001+02045641 00000000+02045642 00000001+02045643 00000000+02045644 00000001+02045645 00000000+02045646 00000001+02045647 00000000+02045648 00000001+02045649 00000000+0204564A 00000001+0204564B 00000000+0204564C 00000001+0204564D 00000000+0204564E 00000001+0204564F 00000000+02045650 00000001+02045651 00000000+02045652 00000001+02045653 00000000+02045654 00000001+02045655 00000000+02045656 00000001+02045657 00000000+02045658 00000001+02045659 00000000+0204565A 00000001+0204565B 00000000+0204565C 00000001+0204565D 00000000+0204565E 00000001+0204565F 00000000+02045660 00000001+02045661 00000000+02045662 00000001+02045663 00000000+02045664 00000001+02045665 00000000+02045666 00000001+02045667 00000000+02045668 00000001+02045669 00000000+0204566A 00000001+0204566B 00000000+0204566C 00000001+0204566D 00000000+0204566E 00000001+0204566F 00000000+02045670 00000001+02045671 00000000+02045672 00000001+02045673 00000000+02045674 00000001+02045675 00000000+02045676 00000001+02045677 00000000+02045678 00000001+02045679 00000000+0204567A 00000001+0204567B 00000000+0204567C 00000001+0204567D 00000000+0204567E 00000001+0204567F 00000000+02045680 00000001+02045681 00000000+02045682 00000001+02045683 00000000+02045684 00000001+02045685 00000000+02045686 00000001+02045687 00000000+02045688 00000001+02045689 00000000+0204568A 00000001+0204568B 00000000+0204568C 00000001+0204568D 00000000+0204568E 00000001+0204568F 00000000+02045690 00000001+02045691 00000000+02045692 00000001+02045693 00000000+02045694 00000001+02045695 00000000+02045696 00000001+02045697 00000000+02045698 00000001+02045699 00000000+0204569A 00000001+0204569B 00000000+0204569C 00000001+0204569D 00000000+0204569E 00000001+0204569F 00000000+020456A0 00000001+020456A1 00000000+020456A2 00000001+020456A3 00000000+020456A4 00000001+020456A5 00000000+020456A6 00000001+020456A7 00000000+020456A8 00000001+020456A9 00000000+020456AA 00000001+020456AB 00000000+020456AC 00000001+020456AD 00000000+020456AE 00000001+020456AF 00000000+020456B0 00000001+020456B1 00000000+020456B2 00000001+020456B3 00000000+020456B4 00000001+020456B5 00000000+020456B6 00000001+020456B7 00000000+020456B8 00000001+020456B9 00000000+020456BA 00000001+020456BB 00000000+020456BC 00000001+020456BD 00000000+020456BE 00000001+020456BF 00000000+020456C0 00000001+020456C1 00000000+020456C2 00000001+020456C3 00000000+020456C4 00000001+020456C5 00000000+020456C6 00000001+020456C7 00000000+020456C8 00000001+020456C9 00000000+020456CA 00000001+020456CB 00000000+020456CC 00000001+020456CD 00000000+020456CE 00000001+020456CF 00000000+020456D0 00000001+020456D1 00000000+020456D2 00000001+020456D3 00000000+020456D4 00000001+020456D5 00000000+020456D6 00000001+020456D7 00000000+020456D8 00000001+020456D9 00000000+020456DA 00000001+020456DB 00000000+020456DC 00000001+020456DD 00000000+020456DE 00000001+020456DF 00000000+020456E0 00000001+020456E1 00000000+020456E2 00000001+020456E3 00000000+020456E4 00000001+020456E5 00000000+020456E6 00000001+020456E7 00000000+020456E8 00000001+020456E9 00000000+020456EA 00000001+020456EB 00000000+020456EC 00000001+020456ED 00000000+020456EE 00000001+020456EF 00000000+020456F0 00000001+020456F1 00000000+020456F2 00000001+020456F3 00000000+020456F4 00000001+020456F5 00000000+020456F6 00000001+020456F7 00000000+020456F8 00000001+020456F9 00000000+020456FA 00000001+020456FB 00000000+020456FC 00000001+020456FD 00000000+020456FE 00000001+020456FF 00000000+02045700 00000001+02045701 00000000+02045702 00000001+02045703 00000000+02045704 00000001+02045705 00000000+02045706 00000001+02045707 00000000+02045708 00000001+02045709 00000000+0204570A 00000001+0204570B 00000000+0204570C 00000001+0204570D 00000000+0204570E 00000001+0204570F 00000000+02045710 00000001+02045711 00000000+02045712 00000001+02045713 00000000+02045714 00000001+02045715 00000000+02045716 00000001+02045717 00000000+02045718 00000001+02045719 00000000+0204571A 00000001+0204571B 00000000+0204571C 00000001+0204571D 00000000+0204571E 00000001+0204571F 00000000+02045720 00000001+02045721 00000000+02045722 00000001+02045723 00000000+02045724 00000001+02045725 00000000+02045726 00000001+02045727 00000000+02045728 00000001+02045729 00000000+0204572A 00000001+0204572B 00000000+0204572C 00000001+0204572D 00000000+0204572E 00000001+0204572F 00000000+02045730 00000001+02045731 00000000+02045732 00000001+02045733 00000000+02045734 00000001+02045735 00000000+02045736 00000001+02045737 00000000+02045738 00000001+02045739 00000000+0204573A 00000001+0204573B 00000000+0204573C 00000001+0204573D 00000000+0204573E 00000001+0204573F 00000000+02045740 00000001+02045741 00000000+02045742 00000001+02045743 00000000+02045744 00000001+02045745 00000000+02045746 00000001+02045747 00000000+02045748 00000001+02045749 00000000+0204574A 00000001+0204574B 00000000+0204574C 00000001+0204574D 00000000+0204574E 00000001+0204574F 00000000+02045750 00000001+02045751 00000000+02045752 00000001+02045753 00000000+02045754 00000001+02045755 00000000+02045756 00000001+02045757 00000000+02045758 00000001+02045759 00000000+0204575A 00000001+0204575B 00000000+0204575C 00000001+0204575D 00000000+0204575E 00000001+0204575F 00000000+02045760 00000001+02045761 00000000+02045762 00000001+02045763 00000000+02045764 00000001+02045765 00000000+02045766 00000001+02045767 00000000+02045768 00000001+02045769 00000000+0204576A 00000001+0204576B 00000000+0204576C 00000001+0204576D 00000000+0204576E 00000001+0204576F 00000000+02045770 00000001+02045771 00000000+02045772 00000001+02045773 00000000+02045774 00000001+02045775 00000000+02045776 00000001+02045777 00000000+02045778 00000001+02045779 00000000+0204577A 00000001+0204577B 00000000+0204577C 00000001+0204577D 00000000+0204577E 00000001+0204577F 00000000+02045780 00000001+02045781 00000000+02045782 00000001+02045783 00000000+02045784 00000001+02045785 00000000+02045786 00000001+02045787 00000000+02045788 00000001+02045789 00000000+0204578A 00000001+0204578B 00000000+0204578C 00000001+0204578D 00000000+0204578E 00000001"
+cheat0_enable = false
+
+cheat1_desc = "无限DP"
+cheat1_code = "02044146 00000064"
+cheat1_enable = false
+
+cheat2_desc = "无限金钱"
+cheat2_code = "02044CF4 0000007F+02044CF5 00000096+02044CF6 00000098"
+cheat2_enable = false
+
+cheat3_desc = "所有药品道具99个"
+cheat3_code = "02044E44 00000063+02044E45 00000063+02044E46 00000063+02044E47 00000063+02044E48 00000063+02044E49 00000063+02044E4A 00000063+02044E4B 00000063+02044E4C 00000063+02044E4D 00000063+02044E4E 00000063+02044E4F 00000063+02044E50 00000063+02044E51 00000063+02044E52 00000063+02044E53 00000063+02044E54 00000063+02044E55 00000063+02044E56 00000063+02044E57 00000063+02044E58 00000063+02044E59 00000063+02044E5A 00000063+02044E5B 00000063+02044E5C 00000063+02044E5D 00000063"
+cheat3_enable = false
+
+cheat4_desc = "所有装备道具9个"
+cheat4_code = "02044E62 00000009+02044E63 00000009+02044E64 00000009+02044E65 00000009+02044E66 00000009+02044E67 00000009+02044E68 00000009+02044E69 00000009+02044E6A 00000009+02044E6B 00000009+02044E6C 00000009+02044E6D 00000009+02044E6E 00000009+02044E6F 00000009+02044E70 00000009+02044E71 00000009+02044E72 00000009+02044E73 00000009+02044E74 00000009+02044E75 00000009+02044E76 00000009+02044E77 00000009+02044E78 00000009+02044E79 00000009+02044E7A 00000009"
+cheat4_enable = false
+
+cheat5_desc = "所有改造道具99个"
+cheat5_code = "02044E82 00000063+02044E83 00000063+02044E84 00000063+02044E85 00000063+02044E86 00000063+02044E87 00000063+02044E88 00000063+02044E89 00000063+02044E8A 00000063+02044E8B 00000063+02044E8C 00000063+02044E8D 00000063+02044E8E 00000063+02044E8F 00000063+02044E90 00000063+02044E91 00000063+02044E92 00000063+02044E93 00000063+02044E94 00000063+02044E95 00000063+02044E96 00000063+02044E97 00000063+02044E98 00000063+02044E99 00000063+02044E9A 00000063+02044E9B 00000063+02044E9C 00000063+02044E9D 00000063+02044E9E 00000063+02044E9F 00000063+02044EA0 00000063+02044EA2 00000063+02044EA3 00000063+02044EA4 00000063+02044EA5 00000063+02044EA6 00000063+02044EA7 00000063+02044EA8 00000063+02044EA9 00000063+02044EAA 00000063+02044EAB 00000063+02044EAC 00000063+02044EAD 00000063+02044EAE 00000063+02044EAF 00000063+02044EB0 00000063+02044EB1 00000063+02044EA1 00000063"
+cheat5_enable = false
+
+cheat6_desc = "遇到野生电兽 NO.000"
+cheat6_code = "0204041C 000000B4"
+cheat6_enable = false
+
+cheat7_desc = "遇到野生电兽 NO.001"
+cheat7_code = "0204041C 000000B5"
+cheat7_enable = false
+
+cheat8_desc = "遇到野生电兽 NO.002"
+cheat8_code = "0204041C 000000B6"
+cheat8_enable = false
+
+cheat9_desc = "遇到野生电兽 NO.003"
+cheat9_code = "0204041C 000000B7"
+cheat9_enable = false
+
+cheat10_desc = "遇到野生电兽 NO.004"
+cheat10_code = "0204041C 000000B8"
+cheat10_enable = false
+
+cheat11_desc = "遇到野生电兽 NO.005"
+cheat11_code = "0204041C 000000B9"
+cheat11_enable = false
+
+cheat12_desc = "遇到野生电兽 NO.006"
+cheat12_code = "0204041C 000000BA"
+cheat12_enable = false
+
+cheat13_desc = "遇到野生电兽 NO.007"
+cheat13_code = "0204041C 000000BB"
+cheat13_enable = false
+
+cheat14_desc = "遇到野生电兽 NO.008"
+cheat14_code = "0204041C 000000BC"
+cheat14_enable = false
+
+cheat15_desc = "遇到野生电兽 NO.009"
+cheat15_code = "0204041C 000000BD"
+cheat15_enable = false
+
+cheat16_desc = "遇到野生电兽 NO.010"
+cheat16_code = "0204041C 000000BE"
+cheat16_enable = false
+
+cheat17_desc = "遇到野生电兽 NO.011"
+cheat17_code = "0204041C 000000BF"
+cheat17_enable = false
+
+cheat18_desc = "遇到野生电兽 NO.012"
+cheat18_code = "0204041C 000000C0"
+cheat18_enable = false
+
+cheat19_desc = "遇到野生电兽 NO.013"
+cheat19_code = "0204041C 000000C1"
+cheat19_enable = false
+
+cheat20_desc = "遇到野生电兽 NO.014"
+cheat20_code = "0204041C 000000C2"
+cheat20_enable = false
+
+cheat21_desc = "遇到野生电兽 NO.015"
+cheat21_code = "0204041C 00000000"
+cheat21_enable = false
+
+cheat22_desc = "遇到野生电兽 NO.016"
+cheat22_code = "0204041C 00000001"
+cheat22_enable = false
+
+cheat23_desc = "遇到野生电兽 NO.017"
+cheat23_code = "0204041C 00000002"
+cheat23_enable = false
+
+cheat24_desc = "遇到野生电兽 NO.018"
+cheat24_code = "0204041C 00000005"
+cheat24_enable = false
+
+cheat25_desc = "遇到野生电兽 NO.019"
+cheat25_code = "0204041C 00000006"
+cheat25_enable = false
+
+cheat26_desc = "遇到野生电兽 NO.020"
+cheat26_code = "0204041C 00000007"
+cheat26_enable = false
+
+cheat27_desc = "遇到野生电兽 NO.021"
+cheat27_code = "0204041C 00000008"
+cheat27_enable = false
+
+cheat28_desc = "遇到野生电兽 NO.022"
+cheat28_code = "0204041C 00000009"
+cheat28_enable = false
+
+cheat29_desc = "遇到野生电兽 NO.023"
+cheat29_code = "0204041C 0000000A"
+cheat29_enable = false
+
+cheat30_desc = "遇到野生电兽 NO.024"
+cheat30_code = "0204041C 0000000B"
+cheat30_enable = false
+
+cheat31_desc = "遇到野生电兽 NO.025"
+cheat31_code = "0204041C 0000000C"
+cheat31_enable = false
+
+cheat32_desc = "遇到野生电兽 NO.026"
+cheat32_code = "0204041C 0000000D"
+cheat32_enable = false
+
+cheat33_desc = "遇到野生电兽 NO.027"
+cheat33_code = "0204041C 0000000E"
+cheat33_enable = false
+
+cheat34_desc = "遇到野生电兽 NO.028"
+cheat34_code = "0204041C 0000000F"
+cheat34_enable = false
+
+cheat35_desc = "遇到野生电兽 NO.029"
+cheat35_code = "0204041C 00000010"
+cheat35_enable = false
+
+cheat36_desc = "遇到野生电兽 NO.030"
+cheat36_code = "0204041C 00000011"
+cheat36_enable = false
+
+cheat37_desc = "遇到野生电兽 NO.031"
+cheat37_code = "0204041C 00000012"
+cheat37_enable = false
+
+cheat38_desc = "遇到野生电兽 NO.032"
+cheat38_code = "0204041C 00000013"
+cheat38_enable = false
+
+cheat39_desc = "遇到野生电兽 NO.033"
+cheat39_code = "0204041C 00000014"
+cheat39_enable = false
+
+cheat40_desc = "遇到野生电兽 NO.034"
+cheat40_code = "0204041C 00000015"
+cheat40_enable = false
+
+cheat41_desc = "遇到野生电兽 NO.035"
+cheat41_code = "0204041C 00000016"
+cheat41_enable = false
+
+cheat42_desc = "遇到野生电兽 NO.036"
+cheat42_code = "0204041C 00000017"
+cheat42_enable = false
+
+cheat43_desc = "遇到野生电兽 NO.037"
+cheat43_code = "0204041C 00000018"
+cheat43_enable = false
+
+cheat44_desc = "遇到野生电兽 NO.038"
+cheat44_code = "0204041C 00000019"
+cheat44_enable = false
+
+cheat45_desc = "遇到野生电兽 NO.039"
+cheat45_code = "0204041C 0000001A"
+cheat45_enable = false
+
+cheat46_desc = "遇到野生电兽 NO.040"
+cheat46_code = "0204041C 0000001B"
+cheat46_enable = false
+
+cheat47_desc = "遇到野生电兽 NO.041"
+cheat47_code = "0204041C 0000001C"
+cheat47_enable = false
+
+cheat48_desc = "遇到野生电兽 NO.042"
+cheat48_code = "0204041C 0000001D"
+cheat48_enable = false
+
+cheat49_desc = "遇到野生电兽 NO.043"
+cheat49_code = "0204041C 0000001E"
+cheat49_enable = false
+
+cheat50_desc = "遇到野生电兽 NO.044"
+cheat50_code = "0204041C 0000001F"
+cheat50_enable = false
+
+cheat51_desc = "遇到野生电兽 NO.045"
+cheat51_code = "0204041C 00000020"
+cheat51_enable = false
+
+cheat52_desc = "遇到野生电兽 NO.046"
+cheat52_code = "0204041C 00000021"
+cheat52_enable = false
+
+cheat53_desc = "遇到野生电兽 NO.047"
+cheat53_code = "0204041C 00000022"
+cheat53_enable = false
+
+cheat54_desc = "遇到野生电兽 NO.048"
+cheat54_code = "0204041C 00000023"
+cheat54_enable = false
+
+cheat55_desc = "遇到野生电兽 NO.049"
+cheat55_code = "0204041C 00000024"
+cheat55_enable = false
+
+cheat56_desc = "遇到野生电兽 NO.050"
+cheat56_code = "0204041C 00000028"
+cheat56_enable = false
+
+cheat57_desc = "遇到野生电兽 NO.051"
+cheat57_code = "0204041C 00000029"
+cheat57_enable = false
+
+cheat58_desc = "遇到野生电兽 NO.052"
+cheat58_code = "0204041C 0000002A"
+cheat58_enable = false
+
+cheat59_desc = "遇到野生电兽 NO.053"
+cheat59_code = "0204041C 0000002B"
+cheat59_enable = false
+
+cheat60_desc = "遇到野生电兽 NO.054"
+cheat60_code = "0204041C 0000002C"
+cheat60_enable = false
+
+cheat61_desc = "遇到野生电兽 NO.055"
+cheat61_code = "0204041C 0000002D"
+cheat61_enable = false
+
+cheat62_desc = "遇到野生电兽 NO.056"
+cheat62_code = "0204041C 0000002E"
+cheat62_enable = false
+
+cheat63_desc = "遇到野生电兽 NO.057"
+cheat63_code = "0204041C 0000002F"
+cheat63_enable = false
+
+cheat64_desc = "遇到野生电兽 NO.058"
+cheat64_code = "0204041C 00000030"
+cheat64_enable = false
+
+cheat65_desc = "遇到野生电兽 NO.059"
+cheat65_code = "0204041C 00000031"
+cheat65_enable = false
+
+cheat66_desc = "遇到野生电兽 NO.060"
+cheat66_code = "0204041C 00000032"
+cheat66_enable = false
+
+cheat67_desc = "遇到野生电兽 NO.061"
+cheat67_code = "0204041C 00000033"
+cheat67_enable = false
+
+cheat68_desc = "遇到野生电兽 NO.062"
+cheat68_code = "0204041C 00000034"
+cheat68_enable = false
+
+cheat69_desc = "遇到野生电兽 NO.063"
+cheat69_code = "0204041C 00000035"
+cheat69_enable = false
+
+cheat70_desc = "遇到野生电兽 NO.064"
+cheat70_code = "0204041C 00000036"
+cheat70_enable = false
+
+cheat71_desc = "遇到野生电兽 NO.065"
+cheat71_code = "0204041C 00000037"
+cheat71_enable = false
+
+cheat72_desc = "遇到野生电兽 NO.066"
+cheat72_code = "0204041C 00000038"
+cheat72_enable = false
+
+cheat73_desc = "遇到野生电兽 NO.067"
+cheat73_code = "0204041C 00000039"
+cheat73_enable = false
+
+cheat74_desc = "遇到野生电兽 NO.068"
+cheat74_code = "0204041C 0000003A"
+cheat74_enable = false
+
+cheat75_desc = "遇到野生电兽 NO.069"
+cheat75_code = "0204041C 0000003B"
+cheat75_enable = false
+
+cheat76_desc = "遇到野生电兽 NO.070"
+cheat76_code = "0204041C 0000003C"
+cheat76_enable = false
+
+cheat77_desc = "遇到野生电兽 NO.071"
+cheat77_code = "0204041C 0000003D"
+cheat77_enable = false
+
+cheat78_desc = "遇到野生电兽 NO.072"
+cheat78_code = "0204041C 0000003E"
+cheat78_enable = false
+
+cheat79_desc = "遇到野生电兽 NO.073"
+cheat79_code = "0204041C 0000003F"
+cheat79_enable = false
+
+cheat80_desc = "遇到野生电兽 NO.074"
+cheat80_code = "0204041C 00000040"
+cheat80_enable = false
+
+cheat81_desc = "遇到野生电兽 NO.075"
+cheat81_code = "0204041C 00000041"
+cheat81_enable = false
+
+cheat82_desc = "遇到野生电兽 NO.076"
+cheat82_code = "0204041C 00000042"
+cheat82_enable = false
+
+cheat83_desc = "遇到野生电兽 NO.077"
+cheat83_code = "0204041C 00000043"
+cheat83_enable = false
+
+cheat84_desc = "遇到野生电兽 NO.078"
+cheat84_code = "0204041C 00000044"
+cheat84_enable = false
+
+cheat85_desc = "遇到野生电兽 NO.079"
+cheat85_code = "0204041C 00000045"
+cheat85_enable = false
+
+cheat86_desc = "遇到野生电兽 NO.080"
+cheat86_code = "0204041C 00000046"
+cheat86_enable = false
+
+cheat87_desc = "遇到野生电兽 NO.081"
+cheat87_code = "0204041C 00000047"
+cheat87_enable = false
+
+cheat88_desc = "遇到野生电兽 NO.082"
+cheat88_code = "0204041C 00000048"
+cheat88_enable = false
+
+cheat89_desc = "遇到野生电兽 NO.083"
+cheat89_code = "0204041C 00000049"
+cheat89_enable = false
+
+cheat90_desc = "遇到野生电兽 NO.084"
+cheat90_code = "0204041C 0000004A"
+cheat90_enable = false
+
+cheat91_desc = "遇到野生电兽 NO.085"
+cheat91_code = "0204041C 0000004B"
+cheat91_enable = false
+
+cheat92_desc = "遇到野生电兽 NO.086"
+cheat92_code = "0204041C 0000004C"
+cheat92_enable = false
+
+cheat93_desc = "遇到野生电兽 NO.087"
+cheat93_code = "0204041C 0000004D"
+cheat93_enable = false
+
+cheat94_desc = "遇到野生电兽 NO.088"
+cheat94_code = "0204041C 00000055"
+cheat94_enable = false
+
+cheat95_desc = "遇到野生电兽 NO.089"
+cheat95_code = "0204041C 00000056"
+cheat95_enable = false
+
+cheat96_desc = "遇到野生电兽 NO.090"
+cheat96_code = "0204041C 00000057"
+cheat96_enable = false
+
+cheat97_desc = "遇到野生电兽 NO.091"
+cheat97_code = "0204041C 0000005E"
+cheat97_enable = false
+
+cheat98_desc = "遇到野生电兽 NO.092"
+cheat98_code = "0204041C 0000005F"
+cheat98_enable = false
+
+cheat99_desc = "遇到野生电兽 NO.093"
+cheat99_code = "0204041C 00000060"
+cheat99_enable = false
+
+cheat100_desc = "遇到野生电兽 NO.094"
+cheat100_code = "0204041C 00000061"
+cheat100_enable = false
+
+cheat101_desc = "遇到野生电兽 NO.095"
+cheat101_code = "0204041C 00000064"
+cheat101_enable = false
+
+cheat102_desc = "遇到野生电兽 NO.096"
+cheat102_code = "0204041C 00000065"
+cheat102_enable = false
+
+cheat103_desc = "遇到野生电兽 NO.097"
+cheat103_code = "0204041C 00000066"
+cheat103_enable = false
+
+cheat104_desc = "遇到野生电兽 NO.098"
+cheat104_code = "0204041C 00000067"
+cheat104_enable = false
+
+cheat105_desc = "遇到野生电兽 NO.099"
+cheat105_code = "0204041C 00000068"
+cheat105_enable = false
+
+cheat106_desc = "遇到野生电兽 NO.100"
+cheat106_code = "0204041C 00000069"
+cheat106_enable = false
+
+cheat107_desc = "遇到野生电兽 NO.101"
+cheat107_code = "0204041C 0000006A"
+cheat107_enable = false
+
+cheat108_desc = "遇到野生电兽 NO.102"
+cheat108_code = "0204041C 0000006B"
+cheat108_enable = false
+
+cheat109_desc = "遇到野生电兽 NO.103"
+cheat109_code = "0204041C 0000006C"
+cheat109_enable = false
+
+cheat110_desc = "遇到野生电兽 NO.104"
+cheat110_code = "0204041C 0000006F"
+cheat110_enable = false
+
+cheat111_desc = "遇到野生电兽 NO.105"
+cheat111_code = "0204041C 00000070"
+cheat111_enable = false
+
+cheat112_desc = "遇到野生电兽 NO.106"
+cheat112_code = "0204041C 00000071"
+cheat112_enable = false
+
+cheat113_desc = "遇到野生电兽 NO.107"
+cheat113_code = "0204041C 00000072"
+cheat113_enable = false
+
+cheat114_desc = "遇到野生电兽 NO.108"
+cheat114_code = "0204041C 00000073"
+cheat114_enable = false
+
+cheat115_desc = "遇到野生电兽 NO.109"
+cheat115_code = "0204041C 00000074"
+cheat115_enable = false
+
+cheat116_desc = "遇到野生电兽 NO.110"
+cheat116_code = "0204041C 00000075"
+cheat116_enable = false
+
+cheat117_desc = "遇到野生电兽 NO.111"
+cheat117_code = "0204041C 00000076"
+cheat117_enable = false
+
+cheat118_desc = "遇到野生电兽 NO.112"
+cheat118_code = "0204041C 00000077"
+cheat118_enable = false
+
+cheat119_desc = "遇到野生电兽 NO.113"
+cheat119_code = "0204041C 00000078"
+cheat119_enable = false
+
+cheat120_desc = "遇到野生电兽 NO.114"
+cheat120_code = "0204041C 00000079"
+cheat120_enable = false
+
+cheat121_desc = "遇到野生电兽 NO.115"
+cheat121_code = "0204041C 0000007A"
+cheat121_enable = false
+
+cheat122_desc = "遇到野生电兽 NO.116"
+cheat122_code = "0204041C 0000007B"
+cheat122_enable = false
+
+cheat123_desc = "遇到野生电兽 NO.117"
+cheat123_code = "0204041C 0000007C"
+cheat123_enable = false
+
+cheat124_desc = "遇到野生电兽 NO.118"
+cheat124_code = "0204041C 0000007D"
+cheat124_enable = false
+
+cheat125_desc = "遇到野生电兽 NO.119"
+cheat125_code = "0204041C 0000007E"
+cheat125_enable = false
+
+cheat126_desc = "遇到野生电兽 NO.120"
+cheat126_code = "0204041C 0000007F"
+cheat126_enable = false
+
+cheat127_desc = "遇到野生电兽 NO.121"
+cheat127_code = "0204041C 00000080"
+cheat127_enable = false
+
+cheat128_desc = "遇到野生电兽 NO.122"
+cheat128_code = "0204041C 00000081"
+cheat128_enable = false
+
+cheat129_desc = "遇到野生电兽 NO.123"
+cheat129_code = "0204041C 00000082"
+cheat129_enable = false
+
+cheat130_desc = "遇到野生电兽 NO.124"
+cheat130_code = "0204041C 00000083"
+cheat130_enable = false
+
+cheat131_desc = "遇到野生电兽 NO.125"
+cheat131_code = "0204041C 00000084"
+cheat131_enable = false
+
+cheat132_desc = "遇到野生电兽 NO.126"
+cheat132_code = "0204041C 00000087"
+cheat132_enable = false
+
+cheat133_desc = "遇到野生电兽 NO.127"
+cheat133_code = "0204041C 00000088"
+cheat133_enable = false
+
+cheat134_desc = "遇到野生电兽 NO.128"
+cheat134_code = "0204041C 00000089"
+cheat134_enable = false
+
+cheat135_desc = "遇到野生电兽 NO.129"
+cheat135_code = "0204041C 0000008A"
+cheat135_enable = false
+
+cheat136_desc = "遇到野生电兽 NO.130"
+cheat136_code = "0204041C 0000008B"
+cheat136_enable = false
+
+cheat137_desc = "遇到野生电兽 NO.131"
+cheat137_code = "0204041C 0000008C"
+cheat137_enable = false
+
+cheat138_desc = "遇到野生电兽 NO.132"
+cheat138_code = "0204041C 0000008D"
+cheat138_enable = false
+
+cheat139_desc = "遇到野生电兽 NO.133"
+cheat139_code = "0204041C 0000008E"
+cheat139_enable = false
+
+cheat140_desc = "遇到野生电兽 NO.134"
+cheat140_code = "0204041C 0000008F"
+cheat140_enable = false
+
+cheat141_desc = "遇到野生电兽 NO.135"
+cheat141_code = "0204041C 00000090"
+cheat141_enable = false
+
+cheat142_desc = "遇到野生电兽 NO.136"
+cheat142_code = "0204041C 00000091"
+cheat142_enable = false
+
+cheat143_desc = "遇到野生电兽 NO.137"
+cheat143_code = "0204041C 00000092"
+cheat143_enable = false
+
+cheat144_desc = "遇到野生电兽 NO.138"
+cheat144_code = "0204041C 00000093"
+cheat144_enable = false
+
+cheat145_desc = "遇到野生电兽 NO.139"
+cheat145_code = "0204041C 00000094"
+cheat145_enable = false
+
+cheat146_desc = "遇到野生电兽 NO.140"
+cheat146_code = "0204041C 00000095"
+cheat146_enable = false
+
+cheat147_desc = "遇到野生电兽 NO.141"
+cheat147_code = "0204041C 00000096"
+cheat147_enable = false
+
+cheat148_desc = "遇到野生电兽 NO.142"
+cheat148_code = "0204041C 00000097"
+cheat148_enable = false
+
+cheat149_desc = "遇到野生电兽 NO.143"
+cheat149_code = "0204041C 00000098"
+cheat149_enable = false
+
+cheat150_desc = "遇到野生电兽 NO.144"
+cheat150_code = "0204041C 00000099"
+cheat150_enable = false
+
+cheat151_desc = "遇到野生电兽 NO.145"
+cheat151_code = "0204041C 0000009A"
+cheat151_enable = false
+
+cheat152_desc = "遇到野生电兽 NO.146"
+cheat152_code = "0204041C 0000009B"
+cheat152_enable = false
+
+cheat153_desc = "遇到野生电兽 NO.147"
+cheat153_code = "0204041C 0000009C"
+cheat153_enable = false
+
+cheat154_desc = "遇到野生电兽 NO.148"
+cheat154_code = "0204041C 0000009D"
+cheat154_enable = false
+
+cheat155_desc = "遇到野生电兽 NO.149"
+cheat155_code = "0204041C 0000009E"
+cheat155_enable = false
+
+cheat156_desc = "遇到野生电兽 NO.150"
+cheat156_code = "0204041C 0000009F"
+cheat156_enable = false
+
+cheat157_desc = "遇到野生电兽 NO.151"
+cheat157_code = "0204041C 000000A0"
+cheat157_enable = false
+
+cheat158_desc = "遇到野生电兽 NO.152"
+cheat158_code = "0204041C 000000A1"
+cheat158_enable = false
+
+cheat159_desc = "遇到野生电兽 NO.153"
+cheat159_code = "0204041C 000000A2"
+cheat159_enable = false
+
+cheat160_desc = "遇到野生电兽 NO.154"
+cheat160_code = "0204041C 000000A3"
+cheat160_enable = false
+
+cheat161_desc = "遇到野生电兽 NO.155"
+cheat161_code = "0204041C 000000A4"
+cheat161_enable = false
+
+cheat162_desc = "遇到野生电兽 NO.156"
+cheat162_code = "0204041C 000000A5"
+cheat162_enable = false
+
+cheat163_desc = "遇到野生电兽 NO.157"
+cheat163_code = "0204041C 000000A6"
+cheat163_enable = false
+
+cheat164_desc = "遇到野生电兽 NO.158"
+cheat164_code = "0204041C 000000A7"
+cheat164_enable = false
+
+cheat165_desc = "遇到野生电兽 NO.159"
+cheat165_code = "0204041C 000000A8"
+cheat165_enable = false
+
+cheat166_desc = "遇到野生电兽 NO.160"
+cheat166_code = "0204041C 000000A9"
+cheat166_enable = false
+
+cheat167_desc = "遇到野生电兽 NO.161"
+cheat167_code = "0204041C 000000AA"
+cheat167_enable = false
+
+cheat168_desc = "遇到野生电兽 NO.162"
+cheat168_code = "0204041C 000000AB"
+cheat168_enable = false
+
+cheat169_desc = "遇到野生电兽 NO.163"
+cheat169_code = "0204041C 000000AC"
+cheat169_enable = false
+
+cheat170_desc = "遇到野生电兽 NO.164"
+cheat170_code = "0204041C 000000AD"
+cheat170_enable = false
+
+cheat171_desc = "遇到野生电兽 NO.165"
+cheat171_code = "0204041C 000000AE"
+cheat171_enable = false
+
+cheat172_desc = "遇到野生电兽 NO.166"
+cheat172_code = "0204041C 000000AF"
+cheat172_enable = false
+
+cheat173_desc = "遇到野生电兽 NO.167"
+cheat173_code = "0204041C 000000B0"
+cheat173_enable = false
+
+cheat174_desc = "遇到野生电兽 NO.168"
+cheat174_code = "0204041C 000000B1"
+cheat174_enable = false
+
+cheat175_desc = "遇到野生电兽 NO.169"
+cheat175_code = "0204041C 000000B2"
+cheat175_enable = false
+
+cheat176_desc = "遇到野生电兽 NO.170"
+cheat176_code = "0204041C 000000B3"
+cheat176_enable = false
+
+cheat177_desc = "遇到野生电兽 NO.171"
+cheat177_code = "0204041C 000000C3"
+cheat177_enable = false
+
+cheat178_desc = "遇到野生电兽 NO.172"
+cheat178_code = "0204041C 000000C4"
+cheat178_enable = false
+
+cheat179_desc = "遇到野生电兽 NO.173"
+cheat179_code = "0204041C 000000C5"
+cheat179_enable = false
+
+cheat180_desc = "遇到野生电兽 NO.174"
+cheat180_code = "0204041C 000000C6"
+cheat180_enable = false
+
+cheat181_desc = "遇到野生电兽 NO.175"
+cheat181_code = "0204041C 000000C7"
+cheat181_enable = false
+
+cheat182_desc = "遇到野生电兽 NO.176"
+cheat182_code = "0204041C 00000003"
+cheat182_enable = false
+
+cheat183_desc = "遇到野生电兽 NO.177"
+cheat183_code = "0204041C 00000004"
+cheat183_enable = false
+
+cheat184_desc = "遇到野生电兽 NO.178"
+cheat184_code = "0204041C 00000025"
+cheat184_enable = false
+
+cheat185_desc = "遇到野生电兽 NO.179"
+cheat185_code = "0204041C 00000026"
+cheat185_enable = false
+
+cheat186_desc = "遇到野生电兽 NO.180"
+cheat186_code = "0204041C 00000027"
+cheat186_enable = false
+
+cheat187_desc = "遇到野生电兽 NO.181"
+cheat187_code = "0204041C 0000004E"
+cheat187_enable = false
+
+cheat188_desc = "遇到野生电兽 NO.182"
+cheat188_code = "0204041C 0000004F"
+cheat188_enable = false
+
+cheat189_desc = "遇到野生电兽 NO.183"
+cheat189_code = "0204041C 00000050"
+cheat189_enable = false
+
+cheat190_desc = "遇到野生电兽 NO.184"
+cheat190_code = "0204041C 00000051"
+cheat190_enable = false
+
+cheat191_desc = "遇到野生电兽 NO.185"
+cheat191_code = "0204041C 00000052"
+cheat191_enable = false
+
+cheat192_desc = "遇到野生电兽 NO.186"
+cheat192_code = "0204041C 00000053"
+cheat192_enable = false
+
+cheat193_desc = "遇到野生电兽 NO.187"
+cheat193_code = "0204041C 00000054"
+cheat193_enable = false
+
+cheat194_desc = "遇到野生电兽 NO.188"
+cheat194_code = "0204041C 00000058"
+cheat194_enable = false
+
+cheat195_desc = "遇到野生电兽 NO.189"
+cheat195_code = "0204041C 00000059"
+cheat195_enable = false
+
+cheat196_desc = "遇到野生电兽 NO.190"
+cheat196_code = "0204041C 0000005A"
+cheat196_enable = false
+
+cheat197_desc = "遇到野生电兽 NO.191"
+cheat197_code = "0204041C 0000005B"
+cheat197_enable = false
+
+cheat198_desc = "遇到野生电兽 NO.192"
+cheat198_code = "0204041C 0000005C"
+cheat198_enable = false
+
+cheat199_desc = "遇到野生电兽 NO.193"
+cheat199_code = "0204041C 0000005D"
+cheat199_enable = false
+
+cheat200_desc = "遇到野生电兽 NO.194"
+cheat200_code = "0204041C 00000062"
+cheat200_enable = false
+
+cheat201_desc = "遇到野生电兽 NO.195"
+cheat201_code = "0204041C 00000063"
+cheat201_enable = false
+
+cheat202_desc = "遇到野生电兽 NO.196"
+cheat202_code = "0204041C 0000006D"
+cheat202_enable = false
+
+cheat203_desc = "遇到野生电兽 NO.197"
+cheat203_code = "0204041C 0000006E"
+cheat203_enable = false
+
+cheat204_desc = "遇到野生电兽 NO.198"
+cheat204_code = "0204041C 00000085"
+cheat204_enable = false
+
+cheat205_desc = "遇到野生电兽 NO.199"
+cheat205_code = "0204041C 00000086"
+cheat205_enable = false
+
+

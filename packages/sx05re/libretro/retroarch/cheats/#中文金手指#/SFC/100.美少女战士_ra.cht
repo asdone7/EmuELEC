@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1P最大生命]ON"
+cheat0_code = "7E075809"
+cheat0_enable = false
+
+cheat1_desc = "[1P最大体力]ON"
+cheat1_code = "7E074050"
+cheat1_enable = false
+

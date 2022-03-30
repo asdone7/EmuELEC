@@ -1,0 +1,79 @@
+cheats = 19
+
+cheat0_desc = "#无限能量"
+cheat0_code = "800D8A44 9600"
+cheat0_enable = false
+
+cheat1_desc = "#无限漏洞"
+cheat1_code = "800D8108 5C00"
+cheat1_enable = false
+
+cheat2_desc = "#无限酸奔涌"
+cheat2_code = "800D80FE 5C00"
+cheat2_enable = false
+
+cheat3_desc = "#无限寄生炸弹"
+cheat3_code = "800D8100 5C00"
+cheat3_enable = false
+
+cheat4_desc = "#Infinite Ray Splasher"
+cheat4_code = "800D8106 5C00"
+cheat4_enable = false
+
+cheat5_desc = "#Infinite Triad Thunder"
+cheat5_code = "800D8102 5C00"
+cheat5_enable = false
+
+cheat6_desc = "#无限霜盾"
+cheat6_code = "800D810A 5C00"
+cheat6_enable = false
+
+cheat7_desc = "#无限龙卷风"
+cheat7_code = "800D810C 5C00"
+cheat7_enable = false
+
+cheat8_desc = "#无限旋转之刃"
+cheat8_code = "800D8104 5C00"
+cheat8_enable = false
+
+cheat9_desc = "#无敌"
+cheat9_code = "8003B3BA 0100"
+cheat9_enable = false
+
+cheat10_desc = "#拥有所有武器"
+cheat10_code = "80141A60 FF00+80141A62 FF03"
+cheat10_enable = false
+
+cheat11_desc = "#拥有金装甲和所有机器人骑乘装甲"
+cheat11_code = "300D811A 00FF"
+cheat11_enable = false
+
+cheat12_desc = "#有新星打击"
+cheat12_code = "80141A4E FF00+801722BE 1F29"
+cheat12_enable = false
+
+cheat13_desc = "#无限瞄准激光和双旋风"
+cheat13_code = "80141A56 3030"
+cheat13_enable = false
+
+cheat14_desc = "#Infinite Air Slides [提供靴子]"
+cheat14_code = "300D8A6F 0001"
+cheat14_enable = false
+
+cheat15_desc = "#无限霜塔和灵魂之身"
+cheat15_code = "80141A52 3030"
+cheat15_enable = false
+
+cheat16_desc = "#无限上升的火与地猎人"
+cheat16_code = "80141A54 3030"
+cheat16_enable = false
+
+cheat17_desc = "#播放为零"
+cheat17_code = "800D8AC8 1111"
+cheat17_enable = false
+
+cheat18_desc = "#实时角色切换！[Select + L1 = Megaman，Select + R1 = 0]"
+cheat18_code = "D0134B48 0104+800D8AC9 0000+D0134B48 0108+800D8AC9 0002"
+cheat18_enable = false
+
+

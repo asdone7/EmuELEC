@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[P1战斗机只数]ON"
+cheat0_code = "0432:09"
+cheat0_enable = false
+
+cheat1_desc = "[P1防护]ON"
+cheat1_code = "0436:06"
+cheat1_enable = false
+
+cheat2_desc = "[P1最强火力(绝对无敌)]ON"
+cheat2_code = "048E:8A"
+cheat2_enable = false
+
+cheat3_desc = "[P2战斗机只数]ON"
+cheat3_code = "0433:09"
+cheat3_enable = false
+
+cheat4_desc = "[P2防护]ON"
+cheat4_code = "0437:06"
+cheat4_enable = false
+
+cheat5_desc = "[P2最强火力(绝对无敌)]ON"
+cheat5_code = "048F:8A"
+cheat5_enable = false
+

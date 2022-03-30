@@ -1,0 +1,235 @@
+cheats = 58
+
+cheat0_desc = "#无限氧气"
+cheat0_code = "8009914E 0708"
+cheat0_enable = false
+
+cheat1_desc = "#无限能量丛林"
+cheat1_code = "801D301A 03E8"
+cheat1_enable = false
+
+cheat2_desc = "#无限能量神庙遗址"
+cheat2_code = "80097AD0 0002"
+cheat2_enable = false
+
+cheat3_desc = "#Infinite Energy恒河"
+cheat3_code = "801D3C8A 03E8"
+cheat3_enable = false
+
+cheat4_desc = "#卡利亚的无限能量洞"
+cheat4_code = "8017B7AE 03E8"
+cheat4_enable = false
+
+cheat5_desc = "#Infinite Energy Coastal Village"
+cheat5_code = "801D6E9E 03E8"
+cheat5_enable = false
+
+cheat6_desc = "#Infinite Energy Crash Site"
+cheat6_code = "801DC7DE 03E8"
+cheat6_enable = false
+
+cheat7_desc = "#无限能量马杜布峡谷"
+cheat7_code = "801DABFA 03E8"
+cheat7_enable = false
+
+cheat8_desc = "#Puna无限能量神庙"
+cheat8_code = "8018E152 03E8"
+cheat8_enable = false
+
+cheat9_desc = "#无限能量泰晤士码头"
+cheat9_code = "801E1FE2 03E8"
+cheat9_enable = false
+
+cheat10_desc = "#Infinite Energy Aldwych"
+cheat10_code = "801D6A12 03E8"
+cheat10_enable = false
+
+cheat11_desc = "#Infinite Energy Lud's Gate"
+cheat11_code = "801E26D6 03E8"
+cheat11_enable = false
+
+cheat12_desc = "#无限能源城"
+cheat12_code = "801927C2 03E8"
+cheat12_enable = false
+
+cheat13_desc = "#无限能源内华达州沙漠"
+cheat13_code = "801D65F6 03E8"
+cheat13_enable = false
+
+cheat14_desc = "#无限能量高安全性化合物"
+cheat14_code = "801DF996 03E8"
+cheat14_enable = false
+
+cheat15_desc = "#无限能量区51"
+cheat15_code = "801DF6C2 03E8"
+cheat15_enable = false
+
+cheat16_desc = "#Infinite Energy南极洲"
+cheat16_code = "801D9866 03E8"
+cheat16_enable = false
+
+cheat17_desc = "#南极水体无限热量"
+cheat17_code = "8009B044 0258"
+cheat17_enable = false
+
+cheat18_desc = "#Infinite Energy Rx-Tech地雷"
+cheat18_code = "801DCBA2 03E8"
+cheat18_enable = false
+
+cheat19_desc = "#Rx-Tech矿井中的无限热量"
+cheat19_code = "8009B044 0258"
+cheat19_enable = false
+
+cheat20_desc = "#无尽的失落之城Tinnos"
+cheat20_code = "801D8A32 03E8"
+cheat20_enable = false
+
+cheat21_desc = "#无限能量陨石洞穴"
+cheat21_code = "801A5BDA 03E8"
+cheat21_enable = false
+
+cheat22_desc = "#一击倒老板陨石洞穴"
+cheat22_code = "801A5CEA 0000"
+cheat22_enable = false
+
+cheat23_desc = "#无限能量所有空心"
+cheat23_code = "80196EC2 03E8"
+cheat23_enable = false
+
+cheat24_desc = "#拥有所有特殊物品"
+cheat24_code = "8009758C 000℃"
+cheat24_enable = false
+
+cheat25_desc = "#无限沙漠之鹰弹药"
+cheat25_code = "80099208 00FF"
+cheat25_enable = false
+
+cheat26_desc = "#无限耀斑"
+cheat26_code = "80097504 7FFF"
+cheat26_enable = false
+
+cheat27_desc = "#无限榴弹发射器弹药"
+cheat27_code = "8009921C 967F+8009921E 0098"
+cheat27_enable = false
+
+cheat28_desc = "#无限鱼叉弹药"
+cheat28_code = "80099214 967F+80099216 0098"
+cheat28_enable = false
+
+cheat29_desc = "#无限大号医疗包"
+cheat29_code = "80097506 7FFF"
+cheat29_enable = false
+
+cheat30_desc = "#无限MP5弹药"
+cheat30_code = "80099220 00FF"
+cheat30_enable = false
+
+cheat31_desc = "#无限MP5弹药"
+cheat31_code = "80099220 967F+80099222 0098"
+cheat31_enable = false
+
+cheat32_desc = "#无限火箭发射器弹药"
+cheat32_code = "80099218 00FF"
+cheat32_enable = false
+
+cheat33_desc = "#无限Savegame水晶"
+cheat33_code = "8009750A 7FFF"
+cheat33_enable = false
+
+cheat34_desc = "#无限Shot弹枪"
+cheat34_code = "80099210 00FF"
+cheat34_enable = false
+
+cheat35_desc = "#无限小号医疗包"
+cheat35_code = "80097508 7FFF"
+cheat35_enable = false
+
+cheat36_desc = "#无限冲刺"
+cheat36_code = "80099228 0078"
+cheat36_enable = false
+
+cheat37_desc = "#无限Uzi弹药"
+cheat37_code = "8009920C 00FF"
+cheat37_enable = false
+
+cheat38_desc = "#Level修改器丛林"
+cheat38_code = "80097AD0 0001"
+cheat38_enable = false
+
+cheat39_desc = "#Level修饰符神庙遗址"
+cheat39_code = "80097AD0 0002"
+cheat39_enable = false
+
+cheat40_desc = "#Level修饰符河恒河"
+cheat40_code = "80097AD0 0003"
+cheat40_enable = false
+
+cheat41_desc = "#Kaliya的等级修饰符洞穴"
+cheat41_code = "80097AD0 0004"
+cheat41_enable = false
+
+cheat42_desc = "#Level修饰语沿海村庄"
+cheat42_code = "80097AD0 0005"
+cheat42_enable = false
+
+cheat43_desc = "#Level修改器崩溃站点"
+cheat43_code = "80097AD0 0006"
+cheat43_enable = false
+
+cheat44_desc = "#Level修改器Madubu峡谷"
+cheat44_code = "80097AD0 0007"
+cheat44_enable = false
+
+cheat45_desc = "#Puna的级别修饰符神庙"
+cheat45_code = "80097AD0 0008"
+cheat45_enable = false
+
+cheat46_desc = "#Level修改器Thames Wharf"
+cheat46_code = "80097AD0 0009"
+cheat46_enable = false
+
+cheat47_desc = "#Level修改器Aldwych"
+cheat47_code = "80097AD0 000A"
+cheat47_enable = false
+
+cheat48_desc = "#Level修饰符Lud's Gate"
+cheat48_code = "80097AD0 000B"
+cheat48_enable = false
+
+cheat49_desc = "#Level修饰符城市"
+cheat49_code = "80097AD0 000C"
+cheat49_enable = false
+
+cheat50_desc = "#Level修改器内华达沙漠"
+cheat50_code = "80097AD0 000D"
+cheat50_enable = false
+
+cheat51_desc = "#Level修改器高安全性化合物"
+cheat51_code = "80097AD0 000E"
+cheat51_enable = false
+
+cheat52_desc = "#Level修改器区域51"
+cheat52_code = "80097AD0 000F"
+cheat52_enable = false
+
+cheat53_desc = "#Level修饰符南极洲"
+cheat53_code = "80097AD0 0010"
+cheat53_enable = false
+
+cheat54_desc = "#Level修改器Rx-Tech地雷"
+cheat54_code = "80097AD0 0011"
+cheat54_enable = false
+
+cheat55_desc = "#Level修饰符失落的蒂诺斯城"
+cheat55_code = "80097AD0 0012"
+cheat55_enable = false
+
+cheat56_desc = "#Level修饰陨石洞穴"
+cheat56_code = "80097AD0 0013"
+cheat56_enable = false
+
+cheat57_desc = "#Level修改器所有空心"
+cheat57_code = "80097AD0 0014"
+cheat57_enable = false
+
+

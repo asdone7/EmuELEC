@@ -1,0 +1,35 @@
+cheats = 8
+
+cheat0_desc = "剩余点数"
+cheat0_code = "02037C0A 00000063"
+cheat0_enable = false
+
+cheat1_desc = "力"
+cheat1_code = "020445E8 00000028+020446C0 00000028+0204472C 00000028"
+cheat1_enable = false
+
+cheat2_desc = "运"
+cheat2_code = "020445ED 00000028+020446C1 00000028+0204472D 00000028"
+cheat2_enable = false
+
+cheat3_desc = "知"
+cheat3_code = "020445E9 00000028+020446C2 00000028+0204472E 00000028"
+cheat3_enable = false
+
+cheat4_desc = "魔"
+cheat4_code = "020445EA 00000028+020446C3 00000028+0204472F 00000028"
+cheat4_enable = false
+
+cheat5_desc = "体"
+cheat5_code = "020445EB 00000028+020446C4 00000028+02044730 00000028"
+cheat5_enable = false
+
+cheat6_desc = "速"
+cheat6_code = "020445EC 00000028+020446C5 00000028+02044731 00000028"
+cheat6_enable = false
+
+cheat7_desc = "钱"
+cheat7_code = "02044DB8 0000007F+02044DB9 00000096+02044DBA 00000098"
+cheat7_enable = false
+
+

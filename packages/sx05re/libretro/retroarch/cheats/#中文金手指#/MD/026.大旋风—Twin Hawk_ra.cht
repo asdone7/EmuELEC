@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[飞机数(全满)]ON"
+cheat0_code = "FF005A:06"
+cheat0_enable = false
+
+cheat1_desc = "[保险数(全满)]ON"
+cheat1_code = "FF005C:06"
+cheat1_enable = false
+
+cheat2_desc = "[火力(全满)]ON"
+cheat2_code = "FF00DC:03"
+cheat2_enable = false
+
+cheat3_desc = "[无敌(进入游戏后锁定)]透明"
+cheat3_code = "FF0000:08"
+cheat3_enable = false
+
+cheat4_desc = "[无限续关时间(出现GAME OVER后使用,用后解锁)]ON"
+cheat4_code = "FF0004:28"
+cheat4_enable = false
+
+cheat5_desc = "[无限投币]ON"
+cheat5_code = "FF003E:63"
+cheat5_enable = false
+

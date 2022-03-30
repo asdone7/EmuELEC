@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#加强零件MAX"
+cheat0_code = "8019BAA0 0900+8019BAA2 0909"
+cheat0_enable = false
+
+cheat1_desc = "#加强零件MAX 2 H"
+cheat1_code = "8019BAB4 0909+8019BAB6 0009"
+cheat1_enable = false
+
+cheat2_desc = "#9999999金钱"
+cheat2_code = "8019B9D6 967F+8019B9D8 0098"
+cheat2_enable = false
+
+cheat3_desc = "#不减少子弹（HBP）"
+cheat3_code = "D00799B8 FFFF+800799B8 0000"
+cheat3_enable = false
+
+cheat4_desc = "#不降低精神（HBP）"
+cheat4_code = "D008147A 0043+8008147A 0040+D0081486 0064+80081486 0060"
+cheat4_enable = false
+
+cheat5_desc = "#不降低EN（HBP）"
+cheat5_code = "D009230A 0044+8009230A 0040+D009545E 0043+8009545E 0040"
+cheat5_enable = false
+
+

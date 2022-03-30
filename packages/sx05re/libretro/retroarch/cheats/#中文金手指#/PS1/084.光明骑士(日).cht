@@ -1,0 +1,59 @@
+cheats = 14
+
+cheat0_desc = "#Hp 999"
+cheat0_code = "8011DC4C 03E7+8011DC4A 03E7"
+cheat0_enable = false
+
+cheat1_desc = "#MP 999"
+cheat1_code = "800AEC5A 03E7+800AEB3E 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#黄金9999"
+cheat2_code = "800AEAD8 270F"
+cheat2_enable = false
+
+cheat3_desc = "#技能999"
+cheat3_code = "800AEA84 03E7"
+cheat3_enable = false
+
+cheat4_desc = "#Exp。 9999999"
+cheat4_code = "800AEB9C 869F+800AEB9E 0001"
+cheat4_enable = false
+
+cheat5_desc = "#99级"
+cheat5_code = "8011DC64 6300"
+cheat5_enable = false
+
+cheat6_desc = "#统计999"
+cheat6_code = "8011DC4E 03E7+8011DC50 03E7+8011DC52 03E7+8011DC54 03E7"
+cheat6_enable = false
+
+cheat7_desc = "#Light Gauge Max"
+cheat7_code = "800AEC24 2000"
+cheat7_enable = false
+
+cheat8_desc = "#所有项目99"
+cheat8_code = "50005402 0000+800C0060 6363"
+cheat8_enable = false
+
+cheat9_desc = "#关键元素数"
+cheat9_code = "300AEBD6 007F"
+cheat9_enable = false
+
+cheat10_desc = "#可能的学习技巧剑的出现"
+cheat10_code = "301142BF 0040"
+cheat10_enable = false
+
+cheat11_desc = "#可能的学习技巧剑舞"
+cheat11_code = "301142BF 0080"
+cheat11_enable = false
+
+cheat12_desc = "#可能的学习技巧剑攻击"
+cheat12_code = "301142BF 0100"
+cheat12_enable = false
+
+cheat13_desc = "#铁匠的外观"
+cheat13_code = "801142D5 0041"
+cheat13_enable = false
+
+

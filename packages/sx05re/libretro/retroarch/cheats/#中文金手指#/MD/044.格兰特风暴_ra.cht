@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[机体数]ON"
+cheat0_code = "FFD944:09"
+cheat0_enable = false
+
+cheat1_desc = "[保险无限]ON"
+cheat1_code = "FFD946:06"
+cheat1_enable = false
+

@@ -1,0 +1,94 @@
+cheats = 23
+
+cheat0_desc = "[变色透明]ON"
+cheat0_code = "1F151E:42"
+cheat0_enable = false
+
+cheat1_desc = "[透明]ON"
+cheat1_code = "1F17DE:40"
+cheat1_enable = false
+
+cheat2_desc = "[生命数]九条命"
+cheat2_code = "1F09CF:1C"
+cheat2_enable = false
+
+cheat3_desc = "[天使伴行]ON"
+cheat3_code = "1F00C8:03"
+cheat3_enable = false
+
+cheat4_desc = "[选关一战]第8关"
+cheat4_code = "1F00E1:0B"
+cheat4_enable = false
+
+cheat5_desc = "[选关一战]第7关"
+cheat5_code = "1F00E1:07"
+cheat5_enable = false
+
+cheat6_desc = "[选关一战]第6关"
+cheat6_code = "1F00E1:06"
+cheat6_enable = false
+
+cheat7_desc = "[选关一战]第5关"
+cheat7_code = "1F00E1:05"
+cheat7_enable = false
+
+cheat8_desc = "[选关一战]第4关"
+cheat8_code = "1F00E1:04"
+cheat8_enable = false
+
+cheat9_desc = "[选关一战]第3关"
+cheat9_code = "1F00E1:03"
+cheat9_enable = false
+
+cheat10_desc = "[选关一战]第2关"
+cheat10_code = "1F00E1:02"
+cheat10_enable = false
+
+cheat11_desc = "[选关一战]第1关"
+cheat11_code = "1F00E1:01"
+cheat11_enable = false
+
+cheat12_desc = "[选关一战]爆机画面"
+cheat12_code = "1F00E1:0F"
+cheat12_enable = false
+
+cheat13_desc = "[选关一战]出字幕"
+cheat13_code = "1F00E1:0D"
+cheat13_enable = false
+
+cheat14_desc = "[最后BOSS立击必死迟了打不了它]不死BOSS出现一击必死"
+cheat14_code = "1F0DFD:00+1F0DFE:06+1F0DFF:00+1F0E00:FA"
+cheat14_enable = false
+
+cheat15_desc = "[蓄力喷火]ON"
+cheat15_code = "1F00E3:01+1F00E4:00+1F00E5:00+1F00E6:01"
+cheat15_enable = false
+
+cheat16_desc = "[更换武器]黄球"
+cheat16_code = "1F00C4:03"
+cheat16_enable = false
+
+cheat17_desc = "[更换武器]蓝球"
+cheat17_code = "1F00C4:02"
+cheat17_enable = false
+
+cheat18_desc = "[更换武器]红球"
+cheat18_code = "1F00C4:01"
+cheat18_enable = false
+
+cheat19_desc = "[敌动我不动]ON"
+cheat19_code = "1F0509:89"
+cheat19_enable = false
+
+cheat20_desc = "[变小]出场ON"
+cheat20_code = "1F00C8:04"
+cheat20_enable = false
+
+cheat21_desc = "[音乐节奏加快]ON"
+cheat21_code = "1F000C:6A"
+cheat21_enable = false
+
+cheat22_desc = "[带球鸟连环出]ON"
+cheat22_code = "1F00BE:8C"
+cheat22_enable = false
+

@@ -1,0 +1,261 @@
+cheats = 63
+
+cheat0_desc = "@Gran Turismo（1.0版）@ SCUS-94194"
+
+cheat0_desc = "#始终放置第一个（街机模式）"
+cheat0_code = "D00B6F18 0600+800B6F18 0100"
+cheat0_enable = false
+
+cheat1_desc = "#解锁奖励物品\\高速环\\ A"
+cheat1_code = "300816D8 0004"
+cheat1_enable = false
+
+cheat2_desc = "#解锁奖励物品\\高速环\\ B"
+cheat2_code = "300816D9 0004"
+cheat2_enable = false
+
+cheat3_desc = "#解锁奖金项目\\高速环\\ C"
+cheat3_code = "300816DA 0004"
+cheat3_enable = false
+
+cheat4_desc = "#解锁奖励物品\\审判山\\ A"
+cheat4_code = "300816DC 0004"
+cheat4_enable = false
+
+cheat5_desc = "#解锁奖励物品\\审判山\\ B"
+cheat5_code = "300816DD 0004"
+cheat5_enable = false
+
+cheat6_desc = "#解锁奖励物品\\试用山\\ C"
+cheat6_code = "300816DE 0004"
+cheat6_enable = false
+
+cheat7_desc = "#解锁奖励物品\\大山谷\\ A"
+cheat7_code = "300816E0 0004"
+cheat7_enable = false
+
+cheat8_desc = "#解锁奖励物品\\大山谷\\ B"
+cheat8_code = "300816E1 0004"
+cheat8_enable = false
+
+cheat9_desc = "#解锁奖励物品\\大峡谷\\ C"
+cheat9_code = "300816E2 0004"
+cheat9_enable = false
+
+cheat10_desc = "#解锁奖励项目\\俱乐部阶段5 \\ A"
+cheat10_code = "300816E4 0004"
+cheat10_enable = false
+
+cheat11_desc = "#解锁奖励物品\\俱乐部阶段5 \\ B"
+cheat11_code = "300816E5 0004"
+cheat11_enable = false
+
+cheat12_desc = "#解锁奖励物品\\俱乐部阶段5 \\ C"
+cheat12_code = "300816E6 0004"
+cheat12_enable = false
+
+cheat13_desc = "#解锁奖励物品\\秋天的戒指\\ A"
+cheat13_code = "300816E8 0004"
+cheat13_enable = false
+
+cheat14_desc = "#解锁奖励物品\\秋天的戒指\\ B"
+cheat14_code = "300816E9 0004"
+cheat14_enable = false
+
+cheat15_desc = "#解锁奖励物品\\秋天的戒指\\ C"
+cheat15_code = "300816EA 0004"
+cheat15_enable = false
+
+cheat16_desc = "#解锁奖励物品\\深林\\ A"
+cheat16_code = "300816EC 0004"
+cheat16_enable = false
+
+cheat17_desc = "#解锁奖励物品\\深林\\ B"
+cheat17_code = "300816ED 0004"
+cheat17_enable = false
+
+cheat18_desc = "#解锁奖励物品\\深林\\ C"
+cheat18_code = "300816EE 0004"
+cheat18_enable = false
+
+cheat19_desc = "#解锁奖励物品\\ Ss R5 \\ A"
+cheat19_code = "300816F"
+cheat19_enable = false
+
+cheat20_desc = "#解锁奖励物品\\ Ss R5 \\ B"
+cheat20_code = "300816F1 0004"
+cheat20_enable = false
+
+cheat21_desc = "#解锁奖励物品\\ Ss R5 \\ C"
+cheat21_code = "300816F2 0004"
+cheat21_enable = false
+
+cheat22_desc = "#解锁奖励物品\\大峡谷赛道\\ A"
+cheat22_code = "300816F4 0004"
+cheat22_enable = false
+
+cheat23_desc = "#解锁奖励物品\\大山谷赛车场\\ B"
+cheat23_code = "300816F5 0004"
+cheat23_enable = false
+
+cheat24_desc = "#解锁奖励物品\\大山谷赛车场\\ C"
+cheat24_code = "300816F6 0004"
+cheat24_enable = false
+
+cheat25_desc = "#解锁奖金项目\\模拟模式代码\\ 10亿美元"
+cheat25_code = "8009B864 CA00+8009B866 3B9A"
+cheat25_enable = false
+
+cheat26_desc = "#解锁奖励物品\\ B级许可金牌\\测试1"
+cheat26_code = "3009E3B4 0003"
+cheat26_enable = false
+
+cheat27_desc = "#解锁奖励物品\\ B级许可金牌\\测试2"
+cheat27_code = "3009E3B5 0003"
+cheat27_enable = false
+
+cheat28_desc = "#解锁奖励物品\\ B级许可金牌\\测试3"
+cheat28_code = "3009E3B6 0003"
+cheat28_enable = false
+
+cheat29_desc = "#解锁奖励物品\\ B级许可金牌\\测试4"
+cheat29_code = "3009E3B7 0003"
+cheat29_enable = false
+
+cheat30_desc = "#解锁奖励物品\\ B级许可金牌\\测试5"
+cheat30_code = "3009E3B8 0003"
+cheat30_enable = false
+
+cheat31_desc = "#解锁奖励物品\\ B级许可金牌\\测试6"
+cheat31_code = "3009E3B9 0003"
+cheat31_enable = false
+
+cheat32_desc = "#解锁奖励物品\\ B级许可金牌\\测试7"
+cheat32_code = "3009E3BA 0003"
+cheat32_enable = false
+
+cheat33_desc = "#解锁奖励物品\\ B级许可金牌\\测试8"
+cheat33_code = "3009E3BB 0003"
+cheat33_enable = false
+
+cheat34_desc = "#解锁奖励物品\\ A级许可金牌\\测试1"
+cheat34_code = "3009E3BC 0003"
+cheat34_enable = false
+
+cheat35_desc = "#解锁奖励物品\\ A级许可金牌\\测试2"
+cheat35_code = "3009E3BD 0003"
+cheat35_enable = false
+
+cheat36_desc = "#解锁奖励物品\\ A级许可金牌\\测试3"
+cheat36_code = "3009E3BE 0003"
+cheat36_enable = false
+
+cheat37_desc = "％#解锁奖励物品\\ A级许可金牌\\测试4"
+cheat37_code = "3009E3BF 0003"
+cheat37_enable = false
+
+cheat38_desc = "#解锁奖励物品\\ A级许可金牌\\测试5"
+cheat38_code = "3009E3C0 0003"
+cheat38_enable = false
+
+cheat39_desc = "#解锁奖励物品\\ A级许可金牌\\测试6"
+cheat39_code = "3009E3C1 0003"
+cheat39_enable = false
+
+cheat40_desc = "#解锁奖励物品\\ A级许可金牌\\测试7"
+cheat40_code = "3009E3C2 0003"
+cheat40_enable = false
+
+cheat41_desc = "#解锁奖励物品\\ A级许可金牌\\测试8"
+cheat41_code = "3009E3C3 0003"
+cheat41_enable = false
+
+cheat42_desc = "#解锁奖励项目\\国际A级许可金牌\\测试1"
+cheat42_code = "3009E3C4 0003"
+cheat42_enable = false
+
+cheat43_desc = "#解锁奖励物品\\国际A级执照金牌\\测试2"
+cheat43_code = "3009E3C5 0003"
+cheat43_enable = false
+
+cheat44_desc = "#解锁奖励项目\\国际A级许可金牌\\测试3"
+cheat44_code = "3009E3C6 0003"
+cheat44_enable = false
+
+cheat45_desc = "#解锁奖励项目\\国际A级执照金卡\\测试4"
+cheat45_code = "3009E3C7 0003"
+cheat45_enable = false
+
+cheat46_desc = "#解锁奖励物品\\国际A级执照金牌\\测试5"
+cheat46_code = "3009E3C8 0003"
+cheat46_enable = false
+
+cheat47_desc = "#解锁奖励物品\\国际A级执照金牌\\测试6"
+cheat47_code = "3009E3C9 0003"
+cheat47_enable = false
+
+cheat48_desc = "#解锁奖励项目\\国际A级执照金牌\\测试7"
+cheat48_code = "3009E3CA 0003"
+cheat48_enable = false
+
+cheat49_desc = "#解锁奖励物品\\国际A级执照金牌\\测试8"
+cheat49_code = "3009E3CB 0003"
+cheat49_enable = false
+
+cheat50_desc = "#车库-拥有100辆您选择的汽车！\\ Set 1-必须使用不变！"
+cheat50_code = "8007DA48 0064+8009B87A 0064"
+cheat50_enable = false
+
+cheat51_desc = "#P2按R3键获取亚硝基"
+cheat51_code = "D00BC1C6 0004+800B6F3E 0006+D00BC1C6 0004+800B6F42 0006"
+cheat51_enable = false
+
+cheat52_desc = "％笔记2"
+
+cheat52_desc = "#P2按R3键获取亚硝基"
+cheat52_code = "D00BC286 0004+800B7C72 0006+D00BC286 0004+800B7C76 0006"
+cheat52_enable = false
+
+cheat53_desc = "％笔记2"
+
+cheat53_desc = "#巡航控制"
+cheat53_code = "D00D6F18 0600+300B6F18 0001+D00B6F18 0100+300B6F18 0001"
+cheat53_enable = false
+
+cheat54_desc = "#模拟模式A车库许可"
+cheat54_code = "80058634 007C"
+cheat54_enable = false
+
+cheat55_desc = "#车库中的模拟模式B许可证"
+cheat55_code = "80058634 007D"
+cheat55_enable = false
+
+cheat56_desc = "#车库模拟模式IA许可证"
+cheat56_code = "80058634 007E"
+cheat56_enable = false
+
+cheat57_desc = "#所有制造商都已解锁（单次比赛和计时赛）"
+cheat57_code = "D004E204 0006+3004E204 000A"
+cheat57_enable = false
+
+cheat58_desc = "#秋季戒指解锁精选"
+cheat58_code = "D004E294 0042+3004E294 0002"
+cheat58_enable = false
+
+cheat59_desc = "#深林解锁精选"
+cheat59_code = "D004E2A0 0042+3004E2A0 0002"
+cheat59_enable = false
+
+cheat60_desc = "#大峡谷解锁精选"
+cheat60_code = "D004E2B8 0042+3004E2B8 0002"
+cheat60_enable = false
+
+cheat61_desc = "#Special Stage Route 5精选专辑"
+cheat61_code = "D004E2AC 0042+3004E2AC 0002"
+cheat61_enable = false
+
+cheat62_desc = "#模拟模式代码10亿美元"
+cheat62_code = "8009B8F4 CA00+8009B8F6 3B9A"
+cheat62_enable = false
+
+

@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[???]ON"
+cheat0_code = "0440:0A+0490:E7"
+cheat0_enable = false
+

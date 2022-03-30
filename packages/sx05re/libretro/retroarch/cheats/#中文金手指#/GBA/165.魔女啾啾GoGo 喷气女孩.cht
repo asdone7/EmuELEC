@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "点的数量"
+cheat0_code = "02043D24 000000E7+02043D25 00000003"
+cheat0_enable = false
+
+cheat1_desc = "血"
+cheat1_code = "02043D18 00000064+02043D1A 00000064+02043D1C 00000064"
+cheat1_enable = false
+
+

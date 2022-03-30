@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[无限手榴弹]ON"
+cheat0_code = "FF511A:63"
+cheat0_enable = false
+
+cheat1_desc = "[无限机枪]ON"
+cheat1_code = "FF50F6:41+FF50F7:0B"
+cheat1_enable = false
+
+cheat2_desc = "[无限体力]ON"
+cheat2_code = "FF50F9:27"
+cheat2_enable = false
+

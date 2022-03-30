@@ -1,0 +1,71 @@
+cheats = 17
+
+cheat0_desc = "#Max星"
+cheat0_code = "800789BC 0063+800789BE 0063"
+cheat0_enable = false
+
+cheat1_desc = "#主要字符代码\\无限和最大Hp"
+cheat1_code = "80075926 03E7+800759C8 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#主要字符代码\\最大统计信息"
+cheat2_code = "50000302 0000+80075928 FFFF"
+cheat2_enable = false
+
+cheat3_desc = "#Main字符代码\\已激活所有元素插槽"
+cheat3_code = "50003002 0000+30075951 0000"
+cheat3_enable = false
+
+cheat4_desc = "#主要字符代码\\无限金钱"
+cheat4_code = "800786F0 423F+800786F2 000F"
+cheat4_enable = false
+
+cheat5_desc = "#主要字符代码\\停止计时器"
+cheat5_code = "8007210C 1000"
+cheat5_enable = false
+
+cheat6_desc = "#Main Character Codes \\ Save Anywhere（按Select和L1。按Select和L2）"
+cheat6_code = "D00E8510 0001+300E8510 0000"
+cheat6_enable = false
+
+cheat7_desc = "#致命一击/无伤害死亡打击按L2和无伤害按R2"
+cheat7_code = "D00855E0 0001+800D877A 0000+D00855E0 0002+800D877A 0040"
+cheat7_enable = false
+
+cheat8_desc = "#保存到任何地方"
+cheat8_code = "800EBAE4 0001"
+cheat8_enable = false
+
+cheat9_desc = "#股票元素"
+cheat9_code = "5000C002 0001+800784A8 0001+5000C002 0000+80078628 0063"
+cheat9_enable = false
+
+cheat10_desc = "#库存物品"
+cheat10_code = "5000FF02 0001+80078028 0001+5000FF02 0000+80078328 0063"
+cheat10_enable = false
+
+cheat11_desc = "#在战斗状态下不会减少"
+cheat11_code = "D00D7E60 1023+800D7E62 0040+D00DB674 019E+800DB672 0040+D00D7F6C 0032+800D7F76 0040"
+cheat11_enable = false
+
+cheat12_desc = "#战斗期间不会减少"
+cheat12_code = "D00CCC02 3482+800CCC00 0000+D00CCCF4 0070+800CCCFC 00FF+D00CCCF4 0070+800CCCFE 2403"
+cheat12_enable = false
+
+cheat13_desc = "#最高战斗力"
+cheat13_code = "D00BF4A0 0050+800BF4A4 0001"
+cheat13_enable = false
+
+cheat14_desc = "#战斗中没有敌人转弯"
+cheat14_code = "D00D8340 1023+800D8342 0040"
+cheat14_enable = false
+
+cheat15_desc = "#Debug菜单（R1）"
+cheat15_code = "800720DA 0101+800EBC28 4000"
+cheat15_enable = false
+
+cheat16_desc = "#A调试模式，我下注暂停？调试打开/关闭？在“ DEBUG ON”状态下，可以将DIPS KEY ON / OFF设置为OFF，在世界地图非"
+cheat16_code = "3007207D 0000"
+cheat16_enable = false
+
+

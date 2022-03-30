@@ -1,0 +1,38 @@
+cheats = 9
+
+cheat0_desc = "[命无限]ON"
+cheat0_code = "0027:09"
+cheat0_enable = false
+
+cheat1_desc = "[体力]ON"
+cheat1_code = "04AB:10"
+cheat1_enable = false
+
+cheat2_desc = "[半透明]ON"
+cheat2_code = "0569:1E"
+cheat2_enable = false
+
+cheat3_desc = "[威力]ON"
+cheat3_code = "005C:11+008A:10"
+cheat3_enable = false
+
+cheat4_desc = "[宝无限]ON"
+cheat4_code = "005A:09+005B:09"
+cheat4_enable = false
+
+cheat5_desc = "[武器数]ON"
+cheat5_code = "0099:02"
+cheat5_enable = false
+
+cheat6_desc = "[武器威力]ON"
+cheat6_code = "005D:02"
+cheat6_enable = false
+
+cheat7_desc = "[超强状态]ON"
+cheat7_code = "009C:03"
+cheat7_enable = false
+
+cheat8_desc = "[钥匙全齐]ON"
+cheat8_code = "009B:FF"
+cheat8_enable = false
+

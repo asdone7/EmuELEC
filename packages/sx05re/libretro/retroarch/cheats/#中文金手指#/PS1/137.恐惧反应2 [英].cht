@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#资讯健康"
+cheat0_code = "80087780 0002"
+cheat0_enable = false
+
+cheat1_desc = "#不怕"
+cheat1_code = "D00495EC 0068+800495EE 2400"
+cheat1_enable = false
+
+cheat2_desc = "#Inf Ammo No Fear All Weapons"
+cheat2_code = "8007B4F8 0103"
+cheat2_enable = false
+
+cheat3_desc = "#Access Art Gallery（所有光盘）"
+cheat3_code = "800BC4DC 0001"
+cheat3_enable = false
+
+cheat4_desc = "#所有武器"
+cheat4_code = "3007B4F9 0001"
+cheat4_enable = false
+
+cheat5_desc = "#游戏时间（00:00:00）"
+cheat5_code = "8007B4F4 0000+8007B4F6 0000"
+cheat5_enable = false
+
+

@@ -10,11 +10,11 @@
 ### USER INTERFACE SETTINGS ###
 
 # Welcome Message for e.g. SSH Server (up to 5 Lines)
-  GREETING0="##############################################"
-  GREETING1="#                 EmuELEC                    #"
-  GREETING2="#     Retro emulation for Amlogic Devices    #"
-  GREETING3="#             Based on CoreELEC              #"
-  GREETING4="##############################################"
+  GREETING0="###############################################"
+  GREETING1="#             EmuELEC - PENG                  #"
+  GREETING2="#   仅晶晨、瑞芯微设备的仿真器,基于CoreELEC     #"
+  GREETING3="#       官方 - EmuELEC 是免费的! 不出售!       #"
+  GREETING4="###############################################"
 
 # Root password to integrate in the target system
   ROOT_PASSWORD="emuelec"
@@ -279,9 +279,7 @@ gme \
 gpsp \
 gw-libretro \
 hbfbneo \
-meowpc98 \
 mgba \
-mrboom \
 mupen64plus \
 neocd_libretro \
 nestopia \
@@ -299,7 +297,6 @@ snes9x2010 \
 spring \
 tgbdual \
 tyrquake \
-xrick \
 vba-next \
 vbam \
 vecx \

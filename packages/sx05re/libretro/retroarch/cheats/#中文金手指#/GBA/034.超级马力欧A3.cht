@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "生命不减"
+cheat0_code = "0204627E 00000099"
+cheat0_enable = false
+
+cheat1_desc = "掉BB后时间不减"
+cheat1_code = "02046ACE 00000099+02046ACF 00000009"
+cheat1_enable = false
+
+

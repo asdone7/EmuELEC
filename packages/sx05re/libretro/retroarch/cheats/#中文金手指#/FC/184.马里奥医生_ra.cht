@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[CLEAR]ON"
+cheat0_code = "0324:01"
+cheat0_enable = false
+
+cheat1_desc = "[不会GAME OVER]ON"
+cheat1_code = "0403:FF+0404:FF+0405:00"
+cheat1_enable = false
+

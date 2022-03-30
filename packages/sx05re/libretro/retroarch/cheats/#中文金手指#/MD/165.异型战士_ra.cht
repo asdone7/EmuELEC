@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[弹药数量]ON"
+cheat0_code = "FFA260:E8+FFA261:03+FFA262:E8+FFA263:03+FFA264:E8+FFA265:03+FFA266:E8+FFA267:03+FFA268:E8+FFA269:03+FFA26A:E8+FFA26B:03+FFA26C:E8+FFA26D:03+FFA26E:E8+FFA26F:03"
+cheat0_enable = false
+
+cheat1_desc = "[血]ON"
+cheat1_code = "FFA216:00+FFA217:02"
+cheat1_enable = false
+
+cheat2_desc = "[时间]ON"
+cheat2_code = "FFA270:59+FFA271:09"
+cheat2_enable = false
+
+cheat3_desc = "[隐身]ON"
+cheat3_code = "FFA45E:64+FFA45F:00"
+cheat3_enable = false
+
+cheat4_desc = "[BOSSHP]自动过关"
+cheat4_code = "FF8201:00"
+cheat4_enable = false
+
+cheat5_desc = "[BOSSHP]BOSS一击死"
+cheat5_code = "FF8201:01"
+cheat5_enable = false
+

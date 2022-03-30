@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[无限金钱]ON"
+cheat0_code = "0456:E7+0457:03"
+cheat0_enable = false
+

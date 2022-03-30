@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[黄金]ON"
+cheat0_code = "0358:09+0359:99+035A:99"
+cheat0_enable = false
+
+cheat1_desc = "[唐僧能力]ON"
+cheat1_code = "0300:09+0301:99+0308:09+0309:99+0310:09+0311:99+0318:09+0319:99+0320:09+0321:99+0340:09+0341:99"
+cheat1_enable = false
+
+cheat2_desc = "[唐僧EXP]ON"
+cheat2_code = "0330:99+0331:99"
+cheat2_enable = false
+
+cheat3_desc = "[悟空能力]ON"
+cheat3_code = "031A:09+031B:99+0322:09+0323:99+0333:99+0342:09+0343:99"
+cheat3_enable = false
+
+cheat4_desc = "[悟空EXP]ON"
+cheat4_code = "0332:99"
+cheat4_enable = false
+

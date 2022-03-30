@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[无限续关]ON"
+cheat0_code = "7E008B09"
+cheat0_enable = false
+
+cheat1_desc = "[无限力量水昌]ON"
+cheat1_code = "7E004D09"
+cheat1_enable = false
+

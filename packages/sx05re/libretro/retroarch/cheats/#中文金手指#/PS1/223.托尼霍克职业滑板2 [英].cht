@@ -1,0 +1,95 @@
+cheats = 23
+
+cheat0_desc = "#完美余额"
+cheat0_code = "800BBD44 0001+800BBD46 0001"
+cheat0_enable = false
+
+cheat1_desc = "#月球物理学"
+cheat1_code = "800BBD68 0001+800BBD6A 0001"
+cheat1_enable = false
+
+cheat2_desc = "#启用所有视频"
+cheat2_code = "301F583C 0001+301F5898 0001+301F58F4 0001+301F5950 0001+301F59AC 0001+301F5A08 0001+301F5A64 0001+301F5AC0 0001+301F5B1C 0001+301F5B78 0001+301F5BD4 0001+301F5C30 0001+301F5C8C 0001+301F5CE8 0001+301F5D44 0001"
+cheat2_enable = false
+
+cheat3_desc = "#所有级别-安德鲁·雷诺兹（Andrew Reynolds）"
+cheat3_code = "50000802 0000+800BAF9C FFFF"
+cheat3_enable = false
+
+cheat4_desc = "#所有级别的鲍勃·伯恩奎斯特"
+cheat4_code = "50000802 0000+800BA87C FFFF"
+cheat4_enable = false
+
+cheat5_desc = "#所有级别-Bucky Lasek"
+cheat5_code = "50000802 0000+800BACF0 FFFF"
+cheat5_enable = false
+
+cheat6_desc = "#所有级别的乍得·穆斯卡（Chad Muska）"
+cheat6_code = "50000802 0000+800BAEB8 FFFF"
+cheat6_enable = false
+
+cheat7_desc = "#所有级别的自定义溜冰者1"
+cheat7_code = "50000802 0000+800BB32C FFFF"
+cheat7_enable = false
+
+cheat8_desc = "#所有级别的自定义溜冰者2"
+cheat8_code = "50000802 0000+800BB410 FFFF"
+cheat8_enable = false
+
+cheat9_desc = "#所有级别的自定义溜冰者3"
+cheat9_code = "50000802 0000+800BB4F4 FFFF"
+cheat9_enable = false
+
+cheat10_desc = "#所有级别的自定义溜冰者4"
+cheat10_code = "50000802 0000+800BB5D8 FFFF"
+cheat10_enable = false
+
+cheat11_desc = "#所有级别-Elissa Steamer"
+cheat11_code = "50000802 0000+800BB164 FFFF"
+cheat11_enable = false
+
+cheat12_desc = "#所有级别-埃里克·科斯顿（Eric Koston）"
+cheat12_code = "50000802 0000+800BAC0C FFFF"
+cheat12_enable = false
+
+cheat13_desc = "#所有级别-Geoff Rowley"
+cheat13_code = "50000802 0000+800BB080 FFFF"
+cheat13_enable = false
+
+cheat14_desc = "#所有级别-杰米·托马斯（Jamie Thomas）"
+cheat14_code = "50000802 0000+800BB248 FFFF"
+cheat14_enable = false
+
+cheat15_desc = "#所有级别-贾里姆·坎贝尔"
+cheat15_code = "50000802 0000+800BAA44 FFFF"
+cheat15_enable = false
+
+cheat16_desc = "#所有级别-罗德尼·马伦"
+cheat16_code = "50000802 0000+800BADD4 FFFF"
+cheat16_enable = false
+
+cheat17_desc = "#All Levels-Rune Glifberg"
+cheat17_code = "50000802 0000+800BAB28 FFFF"
+cheat17_enable = false
+
+cheat18_desc = "#所有级别的史蒂夫·卡瓦列罗"
+cheat18_code = "50000802 0000+800BA960 FFFF"
+cheat18_enable = false
+
+cheat19_desc = "#所有级别-托尼·霍克（Tony Hawk）"
+cheat19_code = "50000802 0000+800BA798 FFFF"
+cheat19_enable = false
+
+cheat20_desc = "#无限时间"
+cheat20_code = "800D6562 0000"
+cheat20_enable = false
+
+cheat21_desc = "#Max职业现金"
+cheat21_code = "800BB5D0 FFFF+800BB5D2 7530"
+cheat21_enable = false
+
+cheat22_desc = "#最大现金"
+cheat22_code = "800BB5D4 FFFF+800BB5D6 7530"
+cheat22_enable = false
+
+

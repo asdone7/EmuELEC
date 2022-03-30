@@ -1,0 +1,249 @@
+cheats = 61
+
+cheat0_desc = "我方选人 MORRIGAN"
+cheat0_code = "02042E28 00000000"
+cheat0_enable = false
+
+cheat1_desc = "我方选人 CHUN-LI"
+cheat1_code = "02042E28 00000001"
+cheat1_enable = false
+
+cheat2_desc = "我方选人 RYU"
+cheat2_code = "02042E28 00000002"
+cheat2_enable = false
+
+cheat3_desc = "我方选人 KEN"
+cheat3_code = "02042E28 00000003"
+cheat3_enable = false
+
+cheat4_desc = "我方选人 HSIEN-KO"
+cheat4_code = "02042E28 00000004"
+cheat4_enable = false
+
+cheat5_desc = "我方选人 DONOVAN"
+cheat5_code = "02042E28 00000005"
+cheat5_enable = false
+
+cheat6_desc = "我方选人 FELICIA"
+cheat6_code = "02042E28 00000006"
+cheat6_enable = false
+
+cheat7_desc = "我方选人 SAKURA"
+cheat7_code = "02042E28 00000007"
+cheat7_enable = false
+
+cheat8_desc = "我方选人 DEVILOT"
+cheat8_code = "02042E28 00000008"
+cheat8_enable = false
+
+cheat9_desc = "我方选人 AKUMA"
+cheat9_code = "02042E28 00000009"
+cheat9_enable = false
+
+cheat10_desc = "我方选人 DAN"
+cheat10_code = "02042E28 0000000A"
+cheat10_enable = false
+
+cheat11_desc = "我方方块A 蓝方块"
+cheat11_code = "02042EB0 00000001"
+cheat11_enable = false
+
+cheat12_desc = "我方方块A 黄方块"
+cheat12_code = "02042EB0 00000002"
+cheat12_enable = false
+
+cheat13_desc = "我方方块A 绿方块"
+cheat13_code = "02042EB0 00000003"
+cheat13_enable = false
+
+cheat14_desc = "我方方块A 红方块"
+cheat14_code = "02042EB0 00000004"
+cheat14_enable = false
+
+cheat15_desc = "我方方块A 水晶方块"
+cheat15_code = "02042EB0 00000005"
+cheat15_enable = false
+
+cheat16_desc = "我方方块A 蓝宝石"
+cheat16_code = "02042EB0 00000009"
+cheat16_enable = false
+
+cheat17_desc = "我方方块A 黄宝石"
+cheat17_code = "02042EB0 0000000A"
+cheat17_enable = false
+
+cheat18_desc = "我方方块A 绿宝石"
+cheat18_code = "02042EB0 0000000B"
+cheat18_enable = false
+
+cheat19_desc = "我方方块A 红宝石"
+cheat19_code = "02042EB0 0000000C"
+cheat19_enable = false
+
+cheat20_desc = "我方方块B 蓝方块"
+cheat20_code = "02042EB2 00000001"
+cheat20_enable = false
+
+cheat21_desc = "我方方块B 黄方块"
+cheat21_code = "02042EB2 00000002"
+cheat21_enable = false
+
+cheat22_desc = "我方方块B 绿方块"
+cheat22_code = "02042EB2 00000003"
+cheat22_enable = false
+
+cheat23_desc = "我方方块B 红方块"
+cheat23_code = "02042EB2 00000004"
+cheat23_enable = false
+
+cheat24_desc = "我方方块B 水晶方块"
+cheat24_code = "02042EB2 00000005"
+cheat24_enable = false
+
+cheat25_desc = "我方方块B 蓝宝石"
+cheat25_code = "02042EB2 00000009"
+cheat25_enable = false
+
+cheat26_desc = "我方方块B 黄宝石"
+cheat26_code = "02042EB2 0000000A"
+cheat26_enable = false
+
+cheat27_desc = "我方方块B 绿宝石"
+cheat27_code = "02042EB2 0000000B"
+cheat27_enable = false
+
+cheat28_desc = "我方方块B 红宝石"
+cheat28_code = "02042EB2 0000000C"
+cheat28_enable = false
+
+cheat29_desc = "我方攻击对方方块数 0"
+cheat29_code = "02042FE8 00000000"
+cheat29_enable = false
+
+cheat30_desc = "我方攻击对方方块数 99"
+cheat30_code = "02042FE8 00000063"
+cheat30_enable = false
+
+cheat31_desc = "电脑选人 MORRIGAN"
+cheat31_code = "02043158 00000000"
+cheat31_enable = false
+
+cheat32_desc = "电脑选人 CHUN-LI"
+cheat32_code = "02043158 00000001"
+cheat32_enable = false
+
+cheat33_desc = "电脑选人 RYU"
+cheat33_code = "02043158 00000002"
+cheat33_enable = false
+
+cheat34_desc = "电脑选人 KEN"
+cheat34_code = "02043158 00000003"
+cheat34_enable = false
+
+cheat35_desc = "电脑选人 HSIEN-KO"
+cheat35_code = "02043158 00000004"
+cheat35_enable = false
+
+cheat36_desc = "电脑选人 DONOVAN"
+cheat36_code = "02043158 00000005"
+cheat36_enable = false
+
+cheat37_desc = "电脑选人 FELICIA"
+cheat37_code = "02043158 00000006"
+cheat37_enable = false
+
+cheat38_desc = "电脑选人 SAKURA"
+cheat38_code = "02043158 00000007"
+cheat38_enable = false
+
+cheat39_desc = "电脑选人 DEVILOT"
+cheat39_code = "02043158 00000008"
+cheat39_enable = false
+
+cheat40_desc = "电脑选人 AKUMA"
+cheat40_code = "02043158 00000009"
+cheat40_enable = false
+
+cheat41_desc = "电脑选人 DAN"
+cheat41_code = "02043158 0000000A"
+cheat41_enable = false
+
+cheat42_desc = "电脑方块A 蓝方块"
+cheat42_code = "020431E0 00000001"
+cheat42_enable = false
+
+cheat43_desc = "电脑方块A 黄方块"
+cheat43_code = "020431E0 00000002"
+cheat43_enable = false
+
+cheat44_desc = "电脑方块A 绿方块"
+cheat44_code = "020431E0 00000003"
+cheat44_enable = false
+
+cheat45_desc = "电脑方块A 红方块"
+cheat45_code = "020431E0 00000004"
+cheat45_enable = false
+
+cheat46_desc = "电脑方块A 水晶方块"
+cheat46_code = "020431E0 00000005"
+cheat46_enable = false
+
+cheat47_desc = "电脑方块A 蓝宝石"
+cheat47_code = "020431E0 00000009"
+cheat47_enable = false
+
+cheat48_desc = "电脑方块A 黄宝石"
+cheat48_code = "020431E0 0000000A"
+cheat48_enable = false
+
+cheat49_desc = "电脑方块A 绿宝石"
+cheat49_code = "020431E0 0000000B"
+cheat49_enable = false
+
+cheat50_desc = "电脑方块A 红宝石"
+cheat50_code = "020431E0 0000000C"
+cheat50_enable = false
+
+cheat51_desc = "电脑方块B 蓝方块"
+cheat51_code = "020431E2 00000001"
+cheat51_enable = false
+
+cheat52_desc = "电脑方块B 黄方块"
+cheat52_code = "020431E2 00000002"
+cheat52_enable = false
+
+cheat53_desc = "电脑方块B 绿方块"
+cheat53_code = "020431E2 00000003"
+cheat53_enable = false
+
+cheat54_desc = "电脑方块B 红方块"
+cheat54_code = "020431E2 00000004"
+cheat54_enable = false
+
+cheat55_desc = "电脑方块B 水晶方块"
+cheat55_code = "020431E2 00000005"
+cheat55_enable = false
+
+cheat56_desc = "电脑方块B 蓝宝石"
+cheat56_code = "020431E2 00000009"
+cheat56_enable = false
+
+cheat57_desc = "电脑方块B 黄宝石"
+cheat57_code = "020431E2 0000000A"
+cheat57_enable = false
+
+cheat58_desc = "电脑方块B 绿宝石"
+cheat58_code = "020431E2 0000000B"
+cheat58_enable = false
+
+cheat59_desc = "电脑方块B 红宝石"
+
+cheat59_desc = "对方攻击我方方块数 0"
+cheat59_code = "02043318 00000000"
+cheat59_enable = false
+
+cheat60_desc = "对方攻击我方方块数 99"
+cheat60_code = "02043318 00000063"
+cheat60_enable = false
+
+

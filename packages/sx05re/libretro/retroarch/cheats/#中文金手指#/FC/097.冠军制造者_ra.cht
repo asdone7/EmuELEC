@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[车速最高]ON"
+cheat0_code = "00B6:FF"
+cheat0_enable = false
+
+cheat1_desc = "[金钱最大]ON"
+cheat1_code = "0798:7F+0799:96+079A:98"
+cheat1_enable = false
+
+cheat2_desc = "[比赛胜出]ON"
+cheat2_code = "003F:01"
+cheat2_enable = false
+

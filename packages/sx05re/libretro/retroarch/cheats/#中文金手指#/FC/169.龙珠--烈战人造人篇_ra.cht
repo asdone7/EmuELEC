@@ -1,0 +1,266 @@
+cheats = 66
+
+cheat0_desc = "[牌的点数全部为Z]ON"
+cheat0_code = "04F2:08+04FA:08+0502:08+050A:08+0512:08"
+cheat0_enable = false
+
+cheat1_desc = "[第一张牌牌面]界"
+cheat1_code = "04F3:02"
+cheat1_enable = false
+
+cheat2_desc = "[第一张牌牌面]惑"
+cheat2_code = "04F3:03"
+cheat2_enable = false
+
+cheat3_desc = "[第一张牌牌面]龟"
+cheat3_code = "04F3:04"
+cheat3_enable = false
+
+cheat4_desc = "[第一张牌牌面]神"
+cheat4_code = "04F3:05"
+cheat4_enable = false
+
+cheat5_desc = "[第一张牌牌面]造"
+cheat5_code = "04F3:06"
+cheat5_enable = false
+
+cheat6_desc = "[第一张牌牌面]魔"
+cheat6_code = "04F3:01"
+cheat6_enable = false
+
+cheat7_desc = "[第一张牌牌面]Z"
+cheat7_code = "04F3:07"
+cheat7_enable = false
+
+cheat8_desc = "[第一张牌的辅助能力]心"
+cheat8_code = "04F4:01"
+cheat8_enable = false
+
+cheat9_desc = "[第一张牌的辅助能力]杠铃"
+cheat9_code = "04F4:03"
+cheat9_enable = false
+
+cheat10_desc = "[第一张牌的辅助能力]脚"
+cheat10_code = "04F4:04"
+cheat10_enable = false
+
+cheat11_desc = "[第一张牌的辅助能力]拳头"
+cheat11_code = "04F4:05"
+cheat11_enable = false
+
+cheat12_desc = "[第一张牌的辅助能力]叹号"
+cheat12_code = "04F4:06"
+cheat12_enable = false
+
+cheat13_desc = "[第一张牌的辅助能力]Z"
+cheat13_code = "04F4:02"
+cheat13_enable = false
+
+cheat14_desc = "[第二张牌牌面]界"
+cheat14_code = "0503:02"
+cheat14_enable = false
+
+cheat15_desc = "[第二张牌牌面]惑"
+cheat15_code = "0503:03"
+cheat15_enable = false
+
+cheat16_desc = "[第二张牌牌面]龟"
+cheat16_code = "0503:04"
+cheat16_enable = false
+
+cheat17_desc = "[第二张牌牌面]神"
+cheat17_code = "0503:05"
+cheat17_enable = false
+
+cheat18_desc = "[第二张牌牌面]造"
+cheat18_code = "0503:06"
+cheat18_enable = false
+
+cheat19_desc = "[第二张牌牌面]魔"
+cheat19_code = "0503:01"
+cheat19_enable = false
+
+cheat20_desc = "[第二张牌牌面]Z"
+cheat20_code = "0503:07"
+cheat20_enable = false
+
+cheat21_desc = "[第二张牌的辅助能力]心"
+cheat21_code = "0504:01"
+cheat21_enable = false
+
+cheat22_desc = "[第二张牌的辅助能力]杠铃"
+cheat22_code = "0504:03"
+cheat22_enable = false
+
+cheat23_desc = "[第二张牌的辅助能力]脚"
+cheat23_code = "0504:04"
+cheat23_enable = false
+
+cheat24_desc = "[第二张牌的辅助能力]拳头"
+cheat24_code = "0504:05"
+cheat24_enable = false
+
+cheat25_desc = "[第二张牌的辅助能力]叹号"
+cheat25_code = "0504:06"
+cheat25_enable = false
+
+cheat26_desc = "[第二张牌的辅助能力]Z"
+cheat26_code = "0504:02"
+cheat26_enable = false
+
+cheat27_desc = "[第三张牌牌面]界"
+cheat27_code = "050B:02"
+cheat27_enable = false
+
+cheat28_desc = "[第三张牌牌面]惑"
+cheat28_code = "050B:03"
+cheat28_enable = false
+
+cheat29_desc = "[第三张牌牌面]龟"
+cheat29_code = "050B:04"
+cheat29_enable = false
+
+cheat30_desc = "[第三张牌牌面]神"
+cheat30_code = "050B:05"
+cheat30_enable = false
+
+cheat31_desc = "[第三张牌牌面]造"
+cheat31_code = "050B:06"
+cheat31_enable = false
+
+cheat32_desc = "[第三张牌牌面]魔"
+cheat32_code = "050B:01"
+cheat32_enable = false
+
+cheat33_desc = "[第三张牌牌面]Z"
+cheat33_code = "050B:07"
+cheat33_enable = false
+
+cheat34_desc = "[第三张牌的辅助能力]心"
+cheat34_code = "050C:01"
+cheat34_enable = false
+
+cheat35_desc = "[第三张牌的辅助能力]杠铃"
+cheat35_code = "050C:03"
+cheat35_enable = false
+
+cheat36_desc = "[第三张牌的辅助能力]脚"
+cheat36_code = "050C:04"
+cheat36_enable = false
+
+cheat37_desc = "[第三张牌的辅助能力]拳头"
+cheat37_code = "050C:05"
+cheat37_enable = false
+
+cheat38_desc = "[第三张牌的辅助能力]叹号"
+cheat38_code = "050C:06"
+cheat38_enable = false
+
+cheat39_desc = "[第三张牌的辅助能力]Z"
+cheat39_code = "050C:02"
+cheat39_enable = false
+
+cheat40_desc = "[第四张牌牌面]界"
+cheat40_code = "0513:02"
+cheat40_enable = false
+
+cheat41_desc = "[第四张牌牌面]惑"
+cheat41_code = "0513:03"
+cheat41_enable = false
+
+cheat42_desc = "[第四张牌牌面]龟"
+cheat42_code = "0513:04"
+cheat42_enable = false
+
+cheat43_desc = "[第四张牌牌面]神"
+cheat43_code = "0513:05"
+cheat43_enable = false
+
+cheat44_desc = "[第四张牌牌面]造"
+cheat44_code = "0513:06"
+cheat44_enable = false
+
+cheat45_desc = "[第四张牌牌面]魔"
+cheat45_code = "0513:01"
+cheat45_enable = false
+
+cheat46_desc = "[第四张牌牌面]Z"
+cheat46_code = "0513:07"
+cheat46_enable = false
+
+cheat47_desc = "[第四张牌的辅助能力]心"
+cheat47_code = "0514:01"
+cheat47_enable = false
+
+cheat48_desc = "[第四张牌的辅助能力]杠铃"
+cheat48_code = "0514:03"
+cheat48_enable = false
+
+cheat49_desc = "[第四张牌的辅助能力]脚"
+cheat49_code = "0514:04"
+cheat49_enable = false
+
+cheat50_desc = "[第四张牌的辅助能力]拳头"
+cheat50_code = "0514:05"
+cheat50_enable = false
+
+cheat51_desc = "[第四张牌的辅助能力]叹号"
+cheat51_code = "0514:06"
+cheat51_enable = false
+
+cheat52_desc = "[第四张牌的辅助能力]Z"
+cheat52_code = "0514:02"
+cheat52_enable = false
+
+cheat53_desc = "[第五张牌牌面]界"
+cheat53_code = "051C:02"
+cheat53_enable = false
+
+cheat54_desc = "[第五张牌牌面]惑"
+cheat54_code = "051C:03"
+cheat54_enable = false
+
+cheat55_desc = "[第五张牌牌面]龟"
+cheat55_code = "051C:04"
+cheat55_enable = false
+
+cheat56_desc = "[第五张牌牌面]神"
+cheat56_code = "051C:05"
+cheat56_enable = false
+
+cheat57_desc = "[第五张牌牌面]造"
+cheat57_code = "051C:06"
+cheat57_enable = false
+
+cheat58_desc = "[第五张牌牌面]魔"
+cheat58_code = "051C:01"
+cheat58_enable = false
+
+cheat59_desc = "[第五张牌牌面]Z"
+cheat59_code = "051C:07"
+cheat59_enable = false
+
+cheat60_desc = "[第五张牌的辅助能力]心"
+cheat60_code = "051E:01"
+cheat60_enable = false
+
+cheat61_desc = "[第五张牌的辅助能力]杠铃"
+cheat61_code = "051E:03"
+cheat61_enable = false
+
+cheat62_desc = "[第五张牌的辅助能力]脚"
+cheat62_code = "051E:04"
+cheat62_enable = false
+
+cheat63_desc = "[第五张牌的辅助能力]拳头"
+cheat63_code = "051E:05"
+cheat63_enable = false
+
+cheat64_desc = "[第五张牌的辅助能力]叹号"
+cheat64_code = "051E:06"
+cheat64_enable = false
+
+cheat65_desc = "[第五张牌的辅助能力]Z"
+cheat65_code = "051E:02"
+cheat65_enable = false
+

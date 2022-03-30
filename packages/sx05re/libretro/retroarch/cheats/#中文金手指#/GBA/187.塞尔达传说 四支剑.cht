@@ -1,0 +1,63 @@
+cheats = 15
+
+cheat0_desc = "宝石量*255 on"
+cheat0_code = "02002340 000000FF"
+cheat0_enable = false
+
+cheat1_desc = "血不减"
+cheat1_code = "0200234D 000000A0"
+cheat1_enable = false
+
+cheat2_desc = "钱"
+cheat2_code = "02002340 000000E7+02002341 00000003+02002341 00000003"
+cheat2_enable = false
+
+cheat3_desc = "无限炸弹"
+cheat3_code = "02002323 00000063"
+cheat3_enable = false
+
+cheat4_desc = "气力槽"
+cheat4_code = "0200234E 00000080"
+cheat4_enable = false
+
+cheat5_desc = "剑 1级剑"
+cheat5_code = "0200233D 00000001"
+cheat5_enable = false
+
+cheat6_desc = "剑 2级剑"
+cheat6_code = "0200233D 00000002"
+cheat6_enable = false
+
+cheat7_desc = "剑 3级剑"
+cheat7_code = "0200233D 00000003"
+cheat7_enable = false
+
+cheat8_desc = "剑 4级剑"
+cheat8_code = "0200233D 00000004"
+cheat8_enable = false
+
+cheat9_desc = "箭"
+cheat9_code = "02002357 00000063"
+cheat9_enable = false
+
+cheat10_desc = "箭不减(黑暗世界练靶场)"
+cheat10_code = "02042FE5 00000005"
+cheat10_enable = false
+
+cheat11_desc = "无限时(黑暗世界)"
+cheat11_code = "02042D8C 0000001E"
+cheat11_enable = false
+
+cheat12_desc = "无限时(黑暗世界) OFF"
+cheat12_code = "02000000 00000000"
+cheat12_enable = false
+
+cheat13_desc = "钥匙"
+cheat13_code = "0200234F 00000009"
+cheat13_enable = false
+
+cheat14_desc = "隐身"
+cheat14_code = "020439DA 00000064"
+cheat14_enable = false
+
+

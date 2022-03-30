@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[无限时间]ON"
+cheat0_code = "002C:63"
+cheat0_enable = false
+
+cheat1_desc = "[无限人数]ON"
+cheat1_code = "0032:09"
+cheat1_enable = false
+

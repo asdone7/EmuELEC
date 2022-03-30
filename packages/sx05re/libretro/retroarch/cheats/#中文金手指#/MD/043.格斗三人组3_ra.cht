@@ -1,0 +1,166 @@
+cheats = 41
+
+cheat0_desc = "[P1 角色]AXEL"
+cheat0_code = "FFDF0C:06"
+cheat0_enable = false
+
+cheat1_desc = "[P1 角色]BLAZE"
+cheat1_code = "FFDF0C:08"
+cheat1_enable = false
+
+cheat2_desc = "[P1 角色]SKATE"
+cheat2_code = "FFDF0C:0A"
+cheat2_enable = false
+
+cheat3_desc = "[P1 角色]ZAN"
+cheat3_code = "FFDF0C:04"
+cheat3_enable = false
+
+cheat4_desc = "[P1 角色]袋鼠"
+cheat4_code = "FFDF0C:0C"
+cheat4_enable = false
+
+cheat5_desc = "[P1 角色]隐藏人物.A"
+cheat5_code = "FFDF0C:00"
+cheat5_enable = false
+
+cheat6_desc = "[P1 角色]隐藏人物.B"
+cheat6_code = "FFDF0C:02"
+cheat6_enable = false
+
+cheat7_desc = "[P1 生命数]ON"
+cheat7_code = "FFDF8A:09"
+cheat7_enable = false
+
+cheat8_desc = "[P1 体力值]ON"
+cheat8_code = "FFDF6D:34"
+cheat8_enable = false
+
+cheat9_desc = "[P1 角色]AXEL"
+cheat9_code = "FFDF0C:06"
+cheat9_enable = false
+
+cheat10_desc = "[P1 角色]BLAZE"
+cheat10_code = "FFDF0C:08"
+cheat10_enable = false
+
+cheat11_desc = "[P1 角色]SKATE"
+cheat11_code = "FFDF0C:0A"
+cheat11_enable = false
+
+cheat12_desc = "[P1 角色]ZAN"
+cheat12_code = "FFDF0C:04"
+cheat12_enable = false
+
+cheat13_desc = "[P1 角色]袋鼠"
+cheat13_code = "FFDF0C:0C"
+cheat13_enable = false
+
+cheat14_desc = "[P1 角色]隐藏人物.A"
+cheat14_code = "FFDF0C:00"
+cheat14_enable = false
+
+cheat15_desc = "[P1 角色]隐藏人物.B"
+cheat15_code = "FFDF0C:02"
+cheat15_enable = false
+
+cheat16_desc = "[P1 生命数]ON"
+cheat16_code = "FFDF8A:09"
+cheat16_enable = false
+
+cheat17_desc = "[P1 体力值]ON"
+cheat17_code = "FFDF6D:34"
+cheat17_enable = false
+
+cheat18_desc = "[P1 能量槽]ON"
+cheat18_code = "FFF616:90"
+cheat18_enable = false
+
+cheat19_desc = "[P2 角色]AXEL"
+cheat19_code = "FFE00C:06"
+cheat19_enable = false
+
+cheat20_desc = "[P2 角色]BLAZE"
+cheat20_code = "FFE00C:08"
+cheat20_enable = false
+
+cheat21_desc = "[P2 角色]SKATE"
+cheat21_code = "FFE00C:0A"
+cheat21_enable = false
+
+cheat22_desc = "[P2 角色]ZAN"
+cheat22_code = "FFE00C:04"
+cheat22_enable = false
+
+cheat23_desc = "[P2 角色]袋鼠"
+cheat23_code = "FFE00C:0C"
+cheat23_enable = false
+
+cheat24_desc = "[P2 角色]隐藏人物.A"
+cheat24_code = "FFE00C:00"
+cheat24_enable = false
+
+cheat25_desc = "[P2 角色]隐藏人物.B"
+cheat25_code = "FFE00C:02"
+cheat25_enable = false
+
+cheat26_desc = "[P2 生命数]ON"
+cheat26_code = "FFE08A:09"
+cheat26_enable = false
+
+cheat27_desc = "[P2 体力值]ON"
+cheat27_code = "FFE06D:34"
+cheat27_enable = false
+
+cheat28_desc = "[P2 能量槽]ON"
+cheat28_code = "FFF618:C0"
+cheat28_enable = false
+
+cheat29_desc = "[选择关卡(进入标题时)].NONE."
+cheat29_code = "FFFB04:06"
+cheat29_enable = false
+
+cheat30_desc = "[选择关卡(进入标题时)]第二关"
+cheat30_code = "FFFB04:01"
+cheat30_enable = false
+
+cheat31_desc = "[选择关卡(进入标题时)]第三关"
+cheat31_code = "FFFB04:02"
+cheat31_enable = false
+
+cheat32_desc = "[选择关卡(进入标题时)]第四关"
+cheat32_code = "FFFB04:03"
+cheat32_enable = false
+
+cheat33_desc = "[选择关卡(进入标题时)]第五关"
+cheat33_code = "FFFB04:04"
+cheat33_enable = false
+
+cheat34_desc = "[选择关卡(进入标题时)]第六关"
+cheat34_code = "FFFB04:05"
+cheat34_enable = false
+
+cheat35_desc = "[选择关卡(进入标题时)]第七关-分支.A"
+cheat35_code = "FFFB02:01+FFFB03:00+FFFB04:06"
+cheat35_enable = false
+
+cheat36_desc = "[选择关卡(进入标题时)]第七关-分支.B"
+cheat36_code = "FFFB02:02+FFFB03:00+FFFB04:06"
+cheat36_enable = false
+
+cheat37_desc = "[AXEL超级绝技开启]ON"
+cheat37_code = "FFFF20:01"
+cheat37_enable = false
+
+cheat38_desc = "[SKATE超级绝技开启]ON"
+cheat38_code = "FFFF1E:01"
+cheat38_enable = false
+
+cheat39_desc = "[ZAN超级绝技开启]ON"
+cheat39_code = "FFFF1F:01"
+cheat39_enable = false
+
+cheat40_desc = "[一击必杀]ON"
+cheat40_code = "FFE16D:00+FFE26D:00+FFE36D:00+FFE46D:00+FFE56D:00"
+cheat40_enable = false
+

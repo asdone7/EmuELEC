@@ -1,0 +1,51 @@
+cheats = 12
+
+cheat0_desc = "#无限HP Leon Kennedy"
+cheat0_code = "800D06BE 00C8"
+cheat0_enable = false
+
+cheat1_desc = "#结局游戏"
+cheat1_code = "800D04E6 4022"
+cheat1_enable = false
+
+cheat2_desc = "#Extreme Battle Mode /解锁3级和Chris＆Ada角色"
+cheat2_code = "D00D04E6 0000+800D04E6 0100+800D0508 0200+800D050A 0002"
+cheat2_enable = false
+
+cheat3_desc = "#一击杀莱昂·肯尼迪"
+cheat3_code = "80041D70 FFFF+80041D72 2402"
+cheat3_enable = false
+
+cheat4_desc = "#总时间00.00.00莱昂·肯尼迪"
+cheat4_code = "800D5014 0000+800D5016 0000"
+cheat4_enable = false
+
+cheat5_desc = "#Final Stop Timer Leon Kennedy"
+cheat5_code = "800D51A2 0126"
+cheat5_enable = false
+
+cheat6_desc = "#无限时间逃离最后一个老板莱昂·肯尼迪"
+cheat6_code = "8002D35C 0000"
+cheat6_enable = false
+
+cheat7_desc = "#10物品插槽Bag Leon Kennedy"
+cheat7_code = "300D5230 0001"
+cheat7_enable = false
+
+cheat8_desc = "#无处不在（L1 + R1）莱昂·肯尼迪"
+cheat8_code = "D00CEC6C 000C+800D4E0C 1F9C+D00CEC6C 000C+800D4E0E 8005"
+cheat8_enable = false
+
+cheat9_desc = "#里昂B"
+cheat9_code = "D00D054A 0000+800D054A 4000"
+cheat9_enable = false
+
+cheat10_desc = "#4生还者"
+cheat10_code = "300D04E4 0008"
+cheat10_enable = false
+
+cheat11_desc = "#4幸存者豆腐"
+cheat11_code = "300D04E4 0009"
+cheat11_enable = false
+
+

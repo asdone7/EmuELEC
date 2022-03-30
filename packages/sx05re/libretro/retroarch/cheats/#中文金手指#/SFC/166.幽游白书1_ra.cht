@@ -1,0 +1,46 @@
+cheats = 11
+
+cheat0_desc = "[对战时全角色可选]ON"
+cheat0_code = "7E021A12"
+cheat0_enable = false
+
+cheat1_desc = "[P1 体力值]ON"
+cheat1_code = "7E101F60"
+cheat1_enable = false
+
+cheat2_desc = "[P1 技无限]ON"
+cheat2_code = "7E102220"
+cheat2_enable = false
+
+cheat3_desc = "[P1 快速储气]ON"
+cheat3_code = "7E102160"
+cheat3_enable = false
+
+cheat4_desc = "[P1 灵气无限]ON"
+cheat4_code = "7E102420"
+cheat4_enable = false
+
+cheat5_desc = "[P1 后备灵气]ON"
+cheat5_code = "7E102C06"
+cheat5_enable = false
+
+cheat6_desc = "[P2 体力值]ON"
+cheat6_code = "7E119F60"
+cheat6_enable = false
+
+cheat7_desc = "[P2 技无限]ON"
+cheat7_code = "7E11A220"
+cheat7_enable = false
+
+cheat8_desc = "[P2 快速储气]ON"
+cheat8_code = "7E11A160"
+cheat8_enable = false
+
+cheat9_desc = "[P2 灵气无限]ON"
+cheat9_code = "7E11A420"
+cheat9_enable = false
+
+cheat10_desc = "[P2 后备灵气]ON"
+cheat10_code = "7E11AC06"
+cheat10_enable = false
+

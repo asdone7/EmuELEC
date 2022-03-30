@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[Argent Infini]On"
+cheat0_code = "1F1B43:FF"
+cheat0_enable = false
+
+cheat1_desc = "[Energie Infinie]On"
+cheat1_code = "1F1BB7:14"
+cheat1_enable = false
+
+cheat2_desc = "[Vies Infinies]On"
+cheat2_code = "1F1BB8:09"
+cheat2_enable = false
+

@@ -1,0 +1,202 @@
+cheats = 50
+
+cheat0_desc = "[当前体力]ON"
+cheat0_code = "7E0ACE28"
+cheat0_enable = false
+
+cheat1_desc = "[体力上限]ON"
+cheat1_code = "7E0ACA28"
+cheat1_enable = false
+
+cheat2_desc = "[DP值]ON"
+cheat2_code = "7E0AD6E7+7E0AD703"
+cheat2_enable = false
+
+cheat3_desc = "[攻击力]ON"
+cheat3_code = "7E0ADE63"
+cheat3_enable = false
+
+cheat4_desc = "[防御力]ON"
+cheat4_code = "7E0ADC63"
+cheat4_enable = false
+
+cheat5_desc = "[全暗之力]ON"
+cheat5_code = "7E0AA207"
+cheat5_enable = false
+
+cheat6_desc = "[变身]普通人"
+cheat6_code = "7E0AD400"
+cheat6_enable = false
+
+cheat7_desc = "[变身]骑士"
+cheat7_code = "7E0AD401"
+cheat7_enable = false
+
+cheat8_desc = "[变身]火焰人"
+cheat8_code = "7E0AD402"
+cheat8_enable = false
+
+cheat9_desc = "[隐身]ON"
+cheat9_code = "7E1102800"
+cheat9_enable = false
+
+cheat10_desc = "[首位道具变更]红宝石"
+cheat10_code = "7E0AB401"
+cheat10_enable = false
+
+cheat11_desc = "[首位道具变更]监狱钥匙"
+cheat11_code = "7E0AB402"
+cheat11_enable = false
+
+cheat12_desc = "[首位道具变更]印加神像A"
+cheat12_code = "7E0AB403"
+cheat12_enable = false
+
+cheat13_desc = "[首位道具变更]印加神像B"
+cheat13_code = "7E0AB404"
+cheat13_enable = false
+
+cheat14_desc = "[首位道具变更]印加之旋律"
+cheat14_code = "7E0AB405"
+cheat14_enable = false
+
+cheat15_desc = "[首位道具变更]药草"
+cheat15_code = "7E0AB406"
+cheat15_enable = false
+
+cheat16_desc = "[首位道具变更]蓝色碎片"
+cheat16_code = "7E0AB407"
+cheat16_enable = false
+
+cheat17_desc = "[首位道具变更]风之旋律"
+cheat17_code = "7E0AB408"
+cheat17_enable = false
+
+cheat18_desc = "[首位道具变更]罗拉之旋律"
+cheat18_code = "7E0AB409"
+cheat18_enable = false
+
+cheat19_desc = "[首位道具变更]肉骨头"
+cheat19_code = "7E0AB40A"
+cheat19_enable = false
+
+cheat20_desc = "[首位道具变更]矿山钥匙A"
+cheat20_code = "7E0AB40B"
+cheat20_enable = false
+
+cheat21_desc = "[首位道具变更]矿山钥匙B"
+cheat21_code = "7E0AB40C"
+cheat21_enable = false
+
+cheat22_desc = "[首位道具变更]回忆之旋律"
+cheat22_code = "7E0AB40D"
+cheat22_enable = false
+
+cheat23_desc = "[首位道具变更]水晶球"
+cheat23_code = "7E0AB40E"
+cheat23_enable = false
+
+cheat24_desc = "[首位道具变更]电梯钥匙"
+cheat24_code = "7E0AB40F"
+cheat24_enable = false
+
+cheat25_desc = "[首位道具变更]宫殿钥匙"
+cheat25_code = "7E0AB410"
+cheat25_enable = false
+
+cheat26_desc = "[首位道具变更]净化石"
+cheat26_code = "7E0AB411"
+cheat26_enable = false
+
+cheat27_desc = "[首位道具变更]祈祷之石像"
+cheat27_code = "7E0AB412"
+cheat27_enable = false
+
+cheat28_desc = "[首位道具变更]拉姆雕像"
+cheat28_code = "7E0AB413"
+cheat28_enable = false
+
+cheat29_desc = "[首位道具变更]魔法粉"
+cheat29_code = "7E0AB414"
+cheat29_enable = false
+
+cheat30_desc = "[首位道具变更]蓝色日记本"
+cheat30_code = "7E0AB415"
+cheat30_enable = false
+
+cheat31_desc = "[首位道具变更]罗普的信"
+cheat31_code = "7E0AB416"
+cheat31_enable = false
+
+cheat32_desc = "[首位道具变更]项链石"
+cheat32_code = "7E0AB417"
+cheat32_enable = false
+
+cheat33_desc = "[首位道具变更]遗书"
+cheat33_code = "7E0AB418"
+cheat33_enable = false
+
+cheat34_desc = "[首位道具变更]茶壶"
+cheat34_code = "7E0AB419"
+cheat34_enable = false
+
+cheat35_desc = "[首位道具变更]蘑菇露滴"
+cheat35_code = "7E0AB41A"
+cheat35_enable = false
+
+cheat36_desc = "[首位道具变更]一包金子"
+cheat36_code = "7E0AB41B"
+cheat36_enable = false
+
+cheat37_desc = "[首位道具变更]黑色眼镜"
+cheat37_code = "7E0AB41C"
+cheat37_enable = false
+
+cheat38_desc = "[首位道具变更]美杜莎花"
+cheat38_code = "7E0AB41D"
+cheat38_enable = false
+
+cheat39_desc = "[首位道具变更]象形文字石板"
+cheat39_code = "7E0AB41E"
+cheat39_enable = false
+
+cheat40_desc = "[首位道具变更]象形文字石板"
+cheat40_code = "7E0AB41F"
+cheat40_enable = false
+
+cheat41_desc = "[首位道具变更]象形文字石板"
+cheat41_code = "7E0AB420"
+cheat41_enable = false
+
+cheat42_desc = "[首位道具变更]象形文字石板"
+cheat42_code = "7E0AB421"
+cheat42_enable = false
+
+cheat43_desc = "[首位道具变更]象形文字石板"
+cheat43_code = "7E0AB422"
+cheat43_enable = false
+
+cheat44_desc = "[首位道具变更]象形文字石板"
+cheat44_code = "7E0AB423"
+cheat44_enable = false
+
+cheat45_desc = "[首位道具变更]奥拉之玉"
+cheat45_code = "7E0AB424"
+cheat45_enable = false
+
+cheat46_desc = "[首位道具变更]罗拉的信"
+cheat46_code = "7E0AB425"
+cheat46_enable = false
+
+cheat47_desc = "[首位道具变更]爸爸的笔记"
+cheat47_code = "7E0AB426"
+cheat47_enable = false
+
+cheat48_desc = "[首位道具变更]水晶戒指"
+cheat48_code = "7E0AB427"
+cheat48_enable = false
+
+cheat49_desc = "[首位道具变更]红苹果"
+cheat49_code = "7E0AB428"
+cheat49_enable = false
+

@@ -1,0 +1,58 @@
+cheats = 14
+
+cheat0_desc = "[生命数]ON"
+cheat0_code = "004C:63"
+cheat0_enable = false
+
+cheat1_desc = "[血格]ON"
+cheat1_code = "05A0:24"
+cheat1_enable = false
+
+cheat2_desc = "[血格数最大]ON"
+cheat2_code = "0690:24"
+cheat2_enable = false
+
+cheat3_desc = "[隐身]ON"
+cheat3_code = "0680:FF"
+cheat3_enable = false
+
+cheat4_desc = "[神勇小白兔]ON"
+cheat4_code = "0034:00"
+cheat4_enable = false
+
+cheat5_desc = "[神勇小白兔能量]ON"
+cheat5_code = "003C:24"
+cheat5_enable = false
+
+cheat6_desc = "[月野兔]ON"
+cheat6_code = "0034:01"
+cheat6_enable = false
+
+cheat7_desc = "[月野兔能量]ON"
+cheat7_code = "003D:24"
+cheat7_enable = false
+
+cheat8_desc = "[怪鸭]ON"
+cheat8_code = "0034:02"
+cheat8_enable = false
+
+cheat9_desc = "[怪鸭能量]ON"
+cheat9_code = "003E:24"
+cheat9_enable = false
+
+cheat10_desc = "[独眼超小机器人]ON"
+cheat10_code = "0034:03"
+cheat10_enable = false
+
+cheat11_desc = "[独眼超小机器人能量]ON"
+cheat11_code = "003F:24"
+cheat11_enable = false
+
+cheat12_desc = "[神秘冲击波博士]ON"
+cheat12_code = "0034:04"
+cheat12_enable = false
+
+cheat13_desc = "[神秘冲击波博士能量]ON"
+cheat13_code = "0040:24"
+cheat13_enable = false
+

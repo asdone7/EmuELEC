@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[Crédits Infinis]On"
+cheat0_code = "1F17FF:09"
+cheat0_enable = false
+
+cheat1_desc = "[Invincible J1]On"
+cheat1_code = "1F179E:75"
+cheat1_enable = false
+
+cheat2_desc = "[Energie Infinie J1]On"
+cheat2_code = "1F17BD:04"
+cheat2_enable = false
+
+cheat3_desc = "[Vies Infinies J1]On"
+cheat3_code = "1F17FD:0A"
+cheat3_enable = false
+
+cheat4_desc = "[Invincible J2]On"
+cheat4_code = "1F179F:75"
+cheat4_enable = false
+
+cheat5_desc = "[Energie Infinie J2]On"
+cheat5_code = "1F17BE:04"
+cheat5_enable = false
+
+cheat6_desc = "[Vies Infinies J2]On"
+cheat6_code = "1F17FE:0A"
+cheat6_enable = false
+

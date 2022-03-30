@@ -1,0 +1,38 @@
+cheats = 9
+
+cheat0_desc = "[人物全齐（选人画面时解锁）]ON"
+cheat0_code = "005F:FC"
+cheat0_enable = false
+
+cheat1_desc = "[物品全满]ON"
+cheat1_code = "0200:09+0201:09+0202:09+0203:09+0204:09+0205:09+0206:09+0207:09+0208:09"
+cheat1_enable = false
+
+cheat2_desc = "[机车及游泳不死（普通情况下解锁）]ON"
+cheat2_code = "006C:00"
+cheat2_enable = false
+
+cheat3_desc = "[特殊状态]普通"
+cheat3_code = "006D:00+06B2:01"
+cheat3_enable = false
+
+cheat4_desc = "[特殊状态]气球"
+cheat4_code = "006D:40+06B2:08"
+cheat4_enable = false
+
+cheat5_desc = "[特殊状态]游泳"
+cheat5_code = "006D:80+06B2:06"
+cheat5_enable = false
+
+cheat6_desc = "[选关（若画面有问题，请先死掉一人）]第二关"
+cheat6_code = "0046:06+005E:01"
+cheat6_enable = false
+
+cheat7_desc = "[选关（若画面有问题，请先死掉一人）]第三关"
+cheat7_code = "0046:0F+005E:02"
+cheat7_enable = false
+
+cheat8_desc = "[选关（若画面有问题，请先死掉一人）]第四关"
+cheat8_code = "0046:19+005E:03"
+cheat8_enable = false
+

@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "子弹不减"
+cheat0_code = "0201574C 000000E7+0201574D 00000003"
+cheat0_enable = false
+
+cheat1_desc = "HP不减"
+cheat1_code = "02015708 000000E7+02015709 00000003"
+cheat1_enable = false
+
+

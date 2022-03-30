@@ -1,0 +1,202 @@
+cheats = 50
+
+cheat0_desc = "[道具]the key for the denzil's elevator"
+cheat0_code = "0583:01+0588:0B"
+cheat0_enable = false
+
+cheat1_desc = "[道具]a full bottle of medicine"
+cheat1_code = "0583:01+0588:03"
+cheat1_enable = false
+
+cheat2_desc = "[道具]an empty medicine"
+cheat2_code = "0583:01+0588:04"
+cheat2_enable = false
+
+cheat3_desc = "[道具]a red and white mushroom"
+cheat3_code = "0583:01+0588:05"
+cheat3_enable = false
+
+cheat4_desc = "[道具]a magical star plant"
+cheat4_code = "0583:01+0588:06"
+cheat4_enable = false
+
+cheat5_desc = "[道具]a long length of tough rope"
+cheat5_code = "0583:01+0588:07"
+cheat5_enable = false
+
+cheat6_desc = "[道具]a one ton weight"
+cheat6_code = "0583:01+0588:08"
+cheat6_enable = false
+
+cheat7_desc = "[道具]dizzp's door keyr"
+cheat7_code = "0583:01+0588:09"
+cheat7_enable = false
+
+cheat8_desc = "[道具]the key for dylan's elevator"
+cheat8_code = "0583:01+0588:0A"
+cheat8_enable = false
+
+cheat9_desc = "[道具]the key for grand dizzp's elevator"
+cheat9_code = "0583:01+0588:0C"
+cheat9_enable = false
+
+cheat10_desc = "[道具]dozp's door key"
+cheat10_code = "0583:01+0588:0D"
+cheat10_enable = false
+
+cheat11_desc = "[道具]dora's door key"
+cheat11_code = "0583:01+0588:0E"
+cheat11_enable = false
+
+cheat12_desc = "[道具]dylan's door key"
+cheat12_code = "0583:01+0588:0F"
+cheat12_enable = false
+
+cheat13_desc = "[道具]grand dizzp's door key"
+cheat13_code = "0583:01+0588:10"
+cheat13_enable = false
+
+cheat14_desc = "[道具]denzil's door key"
+cheat14_code = "0583:01+0588:11"
+cheat14_enable = false
+
+cheat15_desc = "[道具]daisy's door key"
+cheat15_code = "0583:01+0588:12"
+cheat15_enable = false
+
+cheat16_desc = "[道具]a bridgebuilder's sharp axe"
+cheat16_code = "0583:01+0588:13"
+cheat16_enable = false
+
+cheat17_desc = "[道具]an aqua lung for under water"
+cheat17_code = "0583:01+0588:14"
+cheat17_enable = false
+
+cheat18_desc = "[道具]a pair of flippers for swimming"
+cheat18_code = "0583:01+0588:15"
+cheat18_enable = false
+
+cheat19_desc = "[道具]拼图"
+cheat19_code = "0583:01+0588:16"
+cheat19_enable = false
+
+cheat20_desc = "[道具]a heavy rock"
+cheat20_code = "0583:01+0588:1E"
+cheat20_enable = false
+
+cheat21_desc = "[道具]a magic green bean"
+cheat21_code = "0583:01+0588:1D"
+cheat21_enable = false
+
+cheat22_desc = "[道具]a heavy bag of gold coins"
+cheat22_code = "0583:01+0588:1C"
+cheat22_enable = false
+
+cheat23_desc = "[道具]a tasty looking cooked chicken"
+cheat23_code = "0583:01+0588:21"
+cheat23_enable = false
+
+cheat24_desc = "[道具]a key with a skull motif"
+cheat24_code = "0583:01+0588:22"
+cheat24_enable = false
+
+cheat25_desc = "[道具]an empty treasure chest"
+cheat25_code = "0583:01+0588:23"
+cheat25_enable = false
+
+cheat26_desc = "[道具]dora who has been turned into a frog"
+cheat26_code = "0583:01+0588:24"
+cheat26_enable = false
+
+cheat27_desc = "[道具]a crossbow with lots of bolts"
+cheat27_code = "0583:01+0588:25"
+cheat27_enable = false
+
+cheat28_desc = "[道具]a very strong crowbar"
+cheat28_code = "0583:01+0588:26"
+cheat28_enable = false
+
+cheat29_desc = "[道具]a thick persian rug"
+cheat29_code = "0583:01+0588:27"
+cheat29_enable = false
+
+cheat30_desc = "[道具]a portcullis winch wheel"
+cheat30_code = "0583:01+0588:28"
+cheat30_enable = false
+
+cheat31_desc = "[道具]a complete d.i.y. rope bridge kit"
+cheat31_code = "0583:01+0588:29"
+cheat31_enable = false
+
+cheat32_desc = "[道具]a warm golden dragon egg"
+cheat32_code = "0583:01+0588:30"
+cheat32_enable = false
+
+cheat33_desc = "[道具]a small animal cage"
+cheat33_code = "0583:01+0588:32"
+cheat33_enable = false
+
+cheat34_desc = "[道具]a cage containing pogie the fluffle"
+cheat34_code = "0583:01+0588:33"
+cheat34_enable = false
+
+cheat35_desc = "[道具]a dry match"
+cheat35_code = "0583:01+0588:35"
+cheat35_enable = false
+
+cheat36_desc = "[道具]a pile of dry straw"
+cheat36_code = "0583:01+0588:36"
+cheat36_enable = false
+
+cheat37_desc = "[道具]an old medicine recipe"
+cheat37_code = "0583:01+0588:37"
+cheat37_enable = false
+
+cheat38_desc = "[道具]a bottle of snappy weed killer"
+cheat38_code = "0583:01+0588:38"
+cheat38_enable = false
+
+cheat39_desc = "[道具]a solid gold irish shamrock"
+cheat39_code = "0583:01+0588:39"
+cheat39_enable = false
+
+cheat40_desc = "[道具]a pair of brass cymbals"
+cheat40_code = "0583:01+0588:3A"
+cheat40_enable = false
+
+cheat41_desc = "[道具]the key for the ground elevator "
+cheat41_code = "0583:01+0588:3B"
+cheat41_enable = false
+
+cheat42_desc = "[道具]a large strong plank of wood"
+cheat42_code = "0583:01+0588:3C"
+cheat42_enable = false
+
+cheat43_desc = "[道具]some sticks of dynam ite"
+cheat43_code = "0583:01+0588:3D"
+cheat43_enable = false
+
+cheat44_desc = "[道具]zaks' protcullis winch handle"
+cheat44_code = "0583:01+0588:3E"
+cheat44_enable = false
+
+cheat45_desc = "[道具]a barrel of pirates rum"
+cheat45_code = "0583:01+0588:3F"
+cheat45_enable = false
+
+cheat46_desc = "[lives]ON"
+cheat46_code = "009A:03"
+cheat46_enable = false
+
+cheat47_desc = "[damage]ON"
+cheat47_code = "00F3:00"
+cheat47_enable = false
+
+cheat48_desc = "[五星,使用后解锁]1"
+cheat48_code = "0742:01"
+cheat48_enable = false
+
+cheat49_desc = "[五星,使用后解锁]0"
+cheat49_code = "0742:00"
+cheat49_enable = false
+

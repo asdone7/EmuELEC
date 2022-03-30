@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[体力无限]ON"
+cheat0_code = "009F:10"
+cheat0_enable = false
+
+cheat1_desc = "[半透明]ON"
+cheat1_code = "0578:80"
+cheat1_enable = false
+
+cheat2_desc = "[钱最多]ON"
+cheat2_code = "009A:E7+009B:03"
+cheat2_enable = false
+
+cheat3_desc = "[金最多]ON"
+cheat3_code = "009E:63"
+cheat3_enable = false
+
+cheat4_desc = "[弹药无限]ON"
+cheat4_code = "0528:63"
+cheat4_enable = false
+
+cheat5_desc = "[道具无限]ON"
+cheat5_code = "04E7:03+04E8:03+04E9:03+04EA:03+04EB:03+04EC:03+04ED:03+04EF:03+04F0:03+04F1:03+04F2:03+04F3:03+04F4:03+04F5:03"
+cheat5_enable = false
+
+cheat6_desc = "[能量无限]ON"
+cheat6_code = "0530:F0+0531:F0+0532:F0+0533:F0"
+cheat6_enable = false
+

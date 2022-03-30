@@ -1,0 +1,50 @@
+cheats = 12
+
+cheat0_desc = "[无限弹药]锁"
+cheat0_code = "FFD45C:5D+FFD45D:01+FFD45E:28+FFD45A:13"
+cheat0_enable = false
+
+cheat1_desc = "[特殊武器-ISM]火焰"
+cheat1_code = "FFD452:02"
+cheat1_enable = false
+
+cheat2_desc = "[特殊武器-ISM]定时炸弹"
+cheat2_code = "FFD452:04"
+cheat2_enable = false
+
+cheat3_desc = "[特殊武器-ISM]飞弹"
+cheat3_code = "FFD452:06"
+cheat3_enable = false
+
+cheat4_desc = "[特殊武器-ACS]重枪"
+cheat4_code = "FFD450:01"
+cheat4_enable = false
+
+cheat5_desc = "[特殊武器-ACS]激光"
+cheat5_code = "FFD450:03"
+cheat5_enable = false
+
+cheat6_desc = "[特殊武器-ACS]机枪"
+cheat6_code = "FFD450:00"
+cheat6_enable = false
+
+cheat7_desc = "[特殊武器-AVI]追弹"
+cheat7_code = "FFD44E:07"
+cheat7_enable = false
+
+cheat8_desc = "[特殊武器-AVI]直射爆弹"
+cheat8_code = "FFD44E:05"
+cheat8_enable = false
+
+cheat9_desc = "[特殊武器-AVI]蓄力爆弹"
+cheat9_code = "FFD44E:08"
+cheat9_enable = false
+
+cheat10_desc = "[无敌闪烁]锁"
+cheat10_code = "FFD3D4:44"
+cheat10_enable = false
+
+cheat11_desc = "[机甲不损]锁"
+cheat11_code = "FFD424:00+FFD425:00+FFD43E:00"
+cheat11_enable = false
+

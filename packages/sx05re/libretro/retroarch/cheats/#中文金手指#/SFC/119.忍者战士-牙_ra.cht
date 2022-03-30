@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[无敌]琐"
+cheat0_code = "7E082EA7"
+cheat0_enable = false
+
+cheat1_desc = "[体力]琐"
+cheat1_code = "7E18B2C0"
+cheat1_enable = false
+
+cheat2_desc = "[绝招]琐"
+cheat2_code = "7E019404"
+cheat2_enable = false
+
+cheat3_desc = "[时间]锁"
+cheat3_code = "7E019809+7E019900+7E019A09+7E019B00+7E019C09+7E019D00"
+cheat3_enable = false
+
+cheat4_desc = "[一击毙敌]琐"
+cheat4_code = "7E18A200+7E18AA00+7E18A600+7E18AE00"
+cheat4_enable = false
+

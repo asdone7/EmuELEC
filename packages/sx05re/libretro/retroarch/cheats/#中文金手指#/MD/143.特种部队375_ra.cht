@@ -1,0 +1,494 @@
+cheats = 123
+
+cheat0_desc = "[村泽拓也 HP] ON"
+cheat0_code = "FF928A:88+FF928B:13"
+cheat0_enable = false
+
+cheat1_desc = "[村泽拓也 射击武器] 火箭炮（关掉动画）"
+cheat1_code = "FF9290:B2+FF9291:10+FF9292:63"
+cheat1_enable = false
+
+cheat2_desc = "[村泽拓也 射击武器] 激光刀"
+cheat2_code = "FF9290:2A+FF9291:11+FF9292:63"
+cheat2_enable = false
+
+cheat3_desc = "[村泽拓也 射击武器] 破甲炮"
+cheat3_code = "FF9290:58+FF9291:10+FF9292:63"
+cheat3_enable = false
+
+cheat4_desc = "[村泽拓也 射击武器] 质子炮"
+cheat4_code = "FF9290:FE+FF9291:0F+FF9292:63"
+cheat4_enable = false
+
+cheat5_desc = "[村泽拓也 射击武器] 光子炮"
+cheat5_code = "FF9290:1C+FF9291:10+FF9292:63"
+cheat5_enable = false
+
+cheat6_desc = "[村泽拓也 格斗武器] 火箭炮（关掉动画）"
+cheat6_code = "FF9296:B2+FF9297:10+FF9298:63"
+cheat6_enable = false
+
+cheat7_desc = "[村泽拓也 格斗武器] 激光刀"
+cheat7_code = "FF9296:2A+FF9297:11+FF9298:63"
+cheat7_enable = false
+
+cheat8_desc = "[村泽拓也 格斗武器] 破甲炮"
+cheat8_code = "FF9296:58+FF9297:10+FF9298:63"
+cheat8_enable = false
+
+cheat9_desc = "[村泽拓也 格斗武器] 战斧"
+cheat9_code = "FF9296:48+FF9297:11+FF9298:63"
+cheat9_enable = false
+
+cheat10_desc = "[村泽拓也 控制模式] 友NPC"
+cheat10_code = "FF9276:9D"
+cheat10_enable = false
+
+cheat11_desc = "[村泽拓也 控制模式] 玩家"
+cheat11_code = "FF9276:20"
+cheat11_enable = false
+
+cheat12_desc = "[村泽拓也 控制模式] 电脑控制"
+cheat12_code = "FF9276:21"
+cheat12_enable = false
+
+cheat13_desc = "[村泽拓也 控制模式] 敌小兵"
+cheat13_code = "FF9276:03"
+cheat13_enable = false
+
+cheat14_desc = "[村泽拓也 控制模式] 敌老大"
+cheat14_code = "FF9276:8F"
+cheat14_enable = false
+
+cheat15_desc = "[村泽拓也 无限行动] ON"
+cheat15_code = "FF927A:00"
+cheat15_enable = false
+
+cheat16_desc = "[村泽拓也 等级] ON"
+cheat16_code = "FF926C:13"
+cheat16_enable = false
+
+cheat17_desc = "[村泽拓也 变换战机] 阿库拉多飞船"
+cheat17_code = "FF9288:5A+FF9289:07+FF92A4:7F+FF92A5:43"
+cheat17_enable = false
+
+cheat18_desc = "[村泽拓也 变换战机] 多雷德母舰"
+cheat18_code = "FF9288:4E+FF9289:04+FF92A4:7F+FF92A5:43+FF92A6:EO+FF92A7:00+FF92A8:00+FF92A9:0A"
+cheat18_enable = false
+
+cheat19_desc = "[村泽拓也 变换战机] 哈堡战舰"
+cheat19_code = "FF9288:1A+FF9289:05+FF92A4:E2+FF92A5:43"
+cheat19_enable = false
+
+cheat20_desc = "[村泽拓也 变换战机] 旋风运输机"
+cheat20_code = "FF9288:9E+FF9289:03+FF92A4:64+FF92A5:43+FF92A6:"
+cheat20_enable = false
+
+cheat21_desc = "[村泽拓也 变换战机] 奴库拉多飞船"
+cheat21_code = "FF9288:9A+FF9289:09+FF92A4:FD+FF92A5:63"
+cheat21_enable = false
+
+cheat22_desc = "[村泽拓也 变换战机] V-M11"
+cheat22_code = "FF9288:EE+FF9289:02+FF92A4:28+FF92A5:43"
+cheat22_enable = false
+
+cheat23_desc = "[村泽拓也 变换战机] V-M9"
+cheat23_code = "FF9288:A2+FF9289:02+FF92A4:16+FF92A5:43"
+cheat23_enable = false
+
+cheat24_desc = "[村泽拓也 变换战机] V-M8"
+cheat24_code = "FF9288:48+FF9289:01+FF92A4:C2+FF92A5:42"
+cheat24_enable = false
+
+cheat25_desc = "[村泽拓也 变换战机] V-M7"
+cheat25_code = "FF9288:4A+FF9289:02+FF92A4:04+FF92A5:43"
+cheat25_enable = false
+
+cheat26_desc = "[村泽拓也 变换战机] V-M6"
+cheat26_code = "FF9288:A0+FF9289:01+FF92A4:EO+FF92A5:42"
+cheat26_enable = false
+
+cheat27_desc = "[村泽拓也 变换战机] V-M6"
+cheat27_code = "FF9288:1A+FF9289:06+FF92A4:94+FF92A5:43"
+cheat27_enable = false
+
+cheat28_desc = "[村泽拓也 变换战机] V-A19"
+cheat28_code = "FF9288:9A+FF9289:0C+FF92A4:EE+FF92A5:63"
+cheat28_enable = false
+
+cheat29_desc = "[村泽拓也 变换战机] V-A18"
+cheat29_code = "FF9288:9A+FF9289:0B+FF92A4:A6+FF92A5:63"
+cheat29_enable = false
+
+cheat30_desc = "[村泽拓也 变换战机] V-A17"
+cheat30_code = "FF9288:DA+FF9289:0A+FF92A4:B8+FF92A5:63"
+cheat30_enable = false
+
+cheat31_desc = "[村泽拓也 变换战机] V-A16"
+cheat31_code = "FF9288:5A+FF9289:0B+FF92A4:B8+FF92A5:63"
+cheat31_enable = false
+
+cheat32_desc = "[村泽拓也 变换战机] V-A15"
+cheat32_code = "FF9288:DA+FF9289:08+FF92A4:DC+FF92A5:63"
+cheat32_enable = false
+
+cheat33_desc = "[村泽拓也 变换战机] V-A15（新）"
+cheat33_code = "FF9288:5A+FF9289:0C+FF92A4:DC+FF92A5:63"
+cheat33_enable = false
+
+cheat34_desc = "[村泽拓也 变换战机] V-A14"
+cheat34_code = "FF9288:5A+FF9289:0A+FF92A4:A6+FF92A5:63"
+cheat34_enable = false
+
+cheat35_desc = "[村泽拓也 变换战机] V-A13"
+cheat35_code = "FF9288:9A+FF9289:08+FF92A4:A6+FF92A5:63"
+cheat35_enable = false
+
+cheat36_desc = "[村泽拓也 变换战机] V-A12"
+cheat36_code = "FF9288:EA+FF9289:03+FF92A4:4C+FF92A5:63"
+cheat36_enable = false
+
+cheat37_desc = "[村泽拓也 变换战机] V-A11"
+cheat37_code = "FF9288:5A+FF9289:08+FF92A4:CA+FF92A5:63"
+cheat37_enable = false
+
+cheat38_desc = "[村泽拓也 变换战机] V-A10"
+cheat38_code = "FF9288:DA+FF9289:0B+FF92A4:CA+FF92A5:63"
+cheat38_enable = false
+
+cheat39_desc = "[村泽拓也 变换战机] V-A9"
+cheat39_code = "FF9288:5A+FF9289:09+FF92A4:94+FF92A5:63"
+cheat39_enable = false
+
+cheat40_desc = "[村泽拓也 变换战机] V-A8"
+cheat40_code = "FF9288:1A+FF9289:07+FF92A4:CA+FF92A5:63"
+cheat40_enable = false
+
+cheat41_desc = "[村泽拓也 变换战机] V-A7"
+cheat41_code = "FF9288:1A+FF9289:09+FF92A4:CA+FF92A5:63"
+cheat41_enable = false
+
+cheat42_desc = "[村泽拓也 变换战机] V-A6"
+cheat42_code = "FF9288:DA+FF9289:06+FF92A4:B8+FF92A5:63"
+cheat42_enable = false
+
+cheat43_desc = "[村泽拓也 变换战机] V-A5"
+cheat43_code = "FF9288:1A+FF9289:0A+FF92A4:CA+FF92A5:63"
+cheat43_enable = false
+
+cheat44_desc = "[村泽拓也 变换战机] V-A4"
+cheat44_code = "FF9288:DA+FF9289:07+FF92A4:B8+FF92A5:63"
+cheat44_enable = false
+
+cheat45_desc = "[村泽拓也 变换战机] V-A2"
+cheat45_code = "FF9288:9A+FF9289:06+FF92A4:A6+FF92A5:63"
+cheat45_enable = false
+
+cheat46_desc = "[村泽拓也 变换战机] V-A2A(最终BOSS)"
+cheat46_code = "FF9288:DA+FF9289:0C+FF92A0:D0+FF92A1:63+FF92A2:D6+FF92A3:63+FF92A4:DC+FF92A5:63"
+cheat46_enable = false
+
+cheat47_desc = "[村泽拓也 变换战机] V-AA5"
+cheat47_code = "FF9288:1A+FF9289:0C+FF92A0:DC+FF92A1:63"
+cheat47_enable = false
+
+cheat48_desc = "[村泽拓也 变换战机] V-AA2"
+cheat48_code = "FF9288:9A+FF9289:07+FF92A4:A6+FF92A5:63"
+cheat48_enable = false
+
+cheat49_desc = "[村泽拓也 变换战机] V-AM6"
+cheat49_code = "FF9288:F8+FF9289:01"
+cheat49_enable = false
+
+cheat50_desc = "[村泽拓也 变换战机] S-M11"
+cheat50_code = "FF9288:9A+FF9289:05+FF92A4:94+FF92A5:43"
+cheat50_enable = false
+
+cheat51_desc = "[村泽拓也 变换战机] S-M9"
+cheat51_code = "FF9288:9A+FF9289:04+FF92A4:94+FF92A5:43"
+cheat51_enable = false
+
+cheat52_desc = "[村泽拓也 变换战机] S-M7"
+cheat52_code = "FF9288:5A+FF9289:05+FF92A4:04+FF92A5:43"
+cheat52_enable = false
+
+cheat53_desc = "[村泽拓也 变换战机] S-M5"
+cheat53_code = "FF9288:DA+FF9289:04"
+cheat53_enable = false
+
+cheat54_desc = "[村泽拓也 变换战机] S-M1"
+cheat54_code = "FF9288:9A+FF9289:05"
+cheat54_enable = false
+
+cheat55_desc = "[村泽拓也 特殊武器] 金钢墙和修复-勿琐无限行动"
+cheat55_code = "FF9280:0F+FF929A:63"
+cheat55_enable = false
+
+cheat56_desc = "[村泽拓也 地图坐标] 左上"
+cheat56_code = "FF9282:01+FF9284:01"
+cheat56_enable = false
+
+cheat57_desc = "[村泽拓也 地图坐标] 左下"
+cheat57_code = "FF9282:01+FF9284:01"
+cheat57_enable = false
+
+cheat58_desc = "[村泽拓也 地图坐标] 中间"
+cheat58_code = "FF9282:08+FF9284:18"
+cheat58_enable = false
+
+cheat59_desc = "[村泽拓也 地图坐标] 右下"
+cheat59_code = "FF9282:0E+FF9284:2E"
+cheat59_enable = false
+
+cheat60_desc = "[村泽拓也 地图坐标] 右上"
+cheat60_code = "FF9282:0E+FF9284:01"
+cheat60_enable = false
+
+cheat61_desc = "[本巴斯库 射击武器] 火箭炮（关掉动画）"
+cheat61_code = "FF9216:B2+FF9217:10+FF9218:63"
+cheat61_enable = false
+
+cheat62_desc = "[本巴斯库 射击武器] 激光刀"
+cheat62_code = "FF9216:2A+FF9217:11+FF9218:63"
+cheat62_enable = false
+
+cheat63_desc = "[本巴斯库 射击武器] 破甲炮"
+cheat63_code = "FF9216:58+FF9217:10+FF9218:63"
+cheat63_enable = false
+
+cheat64_desc = "[本巴斯库 射击武器] 钟锤"
+cheat64_code = "FF9216:0C+FF9217:11+FF9218:63"
+cheat64_enable = false
+
+cheat65_desc = "[本巴斯库 射击武器] 激光炮"
+cheat65_code = "FF9216:E0+FF9217:0F+FF9218:63"
+cheat65_enable = false
+
+cheat66_desc = "[本巴斯库 射击武器] 机枪"
+cheat66_code = "FF9216:76+FF9217:10+FF9218:63"
+cheat66_enable = false
+
+cheat67_desc = "[本巴斯库 射击武器] 导弹"
+cheat67_code = "FF9216:94+FF9217:10+FF9218:63"
+cheat67_enable = false
+
+cheat68_desc = "[本巴斯库 格斗武器] 火箭炮（关掉动画）"
+cheat68_code = "FF921C:B2+FF921D:10+FF921E:63"
+cheat68_enable = false
+
+cheat69_desc = "[本巴斯库 格斗武器] 激光刀"
+cheat69_code = "FF921C:2A+FF921D:11+FF921E:63"
+cheat69_enable = false
+
+cheat70_desc = "[本巴斯库 格斗武器] 钟锤"
+cheat70_code = "FF921C:0C+FF921D:11+FF921E:63"
+cheat70_enable = false
+
+cheat71_desc = "[本巴斯库 格斗武器] 纲爪"
+cheat71_code = "FF921C:EE+FF921D:10+FF921E:63"
+cheat71_enable = false
+
+cheat72_desc = "[本巴斯库 格斗武器] 铁掌"
+cheat72_code = "FF921C:D0+FF921D:10+FF921E:63"
+cheat72_enable = false
+
+cheat73_desc = "[本巴斯库 控制模式] 友-电脑控制"
+cheat73_code = "FF91FC:96"
+cheat73_enable = false
+
+cheat74_desc = "[本巴斯库 控制模式] 玩家"
+cheat74_code = "FF91FC:20"
+cheat74_enable = false
+
+cheat75_desc = "[本巴斯库 控制模式] 敌-电脑控制"
+cheat75_code = "FF9276:03"
+cheat75_enable = false
+
+cheat76_desc = "[本巴斯库 未移动未攻击] ON"
+cheat76_code = "FF9200:00"
+cheat76_enable = false
+
+cheat77_desc = "[本巴斯库 等级] ON"
+cheat77_code = "FF91F2:13"
+cheat77_enable = false
+
+cheat78_desc = "[本巴斯库 变换战机] 阿库拉多飞船"
+cheat78_code = "FF920E:5A+FF920F:07"
+cheat78_enable = false
+
+cheat79_desc = "[本巴斯库 变换战机] V-M11"
+cheat79_code = "FF920E:EE+FF920F:02"
+cheat79_enable = false
+
+cheat80_desc = "[本巴斯库 变换战机] V-M9"
+cheat80_code = "FF920E:A2+FF920F:02"
+cheat80_enable = false
+
+cheat81_desc = "[本巴斯库 变换战机] V-M8"
+cheat81_code = "FF920E:48+FF920F:01"
+cheat81_enable = false
+
+cheat82_desc = "[本巴斯库 变换战机] V-M7"
+cheat82_code = "FF920E:4A+FF920F:02"
+cheat82_enable = false
+
+cheat83_desc = "[本巴斯库 变换战机] V-M6"
+cheat83_code = "FF920E:A0+FF920F:10"
+cheat83_enable = false
+
+cheat84_desc = "[本巴斯库 变换战机] 多雷德母舰"
+cheat84_code = "FF920E:4E+FF920F:04"
+cheat84_enable = false
+
+cheat85_desc = "[本巴斯库 变换战机] V-A13"
+cheat85_code = "FF920E:9A+FF920F:08"
+cheat85_enable = false
+
+cheat86_desc = "[本巴斯库 变换战机] V-A11"
+cheat86_code = "FF920E:5A+FF920F:08"
+cheat86_enable = false
+
+cheat87_desc = "[本巴斯库 变换战机] V-A15"
+cheat87_code = "FF920E:DA+FF920F:08"
+cheat87_enable = false
+
+cheat88_desc = "[本巴斯库 变换战机] V-A8"
+cheat88_code = "FF920E:1A+FF920F:07"
+cheat88_enable = false
+
+cheat89_desc = "[本巴斯库 变换战机] V-A7"
+cheat89_code = "FF920E:1A+FF920F:09"
+cheat89_enable = false
+
+cheat90_desc = "[本巴斯库 变换战机] V-AA2"
+cheat90_code = "FF920E:9A+FF920F:07"
+cheat90_enable = false
+
+cheat91_desc = "[本巴斯库 变换战机] V-AM6"
+cheat91_code = "FF920E:F8+FF920F:01"
+cheat91_enable = false
+
+cheat92_desc = "[本巴斯库 变换战机] S-M1"
+cheat92_code = "FF920E:9A+FF920F:05"
+cheat92_enable = false
+
+cheat93_desc = "[本巴斯库 变换战机] S-M9"
+cheat93_code = "FF920E:9A+FF920F:04"
+cheat93_enable = false
+
+cheat94_desc = "[本巴斯库 变换战机] 哈堡战舰"
+cheat94_code = "FF920E:1A+FF920F:05"
+cheat94_enable = false
+
+cheat95_desc = "[本巴斯库 移动到大地图] X:01 Y:01（左上角）"
+cheat95_code = "FF9208:01+FF920A:01"
+cheat95_enable = false
+
+cheat96_desc = "[本巴斯库 移动到大地图] X:01 Y:24（上边）"
+cheat96_code = "FF9208:01+FF920A:18"
+cheat96_enable = false
+
+cheat97_desc = "[本巴斯库 移动到大地图] X:01 Y:46（右上角）"
+cheat97_code = "FF9208:01+FF920A:2E"
+cheat97_enable = false
+
+cheat98_desc = "[本巴斯库 移动到大地图] X:14 Y:01（左边）"
+cheat98_code = "FF9208:0E+FF920A:01"
+cheat98_enable = false
+
+cheat99_desc = "[本巴斯库 移动到大地图] X:14 Y:24（中间）"
+cheat99_code = "FF9208:0E+FF920A:18"
+cheat99_enable = false
+
+cheat100_desc = "[本巴斯库 移动到大地图] X:14 Y:46（右边）"
+cheat100_code = "FF9208:0E+FF920A:2E"
+cheat100_enable = false
+
+cheat101_desc = "[本巴斯库 移动到大地图] X:22 Y:01（左下角）"
+cheat101_code = "FF9208:16+FF920A:01"
+cheat101_enable = false
+
+cheat102_desc = "[本巴斯库 移动到大地图] X:22 Y:24（下边）"
+cheat102_code = "FF9208:16+FF920A:18"
+cheat102_enable = false
+
+cheat103_desc = "[本巴斯库 移动到大地图] X:22 Y:46（右下角）"
+cheat103_code = "FF9208:16+FF920A:2E"
+cheat103_enable = false
+
+cheat104_desc = "[本巴斯库 特殊武器] ON（物理系不能琐住未移动未攻击）"
+cheat104_code = "FF9206:0F+FF9220:63"
+cheat104_enable = false
+
+cheat105_desc = "[马克来昂HP] ON"
+cheat105_code = "FF9304:88+FF9305:13"
+cheat105_enable = false
+
+cheat106_desc = "[本巴斯库 HP] ON"
+cheat106_code = "FF9210:88+FF9211:13"
+cheat106_enable = false
+
+cheat107_desc = "[哈利、凯布森 HP] ON"
+cheat107_code = "FF93F8:88+FF93F9:13"
+cheat107_enable = false
+
+cheat108_desc = "[艾迪雷 HP] ON"
+cheat108_code = "FF93F8:88+FF93F9:13"
+cheat108_enable = false
+
+cheat109_desc = "[妮娜.露 HP] ON"
+cheat109_code = "FF9472:88+FF9473:13"
+cheat109_enable = false
+
+cheat110_desc = "[齐.旺 HP]  ON"
+cheat110_code = "FF94EC:88+FF94ED:13"
+cheat110_enable = false
+
+cheat111_desc = "[丽子 HP]  ON"
+cheat111_code = "FF9566:88+FF9567:13"
+cheat111_enable = false
+
+cheat112_desc = "[基尔-罗亚多 HP]  ON"
+cheat112_code = "FF95E0:88+FF95E1:13"
+cheat112_enable = false
+
+cheat113_desc = "[全角色加入] ON"
+cheat113_code = "FF91FA:01+FF9208:01+FF9209:00+FF920A:01+FF920B:00+FF9274:01+FF9282:02+FF9283:00+FF9284:02+FF9285:00+FF92EE:01+FF92FC:03+FF92FD:00+FF92FE:03+FF92FF:00+FF9368:01+FF9376:04+FF9377:00+FF9378:04+FF9379:00+FF93E2:01+FF93F0:05+FF93F1:00+FF93F2:05+FF93F3:00+FF945C:01+FF946A:06+FF946B:00+FF946C:06+FF946D:00+FF94D6:01+FF94E4:07+FF94E5:00+FF94E6:07+FF94E7:00+FF9550:01+FF955E:08+FF955F:00+FF9560:08+FF9561:00+FF95CA:01+FF95D8:09+FF95D9:00+FF95DA:09+FF95DB:00"
+cheat113_enable = false
+
+cheat114_desc = "[回合数]ON"
+cheat114_code = "FFB69E:01+FFB69F:00"
+cheat114_enable = false
+
+cheat115_desc = "[全员满HP]ON"
+cheat115_code = "FF9210:0F+FF9211:27+FF928A:0F+FF928B:27+FF9304:0F+FF9305:27+FF937E:0F+FF937F:27+FF93F8:0F+FF93F9:27+FF9472:0F+FF9473:27+FF94EC:0F+FF94ED:27+FF9566:0F+FF9567:27+FF95E0:0F+FF95E1:27"
+cheat115_enable = false
+
+cheat116_desc = "[全员满MP]ON"
+cheat116_code = "FF9220:63+FF929A:63+FF9314:63+FF938E:63+FF9408:63+FF9482:63+FF94FC:63+FF9576:63+FF95F0:63"
+cheat116_enable = false
+
+cheat117_desc = "[全员满等级]ON"
+cheat117_code = "FF91F2:62+FF926C:62+FF92E6:62+FF9360:62+FF93DA:62+FF9454:62+FF94CE:62+FF9548:62+FF95C2:62"
+cheat117_enable = false
+
+cheat118_desc = "[全员满经验]ON"
+cheat118_code = "FF91F4:0F+FF91F5:27+FF926E:0F+FF926F:27+FF92E8:0F+FF92E9:27+FF9362:0F+FF9363:27+FF93DC:0F+FF93DD:27+FF9456:0F+FF9457:27+FF94D0:0F+FF94D1:27+FF954A:0F+FF954B:27+FF95C4:0F+FF95C5:27"
+cheat118_enable = false
+
+cheat119_desc = "[全员精神全开]ON"
+cheat119_code = "FF9206:0F+FF9280:0F+FF92FA:0F+FF9374:0F+FF93EE:0F+FF9468:0F+FF94E2:0F+FF955C:0F+FF95D6:0F"
+cheat119_enable = false
+
+cheat120_desc = "[全员无限行动]ON"
+cheat120_code = "FF9200:00+FF927A:00+FF92F4:00+FF936E:00+FF93E8:00+FF9462:00+FF94DC:00+FF9556:00+FF95D0:00"
+cheat120_enable = false
+
+cheat121_desc = "[NPC&建筑物HP]ON"
+cheat121_code = "FF965A:0F+FF965B:27+FF96D4:0F+FF96D5:27+FF974E:0F+FF974F:27+FF97C8:0F+FF97C9:27+FF9842:0F+FF9843:27+FF98BC:0F+FF98BD:27+FF9936:0F+FF9937:27+FF99B0:0F+FF99B1:27+FF9A2A:0F+FF9A2B:27+FF9AA4:0F+FF9AA5:27+FF9B1E:0F+FF9B1F:27+FF9B98:0F+FF9B99:27+FF9C12:0F+FF9C13:27+FF9C8C:0F+FF9C8D:27+FF9D06:0F+FF9D07:27+FF9D80:0F+FF9D81:27+FF9DFA:0F+FF9DFB:27+FF9E74:0F+FF9E75:27+FF9EEE:0F+FF9EEF:27+FF9F68:0F+FF9F69:27+FF9FE2:0F+FF9FE3:27"
+cheat121_enable = false
+
+cheat122_desc = "[敌人一击死]ON"
+cheat122_code = "FFA05C:01+FFA05D:00+FFA0D6:01+FFA0D7:00+FFA150:01+FFA151:00+FFA1CA:01+FFA1CB:00+FFA244:01+FFA245:00+FFA2BE:01+FFA2BF:00+FFA338:01+FFA339:00+FFA3B2:01+FFA3B3:00+FFA42C:01+FFA42D:00+FFA4A6:01+FFA4A7:00+FFA520:01+FFA521:00+FFA59A:01+FFA59B:00+FFA614:01+FFA615:00+FFA68E:01+FFA68F:00+FFA708:01+FFA709:00+FFA782:01+FFA783:00+FFA7FC:01+FFA7FD:00+FFA876:01+FFA877:00+FFA8F0:01+FFA8F1:00+FFA96A:01+FFA96B:00+FFA9E4:01+FFA9E5:00"
+cheat122_enable = false
+

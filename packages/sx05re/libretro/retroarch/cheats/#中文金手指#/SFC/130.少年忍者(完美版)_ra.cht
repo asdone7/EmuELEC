@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[无限金钱]ON"
+cheat0_code = "7E1EDEFF+7E1EDFFF"
+cheat0_enable = false
+
+cheat1_desc = "[P1 无限能源]ON"
+cheat1_code = "7E1E86FF"
+cheat1_enable = false
+
+cheat2_desc = "[P2 无限能源]ON"
+cheat2_code = "7E1E88FF"
+cheat2_enable = false
+
+cheat3_desc = "[P1 无限忍法]ON"
+cheat3_code = "7E1ED605"
+cheat3_enable = false
+
+cheat4_desc = "[P2 无限忍法]ON"
+cheat4_code = "7E1ED805"
+cheat4_enable = false
+

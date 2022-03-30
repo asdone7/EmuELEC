@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[WD]ON"
+cheat0_code = "7E0014D400+7E14D501"
+cheat0_enable = false
+
+cheat1_desc = "[无限飞行]ON"
+cheat1_code = "7E00196264+7E196300"
+cheat1_enable = false
+
+cheat2_desc = "[全武器]ON"
+cheat2_code = "7E006601+7E006700+7E006801+7E006900+7E006A01+7E006B00+7E006C01+7E006D00+7E006E01+7E006F00"
+cheat2_enable = false
+
+cheat3_desc = "[武器等级]ON"
+cheat3_code = "7E007001+7E007100+7E007201+7E007300+7E007401+7E007500+7E007601+7E007700+7E007801+7E007900"
+cheat3_enable = false
+

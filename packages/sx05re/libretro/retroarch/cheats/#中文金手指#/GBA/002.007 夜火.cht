@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "子弹数"
+cheat0_code = "02000458 00000063+0200045C 00000063"
+cheat0_enable = false
+
+cheat1_desc = "生命值"
+cheat1_code = "0200074A 00000008"
+cheat1_enable = false
+
+

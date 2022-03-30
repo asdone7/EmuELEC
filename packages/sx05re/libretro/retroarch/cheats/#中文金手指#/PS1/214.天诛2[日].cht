@@ -1,0 +1,59 @@
+cheats = 14
+
+cheat0_desc = "#龙圈可用"
+cheat0_code = "30010008 000F+D010F928 10F0+8010F950 0001"
+cheat0_enable = false
+
+cheat1_desc = "忍者工具中的每个物品#99"
+cheat1_code = "D00D17A4 6450+800D1788 0063+D00D17A4 6450+800D178A 2403+D00D17A4 6450+800D178C 0018+D00D17A4 6450+800D178E A043"
+cheat1_enable = false
+
+cheat2_desc = "#龙圈和所有可用任务"
+cheat2_code = "D0110438 017C+8011046C 0001+D01104D4 001B+801104D4 0001"
+cheat2_enable = false
+
+cheat3_desc = "需要#0时间"
+cheat3_code = "D001740C 0640+8001740E AF80+D0063E4C 5BD4+80063E04 0001+D0063E4C 5BD4+80063E06 3402"
+cheat3_enable = false
+
+cheat4_desc = "#255所有的忍者工具"
+cheat4_code = "D0051640 0C31+8005167C 00FF+D0051640 0C31+8005167E 2402+D0051640 0C31+80051680 0150+D0051640 0C31+80051682 A062+D0051640 0C31+80051784 0001"
+cheat4_enable = false
+
+cheat5_desc = "#无限的体力，对死亡打击无效"
+cheat5_code = "D006586C 0560号+80065878 0064+D006586C 0560号+8006587A 3411+D006586C 0560号+80065894 0008+D006586C 0560号+80065896 A491+D006586C 0560号+80065898 0006+D006586C 0560号+8006589A 1040"
+cheat5_enable = false
+
+cheat6_desc = "#时间隐身效果由32披风"
+cheat6_code = "D00584E0 0385+800584E0 7700"
+cheat6_enable = false
+
+cheat7_desc = "#忍者工具中提供了隐形效果披风"
+cheat7_code = "D0023634 0678+8002365E 1000"
+cheat7_enable = false
+
+cheat8_desc = "#无限氧气"
+cheat8_code = "D001F02C 5555+8001F012 1400"
+cheat8_enable = false
+
+cheat9_desc = "#无限时间备忘单"
+cheat9_code = "D00179BC 07D0+800179BE AF80+D004C00C 3DB6+8004C000 0001+D004C00C 3DB6+8004C01C 0001"
+cheat9_enable = false
+
+cheat10_desc = "#所有任务备忘单"
+cheat10_code = "D00CC8E4 079C+800CC8E6 A044+D00CC8E4 079C+800CC8EC 0001"
+cheat10_enable = false
+
+cheat11_desc = "#无限的体力备忘单。对于死亡打击无效。"
+cheat11_code = "D004A1AC 3E58+8004A1B0 0064+D004A1AC 3E58+8004A1B2 3403+D004A1AC 3E58+8004A1D4 0008+D004A1AC 3E58+8004A1D6 A4A3"
+cheat11_enable = false
+
+cheat12_desc = "#无限氧气备忘单"
+cheat12_code = "D001F46C 4220+8001F466 1400"
+cheat12_enable = false
+
+cheat13_desc = "#无限忍者工具备忘单"
+cheat13_code = "D0039FD4 0150+80039FD0 0000"
+cheat13_enable = false
+
+

@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[生命]ON"
+cheat0_code = "FF97F6:05"
+cheat0_enable = false
+

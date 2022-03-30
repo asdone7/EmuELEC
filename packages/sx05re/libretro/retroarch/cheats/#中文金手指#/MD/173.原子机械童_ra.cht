@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[只数]ON"
+cheat0_code = "FF803A:09"
+cheat0_enable = false
+
+cheat1_desc = "[C 数(用后解锁)]ON"
+cheat1_code = "FF8214:03"
+cheat1_enable = false
+
+cheat2_desc = "[武器锁定]F"
+cheat2_code = "FF820A:01+FF8206:0F"
+cheat2_enable = false
+
+cheat3_desc = "[武器锁定]3"
+cheat3_code = "FF820A:02+FF8206:0F"
+cheat3_enable = false
+
+cheat4_desc = "[武器锁定]M"
+cheat4_code = "FF820A:03+FF8206:0F"
+cheat4_enable = false
+
+cheat5_desc = "[武器锁定]5"
+cheat5_code = "FF820A:04+FF8206:0F"
+cheat5_enable = false
+
+cheat6_desc = "[速度增快]ON"
+cheat6_code = "FF8202:01"
+cheat6_enable = false
+

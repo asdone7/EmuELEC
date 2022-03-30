@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[散枪]ON"
+cheat0_code = "FF00F6:63"
+cheat0_enable = false
+
+cheat1_desc = "[人]ON"
+cheat1_code = "FF00FE:63"
+cheat1_enable = false
+

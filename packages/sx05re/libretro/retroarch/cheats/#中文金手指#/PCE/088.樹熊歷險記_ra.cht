@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[Temps Infini]On"
+cheat0_code = "1F0522:03"
+cheat0_enable = false
+
+cheat1_desc = "[Energie Infinie]On"
+cheat1_code = "1F0B34:03"
+cheat1_enable = false
+

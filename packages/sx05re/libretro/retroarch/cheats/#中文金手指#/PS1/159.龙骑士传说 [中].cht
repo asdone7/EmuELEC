@@ -1,0 +1,63 @@
+cheats = 15
+
+cheat0_desc = "#Max金"
+cheat0_code = "800B995C 967F+800B995E 0098"
+cheat0_enable = false
+
+cheat1_desc = "#Tickets MAX"
+cheat1_code = "300B993C 0063"
+cheat1_enable = false
+
+cheat2_desc = "#星尘号MAX"
+cheat2_code = "300B9964 0063"
+cheat2_enable = false
+
+cheat3_desc = "#1争取最大金奖"
+cheat3_code = "800BB620 FFFF"
+cheat3_enable = false
+
+cheat4_desc = "#1争取最大经验。"
+cheat4_code = "800BB65C 423F+800BB65E 000F"
+cheat4_enable = false
+
+cheat5_desc = "#播放时间00:00"
+cheat5_code = "800B9968 0000+800B996A 0000"
+cheat5_enable = false
+
+cheat6_desc = "#保存到任何地方"
+cheat6_code = "30059068 0001"
+cheat6_enable = false
+
+cheat7_desc = "一场战斗后的#Dragoon MAX等级"
+cheat7_code = "D010B7D4 7001+8010B7D8 0001"
+cheat7_enable = false
+
+cheat8_desc = "#一次战斗中的经验值MAX"
+cheat8_code = "D010B5F0 423E+8010B5F8 0001"
+cheat8_enable = false
+
+cheat9_desc = "#MAX级别在Adishonaru的执行一次"
+cheat9_code = "D00CBEF8 0002+800CBEF8 0001"
+cheat9_enable = false
+
+cheat10_desc = "#没有随机战斗"
+cheat10_code = "D00E23F0 5808+800E23F2 AC20+D00E3E74 5808+800E3E76 AC80"
+cheat10_enable = false
+
+cheat11_desc = "#拥有所有武器"
+cheat11_code = "800B9AAC 009E+300B9B4E 00FF+50009B01 0001+300B9AB0 0000"
+cheat11_enable = false
+
+cheat12_desc = "#敌人几乎一拳就削弱了节拍。"
+cheat12_code = "D00EDD00 0028+800EDD1C 0001+D00EDD00 0028+800EDD1E 2408+D00EDD00 0028+800ED022 A4A8+D00EDD00 0028+800EDD2E A4A8+D00EDD00 0028+800EDD3A A4A8+D00EDD00 0028+800EDD46 A4A8+D00EDD00 0028+800EDD56 A4A8"
+cheat12_enable = false
+
+cheat13_desc = "#SP500在战斗开始时"
+cheat13_code = "D00F2FFC 0007+800F300C 0001+D00F2FFC 0007+800F2FFC 0001"
+cheat13_enable = false
+
+cheat14_desc = "#可以选择所有字符保存数据并关闭代码"
+cheat14_code = "800B9954 0008+800B9956 0000+800B9958 0001+800B995A 0000+300B9CA8 0003+300B9CD4 0003+300B9D00 0003+300B9D2C 0003+300B9C7C 0003+300B9C50 0003"
+cheat14_enable = false
+
+

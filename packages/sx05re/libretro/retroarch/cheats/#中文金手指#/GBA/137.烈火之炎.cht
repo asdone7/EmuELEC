@@ -1,0 +1,239 @@
+cheats = 59
+
+cheat0_desc = "时间模式 60秒"
+cheat0_code = "02043FD7 00000000"
+cheat0_enable = false
+
+cheat1_desc = "时间模式 90秒"
+cheat1_code = "02043FD7 00000001"
+cheat1_enable = false
+
+cheat2_desc = "时间模式 120秒"
+cheat2_code = "02043FD7 00000002"
+cheat2_enable = false
+
+cheat3_desc = "时间模式 ∞"
+cheat3_code = "02043FD7 00000003"
+cheat3_enable = false
+
+cheat4_desc = "游戏难度 VERY EASY"
+cheat4_code = "02043FD6 00000000"
+cheat4_enable = false
+
+cheat5_desc = "游戏难度 EASY"
+cheat5_code = "02043FD6 00000001"
+cheat5_enable = false
+
+cheat6_desc = "游戏难度 NAMAL"
+cheat6_code = "02043FD6 00000002"
+cheat6_enable = false
+
+cheat7_desc = "游戏难度 HARD"
+cheat7_code = "02043FD6 00000003"
+cheat7_enable = false
+
+cheat8_desc = "游戏难度 STRONG"
+cheat8_code = "02043FD6 00000004"
+cheat8_enable = false
+
+cheat9_desc = "回合制式 1回合制"
+cheat9_code = "02043FD8 00000000"
+cheat9_enable = false
+
+cheat10_desc = "回合制式 3回合制"
+cheat10_code = "02043FD8 00000001"
+cheat10_enable = false
+
+cheat11_desc = "回合制式 5回合制"
+cheat11_code = "02043FD8 00000002"
+cheat11_enable = false
+
+cheat12_desc = "场地选择 场地1"
+cheat12_code = "02043FD5 00000001"
+cheat12_enable = false
+
+cheat13_desc = "场地选择 场地2"
+cheat13_code = "02043FD5 00000002"
+cheat13_enable = false
+
+cheat14_desc = "场地选择 场地3"
+cheat14_code = "02043FD5 00000003"
+cheat14_enable = false
+
+cheat15_desc = "场地选择 场地4"
+cheat15_code = "02043FD5 0000000C"
+cheat15_enable = false
+
+cheat16_desc = "场地选择 场地5"
+cheat16_code = "02043FD5 00000004"
+cheat16_enable = false
+
+cheat17_desc = "场地选择 场地6"
+cheat17_code = "02043FD5 00000005"
+cheat17_enable = false
+
+cheat18_desc = "场地选择 场地7"
+cheat18_code = "02043FD5 0000000D"
+cheat18_enable = false
+
+cheat19_desc = "场地选择 场地8"
+cheat19_code = "02043FD5 00000006"
+cheat19_enable = false
+
+cheat20_desc = "场地选择 场地9"
+cheat20_code = "02043FD5 0000000E"
+cheat20_enable = false
+
+cheat21_desc = "场地选择 场地10"
+cheat21_code = "02043FD5 00000009"
+cheat21_enable = false
+
+cheat22_desc = "场地选择 场地11"
+cheat22_code = "02043FD5 0000000F"
+cheat22_enable = false
+
+cheat23_desc = "场地选择 场地12"
+cheat23_code = "02043FD5 0000000B"
+cheat23_enable = false
+
+cheat24_desc = "场地选择 场地13"
+cheat24_code = "02043FD5 00000000"
+cheat24_enable = false
+
+cheat25_desc = "所有人物必杀技全开"
+cheat25_code = "02044044 0000001F+02044045 00000017+02044046 00000017+02044047 00000017+02044048 00000017"
+cheat25_enable = false
+
+cheat26_desc = "所有人物档案全开"
+cheat26_code = "02044040 000000FF+02044041 000000FF+02044042 000000FF+02044043 000000FF"
+cheat26_enable = false
+
+cheat27_desc = "出现所有隐藏选项"
+cheat27_code = "02044038 000000FF+02044039 00000001+0204403A 000000FF+0204403B 000000FF+0204403F 000000FF"
+cheat27_enable = false
+
+cheat28_desc = "P1 人物选择 RECCA（花菱 烈火）"
+cheat28_code = "02043FD1 00000000"
+cheat28_enable = false
+
+cheat29_desc = "P1 人物选择 DOMON（石岛 土门）"
+cheat29_code = "02043FD1 00000001"
+cheat29_enable = false
+
+cheat30_desc = "P1 人物选择 FUKO（雾泽 风子）"
+cheat30_code = "02043FD1 00000002"
+cheat30_enable = false
+
+cheat31_desc = "P1 人物选择 MIKAGAMI（水镜 冻季也）"
+cheat31_code = "02043FD1 00000003"
+cheat31_enable = false
+
+cheat32_desc = "P1 人物选择 KOGANEI（小金井 薰）"
+cheat32_code = "02043FD1 00000004"
+cheat32_enable = false
+
+cheat33_desc = "P1 人物选择 *CREY（红丽）"
+cheat33_code = "02043FD1 00000005"
+cheat33_enable = false
+
+cheat34_desc = "P1 人物选择 *RENGE（炼华）"
+cheat34_code = "02043FD1 00000006"
+cheat34_enable = false
+
+cheat35_desc = "P1 人物选择 *HIRUKO（蛭湖）"
+cheat35_code = "02043FD1 00000007"
+cheat35_enable = false
+
+cheat36_desc = "P1 人物选择 *KADOTSU（门都）"
+cheat36_code = "02043FD1 00000008"
+cheat36_enable = false
+
+cheat37_desc = "P1 体力值 全满"
+cheat37_code = "02043FF1 00000064"
+cheat37_enable = false
+
+cheat38_desc = "P1 体力值 为零"
+cheat38_code = "02043FF1 00000000"
+cheat38_enable = false
+
+cheat39_desc = "P1 能量值 全满"
+cheat39_code = "02043FF9 00000064"
+cheat39_enable = false
+
+cheat40_desc = "P1 能量值 为零"
+cheat40_code = "02043FF9 00000000"
+cheat40_enable = false
+
+cheat41_desc = "P2 人物选择 RECCA（花菱 烈火）"
+cheat41_code = "02043FD2 00000000"
+cheat41_enable = false
+
+cheat42_desc = "P2 人物选择 DOMON（石岛 土门）"
+cheat42_code = "02043FD2 00000001"
+cheat42_enable = false
+
+cheat43_desc = "P2 人物选择 FUKO（雾泽 风子）"
+cheat43_code = "02043FD2 00000002"
+cheat43_enable = false
+
+cheat44_desc = "P2 人物选择 MIKAGAMI（水镜 冻季也）"
+cheat44_code = "02043FD2 00000003"
+cheat44_enable = false
+
+cheat45_desc = "P2 人物选择 KOGANEI（小金井 薰）"
+cheat45_code = "02043FD2 00000004"
+cheat45_enable = false
+
+cheat46_desc = "P2 人物选择 *CREY（红丽）"
+cheat46_code = "02043FD2 00000005"
+cheat46_enable = false
+
+cheat47_desc = "P2 人物选择 *RENGE（炼华）"
+cheat47_code = "02043FD2 00000006"
+cheat47_enable = false
+
+cheat48_desc = "P2 人物选择 *HIRUKO（蛭湖）"
+cheat48_code = "02043FD2 00000007"
+cheat48_enable = false
+
+cheat49_desc = "P2 人物选择 *KADOTSU（门都）"
+cheat49_code = "02043FD2 00000008"
+cheat49_enable = false
+
+cheat50_desc = "P2 体力值 全满"
+cheat50_code = "02043FF5 00000064"
+cheat50_enable = false
+
+cheat51_desc = "P2 体力值 为零"
+cheat51_code = "02043FF5 00000000"
+cheat51_enable = false
+
+cheat52_desc = "P2 能量值 全满"
+cheat52_code = "02043FFD 00000064"
+cheat52_enable = false
+
+cheat53_desc = "P2 能量值 为零"
+cheat53_code = "02043FFD 00000000"
+cheat53_enable = false
+
+cheat54_desc = "必杀全习得"
+cheat54_code = "02044044 000000FF+02044045 000000FF+02044046 000000FF+02044047 000000FF+02044048 000000FF"
+cheat54_enable = false
+
+cheat55_desc = "全人物"
+cheat55_code = "02044038 000000FF+02044039 000000FF"
+cheat55_enable = false
+
+cheat56_desc = "对战全地图"
+cheat56_code = "0204403A 000000FF+0204403B 000000FF"
+cheat56_enable = false
+
+cheat57_desc = "生存模式开启"
+cheat57_code = "0204403F 00000001"
+cheat57_enable = false
+
+cheat58_desc = "全人物资料"
+cheat58_code = "02044040 000000FF+02044041 000000FF+02044042 000000FF+02044043 000000FF"
+cheat58_enable = false
+
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1P无敌]ON"
+cheat0_code = "1F008B:7B"
+cheat0_enable = false
+
+cheat1_desc = "[机体数最大(无用)]ON"
+cheat1_code = "1F00C4:06"
+cheat1_enable = false
+

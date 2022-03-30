@@ -1,0 +1,34 @@
+cheats = 8
+
+cheat0_desc = "[第1位角色职业变更]隐藏职业1"
+cheat0_code = "0900:16"
+cheat0_enable = false
+
+cheat1_desc = "[第1位角色职业变更]隐藏职业2"
+cheat1_code = "0900:17"
+cheat1_enable = false
+
+cheat2_desc = "[第2位角色职业变更]隐藏职业1"
+cheat2_code = "0940:16"
+cheat2_enable = false
+
+cheat3_desc = "[第2位角色职业变更]隐藏职业2"
+cheat3_code = "0940:17"
+cheat3_enable = false
+
+cheat4_desc = "[第3位角色职业变更]隐藏职业1"
+cheat4_code = "0980:16"
+cheat4_enable = false
+
+cheat5_desc = "[第3位角色职业变更]隐藏职业2"
+cheat5_code = "0980:17"
+cheat5_enable = false
+
+cheat6_desc = "[第4位角色职业变更]隐藏职业1"
+cheat6_code = "09C0:16"
+cheat6_enable = false
+
+cheat7_desc = "[第4位角色职业变更]隐藏职业2"
+cheat7_code = "09C0:17"
+cheat7_enable = false
+

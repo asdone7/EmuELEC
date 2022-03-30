@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[血格]ON"
+cheat0_code = "00BC:14"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "0431:11"
+cheat1_enable = false
+
+cheat2_desc = "[时间]ON"
+cheat2_code = "00BF:FF+00C0:E3+00C1:0B+00C2:54"
+cheat2_enable = false
+

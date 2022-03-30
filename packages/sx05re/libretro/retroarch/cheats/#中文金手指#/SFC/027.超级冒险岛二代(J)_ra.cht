@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[受身无敌]锁"
+cheat0_code = "7E018338"
+cheat0_enable = false
+
+cheat1_desc = "[血槽不减]锁"
+cheat1_code = "7E011A16"
+cheat1_enable = false
+
+cheat2_desc = "[大量金钱]锁"
+cheat2_code = "7E043908+7E043A08+7E043B08+7E043C08"
+cheat2_enable = false
+
+cheat3_desc = "[人物浮空.按跳可落地]锁"
+cheat3_code = "7E010202"
+cheat3_enable = false
+

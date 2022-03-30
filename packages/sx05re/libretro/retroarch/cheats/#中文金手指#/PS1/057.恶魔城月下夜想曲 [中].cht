@@ -1,0 +1,91 @@
+cheats = 22
+
+cheat0_desc = "#完成值超过200％"
+cheat0_code = "8003C760 0787"
+cheat0_enable = false
+
+cheat1_desc = "#玩家等级99"
+cheat1_code = "80097BEE 0FFF"
+cheat1_enable = false
+
+cheat2_desc = "#最大Mp"
+cheat2_code = "80097BB0 270F+80097BB4 270F"
+cheat2_enable = false
+
+cheat3_desc = "#最大金"
+cheat3_code = "80097BF0 423F+80097BF2 000F"
+cheat3_enable = false
+
+cheat4_desc = "#最大的心"
+cheat4_code = "80097BA8 270F+80097BAC 270F"
+cheat4_enable = false
+
+cheat5_desc = "#无限健康"
+cheat5_code = "80097BA0 270F+80097BA4 270F"
+cheat5_enable = false
+
+cheat6_desc = "#最大攻击"
+cheat6_code = "800F4BF6 1400"
+cheat6_enable = false
+
+cheat7_desc = "#Max Guard"
+cheat7_code = "800F504E 1400"
+cheat7_enable = false
+
+cheat8_desc = "#Max Str"
+cheat8_code = "80097BB8 03E7"
+cheat8_enable = false
+
+cheat9_desc = "#Max Con"
+cheat9_code = "80097BBC 03E7"
+cheat9_enable = false
+
+cheat10_desc = "#Max Int"
+cheat10_code = "80097BC0 03E7"
+cheat10_enable = false
+
+cheat11_desc = "#Max Lck"
+cheat11_code = "80097BC4 03E7"
+cheat11_enable = false
+
+cheat12_desc = "#Max Exp"
+cheat12_code = "80097BEC 423F+80097BEE 000F"
+cheat12_enable = false
+
+cheat13_desc = "#所有特殊项目"
+cheat13_code = "50000F02 0000+80097964 0303+50000801 0001+30097982 0080"
+cheat13_enable = false
+
+cheat14_desc = "#保存几乎任何地方（按住三角形）"
+cheat14_code = "D0097490 0010+3003C708 0020"
+cheat14_enable = false
+
+cheat15_desc = "#访问所有翘曲室使用一次然后断开连接"
+cheat15_code = "8003BEBC 1F1F"
+cheat15_enable = false
+
+cheat16_desc = "#所有家庭最大体验"
+cheat16_code = "5000070C 0000+80097C48 26AB"
+cheat16_enable = false
+
+cheat17_desc = "#所有家庭成员最高级别"
+cheat17_code = "5000070C 0000+80097C44 0063"
+cheat17_enable = false
+
+cheat18_desc = "#所有项目"
+cheat18_code = "50008202 0000+8009798A 1010"
+cheat18_enable = false
+
+cheat19_desc = "#多阶段跳转（仅限Alucard）"
+cheat19_code = "80072F64 0004"
+cheat19_enable = false
+
+cheat20_desc = "#按L2键选择子武器"
+cheat20_code = "E0072EE8 0001+D0098000 0000+10097BFC 0001+E0072EE8 0001+D0098000 0000+80098000 0001+E0072EE8 0000+80098000 0000+D3097BFC 0009+80097BFC 0000"
+cheat20_enable = false
+
+cheat21_desc = "#解锁所有明确的奖金"
+cheat21_code = "3003BDE0 0001"
+cheat21_enable = false
+
+

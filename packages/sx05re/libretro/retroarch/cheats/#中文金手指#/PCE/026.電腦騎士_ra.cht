@@ -1,0 +1,54 @@
+cheats = 13
+
+cheat0_desc = "[Tir Principal Puissance Max]On"
+cheat0_code = "1F05E9:05"
+cheat0_enable = false
+
+cheat1_desc = "[Energie Infinie]On"
+cheat1_code = "1F05E8:04"
+cheat1_enable = false
+
+cheat2_desc = "[Chaser/Crusher Infini]On"
+cheat2_code = "1F05FA:60"
+cheat2_enable = false
+
+cheat3_desc = "[Barrier Infini]On"
+cheat3_code = "1F10AA:0F"
+cheat3_enable = false
+
+cheat4_desc = "[Commencer au Stage]1-1"
+cheat4_code = "1F05A3:00"
+cheat4_enable = false
+
+cheat5_desc = "[Commencer au Stage]1-2"
+cheat5_code = "1F05A3:01"
+cheat5_enable = false
+
+cheat6_desc = "[Commencer au Stage]1-3"
+cheat6_code = "1F05A3:02"
+cheat6_enable = false
+
+cheat7_desc = "[Commencer au Stage]2-1"
+cheat7_code = "1F05A3:03"
+cheat7_enable = false
+
+cheat8_desc = "[Commencer au Stage]3-1"
+cheat8_code = "1F05A3:05"
+cheat8_enable = false
+
+cheat9_desc = "[Commencer au Stage]4-1"
+cheat9_code = "1F05A3:07"
+cheat9_enable = false
+
+cheat10_desc = "[Commencer au Stage]5-1"
+cheat10_code = "1F05A3:0A"
+cheat10_enable = false
+
+cheat11_desc = "[Commencer au Stage]6-1"
+cheat11_code = "1F05A3:0D"
+cheat11_enable = false
+
+cheat12_desc = "[Commencer au Stage]6-4"
+cheat12_code = "1F05A3:10"
+cheat12_enable = false
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1p最大hp]ON"
+cheat0_code = "FFDE46:64"
+cheat0_enable = false
+
+cheat1_desc = "[只救一人便可过关]ON"
+cheat1_code = "FFDE4E:01"
+cheat1_enable = false
+

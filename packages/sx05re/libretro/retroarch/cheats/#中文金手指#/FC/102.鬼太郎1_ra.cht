@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[只数]ON"
+cheat0_code = "00B2:63"
+cheat0_enable = false
+
+cheat1_desc = "[魂]ON"
+cheat1_code = "00C4:0A"
+cheat1_enable = false
+
+cheat2_desc = "[魔王血为0]ON"
+cheat2_code = "004F:00"
+cheat2_enable = false
+

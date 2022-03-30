@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[Argent Infini]On"
+cheat0_code = "1F152F:09+1F1530:09+1F1531:09"
+cheat0_enable = false
+
+cheat1_desc = "[Energie Infinie/Maximun]On"
+cheat1_code = "1F14C5:80+1F152E:80"
+cheat1_enable = false
+

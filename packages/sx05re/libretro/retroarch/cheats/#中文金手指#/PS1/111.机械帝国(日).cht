@@ -1,0 +1,51 @@
+cheats = 12
+
+cheat0_desc = "#Inf Hp"
+cheat0_code = "800DD780 0100+800DD7C0 0100"
+cheat0_enable = false
+
+cheat1_desc = "#无敌"
+cheat1_code = "D004CDBA 0045+8004CDBA 0040"
+cheat1_enable = false
+
+cheat2_desc = "#拥有所有武器"
+cheat2_code = "800E5BE8 0201+800E5BEA 0102+800E5BEC 0101+800E5BEE 0101+800E5BF0 0101+800E5BF2 0101+800E5BF4 0101+800E5BF8 0101+800E5BFA 0101"
+cheat2_enable = false
+
+cheat3_desc = "#Inf Ammo"
+cheat3_code = "D004DD22 0082+8004DD22 0080"
+cheat3_enable = false
+
+cheat4_desc = "#停止时间"
+cheat4_code = "800DD47C 0000"
+cheat4_enable = false
+
+cheat5_desc = "#无限氧气"
+cheat5_code = "D004C070 FFFF+8004C070 0000"
+cheat5_enable = false
+
+cheat6_desc = "#999消费项目"
+cheat6_code = "50000502 0000+800E5EC4 03E7"
+cheat6_enable = false
+
+cheat7_desc = "#所有物品的拥有"
+cheat7_code = "50000A02 0000+800E5ECE 0001"
+cheat7_enable = false
+
+cheat8_desc = "#所有武器"
+cheat8_code = "50000802 0000+800E5BEA 0101"
+cheat8_enable = false
+
+cheat9_desc = "#所有武器子弹数999"
+cheat9_code = "50000F02 0000+800E5CBC 03E7"
+cheat9_enable = false
+
+cheat10_desc = "#SUPER JUMP按三角形"
+cheat10_code = "E00DD534 0010+800E6134 8000+E00DD534 0010+800E6136 FFFF"
+cheat10_enable = false
+
+cheat11_desc = "#老大杀手"
+cheat11_code = "D0116CB8 FFFF+80116CB8 0000+D0116CBA 2442+80116CBA 2402+D011582E 0043+8011582E 0000+D010E476 0046号+8010E476 0000"
+cheat11_enable = false
+
+

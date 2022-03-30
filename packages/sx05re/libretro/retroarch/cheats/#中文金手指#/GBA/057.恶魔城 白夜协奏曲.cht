@@ -1,0 +1,23 @@
+cheats = 5
+
+cheat0_desc = "数值最大 最大"
+cheat0_code = "02018543 000000FF+02018545 000000FF+02018547 000000FF+02018549 000000FF+0201854B 000000FF+0201854D 000000FF"
+cheat0_enable = false
+
+cheat1_desc = "心 OK"
+cheat1_code = "02018788 000000FF"
+cheat1_enable = false
+
+cheat2_desc = "最高级 OK"
+cheat2_code = "02018770 000000FF"
+cheat2_enable = false
+
+cheat3_desc = "最EXP OK"
+cheat3_code = "0201878D 000000FF"
+cheat3_enable = false
+
+cheat4_desc = "钱 OK"
+cheat4_code = "02018790 0000001C+02018791 00000096+02018792 00000098"
+cheat4_enable = false
+
+

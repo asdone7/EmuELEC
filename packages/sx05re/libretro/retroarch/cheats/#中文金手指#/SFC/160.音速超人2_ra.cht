@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[P1 生命]ON"
+cheat0_code = "7E0DA999"
+cheat0_enable = false
+
+cheat1_desc = "[P1 体力]ON"
+cheat1_code = "7E0DA548"
+cheat1_enable = false
+
+cheat2_desc = "[P1 必杀]ON"
+cheat2_code = "7E0DAD09"
+cheat2_enable = false
+
+cheat3_desc = "[P2 生命]ON"
+cheat3_code = "7E0DAB99"
+cheat3_enable = false
+
+cheat4_desc = "[P2 体力]ON"
+cheat4_code = "7E0DA748"
+cheat4_enable = false
+
+cheat5_desc = "[P2 必杀]ON"
+cheat5_code = "7E0DAF09"
+cheat5_enable = false
+

@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[翼体力]ON"
+cheat0_code = "04A8:20+04A9:03"
+cheat0_enable = false
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1p无限体力]ON"
+cheat0_code = "FF2338:E7+FF2339:03"
+cheat0_enable = false
+
+cheat1_desc = "[2P无限体力]ON"
+cheat1_code = "FF23F2:E7+FF23F3:03"
+cheat1_enable = false
+

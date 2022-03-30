@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[能量]ON"
+cheat0_code = "01C6:FF"
+cheat0_enable = false
+
+cheat1_desc = "[炸弹]ON"
+cheat1_code = "004C:64"
+cheat1_enable = false
+
+cheat2_desc = "[不死]ON"
+cheat2_code = "007E:00+00FA:81"
+cheat2_enable = false
+
+cheat3_desc = "[体力]ON"
+cheat3_code = "01C7:0F"
+cheat3_enable = false
+
+cheat4_desc = "[物品]ON"
+cheat4_code = "0061:63+0062:63+0063:63+0064:63+0065:63+0066:63+0067:63+004D:63+004E:63+004F:63"
+cheat4_enable = false
+
+cheat5_desc = "[钱]ON"
+cheat5_code = "0058:63"
+cheat5_enable = false
+

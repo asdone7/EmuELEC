@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[外交-统率100]ON"
+cheat0_code = "7E24C964+7E24CA64+7E24CB64+7E24CC64+7E24CD64"
+cheat0_enable = false
+
+cheat1_desc = "[野心100]ON"
+cheat1_code = "7E24CE64"
+cheat1_enable = false
+
+cheat2_desc = "[体力]ON"
+cheat2_code = "7E24D164"
+cheat2_enable = false
+
+cheat3_desc = "[金钱]ON"
+cheat3_code = "7E202760+7E2028EA"
+cheat3_enable = false
+
+cheat4_desc = "[信赖 知行 战术 政略]ON"
+cheat4_code = "7E24C10F+7E24C227+7E24C5FF+7E24C8FF+7E24D2FF"
+cheat4_enable = false
+
+cheat5_desc = "[兵力]ON"
+cheat5_code = "7E7A960F+7E7A9727"
+cheat5_enable = false
+

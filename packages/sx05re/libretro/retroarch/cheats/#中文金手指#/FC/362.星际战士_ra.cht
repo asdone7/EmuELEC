@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[战机数]ON"
+cheat0_code = "0037:09"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "0040:36"
+cheat1_enable = false
+

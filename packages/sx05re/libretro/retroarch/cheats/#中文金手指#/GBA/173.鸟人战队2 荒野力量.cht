@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "血"
+cheat0_code = "02041591 0000000F"
+cheat0_enable = false
+
+cheat1_desc = "接关次数"
+cheat1_code = "02041861 00000009"
+cheat1_enable = false
+
+

@@ -1,0 +1,170 @@
+cheats = 42
+
+cheat0_desc = "[选关立战隐藏BOSS]隐藏BOSS"
+cheat0_code = "1F1D02:0B+1F1D03:0A+1F1D06:6E+1F1D07:20+1F1D08:A0+1F1D09:99+1F1D0A:3F+1F1D0B:3F+1F1D0C:48+1F1D0D:48+1F1D10:02+1F1D14:40+1F1D15:40+1F1D1A:80"
+cheat0_enable = false
+
+cheat1_desc = "[选关立战隐藏BOSS]第8关BOSS"
+cheat1_code = "1F1D02:07+1F1D06:A2+1F1D07:B4+1F1D08:98+1F1D09:7E+1F1D0A:36+1F1D0B:37+1F1D0C:47+1F1D12:0D+1F1D13:00+1F1D14:38+1F1D1A:9D"
+cheat1_enable = false
+
+cheat2_desc = "[选关立战隐藏BOSS]第8关"
+cheat2_code = "1F1D02:07+1F1D06:F6+1F1D08:94"
+cheat2_enable = false
+
+cheat3_desc = "[选关立战隐藏BOSS]第7关BOSS"
+cheat3_code = "1F1D02:06+1F1D06:34+1F1D07:B4+1F1D08:94+1F1D09:7E+1F1D0A:35+1F1D0B:37+1F1D0C:47+1F1D12:07+1F1D13:00+1F1D14:F8+1F1D1A:9C"
+cheat3_enable = false
+
+cheat4_desc = "[选关立战隐藏BOSS]第7关"
+cheat4_code = "1F1D02:06+1F1D06:A8+1F1D08:91+1F1D09:7E+1F1D0A:37+1F1D0B:37+1F1D0C:48"
+cheat4_enable = false
+
+cheat5_desc = "[选关立战隐藏BOSS]第6关BOSS"
+cheat5_code = "1F1D02:05+1F1D06:46+1F1D08:91+1F1D09:7E+1F1D0A:3B+1F1D0B:37+1F1D0C:47+1F1D12:0F+1F1D13:00+1F1D14:60+1F1D1A:88"
+cheat5_enable = false
+
+cheat6_desc = "[选关立战隐藏BOSS]第6关"
+cheat6_code = "1F1D02:05+1F1D06:92+1F1D08:8F"
+cheat6_enable = false
+
+cheat7_desc = "[选关立战隐藏BOSS]第5关BOSS"
+cheat7_code = "1F1D02:04+1F1D06:48+1F1D08:8F+1F1D09:7E+1F1D0A:3F+1F1D12:15+1F1D13:00+1F1D14:D8+1F1D1A:98"
+cheat7_enable = false
+
+cheat8_desc = "[选关立战隐藏BOSS]第5关"
+cheat8_code = "1F1D02:04+1F1D06:CC+1F1D08:8A"
+cheat8_enable = false
+
+cheat9_desc = "[选关立战隐藏BOSS]第4关BOSS"
+cheat9_code = "1F1D02:03+1F1D06:66+1F1D08:8A+1F1D12:0F+1F1D13:00+1F1D14:58+1F1D1A:8F"
+cheat9_enable = false
+
+cheat10_desc = "[选关立战隐藏BOSS]第4关"
+cheat10_code = "1F1D02:03+1F1D06:8A+1F1D08:87"
+cheat10_enable = false
+
+cheat11_desc = "[选关立战隐藏BOSS]第3关BOSS"
+cheat11_code = "1F1D02:02+1F1D06:38+1F1D07:B4+1F1D08:87+1F1D09:7E+1F1D0A:3F+1F1D0B:37+1F1D0C:47+1F1D12:12+1F1D13:00+1F1D14:F0+1F1D1A:8D"
+cheat11_enable = false
+
+cheat12_desc = "[选关立战隐藏BOSS]第3关"
+cheat12_code = "1F1D02:02+1F1D06:1C+1F1D08:84"
+cheat12_enable = false
+
+cheat13_desc = "[选关立战隐藏BOSS]第2关boss"
+cheat13_code = "1F1D02:01+1F1D06:4E+1F1D07:B4+1F1D08:83+1F1D09:7E+1F1D0A:3F+1F1D0B:37+1F1D0C:47+1F1D12:0D+1F1D13:00+1F1D14:78+1F1D1A:8B"
+cheat13_enable = false
+
+cheat14_desc = "[选关立战隐藏BOSS]第2关"
+cheat14_code = "1F1D02:01+1F1D06:22+1F1D07:B4+1F1D08:81"
+cheat14_enable = false
+
+cheat15_desc = "[选关立战隐藏BOSS]第1关BOSS"
+cheat15_code = "1F1D02:00+1F1D03:00+1F1D04:00+1F1D05:00+1F1D06:60+1F1D07:B4+1F1D08:80+1F1D09:7E+1F1D0A:1F+1F1D0B:37+1F1D0C:29+1F1D12:0C+1F1D13:00+1F1D14:20+1F1D1A:87"
+cheat15_enable = false
+
+cheat16_desc = "[选关立战隐藏BOSS]第1关"
+cheat16_code = "1F1D02:00+1F1D06:B4+1F1D07:B4+1F1D08:7E+1F1D09:7E+1F1D0A:37+1F1D0B:37+1F1D0C:48"
+cheat16_enable = false
+
+cheat17_desc = "[选关立战隐藏BOSS]SPECIALMODE"
+cheat17_code = "1F1D02:0A+1F1D03:0A+1F1D06:20+1F1D07:20+1F1D08:99+1F1D09:99+1F1D0A:3F+1F1D0B:3F+1F1D0C:48+1F1D0D:48+1F1D14:40+1F1D15:40+1F1D1A:80"
+cheat17_enable = false
+
+cheat18_desc = "[隐身]无敌"
+cheat18_code = "1F0F04:FF"
+cheat18_enable = false
+
+cheat19_desc = "[大杀伤力武器]原子弹大爆炸"
+cheat19_code = "1F00B4:09"
+cheat19_enable = false
+
+cheat20_desc = "[大杀伤力武器]射击时变大"
+cheat20_code = "1F00B4:0A"
+cheat20_enable = false
+
+cheat21_desc = "[大杀伤力武器]隐形激光"
+cheat21_code = "1F00B4:07"
+cheat21_enable = false
+
+cheat22_desc = "[大杀伤力武器]文字攻击"
+cheat22_code = "1F00B4:05"
+cheat22_enable = false
+
+cheat23_desc = "[大杀伤力武器]汽泡防护圈"
+cheat23_code = "1F00B4:04"
+cheat23_enable = false
+
+cheat24_desc = "[大杀伤力武器]玻璃防护网"
+cheat24_code = "1F00B4:03"
+cheat24_enable = false
+
+cheat25_desc = "[大杀伤力武器]防御钟"
+cheat25_code = "1F00B4:02"
+cheat25_enable = false
+
+cheat26_desc = "[大杀伤力武器]挡弹星"
+cheat26_code = "1F00B4:01"
+cheat26_enable = false
+
+cheat27_desc = "[绿色钟的无敌威力]激活"
+cheat27_code = "1F00B8:FF"
+cheat27_enable = false
+
+cheat28_desc = "[绿色钟的无敌威力]吃钟"
+cheat28_code = "1F00B8:00"
+cheat28_enable = false
+
+cheat29_desc = "[4个分身]4圆球"
+cheat29_code = "1F1025:03+1F1026:03+1F1027:03+1F1028:03+1F0965:01+1F0966:01+1F0967:01+1F0968:01+1F0DE5:01+1F0DE6:01+1F0DE7:01+1F0DE8:01+1F0E75:02+1F0E76:02+1F0E77:02+1F0E78:02"
+cheat29_enable = false
+
+cheat30_desc = "[快速移动]极速"
+cheat30_code = "1F00A8:05"
+cheat30_enable = false
+
+cheat31_desc = "[飞机数]无限"
+cheat31_code = "1F"
+cheat31_enable = false
+
+cheat32_desc = "[LOCK NORMAL MODE]ON"
+cheat32_code = "1F00BD:04+1F00BE:08+1F00BE:08+1F00BF:00+1F00BF:00+1F00BF:00+1F00C0:01+1F00C0:01+1F00C0:01+1F00C1:16+1F00C1:16+1F00C2:02"
+cheat32_enable = false
+
+cheat33_desc = "[无数条命]激活"
+cheat33_code = "1F0088:FF"
+cheat33_enable = false
+
+cheat34_desc = "[special mode start]激活"
+cheat34_code = "1F008D:01"
+cheat34_enable = false
+
+cheat35_desc = "[按B键不断加速]ON"
+cheat35_code = "1F00A5:0A+1F00A6:09+1F00A6:09+1F00A7:03"
+cheat35_enable = false
+
+cheat36_desc = "[不会遇上敌人]激活"
+cheat36_code = "1F009A:04+1F009B:81"
+cheat36_enable = false
+
+cheat37_desc = "[锁定选人画面]激活"
+cheat37_code = "1F0030:04"
+cheat37_enable = false
+
+cheat38_desc = "[1P在选人画面出现]ON"
+cheat38_code = "1F0080:06"
+cheat38_enable = false
+
+cheat39_desc = "[自动减速模式]ON"
+cheat39_code = "1F00A5:0A+1F00A6:09+1F00A7:03+1F00A7:03+1F00A8:00+1F00A8:00+1F00A9:00+1F00A9:00+1F00AA:01+1F00AA:01+1F00AB:02"
+cheat39_enable = false
+
+cheat40_desc = "[超慢逐格回放模式]ON"
+cheat40_code = "1F009A:60+1F009B:7F+1F009B:7F+1F009C:09"
+cheat40_enable = false
+
+cheat41_desc = "[PAUSE]激活"
+cheat41_code = "1F0032:92+1F0033:01"
+cheat41_enable = false
+

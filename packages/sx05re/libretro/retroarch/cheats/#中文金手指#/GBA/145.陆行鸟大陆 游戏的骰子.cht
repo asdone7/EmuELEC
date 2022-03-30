@@ -1,0 +1,23 @@
+cheats = 2
+cheat0_code = "999999 0+999999 1+999999 2+999999 3+999999 4+999999 5+00000NAN 00000000+999999 6+999999 7+999999 8+00000NAN 00000000+999999 9+999999 10+999999 11+00000NAN 00000000+999999 12"
+cheat0_enable = false
+
+cheat1_desc = "[CP 0"
+
+cheat1_desc = "[CP 1"
+
+cheat1_desc = "[CP 2"
+
+cheat1_desc = "[CP 3"
+
+cheat1_desc = "[CP 4"
+
+cheat1_desc = "[CP 5"
+
+cheat1_desc = "[CP 6"
+
+cheat1_desc = "无限移动(别人移动时请解锁)"
+cheat1_code = "02044733 00000006"
+cheat1_enable = false
+
+

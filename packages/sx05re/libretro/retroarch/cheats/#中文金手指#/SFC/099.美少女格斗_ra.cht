@@ -1,0 +1,242 @@
+cheats = 59
+
+cheat0_desc = "[时间无限]99秒"
+cheat0_code = "7E200A03"
+cheat0_enable = false
+
+cheat1_desc = "[时间无限]立刻结束"
+cheat1_code = "7E098600+7E203A00"
+cheat1_enable = false
+
+cheat2_desc = "[时间无限]OFF"
+cheat2_code = "7E200A02"
+cheat2_enable = false
+
+cheat3_desc = "[1P体力]无限"
+cheat3_code = "7E1D36A8"
+cheat3_enable = false
+
+cheat4_desc = "[1P体力]一击必杀"
+cheat4_code = "7E1D3600"
+cheat4_enable = false
+
+cheat5_desc = "1/3[发绝招用]=1D36,32"
+
+cheat5_desc = "[2P体力]无限"
+cheat5_code = "7E1E3CA8"
+cheat5_enable = false
+
+cheat6_desc = "[2P体力]一击必杀"
+cheat6_code = "7E1E3C00"
+cheat6_enable = false
+
+cheat7_desc = "1/3[发绝招用]=1E3C,32"
+
+cheat7_desc = "[1P人物]结城绫子"
+cheat7_code = "7E1D5805"
+cheat7_enable = false
+
+cheat8_desc = "[1P人物]武内优香"
+cheat8_code = "7E1D5800"
+cheat8_enable = false
+
+cheat9_desc = "[1P人物]增田千穗"
+cheat9_code = "7E1D5801"
+cheat9_enable = false
+
+cheat10_desc = "[1P人物]楠真奈美"
+cheat10_code = "7E1D5802"
+cheat10_enable = false
+
+cheat11_desc = "[1P人物]久保田润"
+cheat11_code = "7E1D5803"
+cheat11_enable = false
+
+cheat12_desc = "[1P人物]八岛聪美"
+cheat12_code = "7E1D5804"
+cheat12_enable = false
+
+cheat13_desc = "[1P人物]ぇソソん"
+cheat13_code = "7E1D5806"
+cheat13_enable = false
+
+cheat14_desc = "[1P人物]梁濑"
+cheat14_code = "7E1D5807"
+cheat14_enable = false
+
+cheat15_desc = "[1P人物]谢华"
+cheat15_code = "7E1D5808"
+cheat15_enable = false
+
+cheat16_desc = "[2P人物]增田千穗"
+cheat16_code = "7E1E5E01"
+cheat16_enable = false
+
+cheat17_desc = "[2P人物]楠真奈美"
+cheat17_code = "7E1E5E02"
+cheat17_enable = false
+
+cheat18_desc = "[2P人物]久保田润"
+cheat18_code = "7E1E5E03"
+cheat18_enable = false
+
+cheat19_desc = "[2P人物]八岛聪美"
+cheat19_code = "7E1E5E04"
+cheat19_enable = false
+
+cheat20_desc = "[2P人物]ぇソソん"
+cheat20_code = "7E1E5E06"
+cheat20_enable = false
+
+cheat21_desc = "[2P人物]结城绫子"
+cheat21_code = "7E1E5E05"
+cheat21_enable = false
+
+cheat22_desc = "[2P人物]武内优香"
+cheat22_code = "7E1E5E00"
+cheat22_enable = false
+
+cheat23_desc = "[2P人物]梁濑"
+cheat23_code = "7E1E5E07"
+cheat23_enable = false
+
+cheat24_desc = "[2P人物]谢华"
+cheat24_code = "7E1E5E08"
+cheat24_enable = false
+
+cheat25_desc = "[Game Level]1"
+cheat25_code = "7E446A00"
+cheat25_enable = false
+
+cheat26_desc = "[Game Level]2"
+cheat26_code = "7E446A01"
+cheat26_enable = false
+
+cheat27_desc = "[Game Level]3"
+cheat27_code = "7E446A02"
+cheat27_enable = false
+
+cheat28_desc = "[Game Level]4"
+cheat28_code = "7E446A03"
+cheat28_enable = false
+
+cheat29_desc = "[Game Level]5"
+cheat29_code = "7E446A04"
+cheat29_enable = false
+
+cheat30_desc = "[Game Level]6"
+cheat30_code = "7E446A05"
+cheat30_enable = false
+
+cheat31_desc = "[Game Level]7"
+cheat31_code = "7E446A06"
+cheat31_enable = false
+
+cheat32_desc = "[Game Level]8"
+cheat32_code = "7E446A07"
+cheat32_enable = false
+
+cheat33_desc = "[1P人物强度]1级"
+cheat33_code = "7E1D7200"
+cheat33_enable = false
+
+cheat34_desc = "[1P人物强度]2级"
+cheat34_code = "7E1D7201"
+cheat34_enable = false
+
+cheat35_desc = "[1P人物强度]3级"
+cheat35_code = "7E1D7202"
+cheat35_enable = false
+
+cheat36_desc = "[1P人物强度]4级"
+cheat36_code = "7E1D7203"
+cheat36_enable = false
+
+cheat37_desc = "[1P人物强度]5级"
+cheat37_code = "7E1D7204"
+cheat37_enable = false
+
+cheat38_desc = "[1P人物强度]6级"
+cheat38_code = "7E1D7205"
+cheat38_enable = false
+
+cheat39_desc = "[1P人物强度]7级"
+cheat39_code = "7E1D7206"
+cheat39_enable = false
+
+cheat40_desc = "[1P人物强度]8级"
+cheat40_code = "7E1D7207"
+cheat40_enable = false
+
+cheat41_desc = "[1P人物强度]无敌(发特技时，普通招式不通用)"
+cheat41_code = "7E1D7264"
+cheat41_enable = false
+
+cheat42_desc = "[2P人物强度]1级"
+cheat42_code = "7E1E7800"
+cheat42_enable = false
+
+cheat43_desc = "[2P人物强度]2级"
+cheat43_code = "7E1E7801"
+cheat43_enable = false
+
+cheat44_desc = "[2P人物强度]3级"
+cheat44_code = "7E1E7802"
+cheat44_enable = false
+
+cheat45_desc = "[2P人物强度]4级"
+cheat45_code = "7E1E7803"
+cheat45_enable = false
+
+cheat46_desc = "[2P人物强度]5级"
+cheat46_code = "7E1E7804"
+cheat46_enable = false
+
+cheat47_desc = "[2P人物强度]6级"
+cheat47_code = "7E1E7805"
+cheat47_enable = false
+
+cheat48_desc = "[2P人物强度]7级"
+cheat48_code = "7E1E7806"
+cheat48_enable = false
+
+cheat49_desc = "[2P人物强度]8级"
+cheat49_code = "7E1E7807"
+cheat49_enable = false
+
+cheat50_desc = "[2P人物强度]无敌(发特技时，普通招式不通用)"
+cheat50_code = "7E1E7864"
+cheat50_enable = false
+
+cheat51_desc = "[背景（单人模式不通用）]1"
+cheat51_code = "7E07B000"
+cheat51_enable = false
+
+cheat52_desc = "[背景（单人模式不通用）]2"
+cheat52_code = "7E07B001"
+cheat52_enable = false
+
+cheat53_desc = "[背景（单人模式不通用）]3"
+cheat53_code = "7E07B002"
+cheat53_enable = false
+
+cheat54_desc = "[背景（单人模式不通用）]4"
+cheat54_code = "7E07B003"
+cheat54_enable = false
+
+cheat55_desc = "[背景（单人模式不通用）]5"
+cheat55_code = "7E07B004"
+cheat55_enable = false
+
+cheat56_desc = "[背景（单人模式不通用）]6"
+cheat56_code = "7E07B005"
+cheat56_enable = false
+
+cheat57_desc = "[背景（单人模式不通用）]7"
+cheat57_code = "7E07B006"
+cheat57_enable = false
+
+cheat58_desc = "[背景（单人模式不通用）]8"
+cheat58_code = "7E07B007"
+cheat58_enable = false
+

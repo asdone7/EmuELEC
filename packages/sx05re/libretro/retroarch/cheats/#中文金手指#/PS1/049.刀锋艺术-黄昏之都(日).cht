@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#无限能量"
+cheat0_code = "300D3F94 00C8"
+cheat0_enable = false
+
+cheat1_desc = "#无限球神经（99999）"
+cheat1_code = "8015DA44 869F+8015DA46 0001"
+cheat1_enable = false
+
+

@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[无限能量]锁"
+cheat0_code = "FF00BA:50+FF00BD:04"
+cheat0_enable = false
+
+cheat1_desc = "[无限体力]锁"
+cheat1_code = "FF00B2:00+FF00B3:01"
+cheat1_enable = false
+
+cheat2_desc = "[命]On"
+cheat2_code = "FF00B5:03"
+cheat2_enable = false
+
+cheat3_desc = "[游戏时间]锁"
+cheat3_code = "FF00B6:DF+FF00B7:01"
+cheat3_enable = false
+

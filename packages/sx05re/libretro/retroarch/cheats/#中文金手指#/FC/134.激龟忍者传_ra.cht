@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[无限生命值]ON"
+cheat0_code = "0077:80+0078:80+0079:80+007A:80"
+cheat0_enable = false
+
+cheat1_desc = "[透明(伤血后)]ON"
+cheat1_code = "0500:F0"
+cheat1_enable = false
+

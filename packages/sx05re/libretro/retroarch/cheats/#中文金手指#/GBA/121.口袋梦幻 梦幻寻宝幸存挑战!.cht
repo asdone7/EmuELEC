@@ -1,0 +1,199 @@
+cheats = 49
+
+cheat0_desc = "时间不减 45秒"
+cheat0_code = "0200774C 00000001+0200774D 0000002D"
+cheat0_enable = false
+
+cheat1_desc = "时间不减 60秒"
+cheat1_code = "0200774C 00000001+0200774D 0000003C"
+cheat1_enable = false
+
+cheat2_desc = "时间不减 30秒"
+cheat2_code = "0200774C 00000001+0200774D 0000001E"
+cheat2_enable = false
+
+cheat3_desc = "P1 角色选择 コロシケ"
+cheat3_code = "020023AA 00000000"
+cheat3_enable = false
+
+cheat4_desc = "P1 角色选择 ウスタ一"
+cheat4_code = "020023AA 00000001"
+cheat4_enable = false
+
+cheat5_desc = "P1 角色选择 リゾシト"
+cheat5_code = "020023AA 00000002"
+cheat5_enable = false
+
+cheat6_desc = "P1 角色选择 プリンプリン"
+cheat6_code = "020023AA 00000003"
+cheat6_enable = false
+
+cheat7_desc = "P1 角色选择 フォンドヴォ一"
+cheat7_code = "020023AA 00000004"
+cheat7_enable = false
+
+cheat8_desc = "P1 角色选择 アブラミ一"
+cheat8_code = "020023AA 00000005"
+cheat8_enable = false
+
+cheat9_desc = "P1 角色选择 ババロア"
+cheat9_code = "020023AA 00000006"
+cheat9_enable = false
+
+cheat10_desc = "P1 角色选择 クシカツ"
+cheat10_code = "020023AA 00000007"
+cheat10_enable = false
+
+cheat11_desc = "P1 角色选择 ドリアン"
+cheat11_code = "020023AA 00000008"
+cheat11_enable = false
+
+cheat12_desc = "P1 角色选择 ダイフク一"
+cheat12_code = "020023AA 00000009"
+cheat12_enable = false
+
+cheat13_desc = "P1 角色选择 レバニラ"
+cheat13_code = "020023AA 0000000A"
+cheat13_enable = false
+
+cheat14_desc = "P1 角色选择 T-ボ一ン"
+cheat14_code = "020023AA 0000000B"
+cheat14_enable = false
+
+cheat15_desc = "P1 角色选择 黑マントの男"
+cheat15_code = "020023AA 0000000C"
+cheat15_enable = false
+
+cheat16_desc = "P1 角色选择 ポ一"
+cheat16_code = "020023AA 0000000D"
+cheat16_enable = false
+
+cheat17_desc = "P1 体力值 全满"
+cheat17_code = "02006C09 00000064"
+cheat17_enable = false
+
+cheat18_desc = "P1 体力值 为零"
+cheat18_code = "02006C09 00000000"
+cheat18_enable = false
+
+cheat19_desc = "P1 能量值 全满"
+cheat19_code = "02006C0B 00000064"
+cheat19_enable = false
+
+cheat20_desc = "P1 能量值 为零"
+cheat20_code = "02006C0B 00000000"
+cheat20_enable = false
+
+cheat21_desc = "P2 体力值 为零"
+cheat21_code = "02006C19 00000000"
+cheat21_enable = false
+
+cheat22_desc = "P2 体力值 全满"
+cheat22_code = "02006C19 00000064"
+cheat22_enable = false
+
+cheat23_desc = "P2 能量值 为零"
+cheat23_code = "02006C1B 00000000"
+cheat23_enable = false
+
+cheat24_desc = "P2 能量值 全满"
+cheat24_code = "02006C1B 00000064"
+cheat24_enable = false
+
+cheat25_desc = "场地选择 船上"
+cheat25_code = "020023B4 00000000"
+cheat25_enable = false
+
+cheat26_desc = "场地选择 草原"
+cheat26_code = "020023B4 00000001"
+cheat26_enable = false
+
+cheat27_desc = "场地选择 森林"
+cheat27_code = "020023B4 00000002"
+cheat27_enable = false
+
+cheat28_desc = "场地选择 岩场"
+cheat28_code = "020023B4 00000003"
+cheat28_enable = false
+
+cheat29_desc = "场地选择 遗迹"
+cheat29_code = "020023B4 00000004"
+cheat29_enable = false
+
+cheat30_desc = "场地选择 河"
+cheat30_code = "020023B4 00000005"
+cheat30_enable = false
+
+cheat31_desc = "场地选择 沙漠"
+cheat31_code = "020023B4 00000006"
+cheat31_enable = false
+
+cheat32_desc = "场地选择 熔岩"
+cheat32_code = "020023B4 00000007"
+cheat32_enable = false
+
+cheat33_desc = "场地选择 钟乳洞"
+cheat33_code = "020023B4 00000008"
+cheat33_enable = false
+
+cheat34_desc = "场地选择 矿山铁路"
+cheat34_code = "020023B4 00000009"
+cheat34_enable = false
+
+cheat35_desc = "场地选择 とうぎ场"
+cheat35_code = "020023B4 0000000A"
+cheat35_enable = false
+
+cheat36_desc = "全人物"
+cheat36_code = "02008B14 000000FF+02008B28 00000001"
+cheat36_enable = false
+
+cheat37_desc = "积分"
+cheat37_code = "020059F4 000000FF+020059F5 000000E0+020059F6 000000F5+020059F7 00000005"
+cheat37_enable = false
+
+cheat38_desc = "兔子料理"
+cheat38_code = "020066C8 00000002+020066C9 00000004+020066CA 00000000+020066CB 00000005+020066CC 00000014"
+cheat38_enable = false
+
+cheat39_desc = "战斗时间"
+cheat39_code = "0200774E 00000000+0200774F 00000017"
+cheat39_enable = false
+
+cheat40_desc = "我方生命"
+cheat40_code = "02006C09 00000064"
+cheat40_enable = false
+
+cheat41_desc = "我方能量"
+cheat41_code = "02006C0B 00000064"
+cheat41_enable = false
+
+cheat42_desc = "我方禁货"
+cheat42_code = "02006C10 000000E7+02006C11 00000003"
+cheat42_enable = false
+
+cheat43_desc = "我方隐身"
+cheat43_code = "02006CC8 00000010"
+cheat43_enable = false
+
+cheat44_desc = "对方生命"
+cheat44_code = "02006C19 00000000"
+cheat44_enable = false
+
+cheat45_desc = "对方能量"
+cheat45_code = "02006C1B 00000000"
+cheat45_enable = false
+
+cheat46_desc = "对方禁货"
+cheat46_code = "02006C20 00000019+02006C21 000000FC"
+cheat46_enable = false
+
+cheat47_desc = "对战全人物 步骤一"
+cheat47_code = "020023E8 00000002"
+cheat47_enable = false
+
+cheat48_desc = "对战全人物 步骤二"
+cheat48_code = "020023E8 00000001"
+cheat48_enable = false
+
+

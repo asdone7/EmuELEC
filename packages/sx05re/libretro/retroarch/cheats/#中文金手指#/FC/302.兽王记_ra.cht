@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[无敌]ON"
+cheat0_code = "0092:01+0093:0C"
+cheat0_enable = false
+

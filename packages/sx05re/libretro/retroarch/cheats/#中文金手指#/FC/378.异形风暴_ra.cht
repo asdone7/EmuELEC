@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[时间不减]ON"
+cheat0_code = "03BC:39+03BD:39+03BE:39"
+cheat0_enable = false
+
+cheat1_desc = "[生命数99]ON"
+cheat1_code = "04A1:09"
+cheat1_enable = false
+
+cheat2_desc = "[隐身]ON"
+cheat2_code = "049F:35"
+cheat2_enable = false
+

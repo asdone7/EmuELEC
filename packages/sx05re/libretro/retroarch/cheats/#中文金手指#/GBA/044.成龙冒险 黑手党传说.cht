@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "血"
+cheat0_code = "02006218 00000064"
+cheat0_enable = false
+
+

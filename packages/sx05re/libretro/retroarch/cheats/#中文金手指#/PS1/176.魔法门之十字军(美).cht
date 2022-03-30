@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#资讯健康"
+cheat0_code = "800F1D0C 03E7"
+cheat0_enable = false
+
+cheat1_desc = "#最大健康"
+cheat1_code = "800F4E28 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#Inf法力值"
+cheat2_code = "801051E0 03E7"
+cheat2_enable = false
+
+cheat3_desc = "#最大法力值"
+cheat3_code = "801051E4 03E7"
+cheat3_enable = false
+
+cheat4_desc = "#黄金"
+cheat4_code = "801051D0 FFFF"
+cheat4_enable = false
+
+cheat5_desc = "#Next Level Always 1 Away"
+cheat5_code = "80105134 0001"
+cheat5_enable = false
+
+

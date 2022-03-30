@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[无敌]ON"
+cheat0_code = "049C:01+049D:03"
+cheat0_enable = false
+
+cheat1_desc = "[手雷]ON"
+cheat1_code = "04A6:01+04A7:09"
+cheat1_enable = false
+

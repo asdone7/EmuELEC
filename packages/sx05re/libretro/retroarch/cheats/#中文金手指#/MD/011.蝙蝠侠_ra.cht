@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[镖]ON"
+cheat0_code = "FF432B:99"
+cheat0_enable = false
+
+cheat1_desc = "[血]ON"
+cheat1_code = "FF430D:7F"
+cheat1_enable = false
+
+cheat2_desc = "[隐身]ON"
+cheat2_code = "FF4327:2D"
+cheat2_enable = false
+
+cheat3_desc = "[敌人血]ON"
+cheat3_code = "FF408D:00"
+cheat3_enable = false
+
+cheat4_desc = "[只数]ON"
+cheat4_code = "FF431D:09"
+cheat4_enable = false
+

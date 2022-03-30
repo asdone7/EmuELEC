@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "全4关开启"
+cheat0_code = "020437BE 0000000F"
+cheat0_enable = false
+
+

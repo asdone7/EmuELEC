@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[无敌]锁"
+cheat0_code = "FF8064:01"
+cheat0_enable = false
+
+cheat1_desc = "[锁住妖怪]锁"
+cheat1_code = "FF8066:01"
+cheat1_enable = false
+
+cheat2_desc = "[无限时间]锁"
+cheat2_code = "FFC273:02"
+cheat2_enable = false
+
+cheat3_desc = "[50条命]On"
+cheat3_code = "FFC266:30+FFC267:35"
+cheat3_enable = false
+
+cheat4_desc = "[全物品]On"
+cheat4_code = "FFC252:39+FFC253:30+FFC254:39+FFC255:30+FFC256:39+FFC257:30+FFC258:39+FFC259:30+FFC25A:31+FFC25B:30+FFC25C:39+FFC25D:30+FFC25E:39+FFC25F:30+FFC260:39+FFC261:30+FFC262:39+FFC263:30+FFC264:39+FFC265:30"
+cheat4_enable = false
+

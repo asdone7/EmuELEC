@@ -1,0 +1,90 @@
+cheats = 22
+
+cheat0_desc = "[金钱无限]1P"
+cheat0_code = "FFF460:63"
+cheat0_enable = false
+
+cheat1_desc = "[金钱无限]2P"
+cheat1_code = "FFEB55:63"
+cheat1_enable = false
+
+cheat2_desc = "[金钱无限]1P+FF2P"
+cheat2_code = "FFF460:63+FFEB55:63"
+cheat2_enable = false
+
+cheat3_desc = "[生命无限]1P"
+cheat3_code = "FFF46F:09"
+cheat3_enable = false
+
+cheat4_desc = "[生命无限]2P"
+cheat4_code = "FFF4CD:09"
+cheat4_enable = false
+
+cheat5_desc = "[生命无限]1P+FF2P"
+cheat5_code = "FFF46F:09+FFF4CD:09"
+cheat5_enable = false
+
+cheat6_desc = "[全部道具]1P"
+cheat6_code = "FFEB44:63+FFEB46:63+FFEB47:63+FFEB4D:63+FFEB4C:63+FFEB4B:63+FFEB49:63+FFEB4F:63+FFEB4A:63"
+cheat6_enable = false
+
+cheat7_desc = "[全部道具]2P"
+cheat7_code = "FFEB5C:63+FFEB5B:63+FFEB56:63+FFEB54:63+FFEB57:63+FFEB5D:63+FFEB59:63+FFEB5F:63+FFEB5A:63"
+cheat7_enable = false
+
+cheat8_desc = "[全部道具]1P+FF2P"
+cheat8_code = "FFEB44:63+FFEB46:63+FFEB47:63+FFEB4D:63+FFEB4C:63+FFEB4B:63+FFEB49:63+FFEB4F:63+FFEB4A:63+FFEB5C:63+FFEB5B:63+FFEB56:63+FFEB54:63+FFEB57:63+FFEB5D:63+FFEB59:63+FFEB5F:63+FFEB5A:63"
+cheat8_enable = false
+
+cheat9_desc = "[全部星章]1P"
+cheat9_code = "FFF44A:02"
+cheat9_enable = false
+
+cheat10_desc = "[全部星章]2P"
+cheat10_code = "FFF4A8:02"
+cheat10_enable = false
+
+cheat11_desc = "[全部星章]1P+FF2P"
+cheat11_code = "FFF44A:02+FFF4A8:02"
+cheat11_enable = false
+
+cheat12_desc = "[1P 战衣装备]升级"
+cheat12_code = "FFF471:88"
+cheat12_enable = false
+
+cheat13_desc = "[1P 战衣装备]还原"
+cheat13_code = "FFF471:00"
+cheat13_enable = false
+
+cheat14_desc = "[2P 战衣装备]升级"
+cheat14_code = "FFF4CF:88"
+cheat14_enable = false
+
+cheat15_desc = "[2P 战衣装备]还原"
+cheat15_code = "FFF4CF:00"
+cheat15_enable = false
+
+cheat16_desc = "[1P 选择人物]女剑士"
+cheat16_code = "FFF502:00"
+cheat16_enable = false
+
+cheat17_desc = "[1P 选择人物]男战士"
+cheat17_code = "FFF502:01"
+cheat17_enable = false
+
+cheat18_desc = "[1P 选择人物]魔法师"
+cheat18_code = "FFF502:02"
+cheat18_enable = false
+
+cheat19_desc = "[2P 选择人物]女剑士"
+cheat19_code = "FFF504:00"
+cheat19_enable = false
+
+cheat20_desc = "[2P 选择人物]男战士"
+cheat20_code = "FFF504:01"
+cheat20_enable = false
+
+cheat21_desc = "[2P 选择人物]魔法师"
+cheat21_code = "FFF504:02"
+cheat21_enable = false
+

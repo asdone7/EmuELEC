@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[主角30条命]ON"
+cheat0_code = "0091:1E"
+cheat0_enable = false
+
+cheat1_desc = "[2主角30条命]ON"
+cheat1_code = "0092:1E"
+cheat1_enable = false
+

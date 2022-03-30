@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#Full Power-100m Sprint，100m Swim，撑竿跳高，跨栏"
+cheat0_code = "801024AA 417F"
+cheat0_enable = false
+
+cheat1_desc = "#全力跳高，铁锤，铁饼，铅球"
+cheat1_code = "8010256E 42FF"
+cheat1_enable = false
+
+cheat2_desc = "#Perfect角锤"
+cheat2_code = "800B1288 0200"
+cheat2_enable = false
+
+cheat3_desc = "#全能标枪"
+cheat3_code = "800B1F5E 416F"
+cheat3_enable = false
+
+cheat4_desc = "#Perfect Angle标枪"
+cheat4_code = "80103EE4 002D"
+cheat4_enable = false
+
+cheat5_desc = "#全速跳远和三级跳远"
+cheat5_code = "800B1B96 471F"
+cheat5_enable = false
+
+

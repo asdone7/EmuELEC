@@ -1,0 +1,62 @@
+cheats = 15
+
+cheat0_desc = "[SHIELD]血"
+cheat0_code = "FFD3D6:63"
+cheat0_enable = false
+
+cheat1_desc = "[CRED ITS]ON"
+cheat1_code = "FFDAF2:05+FFDAF3:0D"
+cheat1_enable = false
+
+cheat2_desc = "[CARTAIDCE]ON"
+cheat2_code = "FF00D4EE:05+FFD4EF:0D"
+cheat2_enable = false
+
+cheat3_desc = "[特殊道具]正常"
+cheat3_code = "FF"
+cheat3_enable = false
+
+cheat4_desc = "[特殊道具]CARTAIDCE"
+cheat4_code = "FFD3DD:0A"
+cheat4_enable = false
+
+cheat5_desc = "[特殊道具]TELEPORTER"
+cheat5_code = "FFD3DD:1D"
+cheat5_enable = false
+
+cheat6_desc = "[特殊道具]STONE"
+cheat6_code = "FFD3DD:1C"
+cheat6_enable = false
+
+cheat7_desc = "[特殊道具]KEY"
+cheat7_code = "FFD3DD:21"
+cheat7_enable = false
+
+cheat8_desc = "[特殊道具]CRED ITS"
+cheat8_code = "FFD3DD:41"
+cheat8_enable = false
+
+cheat9_desc = "[特殊道具]ID CARD"
+cheat9_code = "FFD3DD:48"
+cheat9_enable = false
+
+cheat10_desc = "[特殊道具]ANTI C BELT?"
+cheat10_code = "FFD3DD:4B"
+cheat10_enable = false
+
+cheat11_desc = "[人物颜色]ON"
+cheat11_code = "FFD3E1:40"
+cheat11_enable = false
+
+cheat12_desc = "[人物颜色]ON"
+cheat12_code = "FFD3E1:00"
+cheat12_enable = false
+
+cheat13_desc = "[人物颜色]ON"
+cheat13_code = "FFD3E1:20"
+cheat13_enable = false
+
+cheat14_desc = "[人物颜色]ON"
+cheat14_code = "FFD3E1:60"
+cheat14_enable = false
+

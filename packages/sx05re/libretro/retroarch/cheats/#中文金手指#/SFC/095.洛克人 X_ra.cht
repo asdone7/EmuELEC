@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[生命值]ON"
+cheat0_code = "7E0BCF10"
+cheat0_enable = false
+
+cheat1_desc = "[无限只]ON"
+cheat1_code = "7E1F8009"
+cheat1_enable = false
+
+cheat2_desc = "[透明]ON"
+cheat2_code = "7E0BD808"
+cheat2_enable = false
+
+cheat3_desc = "[快速储气]ON"
+cheat3_code = "7E0C0004+7E0C0302"
+cheat3_enable = false
+
+cheat4_desc = "[全部能力]ON"
+cheat4_code = "7E1F88DC+7E1F8ADC+7E1F8EDC+7E1F90DC+7E1F92DC+7E1F94DC+7E1F96DC"
+cheat4_enable = false
+
+cheat5_desc = "[全套装甲]ON"
+cheat5_code = "7E1F990F"
+cheat5_enable = false
+
+cheat6_desc = "[全附加容器]ON"
+cheat6_code = "7E1F8380+7E1F8480+7E1F8580+7E1F8680"
+cheat6_enable = false
+

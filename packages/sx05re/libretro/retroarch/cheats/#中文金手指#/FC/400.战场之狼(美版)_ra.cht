@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[炸弹]ON"
+cheat0_code = "04A6:09"
+cheat0_enable = false
+
+cheat1_desc = "[人数]ON"
+cheat1_code = "049C:03"
+cheat1_enable = false
+

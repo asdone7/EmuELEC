@@ -1,0 +1,34 @@
+cheats = 8
+
+cheat0_desc = "[1P无敌]锁"
+cheat0_code = "7E413650"
+cheat0_enable = false
+
+cheat1_desc = "[ 血槽]锁"
+cheat1_code = "7E400850+7E400900+7E400A50+7E400B00"
+cheat1_enable = false
+
+cheat2_desc = "[命/等级]锁"
+cheat2_code = "7E413208+7E41120F"
+cheat2_enable = false
+
+cheat3_desc = "[2P 无敌]锁"
+cheat3_code = "7E433650"
+cheat3_enable = false
+
+cheat4_desc = "[   血槽]锁"
+cheat4_code = "7E420850+7E420900+7E420A50+7E420B00"
+cheat4_enable = false
+
+cheat5_desc = "[命/等级]锁"
+cheat5_code = "7E433208+7E43120F"
+cheat5_enable = false
+
+cheat6_desc = "[敌人]见光死(BT)/锁"
+cheat6_code = "7E5E0800+7E5E0900+7E5C0800+7E5C0900+7E600800+7E600900"
+cheat6_enable = false
+
+cheat7_desc = "[敌人]一击杀(搞笑)/锁"
+cheat7_code = "7E5E0801+7E5E0900+7E5C0801+7E5C0900+7E600801+7E600900"
+cheat7_enable = false
+

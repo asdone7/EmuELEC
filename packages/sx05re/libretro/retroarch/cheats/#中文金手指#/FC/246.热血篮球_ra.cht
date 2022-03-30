@@ -1,0 +1,210 @@
+cheats = 52
+
+cheat0_desc = "[己方得分]ON"
+cheat0_code = "04D5:63"
+cheat0_enable = false
+
+cheat1_desc = "[对方得分]ON"
+cheat1_code = "04D6:00"
+cheat1_enable = false
+
+cheat2_desc = "[队服(只适用于剧情模式)]01种"
+cheat2_code = "04D7:00"
+cheat2_enable = false
+
+cheat3_desc = "[队服(只适用于剧情模式)]02种"
+cheat3_code = "04D7:01"
+cheat3_enable = false
+
+cheat4_desc = "[队服(只适用于剧情模式)]03种"
+cheat4_code = "04D7:02"
+cheat4_enable = false
+
+cheat5_desc = "[队服(只适用于剧情模式)]04种"
+cheat5_code = "04D7:03"
+cheat5_enable = false
+
+cheat6_desc = "[队服(只适用于剧情模式)]05种"
+cheat6_code = "04D7:04"
+cheat6_enable = false
+
+cheat7_desc = "[队服(只适用于剧情模式)]06种"
+cheat7_code = "04D7:05"
+cheat7_enable = false
+
+cheat8_desc = "[队服(只适用于剧情模式)]07种"
+cheat8_code = "04D7:06"
+cheat8_enable = false
+
+cheat9_desc = "[队服(只适用于剧情模式)]08种"
+cheat9_code = "04D7:07"
+cheat9_enable = false
+
+cheat10_desc = "[队服(只适用于剧情模式)]09种"
+cheat10_code = "04D7:08"
+cheat10_enable = false
+
+cheat11_desc = "[队服(只适用于剧情模式)]10种"
+cheat11_code = "04D7:09"
+cheat11_enable = false
+
+cheat12_desc = "[1P队伍(推荐在对战模式使用]01种"
+cheat12_code = "04CD:00"
+cheat12_enable = false
+
+cheat13_desc = "[1P队伍(推荐在对战模式使用]02种"
+cheat13_code = "04CD:01"
+cheat13_enable = false
+
+cheat14_desc = "[1P队伍(推荐在对战模式使用]03种"
+cheat14_code = "04CD:02"
+cheat14_enable = false
+
+cheat15_desc = "[1P队伍(推荐在对战模式使用]04种"
+cheat15_code = "04CD:03"
+cheat15_enable = false
+
+cheat16_desc = "[1P队伍(推荐在对战模式使用]05种"
+cheat16_code = "04CD:04"
+cheat16_enable = false
+
+cheat17_desc = "[1P队伍(推荐在对战模式使用]06种"
+cheat17_code = "04CD:05"
+cheat17_enable = false
+
+cheat18_desc = "[1P队伍(推荐在对战模式使用]07种"
+cheat18_code = "04CD:06"
+cheat18_enable = false
+
+cheat19_desc = "[1P队伍(推荐在对战模式使用]08种"
+cheat19_code = "04CD:07"
+cheat19_enable = false
+
+cheat20_desc = "[1P队伍(推荐在对战模式使用]09种"
+cheat20_code = "04CD:08"
+cheat20_enable = false
+
+cheat21_desc = "[1P队伍(推荐在对战模式使用]10种(隐藏队伍1)"
+cheat21_code = "04CD:09"
+cheat21_enable = false
+
+cheat22_desc = "[1P队伍(推荐在对战模式使用]11种(隐藏队伍2)"
+cheat22_code = "04CD:0A"
+cheat22_enable = false
+
+cheat23_desc = "[1P队伍(推荐在对战模式使用]12种"
+cheat23_code = "04CD:0B"
+cheat23_enable = false
+
+cheat24_desc = "[2P队伍(推荐在对战模式使用]01种"
+cheat24_code = "04CE:00"
+cheat24_enable = false
+
+cheat25_desc = "[2P队伍(推荐在对战模式使用]02种"
+cheat25_code = "04CE:01"
+cheat25_enable = false
+
+cheat26_desc = "[2P队伍(推荐在对战模式使用]03种"
+cheat26_code = "04CE:02"
+cheat26_enable = false
+
+cheat27_desc = "[2P队伍(推荐在对战模式使用]04种"
+cheat27_code = "04CE:03"
+cheat27_enable = false
+
+cheat28_desc = "[2P队伍(推荐在对战模式使用]05种"
+cheat28_code = "04CE:04"
+cheat28_enable = false
+
+cheat29_desc = "[2P队伍(推荐在对战模式使用]06种"
+cheat29_code = "04CE:05"
+cheat29_enable = false
+
+cheat30_desc = "[2P队伍(推荐在对战模式使用]07种"
+cheat30_code = "04CE:06"
+cheat30_enable = false
+
+cheat31_desc = "[2P队伍(推荐在对战模式使用]08种"
+cheat31_code = "04CE:07"
+cheat31_enable = false
+
+cheat32_desc = "[2P队伍(推荐在对战模式使用]09种"
+cheat32_code = "04CE:08"
+cheat32_enable = false
+
+cheat33_desc = "[2P队伍(推荐在对战模式使用]10种(隐藏队伍1)"
+cheat33_code = "04CE:09"
+cheat33_enable = false
+
+cheat34_desc = "[2P队伍(推荐在对战模式使用]11种(隐藏队伍2)"
+cheat34_code = "04CE:0A"
+cheat34_enable = false
+
+cheat35_desc = "[2P队伍(推荐在对战模式使用]12种"
+cheat35_code = "04CE:0B"
+cheat35_enable = false
+
+cheat36_desc = "[暴怒]1P第一人"
+cheat36_code = "055F:07"
+cheat36_enable = false
+
+cheat37_desc = "[暴怒]1P第二人"
+cheat37_code = "0560:07"
+cheat37_enable = false
+
+cheat38_desc = "[暴怒]1P第三人"
+cheat38_code = "0561:07"
+cheat38_enable = false
+
+cheat39_desc = "[暴怒]1P第四人(手门员)"
+cheat39_code = "0562:07"
+cheat39_enable = false
+
+cheat40_desc = "[暴怒]1P第一,第二人"
+cheat40_code = "055F:07+0560:07"
+cheat40_enable = false
+
+cheat41_desc = "[暴怒]1P第二,第三人"
+cheat41_code = "0560:07+0561:07"
+cheat41_enable = false
+
+cheat42_desc = "[暴怒]1P第一,第三人"
+cheat42_code = "055F:07+0561:07"
+cheat42_enable = false
+
+cheat43_desc = "[暴怒]1P全部"
+cheat43_code = "055F:07+0560:07+0561:07"
+cheat43_enable = false
+
+cheat44_desc = "[暴怒]2P第一人"
+cheat44_code = "0563:07"
+cheat44_enable = false
+
+cheat45_desc = "[暴怒]2P第二人"
+cheat45_code = "0564:07"
+cheat45_enable = false
+
+cheat46_desc = "[暴怒]2P第三人"
+cheat46_code = "0565:07"
+cheat46_enable = false
+
+cheat47_desc = "[暴怒]2P第四人(手门员)"
+cheat47_code = "0566:07"
+cheat47_enable = false
+
+cheat48_desc = "[暴怒]2P第一,第二人"
+cheat48_code = "0563:07+0564:07"
+cheat48_enable = false
+
+cheat49_desc = "[暴怒]2P第二,第三人"
+cheat49_code = "0564:07+0565:07"
+cheat49_enable = false
+
+cheat50_desc = "[暴怒]2P第一,第三人"
+cheat50_code = "0563:07+0565:07"
+cheat50_enable = false
+
+cheat51_desc = "[暴怒]2P全部"
+cheat51_code = "0563:07+0564:07+0565:07"
+cheat51_enable = false
+

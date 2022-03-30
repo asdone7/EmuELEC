@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[生命X9]ON"
+cheat0_code = "002C:09"
+cheat0_enable = false
+

@@ -1,0 +1,66 @@
+cheats = 16
+
+cheat0_desc = "[钱]ON"
+cheat0_code = "FFC802:60+FFC803:EA"
+cheat0_enable = false
+
+cheat1_desc = "[PzKw35t 坦克]无限移动-锁-"
+cheat1_code = "FFB065:0A"
+cheat1_enable = false
+
+cheat2_desc = "[PzKw35t 坦克-武器弹药]37m木 L40"
+cheat2_code = "FFB067:63"
+cheat2_enable = false
+
+cheat3_desc = "[PzKw35t 坦克-武器弹药]7.92mMG"
+cheat3_code = "FFB066:63"
+cheat3_enable = false
+
+cheat4_desc = "[PzKw35t 坦克-更换战车]sIG33/2自走重兵炮"
+cheat4_code = "FFB063:00+FFB064:02"
+cheat4_enable = false
+
+cheat5_desc = "[PzKw35t 坦克-更换战车]******爆击机"
+cheat5_code = "FFB062:FF+FFB063:00"
+cheat5_enable = false
+
+cheat6_desc = "[PzKw35t 坦克-更换战车]SIG33B自走重兵炮"
+cheat6_code = "FFB062:01+FFB063:02"
+cheat6_enable = false
+
+cheat7_desc = "[PzKw35t 坦克-更换战车]*****自走重兵炮"
+cheat7_code = "FFB062:02+FFB063:02"
+cheat7_enable = false
+
+cheat8_desc = "[PzKw35t 坦克-更换战车]8IOEE502战斗机"
+cheat8_code = "FFB062:FF+FFB063:02"
+cheat8_enable = false
+
+cheat9_desc = "[PzKw35t 坦克-更换战车]S.**一力一自走重兵炮"
+cheat9_code = "FFB062:03+FFB063:02"
+cheat9_enable = false
+
+cheat10_desc = "[PzKw35t 坦克-更换战车]121陆VII30战斗机"
+cheat10_code = "FFB062:FF+FFB063:FF"
+cheat10_enable = false
+
+cheat11_desc = "[PzKw35t 坦克-更换战车]0400FVTI火焰放射战车"
+cheat11_code = "FFB062:03+FFB063:03"
+cheat11_enable = false
+
+cheat12_desc = "[PzKw35t 坦克-更换战车]E50IX4B84战斗机"
+cheat12_code = "FFB062:BC+FFB063:02"
+cheat12_enable = false
+
+cheat13_desc = "[PzKw35t 坦克-更换战车]M10A1对战车自走炮"
+cheat13_code = "FFB062:EE+FFB063:01"
+cheat13_enable = false
+
+cheat14_desc = "[PzKw35t 坦克-更换战车]SIGIB自走重兵炮"
+cheat14_code = "FFB062:BC+FFB063:02"
+cheat14_enable = false
+
+cheat15_desc = "[PzKw35t 坦克-更换战车]SU-76对战车自走炮"
+cheat15_code = "FFB062:EC+FFB063:01"
+cheat15_enable = false
+

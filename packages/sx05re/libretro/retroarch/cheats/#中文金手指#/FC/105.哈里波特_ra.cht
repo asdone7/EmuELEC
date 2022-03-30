@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[体力值]ON"
+cheat0_code = "0193:00"
+cheat0_enable = false
+
+cheat1_desc = "[人数]ON"
+cheat1_code = "018D:09"
+cheat1_enable = false
+

@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[体力值]ON"
+cheat0_code = "0498:FF"
+cheat0_enable = false
+
+cheat1_desc = "[LV最大]ON"
+cheat1_code = "0492:63"
+cheat1_enable = false
+
+cheat2_desc = "[金钱]ON"
+cheat2_code = "047B:FF+047C:FF+047D:00"
+cheat2_enable = false
+

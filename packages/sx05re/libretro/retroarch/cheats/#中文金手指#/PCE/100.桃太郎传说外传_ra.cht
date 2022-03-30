@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[钱]ON"
+cheat0_code = "1F16A8:FF+1F16A9:FF+1F16AA:00"
+cheat0_enable = false
+

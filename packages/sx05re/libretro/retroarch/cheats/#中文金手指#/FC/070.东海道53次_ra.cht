@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[只数]ON"
+cheat0_code = "0058:09"
+cheat0_enable = false
+
+cheat1_desc = "[金币]ON"
+cheat1_code = "0060:09"
+cheat1_enable = false
+
+cheat2_desc = "[灯笼]ON"
+cheat2_code = "005F:09"
+cheat2_enable = false
+
+cheat3_desc = "[小刀]ON"
+cheat3_code = "005D:09"
+cheat3_enable = false
+
+cheat4_desc = "[符]ON"
+cheat4_code = "005E:09"
+cheat4_enable = false
+

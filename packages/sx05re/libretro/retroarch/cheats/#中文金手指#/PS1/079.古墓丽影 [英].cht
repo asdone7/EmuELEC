@@ -1,0 +1,143 @@
+cheats = 35
+
+cheat0_desc = "#无限能量洞穴"
+cheat0_code = "80176736 03E8"
+cheat0_enable = false
+
+cheat1_desc = "#维卡巴马无限能源之城"
+cheat1_code = "80181306 03E8"
+cheat1_enable = false
+
+cheat2_desc = "#无限能量损失谷"
+cheat2_code = "801947AA 03E8"
+cheat2_enable = false
+
+cheat3_desc = "#Qualopec无限能源之墓"
+cheat3_code = "801765DE 03E8"
+cheat3_enable = false
+
+cheat4_desc = "#无限能量圣弗朗西斯“愚蠢"
+cheat4_code = "8018830A 03E8"
+cheat4_enable = false
+
+cheat5_desc = "#无限能量竞技场"
+cheat5_code = "8018EB3A 03E8"
+cheat5_enable = false
+
+cheat6_desc = "#无限能量宫迈达斯"
+cheat6_code = "8019D32A 03E8"
+cheat6_enable = false
+
+cheat7_desc = "#无限能量储水池"
+cheat7_code = "801AB7A6 03E8"
+cheat7_enable = false
+
+cheat8_desc = "#蒂霍坎州无限能量之墓"
+cheat8_code = "801A0282 03E8"
+cheat8_enable = false
+
+cheat9_desc = "#喀麦隆无限能源城"
+cheat9_code = "80181E6E 03E8"
+cheat9_enable = false
+
+cheat10_desc = "#喀麦隆无限能量方尖碑"
+cheat10_code = "80189526 03E8"
+cheat10_enable = false
+
+cheat11_desc = "#接穗无限能源保护区"
+cheat11_code = "8018EFDE 03E8"
+cheat11_enable = false
+
+cheat12_desc = "#Infinite Energy Natla矿山"
+cheat12_code = "8019ED7E 03E8"
+cheat12_enable = false
+
+cheat13_desc = "#无限能量亚特兰蒂斯"
+cheat13_code = "8019C38A 03E8"
+cheat13_enable = false
+
+cheat14_desc = "#Infinite Energy大金字塔"
+cheat14_code = "801A2FCE 03E8"
+cheat14_enable = false
+
+cheat15_desc = "#Level修饰符维卡巴马市"
+cheat15_code = "D01FFF90 0001+801FFF90 0002"
+cheat15_enable = false
+
+cheat16_desc = "#Level修改器迷失山谷"
+cheat16_code = "D01FFF90 0001+801FFF90 0003"
+cheat16_enable = false
+
+cheat17_desc = "Qualopec的#Level修改者之墓"
+cheat17_code = "D01FFF90 0001+801FFF90 0004"
+cheat17_enable = false
+
+cheat18_desc = "#Level修改器圣弗朗西斯“愚蠢"
+cheat18_code = "D01FFF90 0001+801FFF90 0005"
+cheat18_enable = false
+
+cheat19_desc = "#Level修改器罗马斗兽场"
+cheat19_code = "D01FFF90 0001+801FFF90 0006"
+cheat19_enable = false
+
+cheat20_desc = "#Level Modifier Palace Midas"
+cheat20_code = "D01FFF90 0001+801FFF90 0007"
+cheat20_enable = false
+
+cheat21_desc = "#Level修改器储水池"
+cheat21_code = "D01FFF90 0001+801FFF90 0008"
+cheat21_enable = false
+
+cheat22_desc = "蒂霍坎人的#Level修改器之墓"
+cheat22_code = "D01FFF90 0001+801FFF90 0009"
+cheat22_enable = false
+
+cheat23_desc = "#Level Modifier喀麦隆市"
+cheat23_code = "D01FFF90 0001+801FFF90 000A"
+cheat23_enable = false
+
+cheat24_desc = "#Khamoon修饰符方尖碑"
+cheat24_code = "D01FFF90 0001+801FFF90 000B"
+cheat24_enable = false
+
+cheat25_desc = "#Scion的电平修改器保护区"
+cheat25_code = "D01FFF90 0001+801FFF90 000C"
+cheat25_enable = false
+
+cheat26_desc = "#Level修改器Natla矿井"
+cheat26_code = "D01FFF90 0001+801FFF90 000D"
+cheat26_enable = false
+
+cheat27_desc = "#Level修饰符亚特兰蒂斯"
+cheat27_code = "D01FFF90 0001+801FFF90 000E"
+cheat27_enable = false
+
+cheat28_desc = "#Level修饰符大金字塔"
+cheat28_code = "D01FFF90 0001+801FFF90 000F"
+cheat28_enable = false
+
+cheat29_desc = "#水下无限氧"
+cheat29_code = "801DDF02 0708"
+cheat29_enable = false
+
+cheat30_desc = "#始终拥有所有物品"
+cheat30_code = "80088644 0008"
+cheat30_enable = false
+
+cheat31_desc = "#总是拥有所有枪支"
+cheat31_code = "80088644 0005"
+cheat31_enable = false
+
+cheat32_desc = "#水下无限氧气V.1.1。"
+cheat32_code = "801DE002 0708"
+cheat32_enable = false
+
+cheat33_desc = "#始终拥有所有项目V.1.1。"
+cheat33_code = "8008872C 0008"
+cheat33_enable = false
+
+cheat34_desc = "#Always Have All Guns V.1.1"
+cheat34_code = "8008872C 0005"
+cheat34_enable = false
+
+

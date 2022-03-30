@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[Crédits Infinis]On"
+cheat0_code = "1F006B:09"
+cheat0_enable = false
+
+cheat1_desc = "[Drops Infinis]On"
+cheat1_code = "1F0074:00"
+cheat1_enable = false
+

@@ -1,0 +1,31 @@
+cheats = 7
+
+cheat0_desc = "#打开所有直升机"
+cheat0_code = "E00EB1D3 0001+300EB1D3 0004"
+cheat0_enable = false
+
+cheat1_desc = "#打开所有副驾驶"
+cheat1_code = "E00EB1D4 0003+300EB1D4 0005"
+cheat1_enable = false
+
+cheat2_desc = "#打开所有任务"
+cheat2_code = "E00EB1D2 0001+300EB1D2 0010"
+cheat2_enable = false
+
+cheat3_desc = "#Inf Health P1＆2"
+cheat3_code = "8003BA66 2400"
+cheat3_enable = false
+
+cheat4_desc = "#仅限无限健康P1"
+cheat4_code = "8003BA50 0100+8003BA52 3221+8003BA5C 0002+8003BA5E 1020"
+cheat4_enable = false
+
+cheat5_desc = "#仅限无限健康P2"
+cheat5_code = "8003BA50 0100+8003BA52 3221+8003BA5C 0002+8003BA5E 1420"
+cheat5_enable = false
+
+cheat6_desc = "#nfinite弹药所有武器"
+cheat6_code = "80050642 2400"
+cheat6_enable = false
+
+

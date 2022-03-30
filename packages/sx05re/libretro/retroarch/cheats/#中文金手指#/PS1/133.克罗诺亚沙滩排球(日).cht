@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "#所有角色"
+cheat0_code = "50001F02 0000+800CED60 0001"
+cheat0_enable = false
+
+cheat1_desc = "#得分了"
+cheat1_code = "801C6300 0005+801C62FC 0005"
+cheat1_enable = false
+
+cheat2_desc = "#即时赢"
+cheat2_code = "800CDEC0 000A"
+cheat2_enable = false
+
+

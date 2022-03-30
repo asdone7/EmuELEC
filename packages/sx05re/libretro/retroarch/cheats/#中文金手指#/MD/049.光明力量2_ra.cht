@@ -1,0 +1,186 @@
+cheats = 46
+
+cheat0_desc = "[无限金钱]ON"
+cheat0_code = "FFF602:FF+FFF603:FF"
+cheat0_enable = false
+
+cheat1_desc = "[主角打一下升一级]ON"
+cheat1_code = "FFE831:64"
+cheat1_enable = false
+
+cheat2_desc = "[主角等级(可以转职，但在转职前取消)]ON"
+cheat2_code = "FFE80A:14"
+cheat2_enable = false
+
+cheat3_desc = "[主角HP]ON"
+cheat3_code = "FFE80C:E7+FFE80D:03+FFE80E:E7+FFE80F:03"
+cheat3_enable = false
+
+cheat4_desc = "[主角MP]ON"
+cheat4_code = "FFE810:FF+FFE811:FF+FFE828:85+FFE829:89+FFE82A:8A+FFE82B:80"
+cheat4_enable = false
+
+cheat5_desc = "[主角属性]ON"
+cheat5_code = "FFE812:FF+FFE813:FF+FFE814:FF+FFE815:FF+FFE816:FF+FFE817:FF+FFE818:FF+FFE819:FF"
+cheat5_enable = false
+
+cheat6_desc = "[女主角等级(转职前解锁)]ON"
+cheat6_code = "FFE842:14"
+cheat6_enable = false
+
+cheat7_desc = "[女主角HP]ON"
+cheat7_code = "FFE844:E7+FFE845:03+FFE846:E7+FFE847:03"
+cheat7_enable = false
+
+cheat8_desc = "[女主角MP]ON"
+cheat8_code = "FFE848:FF+FFE849:FF+FFE860:80+FFE861:81+FFE862:82+FFE863:8B"
+cheat8_enable = false
+
+cheat9_desc = "[女主角属性]ON"
+cheat9_code = "FFE84A:FF+FFE84B:FF+FFE84C:FF+FFE84D:FF+FFE84E:FF+FFE84F:FF+FFE850:FF+FFE851:FF"
+cheat9_enable = false
+
+cheat10_desc = "[骑士等级(转职前请解锁)]ON"
+cheat10_code = "FFE87A:14"
+cheat10_enable = false
+
+cheat11_desc = "[骑士HP]ON"
+cheat11_code = "FFE87C:E7+FFE87D:03+FFE87E:E7+FFE87F:03"
+cheat11_enable = false
+
+cheat12_desc = "[骑士MP]ON"
+cheat12_code = "FFE880:FF+FFE881:FF+FFE898:87+FFE899:88+FFE89A:89+FFE89B:8C"
+cheat12_enable = false
+
+cheat13_desc = "[骑士属性]ON"
+cheat13_code = "FFE882:FF+FFE883:FF+FFE884:FF+FFE885:FF+FFE886:FF+FFE887:FF+FFE888:FF+FFE889:FF"
+cheat13_enable = false
+
+cheat14_desc = "[斧战士等级(转职前解锁)]ON"
+cheat14_code = "FFE8B2:14"
+cheat14_enable = false
+
+cheat15_desc = "[斧战士HP]ON"
+cheat15_code = "FFE8B4:E7+FFE8B5:03+FFE8B6:E7+FFE8B7:03"
+cheat15_enable = false
+
+cheat16_desc = "[斧战士MP]ON"
+cheat16_code = "FFE8B8:FF+FFE8B9:FF+FFE8D0:8E+FFE8D1:8D+FFE8D2:9D+FFE8D3:9E"
+cheat16_enable = false
+
+cheat17_desc = "[斧战士属性]ON"
+cheat17_code = "FFE8BA:FF+FFE8BB:FF+FFE8BC:FF+FFE8BD:FF+FFE8BE:FF+FFE8BF:FF+FFE8C0:FF+FFE8C1:FF"
+cheat17_enable = false
+
+cheat18_desc = "[魔法师等级(转职前解锁)]ON"
+cheat18_code = "FFE8EA:14"
+cheat18_enable = false
+
+cheat19_desc = "[魔法师HP]ON"
+cheat19_code = "FFE8EC:E7+FFE8ED:03+FFE8EE:E7+FFE8EF:03"
+cheat19_enable = false
+
+cheat20_desc = "[魔法师MP]ON"
+cheat20_code = "FFE8F0:FF+FFE8F1:FF+FFE908:8C+FFE909:8D+FFE90A:8E+FFE90B:8B"
+cheat20_enable = false
+
+cheat21_desc = "[魔法师属性]ON"
+cheat21_code = "FFE8F2:FF+FFE8F3:FF+FFE8F4:FF+FFE8F5:FF+FFE8F6:FF+FFE8F7:FF+FFE8F8:FF+FFE8F9:FF"
+cheat21_enable = false
+
+cheat22_desc = "[老鼠等级(转职前解锁)]ON"
+cheat22_code = "FFE922:14"
+cheat22_enable = false
+
+cheat23_desc = "[老鼠HP]ON"
+cheat23_code = "FFE924:E7+FFE925:03+FFE926:E7+FFE927:03"
+cheat23_enable = false
+
+cheat24_desc = "[老鼠MP]ON"
+cheat24_code = "FFE928:FF+FFE929:FF+FFE940:8A+FFE941:8C+FFE942:80+FFE943:82"
+cheat24_enable = false
+
+cheat25_desc = "[老鼠属性]ON"
+cheat25_code = "FFE92A:FF+FFE92B:FF+FFE92C:FF+FFE92D:FF+FFE92E:FF+FFE92F:FF+FFE930:FF+FFE931:FF"
+cheat25_enable = false
+
+cheat26_desc = "[乌龟等级(转职前解锁)]ON"
+cheat26_code = "FFE95A:14"
+cheat26_enable = false
+
+cheat27_desc = "[乌龟HP]ON"
+cheat27_code = "FFE95C:E7+FFE95D:03+FFE95E:E7+FFE95F:03"
+cheat27_enable = false
+
+cheat28_desc = "[乌龟MP]ON"
+cheat28_code = "FFE960:FF+FFE961:FF+FFE978:8C+FFE979:8B+FFE97A:80+FFE97B:82"
+cheat28_enable = false
+
+cheat29_desc = "[乌龟属性]ON"
+cheat29_code = "FFE962:FF+FFE963:FF+FFE964:FF+FFE965:FF+FFE966:FF+FFE967:FF+FFE968:FF+FFE969:FF"
+cheat29_enable = false
+
+cheat30_desc = "[凤凰等级]ON"
+cheat30_code = "FFE992:14"
+cheat30_enable = false
+
+cheat31_desc = "[凤凰HP]ON"
+cheat31_code = "FFE994:E7+FFE995:03+FFE996:E7+FFE997:03"
+cheat31_enable = false
+
+cheat32_desc = "[凤凰MP]ON"
+cheat32_code = "FFE998:FF+FFE999:FF+FFE9B0:81+FFE9B1:9B+FFE9B2:9C+FFE9B3:9D"
+cheat32_enable = false
+
+cheat33_desc = "[凤凰属性]ON"
+cheat33_code = "FFE99A:FF+FFE99B:FF+FFE99C:FF+FFE99D:FF+FFE99E:FF+FFE99F:FF+FFE9A0:FF+FFE9A1:FF"
+cheat33_enable = false
+
+cheat34_desc = "[弓箭手等级]ON"
+cheat34_code = "FFE9CA:14"
+cheat34_enable = false
+
+cheat35_desc = "[弓箭手HP]ON"
+cheat35_code = "FFE9CC:E7+FFE9CD:03+FFE9CE:E7+FFE9CF:03"
+cheat35_enable = false
+
+cheat36_desc = "[弓箭手MP]ON"
+cheat36_code = "FFE9D0:FF+FFE9D1:FF+FFE9E8:9C+FFE9E9:9D+FFE9EA:8B+FFE9EB:9D"
+cheat36_enable = false
+
+cheat37_desc = "[弓箭手属性]ON"
+cheat37_code = "FFE9D2:FF+FFE9D3:FF+FFE9D4:FF+FFE9D5:FF+FFE9D6:FF+FFE9D7:FF+FFE9D8:FF+FFE9D9:FF"
+cheat37_enable = false
+
+cheat38_desc = "[武术家等级]ON"
+cheat38_code = "FFEA02:14"
+cheat38_enable = false
+
+cheat39_desc = "[武术家HP]ON"
+cheat39_code = "FFEA04:E7+FFEA05:03+FFEA06:E7+FFEA07:03"
+cheat39_enable = false
+
+cheat40_desc = "[武术家mp]ON"
+cheat40_code = "FFEA08:FF+FFEA09:FF+FFEA20:8B+FFEA21:9C+FFEA22:9D+FFEA23:8D"
+cheat40_enable = false
+
+cheat41_desc = "[武术家属性]ON"
+cheat41_code = "FFEA0A:FF+FFEA0B:FF+FFEA0C:FF+FFEA0D:FF+FFEA0E:FF+FFEA0F:FF+FFEA20:3F+FFEA21:3F+FFEA22:3F+FFEA23:3F"
+cheat41_enable = false
+
+cheat42_desc = "[飞鸟司令等级]ON"
+cheat42_code = "FFEA3A:14"
+cheat42_enable = false
+
+cheat43_desc = "[飞鸟司令HP]ON"
+cheat43_code = "FFEA3C:E7+FFEA3D:03+FFEA3E:E7+FFEA3F:03"
+cheat43_enable = false
+
+cheat44_desc = "[飞鸟司令MP]ON"
+cheat44_code = "FFEA40:FF+FFEA41:FF+FFEA58:9C+FFEA59:9D+FFEA5A:81+FFEA5B:8D"
+cheat44_enable = false
+
+cheat45_desc = "[飞鸟司令属性]ON"
+cheat45_code = "FFEA42:FF+FFEA43:FF+FFEA44:FF+FFEA45:FF+FFEA46:FF+FFEA47:FF+FFEA48:FF+FFEA49:FF"
+cheat45_enable = false
+

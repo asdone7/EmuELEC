@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[Avoir les Options]On"
+cheat0_code = "1F19F8:02"
+cheat0_enable = false
+
+cheat1_desc = "[Bombes Constantes]On"
+cheat1_code = "1F1AB5:40+1F1AB0:40"
+cheat1_enable = false
+
+cheat2_desc = "[Vies Infinies]On"
+cheat2_code = "1F19F3:0A"
+cheat2_enable = false
+

@@ -1,0 +1,134 @@
+cheats = 33
+
+cheat0_desc = "[全队状态]最佳"
+cheat0_code = "05D5:3F+05D6:3F+05D7:3F+05D8:3F+05D9:3F+05DA:3F+05DB:3F+05DC:3F+05DD:3F+05DE:3F+05DF:3F+05E0:3F"
+cheat0_enable = false
+
+cheat1_desc = "[全队状态]较好"
+cheat1_code = "05D5:0A+05D6:0A+05D7:0A+05D8:0A+05D9:0A+05DA:0A+05DB:0A+05DC:0A+05DD:0A+05DE:0A+05DF:0A+05E0:0A"
+cheat1_enable = false
+
+cheat2_desc = "[全队状态]一般"
+cheat2_code = "05D5:08+05D6:08+05D7:08+05D8:08+05D9:08+05DA:08+05DB:08+05DC:08+05DD:08+05DE:08+05DF:08+05E0:08"
+cheat2_enable = false
+
+cheat3_desc = "[全队状态]较差"
+cheat3_code = "05D5:04+05D6:04+05D7:04+05D8:04+05D9:04+05DA:04+05DB:04+05DC:04+05DD:04+05DE:04+05DF:04+05E0:04"
+cheat3_enable = false
+
+cheat4_desc = "[全队状态]最差"
+cheat4_code = "05D5:00+05D6:00+05D7:00+05D8:00+05D9:00+05DA:00+05DB:00+05DC:00+05DD:00+05DE:00+05DF:00+05E0:00"
+cheat4_enable = false
+
+cheat5_desc = "[能力全开]ON"
+cheat5_code = "04FB:FF+04F9:FF+04F7:FF+04F5:FF+04F3:FF+04F1:FF"
+cheat5_enable = false
+
+cheat6_desc = "[颜色]A"
+cheat6_code = "05AF:03"
+cheat6_enable = false
+
+cheat7_desc = "[颜色]B"
+cheat7_code = "05AF:04"
+cheat7_enable = false
+
+cheat8_desc = "[颜色]C"
+cheat8_code = "05AF:05"
+cheat8_enable = false
+
+cheat9_desc = "[颜色]D"
+cheat9_code = "05AF:06"
+cheat9_enable = false
+
+cheat10_desc = "[颜色]E"
+cheat10_code = "05AF:07"
+cheat10_enable = false
+
+cheat11_desc = "[颜色]F"
+cheat11_code = "05AF:08"
+cheat11_enable = false
+
+cheat12_desc = "[颜色]G"
+cheat12_code = "05AF:09"
+cheat12_enable = false
+
+cheat13_desc = "[颜色]H"
+cheat13_code = "05AF:10"
+cheat13_enable = false
+
+cheat14_desc = "[颜色]I"
+cheat14_code = "05AF:11"
+cheat14_enable = false
+
+cheat15_desc = "[时间]ON"
+cheat15_code = "05BF:00+05C0:00+05C1:02"
+cheat15_enable = false
+
+cheat16_desc = "[1p分数]99"
+cheat16_code = "052E:99"
+cheat16_enable = false
+
+cheat17_desc = "[1p分数]0"
+cheat17_code = "052E:00"
+cheat17_enable = false
+
+cheat18_desc = "[2p分数]99"
+cheat18_code = "052F:99"
+cheat18_enable = false
+
+cheat19_desc = "[2p分数]0"
+cheat19_code = "052F:00"
+cheat19_enable = false
+
+cheat20_desc = "[队伍]热血"
+cheat20_code = "052C:00"
+cheat20_enable = false
+
+cheat21_desc = "[队伍]韩国"
+cheat21_code = "052C:01"
+cheat21_enable = false
+
+cheat22_desc = "[队伍]蒙古"
+cheat22_code = "052C:02"
+cheat22_enable = false
+
+cheat23_desc = "[队伍]泰国"
+cheat23_code = "052C:03"
+cheat23_enable = false
+
+cheat24_desc = "[队伍]喀麦隆"
+cheat24_code = "052C:07"
+cheat24_enable = false
+
+cheat25_desc = "[队伍]几内亚"
+cheat25_code = "052C:05"
+cheat25_enable = false
+
+cheat26_desc = "[队伍]塞内加尔"
+cheat26_code = "052C:06"
+cheat26_enable = false
+
+cheat27_desc = "[队伍]德国"
+cheat27_code = "052C:09"
+cheat27_enable = false
+
+cheat28_desc = "[队伍]英格兰"
+cheat28_code = "052C:0A"
+cheat28_enable = false
+
+cheat29_desc = "[队伍]意大利"
+cheat29_code = "052C:0B"
+cheat29_enable = false
+
+cheat30_desc = "[队伍]巴西"
+cheat30_code = "052C:0D"
+cheat30_enable = false
+
+cheat31_desc = "[队伍]阿根廷"
+cheat31_code = "052C:0E"
+cheat31_enable = false
+
+cheat32_desc = "[队伍]墨西哥"
+cheat32_code = "052C:0F"
+cheat32_enable = false
+

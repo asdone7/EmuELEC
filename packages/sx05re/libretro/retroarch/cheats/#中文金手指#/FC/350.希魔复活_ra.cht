@@ -1,0 +1,66 @@
+cheats = 16
+
+cheat0_desc = "[无敌(对陷阱无效)]ON"
+cheat0_code = "1F00:81"
+cheat0_enable = false
+
+cheat1_desc = "[无限人数]ON"
+cheat1_code = "004B:09"
+cheat1_enable = false
+
+cheat2_desc = "[体力最大]ON"
+cheat2_code = "2486:08"
+cheat2_enable = false
+
+cheat3_desc = "[护身宝]ON"
+cheat3_code = "1F05:01+1F2B:06+2191:FF"
+cheat3_enable = false
+
+cheat4_desc = "[武器]普通枪"
+cheat4_code = "0520:00"
+cheat4_enable = false
+
+cheat5_desc = "[武器]火箭炮"
+cheat5_code = "0520:01"
+cheat5_enable = false
+
+cheat6_desc = "[武器]散弹炮"
+cheat6_code = "0520:02"
+cheat6_enable = false
+
+cheat7_desc = "[武器]机关枪"
+cheat7_code = "0520:03"
+cheat7_enable = false
+
+cheat8_desc = "[武器]三向枪"
+cheat8_code = "0520:04"
+cheat8_enable = false
+
+cheat9_desc = "[装备全齐]ON"
+cheat9_code = "0528:01+0529:01+052A:01"
+cheat9_enable = false
+
+cheat10_desc = "[道具全齐]ON"
+cheat10_code = "052F:01+0530:01+0531:01+0532:01+0533:01"
+cheat10_enable = false
+
+cheat11_desc = "[通信器]红色"
+cheat11_code = "0535:00"
+cheat11_enable = false
+
+cheat12_desc = "[通信器]绿色"
+cheat12_code = "0535:01"
+cheat12_enable = false
+
+cheat13_desc = "[通信器]蓝色"
+cheat13_code = "0535:02"
+cheat13_enable = false
+
+cheat14_desc = "[通信器]橙色"
+cheat14_code = "0535:03"
+cheat14_enable = false
+
+cheat15_desc = "[经验值最高]ON"
+cheat15_code = "053D:03+053E:00+053F:00"
+cheat15_enable = false
+

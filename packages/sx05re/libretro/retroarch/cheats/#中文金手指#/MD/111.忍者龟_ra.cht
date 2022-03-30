@@ -1,0 +1,162 @@
+cheats = 40
+
+cheat0_desc = "[P1 角色]LEO"
+cheat0_code = "FFC028:00"
+cheat0_enable = false
+
+cheat1_desc = "[P1 角色]MIKE"
+cheat1_code = "FFC028:01"
+cheat1_enable = false
+
+cheat2_desc = "[P1 角色]DON"
+cheat2_code = "FFC028:02"
+cheat2_enable = false
+
+cheat3_desc = "[P1 角色]RAPH"
+cheat3_code = "FFC028:03"
+cheat3_enable = false
+
+cheat4_desc = "[P1 生命数]ON"
+cheat4_code = "FFC038:09"
+cheat4_enable = false
+
+cheat5_desc = "[P1 体力值]ON"
+cheat5_code = "FFC058:50"
+cheat5_enable = false
+
+cheat6_desc = "[P1 透明]ON"
+cheat6_code = "FFC466:FF"
+cheat6_enable = false
+
+cheat7_desc = "[P1 无敌状态(遇到过不去的地方请解锁)]LEO"
+cheat7_code = "FFC456:02+FFC402:1B+FFC404:01+FFC406:01+FFC450:02+FFC452:08+FFC453:5A"
+cheat7_enable = false
+
+cheat8_desc = "[P1 无敌状态(遇到过不去的地方请解锁)]MIKE"
+cheat8_code = "FFC456:02+FFC402:1B+FFC404:01+FFC406:01+FFC450:02+FFC452:4C+FFC453:5A"
+cheat8_enable = false
+
+cheat9_desc = "[P1 无敌状态(遇到过不去的地方请解锁)]DON"
+cheat9_code = "FFC456:02+FFC402:1B+FFC404:01+FFC406:01+FFC450:02+FFC452:90+FFC453:5A"
+cheat9_enable = false
+
+cheat10_desc = "[P1 无敌状态(遇到过不去的地方请解锁)]RAPH"
+cheat10_code = "FFC456:02+FFC402:1B+FFC404:01+FFC406:01+FFC450:02+FFC452:D4+FFC453:5A"
+cheat10_enable = false
+
+cheat11_desc = "[P2 角色]LEO"
+cheat11_code = "FFC02A:00"
+cheat11_enable = false
+
+cheat12_desc = "[P2 角色]MIKE"
+cheat12_code = "FFC02A:01"
+cheat12_enable = false
+
+cheat13_desc = "[P2 角色]DON"
+cheat13_code = "FFC02A:02"
+cheat13_enable = false
+
+cheat14_desc = "[P2 角色]RAPH"
+cheat14_code = "FFC02A:03"
+cheat14_enable = false
+
+cheat15_desc = "[P2 体力数]ON"
+cheat15_code = "FFC03A:09"
+cheat15_enable = false
+
+cheat16_desc = "[P2 生命值]ON"
+cheat16_code = "FFC05A:50"
+cheat16_enable = false
+
+cheat17_desc = "[P2 透明]ON"
+cheat17_code = "FFC5E6:32"
+cheat17_enable = false
+
+cheat18_desc = "[P2 无敌状态(遇到过不去的地方请解锁)]LEO"
+cheat18_code = "FFC5D6:02+FFC582:1B+FFC584:01+FFC586:01+FFC5D0:02+FFC5D2:08+FFC5D3:5A"
+cheat18_enable = false
+
+cheat19_desc = "[P2 无敌状态(遇到过不去的地方请解锁)]MIKE"
+cheat19_code = "FFC5D6:02+FFC582:1B+FFC584:01+FFC586:01+FFC5D0:02+FFC5D2:4C+FFC5D3:5A"
+cheat19_enable = false
+
+cheat20_desc = "[P2 无敌状态(遇到过不去的地方请解锁)]DON"
+cheat20_code = "FFC5D6:02+FFC582:1B+FFC584:01+FFC586:01+FFC5D0:02+FFC5D2:90+FFC5D3:5A"
+cheat20_enable = false
+
+cheat21_desc = "[P2 无敌状态(遇到过不去的地方请解锁)]RAPH"
+cheat21_code = "FFC5D6:02+FFC582:1B+FFC584:01+FFC586:01+FFC5D0:02+FFC5D2:D4+FFC5D3:5A"
+cheat21_enable = false
+
+cheat22_desc = "[选场景(无实际意义)]第1场景"
+cheat22_code = "FFC024:00"
+cheat22_enable = false
+
+cheat23_desc = "[选场景(无实际意义)]第2场景"
+cheat23_code = "FFC024:01"
+cheat23_enable = false
+
+cheat24_desc = "[选场景(无实际意义)]第3场景"
+cheat24_code = "FFC024:02"
+cheat24_enable = false
+
+cheat25_desc = "[选场景(无实际意义)]第4场景"
+cheat25_code = "FFC024:03"
+cheat25_enable = false
+
+cheat26_desc = "[选场景(无实际意义)]第5场景"
+cheat26_code = "FFC024:04"
+cheat26_enable = false
+
+cheat27_desc = "[选场景(无实际意义)]第6场景"
+cheat27_code = "FFC024:05"
+cheat27_enable = false
+
+cheat28_desc = "[选场景(无实际意义)]第7场景"
+cheat28_code = "FFC024:06"
+cheat28_enable = false
+
+cheat29_desc = "[选场景(无实际意义)]第8场景"
+cheat29_code = "FFC024:07"
+cheat29_enable = false
+
+cheat30_desc = "[选场景(无实际意义)]第9场景"
+cheat30_code = "FFC024:08"
+cheat30_enable = false
+
+cheat31_desc = "[选场景(无实际意义)]第10场景"
+cheat31_code = "FFC024:09"
+cheat31_enable = false
+
+cheat32_desc = "[选场景(无实际意义)]第11场景"
+cheat32_code = "FFC024:0A"
+cheat32_enable = false
+
+cheat33_desc = "[选场景(无实际意义)]第12场景"
+cheat33_code = "FFC024:0B"
+cheat33_enable = false
+
+cheat34_desc = "[选场景(无实际意义)]第13场景"
+cheat34_code = "FFC024:0C"
+cheat34_enable = false
+
+cheat35_desc = "[选关(入关后请解锁)]第1关"
+cheat35_code = "FFC01E:00+FFC024:00"
+cheat35_enable = false
+
+cheat36_desc = "[选关(入关后请解锁)]第2关"
+cheat36_code = "FFC01E:01+FFC024:03"
+cheat36_enable = false
+
+cheat37_desc = "[选关(入关后请解锁)]第3关"
+cheat37_code = "FFC01E:02+FFC024:06"
+cheat37_enable = false
+
+cheat38_desc = "[选关(入关后请解锁)]第4关"
+cheat38_code = "FFC01E:03+FFC024:09"
+cheat38_enable = false
+
+cheat39_desc = "[选关(入关后请解锁)]第5关"
+cheat39_code = "FFC01E:04+FFC024:0A"
+cheat39_enable = false
+

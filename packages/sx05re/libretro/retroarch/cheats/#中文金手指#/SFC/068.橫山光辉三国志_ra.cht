@@ -1,0 +1,606 @@
+cheats = 151
+
+cheat0_desc = "[1P金钱]ON"
+cheat0_code = "7E7E5AFF+7E7E5BE0+7E7E5CF5+7E7E5D05"
+cheat0_enable = false
+
+cheat1_desc = "[1P体力]ON"
+cheat1_code = "7E7D4EE7+7E7D4F03"
+cheat1_enable = false
+
+cheat2_desc = "[1P武力]ON"
+cheat2_code = "7E7D8E63"
+cheat2_enable = false
+
+cheat3_desc = "[1P知力]ON"
+cheat3_code = "7E7DAE63"
+cheat3_enable = false
+
+cheat4_desc = "[1P敏捷]ON"
+cheat4_code = "7E7DCE63"
+cheat4_enable = false
+
+cheat5_desc = "[1P持有卡片]组1"
+cheat5_code = "7E7F8400+7E7F8501+7E7F8602+7E7F8703+7E7F8804+7E7F8905+7E7F8A06+7E7F8B07"
+cheat5_enable = false
+
+cheat6_desc = "[1P持有卡片]组2"
+cheat6_code = "7E7F8408+7E7F8509+7E7F860A+7E7F870B+7E7F880C+7E7F890D+7E7F8A0E+7E7F8B0F"
+cheat6_enable = false
+
+cheat7_desc = "[1P持有卡片]组3"
+cheat7_code = "7E7F8410+7E7F8511+7E7F8612+7E7F8713+7E7F8814+7E7F8915+7E7F8A16+7E7F8B17"
+cheat7_enable = false
+
+cheat8_desc = "[1P持有卡片]组4"
+cheat8_code = "7E7F8418+7E7F8519+7E7F861A+7E7F871B+7E7F881C+7E7F891D+7E7F8A1E+7E7F8B1F"
+cheat8_enable = false
+
+cheat9_desc = "[1P持有卡片]组5"
+cheat9_code = "7E7F8420+7E7F8521+7E7F8622+7E7F8723+7E7F8824+7E7F8925+7E7F8A26+7E7F8B27"
+cheat9_enable = false
+
+cheat10_desc = "[1P持有卡片]组6"
+cheat10_code = "7E7F8428+7E7F8529+7E7F862A+7E7F872B+7E7F882C+7E7F892D+7E7F8A2E+7E7F8B2F"
+cheat10_enable = false
+
+cheat11_desc = "[1P持有卡片]组7"
+cheat11_code = "7E7F8430+7E7F8531+7E7F8632+7E7F8733+7E7F8834+7E7F8935+7E7F8A36+7E7F8B37"
+cheat11_enable = false
+
+cheat12_desc = "[1P持有卡片]组8"
+cheat12_code = "7E7F8438"
+cheat12_enable = false
+
+cheat13_desc = "[1P队员体力全满]ON"
+cheat13_code = "7E7D50E7+7E7D5103+7E7D52E7+7E7D5303+7E7D54E7+7E7D5503+7E7D56E7+7E7D5703+7E7D58E7+7E7D5903"
+cheat13_enable = false
+
+cheat14_desc = "[1P队员武力全满]ON"
+cheat14_code = "7E7D8F63+7E7D9063+7E7D9163+7E7D9263+7E7D9363"
+cheat14_enable = false
+
+cheat15_desc = "[1P队员知力全满]ON"
+cheat15_code = "7E7DAF63+7E7DB063+7E7DB163+7E7DB263+7E7DB363"
+cheat15_enable = false
+
+cheat16_desc = "[1P队员敏捷全满]ON"
+cheat16_code = "7E7DCF63+7E7DD063+7E7DD163+7E7DD263+7E7DD363"
+cheat16_enable = false
+
+cheat17_desc = "[1P拥有队员数]1名"
+cheat17_code = "7E7ECA01"
+cheat17_enable = false
+
+cheat18_desc = "[1P拥有队员数]5名"
+cheat18_code = "7E7ECA05"
+cheat18_enable = false
+
+cheat19_desc = "[1P首位队员变更]曹操"
+cheat19_code = "7E7FC501"
+cheat19_enable = false
+
+cheat20_desc = "[1P首位队员变更]孙权"
+cheat20_code = "7E7FC502"
+cheat20_enable = false
+
+cheat21_desc = "[1P首位队员变更]董卓"
+cheat21_code = "7E7FC503"
+cheat21_enable = false
+
+cheat22_desc = "[1P首位队员变更]袁绍"
+cheat22_code = "7E7FC504"
+cheat22_enable = false
+
+cheat23_desc = "[1P首位队员变更]袁术"
+cheat23_code = "7E7FC505"
+cheat23_enable = false
+
+cheat24_desc = "[1P首位队员变更]孙坚"
+cheat24_code = "7E7FC506"
+cheat24_enable = false
+
+cheat25_desc = "[1P首位队员变更]马腾"
+cheat25_code = "7E7FC507"
+cheat25_enable = false
+
+cheat26_desc = "[1P首位队员变更]关羽"
+cheat26_code = "7E7FC508"
+cheat26_enable = false
+
+cheat27_desc = "[1P首位队员变更]张飞"
+cheat27_code = "7E7FC509"
+cheat27_enable = false
+
+cheat28_desc = "[1P首位队员变更]赵云"
+cheat28_code = "7E7FC50A"
+cheat28_enable = false
+
+cheat29_desc = "[1P首位队员变更]马超"
+cheat29_code = "7E7FC50B"
+cheat29_enable = false
+
+cheat30_desc = "[1P首位队员变更]黄忠"
+cheat30_code = "7E7FC50C"
+cheat30_enable = false
+
+cheat31_desc = "[1P首位队员变更]魏延"
+cheat31_code = "7E7FC50D"
+cheat31_enable = false
+
+cheat32_desc = "[1P首位队员变更]糜竺"
+cheat32_code = "7E7FC50E"
+cheat32_enable = false
+
+cheat33_desc = "[1P首位队员变更]糜芳"
+cheat33_code = "7E7FC50F"
+cheat33_enable = false
+
+cheat34_desc = "[1P首位队员变更]周仓"
+cheat34_code = "7E7FC510"
+cheat34_enable = false
+
+cheat35_desc = "[1P首位队员变更]刘封"
+cheat35_code = "7E7FC511"
+cheat35_enable = false
+
+cheat36_desc = "[1P首位队员变更]关平"
+cheat36_code = "7E7FC512"
+cheat36_enable = false
+
+cheat37_desc = "[1P首位队员变更]关兴"
+cheat37_code = "7E7FC513"
+cheat37_enable = false
+
+cheat38_desc = "[1P首位队员变更]张苞"
+cheat38_code = "7E7FC514"
+cheat38_enable = false
+
+cheat39_desc = "[1P首位队员变更]严颜"
+cheat39_code = "7E7FC515"
+cheat39_enable = false
+
+cheat40_desc = "[1P首位队员变更]吴懿"
+cheat40_code = "7E7FC516"
+cheat40_enable = false
+
+cheat41_desc = "[1P首位队员变更]吴兰"
+cheat41_code = "7E7FC517"
+cheat41_enable = false
+
+cheat42_desc = "[1P首位队员变更]雷铜"
+cheat42_code = "7E7FC518"
+cheat42_enable = false
+
+cheat43_desc = "[1P首位队员变更]李严"
+cheat43_code = "7E7FC519"
+cheat43_enable = false
+
+cheat44_desc = "[1P首位队员变更]马岱"
+cheat44_code = "7E7FC51A"
+cheat44_enable = false
+
+cheat45_desc = "[1P首位队员变更]廖化"
+cheat45_code = "7E7FC51B"
+cheat45_enable = false
+
+cheat46_desc = "[1P首位队员变更]姜维"
+cheat46_code = "7E7FC51C"
+cheat46_enable = false
+
+cheat47_desc = "[1P首位队员变更]王平"
+cheat47_code = "7E7FC51D"
+cheat47_enable = false
+
+cheat48_desc = "[1P首位队员变更]马忠"
+cheat48_code = "7E7FC51E"
+cheat48_enable = false
+
+cheat49_desc = "[1P首位队员变更]张翼"
+cheat49_code = "7E7FC51F"
+cheat49_enable = false
+
+cheat50_desc = "[1P首位队员变更]张嶷"
+cheat50_code = "7E7FC520"
+cheat50_enable = false
+
+cheat51_desc = "[1P首位队员变更]孟达"
+cheat51_code = "7E7FC521"
+cheat51_enable = false
+
+cheat52_desc = "[1P首位队员变更]傅士仁"
+cheat52_code = "7E7FC522"
+cheat52_enable = false
+
+cheat53_desc = "[1P首位队员变更]范疆"
+cheat53_code = "7E7FC523"
+cheat53_enable = false
+
+cheat54_desc = "[1P首位队员变更]张达"
+cheat54_code = "7E7FC524"
+cheat54_enable = false
+
+cheat55_desc = "[1P首位队员变更]张任"
+cheat55_code = "7E7FC525"
+cheat55_enable = false
+
+cheat56_desc = "[1P首位队员变更]孟获"
+cheat56_code = "7E7FC526"
+cheat56_enable = false
+
+cheat57_desc = "[1P首位队员变更]夏侯惇"
+cheat57_code = "7E7FC527"
+cheat57_enable = false
+
+cheat58_desc = "[1P首位队员变更]夏侯渊"
+cheat58_code = "7E7FC528"
+cheat58_enable = false
+
+cheat59_desc = "[1P首位队员变更]夏侯霸"
+cheat59_code = "7E7FC529"
+cheat59_enable = false
+
+cheat60_desc = "[1P首位队员变更]曹仁"
+cheat60_code = "7E7FC52A"
+cheat60_enable = false
+
+cheat61_desc = "[1P首位队员变更]曹洪"
+cheat61_code = "7E7FC52B"
+cheat61_enable = false
+
+cheat62_desc = "[1P首位队员变更]曹纯"
+cheat62_code = "7E7FC52C"
+cheat62_enable = false
+
+cheat63_desc = "[1P首位队员变更]曹休"
+cheat63_code = "7E7FC52D"
+cheat63_enable = false
+
+cheat64_desc = "[1P首位队员变更]曹真"
+cheat64_code = "7E7FC52E"
+cheat64_enable = false
+
+cheat65_desc = "[1P首位队员变更]曹彰"
+cheat65_code = "7E7FC52F"
+cheat65_enable = false
+
+cheat66_desc = "[1P首位队员变更]乐进"
+cheat66_code = "7E7FC530"
+cheat66_enable = false
+
+cheat67_desc = "[1P首位队员变更]李典"
+cheat67_code = "7E7FC531"
+cheat67_enable = false
+
+cheat68_desc = "[1P首位队员变更]于禁"
+cheat68_code = "7E7FC532"
+cheat68_enable = false
+
+cheat69_desc = "[1P首位队员变更]典韦"
+cheat69_code = "7E7FC533"
+cheat69_enable = false
+
+cheat70_desc = "[1P首位队员变更]许褚"
+cheat70_code = "7E7FC534"
+cheat70_enable = false
+
+cheat71_desc = "[1P首位队员变更]徐晃"
+cheat71_code = "7E7FC535"
+cheat71_enable = false
+
+cheat72_desc = "[1P首位队员变更]张辽"
+cheat72_code = "7E7FC536"
+cheat72_enable = false
+
+cheat73_desc = "[1P首位队员变更]张郃"
+cheat73_code = "7E7FC537"
+cheat73_enable = false
+
+cheat74_desc = "[1P首位队员变更]牛金"
+cheat74_code = "7E7FC538"
+cheat74_enable = false
+
+cheat75_desc = "[1P首位队员变更]蔡瑁"
+cheat75_code = "7E7FC539"
+cheat75_enable = false
+
+cheat76_desc = "[1P首位队员变更]郝昭"
+cheat76_code = "7E7FC53A"
+cheat76_enable = false
+
+cheat77_desc = "[1P首位队员变更]庞德"
+cheat77_code = "7E7FC53B"
+cheat77_enable = false
+
+cheat78_desc = "[1P首位队员变更]王双"
+cheat78_code = "7E7FC53C"
+cheat78_enable = false
+
+cheat79_desc = "[1P首位队员变更]孙礼"
+cheat79_code = "7E7FC53D"
+cheat79_enable = false
+
+cheat80_desc = "[1P首位队员变更]郭淮"
+cheat80_code = "7E7FC53E"
+cheat80_enable = false
+
+cheat81_desc = "[1P首位队员变更]邓艾"
+cheat81_code = "7E7FC53F"
+cheat81_enable = false
+
+cheat82_desc = "[1P首位队员变更]钟会"
+cheat82_code = "7E7FC540"
+cheat82_enable = false
+
+cheat83_desc = "[1P首位队员变更]孙策"
+cheat83_code = "7E7FC541"
+cheat83_enable = false
+
+cheat84_desc = "[1P首位队员变更]黄盖"
+cheat84_code = "7E7FC542"
+cheat84_enable = false
+
+cheat85_desc = "[1P首位队员变更]程普"
+cheat85_code = "7E7FC543"
+cheat85_enable = false
+
+cheat86_desc = "[1P首位队员变更]太史慈"
+cheat86_code = "7E7FC544"
+cheat86_enable = false
+
+cheat87_desc = "[1P首位队员变更]甘宁"
+cheat87_code = "7E7FC545"
+cheat87_enable = false
+
+cheat88_desc = "[1P首位队员变更]凌统"
+cheat88_code = "7E7FC546"
+cheat88_enable = false
+
+cheat89_desc = "[1P首位队员变更]韩当"
+cheat89_code = "7E7FC547"
+cheat89_enable = false
+
+cheat90_desc = "[1P首位队员变更]周泰"
+cheat90_code = "7E7FC548"
+cheat90_enable = false
+
+cheat91_desc = "[1P首位队员变更]蒋钦"
+cheat91_code = "7E7FC549"
+cheat91_enable = false
+
+cheat92_desc = "[1P首位队员变更]丁奉"
+cheat92_code = "7E7FC54A"
+cheat92_enable = false
+
+cheat93_desc = "[1P首位队员变更]徐盛"
+cheat93_code = "7E7FC54B"
+cheat93_enable = false
+
+cheat94_desc = "[1P首位队员变更]孙韶"
+cheat94_code = "7E7FC54C"
+cheat94_enable = false
+
+cheat95_desc = "[1P首位队员变更]全琮"
+cheat95_code = "7E7FC54D"
+cheat95_enable = false
+
+cheat96_desc = "[1P首位队员变更]朱桓"
+cheat96_code = "7E7FC54E"
+cheat96_enable = false
+
+cheat97_desc = "[1P首位队员变更]朱然"
+cheat97_code = "7E7FC54F"
+cheat97_enable = false
+
+cheat98_desc = "[1P首位队员变更]潘璋"
+cheat98_code = "7E7FC550"
+cheat98_enable = false
+
+cheat99_desc = "[1P首位队员变更]吕布"
+cheat99_code = "7E7FC551"
+cheat99_enable = false
+
+cheat100_desc = "[1P首位队员变更]华雄"
+cheat100_code = "7E7FC552"
+cheat100_enable = false
+
+cheat101_desc = "[1P首位队员变更]李傕"
+cheat101_code = "7E7FC553"
+cheat101_enable = false
+
+cheat102_desc = "[1P首位队员变更]郭汜"
+cheat102_code = "7E7FC554"
+cheat102_enable = false
+
+cheat103_desc = "[1P首位队员变更]张绣"
+cheat103_code = "7E7FC555"
+cheat103_enable = false
+
+cheat104_desc = "[1P首位队员变更]纪灵"
+cheat104_code = "7E7FC556"
+cheat104_enable = false
+
+cheat105_desc = "[1P首位队员变更]颜良"
+cheat105_code = "7E7FC557"
+cheat105_enable = false
+
+cheat106_desc = "[1P首位队员变更]文丑"
+cheat106_code = "7E7FC558"
+cheat106_enable = false
+
+cheat107_desc = "[1P首位队员变更]韩遂"
+cheat107_code = "7E7FC559"
+cheat107_enable = false
+
+cheat108_desc = "[1P首位队员变更]诸葛亮"
+cheat108_code = "7E7FC55A"
+cheat108_enable = false
+
+cheat109_desc = "[1P首位队员变更]庞统"
+cheat109_code = "7E7FC55B"
+cheat109_enable = false
+
+cheat110_desc = "[1P首位队员变更]徐庶"
+cheat110_code = "7E7FC55C"
+cheat110_enable = false
+
+cheat111_desc = "[1P首位队员变更]伊籍"
+cheat111_code = "7E7FC55D"
+cheat111_enable = false
+
+cheat112_desc = "[1P首位队员变更]马良"
+cheat112_code = "7E7FC55E"
+cheat112_enable = false
+
+cheat113_desc = "[1P首位队员变更]马谡"
+cheat113_code = "7E7FC55F"
+cheat113_enable = false
+
+cheat114_desc = "[1P首位队员变更]法正"
+cheat114_code = "7E7FC560"
+cheat114_enable = false
+
+cheat115_desc = "[1P首位队员变更]邓芝"
+cheat115_code = "7E7FC561"
+cheat115_enable = false
+
+cheat116_desc = "[1P首位队员变更]杨仪"
+cheat116_code = "7E7FC562"
+cheat116_enable = false
+
+cheat117_desc = "[1P首位队员变更]蒋琬"
+cheat117_code = "7E7FC563"
+cheat117_enable = false
+
+cheat118_desc = "[1P首位队员变更]费祎"
+cheat118_code = "7E7FC564"
+cheat118_enable = false
+
+cheat119_desc = "[1P首位队员变更]张松"
+cheat119_code = "7E7FC565"
+cheat119_enable = false
+
+cheat120_desc = "[1P首位队员变更]曹丕"
+cheat120_code = "7E7FC566"
+cheat120_enable = false
+
+cheat121_desc = "[1P首位队员变更]曹植"
+cheat121_code = "7E7FC567"
+cheat121_enable = false
+
+cheat122_desc = "[1P首位队员变更]曹叡"
+cheat122_code = "7E7FC568"
+cheat122_enable = false
+
+cheat123_desc = "[1P首位队员变更]郭嘉"
+cheat123_code = "7E7FC569"
+cheat123_enable = false
+
+cheat124_desc = "[1P首位队员变更]程昱"
+cheat124_code = "7E7FC56A"
+cheat124_enable = false
+
+cheat125_desc = "[1P首位队员变更]荀彧"
+cheat125_code = "7E7FC56B"
+cheat125_enable = false
+
+cheat126_desc = "[1P首位队员变更]满宠"
+cheat126_code = "7E7FC56C"
+cheat126_enable = false
+
+cheat127_desc = "[1P首位队员变更]贾诩"
+cheat127_code = "7E7FC56D"
+cheat127_enable = false
+
+cheat128_desc = "[1P首位队员变更]陈韦"
+cheat128_code = "7E7FC56E"
+cheat128_enable = false
+
+cheat129_desc = "[1P首位队员变更]刘晔"
+cheat129_code = "7E7FC56F"
+cheat129_enable = false
+
+cheat130_desc = "[1P首位队员变更]司马懿"
+cheat130_code = "7E7FC570"
+cheat130_enable = false
+
+cheat131_desc = "[1P首位队员变更]司马师"
+cheat131_code = "7E7FC571"
+cheat131_enable = false
+
+cheat132_desc = "[1P首位队员变更]司马昭"
+cheat132_code = "7E7FC572"
+cheat132_enable = false
+
+cheat133_desc = "[1P首位队员变更]华歆"
+cheat133_code = "7E7FC573"
+cheat133_enable = false
+
+cheat134_desc = "[1P首位队员变更]蒋干"
+cheat134_code = "7E7FC574"
+cheat134_enable = false
+
+cheat135_desc = "[1P首位队员变更]张昭"
+cheat135_code = "7E7FC575"
+cheat135_enable = false
+
+cheat136_desc = "[1P首位队员变更]周瑜"
+cheat136_code = "7E7FC576"
+cheat136_enable = false
+
+cheat137_desc = "[1P首位队员变更]鲁肃"
+cheat137_code = "7E7FC577"
+cheat137_enable = false
+
+cheat138_desc = "[1P首位队员变更]诸葛瑾"
+cheat138_code = "7E7FC578"
+cheat138_enable = false
+
+cheat139_desc = "[1P首位队员变更]阚泽"
+cheat139_code = "7E7FC579"
+cheat139_enable = false
+
+cheat140_desc = "[1P首位队员变更]虞翻"
+cheat140_code = "7E7FC57A"
+cheat140_enable = false
+
+cheat141_desc = "[1P首位队员变更]吕蒙"
+cheat141_code = "7E7FC57B"
+cheat141_enable = false
+
+cheat142_desc = "[1P首位队员变更]陆逊"
+cheat142_code = "7E7FC57C"
+cheat142_enable = false
+
+cheat143_desc = "[1P首位队员变更]李儒"
+cheat143_code = "7E7FC57D"
+cheat143_enable = false
+
+cheat144_desc = "[1P首位队员变更]陈宫"
+cheat144_code = "7E7FC57E"
+cheat144_enable = false
+
+cheat145_desc = "[1P首位队员变更]刘表"
+cheat145_code = "7E7FC57F"
+cheat145_enable = false
+
+cheat146_desc = "[1P首位队员变更]刘琦"
+cheat146_code = "7E7FC580"
+cheat146_enable = false
+
+cheat147_desc = "[1P首位队员变更]张鲁"
+cheat147_code = "7E7FC581"
+cheat147_enable = false
+
+cheat148_desc = "[无限移动]ON"
+cheat148_code = "7E7CAC03"
+cheat148_enable = false
+
+cheat149_desc = "[敌人速死]杂兵"
+cheat149_code = "7E7E4400+7E7E4500"
+cheat149_enable = false
+
+cheat150_desc = "[敌人速死]BOSS"
+cheat150_code = "7E7E3C00+7E7E3D00"
+cheat150_enable = false
+

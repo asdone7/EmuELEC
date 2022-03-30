@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[当前HP值]ON"
+cheat0_code = "0816:3F"
+cheat0_enable = false
+
+cheat1_desc = "[PP值　]ON"
+cheat1_code = "093E:C8"
+cheat1_enable = false
+
+cheat2_desc = "[当前经验]级别14"
+cheat2_code = "0812:20+0813:4E+0814:02+0815:00"
+cheat2_enable = false
+
+cheat3_desc = "[当前经验]级别34"
+cheat3_code = "0813:0A+0814:68+0815:28+0816:00"
+cheat3_enable = false
+
+cheat4_desc = "[当前经验]级别63"
+cheat4_code = "0813:0A+0814:95+0815:59+0816:01"
+cheat4_enable = false
+
+cheat5_desc = "[当前经验]级别99"
+cheat5_code = "0813:0A+0814:95+0815:B9+0816:04"
+cheat5_enable = false
+

@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[生命力]ON"
+cheat0_code = "FFDF8A:09+FFE08A:09"
+cheat0_enable = false
+
+cheat1_desc = "[血槽]ON"
+cheat1_code = "FFDF6D:34+FFE06D:34"
+cheat1_enable = false
+
+cheat2_desc = "[超必杀]ON"
+cheat2_code = "FFF616:90+FFF618:C0"
+cheat2_enable = false
+

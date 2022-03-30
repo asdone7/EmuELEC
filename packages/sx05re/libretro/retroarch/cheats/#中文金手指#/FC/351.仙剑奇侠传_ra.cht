@@ -1,0 +1,802 @@
+cheats = 200
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "0896:FF+0897:FF"
+cheat0_enable = false
+
+cheat1_desc = "[不遇敌]ON"
+cheat1_code = "0894:80"
+cheat1_enable = false
+
+cheat2_desc = "[全物品]ON"
+cheat2_code = "08AF:FF+08B0:FF+08B1:FF+08B2:FF+08B3:FF+08B4:FF+08B5:FF+08B6:FF+08B7:FF+08B8:FF+08B9:FF+08BA:FF+08BB:FF+08BC:FF+08BD:FF+08BE:FF+08BF:FF+08C0:FF+08C1:FF+08C2:FF+08C3:FF+08C4:FF+08C5:FF+08C6:FF+08C7:FF+08C8:FF+08C9:FF+08CA:FF+08CB:FF+08CC:FF+08CD:FF+08CE:FF+08CF:FF+08D0:FF+08D1:FF+08D2:FF+08D3:FF+08D4:FF+08D5:FF+08D6:FF"
+cheat2_enable = false
+
+cheat3_desc = "[全特殊道具]ON"
+cheat3_code = "08D7:01+08D8:01+08D9:01+08DA:01+08DB:01+08DC:01+08DD:01+08DE:01+08DF:01+08E0:01+08E1:01+08E2:01"
+cheat3_enable = false
+
+cheat4_desc = "[全装备]ON"
+cheat4_code = "08E3:63+08E4:63+08E5:63+08E6:63+08E7:63+08E8:63+08E9:63+08EA:63+8E4B:63+08EC:63+08ED:63+08EE:63+08EF:63+08F0:63+08F1:63+08F2:63+08F3:63+08F4:63+08F5:63+08F6:63+08F7:63+08F8:63+08F9:63+08FA:63+08FB:63+08FC:63+08FD:63+08FE:63+08FF:63+0900:63+0901:63+0902:63+0903:63+0904:63+0905:63+0906:63+0907:63+0908:63+0909:63+090A:63+090B:63+090C:63+090D:63+090E:63+090F:63+0910:63+0911:63+0912:63+0913:63+0914:63+0915:63+0916:63+0917:63+0918:63+0919:63+091A:63+091B:63+091C:63+091D:63+091E:63+091F:63+0920:63+0921:63+0922:63+0923:63+0924:63+0925:63+0926:63+0927:63+0928:63+0929:63+092A:63+092B:63+092C:63+092D:63+092E:63+092F:63+0930:63+0931:63+0932:63+0933:63+0934:63+0935:63+0936:63+0937:63+0938:63"
+cheat4_enable = false
+
+cheat5_desc = "[李逍遥等级]ON"
+cheat5_code = "0802:78"
+cheat5_enable = false
+
+cheat6_desc = "[李逍遥体力]ON"
+cheat6_code = "081A:27+081B:0F"
+cheat6_enable = false
+
+cheat7_desc = "[李逍遥真气] ON"
+cheat7_code = "081C:27+081D:0F"
+cheat7_enable = false
+
+cheat8_desc = "[李逍遥经验] ON"
+cheat8_code = "081E:27+081F:0F"
+cheat8_enable = false
+
+cheat9_desc = "[李逍遥武术] ON"
+cheat9_code = "0816:27+0817:0F"
+cheat9_enable = false
+
+cheat10_desc = "[李逍遥防御] ON"
+cheat10_code = "0818:27+0819:0F"
+cheat10_enable = false
+
+cheat11_desc = "[李逍遥灵力] ON"
+cheat11_code = "0804:FF"
+cheat11_enable = false
+
+cheat12_desc = "[李逍遥首位习得魔法]观音咒"
+cheat12_code = "0811:00 "
+cheat12_enable = false
+
+cheat13_desc = "[李逍遥首位习得魔法]回梦"
+cheat13_code = "0811:01"
+cheat13_enable = false
+
+cheat14_desc = "[李逍遥首位习得魔法]还魂咒"
+cheat14_code = "0811:02"
+cheat14_enable = false
+
+cheat15_desc = "[李逍遥首位习得魔法]净衣咒"
+cheat15_code = "0811:03"
+cheat15_enable = false
+
+cheat16_desc = "[李逍遥首位习得魔法]风咒"
+cheat16_code = "0811:04"
+cheat16_enable = false
+
+cheat17_desc = "[李逍遥首位习得魔法]雷咒"
+cheat17_code = "0811:05"
+cheat17_enable = false
+
+cheat18_desc = "[李逍遥首位习得魔法]冰咒"
+cheat18_code = "0811:06"
+cheat18_enable = false
+
+cheat19_desc = "[李逍遥首位习得魔法]土咒"
+cheat19_code = "0811:07"
+cheat19_enable = false
+
+cheat20_desc = "[李逍遥首位习得魔法]炎咒"
+cheat20_code = "0811:08"
+cheat20_enable = false
+
+cheat21_desc = "[李逍遥首位习得魔法]旋风咒"
+cheat21_code = "0811:09"
+cheat21_enable = false
+
+cheat22_desc = "[李逍遥首位习得魔法]五气朝元"
+cheat22_code = "0811:0A"
+cheat22_enable = false
+
+cheat23_desc = "[李逍遥首位习得魔法]玄冰咒"
+cheat23_code = "0811:0B"
+cheat23_enable = false
+
+cheat24_desc = "[李逍遥首位习得魔法]飞岩术"
+cheat24_code = "0811:0C"
+cheat24_enable = false
+
+cheat25_desc = "[李逍遥首位习得魔法]五雷咒"
+cheat25_code = "0811:0D"
+cheat25_enable = false
+
+cheat26_desc = "[李逍遥首位习得魔法]三昧真火"
+cheat26_code = "0811:0E"
+cheat26_enable = false
+
+cheat27_desc = "[李逍遥首位习得魔法]风卷残云"
+cheat27_code = "0811:0F"
+cheat27_enable = false
+
+cheat28_desc = "[李逍遥首位习得魔法]风雪冰天"
+cheat28_code = "0811:10"
+cheat28_enable = false
+
+cheat29_desc = "[李逍遥首位习得魔法]地裂天崩"
+cheat29_code = "0811:11"
+cheat29_enable = false
+
+cheat30_desc = "[李逍遥首位习得魔法]天雷破"
+cheat30_code = "0811:12"
+cheat30_enable = false
+
+cheat31_desc = "[李逍遥首位习得魔法]气疗术"
+cheat31_code = "0811:13"
+cheat31_enable = false
+
+cheat32_desc = "[李逍遥首位习得魔法]冰心诀"
+cheat32_code = "0811:14"
+cheat32_enable = false
+
+cheat33_desc = "[李逍遥首位习得魔法]天师符法"
+cheat33_code = "0811:15"
+cheat33_enable = false
+
+cheat34_desc = "[李逍遥首位习得魔法]凝神归元"
+cheat34_code = "0811:16"
+cheat34_enable = false
+
+cheat35_desc = "[李逍遥首位习得魔法]万剑诀"
+cheat35_code = "0811:17"
+cheat35_enable = false
+
+cheat36_desc = "[李逍遥首位习得魔法]元灵归心"
+cheat36_code = "0811:18"
+cheat36_enable = false
+
+cheat37_desc = "[李逍遥首位习得魔法]天剑"
+cheat37_code = "0811:19"
+cheat37_enable = false
+
+cheat38_desc = "[李逍遥首位习得魔法]金蝉脱壳"
+cheat38_code = "0811:1A"
+cheat38_enable = false
+
+cheat39_desc = "[李逍遥首位习得魔法]剑神"
+cheat39_code = "0811:1B"
+cheat39_enable = false
+
+cheat40_desc = "[李逍遥首位习得魔法]凝神归元"
+cheat40_code = "0811:1C"
+cheat40_enable = false
+
+cheat41_desc = "[李逍遥首位习得魔法]剑气指"
+cheat41_code = "0811:1D"
+cheat41_enable = false
+
+cheat42_desc = "[李逍遥首位习得魔法]一阳指"
+cheat42_code = "0811:1E"
+cheat42_enable = false
+
+cheat43_desc = "[李逍遥首位习得魔法]铜钱镖"
+cheat43_code = "0811:1F"
+cheat43_enable = false
+
+cheat44_desc = "[李逍遥首位习得魔法]七诀剑气"
+cheat44_code = "0811:20"
+cheat44_enable = false
+
+cheat45_desc = "[李逍遥首位习得魔法]元灵归心"
+cheat45_code = "0811:21"
+cheat45_enable = false
+
+cheat46_desc = "[李逍遥首位习得魔法]乾坤一掷"
+cheat46_code = "0811:22"
+cheat46_enable = false
+
+cheat47_desc = "[李逍遥首位习得魔法]斩龙诀"
+cheat47_code = "0811:23"
+cheat47_enable = false
+
+cheat48_desc = "[李逍遥首位习得魔法]三尸咒"
+cheat48_code = "0811:24"
+cheat48_enable = false
+
+cheat49_desc = "[李逍遥首位习得魔法]炼狱爪"
+cheat49_code = "0811:25"
+cheat49_enable = false
+
+cheat50_desc = "[李逍遥首位习得魔法]万蛊蚀天"
+cheat50_code = "0811:26"
+cheat50_enable = false
+
+cheat51_desc = "[李逍遥首位习得魔法]毒吞天下"
+cheat51_code = "0811:27"
+cheat51_enable = false
+
+cheat52_desc = "[李逍遥首位习得魔法]灭绝一击"
+cheat52_code = "0811:28"
+cheat52_enable = false
+
+cheat53_desc = "[李逍遥首位习得魔法]魔掌天下"
+cheat53_code = "0811:29"
+cheat53_enable = false
+
+cheat54_desc = "[李逍遥首位习得魔法]气魔焰"
+cheat54_code = "0811:2A"
+cheat54_enable = false
+
+cheat55_desc = "[李逍遥首位习得魔法]大咒蛇"
+cheat55_code = "0811:2B"
+cheat55_enable = false
+
+cheat56_desc = "[李逍遥首位习得魔法]腥风血雨"
+cheat56_code = "0811:2C"
+cheat56_enable = false
+
+cheat57_desc = "[李逍遥首位习得魔法]群魔乱舞"
+cheat57_code = "0811:2D"
+cheat57_enable = false
+
+cheat58_desc = "[李逍遥首位习得魔法]瘴气"
+cheat58_code = "0811:2E"
+cheat58_enable = false
+
+cheat59_desc = "[李逍遥首位习得魔法]横扫千军"
+cheat59_code = "0811:2F"
+cheat59_enable = false
+
+cheat60_desc = "[李逍遥首位习得魔法]御剑术"
+cheat60_code = "0811:30"
+cheat60_enable = false
+
+cheat61_desc = "[李逍遥首位习得魔法]酒神"
+cheat61_code = "0811:31"
+cheat61_enable = false
+
+cheat62_desc = "[李逍遥首位习得魔法]雷咒"
+cheat62_code = "0811:32"
+cheat62_enable = false
+
+cheat63_desc = "[李逍遥首位习得魔法]土咒"
+cheat63_code = "0811:33"
+cheat63_enable = false
+
+cheat64_desc = "[李逍遥首位习得魔法]三昧真火"
+cheat64_code = "0811:34"
+cheat64_enable = false
+
+cheat65_desc = "[李逍遥首位习得魔法]天雷破"
+cheat65_code = "0811:35"
+cheat65_enable = false
+
+cheat66_desc = "[李逍遥首位习得魔法]气疗术"
+cheat66_code = "0811:36"
+cheat66_enable = false
+
+cheat67_desc = "[李逍遥首位习得魔法]万剑诀"
+cheat67_code = "0811:37"
+cheat67_enable = false
+
+cheat68_desc = "[李逍遥首位习得魔法]飞岩术"
+cheat68_code = "0811:38"
+cheat68_enable = false
+
+cheat69_desc = "[李逍遥首位习得魔法]剑气指"
+cheat69_code = "0811:39"
+cheat69_enable = false
+
+cheat70_desc = "[赵灵儿等级] ON"
+cheat70_code = "0822:78"
+cheat70_enable = false
+
+cheat71_desc = "[赵灵儿体力] ON"
+cheat71_code = "083A:27+083B:0F"
+cheat71_enable = false
+
+cheat72_desc = "[赵灵儿真气] ON"
+cheat72_code = "083C:27+083D:0F"
+cheat72_enable = false
+
+cheat73_desc = "[赵灵儿经验] ON"
+cheat73_code = "083E:27+083F:0F"
+cheat73_enable = false
+
+cheat74_desc = "[赵灵儿武术] ON"
+cheat74_code = "0836:27+0837:0F"
+cheat74_enable = false
+
+cheat75_desc = "[赵灵儿防御] ON"
+cheat75_code = "0838:27+0839:0F"
+cheat75_enable = false
+
+cheat76_desc = "[赵灵儿灵力] ON"
+cheat76_code = "0824:FF"
+cheat76_enable = false
+
+cheat77_desc = "[赵灵儿首位习得魔法] 观音咒"
+cheat77_code = "0831:00 "
+cheat77_enable = false
+
+cheat78_desc = "[赵灵儿首位习得魔法] 回梦"
+cheat78_code = "0831:01"
+cheat78_enable = false
+
+cheat79_desc = "[赵灵儿首位习得魔法] 还魂咒"
+cheat79_code = "0831:02"
+cheat79_enable = false
+
+cheat80_desc = "[赵灵儿首位习得魔法] 净衣咒"
+cheat80_code = "0831:03"
+cheat80_enable = false
+
+cheat81_desc = "[赵灵儿首位习得魔法] 风咒"
+cheat81_code = "0831:04"
+cheat81_enable = false
+
+cheat82_desc = "[赵灵儿首位习得魔法] 雷咒"
+cheat82_code = "0831:05"
+cheat82_enable = false
+
+cheat83_desc = "[赵灵儿首位习得魔法] 冰咒"
+cheat83_code = "0831:06"
+cheat83_enable = false
+
+cheat84_desc = "[赵灵儿首位习得魔法] 土咒"
+cheat84_code = "0831:07"
+cheat84_enable = false
+
+cheat85_desc = "[赵灵儿首位习得魔法] 炎咒"
+cheat85_code = "0831:08"
+cheat85_enable = false
+
+cheat86_desc = "[赵灵儿首位习得魔法] 旋风咒"
+cheat86_code = "0831:09"
+cheat86_enable = false
+
+cheat87_desc = "[赵灵儿首位习得魔法] 五气朝元"
+cheat87_code = "0831:0A"
+cheat87_enable = false
+
+cheat88_desc = "[赵灵儿首位习得魔法] 玄冰咒"
+cheat88_code = "0831:0B"
+cheat88_enable = false
+
+cheat89_desc = "[赵灵儿首位习得魔法] 飞岩术"
+cheat89_code = "0831:0C"
+cheat89_enable = false
+
+cheat90_desc = "[赵灵儿首位习得魔法] 五雷咒"
+cheat90_code = "0831:0D"
+cheat90_enable = false
+
+cheat91_desc = "[赵灵儿首位习得魔法] 三昧真火"
+cheat91_code = "0831:0E"
+cheat91_enable = false
+
+cheat92_desc = "[赵灵儿首位习得魔法] 风卷残云"
+cheat92_code = "0831:0F"
+cheat92_enable = false
+
+cheat93_desc = "[赵灵儿首位习得魔法] 风雪冰天"
+cheat93_code = "0831:10"
+cheat93_enable = false
+
+cheat94_desc = "[赵灵儿首位习得魔法] 地裂天崩"
+cheat94_code = "0831:11"
+cheat94_enable = false
+
+cheat95_desc = "[赵灵儿首位习得魔法] 天雷破"
+cheat95_code = "0831:12"
+cheat95_enable = false
+
+cheat96_desc = "[赵灵儿首位习得魔法] 气疗术"
+cheat96_code = "0831:13"
+cheat96_enable = false
+
+cheat97_desc = "[赵灵儿首位习得魔法] 冰心诀"
+cheat97_code = "0831:14"
+cheat97_enable = false
+
+cheat98_desc = "[赵灵儿首位习得魔法] 天师符法"
+cheat98_code = "0831:15"
+cheat98_enable = false
+
+cheat99_desc = "[赵灵儿首位习得魔法] 凝神归元"
+cheat99_code = "0831:16"
+cheat99_enable = false
+
+cheat100_desc = "[赵灵儿首位习得魔法] 万剑诀"
+cheat100_code = "0831:17"
+cheat100_enable = false
+
+cheat101_desc = "[赵灵儿首位习得魔法] 元灵归心"
+cheat101_code = "0831:18"
+cheat101_enable = false
+
+cheat102_desc = "[赵灵儿首位习得魔法] 天剑"
+cheat102_code = "0831:19"
+cheat102_enable = false
+
+cheat103_desc = "[赵灵儿首位习得魔法] 金蝉脱壳"
+cheat103_code = "0831:1A"
+cheat103_enable = false
+
+cheat104_desc = "[赵灵儿首位习得魔法] 剑神"
+cheat104_code = "0831:1B"
+cheat104_enable = false
+
+cheat105_desc = "[赵灵儿首位习得魔法] 凝神归元"
+cheat105_code = "0831:1C"
+cheat105_enable = false
+
+cheat106_desc = "[赵灵儿首位习得魔法] 剑气指"
+cheat106_code = "0831:1D"
+cheat106_enable = false
+
+cheat107_desc = "[赵灵儿首位习得魔法] 一阳指"
+cheat107_code = "0831:1E"
+cheat107_enable = false
+
+cheat108_desc = "[赵灵儿首位习得魔法] 铜钱镖"
+cheat108_code = "0831:1F"
+cheat108_enable = false
+
+cheat109_desc = "[赵灵儿首位习得魔法] 七诀剑气"
+cheat109_code = "0831:20"
+cheat109_enable = false
+
+cheat110_desc = "[赵灵儿首位习得魔法] 元灵归心"
+cheat110_code = "0831:21"
+cheat110_enable = false
+
+cheat111_desc = "[赵灵儿首位习得魔法] 乾坤一掷"
+cheat111_code = "0831:22"
+cheat111_enable = false
+
+cheat112_desc = "[赵灵儿首位习得魔法] 斩龙诀"
+cheat112_code = "0831:23"
+cheat112_enable = false
+
+cheat113_desc = "[赵灵儿首位习得魔法] 三尸咒"
+cheat113_code = "0831:24"
+cheat113_enable = false
+
+cheat114_desc = "[赵灵儿首位习得魔法] 炼狱爪"
+cheat114_code = "0831:25"
+cheat114_enable = false
+
+cheat115_desc = "[赵灵儿首位习得魔法] 万蛊蚀天"
+cheat115_code = "0831:26"
+cheat115_enable = false
+
+cheat116_desc = "[赵灵儿首位习得魔法] 毒吞天下"
+cheat116_code = "0831:27"
+cheat116_enable = false
+
+cheat117_desc = "[赵灵儿首位习得魔法] 灭绝一击"
+cheat117_code = "0831:28"
+cheat117_enable = false
+
+cheat118_desc = "[赵灵儿首位习得魔法] 魔掌天下"
+cheat118_code = "0831:29"
+cheat118_enable = false
+
+cheat119_desc = "[赵灵儿首位习得魔法] 气魔焰"
+cheat119_code = "0831:2A"
+cheat119_enable = false
+
+cheat120_desc = "[赵灵儿首位习得魔法] 大咒蛇"
+cheat120_code = "0831:2B"
+cheat120_enable = false
+
+cheat121_desc = "[赵灵儿首位习得魔法] 腥风血雨"
+cheat121_code = "0831:2C"
+cheat121_enable = false
+
+cheat122_desc = "[赵灵儿首位习得魔法] 群魔乱舞"
+cheat122_code = "0831:2D"
+cheat122_enable = false
+
+cheat123_desc = "[赵灵儿首位习得魔法] 瘴气"
+cheat123_code = "0831:2E"
+cheat123_enable = false
+
+cheat124_desc = "[赵灵儿首位习得魔法] 横扫千军"
+cheat124_code = "0831:2F"
+cheat124_enable = false
+
+cheat125_desc = "[赵灵儿首位习得魔法] 御剑术"
+cheat125_code = "0831:30"
+cheat125_enable = false
+
+cheat126_desc = "[赵灵儿首位习得魔法] 酒神"
+cheat126_code = "0831:31"
+cheat126_enable = false
+
+cheat127_desc = "[赵灵儿首位习得魔法] 雷咒"
+cheat127_code = "0831:32"
+cheat127_enable = false
+
+cheat128_desc = "[赵灵儿首位习得魔法] 土咒"
+cheat128_code = "0831:33"
+cheat128_enable = false
+
+cheat129_desc = "[赵灵儿首位习得魔法] 三昧真火"
+cheat129_code = "0831:34"
+cheat129_enable = false
+
+cheat130_desc = "[赵灵儿首位习得魔法] 天雷破"
+cheat130_code = "0831:35"
+cheat130_enable = false
+
+cheat131_desc = "[赵灵儿首位习得魔法] 气疗术"
+cheat131_code = "0831:36"
+cheat131_enable = false
+
+cheat132_desc = "[赵灵儿首位习得魔法] 万剑诀"
+cheat132_code = "0831:37"
+cheat132_enable = false
+
+cheat133_desc = "[赵灵儿首位习得魔法] 飞岩术"
+cheat133_code = "0831:38"
+cheat133_enable = false
+
+cheat134_desc = "[赵灵儿首位习得魔法] 剑气指"
+cheat134_code = "0831:39"
+cheat134_enable = false
+
+cheat135_desc = "[林月如等级] ON"
+cheat135_code = "0842:78"
+cheat135_enable = false
+
+cheat136_desc = "[林月如体力] ON"
+cheat136_code = "085A:27+085B:0F"
+cheat136_enable = false
+
+cheat137_desc = "[林月如真气] ON"
+cheat137_code = "085C:27+085D:0F"
+cheat137_enable = false
+
+cheat138_desc = "[林月如经验] ON"
+cheat138_code = "085E:27+085F:85F+0860:0F"
+cheat138_enable = false
+
+cheat139_desc = "[林月如武术] ON"
+cheat139_code = "0856:27+0857:857+0858:0F"
+cheat139_enable = false
+
+cheat140_desc = "[林月如防御] ON"
+cheat140_code = "0858:27+0859:0F"
+cheat140_enable = false
+
+cheat141_desc = "[林月如灵力] ON"
+cheat141_code = "0844:FF"
+cheat141_enable = false
+
+cheat142_desc = "[林月如首位习得魔法] 观音咒"
+cheat142_code = "0851:00 "
+cheat142_enable = false
+
+cheat143_desc = "[林月如首位习得魔法] 回梦"
+cheat143_code = "0851:01"
+cheat143_enable = false
+
+cheat144_desc = "[林月如首位习得魔法] 还魂咒"
+cheat144_code = "0851:02"
+cheat144_enable = false
+
+cheat145_desc = "[林月如首位习得魔法] 净衣咒"
+cheat145_code = "0851:03"
+cheat145_enable = false
+
+cheat146_desc = "[林月如首位习得魔法] 风咒"
+cheat146_code = "0851:04"
+cheat146_enable = false
+
+cheat147_desc = "[林月如首位习得魔法] 雷咒"
+cheat147_code = "0851:05"
+cheat147_enable = false
+
+cheat148_desc = "[林月如首位习得魔法] 冰咒"
+cheat148_code = "0851:06"
+cheat148_enable = false
+
+cheat149_desc = "[林月如首位习得魔法] 土咒"
+cheat149_code = "0851:07"
+cheat149_enable = false
+
+cheat150_desc = "[林月如首位习得魔法] 炎咒"
+cheat150_code = "0851:08"
+cheat150_enable = false
+
+cheat151_desc = "[林月如首位习得魔法] 旋风咒"
+cheat151_code = "0851:09"
+cheat151_enable = false
+
+cheat152_desc = "[林月如首位习得魔法] 五气朝元"
+cheat152_code = "0851:0A"
+cheat152_enable = false
+
+cheat153_desc = "[林月如首位习得魔法] 玄冰咒"
+cheat153_code = "0851:0B"
+cheat153_enable = false
+
+cheat154_desc = "[林月如首位习得魔法] 飞岩术"
+cheat154_code = "0851:0C"
+cheat154_enable = false
+
+cheat155_desc = "[林月如首位习得魔法] 五雷咒"
+cheat155_code = "0851:0D"
+cheat155_enable = false
+
+cheat156_desc = "[林月如首位习得魔法] 三昧真火"
+cheat156_code = "0851:0E"
+cheat156_enable = false
+
+cheat157_desc = "[林月如首位习得魔法] 风卷残云"
+cheat157_code = "0851:0F"
+cheat157_enable = false
+
+cheat158_desc = "[林月如首位习得魔法] 风雪冰天"
+cheat158_code = "0851:10"
+cheat158_enable = false
+
+cheat159_desc = "[林月如首位习得魔法] 地裂天崩"
+cheat159_code = "0851:11"
+cheat159_enable = false
+
+cheat160_desc = "[林月如首位习得魔法] 天雷破"
+cheat160_code = "0851:12"
+cheat160_enable = false
+
+cheat161_desc = "[林月如首位习得魔法] 气疗术"
+cheat161_code = "0851:13"
+cheat161_enable = false
+
+cheat162_desc = "[林月如首位习得魔法] 冰心诀"
+cheat162_code = "0851:14"
+cheat162_enable = false
+
+cheat163_desc = "[林月如首位习得魔法] 天师符法"
+cheat163_code = "0851:15"
+cheat163_enable = false
+
+cheat164_desc = "[林月如首位习得魔法] 凝神归元"
+cheat164_code = "0851:16"
+cheat164_enable = false
+
+cheat165_desc = "[林月如首位习得魔法] 万剑诀"
+cheat165_code = "0851:17"
+cheat165_enable = false
+
+cheat166_desc = "[林月如首位习得魔法] 元灵归心"
+cheat166_code = "0851:18"
+cheat166_enable = false
+
+cheat167_desc = "[林月如首位习得魔法] 天剑"
+cheat167_code = "0851:19"
+cheat167_enable = false
+
+cheat168_desc = "[林月如首位习得魔法] 金蝉脱壳"
+cheat168_code = "0851:1A"
+cheat168_enable = false
+
+cheat169_desc = "[林月如首位习得魔法] 剑神"
+cheat169_code = "0851:1B"
+cheat169_enable = false
+
+cheat170_desc = "[林月如首位习得魔法] 凝神归元"
+cheat170_code = "0851:1C"
+cheat170_enable = false
+
+cheat171_desc = "[林月如首位习得魔法] 剑气指"
+cheat171_code = "0851:1D"
+cheat171_enable = false
+
+cheat172_desc = "[林月如首位习得魔法] 一阳指"
+cheat172_code = "0851:1E"
+cheat172_enable = false
+
+cheat173_desc = "[林月如首位习得魔法] 铜钱镖"
+cheat173_code = "0851:1F"
+cheat173_enable = false
+
+cheat174_desc = "[林月如首位习得魔法] 七诀剑气"
+cheat174_code = "0851:20"
+cheat174_enable = false
+
+cheat175_desc = "[林月如首位习得魔法] 元灵归心"
+cheat175_code = "0851:21"
+cheat175_enable = false
+
+cheat176_desc = "[林月如首位习得魔法] 乾坤一掷"
+cheat176_code = "0851:22"
+cheat176_enable = false
+
+cheat177_desc = "[林月如首位习得魔法] 斩龙诀"
+cheat177_code = "0851:23"
+cheat177_enable = false
+
+cheat178_desc = "[林月如首位习得魔法] 三尸咒"
+cheat178_code = "0851:24"
+cheat178_enable = false
+
+cheat179_desc = "[林月如首位习得魔法] 炼狱爪"
+cheat179_code = "0851:25"
+cheat179_enable = false
+
+cheat180_desc = "[林月如首位习得魔法] 万蛊蚀天"
+cheat180_code = "0851:26"
+cheat180_enable = false
+
+cheat181_desc = "[林月如首位习得魔法] 毒吞天下"
+cheat181_code = "0851:27"
+cheat181_enable = false
+
+cheat182_desc = "[林月如首位习得魔法] 灭绝一击"
+cheat182_code = "0851:28"
+cheat182_enable = false
+
+cheat183_desc = "[林月如首位习得魔法] 魔掌天下"
+cheat183_code = "0851:29"
+cheat183_enable = false
+
+cheat184_desc = "[林月如首位习得魔法] 气魔焰"
+cheat184_code = "0851:2A"
+cheat184_enable = false
+
+cheat185_desc = "[林月如首位习得魔法] 大咒蛇"
+cheat185_code = "0851:2B"
+cheat185_enable = false
+
+cheat186_desc = "[林月如首位习得魔法] 腥风血雨"
+cheat186_code = "0851:2C"
+cheat186_enable = false
+
+cheat187_desc = "[林月如首位习得魔法] 群魔乱舞"
+cheat187_code = "0851:2D"
+cheat187_enable = false
+
+cheat188_desc = "[林月如首位习得魔法] 瘴气"
+cheat188_code = "0851:2E"
+cheat188_enable = false
+
+cheat189_desc = "[林月如首位习得魔法] 横扫千军"
+cheat189_code = "0851:2F"
+cheat189_enable = false
+
+cheat190_desc = "[林月如首位习得魔法] 御剑术"
+cheat190_code = "0851:30"
+cheat190_enable = false
+
+cheat191_desc = "[林月如首位习得魔法] 酒神"
+cheat191_code = "0851:31"
+cheat191_enable = false
+
+cheat192_desc = "[林月如首位习得魔法] 雷咒"
+cheat192_code = "0851:32"
+cheat192_enable = false
+
+cheat193_desc = "[林月如首位习得魔法] 土咒"
+cheat193_code = "0851:33"
+cheat193_enable = false
+
+cheat194_desc = "[林月如首位习得魔法] 三昧真火"
+cheat194_code = "0851:34"
+cheat194_enable = false
+
+cheat195_desc = "[林月如首位习得魔法] 天雷破"
+cheat195_code = "0851:35"
+cheat195_enable = false
+
+cheat196_desc = "[林月如首位习得魔法] 气疗术"
+cheat196_code = "0851:36"
+cheat196_enable = false
+
+cheat197_desc = "[林月如首位习得魔法] 万剑诀"
+cheat197_code = "0851:37"
+cheat197_enable = false
+
+cheat198_desc = "[林月如首位习得魔法] 飞岩术"
+cheat198_code = "0851:38"
+cheat198_enable = false
+
+cheat199_desc = "[林月如首位习得魔法] 剑气指"
+cheat199_code = "0851:39"
+cheat199_enable = false
+

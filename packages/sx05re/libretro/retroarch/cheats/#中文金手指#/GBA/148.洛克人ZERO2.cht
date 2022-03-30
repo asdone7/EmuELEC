@@ -1,0 +1,71 @@
+cheats = 17
+
+cheat0_desc = "HP不减"
+cheat0_code = "02037D94 00000040"
+cheat0_enable = false
+
+cheat1_desc = "HP槽最长"
+cheat1_code = "02037EED 00000040"
+cheat1_enable = false
+
+cheat2_desc = "HP槽2倍"
+cheat2_code = "02037EF2 00000001"
+cheat2_enable = false
+
+cheat3_desc = "无敌"
+cheat3_code = "02037D84 00000040"
+cheat3_enable = false
+
+cheat4_desc = "能量9999"
+cheat4_code = "02037EEE 0000000F+02037EEF 00000027"
+cheat4_enable = false
+
+cheat5_desc = "血包不减"
+cheat5_code = "02037EF6 0000001E+02037EF7 0000001E+02037EF8 0000001E+02037EF9 0000001E"
+cheat5_enable = false
+
+cheat6_desc = "全精灵"
+cheat6_code = "02037F15 000000FF+02037F16 000000FF+02037F17 000000FF+02037F18 000000FF+02037F19 000000FF+02037F1A 000000FF+02037F1B 000000FF+02037F1C 000000FF+02037F1D 000000FF+02037F1E 000000FF+02037F1F 000000FF+02037F20 000000FF+02037F21 000000FF+02037F22 000000FF+02037F23 000000FF+02037F24 000000FF+02037F25 000000FF+02037F26 000000FF+02037F27 000000FF+02037F28 000000FF+02037F29 00000000"
+cheat6_enable = false
+
+cheat7_desc = "全属性芯片"
+cheat7_code = "02037F01 0000000F+4个能量包+02037EF4 00000002+02037EF5 00000002"
+cheat7_enable = false
+
+cheat8_desc = "全武器"
+cheat8_code = "02037F00 000000FF"
+cheat8_enable = false
+
+cheat9_desc = "全EX技能"
+cheat9_code = "02037F06 000000FF+02037F07 000000FF"
+cheat9_enable = false
+
+cheat10_desc = "全装甲"
+cheat10_code = "02037EF0 000000FF+02037EF1 000000FF"
+cheat10_enable = false
+
+cheat11_desc = "剑星级最大"
+cheat11_code = "02037F0C 000000FF+02037F0D 000000FF"
+cheat11_enable = false
+
+cheat12_desc = "鞭星级最大"
+cheat12_code = "02037F0E 000000FF+02037F0F 000000FF"
+cheat12_enable = false
+
+cheat13_desc = "枪星级最大"
+cheat13_code = "02037F0A 000000FF+02037F0B 000000FF"
+cheat13_enable = false
+
+cheat14_desc = "装备精灵1"
+cheat14_code = "00000NAN --51H随便填"
+cheat14_enable = false
+
+cheat15_desc = "装备精灵2"
+cheat15_code = "00000NAN --51H随便填"
+cheat15_enable = false
+
+cheat16_desc = "装备精灵3"
+cheat16_code = "00000NAN --51H随便填"
+cheat16_enable = false
+
+

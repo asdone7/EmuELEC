@@ -1,0 +1,83 @@
+cheats = 20
+
+cheat0_desc = "#无限健康"
+cheat0_code = "D00E524E 012C+800E5250 012C+D00E524E 015E+800E5250 015E"
+cheat0_enable = false
+
+cheat1_desc = "#Inf。生命值"
+cheat1_code = "800E524E 012C"
+cheat1_enable = false
+
+cheat2_desc = "#无限弹药-瑞克"
+cheat2_code = "800E5278 0032"
+cheat2_enable = false
+
+cheat3_desc = "#拥有库存数据磁盘"
+cheat3_code = "300E5296 0001"
+cheat3_enable = false
+
+cheat4_desc = "#有库存电阻样本"
+cheat4_code = "300E529B 0001"
+cheat4_enable = false
+
+cheat5_desc = "#有库存维修套件"
+cheat5_code = "300E529D 0001"
+cheat5_enable = false
+
+cheat6_desc = "#有库存电磁钥匙（食堂）"
+cheat6_code = "300E529F 0001"
+cheat6_enable = false
+
+cheat7_desc = "#有库存书写纸"
+cheat7_code = "300E52A3 0001"
+cheat7_enable = false
+
+cheat8_desc = "#拥有库存系统磁盘"
+cheat8_code = "300E52A7 0001"
+cheat8_enable = false
+
+cheat9_desc = "#有库存Mayers笔记本"
+cheat9_code = "300E52A9 0001"
+cheat9_enable = false
+
+cheat10_desc = "#有库存代码表"
+cheat10_code = "300E52AA 0001"
+cheat10_enable = false
+
+cheat11_desc = "#拥有库存Lifeform示例"
+cheat11_code = "300E52AB 0001"
+cheat11_enable = false
+
+cheat12_desc = "#有库存照片"
+cheat12_code = "300E52AC 0001"
+cheat12_enable = false
+
+cheat13_desc = "#有库存电磁钥匙（恒温室）"
+cheat13_code = "300E52AD 0001"
+cheat13_enable = false
+
+cheat14_desc = "#有库存电磁钥匙（研究实验室）"
+cheat14_code = "300E52AE 0001"
+cheat14_enable = false
+
+cheat15_desc = "#库存有电磁钥匙（繁殖室）"
+cheat15_code = "300E52AF 0001"
+cheat15_enable = false
+
+cheat16_desc = "#Inf。弹药"
+cheat16_code = "800E5274 9F00+800E5276 0007+800E5278 01F0+50000602 0000+800E527A 0CC3"
+cheat16_enable = false
+
+cheat17_desc = "#所有武器"
+cheat17_code = "50000601 0001+300E5289 0003"
+cheat17_enable = false
+
+cheat18_desc = "#所有项目"
+cheat18_code = "50000302 0000+800E5292 6363+300E5299 0063+800E529A 6363+300E529D 0063+300E529F 0063+800E52A2 6363+300E52A4 0063+50000502 0000+800E52A6 6363"
+cheat18_enable = false
+
+cheat19_desc = "游戏不会显示所有项目，但是它们在那里。"
+"
+cheat19_enable = false
+
+

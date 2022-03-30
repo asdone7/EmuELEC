@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "#生活"
+cheat0_code = "800A274C 0009"
+cheat0_enable = false
+
+cheat1_desc = "#健康"
+cheat1_code = "800A276C 0064"
+cheat1_enable = false
+
+cheat2_desc = "#机枪弹药和Granades"
+cheat2_code = "800A2776 0063+800A277E 0063"
+cheat2_enable = false
+
+

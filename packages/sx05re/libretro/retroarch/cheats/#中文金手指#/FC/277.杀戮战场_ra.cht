@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[无限兵力]ON"
+cheat0_code = "00A4:09+00A5:09+00A6:09+00A7:09+00A8:09+00A9:09"
+cheat0_enable = false
+
+cheat1_desc = "[无限生命]ON"
+cheat1_code = "00A2:03"
+cheat1_enable = false
+

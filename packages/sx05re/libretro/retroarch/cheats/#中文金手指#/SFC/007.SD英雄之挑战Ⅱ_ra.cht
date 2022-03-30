@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[HP]ON"
+cheat0_code = "7E045460"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "7E0440FF"
+cheat1_enable = false
+
+cheat2_desc = "[能量]ON"
+cheat2_code = "7E04320C"
+cheat2_enable = false
+
+cheat3_desc = "[敌人一击死]ON"
+cheat3_code = "7E05A400+7E061400+7E068400+7E06F400+7E076400"
+cheat3_enable = false
+
+cheat4_desc = "[人数]ON"
+cheat4_code = "7E00D40A"
+cheat4_enable = false
+

@@ -1,0 +1,59 @@
+cheats = 14
+
+cheat0_desc = "#所有级别已解锁"
+cheat0_code = "30097BBB 00FF"
+cheat0_enable = false
+
+cheat1_desc = "#最大攻击"
+cheat1_code = "300B3294 0064"
+cheat1_enable = false
+
+cheat2_desc = "#最大块"
+cheat2_code = "300B3291 0064"
+cheat2_enable = false
+
+cheat3_desc = "#Max创建统计"
+cheat3_code = "50000601 0000+300B328F 0064"
+cheat3_enable = false
+
+cheat4_desc = "#Max Pass"
+cheat4_code = "300B3292 0064"
+cheat4_enable = false
+
+cheat5_desc = "#Max服务"
+cheat5_code = "300B3290 0064"
+cheat5_enable = false
+
+cheat6_desc = "#Max Set"
+cheat6_code = "300B3293 0064"
+cheat6_enable = false
+
+cheat7_desc = "#最大强度"
+cheat7_code = "300B328F 0064"
+cheat7_enable = false
+
+cheat8_desc = "#分得分15"
+cheat8_code = "8004AA84 000F"
+cheat8_enable = false
+
+cheat9_desc = "#分得分21"
+cheat9_code = "8004AA84 0015"
+cheat9_enable = false
+
+cheat10_desc = "#Team 1 Never Scores"
+cheat10_code = "E00B2980 0001+300B2980 0000"
+cheat10_enable = false
+
+cheat11_desc = "#Team 1在比赛点"
+cheat11_code = "E00B2980 0000+300B2980 000E"
+cheat11_enable = false
+
+cheat12_desc = "#Team 2 Never Scores"
+cheat12_code = "E00B2985 0001+300B2985 0000"
+cheat12_enable = false
+
+cheat13_desc = "#Team 2在比赛点"
+cheat13_code = "E00B2985 0000+300B2985 000E"
+cheat13_enable = false
+
+

@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "#无限HP"
+cheat0_code = "80198D68 02E6"
+cheat0_enable = false
+
+

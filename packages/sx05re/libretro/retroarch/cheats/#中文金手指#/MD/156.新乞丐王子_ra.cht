@@ -1,0 +1,58 @@
+cheats = 14
+
+cheat0_desc = "[不遇敌]ON"
+cheat0_code = "FF02C2:FF"
+cheat0_enable = false
+
+cheat1_desc = "[全道具]ON"
+cheat1_code = "FF0AD6:63+FF0AD7:63+FF0AD8:63+FF0AD9:63+FF0ADA:63+FF0ADB:63+FF0ADC:63+FF0ADD:63+FF0ADE:63+FF0ADF:63+FF0AE0:63+FF0AE1:63+FF0AE2:63+FF0AE3:63+FF0AE4:63+FF0AE5:63+FF0AE6:63+FF0AE7:63+FF0AE8:63+FF0AE9:63+FF0AEA:63"
+cheat1_enable = false
+
+cheat2_desc = "[全魔法]ON"
+cheat2_code = "FF1F04:01+FF1F05:01+FF1F06:01+FF1F07:01+FF1F08:01+FF1F09:01+FF1F0A:01+FF1F0B:01+FF1F0C:01+FF1F0D:01+FF1F0E:01+FF1F0F:01+FF1F10:01+FF1F11:01+FF1F12:01+FF1F13:01+FF1F14:01+FF1F15:01+FF1F16:01+FF1F17:01+FF1F18:01+FF1F19:01+FF1F1A:01+FF1F1B:01+FF1F1C:01+FF1F1D:01+FF1F1E:01+FF1F1F:01+FF1F20:01+FF1F21:01+FF1F22:01+FF1F23:01+FF1F24:01+FF1F25:01+FF1F26:01+FF1F27:01"
+cheat2_enable = false
+
+cheat3_desc = "[无限行动]ON"
+cheat3_code = "FF038B:64"
+cheat3_enable = false
+
+cheat4_desc = "[武器等级]弹弓"
+cheat4_code = "FF02EE:01"
+cheat4_enable = false
+
+cheat5_desc = "[武器等级]长矛"
+cheat5_code = "FF02EE:02"
+cheat5_enable = false
+
+cheat6_desc = "[武器等级]斧子"
+cheat6_code = "FF02EE:03"
+cheat6_enable = false
+
+cheat7_desc = "[武器等级]弓箭"
+cheat7_code = "FF02EE:04"
+cheat7_enable = false
+
+cheat8_desc = "[武器等级]长剑"
+cheat8_code = "FF02EE:05"
+cheat8_enable = false
+
+cheat9_desc = "[武器等级]魔杖"
+cheat9_code = "FF02EE:06"
+cheat9_enable = false
+
+cheat10_desc = "[防具等级]ON"
+cheat10_code = "FF02F0:06+FF02F1:06"
+cheat10_enable = false
+
+cheat11_desc = "[人物等级]ON"
+cheat11_code = "FF02EF:32"
+cheat11_enable = false
+
+cheat12_desc = "[经验值]ON"
+cheat12_code = "FF02F2:0F+FF02F3:27"
+cheat12_enable = false
+
+cheat13_desc = "[HP/MP]ON"
+cheat13_code = "FF02F4:0F+FF02F5:27+FF02F6:0F+FF02F7:27"
+cheat13_enable = false
+

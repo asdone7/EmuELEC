@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "大量金钱 no"
+cheat0_code = "02042C39 00000044"
+cheat0_enable = false
+
+cheat1_desc = "快速升级 OK"
+cheat1_code = "02044AFC 00000001"
+cheat1_enable = false
+
+

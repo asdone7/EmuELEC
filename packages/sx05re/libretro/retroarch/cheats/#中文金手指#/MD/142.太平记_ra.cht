@@ -1,0 +1,70 @@
+cheats = 17
+
+cheat0_desc = "[足利尊氏]兵"
+cheat0_code = "FF9D6E:88+FF9D6F:13"
+cheat0_enable = false
+
+cheat1_desc = "[足利尊氏]战级"
+cheat1_code = "FFA96E:23"
+cheat1_enable = false
+
+cheat2_desc = "[足利尊氏]机动力"
+cheat2_code = "FFA36E:50"
+cheat2_enable = false
+
+cheat3_desc = "[足利尊氏]HP"
+cheat3_code = "FF916E:78+FF916F:03+FF936E:78+FF936F:03"
+cheat3_enable = false
+
+cheat4_desc = "[足利尊氏]无限移动"
+cheat4_code = "FF3005:20"
+cheat4_enable = false
+
+cheat5_desc = "[足利尊氏]武力"
+cheat5_code = "FF956E:78+FF956F:03"
+cheat5_enable = false
+
+cheat6_desc = "[足利尊氏]知力"
+cheat6_code = "FF976E:78+FF976F:03"
+cheat6_enable = false
+
+cheat7_desc = "[足利军.钱/粮]On"
+cheat7_code = "FF9E02:B8+FF9E03:22+FF9E06:B8+FF9E07:22"
+cheat7_enable = false
+
+cheat8_desc = "[前5位角色.无限行动]锁"
+cheat8_code = "FF3005:20+FF3015:20+FF3025:20+FF300D:20+FF301D:20"
+cheat8_enable = false
+
+cheat9_desc = "[直接胜利(慎用)]锁"
+cheat9_code = "FF302D:90+FF303D:90+FF309D:90+FF308D:90+FF3095:90+FF30A5:90+FF305D:90+FF3065:90+FF306D:90+FF307D:90+FF3075:90+FF3085:90+FF3035:90+FF3045:90+FF3055:90+FF304D:90"
+cheat9_enable = false
+
+cheat10_desc = "[足利尊氏.强属性]On"
+cheat10_code = "FF9D6E:88+FF9D6F:13+FFA96E:24+FFA36E:50+FF916E:E7+FF916F:03+FF936E:E7+FF936F:03+FF956E:E7+FF956F:03+FF976E:E7+FF976F:03"
+cheat10_enable = false
+
+cheat11_desc = "[足利直义.强属性]On"
+cheat11_code = "FF9D62:88+FF9D63:13+FFA962:24+FFA362:50+FF9162:78+FF9163:03+FF9362:78+FF9363:03+FF9562:78+FF9563:03+FF9762:78+FF9763:03"
+cheat11_enable = false
+
+cheat12_desc = "[高师直  .强属性]On"
+cheat12_code = "FF9D64:88+FF9D65:13+FFA964:24+FFA364:50+FF9164:09+FF9165:03+FF9364:09+FF9365:03+FF9564:09+FF9565:03+FF9764:09+FF9765:03"
+cheat12_enable = false
+
+cheat13_desc = "[上衫宪房.强属性]On"
+cheat13_code = "FF9D70:88+FF9D71:13+FFA970:24+FFA370:50+FF9170:9A+FF9171:02+FF9370:9A+FF9371:02+FF9570:9A+FF9571:02+FF9770:9A+FF9771:02"
+cheat13_enable = false
+
+cheat14_desc = "[赤松丹心.强属性]On"
+cheat14_code = "FF9D7E:88+FF9D7F:13+FFA97E:24+FFA37E:50+FF917E:2B+FF917F:02+FF937E:2B+FF937F:02+FF957E:2B+FF957F:02+FF977E:2B+FF977F:02"
+cheat14_enable = false
+
+cheat15_desc = "[楠木军.钱/粮]On"
+cheat15_code = "FF9E0A:B8+FF9E0B:22+FF9E0E:B8+FF9E0F:22"
+cheat15_enable = false
+
+cheat16_desc = "[前5位角色.无限行动]锁"
+cheat16_code = "FF303D:70+FF304D:70+FF305D:70+FF3045:70+FF3055:70"
+cheat16_enable = false
+

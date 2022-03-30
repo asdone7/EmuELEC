@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[人数]ON"
+cheat0_code = "003E:01+003F:09"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "003A:01+003B:40"
+cheat1_enable = false
+
+cheat2_desc = "[等级]ON"
+cheat2_code = "006B:01+006C:05"
+cheat2_enable = false
+

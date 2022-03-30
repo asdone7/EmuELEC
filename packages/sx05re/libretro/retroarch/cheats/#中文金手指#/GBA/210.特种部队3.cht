@@ -1,0 +1,63 @@
+cheats = 15
+
+cheat0_desc = "血"
+cheat0_code = "020289E4 00000063+02041B34 00000063"
+cheat0_enable = false
+
+cheat1_desc = "隐形"
+cheat1_code = "0202733C 00000022"
+cheat1_enable = false
+
+cheat2_desc = "生命"
+cheat2_code = "02041B34 00000064"
+cheat2_enable = false
+
+cheat3_desc = "所有枪"
+cheat3_code = "02041B3E 00000063+02041B40 00000063+02041B42 00000063+02041B44 00000063"
+cheat3_enable = false
+
+cheat4_desc = "手雷"
+cheat4_code = "02028978 00000063+02041B46 00000063"
+cheat4_enable = false
+
+cheat5_desc = "冲锋枪]"
+cheat5_code = "02041B3E 000000E7+02041B3F 00000003"
+cheat5_enable = false
+
+cheat6_desc = "喷火枪"
+cheat6_code = "02041B40 000000E7+02041B41 00000003"
+cheat6_enable = false
+
+cheat7_desc = "火箭炮"
+cheat7_code = "02041B42 000000E7+02041B43 00000003"
+cheat7_enable = false
+
+cheat8_desc = "Ｓ型枪"
+cheat8_code = "02041B44 000000E7+02041B45 00000003"
+cheat8_enable = false
+
+cheat9_desc = "手榴弹"
+cheat9_code = "02041B46 00000063"
+cheat9_enable = false
+
+cheat10_desc = "人数"
+cheat10_code = "02041ABC 00000009"
+cheat10_enable = false
+
+cheat11_desc = "坦克1HP"
+cheat11_code = "02001124 00000064"
+cheat11_enable = false
+
+cheat12_desc = "坦克2HP"
+cheat12_code = "02000F24 00000064"
+cheat12_enable = false
+
+cheat13_desc = "坦克3HP"
+cheat13_code = "02001924 00000064"
+cheat13_enable = false
+
+cheat14_desc = "飞机武器全满"
+cheat14_code = "0201FB4E 00000001+0201FB4F 00000001"
+cheat14_enable = false
+
+

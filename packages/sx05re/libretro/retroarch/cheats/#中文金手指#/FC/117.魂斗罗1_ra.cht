@@ -1,0 +1,154 @@
+cheats = 38
+
+cheat0_desc = "[P1 生命数] ON"
+cheat0_code = "0032:C8 "
+cheat0_enable = false
+
+cheat1_desc = "[P1 更换武器] 散弹"
+cheat1_code = "00AA:3 "
+cheat1_enable = false
+
+cheat2_desc = "[P1 更换武器] 普通"
+cheat2_code = "00AA:0 "
+cheat2_enable = false
+
+cheat3_desc = "[P1 更换武器] 快弹"
+cheat3_code = "00AA:1 "
+cheat3_enable = false
+
+cheat4_desc = "[P1 更换武器] 圆环"
+cheat4_code = "00AA:2 "
+cheat4_enable = false
+
+cheat5_desc = "[P1 更换武器] 激光"
+cheat5_code = "00AA:4 "
+cheat5_enable = false
+
+cheat6_desc = "[P1 更换武器] 加快霰弹"
+cheat6_code = "00AA:13 "
+cheat6_enable = false
+
+cheat7_desc = "[P1 更换武器] 加快普通"
+cheat7_code = "00AA:10 "
+cheat7_enable = false
+
+cheat8_desc = "[P1 更换武器] 加快快弹"
+cheat8_code = "00AA:11 "
+cheat8_enable = false
+
+cheat9_desc = "[P1 更换武器] 加快圆环"
+cheat9_code = "00AA:12 "
+cheat9_enable = false
+
+cheat10_desc = "[P1 更换武器] 加快激光"
+cheat10_code = "00AA:14 "
+cheat10_enable = false
+
+cheat11_desc = "[P1 金身] ON"
+cheat11_code = "00B0:FF "
+cheat11_enable = false
+
+cheat12_desc = "[P1 跳崖不死(不推荐)] ON"
+cheat12_code = "0090:1 "
+cheat12_enable = false
+
+cheat13_desc = "[P2 生命数] ON"
+cheat13_code = "0033:C8 "
+cheat13_enable = false
+
+cheat14_desc = "[P2 更换武器] 散弹"
+cheat14_code = "00AB:3 "
+cheat14_enable = false
+
+cheat15_desc = "[P2 更换武器] 普通"
+cheat15_code = "00AB:0 "
+cheat15_enable = false
+
+cheat16_desc = "[P2 更换武器] 快弹"
+cheat16_code = "00AB:1 "
+cheat16_enable = false
+
+cheat17_desc = "[P2 更换武器] 圆环"
+cheat17_code = "00AB:2 "
+cheat17_enable = false
+
+cheat18_desc = "[P2 更换武器] 激光"
+cheat18_code = "00AB:4 "
+cheat18_enable = false
+
+cheat19_desc = "[P2 更换武器] 加快霰弹"
+cheat19_code = "00AB:13 "
+cheat19_enable = false
+
+cheat20_desc = "[P2 更换武器] 加快普通"
+cheat20_code = "00AB:10 "
+cheat20_enable = false
+
+cheat21_desc = "[P2 更换武器] 加快快弹"
+cheat21_code = "00AB:11 "
+cheat21_enable = false
+
+cheat22_desc = "[P2 更换武器] 加快圆环"
+cheat22_code = "00AB:12 "
+cheat22_enable = false
+
+cheat23_desc = "[P2 更换武器] 加快激光"
+cheat23_code = "00AB:14 "
+cheat23_enable = false
+
+cheat24_desc = "[P2 金身] ON"
+cheat24_code = "00B1:FF "
+cheat24_enable = false
+
+cheat25_desc = "[P2 跳崖不死(不推荐)] ON"
+cheat25_code = "0091:1 "
+cheat25_enable = false
+
+cheat26_desc = "[选择关卡(进入游戏请取消锁定)] 第一关"
+cheat26_code = "0030:0 "
+cheat26_enable = false
+
+cheat27_desc = "[选择关卡(进入游戏请取消锁定)] 第二关"
+cheat27_code = "0030:1 "
+cheat27_enable = false
+
+cheat28_desc = "[选择关卡(进入游戏请取消锁定)] 第三关"
+cheat28_code = "0030:2 "
+cheat28_enable = false
+
+cheat29_desc = "[选择关卡(进入游戏请取消锁定)] 第四关"
+cheat29_code = "0030:3 "
+cheat29_enable = false
+
+cheat30_desc = "[选择关卡(进入游戏请取消锁定)] 第五关"
+cheat30_code = "0030:4 "
+cheat30_enable = false
+
+cheat31_desc = "[选择关卡(进入游戏请取消锁定)] 第六关"
+cheat31_code = "0030:5 "
+cheat31_enable = false
+
+cheat32_desc = "[选择关卡(进入游戏请取消锁定)] 第七关"
+cheat32_code = "0030:6 "
+cheat32_enable = false
+
+cheat33_desc = "[选择关卡(进入游戏请取消锁定)] 第八关"
+cheat33_code = "0030:7 "
+cheat33_enable = false
+
+cheat34_desc = "[悬空] 上部"
+cheat34_code = "00C6:FE+031A:32 "
+cheat34_enable = false
+
+cheat35_desc = "[悬空] 中部"
+cheat35_code = "00C6:FE+031A:78 "
+cheat35_enable = false
+
+cheat36_desc = "[悬空] 下部"
+cheat36_code = "00C6:FE+031A:C8 "
+cheat36_enable = false
+
+cheat37_desc = "[一击必杀（测试中）] ON"
+cheat37_code = "0583:01+0587:01+0585:01+0584:01+0586:01+0581:01+0582:01+05C7:01+0580:01+057E:01+05F5:01+05F6:1 "
+cheat37_enable = false
+

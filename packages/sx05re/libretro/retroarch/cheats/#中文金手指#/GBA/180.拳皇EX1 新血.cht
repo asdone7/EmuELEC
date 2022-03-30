@@ -1,0 +1,863 @@
+cheats = 215
+
+cheat0_desc = "无限时间"
+cheat0_code = "02000A8A 0000005B"
+cheat0_enable = false
+
+cheat1_desc = "P1 体力"
+cheat1_code = "020023E0 00000064"
+cheat1_enable = false
+
+cheat2_desc = "P1 怒槽"
+cheat2_code = "020023EC 000000FF"
+cheat2_enable = false
+
+cheat3_desc = "P1 援助"
+cheat3_code = "020023EE 00000005"
+cheat3_enable = false
+
+cheat4_desc = "P1 第一角色 *iori"
+cheat4_code = "02000801 00000012+02000819 00000012"
+cheat4_enable = false
+
+cheat5_desc = "P1 第一角色 *geese"
+cheat5_code = "02000801 00000013+02000819 00000013"
+cheat5_enable = false
+
+cheat6_desc = "P1 第一角色 kyo"
+cheat6_code = "02000801 00000000+02000819 00000000"
+cheat6_enable = false
+
+cheat7_desc = "P1 第一角色 benimaru"
+cheat7_code = "02000801 00000001+02000819 00000001"
+cheat7_enable = false
+
+cheat8_desc = "P1 第一角色 moe"
+cheat8_code = "02000801 00000002+02000819 00000002"
+cheat8_enable = false
+
+cheat9_desc = "P1 第一角色 terry"
+cheat9_code = "02000801 00000003+02000819 00000003"
+cheat9_enable = false
+
+cheat10_desc = "P1 第一角色 andy"
+cheat10_code = "02000801 00000004+02000819 00000004"
+cheat10_enable = false
+
+cheat11_desc = "P1 第一角色 mai"
+cheat11_code = "02000801 00000005+02000819 00000005"
+cheat11_enable = false
+
+cheat12_desc = "P1 第一角色 ryo"
+cheat12_code = "02000801 00000006+02000819 00000006"
+cheat12_enable = false
+
+cheat13_desc = "P1 第一角色 robert"
+cheat13_code = "02000801 00000007+02000819 00000007"
+cheat13_enable = false
+
+cheat14_desc = "P1 第一角色 king"
+cheat14_code = "02000801 00000008+02000819 00000008"
+cheat14_enable = false
+
+cheat15_desc = "P1 第一角色 leona"
+cheat15_code = "02000801 00000009+02000819 00000009"
+cheat15_enable = false
+
+cheat16_desc = "P1 第一角色 ralf"
+cheat16_code = "02000801 0000000A+02000819 0000000A"
+cheat16_enable = false
+
+cheat17_desc = "P1 第一角色 clark"
+cheat17_code = "02000801 0000000B+02000819 0000000B"
+cheat17_enable = false
+
+cheat18_desc = "P1 第一角色 athena"
+cheat18_code = "02000801 0000000C+02000819 0000000C"
+cheat18_enable = false
+
+cheat19_desc = "P1 第一角色 kensou"
+cheat19_code = "02000801 0000000D+02000819 0000000D"
+cheat19_enable = false
+
+cheat20_desc = "P1 第一角色 bao"
+cheat20_code = "02000801 0000000E+02000819 0000000E"
+cheat20_enable = false
+
+cheat21_desc = "P1 第一角色 kim"
+cheat21_code = "02000801 0000000F+02000819 0000000F"
+cheat21_enable = false
+
+cheat22_desc = "P1 第一角色 chang"
+cheat22_code = "02000801 00000010+02000819 00000010"
+cheat22_enable = false
+
+cheat23_desc = "P1 第一角色 choi"
+cheat23_code = "02000801 00000011+02000819 00000011"
+cheat23_enable = false
+
+cheat24_desc = "P1 第一角色 shingo"
+cheat24_code = "02000801 00000014+02000819 00000014"
+cheat24_enable = false
+
+cheat25_desc = "P1 第一角色 joe"
+cheat25_code = "02000801 00000015+02000819 00000015"
+cheat25_enable = false
+
+cheat26_desc = "P1 第一角色 yuri"
+cheat26_code = "02000801 00000016+02000819 00000016"
+cheat26_enable = false
+
+cheat27_desc = "P1 第一角色 whip"
+cheat27_code = "02000801 00000017+02000819 00000017"
+cheat27_enable = false
+
+cheat28_desc = "P1 第一角色 chin"
+cheat28_code = "02000801 00000018+02000819 00000018"
+cheat28_enable = false
+
+cheat29_desc = "P1 第一角色 jhun"
+cheat29_code = "02000801 00000019+02000819 00000019"
+cheat29_enable = false
+
+cheat30_desc = "P1 第二角色 *iori"
+cheat30_code = "02000802 00000012+0200081A 00000012"
+cheat30_enable = false
+
+cheat31_desc = "P1 第二角色 *geese"
+cheat31_code = "02000802 00000013+0200081A 00000013"
+cheat31_enable = false
+
+cheat32_desc = "P1 第二角色 kyo"
+cheat32_code = "02000802 00000000+0200081A 00000000"
+cheat32_enable = false
+
+cheat33_desc = "P1 第二角色 benimaru"
+cheat33_code = "02000802 00000001+0200081A 00000001"
+cheat33_enable = false
+
+cheat34_desc = "P1 第二角色 moe"
+cheat34_code = "02000802 00000002+0200081A 00000002"
+cheat34_enable = false
+
+cheat35_desc = "P1 第二角色 terry"
+cheat35_code = "02000802 00000003+0200081A 00000003"
+cheat35_enable = false
+
+cheat36_desc = "P1 第二角色 andy"
+cheat36_code = "02000802 00000004+0200081A 00000004"
+cheat36_enable = false
+
+cheat37_desc = "P1 第二角色 mai"
+cheat37_code = "02000802 00000005+0200081A 00000005"
+cheat37_enable = false
+
+cheat38_desc = "P1 第二角色 ryo"
+cheat38_code = "02000802 00000006+0200081A 00000006"
+cheat38_enable = false
+
+cheat39_desc = "P1 第二角色 robert"
+cheat39_code = "02000802 00000007+0200081A 00000007"
+cheat39_enable = false
+
+cheat40_desc = "P1 第二角色 king"
+cheat40_code = "02000802 00000008+0200081A 00000008"
+cheat40_enable = false
+
+cheat41_desc = "P1 第二角色 leona"
+cheat41_code = "02000802 00000009+0200081A 00000009"
+cheat41_enable = false
+
+cheat42_desc = "P1 第二角色 ralf"
+cheat42_code = "02000802 0000000A+0200081A 0000000A"
+cheat42_enable = false
+
+cheat43_desc = "P1 第二角色 clark"
+cheat43_code = "02000802 0000000B+0200081A 0000000B"
+cheat43_enable = false
+
+cheat44_desc = "P1 第二角色 athena"
+cheat44_code = "02000802 0000000C+0200081A 0000000C"
+cheat44_enable = false
+
+cheat45_desc = "P1 第二角色 kensou"
+cheat45_code = "02000802 0000000D+0200081A 0000000D"
+cheat45_enable = false
+
+cheat46_desc = "P1 第二角色 bao"
+cheat46_code = "02000802 0000000E+0200081A 0000000E"
+cheat46_enable = false
+
+cheat47_desc = "P1 第二角色 kim"
+cheat47_code = "02000802 0000000F+0200081A 0000000F"
+cheat47_enable = false
+
+cheat48_desc = "P1 第二角色 chang"
+cheat48_code = "02000802 00000010+0200081A 00000010"
+cheat48_enable = false
+
+cheat49_desc = "P1 第二角色 choi"
+cheat49_code = "02000802 00000011+0200081A 00000011"
+cheat49_enable = false
+
+cheat50_desc = "P1 第二角色 shingo"
+cheat50_code = "02000802 00000014+0200081A 00000014"
+cheat50_enable = false
+
+cheat51_desc = "P1 第二角色 joe"
+cheat51_code = "02000802 00000015+0200081A 00000015"
+cheat51_enable = false
+
+cheat52_desc = "P1 第二角色 yuri"
+cheat52_code = "02000802 00000016+0200081A 00000016"
+cheat52_enable = false
+
+cheat53_desc = "P1 第二角色 whip"
+cheat53_code = "02000802 00000017+0200081A 00000017"
+cheat53_enable = false
+
+cheat54_desc = "P1 第二角色 chin"
+cheat54_code = "02000802 00000018+0200081A 00000018"
+cheat54_enable = false
+
+cheat55_desc = "P1 第二角色 jhun"
+cheat55_code = "02000802 00000019+0200081A 00000019"
+cheat55_enable = false
+
+cheat56_desc = "P1 第三角色 *iori"
+cheat56_code = "02000803 00000012+0200081B 00000012"
+cheat56_enable = false
+
+cheat57_desc = "P1 第三角色 *geese"
+cheat57_code = "02000803 00000013+0200081B 00000013"
+cheat57_enable = false
+
+cheat58_desc = "P1 第三角色 kyo"
+cheat58_code = "02000803 00000000+0200081B 00000000"
+cheat58_enable = false
+
+cheat59_desc = "P1 第三角色 benimaru"
+cheat59_code = "02000803 00000001+0200081B 00000001"
+cheat59_enable = false
+
+cheat60_desc = "P1 第三角色 moe"
+cheat60_code = "02000803 00000002+0200081B 00000002"
+cheat60_enable = false
+
+cheat61_desc = "P1 第三角色 terry"
+cheat61_code = "02000803 00000003+0200081B 00000003"
+cheat61_enable = false
+
+cheat62_desc = "P1 第三角色 andy"
+cheat62_code = "02000803 00000004+0200081B 00000004"
+cheat62_enable = false
+
+cheat63_desc = "P1 第三角色 mai"
+cheat63_code = "02000803 00000005+0200081B 00000005"
+cheat63_enable = false
+
+cheat64_desc = "P1 第三角色 ryo"
+cheat64_code = "02000803 00000006+0200081B 00000006"
+cheat64_enable = false
+
+cheat65_desc = "P1 第三角色 robert"
+cheat65_code = "02000803 00000007+0200081B 00000007"
+cheat65_enable = false
+
+cheat66_desc = "P1 第三角色 king"
+cheat66_code = "02000803 00000008+0200081B 00000008"
+cheat66_enable = false
+
+cheat67_desc = "P1 第三角色 leona"
+cheat67_code = "02000803 00000009+0200081B 00000009"
+cheat67_enable = false
+
+cheat68_desc = "P1 第三角色 ralf"
+cheat68_code = "02000803 0000000A+0200081B 0000000A"
+cheat68_enable = false
+
+cheat69_desc = "P1 第三角色 clark"
+cheat69_code = "02000803 0000000B+0200081B 0000000B"
+cheat69_enable = false
+
+cheat70_desc = "P1 第三角色 athena"
+cheat70_code = "02000803 0000000C+0200081B 0000000C"
+cheat70_enable = false
+
+cheat71_desc = "P1 第三角色 kensou"
+cheat71_code = "02000803 0000000D+0200081B 0000000D"
+cheat71_enable = false
+
+cheat72_desc = "P1 第三角色 bao"
+cheat72_code = "02000803 0000000E+0200081B 0000000E"
+cheat72_enable = false
+
+cheat73_desc = "P1 第三角色 kim"
+cheat73_code = "02000803 0000000F+0200081B 0000000F"
+cheat73_enable = false
+
+cheat74_desc = "P1 第三角色 chang"
+cheat74_code = "02000803 00000010+0200081B 00000010"
+cheat74_enable = false
+
+cheat75_desc = "P1 第三角色 choi"
+cheat75_code = "02000803 00000011+0200081B 00000011"
+cheat75_enable = false
+
+cheat76_desc = "P1 第三角色 shingo"
+cheat76_code = "02000803 00000014+0200081B 00000014"
+cheat76_enable = false
+
+cheat77_desc = "P1 第三角色 joe"
+cheat77_code = "02000803 00000015+0200081B 00000015"
+cheat77_enable = false
+
+cheat78_desc = "P1 第三角色 yuri"
+cheat78_code = "02000803 00000016+0200081B 00000016"
+cheat78_enable = false
+
+cheat79_desc = "P1 第三角色 whip"
+cheat79_code = "02000803 00000017+0200081B 00000017"
+cheat79_enable = false
+
+cheat80_desc = "P1 第三角色 chin"
+cheat80_code = "02000803 00000018+0200081B 00000018"
+cheat80_enable = false
+
+cheat81_desc = "P1 第三角色 jhun"
+cheat81_code = "02000803 00000019+0200081B 00000019"
+cheat81_enable = false
+
+cheat82_desc = "P1 第四角色 *iori"
+cheat82_code = "02000804 00000012+0200081C 00000012"
+cheat82_enable = false
+
+cheat83_desc = "P1 第四角色 *geese"
+cheat83_code = "02000804 00000013+0200081C 00000013"
+cheat83_enable = false
+
+cheat84_desc = "P1 第四角色 kyo"
+cheat84_code = "02000804 00000000+0200081C 00000000"
+cheat84_enable = false
+
+cheat85_desc = "P1 第四角色 benimaru"
+cheat85_code = "02000804 00000001+0200081C 00000001"
+cheat85_enable = false
+
+cheat86_desc = "P1 第四角色 moe"
+cheat86_code = "02000804 00000002+0200081C 00000002"
+cheat86_enable = false
+
+cheat87_desc = "P1 第四角色 terry"
+cheat87_code = "02000804 00000003+0200081C 00000003"
+cheat87_enable = false
+
+cheat88_desc = "P1 第四角色 andy"
+cheat88_code = "02000804 00000004+0200081C 00000004"
+cheat88_enable = false
+
+cheat89_desc = "P1 第四角色 mai"
+cheat89_code = "02000804 00000005+0200081C 00000005"
+cheat89_enable = false
+
+cheat90_desc = "P1 第四角色 ryo"
+cheat90_code = "02000804 00000006+0200081C 00000006"
+cheat90_enable = false
+
+cheat91_desc = "P1 第四角色 robert"
+cheat91_code = "02000804 00000007+0200081C 00000007"
+cheat91_enable = false
+
+cheat92_desc = "P1 第四角色 king"
+cheat92_code = "02000804 00000008+0200081C 00000008"
+cheat92_enable = false
+
+cheat93_desc = "P1 第四角色 leona"
+cheat93_code = "02000804 00000009+0200081C 00000009"
+cheat93_enable = false
+
+cheat94_desc = "P1 第四角色 ralf"
+cheat94_code = "02000804 0000000A+0200081C 0000000A"
+cheat94_enable = false
+
+cheat95_desc = "P1 第四角色 clark"
+cheat95_code = "02000804 0000000B+0200081C 0000000B"
+cheat95_enable = false
+
+cheat96_desc = "P1 第四角色 athena"
+cheat96_code = "02000804 0000000C+0200081C 0000000C"
+cheat96_enable = false
+
+cheat97_desc = "P1 第四角色 kensou"
+cheat97_code = "02000804 0000000D+0200081C 0000000D"
+cheat97_enable = false
+
+cheat98_desc = "P1 第四角色 bao"
+cheat98_code = "02000804 0000000E+0200081C 0000000E"
+cheat98_enable = false
+
+cheat99_desc = "P1 第四角色 kim"
+cheat99_code = "02000804 0000000F+0200081C 0000000F"
+cheat99_enable = false
+
+cheat100_desc = "P1 第四角色 chang"
+cheat100_code = "02000804 00000010+0200081C 00000010"
+cheat100_enable = false
+
+cheat101_desc = "P1 第四角色 choi"
+cheat101_code = "02000804 00000011+0200081C 00000011"
+cheat101_enable = false
+
+cheat102_desc = "P1 第四角色 shingo"
+cheat102_code = "02000804 00000014+0200081C 00000014"
+cheat102_enable = false
+
+cheat103_desc = "P1 第四角色 joe"
+cheat103_code = "02000804 00000015+0200081C 00000015"
+cheat103_enable = false
+
+cheat104_desc = "P1 第四角色 yuri"
+cheat104_code = "02000804 00000016+0200081C 00000016"
+cheat104_enable = false
+
+cheat105_desc = "P1 第四角色 whip"
+cheat105_code = "02000804 00000017+0200081C 00000017"
+cheat105_enable = false
+
+cheat106_desc = "P1 第四角色 chin"
+cheat106_code = "02000804 00000018+0200081C 00000018"
+cheat106_enable = false
+
+cheat107_desc = "P1 第四角色 jhun"
+cheat107_code = "02000804 00000019+0200081C 00000019"
+cheat107_enable = false
+
+cheat108_desc = "P2 体力"
+cheat108_code = "020023F8 00000064"
+cheat108_enable = false
+
+cheat109_desc = "P2 怒槽"
+cheat109_code = "02002404 000000FF"
+cheat109_enable = false
+
+cheat110_desc = "P2 援助"
+cheat110_code = "02002406 00000005"
+cheat110_enable = false
+
+cheat111_desc = "P2 第一角色 *iori"
+cheat111_code = "0200080C 00000012+02000824 00000012"
+cheat111_enable = false
+
+cheat112_desc = "P2 第一角色 *geese"
+cheat112_code = "0200080C 00000013+02000824 00000013"
+cheat112_enable = false
+
+cheat113_desc = "P2 第一角色 kyo"
+cheat113_code = "0200080C 00000000+02000824 00000000"
+cheat113_enable = false
+
+cheat114_desc = "P2 第一角色 benimaru"
+cheat114_code = "0200080C 00000001+02000824 00000001"
+cheat114_enable = false
+
+cheat115_desc = "P2 第一角色 moe"
+cheat115_code = "0200080C 00000002+02000824 00000002"
+cheat115_enable = false
+
+cheat116_desc = "P2 第一角色 terry"
+cheat116_code = "0200080C 00000003+02000824 00000003"
+cheat116_enable = false
+
+cheat117_desc = "P2 第一角色 andy"
+cheat117_code = "0200080C 00000004+02000824 00000004"
+cheat117_enable = false
+
+cheat118_desc = "P2 第一角色 mai"
+cheat118_code = "0200080C 00000005+02000824 00000005"
+cheat118_enable = false
+
+cheat119_desc = "P2 第一角色 ryo"
+cheat119_code = "0200080C 00000006+02000824 00000006"
+cheat119_enable = false
+
+cheat120_desc = "P2 第一角色 robert"
+cheat120_code = "0200080C 00000007+02000824 00000007"
+cheat120_enable = false
+
+cheat121_desc = "P2 第一角色 king"
+cheat121_code = "0200080C 00000008+02000824 00000008"
+cheat121_enable = false
+
+cheat122_desc = "P2 第一角色 leona"
+cheat122_code = "0200080C 00000009+02000824 00000009"
+cheat122_enable = false
+
+cheat123_desc = "P2 第一角色 ralf"
+cheat123_code = "0200080C 0000000A+02000824 0000000A"
+cheat123_enable = false
+
+cheat124_desc = "P2 第一角色 clark"
+cheat124_code = "0200080C 0000000B+02000824 0000000B"
+cheat124_enable = false
+
+cheat125_desc = "P2 第一角色 athena"
+cheat125_code = "0200080C 0000000C+02000824 0000000C"
+cheat125_enable = false
+
+cheat126_desc = "P2 第一角色 kensou"
+cheat126_code = "0200080C 0000000D+02000824 0000000D"
+cheat126_enable = false
+
+cheat127_desc = "P2 第一角色 bao"
+cheat127_code = "0200080C 0000000E+02000824 0000000E"
+cheat127_enable = false
+
+cheat128_desc = "P2 第一角色 kim"
+cheat128_code = "0200080C 0000000F+02000824 0000000F"
+cheat128_enable = false
+
+cheat129_desc = "P2 第一角色 chang"
+cheat129_code = "0200080C 00000010+02000824 00000010"
+cheat129_enable = false
+
+cheat130_desc = "P2 第一角色 choi"
+cheat130_code = "0200080C 00000011+02000824 00000011"
+cheat130_enable = false
+
+cheat131_desc = "P2 第一角色 shingo"
+cheat131_code = "0200080C 00000014+02000824 00000014"
+cheat131_enable = false
+
+cheat132_desc = "P2 第一角色 joe"
+cheat132_code = "0200080C 00000015+02000824 00000015"
+cheat132_enable = false
+
+cheat133_desc = "P2 第一角色 yuri"
+cheat133_code = "0200080C 00000016+02000824 00000016"
+cheat133_enable = false
+
+cheat134_desc = "P2 第一角色 whip"
+cheat134_code = "0200080C 00000017+02000824 00000017"
+cheat134_enable = false
+
+cheat135_desc = "P2 第一角色 chin"
+cheat135_code = "0200080C 00000018+02000824 00000018"
+cheat135_enable = false
+
+cheat136_desc = "P2 第一角色 jhun"
+cheat136_code = "0200080C 00000019+02000824 00000019"
+cheat136_enable = false
+
+cheat137_desc = "P2 第二角色 *iori"
+cheat137_code = "0200080D 00000012+02000825 00000012"
+cheat137_enable = false
+
+cheat138_desc = "P2 第二角色 *geese"
+cheat138_code = "0200080D 00000013+02000825 00000013"
+cheat138_enable = false
+
+cheat139_desc = "P2 第二角色 kyo"
+cheat139_code = "0200080D 00000000+02000825 00000000"
+cheat139_enable = false
+
+cheat140_desc = "P2 第二角色 benimaru"
+cheat140_code = "0200080D 00000001+02000825 00000001"
+cheat140_enable = false
+
+cheat141_desc = "P2 第二角色 moe"
+cheat141_code = "0200080D 00000002+02000825 00000002"
+cheat141_enable = false
+
+cheat142_desc = "P2 第二角色 terry"
+cheat142_code = "0200080D 00000003+02000825 00000003"
+cheat142_enable = false
+
+cheat143_desc = "P2 第二角色 andy"
+cheat143_code = "0200080D 00000004+02000825 00000004"
+cheat143_enable = false
+
+cheat144_desc = "P2 第二角色 mai"
+cheat144_code = "0200080D 00000005+02000825 00000005"
+cheat144_enable = false
+
+cheat145_desc = "P2 第二角色 ryo"
+cheat145_code = "0200080D 00000006+02000825 00000006"
+cheat145_enable = false
+
+cheat146_desc = "P2 第二角色 robert"
+cheat146_code = "0200080D 00000007+02000825 00000007"
+cheat146_enable = false
+
+cheat147_desc = "P2 第二角色 king"
+cheat147_code = "0200080D 00000008+02000825 00000008"
+cheat147_enable = false
+
+cheat148_desc = "P2 第二角色 leona"
+cheat148_code = "0200080D 00000009+02000825 00000009"
+cheat148_enable = false
+
+cheat149_desc = "P2 第二角色 ralf"
+cheat149_code = "0200080D 0000000A+02000825 0000000A"
+cheat149_enable = false
+
+cheat150_desc = "P2 第二角色 clark"
+cheat150_code = "0200080D 0000000B+02000825 0000000B"
+cheat150_enable = false
+
+cheat151_desc = "P2 第二角色 athena"
+cheat151_code = "0200080D 0000000C+02000825 0000000C"
+cheat151_enable = false
+
+cheat152_desc = "P2 第二角色 kensou"
+cheat152_code = "0200080D 0000000D+02000825 0000000D"
+cheat152_enable = false
+
+cheat153_desc = "P2 第二角色 bao"
+cheat153_code = "0200080D 0000000E+02000825 0000000E"
+cheat153_enable = false
+
+cheat154_desc = "P2 第二角色 kim"
+cheat154_code = "0200080D 0000000F+02000825 0000000F"
+cheat154_enable = false
+
+cheat155_desc = "P2 第二角色 chang"
+cheat155_code = "0200080D 00000010+02000825 00000010"
+cheat155_enable = false
+
+cheat156_desc = "P2 第二角色 choi"
+cheat156_code = "0200080D 00000011+02000825 00000011"
+cheat156_enable = false
+
+cheat157_desc = "P2 第二角色 shingo"
+cheat157_code = "0200080D 00000014+02000825 00000014"
+cheat157_enable = false
+
+cheat158_desc = "P2 第二角色 joe"
+cheat158_code = "0200080D 00000015+02000825 00000015"
+cheat158_enable = false
+
+cheat159_desc = "P2 第二角色 yuri"
+cheat159_code = "0200080D 00000016+02000825 00000016"
+cheat159_enable = false
+
+cheat160_desc = "P2 第二角色 whip"
+cheat160_code = "0200080D 00000017+02000825 00000017"
+cheat160_enable = false
+
+cheat161_desc = "P2 第二角色 chin"
+cheat161_code = "0200080D 00000018+02000825 00000018"
+cheat161_enable = false
+
+cheat162_desc = "P2 第二角色 jhun"
+cheat162_code = "0200080D 00000019+02000825 00000019"
+cheat162_enable = false
+
+cheat163_desc = "P2 第三角色 *iori"
+cheat163_code = "0200080E 00000012+02000826 00000012"
+cheat163_enable = false
+
+cheat164_desc = "P2 第三角色 *geese"
+cheat164_code = "0200080E 00000013+02000826 00000013"
+cheat164_enable = false
+
+cheat165_desc = "P2 第三角色 kyo"
+cheat165_code = "0200080E 00000000+02000826 00000000"
+cheat165_enable = false
+
+cheat166_desc = "P2 第三角色 benimaru"
+cheat166_code = "0200080E 00000001+02000826 00000001"
+cheat166_enable = false
+
+cheat167_desc = "P2 第三角色 moe"
+cheat167_code = "0200080E 00000002+02000826 00000002"
+cheat167_enable = false
+
+cheat168_desc = "P2 第三角色 terry"
+cheat168_code = "0200080E 00000003+02000826 00000003"
+cheat168_enable = false
+
+cheat169_desc = "P2 第三角色 andy"
+cheat169_code = "0200080E 00000004+02000826 00000004"
+cheat169_enable = false
+
+cheat170_desc = "P2 第三角色 mai"
+cheat170_code = "0200080E 00000005+02000826 00000005"
+cheat170_enable = false
+
+cheat171_desc = "P2 第三角色 ryo"
+cheat171_code = "0200080E 00000006+02000826 00000006"
+cheat171_enable = false
+
+cheat172_desc = "P2 第三角色 robert"
+cheat172_code = "0200080E 00000007+02000826 00000007"
+cheat172_enable = false
+
+cheat173_desc = "P2 第三角色 king"
+cheat173_code = "0200080E 00000008+02000826 00000008"
+cheat173_enable = false
+
+cheat174_desc = "P2 第三角色 leona"
+cheat174_code = "0200080E 00000009+02000826 00000009"
+cheat174_enable = false
+
+cheat175_desc = "P2 第三角色 ralf"
+cheat175_code = "0200080E 0000000A+02000826 0000000A"
+cheat175_enable = false
+
+cheat176_desc = "P2 第三角色 clark"
+cheat176_code = "0200080E 0000000B+02000826 0000000B"
+cheat176_enable = false
+
+cheat177_desc = "P2 第三角色 athena"
+cheat177_code = "0200080E 0000000C+02000826 0000000C"
+cheat177_enable = false
+
+cheat178_desc = "P2 第三角色 kensou"
+cheat178_code = "0200080E 0000000D+02000826 0000000D"
+cheat178_enable = false
+
+cheat179_desc = "P2 第三角色 bao"
+cheat179_code = "0200080E 0000000E+02000826 0000000E"
+cheat179_enable = false
+
+cheat180_desc = "P2 第三角色 kim"
+cheat180_code = "0200080E 0000000F+02000826 0000000F"
+cheat180_enable = false
+
+cheat181_desc = "P2 第三角色 chang"
+cheat181_code = "0200080E 00000010+02000826 00000010"
+cheat181_enable = false
+
+cheat182_desc = "P2 第三角色 choi"
+cheat182_code = "0200080E 00000011+02000826 00000011"
+cheat182_enable = false
+
+cheat183_desc = "P2 第三角色 shingo"
+cheat183_code = "0200080E 00000014+02000826 00000014"
+cheat183_enable = false
+
+cheat184_desc = "P2 第三角色 joe"
+cheat184_code = "0200080E 00000015+02000826 00000015"
+cheat184_enable = false
+
+cheat185_desc = "P2 第三角色 yuri"
+cheat185_code = "0200080E 00000016+02000826 00000016"
+cheat185_enable = false
+
+cheat186_desc = "P2 第三角色 whip"
+cheat186_code = "0200080E 00000017+02000826 00000017"
+cheat186_enable = false
+
+cheat187_desc = "P2 第三角色 chin"
+cheat187_code = "0200080E 00000018+02000826 00000018"
+cheat187_enable = false
+
+cheat188_desc = "P2 第三角色 jhun"
+cheat188_code = "0200080E 00000019+02000826 00000019"
+cheat188_enable = false
+
+cheat189_desc = "P2 第四角色 *iori"
+cheat189_code = "0200080F 00000012+02000827 00000012"
+cheat189_enable = false
+
+cheat190_desc = "P2 第四角色 *geese"
+cheat190_code = "0200080F 00000013+02000827 00000013"
+cheat190_enable = false
+
+cheat191_desc = "P2 第四角色 kyo"
+cheat191_code = "0200080F 00000000+02000827 00000000"
+cheat191_enable = false
+
+cheat192_desc = "P2 第四角色 benimaru"
+cheat192_code = "0200080F 00000001+02000827 00000001"
+cheat192_enable = false
+
+cheat193_desc = "P2 第四角色 moe"
+cheat193_code = "0200080F 00000002+02000827 00000002"
+cheat193_enable = false
+
+cheat194_desc = "P2 第四角色 terry"
+cheat194_code = "0200080F 00000003+02000827 00000003"
+cheat194_enable = false
+
+cheat195_desc = "P2 第四角色 andy"
+cheat195_code = "0200080F 00000004+02000827 00000004"
+cheat195_enable = false
+
+cheat196_desc = "P2 第四角色 mai"
+cheat196_code = "0200080F 00000005+02000827 00000005"
+cheat196_enable = false
+
+cheat197_desc = "P2 第四角色 ryo"
+cheat197_code = "0200080F 00000006+02000827 00000006"
+cheat197_enable = false
+
+cheat198_desc = "P2 第四角色 robert"
+cheat198_code = "0200080F 00000007+02000827 00000007"
+cheat198_enable = false
+
+cheat199_desc = "P2 第四角色 king"
+cheat199_code = "0200080F 00000008+02000827 00000008"
+cheat199_enable = false
+
+cheat200_desc = "P2 第四角色 leona"
+cheat200_code = "0200080F 00000009+02000827 00000009"
+cheat200_enable = false
+
+cheat201_desc = "P2 第四角色 ralf"
+cheat201_code = "0200080F 0000000A+02000827 0000000A"
+cheat201_enable = false
+
+cheat202_desc = "P2 第四角色 clark"
+cheat202_code = "0200080F 0000000B+02000827 0000000B"
+cheat202_enable = false
+
+cheat203_desc = "P2 第四角色 athena"
+cheat203_code = "0200080F 0000000C+02000827 0000000C"
+cheat203_enable = false
+
+cheat204_desc = "P2 第四角色 kensou"
+cheat204_code = "0200080F 0000000D+02000827 0000000D"
+cheat204_enable = false
+
+cheat205_desc = "P2 第四角色 bao"
+cheat205_code = "0200080F 0000000E+02000827 0000000E"
+cheat205_enable = false
+
+cheat206_desc = "P2 第四角色 kim"
+cheat206_code = "0200080F 0000000F+02000827 0000000F"
+cheat206_enable = false
+
+cheat207_desc = "P2 第四角色 chang"
+cheat207_code = "0200080F 00000010+02000827 00000010"
+cheat207_enable = false
+
+cheat208_desc = "P2 第四角色 choi"
+cheat208_code = "0200080F 00000011+02000827 00000011"
+cheat208_enable = false
+
+cheat209_desc = "P2 第四角色 shingo"
+cheat209_code = "0200080F 00000014+02000827 00000014"
+cheat209_enable = false
+
+cheat210_desc = "P2 第四角色 joe"
+cheat210_code = "0200080F 00000015+02000827 00000015"
+cheat210_enable = false
+
+cheat211_desc = "P2 第四角色 yuri"
+cheat211_code = "0200080F 00000016+02000827 00000016"
+cheat211_enable = false
+
+cheat212_desc = "P2 第四角色 whip"
+cheat212_code = "0200080F 00000017+02000827 00000017"
+cheat212_enable = false
+
+cheat213_desc = "P2 第四角色 chin"
+cheat213_code = "0200080F 00000018+02000827 00000018"
+cheat213_enable = false
+
+cheat214_desc = "P2 第四角色 jhun"
+cheat214_code = "0200080F 00000019+02000827 00000019"
+cheat214_enable = false
+
+

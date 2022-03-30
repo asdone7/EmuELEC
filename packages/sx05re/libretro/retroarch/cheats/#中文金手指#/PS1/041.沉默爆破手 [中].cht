@@ -1,0 +1,103 @@
+cheats = 25
+
+cheat0_desc = "#无法被击中"
+cheat0_code = "800E8934 0000"
+cheat0_enable = false
+
+cheat1_desc = "#完成目标（直到任务5）"
+cheat1_code = "800E9388 0013+800E9386 000B"
+cheat1_enable = false
+
+cheat2_desc = "#Max Shield"
+cheat2_code = "800E9384 03E8"
+cheat2_enable = false
+
+cheat3_desc = "#捡起无限炸弹"
+cheat3_code = "800E9362 0009+800E9364 0009"
+cheat3_enable = false
+
+cheat4_desc = "#SCORE MAX"
+cheat4_code = "800E93BC E0F6+800E93BE 05F5"
+cheat4_enable = false
+
+cheat5_desc = "#无敌"
+cheat5_code = "800E557A 0020"
+cheat5_enable = false
+
+cheat6_desc = "#NAPALM LIQUID MAX"
+cheat6_code = "300E9362 0063"
+cheat6_enable = false
+
+cheat7_desc = "#PARALYSIS LIQUID MAX"
+cheat7_code = "300E9363 0063"
+cheat7_enable = false
+
+cheat8_desc = "#重力液体最大值"
+cheat8_code = "300E9364 0063"
+cheat8_enable = false
+
+cheat9_desc = "#E-CHIP MAX"
+cheat9_code = "300E9365 0063"
+cheat9_enable = false
+
+cheat10_desc = "#我也可以使用所有材料液体和电子芯片MAX（自然）"
+cheat10_code = "800E9362 6363+800E9364 6363"
+cheat10_enable = false
+
+cheat11_desc = "#E-UNIT BOMB MAX"
+cheat11_code = "300E9366 0021"
+cheat11_enable = false
+
+cheat12_desc = "#E-UNIT RANGE MAX"
+cheat12_code = "300E9367 0021"
+cheat12_enable = false
+
+cheat13_desc = "#E-UNIT SHIELD MAX"
+cheat13_code = "300E9368 0021"
+cheat13_enable = false
+
+cheat14_desc = "#Infinitw SHIELD MISSION12 Henri"
+cheat14_code = "D00F6410 0014+800F6412 1400"
+cheat14_enable = false
+
+cheat15_desc = "#MISSION13时间限制停止"
+cheat15_code = "D00FA4A6 2442+800FA4A4 0000"
+cheat15_enable = false
+
+cheat16_desc = "#（完全没有意义）R2按钮中的大跳转"
+cheat16_code = "D00C7940 0002+800E5210 5000"
+cheat16_enable = false
+
+cheat17_desc = "#ADVANCED MODE（必需的LOAD DATA）"
+cheat17_code = "800E925E 0001"
+cheat17_enable = false
+
+cheat18_desc = "#VS ARENA MODE ARENA所有字符（在LOAD DATA上显而易见）"
+cheat18_code = "800E9260 FFFF"
+cheat18_enable = false
+
+cheat19_desc = "#VS竞技场模式无（1P）JUTAH，每个决定专用"
+cheat19_code = "800E557A 0020"
+cheat19_enable = false
+
+cheat20_desc = "#VS ARENA MODE（1P）所有字符可实现盾牌连续性"
+cheat20_code = "801EBD38 0001+801EBD44 1000"
+cheat20_enable = false
+
+cheat21_desc = "#VS ARENA MODE（1P）屏蔽规MAX"
+cheat21_code = "801EBD44 1000"
+cheat21_enable = false
+
+cheat22_desc = "#VS ARENA MODENone（2P）JUTAH每个决定都专用"
+cheat22_code = "8014C386 0020"
+cheat22_enable = false
+
+cheat23_desc = "#VS ARENA MODE（2P）所有字符可实现盾牌连续性"
+cheat23_code = "801EBD74 0001+801EBD80 1000"
+cheat23_enable = false
+
+cheat24_desc = "#VS ARENA MODE（2P）屏蔽规MAX"
+cheat24_code = "801EBD80 1000"
+cheat24_enable = false
+
+

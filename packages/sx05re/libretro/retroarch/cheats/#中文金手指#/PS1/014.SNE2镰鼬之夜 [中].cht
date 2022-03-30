@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "#无限节省"
+cheat0_code = "800792B6 0000"
+cheat0_enable = false
+
+cheat1_desc = "#解锁故事"
+cheat1_code = "800110C8 6981+800110CA 9981+800110CC 8F82+800110CE 9981+800110D0 6A81+800110D4 6981+800110D6 9981+800110D8 8F82+800110DA 9981+800110DC 6A81+800110E4 6981+800110E6 9981+800110E8 8F82+800110EA 9981+800110EC 6A81"
+cheat1_enable = false
+
+cheat2_desc = "#Kamaitachi no Yoru可以调皮的小游戏。开始游戏后，按Triangle按钮进入运动屏幕，请选择126号。"
+cheat2_code = "301F5DB6 0001-"
+cheat2_enable = false
+
+

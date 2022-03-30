@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[无限金钱]ON"
+cheat0_code = "22DE:99+22DF:99+22E0:99+22E1:99+22E2:99+22E3:99+22E4:99+22E5:99"
+cheat0_enable = false
+

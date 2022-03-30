@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[角色经验锁定]阿鲁姆"
+cheat0_code = "0FB2:63"
+cheat0_enable = false
+
+cheat1_desc = "[角色经验锁定]鲁卡"
+cheat1_code = "0FC7:63"
+cheat1_enable = false
+
+cheat2_desc = "[角色经验锁定]格雷"
+cheat2_code = "0FDC:63"
+cheat2_enable = false
+
+cheat3_desc = "[角色经验锁定]罗宾"
+cheat3_code = "0FF1:63"
+cheat3_enable = false
+
+cheat4_desc = "[角色经验锁定]克里夫"
+cheat4_code = "1006:63"
+cheat4_enable = false
+

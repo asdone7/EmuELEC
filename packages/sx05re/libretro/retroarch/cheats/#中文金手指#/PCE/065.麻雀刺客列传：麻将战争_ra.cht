@@ -1,0 +1,1906 @@
+cheats = 476
+
+cheat0_desc = "[第一张牌]一万"
+cheat0_code = "1F182F:01"
+cheat0_enable = false
+
+cheat1_desc = "[第一张牌]二万"
+cheat1_code = "1F182F:02"
+cheat1_enable = false
+
+cheat2_desc = "[第一张牌]三万"
+cheat2_code = "1F182F:03"
+cheat2_enable = false
+
+cheat3_desc = "[第一张牌]四万"
+cheat3_code = "1F182F:04"
+cheat3_enable = false
+
+cheat4_desc = "[第一张牌]五万"
+cheat4_code = "1F182F:05"
+cheat4_enable = false
+
+cheat5_desc = "[第一张牌]六万"
+cheat5_code = "1F182F:06"
+cheat5_enable = false
+
+cheat6_desc = "[第一张牌]七万"
+cheat6_code = "1F182F:07"
+cheat6_enable = false
+
+cheat7_desc = "[第一张牌]八万"
+cheat7_code = "1F182F:08"
+cheat7_enable = false
+
+cheat8_desc = "[第一张牌]九万"
+cheat8_code = "1F182F:09"
+cheat8_enable = false
+
+cheat9_desc = "[第一张牌]一筒"
+cheat9_code = "1F182F:11"
+cheat9_enable = false
+
+cheat10_desc = "[第一张牌]二筒"
+cheat10_code = "1F182F:12"
+cheat10_enable = false
+
+cheat11_desc = "[第一张牌]三筒"
+cheat11_code = "1F182F:13"
+cheat11_enable = false
+
+cheat12_desc = "[第一张牌]四筒"
+cheat12_code = "1F182F:14"
+cheat12_enable = false
+
+cheat13_desc = "[第一张牌]五筒"
+cheat13_code = "1F182F:15"
+cheat13_enable = false
+
+cheat14_desc = "[第一张牌]六筒"
+cheat14_code = "1F182F:16"
+cheat14_enable = false
+
+cheat15_desc = "[第一张牌]七筒"
+cheat15_code = "1F182F:17"
+cheat15_enable = false
+
+cheat16_desc = "[第一张牌]八筒"
+cheat16_code = "1F182F:18"
+cheat16_enable = false
+
+cheat17_desc = "[第一张牌]九筒"
+cheat17_code = "1F182F:19"
+cheat17_enable = false
+
+cheat18_desc = "[第一张牌]一条"
+cheat18_code = "1F182F:21"
+cheat18_enable = false
+
+cheat19_desc = "[第一张牌]二条"
+cheat19_code = "1F182F:22"
+cheat19_enable = false
+
+cheat20_desc = "[第一张牌]三条"
+cheat20_code = "1F182F:23"
+cheat20_enable = false
+
+cheat21_desc = "[第一张牌]四条"
+cheat21_code = "1F182F:24"
+cheat21_enable = false
+
+cheat22_desc = "[第一张牌]五条"
+cheat22_code = "1F182F:25"
+cheat22_enable = false
+
+cheat23_desc = "[第一张牌]六条"
+cheat23_code = "1F182F:26"
+cheat23_enable = false
+
+cheat24_desc = "[第一张牌]七条"
+cheat24_code = "1F182F:27"
+cheat24_enable = false
+
+cheat25_desc = "[第一张牌]八条"
+cheat25_code = "1F182F:28"
+cheat25_enable = false
+
+cheat26_desc = "[第一张牌]九条"
+cheat26_code = "1F182F:29"
+cheat26_enable = false
+
+cheat27_desc = "[第一张牌]东风"
+cheat27_code = "1F182F:31"
+cheat27_enable = false
+
+cheat28_desc = "[第一张牌]南风"
+cheat28_code = "1F182F:32"
+cheat28_enable = false
+
+cheat29_desc = "[第一张牌]西风"
+cheat29_code = "1F182F:33"
+cheat29_enable = false
+
+cheat30_desc = "[第一张牌]北风"
+cheat30_code = "1F182F:34"
+cheat30_enable = false
+
+cheat31_desc = "[第一张牌]白板"
+cheat31_code = "1F182F:35"
+cheat31_enable = false
+
+cheat32_desc = "[第一张牌]发财"
+cheat32_code = "1F182F:36"
+cheat32_enable = false
+
+cheat33_desc = "[第一张牌]红中"
+cheat33_code = "1F182F:37"
+cheat33_enable = false
+
+cheat34_desc = "[第二张牌]一万"
+cheat34_code = "1F1830:01"
+cheat34_enable = false
+
+cheat35_desc = "[第二张牌]二万"
+cheat35_code = "1F1830:02"
+cheat35_enable = false
+
+cheat36_desc = "[第二张牌]三万"
+cheat36_code = "1F1830:03"
+cheat36_enable = false
+
+cheat37_desc = "[第二张牌]四万"
+cheat37_code = "1F1830:04"
+cheat37_enable = false
+
+cheat38_desc = "[第二张牌]五万"
+cheat38_code = "1F1830:05"
+cheat38_enable = false
+
+cheat39_desc = "[第二张牌]六万"
+cheat39_code = "1F1830:06"
+cheat39_enable = false
+
+cheat40_desc = "[第二张牌]七万"
+cheat40_code = "1F1830:07"
+cheat40_enable = false
+
+cheat41_desc = "[第二张牌]八万"
+cheat41_code = "1F1830:08"
+cheat41_enable = false
+
+cheat42_desc = "[第二张牌]九万"
+cheat42_code = "1F1830:09"
+cheat42_enable = false
+
+cheat43_desc = "[第二张牌]一筒"
+cheat43_code = "1F1830:11"
+cheat43_enable = false
+
+cheat44_desc = "[第二张牌]二筒"
+cheat44_code = "1F1830:12"
+cheat44_enable = false
+
+cheat45_desc = "[第二张牌]三筒"
+cheat45_code = "1F1830:13"
+cheat45_enable = false
+
+cheat46_desc = "[第二张牌]四筒"
+cheat46_code = "1F1830:14"
+cheat46_enable = false
+
+cheat47_desc = "[第二张牌]五筒"
+cheat47_code = "1F1830:15"
+cheat47_enable = false
+
+cheat48_desc = "[第二张牌]六筒"
+cheat48_code = "1F1830:16"
+cheat48_enable = false
+
+cheat49_desc = "[第二张牌]七筒"
+cheat49_code = "1F1830:17"
+cheat49_enable = false
+
+cheat50_desc = "[第二张牌]八筒"
+cheat50_code = "1F1830:18"
+cheat50_enable = false
+
+cheat51_desc = "[第二张牌]九筒"
+cheat51_code = "1F1830:19"
+cheat51_enable = false
+
+cheat52_desc = "[第二张牌]一条"
+cheat52_code = "1F1830:21"
+cheat52_enable = false
+
+cheat53_desc = "[第二张牌]二条"
+cheat53_code = "1F1830:22"
+cheat53_enable = false
+
+cheat54_desc = "[第二张牌]三条"
+cheat54_code = "1F1830:23"
+cheat54_enable = false
+
+cheat55_desc = "[第二张牌]四条"
+cheat55_code = "1F1830:24"
+cheat55_enable = false
+
+cheat56_desc = "[第二张牌]五条"
+cheat56_code = "1F1830:25"
+cheat56_enable = false
+
+cheat57_desc = "[第二张牌]六条"
+cheat57_code = "1F1830:26"
+cheat57_enable = false
+
+cheat58_desc = "[第二张牌]七条"
+cheat58_code = "1F1830:27"
+cheat58_enable = false
+
+cheat59_desc = "[第二张牌]八条"
+cheat59_code = "1F1830:28"
+cheat59_enable = false
+
+cheat60_desc = "[第二张牌]九条"
+cheat60_code = "1F1830:29"
+cheat60_enable = false
+
+cheat61_desc = "[第二张牌]东风"
+cheat61_code = "1F1830:31"
+cheat61_enable = false
+
+cheat62_desc = "[第二张牌]南风"
+cheat62_code = "1F1830:32"
+cheat62_enable = false
+
+cheat63_desc = "[第二张牌]西风"
+cheat63_code = "1F1830:33"
+cheat63_enable = false
+
+cheat64_desc = "[第二张牌]北风"
+cheat64_code = "1F1830:34"
+cheat64_enable = false
+
+cheat65_desc = "[第二张牌]白板"
+cheat65_code = "1F1830:35"
+cheat65_enable = false
+
+cheat66_desc = "[第二张牌]发财"
+cheat66_code = "1F1830:36"
+cheat66_enable = false
+
+cheat67_desc = "[第二张牌]红中"
+cheat67_code = "1F1830:37"
+cheat67_enable = false
+
+cheat68_desc = "[第三张牌]一万"
+cheat68_code = "1F1831:01"
+cheat68_enable = false
+
+cheat69_desc = "[第三张牌]二万"
+cheat69_code = "1F1831:02"
+cheat69_enable = false
+
+cheat70_desc = "[第三张牌]三万"
+cheat70_code = "1F1831:03"
+cheat70_enable = false
+
+cheat71_desc = "[第三张牌]四万"
+cheat71_code = "1F1831:04"
+cheat71_enable = false
+
+cheat72_desc = "[第三张牌]五万"
+cheat72_code = "1F1831:05"
+cheat72_enable = false
+
+cheat73_desc = "[第三张牌]六万"
+cheat73_code = "1F1831:06"
+cheat73_enable = false
+
+cheat74_desc = "[第三张牌]七万"
+cheat74_code = "1F1831:07"
+cheat74_enable = false
+
+cheat75_desc = "[第三张牌]八万"
+cheat75_code = "1F1831:08"
+cheat75_enable = false
+
+cheat76_desc = "[第三张牌]九万"
+cheat76_code = "1F1831:09"
+cheat76_enable = false
+
+cheat77_desc = "[第三张牌]一筒"
+cheat77_code = "1F1831:11"
+cheat77_enable = false
+
+cheat78_desc = "[第三张牌]二筒"
+cheat78_code = "1F1831:12"
+cheat78_enable = false
+
+cheat79_desc = "[第三张牌]三筒"
+cheat79_code = "1F1831:13"
+cheat79_enable = false
+
+cheat80_desc = "[第三张牌]四筒"
+cheat80_code = "1F1831:14"
+cheat80_enable = false
+
+cheat81_desc = "[第三张牌]五筒"
+cheat81_code = "1F1831:15"
+cheat81_enable = false
+
+cheat82_desc = "[第三张牌]六筒"
+cheat82_code = "1F1831:16"
+cheat82_enable = false
+
+cheat83_desc = "[第三张牌]七筒"
+cheat83_code = "1F1831:17"
+cheat83_enable = false
+
+cheat84_desc = "[第三张牌]八筒"
+cheat84_code = "1F1831:18"
+cheat84_enable = false
+
+cheat85_desc = "[第三张牌]九筒"
+cheat85_code = "1F1831:19"
+cheat85_enable = false
+
+cheat86_desc = "[第三张牌]一条"
+cheat86_code = "1F1831:21"
+cheat86_enable = false
+
+cheat87_desc = "[第三张牌]二条"
+cheat87_code = "1F1831:22"
+cheat87_enable = false
+
+cheat88_desc = "[第三张牌]三条"
+cheat88_code = "1F1831:23"
+cheat88_enable = false
+
+cheat89_desc = "[第三张牌]四条"
+cheat89_code = "1F1831:24"
+cheat89_enable = false
+
+cheat90_desc = "[第三张牌]五条"
+cheat90_code = "1F1831:25"
+cheat90_enable = false
+
+cheat91_desc = "[第三张牌]六条"
+cheat91_code = "1F1831:26"
+cheat91_enable = false
+
+cheat92_desc = "[第三张牌]七条"
+cheat92_code = "1F1831:27"
+cheat92_enable = false
+
+cheat93_desc = "[第三张牌]八条"
+cheat93_code = "1F1831:28"
+cheat93_enable = false
+
+cheat94_desc = "[第三张牌]九条"
+cheat94_code = "1F1831:29"
+cheat94_enable = false
+
+cheat95_desc = "[第三张牌]东风"
+cheat95_code = "1F1831:31"
+cheat95_enable = false
+
+cheat96_desc = "[第三张牌]南风"
+cheat96_code = "1F1831:32"
+cheat96_enable = false
+
+cheat97_desc = "[第三张牌]西风"
+cheat97_code = "1F1831:33"
+cheat97_enable = false
+
+cheat98_desc = "[第三张牌]北风"
+cheat98_code = "1F1831:34"
+cheat98_enable = false
+
+cheat99_desc = "[第三张牌]白板"
+cheat99_code = "1F1831:35"
+cheat99_enable = false
+
+cheat100_desc = "[第三张牌]发财"
+cheat100_code = "1F1831:36"
+cheat100_enable = false
+
+cheat101_desc = "[第三张牌]红中"
+cheat101_code = "1F1831:37"
+cheat101_enable = false
+
+cheat102_desc = "[第四张牌]一万"
+cheat102_code = "1F1832:01"
+cheat102_enable = false
+
+cheat103_desc = "[第四张牌]二万"
+cheat103_code = "1F1832:02"
+cheat103_enable = false
+
+cheat104_desc = "[第四张牌]三万"
+cheat104_code = "1F1832:03"
+cheat104_enable = false
+
+cheat105_desc = "[第四张牌]四万"
+cheat105_code = "1F1832:04"
+cheat105_enable = false
+
+cheat106_desc = "[第四张牌]五万"
+cheat106_code = "1F1832:05"
+cheat106_enable = false
+
+cheat107_desc = "[第四张牌]六万"
+cheat107_code = "1F1832:06"
+cheat107_enable = false
+
+cheat108_desc = "[第四张牌]七万"
+cheat108_code = "1F1832:07"
+cheat108_enable = false
+
+cheat109_desc = "[第四张牌]八万"
+cheat109_code = "1F1832:08"
+cheat109_enable = false
+
+cheat110_desc = "[第四张牌]九万"
+cheat110_code = "1F1832:09"
+cheat110_enable = false
+
+cheat111_desc = "[第四张牌]一筒"
+cheat111_code = "1F1832:11"
+cheat111_enable = false
+
+cheat112_desc = "[第四张牌]二筒"
+cheat112_code = "1F1832:12"
+cheat112_enable = false
+
+cheat113_desc = "[第四张牌]三筒"
+cheat113_code = "1F1832:13"
+cheat113_enable = false
+
+cheat114_desc = "[第四张牌]四筒"
+cheat114_code = "1F1832:14"
+cheat114_enable = false
+
+cheat115_desc = "[第四张牌]五筒"
+cheat115_code = "1F1832:15"
+cheat115_enable = false
+
+cheat116_desc = "[第四张牌]六筒"
+cheat116_code = "1F1832:16"
+cheat116_enable = false
+
+cheat117_desc = "[第四张牌]七筒"
+cheat117_code = "1F1832:17"
+cheat117_enable = false
+
+cheat118_desc = "[第四张牌]八筒"
+cheat118_code = "1F1832:18"
+cheat118_enable = false
+
+cheat119_desc = "[第四张牌]九筒"
+cheat119_code = "1F1832:19"
+cheat119_enable = false
+
+cheat120_desc = "[第四张牌]一条"
+cheat120_code = "1F1832:21"
+cheat120_enable = false
+
+cheat121_desc = "[第四张牌]二条"
+cheat121_code = "1F1832:22"
+cheat121_enable = false
+
+cheat122_desc = "[第四张牌]三条"
+cheat122_code = "1F1832:23"
+cheat122_enable = false
+
+cheat123_desc = "[第四张牌]四条"
+cheat123_code = "1F1832:24"
+cheat123_enable = false
+
+cheat124_desc = "[第四张牌]五条"
+cheat124_code = "1F1832:25"
+cheat124_enable = false
+
+cheat125_desc = "[第四张牌]六条"
+cheat125_code = "1F1832:26"
+cheat125_enable = false
+
+cheat126_desc = "[第四张牌]七条"
+cheat126_code = "1F1832:27"
+cheat126_enable = false
+
+cheat127_desc = "[第四张牌]八条"
+cheat127_code = "1F1832:28"
+cheat127_enable = false
+
+cheat128_desc = "[第四张牌]九条"
+cheat128_code = "1F1832:29"
+cheat128_enable = false
+
+cheat129_desc = "[第四张牌]东风"
+cheat129_code = "1F1832:31"
+cheat129_enable = false
+
+cheat130_desc = "[第四张牌]南风"
+cheat130_code = "1F1832:32"
+cheat130_enable = false
+
+cheat131_desc = "[第四张牌]西风"
+cheat131_code = "1F1832:33"
+cheat131_enable = false
+
+cheat132_desc = "[第四张牌]北风"
+cheat132_code = "1F1832:34"
+cheat132_enable = false
+
+cheat133_desc = "[第四张牌]白板"
+cheat133_code = "1F1832:35"
+cheat133_enable = false
+
+cheat134_desc = "[第四张牌]发财"
+cheat134_code = "1F1832:36"
+cheat134_enable = false
+
+cheat135_desc = "[第四张牌]红中"
+cheat135_code = "1F1832:37"
+cheat135_enable = false
+
+cheat136_desc = "[第五张牌]一万"
+cheat136_code = "1F1833:01"
+cheat136_enable = false
+
+cheat137_desc = "[第五张牌]二万"
+cheat137_code = "1F1833:02"
+cheat137_enable = false
+
+cheat138_desc = "[第五张牌]三万"
+cheat138_code = "1F1833:03"
+cheat138_enable = false
+
+cheat139_desc = "[第五张牌]四万"
+cheat139_code = "1F1833:04"
+cheat139_enable = false
+
+cheat140_desc = "[第五张牌]五万"
+cheat140_code = "1F1833:05"
+cheat140_enable = false
+
+cheat141_desc = "[第五张牌]六万"
+cheat141_code = "1F1833:06"
+cheat141_enable = false
+
+cheat142_desc = "[第五张牌]七万"
+cheat142_code = "1F1833:07"
+cheat142_enable = false
+
+cheat143_desc = "[第五张牌]八万"
+cheat143_code = "1F1833:08"
+cheat143_enable = false
+
+cheat144_desc = "[第五张牌]九万"
+cheat144_code = "1F1833:09"
+cheat144_enable = false
+
+cheat145_desc = "[第五张牌]一筒"
+cheat145_code = "1F1833:11"
+cheat145_enable = false
+
+cheat146_desc = "[第五张牌]二筒"
+cheat146_code = "1F1833:12"
+cheat146_enable = false
+
+cheat147_desc = "[第五张牌]三筒"
+cheat147_code = "1F1833:13"
+cheat147_enable = false
+
+cheat148_desc = "[第五张牌]四筒"
+cheat148_code = "1F1833:14"
+cheat148_enable = false
+
+cheat149_desc = "[第五张牌]五筒"
+cheat149_code = "1F1833:15"
+cheat149_enable = false
+
+cheat150_desc = "[第五张牌]六筒"
+cheat150_code = "1F1833:16"
+cheat150_enable = false
+
+cheat151_desc = "[第五张牌]七筒"
+cheat151_code = "1F1833:17"
+cheat151_enable = false
+
+cheat152_desc = "[第五张牌]八筒"
+cheat152_code = "1F1833:18"
+cheat152_enable = false
+
+cheat153_desc = "[第五张牌]九筒"
+cheat153_code = "1F1833:19"
+cheat153_enable = false
+
+cheat154_desc = "[第五张牌]一条"
+cheat154_code = "1F1833:21"
+cheat154_enable = false
+
+cheat155_desc = "[第五张牌]二条"
+cheat155_code = "1F1833:22"
+cheat155_enable = false
+
+cheat156_desc = "[第五张牌]三条"
+cheat156_code = "1F1833:23"
+cheat156_enable = false
+
+cheat157_desc = "[第五张牌]四条"
+cheat157_code = "1F1833:24"
+cheat157_enable = false
+
+cheat158_desc = "[第五张牌]五条"
+cheat158_code = "1F1833:25"
+cheat158_enable = false
+
+cheat159_desc = "[第五张牌]六条"
+cheat159_code = "1F1833:26"
+cheat159_enable = false
+
+cheat160_desc = "[第五张牌]七条"
+cheat160_code = "1F1833:27"
+cheat160_enable = false
+
+cheat161_desc = "[第五张牌]八条"
+cheat161_code = "1F1833:28"
+cheat161_enable = false
+
+cheat162_desc = "[第五张牌]九条"
+cheat162_code = "1F1833:29"
+cheat162_enable = false
+
+cheat163_desc = "[第五张牌]东风"
+cheat163_code = "1F1833:31"
+cheat163_enable = false
+
+cheat164_desc = "[第五张牌]南风"
+cheat164_code = "1F1833:32"
+cheat164_enable = false
+
+cheat165_desc = "[第五张牌]西风"
+cheat165_code = "1F1833:33"
+cheat165_enable = false
+
+cheat166_desc = "[第五张牌]北风"
+cheat166_code = "1F1833:34"
+cheat166_enable = false
+
+cheat167_desc = "[第五张牌]白板"
+cheat167_code = "1F1833:35"
+cheat167_enable = false
+
+cheat168_desc = "[第五张牌]发财"
+cheat168_code = "1F1833:36"
+cheat168_enable = false
+
+cheat169_desc = "[第五张牌]红中"
+cheat169_code = "1F1833:37"
+cheat169_enable = false
+
+cheat170_desc = "[第六张牌]一万"
+cheat170_code = "1F1834:01"
+cheat170_enable = false
+
+cheat171_desc = "[第六张牌]二万"
+cheat171_code = "1F1834:02"
+cheat171_enable = false
+
+cheat172_desc = "[第六张牌]三万"
+cheat172_code = "1F1834:03"
+cheat172_enable = false
+
+cheat173_desc = "[第六张牌]四万"
+cheat173_code = "1F1834:04"
+cheat173_enable = false
+
+cheat174_desc = "[第六张牌]五万"
+cheat174_code = "1F1834:05"
+cheat174_enable = false
+
+cheat175_desc = "[第六张牌]六万"
+cheat175_code = "1F1834:06"
+cheat175_enable = false
+
+cheat176_desc = "[第六张牌]七万"
+cheat176_code = "1F1834:07"
+cheat176_enable = false
+
+cheat177_desc = "[第六张牌]八万"
+cheat177_code = "1F1834:08"
+cheat177_enable = false
+
+cheat178_desc = "[第六张牌]九万"
+cheat178_code = "1F1834:09"
+cheat178_enable = false
+
+cheat179_desc = "[第六张牌]一筒"
+cheat179_code = "1F1834:11"
+cheat179_enable = false
+
+cheat180_desc = "[第六张牌]二筒"
+cheat180_code = "1F1834:12"
+cheat180_enable = false
+
+cheat181_desc = "[第六张牌]三筒"
+cheat181_code = "1F1834:13"
+cheat181_enable = false
+
+cheat182_desc = "[第六张牌]四筒"
+cheat182_code = "1F1834:14"
+cheat182_enable = false
+
+cheat183_desc = "[第六张牌]五筒"
+cheat183_code = "1F1834:15"
+cheat183_enable = false
+
+cheat184_desc = "[第六张牌]六筒"
+cheat184_code = "1F1834:16"
+cheat184_enable = false
+
+cheat185_desc = "[第六张牌]七筒"
+cheat185_code = "1F1834:17"
+cheat185_enable = false
+
+cheat186_desc = "[第六张牌]八筒"
+cheat186_code = "1F1834:18"
+cheat186_enable = false
+
+cheat187_desc = "[第六张牌]九筒"
+cheat187_code = "1F1834:19"
+cheat187_enable = false
+
+cheat188_desc = "[第六张牌]一条"
+cheat188_code = "1F1834:21"
+cheat188_enable = false
+
+cheat189_desc = "[第六张牌]二条"
+cheat189_code = "1F1834:22"
+cheat189_enable = false
+
+cheat190_desc = "[第六张牌]三条"
+cheat190_code = "1F1834:23"
+cheat190_enable = false
+
+cheat191_desc = "[第六张牌]四条"
+cheat191_code = "1F1834:24"
+cheat191_enable = false
+
+cheat192_desc = "[第六张牌]五条"
+cheat192_code = "1F1834:25"
+cheat192_enable = false
+
+cheat193_desc = "[第六张牌]六条"
+cheat193_code = "1F1834:26"
+cheat193_enable = false
+
+cheat194_desc = "[第六张牌]七条"
+cheat194_code = "1F1834:27"
+cheat194_enable = false
+
+cheat195_desc = "[第六张牌]八条"
+cheat195_code = "1F1834:28"
+cheat195_enable = false
+
+cheat196_desc = "[第六张牌]九条"
+cheat196_code = "1F1834:29"
+cheat196_enable = false
+
+cheat197_desc = "[第六张牌]东风"
+cheat197_code = "1F1834:31"
+cheat197_enable = false
+
+cheat198_desc = "[第六张牌]南风"
+cheat198_code = "1F1834:32"
+cheat198_enable = false
+
+cheat199_desc = "[第六张牌]西风"
+cheat199_code = "1F1834:33"
+cheat199_enable = false
+
+cheat200_desc = "[第六张牌]北风"
+cheat200_code = "1F1834:34"
+cheat200_enable = false
+
+cheat201_desc = "[第六张牌]白板"
+cheat201_code = "1F1834:35"
+cheat201_enable = false
+
+cheat202_desc = "[第六张牌]发财"
+cheat202_code = "1F1834:36"
+cheat202_enable = false
+
+cheat203_desc = "[第六张牌]红中"
+cheat203_code = "1F1834:37"
+cheat203_enable = false
+
+cheat204_desc = "[第七张牌]一万"
+cheat204_code = "1F1835:01"
+cheat204_enable = false
+
+cheat205_desc = "[第七张牌]二万"
+cheat205_code = "1F1835:02"
+cheat205_enable = false
+
+cheat206_desc = "[第七张牌]三万"
+cheat206_code = "1F1835:03"
+cheat206_enable = false
+
+cheat207_desc = "[第七张牌]四万"
+cheat207_code = "1F1835:04"
+cheat207_enable = false
+
+cheat208_desc = "[第七张牌]五万"
+cheat208_code = "1F1835:05"
+cheat208_enable = false
+
+cheat209_desc = "[第七张牌]六万"
+cheat209_code = "1F1835:06"
+cheat209_enable = false
+
+cheat210_desc = "[第七张牌]七万"
+cheat210_code = "1F1835:07"
+cheat210_enable = false
+
+cheat211_desc = "[第七张牌]八万"
+cheat211_code = "1F1835:08"
+cheat211_enable = false
+
+cheat212_desc = "[第七张牌]九万"
+cheat212_code = "1F1835:09"
+cheat212_enable = false
+
+cheat213_desc = "[第七张牌]一筒"
+cheat213_code = "1F1835:11"
+cheat213_enable = false
+
+cheat214_desc = "[第七张牌]二筒"
+cheat214_code = "1F1835:12"
+cheat214_enable = false
+
+cheat215_desc = "[第七张牌]三筒"
+cheat215_code = "1F1835:13"
+cheat215_enable = false
+
+cheat216_desc = "[第七张牌]四筒"
+cheat216_code = "1F1835:14"
+cheat216_enable = false
+
+cheat217_desc = "[第七张牌]五筒"
+cheat217_code = "1F1835:15"
+cheat217_enable = false
+
+cheat218_desc = "[第七张牌]六筒"
+cheat218_code = "1F1835:16"
+cheat218_enable = false
+
+cheat219_desc = "[第七张牌]七筒"
+cheat219_code = "1F1835:17"
+cheat219_enable = false
+
+cheat220_desc = "[第七张牌]八筒"
+cheat220_code = "1F1835:18"
+cheat220_enable = false
+
+cheat221_desc = "[第七张牌]九筒"
+cheat221_code = "1F1835:19"
+cheat221_enable = false
+
+cheat222_desc = "[第七张牌]一条"
+cheat222_code = "1F1835:21"
+cheat222_enable = false
+
+cheat223_desc = "[第七张牌]二条"
+cheat223_code = "1F1835:22"
+cheat223_enable = false
+
+cheat224_desc = "[第七张牌]三条"
+cheat224_code = "1F1835:23"
+cheat224_enable = false
+
+cheat225_desc = "[第七张牌]四条"
+cheat225_code = "1F1835:24"
+cheat225_enable = false
+
+cheat226_desc = "[第七张牌]五条"
+cheat226_code = "1F1835:25"
+cheat226_enable = false
+
+cheat227_desc = "[第七张牌]六条"
+cheat227_code = "1F1835:26"
+cheat227_enable = false
+
+cheat228_desc = "[第七张牌]七条"
+cheat228_code = "1F1835:27"
+cheat228_enable = false
+
+cheat229_desc = "[第七张牌]八条"
+cheat229_code = "1F1835:28"
+cheat229_enable = false
+
+cheat230_desc = "[第七张牌]九条"
+cheat230_code = "1F1835:29"
+cheat230_enable = false
+
+cheat231_desc = "[第七张牌]东风"
+cheat231_code = "1F1835:31"
+cheat231_enable = false
+
+cheat232_desc = "[第七张牌]南风"
+cheat232_code = "1F1835:32"
+cheat232_enable = false
+
+cheat233_desc = "[第七张牌]西风"
+cheat233_code = "1F1835:33"
+cheat233_enable = false
+
+cheat234_desc = "[第七张牌]北风"
+cheat234_code = "1F1835:34"
+cheat234_enable = false
+
+cheat235_desc = "[第七张牌]白板"
+cheat235_code = "1F1835:35"
+cheat235_enable = false
+
+cheat236_desc = "[第七张牌]发财"
+cheat236_code = "1F1835:36"
+cheat236_enable = false
+
+cheat237_desc = "[第七张牌]红中"
+cheat237_code = "1F1835:37"
+cheat237_enable = false
+
+cheat238_desc = "[第八张牌]一万"
+cheat238_code = "1F1836:01"
+cheat238_enable = false
+
+cheat239_desc = "[第八张牌]二万"
+cheat239_code = "1F1836:02"
+cheat239_enable = false
+
+cheat240_desc = "[第八张牌]三万"
+cheat240_code = "1F1836:03"
+cheat240_enable = false
+
+cheat241_desc = "[第八张牌]四万"
+cheat241_code = "1F1836:04"
+cheat241_enable = false
+
+cheat242_desc = "[第八张牌]五万"
+cheat242_code = "1F1836:05"
+cheat242_enable = false
+
+cheat243_desc = "[第八张牌]六万"
+cheat243_code = "1F1836:06"
+cheat243_enable = false
+
+cheat244_desc = "[第八张牌]七万"
+cheat244_code = "1F1836:07"
+cheat244_enable = false
+
+cheat245_desc = "[第八张牌]八万"
+cheat245_code = "1F1836:08"
+cheat245_enable = false
+
+cheat246_desc = "[第八张牌]九万"
+cheat246_code = "1F1836:09"
+cheat246_enable = false
+
+cheat247_desc = "[第八张牌]一筒"
+cheat247_code = "1F1836:11"
+cheat247_enable = false
+
+cheat248_desc = "[第八张牌]二筒"
+cheat248_code = "1F1836:12"
+cheat248_enable = false
+
+cheat249_desc = "[第八张牌]三筒"
+cheat249_code = "1F1836:13"
+cheat249_enable = false
+
+cheat250_desc = "[第八张牌]四筒"
+cheat250_code = "1F1836:14"
+cheat250_enable = false
+
+cheat251_desc = "[第八张牌]五筒"
+cheat251_code = "1F1836:15"
+cheat251_enable = false
+
+cheat252_desc = "[第八张牌]六筒"
+cheat252_code = "1F1836:16"
+cheat252_enable = false
+
+cheat253_desc = "[第八张牌]七筒"
+cheat253_code = "1F1836:17"
+cheat253_enable = false
+
+cheat254_desc = "[第八张牌]八筒"
+cheat254_code = "1F1836:18"
+cheat254_enable = false
+
+cheat255_desc = "[第八张牌]九筒"
+cheat255_code = "1F1836:19"
+cheat255_enable = false
+
+cheat256_desc = "[第八张牌]一条"
+cheat256_code = "1F1836:21"
+cheat256_enable = false
+
+cheat257_desc = "[第八张牌]二条"
+cheat257_code = "1F1836:22"
+cheat257_enable = false
+
+cheat258_desc = "[第八张牌]三条"
+cheat258_code = "1F1836:23"
+cheat258_enable = false
+
+cheat259_desc = "[第八张牌]四条"
+cheat259_code = "1F1836:24"
+cheat259_enable = false
+
+cheat260_desc = "[第八张牌]五条"
+cheat260_code = "1F1836:25"
+cheat260_enable = false
+
+cheat261_desc = "[第八张牌]六条"
+cheat261_code = "1F1836:26"
+cheat261_enable = false
+
+cheat262_desc = "[第八张牌]七条"
+cheat262_code = "1F1836:27"
+cheat262_enable = false
+
+cheat263_desc = "[第八张牌]八条"
+cheat263_code = "1F1836:28"
+cheat263_enable = false
+
+cheat264_desc = "[第八张牌]九条"
+cheat264_code = "1F1836:29"
+cheat264_enable = false
+
+cheat265_desc = "[第八张牌]东风"
+cheat265_code = "1F1836:31"
+cheat265_enable = false
+
+cheat266_desc = "[第八张牌]南风"
+cheat266_code = "1F1836:32"
+cheat266_enable = false
+
+cheat267_desc = "[第八张牌]西风"
+cheat267_code = "1F1836:33"
+cheat267_enable = false
+
+cheat268_desc = "[第八张牌]北风"
+cheat268_code = "1F1836:34"
+cheat268_enable = false
+
+cheat269_desc = "[第八张牌]白板"
+cheat269_code = "1F1836:35"
+cheat269_enable = false
+
+cheat270_desc = "[第八张牌]发财"
+cheat270_code = "1F1836:36"
+cheat270_enable = false
+
+cheat271_desc = "[第八张牌]红中"
+cheat271_code = "1F1836:37"
+cheat271_enable = false
+
+cheat272_desc = "[第九张牌]一万"
+cheat272_code = "1F1837:01"
+cheat272_enable = false
+
+cheat273_desc = "[第九张牌]二万"
+cheat273_code = "1F1837:02"
+cheat273_enable = false
+
+cheat274_desc = "[第九张牌]三万"
+cheat274_code = "1F1837:03"
+cheat274_enable = false
+
+cheat275_desc = "[第九张牌]四万"
+cheat275_code = "1F1837:04"
+cheat275_enable = false
+
+cheat276_desc = "[第九张牌]五万"
+cheat276_code = "1F1837:05"
+cheat276_enable = false
+
+cheat277_desc = "[第九张牌]六万"
+cheat277_code = "1F1837:06"
+cheat277_enable = false
+
+cheat278_desc = "[第九张牌]七万"
+cheat278_code = "1F1837:07"
+cheat278_enable = false
+
+cheat279_desc = "[第九张牌]八万"
+cheat279_code = "1F1837:08"
+cheat279_enable = false
+
+cheat280_desc = "[第九张牌]九万"
+cheat280_code = "1F1837:09"
+cheat280_enable = false
+
+cheat281_desc = "[第九张牌]一筒"
+cheat281_code = "1F1837:11"
+cheat281_enable = false
+
+cheat282_desc = "[第九张牌]二筒"
+cheat282_code = "1F1837:12"
+cheat282_enable = false
+
+cheat283_desc = "[第九张牌]三筒"
+cheat283_code = "1F1837:13"
+cheat283_enable = false
+
+cheat284_desc = "[第九张牌]四筒"
+cheat284_code = "1F1837:14"
+cheat284_enable = false
+
+cheat285_desc = "[第九张牌]五筒"
+cheat285_code = "1F1837:15"
+cheat285_enable = false
+
+cheat286_desc = "[第九张牌]六筒"
+cheat286_code = "1F1837:16"
+cheat286_enable = false
+
+cheat287_desc = "[第九张牌]七筒"
+cheat287_code = "1F1837:17"
+cheat287_enable = false
+
+cheat288_desc = "[第九张牌]八筒"
+cheat288_code = "1F1837:18"
+cheat288_enable = false
+
+cheat289_desc = "[第九张牌]九筒"
+cheat289_code = "1F1837:19"
+cheat289_enable = false
+
+cheat290_desc = "[第九张牌]一条"
+cheat290_code = "1F1837:21"
+cheat290_enable = false
+
+cheat291_desc = "[第九张牌]二条"
+cheat291_code = "1F1837:22"
+cheat291_enable = false
+
+cheat292_desc = "[第九张牌]三条"
+cheat292_code = "1F1837:23"
+cheat292_enable = false
+
+cheat293_desc = "[第九张牌]四条"
+cheat293_code = "1F1837:24"
+cheat293_enable = false
+
+cheat294_desc = "[第九张牌]五条"
+cheat294_code = "1F1837:25"
+cheat294_enable = false
+
+cheat295_desc = "[第九张牌]六条"
+cheat295_code = "1F1837:26"
+cheat295_enable = false
+
+cheat296_desc = "[第九张牌]七条"
+cheat296_code = "1F1837:27"
+cheat296_enable = false
+
+cheat297_desc = "[第九张牌]八条"
+cheat297_code = "1F1837:28"
+cheat297_enable = false
+
+cheat298_desc = "[第九张牌]九条"
+cheat298_code = "1F1837:29"
+cheat298_enable = false
+
+cheat299_desc = "[第九张牌]东风"
+cheat299_code = "1F1837:31"
+cheat299_enable = false
+
+cheat300_desc = "[第九张牌]南风"
+cheat300_code = "1F1837:32"
+cheat300_enable = false
+
+cheat301_desc = "[第九张牌]西风"
+cheat301_code = "1F1837:33"
+cheat301_enable = false
+
+cheat302_desc = "[第九张牌]北风"
+cheat302_code = "1F1837:34"
+cheat302_enable = false
+
+cheat303_desc = "[第九张牌]白板"
+cheat303_code = "1F1837:35"
+cheat303_enable = false
+
+cheat304_desc = "[第九张牌]发财"
+cheat304_code = "1F1837:36"
+cheat304_enable = false
+
+cheat305_desc = "[第九张牌]红中"
+cheat305_code = "1F1837:37"
+cheat305_enable = false
+
+cheat306_desc = "[第十张牌]一万"
+cheat306_code = "1F1838:01"
+cheat306_enable = false
+
+cheat307_desc = "[第十张牌]二万"
+cheat307_code = "1F1838:02"
+cheat307_enable = false
+
+cheat308_desc = "[第十张牌]三万"
+cheat308_code = "1F1838:03"
+cheat308_enable = false
+
+cheat309_desc = "[第十张牌]四万"
+cheat309_code = "1F1838:04"
+cheat309_enable = false
+
+cheat310_desc = "[第十张牌]五万"
+cheat310_code = "1F1838:05"
+cheat310_enable = false
+
+cheat311_desc = "[第十张牌]六万"
+cheat311_code = "1F1838:06"
+cheat311_enable = false
+
+cheat312_desc = "[第十张牌]七万"
+cheat312_code = "1F1838:07"
+cheat312_enable = false
+
+cheat313_desc = "[第十张牌]八万"
+cheat313_code = "1F1838:08"
+cheat313_enable = false
+
+cheat314_desc = "[第十张牌]九万"
+cheat314_code = "1F1838:09"
+cheat314_enable = false
+
+cheat315_desc = "[第十张牌]一筒"
+cheat315_code = "1F1838:11"
+cheat315_enable = false
+
+cheat316_desc = "[第十张牌]二筒"
+cheat316_code = "1F1838:12"
+cheat316_enable = false
+
+cheat317_desc = "[第十张牌]三筒"
+cheat317_code = "1F1838:13"
+cheat317_enable = false
+
+cheat318_desc = "[第十张牌]四筒"
+cheat318_code = "1F1838:14"
+cheat318_enable = false
+
+cheat319_desc = "[第十张牌]五筒"
+cheat319_code = "1F1838:15"
+cheat319_enable = false
+
+cheat320_desc = "[第十张牌]六筒"
+cheat320_code = "1F1838:16"
+cheat320_enable = false
+
+cheat321_desc = "[第十张牌]七筒"
+cheat321_code = "1F1838:17"
+cheat321_enable = false
+
+cheat322_desc = "[第十张牌]八筒"
+cheat322_code = "1F1838:18"
+cheat322_enable = false
+
+cheat323_desc = "[第十张牌]九筒"
+cheat323_code = "1F1838:19"
+cheat323_enable = false
+
+cheat324_desc = "[第十张牌]一条"
+cheat324_code = "1F1838:21"
+cheat324_enable = false
+
+cheat325_desc = "[第十张牌]二条"
+cheat325_code = "1F1838:22"
+cheat325_enable = false
+
+cheat326_desc = "[第十张牌]三条"
+cheat326_code = "1F1838:23"
+cheat326_enable = false
+
+cheat327_desc = "[第十张牌]四条"
+cheat327_code = "1F1838:24"
+cheat327_enable = false
+
+cheat328_desc = "[第十张牌]五条"
+cheat328_code = "1F1838:25"
+cheat328_enable = false
+
+cheat329_desc = "[第十张牌]六条"
+cheat329_code = "1F1838:26"
+cheat329_enable = false
+
+cheat330_desc = "[第十张牌]七条"
+cheat330_code = "1F1838:27"
+cheat330_enable = false
+
+cheat331_desc = "[第十张牌]八条"
+cheat331_code = "1F1838:28"
+cheat331_enable = false
+
+cheat332_desc = "[第十张牌]九条"
+cheat332_code = "1F1838:29"
+cheat332_enable = false
+
+cheat333_desc = "[第十张牌]东风"
+cheat333_code = "1F1838:31"
+cheat333_enable = false
+
+cheat334_desc = "[第十张牌]南风"
+cheat334_code = "1F1838:32"
+cheat334_enable = false
+
+cheat335_desc = "[第十张牌]西风"
+cheat335_code = "1F1838:33"
+cheat335_enable = false
+
+cheat336_desc = "[第十张牌]北风"
+cheat336_code = "1F1838:34"
+cheat336_enable = false
+
+cheat337_desc = "[第十张牌]白板"
+cheat337_code = "1F1838:35"
+cheat337_enable = false
+
+cheat338_desc = "[第十张牌]发财"
+cheat338_code = "1F1838:36"
+cheat338_enable = false
+
+cheat339_desc = "[第十张牌]红中"
+cheat339_code = "1F1838:37"
+cheat339_enable = false
+
+cheat340_desc = "[第11张牌]一万"
+cheat340_code = "1F1839:01"
+cheat340_enable = false
+
+cheat341_desc = "[第11张牌]二万"
+cheat341_code = "1F1839:02"
+cheat341_enable = false
+
+cheat342_desc = "[第11张牌]三万"
+cheat342_code = "1F1839:03"
+cheat342_enable = false
+
+cheat343_desc = "[第11张牌]四万"
+cheat343_code = "1F1839:04"
+cheat343_enable = false
+
+cheat344_desc = "[第11张牌]五万"
+cheat344_code = "1F1839:05"
+cheat344_enable = false
+
+cheat345_desc = "[第11张牌]六万"
+cheat345_code = "1F1839:06"
+cheat345_enable = false
+
+cheat346_desc = "[第11张牌]七万"
+cheat346_code = "1F1839:07"
+cheat346_enable = false
+
+cheat347_desc = "[第11张牌]八万"
+cheat347_code = "1F1839:08"
+cheat347_enable = false
+
+cheat348_desc = "[第11张牌]九万"
+cheat348_code = "1F1839:09"
+cheat348_enable = false
+
+cheat349_desc = "[第11张牌]一筒"
+cheat349_code = "1F1839:11"
+cheat349_enable = false
+
+cheat350_desc = "[第11张牌]二筒"
+cheat350_code = "1F1839:12"
+cheat350_enable = false
+
+cheat351_desc = "[第11张牌]三筒"
+cheat351_code = "1F1839:13"
+cheat351_enable = false
+
+cheat352_desc = "[第11张牌]四筒"
+cheat352_code = "1F1839:14"
+cheat352_enable = false
+
+cheat353_desc = "[第11张牌]五筒"
+cheat353_code = "1F1839:15"
+cheat353_enable = false
+
+cheat354_desc = "[第11张牌]六筒"
+cheat354_code = "1F1839:16"
+cheat354_enable = false
+
+cheat355_desc = "[第11张牌]七筒"
+cheat355_code = "1F1839:17"
+cheat355_enable = false
+
+cheat356_desc = "[第11张牌]八筒"
+cheat356_code = "1F1839:18"
+cheat356_enable = false
+
+cheat357_desc = "[第11张牌]九筒"
+cheat357_code = "1F1839:19"
+cheat357_enable = false
+
+cheat358_desc = "[第11张牌]一条"
+cheat358_code = "1F1839:21"
+cheat358_enable = false
+
+cheat359_desc = "[第11张牌]二条"
+cheat359_code = "1F1839:22"
+cheat359_enable = false
+
+cheat360_desc = "[第11张牌]三条"
+cheat360_code = "1F1839:23"
+cheat360_enable = false
+
+cheat361_desc = "[第11张牌]四条"
+cheat361_code = "1F1839:24"
+cheat361_enable = false
+
+cheat362_desc = "[第11张牌]五条"
+cheat362_code = "1F1839:25"
+cheat362_enable = false
+
+cheat363_desc = "[第11张牌]六条"
+cheat363_code = "1F1839:26"
+cheat363_enable = false
+
+cheat364_desc = "[第11张牌]七条"
+cheat364_code = "1F1839:27"
+cheat364_enable = false
+
+cheat365_desc = "[第11张牌]八条"
+cheat365_code = "1F1839:28"
+cheat365_enable = false
+
+cheat366_desc = "[第11张牌]九条"
+cheat366_code = "1F1839:29"
+cheat366_enable = false
+
+cheat367_desc = "[第11张牌]东风"
+cheat367_code = "1F1839:31"
+cheat367_enable = false
+
+cheat368_desc = "[第11张牌]南风"
+cheat368_code = "1F1839:32"
+cheat368_enable = false
+
+cheat369_desc = "[第11张牌]西风"
+cheat369_code = "1F1839:33"
+cheat369_enable = false
+
+cheat370_desc = "[第11张牌]北风"
+cheat370_code = "1F1839:34"
+cheat370_enable = false
+
+cheat371_desc = "[第11张牌]白板"
+cheat371_code = "1F1839:35"
+cheat371_enable = false
+
+cheat372_desc = "[第11张牌]发财"
+cheat372_code = "1F1839:36"
+cheat372_enable = false
+
+cheat373_desc = "[第11张牌]红中"
+cheat373_code = "1F1839:37"
+cheat373_enable = false
+
+cheat374_desc = "[第12张牌]一万"
+cheat374_code = "1F183A:01"
+cheat374_enable = false
+
+cheat375_desc = "[第12张牌]二万"
+cheat375_code = "1F183A:02"
+cheat375_enable = false
+
+cheat376_desc = "[第12张牌]三万"
+cheat376_code = "1F183A:03"
+cheat376_enable = false
+
+cheat377_desc = "[第12张牌]四万"
+cheat377_code = "1F183A:04"
+cheat377_enable = false
+
+cheat378_desc = "[第12张牌]五万"
+cheat378_code = "1F183A:05"
+cheat378_enable = false
+
+cheat379_desc = "[第12张牌]六万"
+cheat379_code = "1F183A:06"
+cheat379_enable = false
+
+cheat380_desc = "[第12张牌]七万"
+cheat380_code = "1F183A:07"
+cheat380_enable = false
+
+cheat381_desc = "[第12张牌]八万"
+cheat381_code = "1F183A:08"
+cheat381_enable = false
+
+cheat382_desc = "[第12张牌]九万"
+cheat382_code = "1F183A:09"
+cheat382_enable = false
+
+cheat383_desc = "[第12张牌]一筒"
+cheat383_code = "1F183A:11"
+cheat383_enable = false
+
+cheat384_desc = "[第12张牌]二筒"
+cheat384_code = "1F183A:12"
+cheat384_enable = false
+
+cheat385_desc = "[第12张牌]三筒"
+cheat385_code = "1F183A:13"
+cheat385_enable = false
+
+cheat386_desc = "[第12张牌]四筒"
+cheat386_code = "1F183A:14"
+cheat386_enable = false
+
+cheat387_desc = "[第12张牌]五筒"
+cheat387_code = "1F183A:15"
+cheat387_enable = false
+
+cheat388_desc = "[第12张牌]六筒"
+cheat388_code = "1F183A:16"
+cheat388_enable = false
+
+cheat389_desc = "[第12张牌]七筒"
+cheat389_code = "1F183A:17"
+cheat389_enable = false
+
+cheat390_desc = "[第12张牌]八筒"
+cheat390_code = "1F183A:18"
+cheat390_enable = false
+
+cheat391_desc = "[第12张牌]九筒"
+cheat391_code = "1F183A:19"
+cheat391_enable = false
+
+cheat392_desc = "[第12张牌]一条"
+cheat392_code = "1F183A:21"
+cheat392_enable = false
+
+cheat393_desc = "[第12张牌]二条"
+cheat393_code = "1F183A:22"
+cheat393_enable = false
+
+cheat394_desc = "[第12张牌]三条"
+cheat394_code = "1F183A:23"
+cheat394_enable = false
+
+cheat395_desc = "[第12张牌]四条"
+cheat395_code = "1F183A:24"
+cheat395_enable = false
+
+cheat396_desc = "[第12张牌]五条"
+cheat396_code = "1F183A:25"
+cheat396_enable = false
+
+cheat397_desc = "[第12张牌]六条"
+cheat397_code = "1F183A:26"
+cheat397_enable = false
+
+cheat398_desc = "[第12张牌]七条"
+cheat398_code = "1F183A:27"
+cheat398_enable = false
+
+cheat399_desc = "[第12张牌]八条"
+cheat399_code = "1F183A:28"
+cheat399_enable = false
+
+cheat400_desc = "[第12张牌]九条"
+cheat400_code = "1F183A:29"
+cheat400_enable = false
+
+cheat401_desc = "[第12张牌]东风"
+cheat401_code = "1F183A:31"
+cheat401_enable = false
+
+cheat402_desc = "[第12张牌]南风"
+cheat402_code = "1F183A:32"
+cheat402_enable = false
+
+cheat403_desc = "[第12张牌]西风"
+cheat403_code = "1F183A:33"
+cheat403_enable = false
+
+cheat404_desc = "[第12张牌]北风"
+cheat404_code = "1F183A:34"
+cheat404_enable = false
+
+cheat405_desc = "[第12张牌]白板"
+cheat405_code = "1F183A:35"
+cheat405_enable = false
+
+cheat406_desc = "[第12张牌]发财"
+cheat406_code = "1F183A:36"
+cheat406_enable = false
+
+cheat407_desc = "[第12张牌]红中"
+cheat407_code = "1F183A:37"
+cheat407_enable = false
+
+cheat408_desc = "[第13张牌]一万"
+cheat408_code = "1F183B:01"
+cheat408_enable = false
+
+cheat409_desc = "[第13张牌]二万"
+cheat409_code = "1F183B:02"
+cheat409_enable = false
+
+cheat410_desc = "[第13张牌]三万"
+cheat410_code = "1F183B:03"
+cheat410_enable = false
+
+cheat411_desc = "[第13张牌]四万"
+cheat411_code = "1F183B:04"
+cheat411_enable = false
+
+cheat412_desc = "[第13张牌]五万"
+cheat412_code = "1F183B:05"
+cheat412_enable = false
+
+cheat413_desc = "[第13张牌]六万"
+cheat413_code = "1F183B:06"
+cheat413_enable = false
+
+cheat414_desc = "[第13张牌]七万"
+cheat414_code = "1F183B:07"
+cheat414_enable = false
+
+cheat415_desc = "[第13张牌]八万"
+cheat415_code = "1F183B:08"
+cheat415_enable = false
+
+cheat416_desc = "[第13张牌]九万"
+cheat416_code = "1F183B:09"
+cheat416_enable = false
+
+cheat417_desc = "[第13张牌]一筒"
+cheat417_code = "1F183B:11"
+cheat417_enable = false
+
+cheat418_desc = "[第13张牌]二筒"
+cheat418_code = "1F183B:12"
+cheat418_enable = false
+
+cheat419_desc = "[第13张牌]三筒"
+cheat419_code = "1F183B:13"
+cheat419_enable = false
+
+cheat420_desc = "[第13张牌]四筒"
+cheat420_code = "1F183B:14"
+cheat420_enable = false
+
+cheat421_desc = "[第13张牌]五筒"
+cheat421_code = "1F183B:15"
+cheat421_enable = false
+
+cheat422_desc = "[第13张牌]六筒"
+cheat422_code = "1F183B:16"
+cheat422_enable = false
+
+cheat423_desc = "[第13张牌]七筒"
+cheat423_code = "1F183B:17"
+cheat423_enable = false
+
+cheat424_desc = "[第13张牌]八筒"
+cheat424_code = "1F183B:18"
+cheat424_enable = false
+
+cheat425_desc = "[第13张牌]九筒"
+cheat425_code = "1F183B:19"
+cheat425_enable = false
+
+cheat426_desc = "[第13张牌]一条"
+cheat426_code = "1F183B:21"
+cheat426_enable = false
+
+cheat427_desc = "[第13张牌]二条"
+cheat427_code = "1F183B:22"
+cheat427_enable = false
+
+cheat428_desc = "[第13张牌]三条"
+cheat428_code = "1F183B:23"
+cheat428_enable = false
+
+cheat429_desc = "[第13张牌]四条"
+cheat429_code = "1F183B:24"
+cheat429_enable = false
+
+cheat430_desc = "[第13张牌]五条"
+cheat430_code = "1F183B:25"
+cheat430_enable = false
+
+cheat431_desc = "[第13张牌]六条"
+cheat431_code = "1F183B:26"
+cheat431_enable = false
+
+cheat432_desc = "[第13张牌]七条"
+cheat432_code = "1F183B:27"
+cheat432_enable = false
+
+cheat433_desc = "[第13张牌]八条"
+cheat433_code = "1F183B:28"
+cheat433_enable = false
+
+cheat434_desc = "[第13张牌]九条"
+cheat434_code = "1F183B:29"
+cheat434_enable = false
+
+cheat435_desc = "[第13张牌]东风"
+cheat435_code = "1F183B:31"
+cheat435_enable = false
+
+cheat436_desc = "[第13张牌]南风"
+cheat436_code = "1F183B:32"
+cheat436_enable = false
+
+cheat437_desc = "[第13张牌]西风"
+cheat437_code = "1F183B:33"
+cheat437_enable = false
+
+cheat438_desc = "[第13张牌]北风"
+cheat438_code = "1F183B:34"
+cheat438_enable = false
+
+cheat439_desc = "[第13张牌]白板"
+cheat439_code = "1F183B:35"
+cheat439_enable = false
+
+cheat440_desc = "[第13张牌]发财"
+cheat440_code = "1F183B:36"
+cheat440_enable = false
+
+cheat441_desc = "[第13张牌]红中"
+cheat441_code = "1F183B:37"
+cheat441_enable = false
+
+cheat442_desc = "[第14张牌]一万"
+cheat442_code = "1F183C:01"
+cheat442_enable = false
+
+cheat443_desc = "[第14张牌]二万"
+cheat443_code = "1F183C:02"
+cheat443_enable = false
+
+cheat444_desc = "[第14张牌]三万"
+cheat444_code = "1F183C:03"
+cheat444_enable = false
+
+cheat445_desc = "[第14张牌]四万"
+cheat445_code = "1F183C:04"
+cheat445_enable = false
+
+cheat446_desc = "[第14张牌]五万"
+cheat446_code = "1F183C:05"
+cheat446_enable = false
+
+cheat447_desc = "[第14张牌]六万"
+cheat447_code = "1F183C:06"
+cheat447_enable = false
+
+cheat448_desc = "[第14张牌]七万"
+cheat448_code = "1F183C:07"
+cheat448_enable = false
+
+cheat449_desc = "[第14张牌]八万"
+cheat449_code = "1F183C:08"
+cheat449_enable = false
+
+cheat450_desc = "[第14张牌]九万"
+cheat450_code = "1F183C:09"
+cheat450_enable = false
+
+cheat451_desc = "[第14张牌]一筒"
+cheat451_code = "1F183C:11"
+cheat451_enable = false
+
+cheat452_desc = "[第14张牌]二筒"
+cheat452_code = "1F183C:12"
+cheat452_enable = false
+
+cheat453_desc = "[第14张牌]三筒"
+cheat453_code = "1F183C:13"
+cheat453_enable = false
+
+cheat454_desc = "[第14张牌]四筒"
+cheat454_code = "1F183C:14"
+cheat454_enable = false
+
+cheat455_desc = "[第14张牌]五筒"
+cheat455_code = "1F183C:15"
+cheat455_enable = false
+
+cheat456_desc = "[第14张牌]六筒"
+cheat456_code = "1F183C:16"
+cheat456_enable = false
+
+cheat457_desc = "[第14张牌]七筒"
+cheat457_code = "1F183C:17"
+cheat457_enable = false
+
+cheat458_desc = "[第14张牌]八筒"
+cheat458_code = "1F183C:18"
+cheat458_enable = false
+
+cheat459_desc = "[第14张牌]九筒"
+cheat459_code = "1F183C:19"
+cheat459_enable = false
+
+cheat460_desc = "[第14张牌]一条"
+cheat460_code = "1F183C:21"
+cheat460_enable = false
+
+cheat461_desc = "[第14张牌]二条"
+cheat461_code = "1F183C:22"
+cheat461_enable = false
+
+cheat462_desc = "[第14张牌]三条"
+cheat462_code = "1F183C:23"
+cheat462_enable = false
+
+cheat463_desc = "[第14张牌]四条"
+cheat463_code = "1F183C:24"
+cheat463_enable = false
+
+cheat464_desc = "[第14张牌]五条"
+cheat464_code = "1F183C:25"
+cheat464_enable = false
+
+cheat465_desc = "[第14张牌]六条"
+cheat465_code = "1F183C:26"
+cheat465_enable = false
+
+cheat466_desc = "[第14张牌]七条"
+cheat466_code = "1F183C:27"
+cheat466_enable = false
+
+cheat467_desc = "[第14张牌]八条"
+cheat467_code = "1F183C:28"
+cheat467_enable = false
+
+cheat468_desc = "[第14张牌]九条"
+cheat468_code = "1F183C:29"
+cheat468_enable = false
+
+cheat469_desc = "[第14张牌]东风"
+cheat469_code = "1F183C:31"
+cheat469_enable = false
+
+cheat470_desc = "[第14张牌]南风"
+cheat470_code = "1F183C:32"
+cheat470_enable = false
+
+cheat471_desc = "[第14张牌]西风"
+cheat471_code = "1F183C:33"
+cheat471_enable = false
+
+cheat472_desc = "[第14张牌]北风"
+cheat472_code = "1F183C:34"
+cheat472_enable = false
+
+cheat473_desc = "[第14张牌]白板"
+cheat473_code = "1F183C:35"
+cheat473_enable = false
+
+cheat474_desc = "[第14张牌]发财"
+cheat474_code = "1F183C:36"
+cheat474_enable = false
+
+cheat475_desc = "[第14张牌]红中"
+cheat475_code = "1F183C:37"
+cheat475_enable = false
+

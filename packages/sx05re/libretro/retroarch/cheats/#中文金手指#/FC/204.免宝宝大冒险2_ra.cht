@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[透明]ON"
+cheat0_code = "00A3:C8"
+cheat0_enable = false
+
+cheat1_desc = "[能源]ON"
+cheat1_code = "07C0:04"
+cheat1_enable = false
+
+cheat2_desc = "[无限金币]ON"
+cheat2_code = "07D0:09"
+cheat2_enable = false
+

@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "TITLES"
+cheat0_code = "020425A6 00000090"
+cheat0_enable = false
+
+cheat1_desc = "time"
+cheat1_code = "02042599 00000000"
+cheat1_enable = false
+
+

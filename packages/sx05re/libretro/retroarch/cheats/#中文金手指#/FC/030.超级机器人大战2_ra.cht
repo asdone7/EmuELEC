@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[移动力25格]ON"
+cheat0_code = "1E37:19+1E38:19+1E39:19+1E3A:19+1E3B:19+1E3C:19+1E3D:19+1E3E:19+1E3F:19+1E40:19+1E41:19"
+cheat0_enable = false
+
+cheat1_desc = "[攻击力255]ON"
+cheat1_code = "1E57:FF+1E58:FF+1E59:FF+1E5A:FF+1E5B:FF+1E5C:FF+1E5D:FF+1E5E:FF+1E5F:FF+1E60:FF+1E61:FF"
+cheat1_enable = false
+
+cheat2_desc = "[防御力255]ON"
+cheat2_code = "1E77:FF+1E78:FF+1E79:FF+1E7A:FF+1E7B:FF+1E7C:FF+1E7D:FF+1E7E:FF+1E7F:FF+1E80:FF+1E81:FF"
+cheat2_enable = false
+
+cheat3_desc = "[速度255]ON"
+cheat3_code = "1E97:FF+1E98:FF+1E99:FF+1E9A:FF+1E9B:FF+1E9C:FF+1E9D:FF+1E9E:FF+1E9F:FF+1EA0:FF+1EA1:FF"
+cheat3_enable = false
+
+cheat4_desc = "[精神点数255]ON"
+cheat4_code = "2022:FF+2023:FF+2024:FF+2025:FF+2026:FF+2027:FF+2028:FF+2029:FF+202A:FF+202B:FF+202C:FF+202D:FF+202E:FF+202F:FF+2030:FF+2031:FF+2032:FF+2033:FF+2034:FF+2035:FF+2036:FF+2037:FF"
+cheat4_enable = false
+
+cheat5_desc = "[经验值最高]ON"
+cheat5_code = "1CEC:FF+1CED:FF+1CEE:FF+1CEF:FF+1CF0:FF+1CF1:FF+1CF2:FF+1CF3:FF+1CF4:FF+1CF5:FF+1CF6:FF+1CF7:FF+1CF8:FF+1CF9:FF+1CFA:FF+1CFB:FF+1CFC:FF+1CFD:FF+1CFE:FF+1CFF:FF+1D00:FF+1D01:FF+1D02:FF+1D03:FF+1D04:FF+1D05:FF+1D06:FF+1D07:FF+1D08:FF+1D09:FF+1D0A:FF+1D0B:FF"
+cheat5_enable = false
+
+cheat6_desc = "[回合数]10"
+cheat6_code = "1D0C:10"
+cheat6_enable = false
+

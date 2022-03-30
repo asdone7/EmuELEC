@@ -1,0 +1,123 @@
+cheats = 30
+
+cheat0_desc = "生命"
+cheat0_code = "02020646 00000000+02020647 00000004"
+cheat0_enable = false
+
+cheat1_desc = "生命上限"
+cheat1_code = "02020648 00000000+02020649 00000004"
+cheat1_enable = false
+
+cheat2_desc = "人数"
+cheat2_code = "02029F36 00000063"
+cheat2_enable = false
+
+cheat3_desc = "隐身"
+cheat3_code = "02020658 00000020"
+cheat3_enable = false
+
+cheat4_desc = "无敌"
+cheat4_code = "02020651 00000002"
+cheat4_enable = false
+
+cheat5_desc = "必杀"
+cheat5_code = "0202064B 00000004"
+cheat5_enable = false
+
+cheat6_desc = "积分"
+cheat6_code = "02020660 000000FF+02020661 000000E0+02020662 000000F5+02020663 00000005"
+cheat6_enable = false
+
+cheat7_desc = "全道具"
+cheat7_code = "02029F58 000000FF+02029F59 000000FF+02029F5A 000000FF+02029F5B 000000FF+02029F5C 000000FF+02029F5D 000000FF+02029F5E 000000FF"
+cheat7_enable = false
+
+cheat8_desc = "全关卡"
+cheat8_code = "02000541 00000010"
+cheat8_enable = false
+
+cheat9_desc = "限时关卡时间"
+cheat9_code = "02028128 0000002C+02028129 00000001+ACTBOSS一击死+02044174 00000000+02044175 00000000"
+cheat9_enable = false
+
+cheat10_desc = "对战关卡我方体力"
+cheat10_code = "02029986 00000000+02029987 00000001"
+cheat10_enable = false
+
+cheat11_desc = "对战关卡我方气量"
+cheat11_code = "02029988 00000010"
+cheat11_enable = false
+
+cheat12_desc = "对战关卡我方必杀"
+cheat12_code = "0202998D 00000002"
+cheat12_enable = false
+
+cheat13_desc = "对战关卡对方体力"
+cheat13_code = "02029A56 00000000+02029A57 00000000"
+cheat13_enable = false
+
+cheat14_desc = "对战关卡对方气量"
+cheat14_code = "02029A58 00000000"
+cheat14_enable = false
+
+cheat15_desc = "对战关卡对方必杀"
+cheat15_code = "02029A5D 00000000"
+cheat15_enable = false
+
+cheat16_desc = "对战全人物"
+cheat16_code = "02029F55 000000FF+02029F56 000000FF+02029F57 000000FF"
+cheat16_enable = false
+
+cheat17_desc = "附加项开启"
+cheat17_code = "02029F50 000000FF"
+cheat17_enable = false
+
+cheat18_desc = "全人物"
+cheat18_code = "02029F70 000000FF+02029F71 000000FF+02029F72 000000FF+02029F73 000000FF+ACT选人+0202066A 00000000+ACT选人 孙悟空+0202066A 00000000+ACT选人 小林+0202066A 00000001+ACT选人 乐平+0202066A 00000002+ACT选人 第1关BOSS+0202066A 00000003+ACT选人 人造人？+0202066A 00000004+ACT选人 忍者+0202066A 00000005+ACT选人 骷髅兵+0202066A 00000006+ACT选人 蓝将军+0202066A 00000007+ACT选人 蓝色机器人+0202066A 00000008+ACT选人 绿色机器人+0202066A 00000009+ACT选人 紫色机器人+0202066A 0000000A+ACT选人 蝙蝠+0202066A 0000000B+ACT选人 恶魔？+0202066A 0000000C+ACT选人 魔族战士1+0202066A 0000000D+ACT选人 魔族战士2+0202066A 0000000E+ACT选人 龟仙人+0202066A 0000000F+ACT选人 天津饭+0202066A 00000010+ACT选人 饺子+0202066A 00000011+ACT选人 孙悟饭+0202066A 00000012+ACT选人 短笛+0202066A 00000013+ACT选人 桃白白+0202066A 00000014+ACT选人 基兰+0202066A 00000015+ACT选人 南无+0202066A 00000016+ACT选人 飞龙+0202066A 00000017+ACT选人 猪士兵+0202066A 00000018+ACT选人 狗士兵+0202066A 00000019+ACT选人 狼+0202066A 0000001A+ACT选人 机器人+0202066A 0000001B+ACT选人 飞行器+0202066A 0000001C+ACT选人 魔族士兵+0202066A 0000001D"
+cheat18_enable = false
+
+cheat19_desc = "对战选人 孙悟空"
+cheat19_code = "02029F82 00000000"
+cheat19_enable = false
+
+cheat20_desc = "对战选人 龟仙人"
+cheat20_code = "02029F82 00000001"
+cheat20_enable = false
+
+cheat21_desc = "对战选人 天津饭"
+cheat21_code = "02029F82 00000002"
+cheat21_enable = false
+
+cheat22_desc = "对战选人 桃白白"
+cheat22_code = "02029F82 00000003"
+cheat22_enable = false
+
+cheat23_desc = "对战选人 孙悟饭"
+cheat23_code = "02029F82 00000004"
+cheat23_enable = false
+
+cheat24_desc = "对战选人 小林"
+cheat24_code = "02029F82 00000005"
+cheat24_enable = false
+
+cheat25_desc = "对战选人 短笛"
+cheat25_code = "02029F82 00000006"
+cheat25_enable = false
+
+cheat26_desc = "对战选人 机械桃白白"
+cheat26_code = "02029F82 00000007"
+cheat26_enable = false
+
+cheat27_desc = "对战选人 基兰"
+cheat27_code = "02029F82 00000008"
+cheat27_enable = false
+
+cheat28_desc = "对战选人 南无"
+cheat28_code = "02029F82 00000009"
+cheat28_enable = false
+
+cheat29_desc = "对战选人 饺子"
+cheat29_code = "02029F82 0000000A"
+cheat29_enable = false
+
+

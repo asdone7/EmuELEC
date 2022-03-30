@@ -1,0 +1,43 @@
+cheats = 10
+
+cheat0_desc = "#Inf Life"
+cheat0_code = "800B521E 00C4"
+cheat0_enable = false
+
+cheat1_desc = "#时间00"
+cheat1_code = "800C1B1C 0000+800C1B1E 0000"
+cheat1_enable = false
+
+cheat2_desc = "#无敌洛克曼"
+cheat2_code = "300B52C0 0001"
+cheat2_enable = false
+
+cheat3_desc = "#迷你游戏中的停止时钟"
+cheat3_code = "800BF520 007F"
+cheat3_enable = false
+
+cheat4_desc = "#无限金钱zenny 999999"
+cheat4_code = "800C1B2C 869F+800C1B2E 0001"
+cheat4_enable = false
+
+cheat5_desc = "#拥有所有特殊武器"
+cheat5_code = "800BE410 FFFF"
+cheat5_enable = false
+
+cheat6_desc = "#拥有所有普通物品"
+cheat6_code = "800BE420 FFFF+800BE422 FFFF+800BE424 FFFF+800BE426 FFFF"
+cheat6_enable = false
+
+cheat7_desc = "#拥有所有特殊物品"
+cheat7_code = "800BE41C FFFF+800BE41E FFFF"
+cheat7_enable = false
+
+cheat8_desc = "#无限健康船和飞艇"
+cheat8_code = "80100E02 2400"
+cheat8_enable = false
+
+cheat9_desc = "#解锁所有其他模式"
+cheat9_code = "800C1B28 0001+800C1B2A 0001"
+cheat9_enable = false
+
+

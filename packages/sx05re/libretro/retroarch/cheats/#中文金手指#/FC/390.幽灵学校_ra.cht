@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[血液]ON"
+cheat0_code = "060A:FF"
+cheat0_enable = false
+
+cheat1_desc = "[隐身]ON"
+cheat1_code = "05FA:32+05FB:32"
+cheat1_enable = false
+
+cheat2_desc = "[人数]ON"
+cheat2_code = "0467:05"
+cheat2_enable = false
+

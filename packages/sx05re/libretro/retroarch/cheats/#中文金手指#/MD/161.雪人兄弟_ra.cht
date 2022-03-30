@@ -1,0 +1,298 @@
+cheats = 74
+
+cheat0_desc = "[P1 生命数]ON"
+cheat0_code = "FF003A:09"
+cheat0_enable = false
+
+cheat1_desc = "[P1 全副武装]ON"
+cheat1_code = "FF0529:C0+FF0562:02+FF11A5:70"
+cheat1_enable = false
+
+cheat2_desc = "[P2 生命数]ON"
+cheat2_code = "FF0044:09"
+cheat2_enable = false
+
+cheat3_desc = "[P2 全副武装]ON"
+cheat3_code = "FF0579:40+FF05B2:02+FF11A4:70"
+cheat3_enable = false
+
+cheat4_desc = "[选择关卡(游戏标题时使用)]第一关"
+cheat4_code = "FF0054:00"
+cheat4_enable = false
+
+cheat5_desc = "[选择关卡(游戏标题时使用)]第二关"
+cheat5_code = "FF0054:01"
+cheat5_enable = false
+
+cheat6_desc = "[选择关卡(游戏标题时使用)]第三关"
+cheat6_code = "FF0054:02"
+cheat6_enable = false
+
+cheat7_desc = "[选择关卡(游戏标题时使用)]第四关"
+cheat7_code = "FF0054:03"
+cheat7_enable = false
+
+cheat8_desc = "[选择关卡(游戏标题时使用)]第五关"
+cheat8_code = "FF0054:04"
+cheat8_enable = false
+
+cheat9_desc = "[选择关卡(游戏标题时使用)]第六关"
+cheat9_code = "FF0054:05"
+cheat9_enable = false
+
+cheat10_desc = "[选择关卡(游戏标题时使用)]第七关"
+cheat10_code = "FF0054:06"
+cheat10_enable = false
+
+cheat11_desc = "[选择关卡(游戏标题时使用)]第八关"
+cheat11_code = "FF0054:07"
+cheat11_enable = false
+
+cheat12_desc = "[选择关卡(游戏标题时使用)]第九关"
+cheat12_code = "FF0054:08"
+cheat12_enable = false
+
+cheat13_desc = "[选择关卡(游戏标题时使用)]第十关"
+cheat13_code = "FF0054:09"
+cheat13_enable = false
+
+cheat14_desc = "[选择关卡(游戏标题时使用)]第11关"
+cheat14_code = "FF0054:0A"
+cheat14_enable = false
+
+cheat15_desc = "[选择关卡(游戏标题时使用)]第12关"
+cheat15_code = "FF0054:0B"
+cheat15_enable = false
+
+cheat16_desc = "[选择关卡(游戏标题时使用)]第13关"
+cheat16_code = "FF0054:0C"
+cheat16_enable = false
+
+cheat17_desc = "[选择关卡(游戏标题时使用)]第14关"
+cheat17_code = "FF0054:0D"
+cheat17_enable = false
+
+cheat18_desc = "[选择关卡(游戏标题时使用)]第15关"
+cheat18_code = "FF0054:0E"
+cheat18_enable = false
+
+cheat19_desc = "[选择关卡(游戏标题时使用)]第16关"
+cheat19_code = "FF0054:0F"
+cheat19_enable = false
+
+cheat20_desc = "[选择关卡(游戏标题时使用)]第17关"
+cheat20_code = "FF0054:10"
+cheat20_enable = false
+
+cheat21_desc = "[选择关卡(游戏标题时使用)]第18关"
+cheat21_code = "FF0054:11"
+cheat21_enable = false
+
+cheat22_desc = "[选择关卡(游戏标题时使用)]第19关"
+cheat22_code = "FF0054:12"
+cheat22_enable = false
+
+cheat23_desc = "[选择关卡(游戏标题时使用)]第20关"
+cheat23_code = "FF0054:13"
+cheat23_enable = false
+
+cheat24_desc = "[选择关卡(游戏标题时使用)]第21关"
+cheat24_code = "FF0054:14"
+cheat24_enable = false
+
+cheat25_desc = "[选择关卡(游戏标题时使用)]第22关"
+cheat25_code = "FF0054:15"
+cheat25_enable = false
+
+cheat26_desc = "[选择关卡(游戏标题时使用)]第23关"
+cheat26_code = "FF0054:16"
+cheat26_enable = false
+
+cheat27_desc = "[选择关卡(游戏标题时使用)]第24关"
+cheat27_code = "FF0054:17"
+cheat27_enable = false
+
+cheat28_desc = "[选择关卡(游戏标题时使用)]第25关"
+cheat28_code = "FF0054:18"
+cheat28_enable = false
+
+cheat29_desc = "[选择关卡(游戏标题时使用)]第26关"
+cheat29_code = "FF0054:19"
+cheat29_enable = false
+
+cheat30_desc = "[选择关卡(游戏标题时使用)]第27关"
+cheat30_code = "FF0054:1A"
+cheat30_enable = false
+
+cheat31_desc = "[选择关卡(游戏标题时使用)]第28关"
+cheat31_code = "FF0054:1B"
+cheat31_enable = false
+
+cheat32_desc = "[选择关卡(游戏标题时使用)]第29关"
+cheat32_code = "FF0054:1C"
+cheat32_enable = false
+
+cheat33_desc = "[选择关卡(游戏标题时使用)]第30关"
+cheat33_code = "FF0054:1D"
+cheat33_enable = false
+
+cheat34_desc = "[选择关卡(游戏标题时使用)]第31关"
+cheat34_code = "FF0054:1E"
+cheat34_enable = false
+
+cheat35_desc = "[选择关卡(游戏标题时使用)]第32关"
+cheat35_code = "FF0054:1F"
+cheat35_enable = false
+
+cheat36_desc = "[选择关卡(游戏标题时使用)]第33关"
+cheat36_code = "FF0054:20"
+cheat36_enable = false
+
+cheat37_desc = "[选择关卡(游戏标题时使用)]第34关"
+cheat37_code = "FF0054:21"
+cheat37_enable = false
+
+cheat38_desc = "[选择关卡(游戏标题时使用)]第35关"
+cheat38_code = "FF0054:22"
+cheat38_enable = false
+
+cheat39_desc = "[选择关卡(游戏标题时使用)]第36关"
+cheat39_code = "FF0054:23"
+cheat39_enable = false
+
+cheat40_desc = "[选择关卡(游戏标题时使用)]第37关"
+cheat40_code = "FF0054:24"
+cheat40_enable = false
+
+cheat41_desc = "[选择关卡(游戏标题时使用)]第38关"
+cheat41_code = "FF0054:25"
+cheat41_enable = false
+
+cheat42_desc = "[选择关卡(游戏标题时使用)]第39关"
+cheat42_code = "FF0054:26"
+cheat42_enable = false
+
+cheat43_desc = "[选择关卡(游戏标题时使用)]第40关"
+cheat43_code = "FF0054:27"
+cheat43_enable = false
+
+cheat44_desc = "[选择关卡(游戏标题时使用)]第41关"
+cheat44_code = "FF0054:28"
+cheat44_enable = false
+
+cheat45_desc = "[选择关卡(游戏标题时使用)]第42关"
+cheat45_code = "FF0054:29"
+cheat45_enable = false
+
+cheat46_desc = "[选择关卡(游戏标题时使用)]第43关"
+cheat46_code = "FF0054:2A"
+cheat46_enable = false
+
+cheat47_desc = "[选择关卡(游戏标题时使用)]第44关"
+cheat47_code = "FF0054:2B"
+cheat47_enable = false
+
+cheat48_desc = "[选择关卡(游戏标题时使用)]第45关"
+cheat48_code = "FF0054:2C"
+cheat48_enable = false
+
+cheat49_desc = "[选择关卡(游戏标题时使用)]第46关"
+cheat49_code = "FF0054:2D"
+cheat49_enable = false
+
+cheat50_desc = "[选择关卡(游戏标题时使用)]第47关"
+cheat50_code = "FF0054:2E"
+cheat50_enable = false
+
+cheat51_desc = "[选择关卡(游戏标题时使用)]第48关"
+cheat51_code = "FF0054:2F"
+cheat51_enable = false
+
+cheat52_desc = "[选择关卡(游戏标题时使用)]第49关"
+cheat52_code = "FF0054:30"
+cheat52_enable = false
+
+cheat53_desc = "[选择关卡(游戏标题时使用)]第50关"
+cheat53_code = "FF0054:31"
+cheat53_enable = false
+
+cheat54_desc = "[选择关卡(游戏标题时使用)]第51关"
+cheat54_code = "FF0054:32"
+cheat54_enable = false
+
+cheat55_desc = "[选择关卡(游戏标题时使用)]第52关"
+cheat55_code = "FF0054:33"
+cheat55_enable = false
+
+cheat56_desc = "[选择关卡(游戏标题时使用)]第53关"
+cheat56_code = "FF0054:34"
+cheat56_enable = false
+
+cheat57_desc = "[选择关卡(游戏标题时使用)]第54关"
+cheat57_code = "FF0054:35"
+cheat57_enable = false
+
+cheat58_desc = "[选择关卡(游戏标题时使用)]第55关"
+cheat58_code = "FF0054:36"
+cheat58_enable = false
+
+cheat59_desc = "[选择关卡(游戏标题时使用)]第56关"
+cheat59_code = "FF0054:37"
+cheat59_enable = false
+
+cheat60_desc = "[选择关卡(游戏标题时使用)]第57关"
+cheat60_code = "FF0054:38"
+cheat60_enable = false
+
+cheat61_desc = "[选择关卡(游戏标题时使用)]第58关"
+cheat61_code = "FF0054:39"
+cheat61_enable = false
+
+cheat62_desc = "[选择关卡(游戏标题时使用)]第59关"
+cheat62_code = "FF0054:3A"
+cheat62_enable = false
+
+cheat63_desc = "[选择关卡(游戏标题时使用)]第60关"
+cheat63_code = "FF0054:3B"
+cheat63_enable = false
+
+cheat64_desc = "[选择关卡(游戏标题时使用)]第61关"
+cheat64_code = "FF0054:3C"
+cheat64_enable = false
+
+cheat65_desc = "[选择关卡(游戏标题时使用)]第62关"
+cheat65_code = "FF0054:3D"
+cheat65_enable = false
+
+cheat66_desc = "[选择关卡(游戏标题时使用)]第63关"
+cheat66_code = "FF0054:3E"
+cheat66_enable = false
+
+cheat67_desc = "[选择关卡(游戏标题时使用)]第64关"
+cheat67_code = "FF0054:3F"
+cheat67_enable = false
+
+cheat68_desc = "[选择关卡(游戏标题时使用)]第65关"
+cheat68_code = "FF0054:40"
+cheat68_enable = false
+
+cheat69_desc = "[选择关卡(游戏标题时使用)]第66关"
+cheat69_code = "FF0054:41"
+cheat69_enable = false
+
+cheat70_desc = "[选择关卡(游戏标题时使用)]第67关"
+cheat70_code = "FF0054:42"
+cheat70_enable = false
+
+cheat71_desc = "[选择关卡(游戏标题时使用)]第68关"
+cheat71_code = "FF0054:43"
+cheat71_enable = false
+
+cheat72_desc = "[选择关卡(游戏标题时使用)]第69关"
+cheat72_code = "FF0054:44"
+cheat72_enable = false
+
+cheat73_desc = "[选择关卡(游戏标题时使用)]第70关"
+cheat73_code = "FF0054:45"
+cheat73_enable = false
+

@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[体力值]ON"
+cheat0_code = "004F:63"
+cheat0_enable = false
+
+cheat1_desc = "[敌人为普通状态]ON"
+cheat1_code = "0079:00"
+cheat1_enable = false
+
+cheat2_desc = "[敌人体力为零]ON"
+cheat2_code = "0050:00"
+cheat2_enable = false
+

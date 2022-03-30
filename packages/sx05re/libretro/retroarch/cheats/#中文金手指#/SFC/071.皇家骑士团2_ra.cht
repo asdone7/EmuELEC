@@ -1,0 +1,1666 @@
+cheats = 416
+
+cheat0_desc = "[money]99999999"
+cheat0_code = "7EBD8AFF+7EBD8BE0+7EBD8C5E+7EBD8D5F"
+cheat0_enable = false
+
+cheat1_desc = "[exp]ON"
+cheat1_code = "7E17FF63"
+cheat1_enable = false
+
+cheat2_desc = "[lv]50"
+cheat2_code = "7E17EF50"
+cheat2_enable = false
+
+cheat3_desc = "[JOB1]ON"
+cheat3_code = "7E17AF01"
+cheat3_enable = false
+
+cheat4_desc = "[JOB2]ON"
+cheat4_code = "7E17AF01"
+cheat4_enable = false
+
+cheat5_desc = "[性格]l"
+cheat5_code = "7E17D601"
+cheat5_enable = false
+
+cheat6_desc = "[性格]n"
+cheat6_code = "7E17D600"
+cheat6_enable = false
+
+cheat7_desc = "[性格]c"
+cheat7_code = "7E17D602"
+cheat7_enable = false
+
+cheat8_desc = "[属性]风"
+cheat8_code = "7E17D701"
+cheat8_enable = false
+
+cheat9_desc = "[属性]炎"
+cheat9_code = "7E17D702"
+cheat9_enable = false
+
+cheat10_desc = "[属性]地"
+cheat10_code = "7E17D703"
+cheat10_enable = false
+
+cheat11_desc = "[属性]水"
+cheat11_code = "7E17D704"
+cheat11_enable = false
+
+cheat12_desc = "[HP]999"
+cheat12_code = "7E184EE7+7E184F03"
+cheat12_enable = false
+
+cheat13_desc = "[MP]999"
+cheat13_code = "7E189EE7+7E189F03"
+cheat13_enable = false
+
+cheat14_desc = "[STR]ON"
+cheat14_code = "7E18C6E7+7E18C703"
+cheat14_enable = false
+
+cheat15_desc = "[INT]ON"
+cheat15_code = "7E18EEE7+7E18EF03"
+cheat15_enable = false
+
+cheat16_desc = "[AGI]ON"
+cheat16_code = "7E1916E7+7E191703"
+cheat16_enable = false
+
+cheat17_desc = "[DEX]ON"
+cheat17_code = "7E193EE7+7E193F03"
+cheat17_enable = false
+
+cheat18_desc = "[VIT]ON"
+cheat18_code = "7E1966E7+7E196703"
+cheat18_enable = false
+
+cheat19_desc = "[MEN]ON"
+cheat19_code = "7E198EE7+7E198F03"
+cheat19_enable = false
+
+cheat20_desc = "[LCK]ON"
+cheat20_code = "7E19B664"
+cheat20_enable = false
+
+cheat21_desc = "[R1]空手"
+cheat21_code = "7EB6C700"
+cheat21_enable = false
+
+cheat22_desc = "[R1]小剑"
+cheat22_code = "7EB6C701"
+cheat22_enable = false
+
+cheat23_desc = "[R1]剑"
+cheat23_code = "7EB6C702"
+cheat23_enable = false
+
+cheat24_desc = "[R1]金属短剑"
+cheat24_code = "7EB6C703"
+cheat24_enable = false
+
+cheat25_desc = "[R1]金属剑"
+cheat25_code = "7EB6C704"
+cheat25_enable = false
+
+cheat26_desc = "[R1]龙杀剑"
+cheat26_code = "7EB6C705"
+cheat26_enable = false
+
+cheat27_desc = "[R1]龙爪剑"
+cheat27_code = "7EB6C706"
+cheat27_enable = false
+
+cheat28_desc = "[R1]黑龙的大剑"
+cheat28_code = "7EB6C707"
+cheat28_enable = false
+
+cheat29_desc = "[R1]竹刀"
+cheat29_code = "7EB6C70E"
+cheat29_enable = false
+
+cheat30_desc = "[R1]圣骑士的长剑"
+cheat30_code = "7EB6C70F"
+cheat30_enable = false
+
+cheat31_desc = "[R1]古代王国的刚剑"
+cheat31_code = "7EB6C710"
+cheat31_enable = false
+
+cheat32_desc = "[R1]北方英雄的双手剑"
+cheat32_code = "7EB6C711"
+cheat32_enable = false
+
+cheat33_desc = "[R1]南风神的双刃剑(四风神之一)"
+cheat33_code = "7EB6C712"
+cheat33_enable = false
+
+cheat34_desc = "[R1]火龙之剑"
+cheat34_code = "7EB6C713"
+cheat34_enable = false
+
+cheat35_desc = "[R1]金刚刀"
+cheat35_code = "7EB6C714"
+cheat35_enable = false
+
+cheat36_desc = "[R1]冰之刃"
+cheat36_code = "7EB6C715"
+cheat36_enable = false
+
+cheat37_desc = "[R1]污水冰剑"
+cheat37_code = "7EB6C716"
+cheat37_enable = false
+
+cheat38_desc = "[R1]与神交流的剑"
+cheat38_code = "7EB6C717"
+cheat38_enable = false
+
+cheat39_desc = "[R1]堕天使的圣剑"
+cheat39_code = "7EB6C718"
+cheat39_enable = false
+
+cheat40_desc = "[R1]堕天使的圣剑(皇外版)"
+cheat40_code = "7EB6C719"
+cheat40_enable = false
+
+cheat41_desc = "[R1]天界的神圣剑"
+cheat41_code = "7EB6C71A"
+cheat41_enable = false
+
+cheat42_desc = "[R1]恶魔的剑"
+cheat42_code = "7EB6C71B"
+cheat42_enable = false
+
+cheat43_desc = "[R1]小型斧"
+cheat43_code = "7EB6C71C"
+cheat43_enable = false
+
+cheat44_desc = "[R1]金属斧"
+cheat44_code = "7EB6C71D"
+cheat44_enable = false
+
+cheat45_desc = "[R1]刚铁之斧"
+cheat45_code = "7EB6C71E"
+cheat45_enable = false
+
+cheat46_desc = "[R1]北风神的斧(四风神之一)"
+cheat46_code = "7EB6C71F"
+cheat46_enable = false
+
+cheat47_desc = "[R1]红莲之斧"
+cheat47_code = "7EB6C720"
+cheat47_enable = false
+
+cheat48_desc = "[R1]火山造的炎之斧"
+cheat48_code = "7EB6C721"
+cheat48_enable = false
+
+cheat49_desc = "[R1]地龙的战斧"
+cheat49_code = "7EB6C722"
+cheat49_enable = false
+
+cheat50_desc = "[R1]冬将军"
+cheat50_code = "7EB6C723"
+cheat50_enable = false
+
+cheat51_desc = "[R1]刻有神圣文字的双刃斧"
+cheat51_code = "7EB6C724"
+cheat51_enable = false
+
+cheat52_desc = "[R1]死神的大斧"
+cheat52_code = "7EB6C725"
+cheat52_enable = false
+
+cheat53_desc = "[R1]石材破坏用的锤"
+cheat53_code = "7EB6C726"
+cheat53_enable = false
+
+cheat54_desc = "[R1]金属的锤"
+cheat54_code = "7EB6C727"
+cheat54_enable = false
+
+cheat55_desc = "[R1]潜力发挥的锤"
+cheat55_code = "7EB6C728"
+cheat55_enable = false
+
+cheat56_desc = "[R1]东风神的锤(四风神之一)"
+cheat56_code = "7EB6C729"
+cheat56_enable = false
+
+cheat57_desc = "[R1]炎的魔法锤"
+cheat57_code = "7EB6C72A"
+cheat57_enable = false
+
+cheat58_desc = "[R1]世界树之化石造的锤"
+cheat58_code = "7EB6C72B"
+cheat58_enable = false
+
+cheat59_desc = "[R1]魔界将军爱用的锤"
+cheat59_code = "7EB6C72C"
+cheat59_enable = false
+
+cheat60_desc = "[R1]海神之泪造的锤"
+cheat60_code = "7EB6C72D"
+cheat60_enable = false
+
+cheat61_desc = "[R1]神秘的锤"
+cheat61_code = "7EB6C72E"
+cheat61_enable = false
+
+cheat62_desc = "[R1]黑魔导的锤"
+cheat62_code = "7EB6C72F"
+cheat62_enable = false
+
+cheat63_desc = "[R1]五条刃的爪"
+cheat63_code = "7EB6C730"
+cheat63_enable = false
+
+cheat64_desc = "[R1]青龙的爪"
+cheat64_code = "7EB6C731"
+cheat64_enable = false
+
+cheat65_desc = "[R1]雷龙的爪"
+cheat65_code = "7EB6C732"
+cheat65_enable = false
+
+cheat66_desc = "[R1]黑猫之爪"
+cheat66_code = "7EB6C733"
+cheat66_enable = false
+
+cheat67_desc = "[R1]心型的扇"
+cheat67_code = "7EB6C734"
+cheat67_enable = false
+
+cheat68_desc = "[R1]木制的杖"
+cheat68_code = "7EB6C735"
+cheat68_enable = false
+
+cheat69_desc = "[R1]金属的杖"
+cheat69_code = "7EB6C736"
+cheat69_enable = false
+
+cheat70_desc = "[R1]回复的杖"
+cheat70_code = "7EB6C737"
+cheat70_enable = false
+
+cheat71_desc = "[R1]净化的杖"
+cheat71_code = "7EB6C738"
+cheat71_enable = false
+
+cheat72_desc = "[R1]MP回复杖"
+cheat72_code = "7EB6C739"
+cheat72_enable = false
+
+cheat73_desc = "[R1]风的魔法杖"
+cheat73_code = "7EB6C73A"
+cheat73_enable = false
+
+cheat74_desc = "[R1]炎的魔法杖"
+cheat74_code = "7EB6C73B"
+cheat74_enable = false
+
+cheat75_desc = "[R1]地的魔法杖"
+cheat75_code = "7EB6C73C"
+cheat75_enable = false
+
+cheat76_desc = "[R1]水的魔法杖"
+cheat76_code = "7EB6C73D"
+cheat76_enable = false
+
+cheat77_desc = "[R1]宿有星之力的魔法杖"
+cheat77_code = "7EB6C73E"
+cheat77_enable = false
+
+cheat78_desc = "[R1]黑龙的杖"
+cheat78_code = "7EB6C73F"
+cheat78_enable = false
+
+cheat79_desc = "[R1]一般的枪"
+cheat79_code = "7EB6C740"
+cheat79_enable = false
+
+cheat80_desc = "[R1]刚铁的枪"
+cheat80_code = "7EB6C741"
+cheat80_enable = false
+
+cheat81_desc = "[R1]金属的枪"
+cheat81_code = "7EB6C742"
+cheat81_enable = false
+
+cheat82_desc = "[R1]刻有神圣文字的枪"
+cheat82_code = "7EB6C743"
+cheat82_enable = false
+
+cheat83_desc = "[R1]西风神的枪(四风神之一)"
+cheat83_code = "7EB6C744"
+cheat83_enable = false
+
+cheat84_desc = "[R1]火山之枪"
+cheat84_code = "7EB6C745"
+cheat84_enable = false
+
+cheat85_desc = "[R1]冥府的火炎枪"
+cheat85_code = "7EB6C746"
+cheat85_enable = false
+
+cheat86_desc = "[R1]大地之枪"
+cheat86_code = "7EB6C747"
+cheat86_enable = false
+
+cheat87_desc = "[R1]北方英雄的枪"
+cheat87_code = "7EB6C748"
+cheat87_enable = false
+
+cheat88_desc = "[R1]神之骑士团的枪"
+cheat88_code = "7EB6C749"
+cheat88_enable = false
+
+cheat89_desc = "[R1]绝望之枪"
+cheat89_code = "7EB6C74A"
+cheat89_enable = false
+
+cheat90_desc = "[R1]破魔的鞭"
+cheat90_code = "7EB6C74B"
+cheat90_enable = false
+
+cheat91_desc = "[R1]白光的圣鞭"
+cheat91_code = "7EB6C74C"
+cheat91_enable = false
+
+cheat92_desc = "[R1]吸血鬼用的鞭"
+cheat92_code = "7EB6C74D"
+cheat92_enable = false
+
+cheat93_desc = "[R1]欲望的玫瑰"
+cheat93_code = "7EB6C74E"
+cheat93_enable = false
+
+cheat94_desc = "[R1]小铳"
+cheat94_code = "7EB6C760"
+cheat94_enable = false
+
+cheat95_desc = "[R1]长身铳"
+cheat95_code = "7EB6C761"
+cheat95_enable = false
+
+cheat96_desc = "[R1]强力的长身铳"
+cheat96_code = "7EB6C762"
+cheat96_enable = false
+
+cheat97_desc = "[R1]木制的弓"
+cheat97_code = "7EB6C752"
+cheat97_enable = false
+
+cheat98_desc = "[R1]强化的弓"
+cheat98_code = "7EB6C753"
+cheat98_enable = false
+
+cheat99_desc = "[R1]金属的弓"
+cheat99_code = "7EB6C754"
+cheat99_enable = false
+
+cheat100_desc = "[R1]雷神的弓"
+cheat100_code = "7EB6C755"
+cheat100_enable = false
+
+cheat101_desc = "[R1]烈火的弓"
+cheat101_code = "7EB6C756"
+cheat101_enable = false
+
+cheat102_desc = "[R1]沙尘的弓"
+cheat102_code = "7EB6C757"
+cheat102_enable = false
+
+cheat103_desc = "[R1]冻土的弓"
+cheat103_code = "7EB6C758"
+cheat103_enable = false
+
+cheat104_desc = "[R1]三日月形的大弓"
+cheat104_code = "7EB6C759"
+cheat104_enable = false
+
+cheat105_desc = "[R1]混沌的弓"
+cheat105_code = "7EB6C75A"
+cheat105_enable = false
+
+cheat106_desc = "[R1]魂的魔弓"
+cheat106_code = "7EB6C75B"
+cheat106_enable = false
+
+cheat107_desc = "[R1]木制的弩"
+cheat107_code = "7EB6C75C"
+cheat107_enable = false
+
+cheat108_desc = "[R1]机械弩"
+cheat108_code = "7EB6C75D"
+cheat108_enable = false
+
+cheat109_desc = "[R1]刻有神圣文字的弩"
+cheat109_code = "7EB6C75E"
+cheat109_enable = false
+
+cheat110_desc = "[R1]吹矢"
+cheat110_code = "7EB6C75F"
+cheat110_enable = false
+
+cheat111_desc = "[R1]长方的大盾"
+cheat111_code = "7EB6C763"
+cheat111_enable = false
+
+cheat112_desc = "[R1]金属的盾"
+cheat112_code = "7EB6C764"
+cheat112_enable = false
+
+cheat113_desc = "[R1]龙鳞的盾"
+cheat113_code = "7EB6C765"
+cheat113_enable = false
+
+cheat114_desc = "[R1]破魔的盾"
+cheat114_code = "7EB6C766"
+cheat114_enable = false
+
+cheat115_desc = "[R1]雷兽的盾"
+cheat115_code = "7EB6C767"
+cheat115_enable = false
+
+cheat116_desc = "[R1]炎魔人的盾"
+cheat116_code = "7EB6C768"
+cheat116_enable = false
+
+cheat117_desc = "[R1]森精灵的盾"
+cheat117_code = "7EB6C769"
+cheat117_enable = false
+
+cheat118_desc = "[R1]极寒巨人的盾"
+cheat118_code = "7EB6C76A"
+cheat118_enable = false
+
+cheat119_desc = "[R1]圣者的盾"
+cheat119_code = "7EB6C76B"
+cheat119_enable = false
+
+cheat120_desc = "[R1]恶魔的盾"
+cheat120_code = "7EB6C76C"
+cheat120_enable = false
+
+cheat121_desc = "[R1]机械护手"
+cheat121_code = "7EB6C76D"
+cheat121_enable = false
+
+cheat122_desc = "[R1]金属护手"
+cheat122_code = "7EB6C76E"
+cheat122_enable = false
+
+cheat123_desc = "[R1]战士护手"
+cheat123_code = "7EB6C76F"
+cheat123_enable = false
+
+cheat124_desc = "[R1]革铠"
+cheat124_code = "7EB6C771"
+cheat124_enable = false
+
+cheat125_desc = "[R1]铁铠"
+cheat125_code = "7EB6C772"
+cheat125_enable = false
+
+cheat126_desc = "[R1]金属铠"
+cheat126_code = "7EB6C773"
+cheat126_enable = false
+
+cheat127_desc = "[R1]妖精王的幻铠"
+cheat127_code = "7EB6C774"
+cheat127_enable = false
+
+cheat128_desc = "[R1]龙鳞铠"
+cheat128_code = "7EB6C775"
+cheat128_enable = false
+
+cheat129_desc = "[R1]战士的铠"
+cheat129_code = "7EB6C776"
+cheat129_enable = false
+
+cheat130_desc = "[R1]飞空兽羽造的铠"
+cheat130_code = "7EB6C777"
+cheat130_enable = false
+
+cheat131_desc = "[R1]传说鸟羽造的铠"
+cheat131_code = "7EB6C778"
+cheat131_enable = false
+
+cheat132_desc = "[R1]猛兽的皮造的铠"
+cheat132_code = "7EB6C779"
+cheat132_enable = false
+
+cheat133_desc = "[R1]海幻兽形的铠"
+cheat133_code = "7EB6C77A"
+cheat133_enable = false
+
+cheat134_desc = "[R1]天使的铠"
+cheat134_code = "7EB6C77B"
+cheat134_enable = false
+
+cheat135_desc = "[R1]死神的甲胄"
+cheat135_code = "7EB6C77C"
+cheat135_enable = false
+
+cheat136_desc = "[R1]恶魔的甲胄"
+cheat136_code = "7EB6C77D"
+cheat136_enable = false
+
+cheat137_desc = "[R1]轻动的袍"
+cheat137_code = "7EB6C77E"
+cheat137_enable = false
+
+cheat138_desc = "[R1]魔术师的袍"
+cheat138_code = "7EB6C77F"
+cheat138_enable = false
+
+cheat139_desc = "[R1]贤者的衣"
+cheat139_code = "7EB6C780"
+cheat139_enable = false
+
+cheat140_desc = "[R1]风的法衣"
+cheat140_code = "7EB6C781"
+cheat140_enable = false
+
+cheat141_desc = "[R1]炎的法衣"
+cheat141_code = "7EB6C782"
+cheat141_enable = false
+
+cheat142_desc = "[R1]大地的法衣"
+cheat142_code = "7EB6C783"
+cheat142_enable = false
+
+cheat143_desc = "[R1]水的法衣"
+cheat143_code = "7EB6C784"
+cheat143_enable = false
+
+cheat144_desc = "[R1]白魔导服"
+cheat144_code = "7EB6C785"
+cheat144_enable = false
+
+cheat145_desc = "[R1]黑魔导服"
+cheat145_code = "7EB6C786"
+cheat145_enable = false
+
+cheat146_desc = "[R1]革制的帽子"
+cheat146_code = "7EB6C787"
+cheat146_enable = false
+
+cheat147_desc = "[R1]金属的头盔"
+cheat147_code = "7EB6C788"
+cheat147_enable = false
+
+cheat148_desc = "[R1]龙头骨造的头盔"
+cheat148_code = "7EB6C789"
+cheat148_enable = false
+
+cheat149_desc = "[R1]战士用的头盔"
+cheat149_code = "7EB6C78A"
+cheat149_enable = false
+
+cheat150_desc = "[R1]神官的颈饰"
+cheat150_code = "7EB6C78B"
+cheat150_enable = false
+
+cheat151_desc = "[R1]神祝福的头盔"
+cheat151_code = "7EB6C78C"
+cheat151_enable = false
+
+cheat152_desc = "[R1]恶魔的头盔"
+cheat152_code = "7EB6C78D"
+cheat152_enable = false
+
+cheat153_desc = "[R1]恶魔代名词的头盔"
+cheat153_code = "7EB6C78E"
+cheat153_enable = false
+
+cheat154_desc = "[R1]革鞋"
+cheat154_code = "7EB6C78F"
+cheat154_enable = false
+
+cheat155_desc = "[R1]飞空鞋"
+cheat155_code = "7EB6C790"
+cheat155_enable = false
+
+cheat156_desc = "[R1]次元移动鞋"
+cheat156_code = "7EB6C791"
+cheat156_enable = false
+
+cheat157_desc = "[R1]火龙鳞造的鞋"
+cheat157_code = "7EB6C792"
+cheat157_enable = false
+
+cheat158_desc = "[R1]油虫的鞋"
+cheat158_code = "7EB6C793"
+cheat158_enable = false
+
+cheat159_desc = "[R1]圣力的鞋"
+cheat159_code = "7EB6C794"
+cheat159_enable = false
+
+cheat160_desc = "[R1]暗黑神赞歌的鞋"
+cheat160_code = "7EB6C795"
+cheat160_enable = false
+
+cheat161_desc = "[R1]集中力的指轮"
+cheat161_code = "7EB6C796"
+cheat161_enable = false
+
+cheat162_desc = "[R1]知性的指轮"
+cheat162_code = "7EB6C797"
+cheat162_enable = false
+
+cheat163_desc = "[R1]飞空指轮"
+cheat163_code = "7EB6C798"
+cheat163_enable = false
+
+cheat164_desc = "[R1]次元移动指轮"
+cheat164_code = "7EB6C799"
+cheat164_enable = false
+
+cheat165_desc = "[R1]水上的指轮"
+cheat165_code = "7EB6C79A"
+cheat165_enable = false
+
+cheat166_desc = "[R1]疾风的指轮"
+cheat166_code = "7EB6C79B"
+cheat166_enable = false
+
+cheat167_desc = "[R1]火龙的指轮"
+cheat167_code = "7EB6C79C"
+cheat167_enable = false
+
+cheat168_desc = "[R1]大地的指轮"
+cheat168_code = "7EB6C79D"
+cheat168_enable = false
+
+cheat169_desc = "[R1]冰的指轮"
+cheat169_code = "7EB6C79E"
+cheat169_enable = false
+
+cheat170_desc = "[R1]圣的指轮"
+cheat170_code = "7EB6C79F"
+cheat170_enable = false
+
+cheat171_desc = "[R1]死灵的指轮"
+cheat171_code = "7EB6C7A0"
+cheat171_enable = false
+
+cheat172_desc = "[R1]死者的指轮"
+cheat172_code = "7EB6C7A1"
+cheat172_enable = false
+
+cheat173_desc = "[R1]风神的首饰"
+cheat173_code = "7EB6C7A2"
+cheat173_enable = false
+
+cheat174_desc = "[R1]炎神的首饰"
+cheat174_code = "7EB6C7A3"
+cheat174_enable = false
+
+cheat175_desc = "[R1]地神的首饰"
+cheat175_code = "7EB6C7A4"
+cheat175_enable = false
+
+cheat176_desc = "[R1]水神的首饰"
+cheat176_code = "7EB6C7A5"
+cheat176_enable = false
+
+cheat177_desc = "[R1]魔封的首饰"
+cheat177_code = "7EB6C7A6"
+cheat177_enable = false
+
+cheat178_desc = "[R1]红光的首饰"
+cheat178_code = "7EB6C7A7"
+cheat178_enable = false
+
+cheat179_desc = "[R1]青光的首饰"
+cheat179_code = "7EB6C7A8"
+cheat179_enable = false
+
+cheat180_desc = "[R1]放魔的首饰"
+cheat180_code = "7EB6C7A9"
+cheat180_enable = false
+
+cheat181_desc = "[R1]蛮族的角笛"
+cheat181_code = "7EB6C7AA"
+cheat181_enable = false
+
+cheat182_desc = "[R1]人鱼的竖琴"
+cheat182_code = "7EB6C7AB"
+cheat182_enable = false
+
+cheat183_desc = "[R1]火鸟羽"
+cheat183_code = "7EB6C7AC"
+cheat183_enable = false
+
+cheat184_desc = "[R1]龙玉石"
+cheat184_code = "7EB6C7AD"
+cheat184_enable = false
+
+cheat185_desc = "[R1]言灵的石"
+cheat185_code = "7EB6C7AE"
+cheat185_enable = false
+
+cheat186_desc = "[R1]HP50"
+cheat186_code = "7EB6C7AF"
+cheat186_enable = false
+
+cheat187_desc = "[R1]HP100"
+cheat187_code = "7EB6C7B0"
+cheat187_enable = false
+
+cheat188_desc = "[R1]HP150"
+cheat188_code = "7EB6C7B1"
+cheat188_enable = false
+
+cheat189_desc = "[R1]HP全"
+cheat189_code = "7EB6C7B2"
+cheat189_enable = false
+
+cheat190_desc = "[R1]MP25"
+cheat190_code = "7EB6C7B3"
+cheat190_enable = false
+
+cheat191_desc = "[R1]MP50"
+cheat191_code = "7EB6C7B4"
+cheat191_enable = false
+
+cheat192_desc = "[R1]MP100"
+cheat192_code = "7EB6C7B5"
+cheat192_enable = false
+
+cheat193_desc = "[R1]MP全"
+cheat193_code = "7EB6C7B6"
+cheat193_enable = false
+
+cheat194_desc = "[R1]贤者的果实"
+cheat194_code = "7EB6C7B7"
+cheat194_enable = false
+
+cheat195_desc = "[R1]天使的果实"
+cheat195_code = "7EB6C7B8"
+cheat195_enable = false
+
+cheat196_desc = "[R1]腐烂的果实"
+cheat196_code = "7EB6C7B9"
+cheat196_enable = false
+
+cheat197_desc = "[R1]解石化草"
+cheat197_code = "7EB6C7BA"
+cheat197_enable = false
+
+cheat198_desc = "[R1]去毒草"
+cheat198_code = "7EB6C7BB"
+cheat198_enable = false
+
+cheat199_desc = "[R1]果实酒"
+cheat199_code = "7EB6C7BC"
+cheat199_enable = false
+
+cheat200_desc = "[R1]酒"
+cheat200_code = "7EB6C7BD"
+cheat200_enable = false
+
+cheat201_desc = "[R1]精灵的果实"
+cheat201_code = "7EB6C7BE"
+cheat201_enable = false
+
+cheat202_desc = "[R1]祝福的圣石"
+cheat202_code = "7EB6C7BF"
+cheat202_enable = false
+
+cheat203_desc = "[R1]至福的圣石"
+cheat203_code = "7EB6C7C0"
+cheat203_enable = false
+
+cheat204_desc = "[R1]龙的巢"
+cheat204_code = "7EB6C7C1"
+cheat204_enable = false
+
+cheat205_desc = "[R1]人鱼的泪"
+cheat205_code = "7EB6C7C2"
+cheat205_enable = false
+
+cheat206_desc = "[R1]风的珠"
+cheat206_code = "7EB6C7C3"
+cheat206_enable = false
+
+cheat207_desc = "[R1]炎的珠"
+cheat207_code = "7EB6C7C4"
+cheat207_enable = false
+
+cheat208_desc = "[R1]地的珠"
+cheat208_code = "7EB6C7C5"
+cheat208_enable = false
+
+cheat209_desc = "[R1]水的珠"
+cheat209_code = "7EB6C7C6"
+cheat209_enable = false
+
+cheat210_desc = "[R1]光的珠"
+cheat210_code = "7EB6C7C7"
+cheat210_enable = false
+
+cheat211_desc = "[R1]暗的珠"
+cheat211_code = "7EB6C7C8"
+cheat211_enable = false
+
+cheat212_desc = "[R1]火炎之冠"
+cheat212_code = "7EB6C7C9"
+cheat212_enable = false
+
+cheat213_desc = "[R1]STR加10"
+cheat213_code = "7EB6C7CA"
+cheat213_enable = false
+
+cheat214_desc = "[R1]WIT加10"
+cheat214_code = "7EB6C7CB"
+cheat214_enable = false
+
+cheat215_desc = "[R1]INT加10"
+cheat215_code = "7EB6C7CC"
+cheat215_enable = false
+
+cheat216_desc = "[R1]MEN加10"
+cheat216_code = "7EB6C7CD"
+cheat216_enable = false
+
+cheat217_desc = "[R1]转移石"
+cheat217_code = "7EB6C7CE"
+cheat217_enable = false
+
+cheat218_desc = "[R1]玻璃南瓜"
+cheat218_code = "7EB6C7CF"
+cheat218_enable = false
+
+cheat219_desc = "[w1]小剑"
+cheat219_code = "7EBB7C01"
+cheat219_enable = false
+
+cheat220_desc = "[w1]剑"
+cheat220_code = "7EBB7C02"
+cheat220_enable = false
+
+cheat221_desc = "[w1]金属短剑"
+cheat221_code = "7EBB7C03"
+cheat221_enable = false
+
+cheat222_desc = "[w1]金属剑"
+cheat222_code = "7EBB7C04"
+cheat222_enable = false
+
+cheat223_desc = "[w1]龙杀剑"
+cheat223_code = "7EBB7C05"
+cheat223_enable = false
+
+cheat224_desc = "[w1]龙爪剑"
+cheat224_code = "7EBB7C06"
+cheat224_enable = false
+
+cheat225_desc = "[w1]黑龙的大剑"
+cheat225_code = "7EBB7C07"
+cheat225_enable = false
+
+cheat226_desc = "[w1]竹刀"
+cheat226_code = "7EBB7C0E"
+cheat226_enable = false
+
+cheat227_desc = "[w1]圣骑士的长剑"
+cheat227_code = "7EBB7C0F"
+cheat227_enable = false
+
+cheat228_desc = "[w1]古代王国的刚剑"
+cheat228_code = "7EBB7C10"
+cheat228_enable = false
+
+cheat229_desc = "[w1]北方英雄的双手剑"
+cheat229_code = "7EBB7C11"
+cheat229_enable = false
+
+cheat230_desc = "[w1]南风神的双刃剑(四风神之一)"
+cheat230_code = "7EBB7C12"
+cheat230_enable = false
+
+cheat231_desc = "[w1]火龙之剑"
+cheat231_code = "7EBB7C13"
+cheat231_enable = false
+
+cheat232_desc = "[w1]金刚刀"
+cheat232_code = "7EBB7C14"
+cheat232_enable = false
+
+cheat233_desc = "[w1]冰之刃"
+cheat233_code = "7EBB7C15"
+cheat233_enable = false
+
+cheat234_desc = "[w1]污水冰剑"
+cheat234_code = "7EBB7C16"
+cheat234_enable = false
+
+cheat235_desc = "[w1]与神交流的剑"
+cheat235_code = "7EBB7C17"
+cheat235_enable = false
+
+cheat236_desc = "[w1]堕天使的圣剑"
+cheat236_code = "7EBB7C18"
+cheat236_enable = false
+
+cheat237_desc = "[w1]堕天使的圣剑(皇外版)"
+cheat237_code = "7EBB7C19"
+cheat237_enable = false
+
+cheat238_desc = "[w1]天界的神圣剑"
+cheat238_code = "7EBB7C1A"
+cheat238_enable = false
+
+cheat239_desc = "[w1]恶魔的剑"
+cheat239_code = "7EBB7C1B"
+cheat239_enable = false
+
+cheat240_desc = "[w1]小型斧"
+cheat240_code = "7EBB7C1C"
+cheat240_enable = false
+
+cheat241_desc = "[w1]金属斧"
+cheat241_code = "7EBB7C1D"
+cheat241_enable = false
+
+cheat242_desc = "[w1]刚铁之斧"
+cheat242_code = "7EBB7C1E"
+cheat242_enable = false
+
+cheat243_desc = "[w1]北风神的斧(四风神之一)"
+cheat243_code = "7EBB7C1F"
+cheat243_enable = false
+
+cheat244_desc = "[w1]红莲之斧"
+cheat244_code = "7EBB7C20"
+cheat244_enable = false
+
+cheat245_desc = "[w1]火山造的炎之斧"
+cheat245_code = "7EBB7C21"
+cheat245_enable = false
+
+cheat246_desc = "[w1]地龙的战斧"
+cheat246_code = "7EBB7C22"
+cheat246_enable = false
+
+cheat247_desc = "[w1]冬将军"
+cheat247_code = "7EBB7C23"
+cheat247_enable = false
+
+cheat248_desc = "[w1]刻有神圣文字的双刃斧"
+cheat248_code = "7EBB7C24"
+cheat248_enable = false
+
+cheat249_desc = "[w1]死神的大斧"
+cheat249_code = "7EBB7C25"
+cheat249_enable = false
+
+cheat250_desc = "[w1]石材破坏用的锤"
+cheat250_code = "7EBB7C26"
+cheat250_enable = false
+
+cheat251_desc = "[w1]金属的锤"
+cheat251_code = "7EBB7C27"
+cheat251_enable = false
+
+cheat252_desc = "[w1]潜力发挥的锤"
+cheat252_code = "7EBB7C28"
+cheat252_enable = false
+
+cheat253_desc = "[w1]东风神的锤(四风神之一)"
+cheat253_code = "7EBB7C29"
+cheat253_enable = false
+
+cheat254_desc = "[w1]炎的魔法锤"
+cheat254_code = "7EBB7C2A"
+cheat254_enable = false
+
+cheat255_desc = "[w1]世界树之化石造的锤"
+cheat255_code = "7EBB7C2B"
+cheat255_enable = false
+
+cheat256_desc = "[w1]魔界将军爱用的锤"
+cheat256_code = "7EBB7C2C"
+cheat256_enable = false
+
+cheat257_desc = "[w1]海神之泪造的锤"
+cheat257_code = "7EBB7C2D"
+cheat257_enable = false
+
+cheat258_desc = "[w1]神秘的锤"
+cheat258_code = "7EBB7C2E"
+cheat258_enable = false
+
+cheat259_desc = "[w1]黑魔导的锤"
+cheat259_code = "7EBB7C2F"
+cheat259_enable = false
+
+cheat260_desc = "[w1]五条刃的爪"
+cheat260_code = "7EBB7C30"
+cheat260_enable = false
+
+cheat261_desc = "[w1]青龙的爪"
+cheat261_code = "7EBB7C31"
+cheat261_enable = false
+
+cheat262_desc = "[w1]雷龙的爪"
+cheat262_code = "7EBB7C32"
+cheat262_enable = false
+
+cheat263_desc = "[w1]黑猫之爪"
+cheat263_code = "7EBB7C33"
+cheat263_enable = false
+
+cheat264_desc = "[w1]心型的扇"
+cheat264_code = "7EBB7C34"
+cheat264_enable = false
+
+cheat265_desc = "[w1]木制的杖"
+cheat265_code = "7EBB7C35"
+cheat265_enable = false
+
+cheat266_desc = "[w1]金属的杖"
+cheat266_code = "7EBB7C36"
+cheat266_enable = false
+
+cheat267_desc = "[w1]回复的杖"
+cheat267_code = "7EBB7C37"
+cheat267_enable = false
+
+cheat268_desc = "[w1]净化的杖"
+cheat268_code = "7EBB7C38"
+cheat268_enable = false
+
+cheat269_desc = "[w1]MP回复杖"
+cheat269_code = "7EBB7C39"
+cheat269_enable = false
+
+cheat270_desc = "[w1]风的魔法杖"
+cheat270_code = "7EBB7C3A"
+cheat270_enable = false
+
+cheat271_desc = "[w1]炎的魔法杖"
+cheat271_code = "7EBB7C3B"
+cheat271_enable = false
+
+cheat272_desc = "[w1]地的魔法杖"
+cheat272_code = "7EBB7C3C"
+cheat272_enable = false
+
+cheat273_desc = "[w1]水的魔法杖"
+cheat273_code = "7EBB7C3D"
+cheat273_enable = false
+
+cheat274_desc = "[w1]宿有星之力的魔法杖"
+cheat274_code = "7EBB7C3E"
+cheat274_enable = false
+
+cheat275_desc = "[w1]黑龙的杖"
+cheat275_code = "7EBB7C3F"
+cheat275_enable = false
+
+cheat276_desc = "[w1]一般的枪"
+cheat276_code = "7EBB7C40"
+cheat276_enable = false
+
+cheat277_desc = "[w1]刚铁的枪"
+cheat277_code = "7EBB7C41"
+cheat277_enable = false
+
+cheat278_desc = "[w1]金属的枪"
+cheat278_code = "7EBB7C42"
+cheat278_enable = false
+
+cheat279_desc = "[w1]刻有神圣文字的枪"
+cheat279_code = "7EBB7C43"
+cheat279_enable = false
+
+cheat280_desc = "[w1]西风神的枪(四风神之一)"
+cheat280_code = "7EBB7C44"
+cheat280_enable = false
+
+cheat281_desc = "[w1]火山之枪"
+cheat281_code = "7EBB7C45"
+cheat281_enable = false
+
+cheat282_desc = "[w1]冥府的火炎枪"
+cheat282_code = "7EBB7C46"
+cheat282_enable = false
+
+cheat283_desc = "[w1]大地之枪"
+cheat283_code = "7EBB7C47"
+cheat283_enable = false
+
+cheat284_desc = "[w1]北方英雄的枪"
+cheat284_code = "7EBB7C48"
+cheat284_enable = false
+
+cheat285_desc = "[w1]神之骑士团的枪"
+cheat285_code = "7EBB7C49"
+cheat285_enable = false
+
+cheat286_desc = "[w1]绝望之枪"
+cheat286_code = "7EBB7C4A"
+cheat286_enable = false
+
+cheat287_desc = "[w1]破魔的鞭"
+cheat287_code = "7EBB7C4B"
+cheat287_enable = false
+
+cheat288_desc = "[w1]白光的圣鞭"
+cheat288_code = "7EBB7C4C"
+cheat288_enable = false
+
+cheat289_desc = "[w1]吸血鬼用的鞭"
+cheat289_code = "7EBB7C4D"
+cheat289_enable = false
+
+cheat290_desc = "[w1]欲望的玫瑰"
+cheat290_code = "7EBB7C4E"
+cheat290_enable = false
+
+cheat291_desc = "[w1]小铳"
+cheat291_code = "7EBB7C60"
+cheat291_enable = false
+
+cheat292_desc = "[w1]长身铳"
+cheat292_code = "7EBB7C61"
+cheat292_enable = false
+
+cheat293_desc = "[w1]强力的长身铳"
+cheat293_code = "7EBB7C62"
+cheat293_enable = false
+
+cheat294_desc = "[w1]木制的弓"
+cheat294_code = "7EBB7C52"
+cheat294_enable = false
+
+cheat295_desc = "[w1]强化的弓"
+cheat295_code = "7EBB7C53"
+cheat295_enable = false
+
+cheat296_desc = "[w1]金属的弓"
+cheat296_code = "7EBB7C54"
+cheat296_enable = false
+
+cheat297_desc = "[w1]雷神的弓"
+cheat297_code = "7EBB7C55"
+cheat297_enable = false
+
+cheat298_desc = "[w1]烈火的弓"
+cheat298_code = "7EBB7C56"
+cheat298_enable = false
+
+cheat299_desc = "[w1]沙尘的弓"
+cheat299_code = "7EBB7C57"
+cheat299_enable = false
+
+cheat300_desc = "[w1]冻土的弓"
+cheat300_code = "7EBB7C58"
+cheat300_enable = false
+
+cheat301_desc = "[w1]三日月形的大弓"
+cheat301_code = "7EBB7C59"
+cheat301_enable = false
+
+cheat302_desc = "[w1]混沌的弓"
+cheat302_code = "7EBB7C5A"
+cheat302_enable = false
+
+cheat303_desc = "[w1]魂的魔弓"
+cheat303_code = "7EBB7C5B"
+cheat303_enable = false
+
+cheat304_desc = "[w1]木制的弩"
+cheat304_code = "7EBB7C5C"
+cheat304_enable = false
+
+cheat305_desc = "[w1]机械弩"
+cheat305_code = "7EBB7C5D"
+cheat305_enable = false
+
+cheat306_desc = "[w1]刻有神圣文字的弩"
+cheat306_code = "7EBB7C5E"
+cheat306_enable = false
+
+cheat307_desc = "[w1]吹矢"
+cheat307_code = "7EBB7C5F"
+cheat307_enable = false
+
+cheat308_desc = "[w1]长方的大盾"
+cheat308_code = "7EBB7C63"
+cheat308_enable = false
+
+cheat309_desc = "[w1]金属的盾"
+cheat309_code = "7EBB7C64"
+cheat309_enable = false
+
+cheat310_desc = "[w1]龙鳞的盾"
+cheat310_code = "7EBB7C65"
+cheat310_enable = false
+
+cheat311_desc = "[w1]破魔的盾"
+cheat311_code = "7EBB7C66"
+cheat311_enable = false
+
+cheat312_desc = "[w1]雷兽的盾"
+cheat312_code = "7EBB7C67"
+cheat312_enable = false
+
+cheat313_desc = "[w1]炎魔人的盾"
+cheat313_code = "7EBB7C68"
+cheat313_enable = false
+
+cheat314_desc = "[w1]森精灵的盾"
+cheat314_code = "7EBB7C69"
+cheat314_enable = false
+
+cheat315_desc = "[w1]极寒巨人的盾"
+cheat315_code = "7EBB7C6A"
+cheat315_enable = false
+
+cheat316_desc = "[w1]圣者的盾"
+cheat316_code = "7EBB7C6B"
+cheat316_enable = false
+
+cheat317_desc = "[w1]恶魔的盾"
+cheat317_code = "7EBB7C6C"
+cheat317_enable = false
+
+cheat318_desc = "[w1]机械护手"
+cheat318_code = "7EBB7C6D"
+cheat318_enable = false
+
+cheat319_desc = "[w1]金属护手"
+cheat319_code = "7EBB7C6E"
+cheat319_enable = false
+
+cheat320_desc = "[w1]战士护手"
+cheat320_code = "7EBB7C6F"
+cheat320_enable = false
+
+cheat321_desc = "[w1]革铠"
+cheat321_code = "7EBB7C71"
+cheat321_enable = false
+
+cheat322_desc = "[w1]铁铠"
+cheat322_code = "7EBB7C72"
+cheat322_enable = false
+
+cheat323_desc = "[w1]金属铠"
+cheat323_code = "7EBB7C73"
+cheat323_enable = false
+
+cheat324_desc = "[w1]妖精王的幻铠"
+cheat324_code = "7EBB7C74"
+cheat324_enable = false
+
+cheat325_desc = "[w1]龙鳞铠"
+cheat325_code = "7EBB7C75"
+cheat325_enable = false
+
+cheat326_desc = "[w1]战士的铠"
+cheat326_code = "7EBB7C76"
+cheat326_enable = false
+
+cheat327_desc = "[w1]飞空兽羽造的铠"
+cheat327_code = "7EBB7C77"
+cheat327_enable = false
+
+cheat328_desc = "[w1]传说鸟羽造的铠"
+cheat328_code = "7EBB7C78"
+cheat328_enable = false
+
+cheat329_desc = "[w1]猛兽的皮造的铠"
+cheat329_code = "7EBB7C79"
+cheat329_enable = false
+
+cheat330_desc = "[w1]海幻兽形的铠"
+cheat330_code = "7EBB7C7A"
+cheat330_enable = false
+
+cheat331_desc = "[w1]天使的铠"
+cheat331_code = "7EBB7C7B"
+cheat331_enable = false
+
+cheat332_desc = "[w1]死神的甲胄"
+cheat332_code = "7EBB7C7C"
+cheat332_enable = false
+
+cheat333_desc = "[w1]恶魔的甲胄"
+cheat333_code = "7EBB7C7D"
+cheat333_enable = false
+
+cheat334_desc = "[w1]轻动的袍"
+cheat334_code = "7EBB7C7E"
+cheat334_enable = false
+
+cheat335_desc = "[w1]魔术师的袍"
+cheat335_code = "7EBB7C7F"
+cheat335_enable = false
+
+cheat336_desc = "[w1]贤者的衣"
+cheat336_code = "7EBB7C80"
+cheat336_enable = false
+
+cheat337_desc = "[w1]风的法衣"
+cheat337_code = "7EBB7C81"
+cheat337_enable = false
+
+cheat338_desc = "[w1]炎的法衣"
+cheat338_code = "7EBB7C82"
+cheat338_enable = false
+
+cheat339_desc = "[w1]大地的法衣"
+cheat339_code = "7EBB7C83"
+cheat339_enable = false
+
+cheat340_desc = "[w1]水的法衣"
+cheat340_code = "7EBB7C84"
+cheat340_enable = false
+
+cheat341_desc = "[w1]白魔导服"
+cheat341_code = "7EBB7C85"
+cheat341_enable = false
+
+cheat342_desc = "[w1]黑魔导服"
+cheat342_code = "7EBB7C86"
+cheat342_enable = false
+
+cheat343_desc = "[w1]革制的帽子"
+cheat343_code = "7EBB7C87"
+cheat343_enable = false
+
+cheat344_desc = "[w1]金属的头盔"
+cheat344_code = "7EBB7C88"
+cheat344_enable = false
+
+cheat345_desc = "[w1]龙头骨造的头盔"
+cheat345_code = "7EBB7C89"
+cheat345_enable = false
+
+cheat346_desc = "[w1]战士用的头盔"
+cheat346_code = "7EBB7C8A"
+cheat346_enable = false
+
+cheat347_desc = "[w1]神官的颈饰"
+cheat347_code = "7EBB7C8B"
+cheat347_enable = false
+
+cheat348_desc = "[w1]神祝福的头盔"
+cheat348_code = "7EBB7C8C"
+cheat348_enable = false
+
+cheat349_desc = "[w1]恶魔的头盔"
+cheat349_code = "7EBB7C8D"
+cheat349_enable = false
+
+cheat350_desc = "[w1]恶魔代名词的头盔"
+cheat350_code = "7EBB7C8E"
+cheat350_enable = false
+
+cheat351_desc = "[w1]革鞋"
+cheat351_code = "7EBB7C8F"
+cheat351_enable = false
+
+cheat352_desc = "[w1]飞空鞋"
+cheat352_code = "7EBB7C90"
+cheat352_enable = false
+
+cheat353_desc = "[w1]次元移动鞋"
+cheat353_code = "7EBB7C91"
+cheat353_enable = false
+
+cheat354_desc = "[w1]火龙鳞造的鞋"
+cheat354_code = "7EBB7C92"
+cheat354_enable = false
+
+cheat355_desc = "[w1]油虫的鞋"
+cheat355_code = "7EBB7C93"
+cheat355_enable = false
+
+cheat356_desc = "[w1]圣力的鞋"
+cheat356_code = "7EBB7C94"
+cheat356_enable = false
+
+cheat357_desc = "[w1]暗黑神赞歌的鞋"
+cheat357_code = "7EBB7C95"
+cheat357_enable = false
+
+cheat358_desc = "[w1]集中力的指轮"
+cheat358_code = "7EBB7C96"
+cheat358_enable = false
+
+cheat359_desc = "[w1]知性的指轮"
+cheat359_code = "7EBB7C97"
+cheat359_enable = false
+
+cheat360_desc = "[w1]飞空指轮"
+cheat360_code = "7EBB7C98"
+cheat360_enable = false
+
+cheat361_desc = "[w1]次元移动指轮"
+cheat361_code = "7EBB7C99"
+cheat361_enable = false
+
+cheat362_desc = "[w1]水上的指轮"
+cheat362_code = "7EBB7C9A"
+cheat362_enable = false
+
+cheat363_desc = "[w1]疾风的指轮"
+cheat363_code = "7EBB7C9B"
+cheat363_enable = false
+
+cheat364_desc = "[w1]火龙的指轮"
+cheat364_code = "7EBB7C9C"
+cheat364_enable = false
+
+cheat365_desc = "[w1]大地的指轮"
+cheat365_code = "7EBB7C9D"
+cheat365_enable = false
+
+cheat366_desc = "[w1]冰的指轮"
+cheat366_code = "7EBB7C9E"
+cheat366_enable = false
+
+cheat367_desc = "[w1]圣的指轮"
+cheat367_code = "7EBB7C9F"
+cheat367_enable = false
+
+cheat368_desc = "[w1]死灵的指轮"
+cheat368_code = "7EBB7CA0"
+cheat368_enable = false
+
+cheat369_desc = "[w1]死者的指轮"
+cheat369_code = "7EBB7CA1"
+cheat369_enable = false
+
+cheat370_desc = "[w1]风神的首饰"
+cheat370_code = "7EBB7CA2"
+cheat370_enable = false
+
+cheat371_desc = "[w1]炎神的首饰"
+cheat371_code = "7EBB7CA3"
+cheat371_enable = false
+
+cheat372_desc = "[w1]地神的首饰"
+cheat372_code = "7EBB7CA4"
+cheat372_enable = false
+
+cheat373_desc = "[w1]水神的首饰"
+cheat373_code = "7EBB7CA5"
+cheat373_enable = false
+
+cheat374_desc = "[w1]魔封的首饰"
+cheat374_code = "7EBB7CA6"
+cheat374_enable = false
+
+cheat375_desc = "[w1]红光的首饰"
+cheat375_code = "7EBB7CA7"
+cheat375_enable = false
+
+cheat376_desc = "[w1]青光的首饰"
+cheat376_code = "7EBB7CA8"
+cheat376_enable = false
+
+cheat377_desc = "[w1]放魔的首饰"
+cheat377_code = "7EBB7CA9"
+cheat377_enable = false
+
+cheat378_desc = "[w1]蛮族的角笛"
+cheat378_code = "7EBB7CAA"
+cheat378_enable = false
+
+cheat379_desc = "[w1]人鱼的竖琴"
+cheat379_code = "7EBB7CAB"
+cheat379_enable = false
+
+cheat380_desc = "[w1]火鸟羽"
+cheat380_code = "7EBB7CAC"
+cheat380_enable = false
+
+cheat381_desc = "[w1]龙玉石"
+cheat381_code = "7EBB7CAD"
+cheat381_enable = false
+
+cheat382_desc = "[w1]言灵的石"
+cheat382_code = "7EBB7CAE"
+cheat382_enable = false
+
+cheat383_desc = "[w1]HP50"
+cheat383_code = "7EBB7CAF"
+cheat383_enable = false
+
+cheat384_desc = "[w1]HP100"
+cheat384_code = "7EBB7CB0"
+cheat384_enable = false
+
+cheat385_desc = "[w1]HP150"
+cheat385_code = "7EBB7CB1"
+cheat385_enable = false
+
+cheat386_desc = "[w1]HP全"
+cheat386_code = "7EBB7CB2"
+cheat386_enable = false
+
+cheat387_desc = "[w1]MP25"
+cheat387_code = "7EBB7CB3"
+cheat387_enable = false
+
+cheat388_desc = "[w1]MP50"
+cheat388_code = "7EBB7CB4"
+cheat388_enable = false
+
+cheat389_desc = "[w1]MP100"
+cheat389_code = "7EBB7CB5"
+cheat389_enable = false
+
+cheat390_desc = "[w1]MP全"
+cheat390_code = "7EBB7CB6"
+cheat390_enable = false
+
+cheat391_desc = "[w1]贤者的果实"
+cheat391_code = "7EBB7CB7"
+cheat391_enable = false
+
+cheat392_desc = "[w1]天使的果实"
+cheat392_code = "7EBB7CB8"
+cheat392_enable = false
+
+cheat393_desc = "[w1]腐烂的果实"
+cheat393_code = "7EBB7CB9"
+cheat393_enable = false
+
+cheat394_desc = "[w1]解石化草"
+cheat394_code = "7EBB7CBA"
+cheat394_enable = false
+
+cheat395_desc = "[w1]去毒草"
+cheat395_code = "7EBB7CBB"
+cheat395_enable = false
+
+cheat396_desc = "[w1]果实酒"
+cheat396_code = "7EBB7CBC"
+cheat396_enable = false
+
+cheat397_desc = "[w1]酒"
+cheat397_code = "7EBB7CBD"
+cheat397_enable = false
+
+cheat398_desc = "[w1]精灵的果实"
+cheat398_code = "7EBB7CBE"
+cheat398_enable = false
+
+cheat399_desc = "[w1]祝福的圣石"
+cheat399_code = "7EBB7CBF"
+cheat399_enable = false
+
+cheat400_desc = "[w1]至福的圣石"
+cheat400_code = "7EBB7CC0"
+cheat400_enable = false
+
+cheat401_desc = "[w1]龙的巢"
+cheat401_code = "7EBB7CC1"
+cheat401_enable = false
+
+cheat402_desc = "[w1]人鱼的泪"
+cheat402_code = "7EBB7CC2"
+cheat402_enable = false
+
+cheat403_desc = "[w1]风的珠"
+cheat403_code = "7EBB7CC3"
+cheat403_enable = false
+
+cheat404_desc = "[w1]炎的珠"
+cheat404_code = "7EBB7CC4"
+cheat404_enable = false
+
+cheat405_desc = "[w1]地的珠"
+cheat405_code = "7EBB7CC5"
+cheat405_enable = false
+
+cheat406_desc = "[w1]水的珠"
+cheat406_code = "7EBB7CC6"
+cheat406_enable = false
+
+cheat407_desc = "[w1]光的珠"
+cheat407_code = "7EBB7CC7"
+cheat407_enable = false
+
+cheat408_desc = "[w1]暗的珠"
+cheat408_code = "7EBB7CC8"
+cheat408_enable = false
+
+cheat409_desc = "[w1]火炎之冠"
+cheat409_code = "7EBB7CC9"
+cheat409_enable = false
+
+cheat410_desc = "[w1]STR加10"
+cheat410_code = "7EBB7CCA"
+cheat410_enable = false
+
+cheat411_desc = "[w1]WIT加10"
+cheat411_code = "7EBB7CCB"
+cheat411_enable = false
+
+cheat412_desc = "[w1]INT加10"
+cheat412_code = "7EBB7CCC"
+cheat412_enable = false
+
+cheat413_desc = "[w1]MEN加10"
+cheat413_code = "7EBB7CCD"
+cheat413_enable = false
+
+cheat414_desc = "[w1]转移石"
+cheat414_code = "7EBB7CCE"
+cheat414_enable = false
+
+cheat415_desc = "[w1]玻璃南瓜"
+cheat415_code = "7EBB7CCF"
+cheat415_enable = false
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[血]ON"
+cheat0_code = "0408:A0"
+cheat0_enable = false
+
+cheat1_desc = "[飞刀]ON"
+cheat1_code = "010E:01"
+cheat1_enable = false
+

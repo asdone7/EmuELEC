@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[粉红猴无敌]ON"
+cheat0_code = "7E16EE03"
+cheat0_enable = false
+
+cheat1_desc = "[红帽猴无敌]ON"
+cheat1_code = "7E16C803"
+cheat1_enable = false
+

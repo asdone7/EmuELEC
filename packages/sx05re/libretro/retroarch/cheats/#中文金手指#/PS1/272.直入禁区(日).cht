@@ -1,0 +1,35 @@
+cheats = 8
+
+cheat0_desc = "#无限盾牌"
+cheat0_code = "800FAB18 0002"
+cheat0_enable = false
+
+cheat1_desc = "#Max。火神武器力量"
+cheat1_code = "800F12A0 0002"
+cheat1_enable = false
+
+cheat2_desc = "#Max。激光武器功率"
+cheat2_code = "800F12A2 0002"
+cheat2_enable = false
+
+cheat3_desc = "#Max。突破性武器力量"
+cheat3_code = "800F12A4 0002"
+cheat3_enable = false
+
+cheat4_desc = "#Max。 Ray-B武器力量"
+cheat4_code = "800F12A6 0002"
+cheat4_enable = false
+
+cheat5_desc = "#无限Bgr.S"
+cheat5_code = "800FAB10 0005"
+cheat5_enable = false
+
+cheat6_desc = "#无限船"
+cheat6_code = "800F0F20 00FF"
+cheat6_enable = false
+
+cheat7_desc = "#无敌"
+cheat7_code = "800F58BE 0003"
+cheat7_enable = false
+
+

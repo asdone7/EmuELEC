@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "COMBO"
+cheat0_code = "020477DF 0000000F"
+cheat0_enable = false
+
+cheat1_desc = "血"
+cheat1_code = "020477DE 00000064"
+cheat1_enable = false
+
+

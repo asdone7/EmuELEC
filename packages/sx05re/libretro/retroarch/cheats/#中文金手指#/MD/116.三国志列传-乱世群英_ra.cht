@@ -1,0 +1,582 @@
+cheats = 145
+
+cheat0_desc = "[刘备能力]体力上限"
+cheat0_code = "FFB198:E7+FFB199:03"
+cheat0_enable = false
+
+cheat1_desc = "[刘备能力]体力"
+cheat1_code = "FFB398:E7+FFB399:03"
+cheat1_enable = false
+
+cheat2_desc = "[刘备能力]武力"
+cheat2_code = "FFB598:E7+FFB599:03"
+cheat2_enable = false
+
+cheat3_desc = "[刘备能力]智力"
+cheat3_code = "FFB798:E7+FFB799:03"
+cheat3_enable = false
+
+cheat4_desc = "[刘备能力]率兵力"
+cheat4_code = "FFB998:E7+FFB999:03"
+cheat4_enable = false
+
+cheat5_desc = "[刘备能力]兵力"
+cheat5_code = "FFCB32:10+FFCB33:27"
+cheat5_enable = false
+
+cheat6_desc = "[刘备能力]士气"
+cheat6_code = "FFC5CD:64"
+cheat6_enable = false
+
+cheat7_desc = "[刘备能力]文官级"
+cheat7_code = "FFBF98:E7+FFBF99:03"
+cheat7_enable = false
+
+cheat8_desc = "[刘备能力]武官级"
+cheat8_code = "FFC198:E7+FFC199:03"
+cheat8_enable = false
+
+cheat9_desc = "[刘备能力]最强武器"
+cheat9_code = "FFECEC:03+FFECED:03+FFECEE:00+FFECEF:03"
+cheat9_enable = false
+
+cheat10_desc = "[襄平钱粮兵]最大"
+cheat10_code = "FFE000:0F+FFE001:00+FFE002:3F+FFE003:42+FFE0A0:0F+FFE0A1:00+FFE0A2:3F+FFE0A3:42+FFE500:0F+FFE501:00+FFE502:3F+FFE503:42"
+cheat10_enable = false
+
+cheat11_desc = "[襄平钱粮兵]最小"
+cheat11_code = "FFE000:00+FFE001:00+FFE002:00+FFE003:00+FFE0A0:00+FFE0A1:00+FFE0A2:00+FFE0A3:00+FFE500:00+FFE501:00+FFE502:00+FFE503:00"
+cheat11_enable = false
+
+cheat12_desc = "[蓟县钱粮兵]最大"
+cheat12_code = "FFE004:0F+FFE005:00+FFE006:3F+FFE007:42+FFE0A4:0F+FFE0A5:00+FFE0A6:3F+FFE0A7:42+FFE504:0F+FFE505:00+FFE506:3F+FFE507:42"
+cheat12_enable = false
+
+cheat13_desc = "[蓟县钱粮兵]最小"
+cheat13_code = "FFE004:00+FFE005:00+FFE006:00+FFE007:00+FFE0A4:00+FFE0A5:00+FFE0A6:00+FFE0A7:00+FFE504:00+FFE505:00+FFE506:00+FFE507:00"
+cheat13_enable = false
+
+cheat14_desc = "[代县钱粮兵]最大"
+cheat14_code = "FFE008:0F+FFE009:00+FFE00A:3F+FFE00B:42+FFE0A8:0F+FFE0A9:00+FFE0AA:3F+FFE0AB:42+FFE508:0F+FFE509:00+FFE50A:3F+FFE50B:42"
+cheat14_enable = false
+
+cheat15_desc = "[代县钱粮兵]最小"
+cheat15_code = "FFE008:00+FFE009:00+FFE00A:00+FFE00B:00+FFE0A8:00+FFE0A9:00+FFE0AA:00+FFE0AB:00+FFE508:00+FFE509:00+FFE50A:00+FFE50B:00"
+cheat15_enable = false
+
+cheat16_desc = "[信都钱粮兵]最大"
+cheat16_code = "FFE00C:0F+FFE00D:00+FFE00E:3F+FFE00F:42+FFE0AC:0F+FFE0AD:00+FFE0AE:3F+FFE0AF:42+FFE50C:0F+FFE50D:00+FFE50E:3F+FFE50F:42"
+cheat16_enable = false
+
+cheat17_desc = "[信都钱粮兵]最小"
+cheat17_code = "FFE00C:00+FFE00D:00+FFE00E:00+FFE00F:00+FFE0AC:00+FFE0AD:00+FFE0AE:00+FFE0AF:00+FFE50C:00+FFE50D:00+FFE50E:00+FFE50F:00"
+cheat17_enable = false
+
+cheat18_desc = "[临溜钱粮兵]最大"
+cheat18_code = "FFE010:0F+FFE011:00+FFE012:3F+FFE013:42+FFE0B0:0F+FFE0B1:00+FFE0B2:3F+FFE0B3:42+FFE510:0F+FFE511:00+FFE512:3F+FFE513:42"
+cheat18_enable = false
+
+cheat19_desc = "[临溜钱粮兵]最小"
+cheat19_code = "FFE010:00+FFE011:00+FFE012:00+FFE013:00+FFE0B0:00+FFE0B1:00+FFE0B2:00+FFE0B3:00+FFE510:00+FFE511:00+FFE512:00+FFE513:00"
+cheat19_enable = false
+
+cheat20_desc = "[下邳钱粮兵]最大"
+cheat20_code = "FFE014:0F+FFE015:00+FFE016:3F+FFE017:42+FFE0B4:0F+FFE0B5:00+FFE0B6:3F+FFE0B7:42+FFE514:0F+FFE515:00+FFE516:3F+FFE517:42"
+cheat20_enable = false
+
+cheat21_desc = "[下邳钱粮兵]最小"
+cheat21_code = "FFE014:00+FFE015:00+FFE016:00+FFE017:00+FFE0B4:00+FFE0B5:00+FFE0B6:00+FFE0B7:00+FFE514:00+FFE515:00+FFE516:00+FFE517:00"
+cheat21_enable = false
+
+cheat22_desc = "[濮阳钱粮兵]最大"
+cheat22_code = "FFE018:0F+FFE019:00+FFE01A:3F+FFE01B:42+FFE0B8:0F+FFE0B9:00+FFE0BA:3F+FFE0BB:42+FFE518:0F+FFE519:00+FFE51A:3F+FFE51B:42"
+cheat22_enable = false
+
+cheat23_desc = "[濮阳钱粮兵]最小"
+cheat23_code = "FFE018:00+FFE019:00+FFE01A:00+FFE01B:00+FFE0B8:00+FFE0B9:00+FFE0BA:00+FFE0BB:00+FFE518:00+FFE519:00+FFE51A:00+FFE51B:00"
+cheat23_enable = false
+
+cheat24_desc = "[会稽钱粮兵]最大"
+cheat24_code = "FFE01C:0F+FFE01D:00+FFE01E:3F+FFE01F:42+FFE0BC:0F+FFE0BD:00+FFE0BE:3F+FFE0BF:42+FFE51C:0F+FFE51D:00+FFE51E:3F+FFE51F:42"
+cheat24_enable = false
+
+cheat25_desc = "[会稽钱粮兵]最小"
+cheat25_code = "FFE01C:00+FFE01D:00+FFE01E:00+FFE01F:00+FFE0BC:00+FFE0BD:00+FFE0BE:00+FFE0BF:00+FFE51C:00+FFE51D:00+FFE51E:00+FFE51F:00"
+cheat25_enable = false
+
+cheat26_desc = "[寿春钱粮兵]最大"
+cheat26_code = "FFE020:0F+FFE021:00+FFE022:3F+FFE023:42+FFE0C0:0F+FFE0C1:00+FFE0C2:3F+FFE0C3:42+FFE520:0F+FFE521:00+FFE522:3F+FFE523:42"
+cheat26_enable = false
+
+cheat27_desc = "[寿春钱粮兵]最小"
+cheat27_code = "FFE020:00+FFE021:00+FFE022:00+FFE023:00+FFE0C0:00+FFE0C1:00+FFE0C2:00+FFE0C3:00+FFE520:00+FFE521:00+FFE522:00+FFE523:00"
+cheat27_enable = false
+
+cheat28_desc = "[建安钱粮兵]最大"
+cheat28_code = "FFE024:0F+FFE025:00+FFE026:3F+FFE027:42+FFE0C4:0F+FFE0C5:00+FFE0C6:3F+FFE0C7:42+FFE524:0F+FFE525:00+FFE526:3F+FFE527:42"
+cheat28_enable = false
+
+cheat29_desc = "[建安钱粮兵]最小"
+cheat29_code = "FFE024:00+FFE025:00+FFE026:00+FFE027:00+FFE0C4:00+FFE0C5:00+FFE0C6:00+FFE0C7:00+FFE524:00+FFE525:00+FFE526:00+FFE527:00"
+cheat29_enable = false
+
+cheat30_desc = "[南昌钱粮兵]最大"
+cheat30_code = "FFE028:0F+FFE029:00+FFE02A:3F+FFE02B:42+FFE0C8:0F+FFE0C9:00+FFE0CA:3F+FFE0CB:42+FFE528:0F+FFE529:00+FFE52A:3F+FFE52B:42"
+cheat30_enable = false
+
+cheat31_desc = "[南昌钱粮兵]最小"
+cheat31_code = "FFE028:00+FFE029:00+FFE02A:00+FFE02B:00+FFE0C8:00+FFE0C9:00+FFE0CA:00+FFE0CB:00+FFE528:00+FFE529:00+FFE52A:00+FFE52B:00"
+cheat31_enable = false
+
+cheat32_desc = "[番禺钱粮兵]最大"
+cheat32_code = "FFE02C:0F+FFE02D:00+FFE02E:3F+FFE02F:42+FFE0CC:0F+FFE0CD:00+FFE0CE:3F+FFE0CF:42+FFE52C:0F+FFE52D:00+FFE52E:3F+FFE52F:42"
+cheat32_enable = false
+
+cheat33_desc = "[番禺钱粮兵]最小"
+cheat33_code = "FFE02C:00+FFE02D:00+FFE02E:00+FFE02F:00+FFE0CC:00+FFE0CD:00+FFE0CE:00+FFE0CF:00+FFE52C:00+FFE52D:00+FFE52E:00+FFE52F:00"
+cheat33_enable = false
+
+cheat34_desc = "[晋阳钱粮兵]最大"
+cheat34_code = "FFE030:0F+FFE031:00+FFE032:3F+FFE033:42+FFE0D0:0F+FFE0D1:00+FFE0D2:3F+FFE0D3:42+FFE530:0F+FFE531:00+FFE532:3F+FFE533:42"
+cheat34_enable = false
+
+cheat35_desc = "[晋阳钱粮兵]最小"
+cheat35_code = "FFE030:00+FFE031:00+FFE032:00+FFE033:00+FFE0D0:00+FFE0D1:00+FFE0D2:00+FFE0D3:00+FFE530:00+FFE531:00+FFE532:00+FFE533:00"
+cheat35_enable = false
+
+cheat36_desc = "[洛阳钱粮兵]最大"
+cheat36_code = "FFE034:0F+FFE035:00+FFE036:3F+FFE037:42+FFE0D4:0F+FFE0D5:00+FFE0D6:3F+FFE0D7:42+FFE534:0F+FFE535:00+FFE536:3F+FFE537:42"
+cheat36_enable = false
+
+cheat37_desc = "[洛阳钱粮兵]最小"
+cheat37_code = "FFE034:00+FFE035:00+FFE036:00+FFE037:00+FFE0D4:00+FFE0D5:00+FFE0D6:00+FFE0D7:00+FFE534:00+FFE535:00+FFE536:00+FFE537:00"
+cheat37_enable = false
+
+cheat38_desc = "[安城钱粮兵]最大"
+cheat38_code = "FFE038:0F+FFE039:00+FFE03A:3F+FFE03B:42+FFE0D8:0F+FFE0D9:00+FFE0DA:3F+FFE0DB:42+FFE538:0F+FFE539:00+FFE53A:3F+FFE53B:42"
+cheat38_enable = false
+
+cheat39_desc = "[安城钱粮兵]最小"
+cheat39_code = "FFE038:00+FFE039:00+FFE03A:00+FFE03B:00+FFE0D8:00+FFE0D9:00+FFE0DA:00+FFE0DB:00+FFE538:00+FFE539:00+FFE53A:00+FFE53B:00"
+cheat39_enable = false
+
+cheat40_desc = "[新野钱粮兵]最大"
+cheat40_code = "FFE03C:0F+FFE03D:00+FFE03E:3F+FFE03F:42+FFE0DC:0F+FFE0DD:00+FFE0DE:3F+FFE0DF:42+FFE53C:0F+FFE53D:00+FFE53E:3F+FFE53F:42"
+cheat40_enable = false
+
+cheat41_desc = "[新野钱粮兵]最小"
+cheat41_code = "FFE03C:00+FFE03D:00+FFE03E:00+FFE03F:00+FFE0DC:00+FFE0DD:00+FFE0DE:00+FFE0DF:00+FFE53C:00+FFE53D:00+FFE53E:00+FFE53F:00"
+cheat41_enable = false
+
+cheat42_desc = "[江夏钱粮兵]最大"
+cheat42_code = "FFE040:0F+FFE041:00+FFE042:3F+FFE043:42+FFE0E0:0F+FFE0E1:00+FFE0E2:3F+FFE0E3:42+FFE540:0F+FFE541:00+FFE542:3F+FFE543:42"
+cheat42_enable = false
+
+cheat43_desc = "[江夏钱粮兵]最小"
+cheat43_code = "FFE040:00+FFE041:00+FFE042:00+FFE043:00+FFE0E0:00+FFE0E1:00+FFE0E2:00+FFE0E3:00+FFE540:00+FFE541:00+FFE542:00+FFE543:00"
+cheat43_enable = false
+
+cheat44_desc = "[江陵钱粮兵]最大"
+cheat44_code = "FFE044:0F+FFE045:00+FFE046:3F+FFE047:42+FFE0E4:0F+FFE0E5:00+FFE0E6:3F+FFE0E7:42+FFE544:0F+FFE545:00+FFE546:3F+FFE547:42"
+cheat44_enable = false
+
+cheat45_desc = "[江陵钱粮兵]最小"
+cheat45_code = "FFE044:00+FFE045:00+FFE046:00+FFE047:00+FFE0E4:00+FFE0E5:00+FFE0E6:00+FFE0E7:00+FFE544:00+FFE545:00+FFE546:00+FFE547:00"
+cheat45_enable = false
+
+cheat46_desc = "[临湘钱粮兵]最大"
+cheat46_code = "FFE048:0F+FFE049:00+FFE04A:3F+FFE04B:42+FFE0E8:0F+FFE0E9:00+FFE0EA:3F+FFE0EB:42+FFE548:0F+FFE549:00+FFE54A:3F+FFE54B:42"
+cheat46_enable = false
+
+cheat47_desc = "[临湘钱粮兵]最小"
+cheat47_code = "FFE048:00+FFE049:00+FFE04A:00+FFE04B:00+FFE0E8:00+FFE0E9:00+FFE0EA:00+FFE0EB:00+FFE548:00+FFE549:00+FFE54A:00+FFE54B:00"
+cheat47_enable = false
+
+cheat48_desc = "[合浦钱粮兵]最大"
+cheat48_code = "FFE04C:0F+FFE04D:00+FFE04E:3F+FFE04F:42+FFE0EC:0F+FFE0ED:00+FFE0EE:3F+FFE0EF:42+FFE54C:0F+FFE54D:00+FFE54E:3F+FFE54F:42"
+cheat48_enable = false
+
+cheat49_desc = "[合浦钱粮兵]最小"
+cheat49_code = "FFE04C:00+FFE04D:00+FFE04E:00+FFE04F:00+FFE0EC:00+FFE0ED:00+FFE0EE:00+FFE0EF:00+FFE54C:00+FFE54D:00+FFE54E:00+FFE54F:00"
+cheat49_enable = false
+
+cheat50_desc = "[平阳钱粮兵]最大"
+cheat50_code = "FFE050:0F+FFE051:00+FFE052:3F+FFE053:42+FFE0F0:0F+FFE0F1:00+FFE0F2:3F+FFE0F3:42+FFE550:0F+FFE551:00+FFE552:3F+FFE553:42"
+cheat50_enable = false
+
+cheat51_desc = "[平阳钱粮兵]最小"
+cheat51_code = "FFE050:00+FFE051:00+FFE052:00+FFE053:00+FFE0F0:00+FFE0F1:00+FFE0F2:00+FFE0F3:00+FFE550:00+FFE551:00+FFE552:00+FFE553:00"
+cheat51_enable = false
+
+cheat52_desc = "[临晋钱粮兵]最大"
+cheat52_code = "FFE054:0F+FFE055:00+FFE056:3F+FFE057:42+FFE0F4:0F+FFE0F5:00+FFE0F6:3F+FFE0F7:42+FFE554:0F+FFE555:00+FFE556:3F+FFE557:42"
+cheat52_enable = false
+
+cheat53_desc = "[临晋钱粮兵]最小"
+cheat53_code = "FFE054:00+FFE055:00+FFE056:00+FFE057:00+FFE0F4:00+FFE0F5:00+FFE0F6:00+FFE0F7:00+FFE554:00+FFE555:00+FFE556:00+FFE557:00"
+cheat53_enable = false
+
+cheat54_desc = "[长安钱粮兵]最大"
+cheat54_code = "FFE058:0F+FFE059:00+FFE05A:3F+FFE05B:42+FFE0F8:0F+FFE0F9:00+FFE0FA:3F+FFE0FB:42+FFE558:0F+FFE559:00+FFE55A:3F+FFE55B:42"
+cheat54_enable = false
+
+cheat55_desc = "[长安钱粮兵]最小"
+cheat55_code = "FFE058:00+FFE059:00+FFE05A:00+FFE05B:00+FFE0F8:00+FFE0F9:00+FFE0FA:00+FFE0FB:00+FFE558:00+FFE559:00+FFE55A:00+FFE55B:00"
+cheat55_enable = false
+
+cheat56_desc = "[许昌钱粮兵]最大"
+cheat56_code = "FFE05C:0F+FFE05D:00+FFE05E:3F+FFE05F:42+FFE0FC:0F+FFE0FD:00+FFE0FE:3F+FFE0FF:42+FFE55C:0F+FFE55D:00+FFE55E:3F+FFE55F:42"
+cheat56_enable = false
+
+cheat57_desc = "[许昌钱粮兵]最小"
+cheat57_code = "FFE05C:00+FFE05D:00+FFE05E:00+FFE05F:00+FFE0FC:00+FFE0FD:00+FFE0FE:00+FFE0FF:00+FFE55C:00+FFE55D:00+FFE55E:00+FFE55F:00"
+cheat57_enable = false
+
+cheat58_desc = "[西城钱粮兵]最大"
+cheat58_code = "FFE060:0F+FFE061:00+FFE062:3F+FFE063:42+FFE100:0F+FFE101:00+FFE102:3F+FFE103:42+FFE560:0F+FFE561:00+FFE562:3F+FFE563:42"
+cheat58_enable = false
+
+cheat59_desc = "[西城钱粮兵]最小"
+cheat59_code = "FFE060:00+FFE061:00+FFE062:00+FFE063:00+FFE100:00+FFE101:00+FFE102:00+FFE103:00+FFE560:00+FFE561:00+FFE562:00+FFE563:00"
+cheat59_enable = false
+
+cheat60_desc = "[襄阳钱粮兵]最大"
+cheat60_code = "FFE064:0F+FFE065:00+FFE066:3F+FFE067:42+FFE104:0F+FFE105:00+FFE106:3F+FFE107:42+FFE564:0F+FFE565:00+FFE566:3F+FFE567:42"
+cheat60_enable = false
+
+cheat61_desc = "[襄阳钱粮兵]最小"
+cheat61_code = "FFE064:00+FFE065:00+FFE066:00+FFE067:00+FFE104:00+FFE105:00+FFE106:00+FFE107:00+FFE564:00+FFE565:00+FFE566:00+FFE567:00"
+cheat61_enable = false
+
+cheat62_desc = "[永安钱粮兵]最大"
+cheat62_code = "FFE068:0F+FFE069:00+FFE06A:3F+FFE06B:42+FFE108:0F+FFE109:00+FFE10A:3F+FFE10B:42+FFE568:0F+FFE569:00+FFE56A:3F+FFE56B:42"
+cheat62_enable = false
+
+cheat63_desc = "[永安钱粮兵]最小"
+cheat63_code = "FFE068:00+FFE069:00+FFE06A:00+FFE06B:00+FFE108:00+FFE109:00+FFE10A:00+FFE10B:00+FFE568:00+FFE569:00+FFE56A:00+FFE56B:00"
+cheat63_enable = false
+
+cheat64_desc = "[且兰钱粮兵]最大"
+cheat64_code = "FFE06C:0F+FFE06D:00+FFE06E:3F+FFE06F:42+FFE10C:0F+FFE10D:00+FFE10E:3F+FFE10F:42+FFE56C:0F+FFE56D:00+FFE56E:3F+FFE56F:42"
+cheat64_enable = false
+
+cheat65_desc = "[且兰钱粮兵]最小"
+cheat65_code = "FFE06C:00+FFE06D:00+FFE06E:00+FFE06F:00+FFE10C:00+FFE10D:00+FFE10E:00+FFE10F:00+FFE56C:00+FFE56D:00+FFE56E:00+FFE56F:00"
+cheat65_enable = false
+
+cheat66_desc = "[龙编钱粮兵]最大"
+cheat66_code = "FFE070:0F+FFE071:00+FFE072:3F+FFE073:42+FFE110:0F+FFE111:00+FFE112:3F+FFE113:42+FFE570:0F+FFE571:00+FFE572:3F+FFE573:42"
+cheat66_enable = false
+
+cheat67_desc = "[龙编钱粮兵]最小"
+cheat67_code = "FFE070:00+FFE071:00+FFE072:00+FFE073:00+FFE110:00+FFE111:00+FFE112:00+FFE113:00+FFE570:00+FFE571:00+FFE572:00+FFE573:00"
+cheat67_enable = false
+
+cheat68_desc = "[临泾钱粮兵]最大"
+cheat68_code = "FFE074:0F+FFE075:00+FFE076:3F+FFE077:42+FFE114:0F+FFE115:00+FFE116:3F+FFE117:42+FFE574:0F+FFE575:00+FFE576:3F+FFE577:42"
+cheat68_enable = false
+
+cheat69_desc = "[临泾钱粮兵]最小"
+cheat69_code = "FFE074:00+FFE075:00+FFE076:00+FFE077:00+FFE114:00+FFE115:00+FFE116:00+FFE117:00+FFE574:00+FFE575:00+FFE576:00+FFE577:00"
+cheat69_enable = false
+
+cheat70_desc = "[汉中钱粮兵]最大"
+cheat70_code = "FFE078:0F+FFE079:00+FFE07A:3F+FFE07B:42+FFE118:0F+FFE119:00+FFE11A:3F+FFE11B:42+FFE578:0F+FFE579:00+FFE57A:3F+FFE57B:42"
+cheat70_enable = false
+
+cheat71_desc = "[汉中钱粮兵]最小"
+cheat71_code = "FFE078:00+FFE079:00+FFE07A:00+FFE07B:00+FFE118:00+FFE119:00+FFE11A:00+FFE11B:00+FFE578:00+FFE579:00+FFE57A:00+FFE57B:00"
+cheat71_enable = false
+
+cheat72_desc = "[江州钱粮兵]最大"
+cheat72_code = "FFE07C:0F+FFE07D:00+FFE07E:3F+FFE07F:42+FFE11C:0F+FFE11D:00+FFE11E:3F+FFE11F:42+FFE57C:0F+FFE57D:00+FFE57E:3F+FFE57F:42"
+cheat72_enable = false
+
+cheat73_desc = "[江州钱粮兵]最小"
+cheat73_code = "FFE07C:00+FFE07D:00+FFE07E:00+FFE07F:00+FFE11C:00+FFE11D:00+FFE11E:00+FFE11F:00+FFE57C:00+FFE57D:00+FFE57E:00+FFE57F:00"
+cheat73_enable = false
+
+cheat74_desc = "[宛温钱粮兵]最大"
+cheat74_code = "FFE080:0F+FFE081:00+FFE082:3F+FFE083:42+FFE120:0F+FFE121:00+FFE122:3F+FFE123:42+FFE580:0F+FFE581:00+FFE582:3F+FFE583:42"
+cheat74_enable = false
+
+cheat75_desc = "[宛温钱粮兵]最小"
+cheat75_code = "FFE080:00+FFE081:00+FFE082:00+FFE083:00+FFE120:00+FFE121:00+FFE122:00+FFE123:00+FFE580:00+FFE581:00+FFE582:00+FFE583:00"
+cheat75_enable = false
+
+cheat76_desc = "[姑藏钱粮兵]最大"
+cheat76_code = "FFE084:0F+FFE085:00+FFE086:3F+FFE087:42+FFE124:0F+FFE125:00+FFE126:3F+FFE127:42+FFE584:0F+FFE585:00+FFE586:3F+FFE587:42"
+cheat76_enable = false
+
+cheat77_desc = "[姑藏钱粮兵]最小"
+cheat77_code = "FFE084:00+FFE085:00+FFE086:00+FFE087:00+FFE124:00+FFE125:00+FFE126:00+FFE127:00+FFE584:00+FFE585:00+FFE586:00+FFE587:00"
+cheat77_enable = false
+
+cheat78_desc = "[西都钱粮兵]最大"
+cheat78_code = "FFE088:0F+FFE089:00+FFE08A:3F+FFE08B:42+FFE128:0F+FFE129:00+FFE12A:3F+FFE12B:42+FFE588:0F+FFE589:00+FFE58A:3F+FFE58B:42"
+cheat78_enable = false
+
+cheat79_desc = "[西都钱粮兵]最小"
+cheat79_code = "FFE088:00+FFE089:00+FFE08A:00+FFE08B:00+FFE128:00+FFE129:00+FFE12A:00+FFE12B:00+FFE588:00+FFE589:00+FFE58A:00+FFE58B:00"
+cheat79_enable = false
+
+cheat80_desc = "[襄武钱粮兵]最大"
+cheat80_code = "FFE08C:0F+FFE08D:00+FFE08E:3F+FFE08F:42+FFE12C:0F+FFE12D:00+FFE12E:3F+FFE12F:42+FFE58C:0F+FFE58D:00+FFE58E:3F+FFE58F:42"
+cheat80_enable = false
+
+cheat81_desc = "[襄武钱粮兵]最小"
+cheat81_code = "FFE08C:00+FFE08D:00+FFE08E:00+FFE08F:00+FFE12C:00+FFE12D:00+FFE12E:00+FFE12F:00+FFE58C:00+FFE58D:00+FFE58E:00+FFE58F:00"
+cheat81_enable = false
+
+cheat82_desc = "[成都钱粮兵]最大"
+cheat82_code = "FFE090:0F+FFE091:00+FFE092:3F+FFE093:42+FFE130:0F+FFE131:00+FFE132:3F+FFE133:42+FFE590:0F+FFE591:00+FFE592:3F+FFE593:42"
+cheat82_enable = false
+
+cheat83_desc = "[成都钱粮兵]最小"
+cheat83_code = "FFE090:00+FFE091:00+FFE092:00+FFE093:00+FFE130:00+FFE131:00+FFE132:00+FFE133:00+FFE590:00+FFE591:00+FFE592:00+FFE593:00"
+cheat83_enable = false
+
+cheat84_desc = "[武阳钱粮兵]最大"
+cheat84_code = "FFE094:0F+FFE095:00+FFE096:3F+FFE097:42+FFE134:0F+FFE135:00+FFE136:3F+FFE137:42+FFE594:0F+FFE595:00+FFE596:3F+FFE597:42"
+cheat84_enable = false
+
+cheat85_desc = "[武阳钱粮兵]最小"
+cheat85_code = "FFE094:00+FFE095:00+FFE096:00+FFE097:00+FFE134:00+FFE135:00+FFE136:00+FFE137:00+FFE594:00+FFE595:00+FFE596:00+FFE597:00"
+cheat85_enable = false
+
+cheat86_desc = "[云南钱粮兵]最大"
+cheat86_code = "FFE098:0F+FFE099:00+FFE09A:3F+FFE09B:42+FFE138:0F+FFE139:00+FFE13A:3F+FFE13B:42+FFE598:0F+FFE599:00+FFE59A:3F+FFE59B:42"
+cheat86_enable = false
+
+cheat87_desc = "[云南钱粮兵]最小"
+cheat87_code = "FFE098:00+FFE099:00+FFE09A:00+FFE09B:00+FFE138:00+FFE139:00+FFE13A:00+FFE13B:00+FFE598:00+FFE599:00+FFE59A:00+FFE59B:00"
+cheat87_enable = false
+
+cheat88_desc = "[不韦钱粮兵]最大"
+cheat88_code = "FFE09C:0F+FFE09D:00+FFE09E:3F+FFE09F:42+FFE13C:0F+FFE13D:00+FFE13E:3F+FFE13F:42+FFE59C:0F+FFE59D:00+FFE59E:3F+FFE59F:42"
+cheat88_enable = false
+
+cheat89_desc = "[不韦钱粮兵]最小"
+cheat89_code = "FFE09C:00+FFE09D:00+FFE09E:00+FFE09F:00+FFE13C:00+FFE13D:00+FFE13E:00+FFE13F:00+FFE59C:00+FFE59D:00+FFE59E:00+FFE59F:00"
+cheat89_enable = false
+
+cheat90_desc = "[城市满内政]襄平"
+cheat90_code = "FFE142:0F+FFE143:27+FFE1E2:E7+FFE1E3:03+FFE322:64+FFE5A2:64"
+cheat90_enable = false
+
+cheat91_desc = "[城市满内政]蓟县"
+cheat91_code = "FFE146:0F+FFE147:27+FFE1E6:E7+FFE1E7:03+FFE326:64+FFE5A6:64"
+cheat91_enable = false
+
+cheat92_desc = "[城市满内政]代县"
+cheat92_code = "FFE14A:0F+FFE14B:27+FFE1EA:E7+FFE1EB:03+FFE32A:64+FFE5AA:64"
+cheat92_enable = false
+
+cheat93_desc = "[城市满内政]信都"
+cheat93_code = "FFE14E:0F+FFE14F:27+FFE1EE:E7+FFE1EF:03+FFE32E:64+FFE5AE:64"
+cheat93_enable = false
+
+cheat94_desc = "[城市满内政]临溜"
+cheat94_code = "FFE152:0F+FFE153:27+FFE1F2:E7+FFE1F3:03+FFE332:64+FFE5B2:64"
+cheat94_enable = false
+
+cheat95_desc = "[城市满内政]下邳"
+cheat95_code = "FFE156:0F+FFE157:27+FFE1F6:E7+FFE1F7:03+FFE336:64+FFE5B6:64"
+cheat95_enable = false
+
+cheat96_desc = "[城市满内政]濮阳"
+cheat96_code = "FFE15A:0F+FFE15B:27+FFE1FA:E7+FFE1FB:03+FFE33A:64+FFE5BA:64"
+cheat96_enable = false
+
+cheat97_desc = "[城市满内政]会稽"
+cheat97_code = "FFE15E:0F+FFE15F:27+FFE1FE:E7+FFE1FF:03+FFE33E:64+FFE5BE:64"
+cheat97_enable = false
+
+cheat98_desc = "[城市满内政]寿春"
+cheat98_code = "FFE162:0F+FFE163:27+FFE202:E7+FFE203:03+FFE342:64+FFE5C2:64"
+cheat98_enable = false
+
+cheat99_desc = "[城市满内政]建安"
+cheat99_code = "FFE166:0F+FFE167:27+FFE206:E7+FFE207:03+FFE346:64+FFE5C6:64"
+cheat99_enable = false
+
+cheat100_desc = "[城市满内政]南昌"
+cheat100_code = "FFE16A:0F+FFE16B:27+FFE20A:E7+FFE20B:03+FFE34A:64+FFE5CA:64"
+cheat100_enable = false
+
+cheat101_desc = "[城市满内政]番禺"
+cheat101_code = "FFE16E:0F+FFE16F:27+FFE20E:E7+FFE20F:03+FFE34E:64+FFE5CE:64"
+cheat101_enable = false
+
+cheat102_desc = "[城市满内政]晋阳"
+cheat102_code = "FFE172:0F+FFE173:27+FFE212:E7+FFE213:03+FFE352:64+FFE5D2:64"
+cheat102_enable = false
+
+cheat103_desc = "[城市满内政]洛阳"
+cheat103_code = "FFE176:0F+FFE177:27+FFE216:E7+FFE217:03+FFE356:64+FFE5D6:64"
+cheat103_enable = false
+
+cheat104_desc = "[城市满内政]安城"
+cheat104_code = "FFE17A:0F+FFE17B:27+FFE21A:E7+FFE21B:03+FFE35A:64+FFE5DA:64"
+cheat104_enable = false
+
+cheat105_desc = "[城市满内政]新野"
+cheat105_code = "FFE17E:0F+FFE17F:27+FFE21E:E7+FFE21F:03+FFE35E:64+FFE5DE:64"
+cheat105_enable = false
+
+cheat106_desc = "[城市满内政]江夏"
+cheat106_code = "FFE182:0F+FFE183:27+FFE222:E7+FFE223:03+FFE362:64+FFE5E2:64"
+cheat106_enable = false
+
+cheat107_desc = "[城市满内政]江陵"
+cheat107_code = "FFE186:0F+FFE187:27+FFE226:E7+FFE227:03+FFE366:64+FFE5E6:64"
+cheat107_enable = false
+
+cheat108_desc = "[城市满内政]临湘"
+cheat108_code = "FFE18A:0F+FFE18B:27+FFE22A:E7+FFE22B:03+FFE36A:64+FFE5EA:64"
+cheat108_enable = false
+
+cheat109_desc = "[城市满内政]合浦"
+cheat109_code = "FFE18E:0F+FFE18F:27+FFE22E:E7+FFE22F:03+FFE36E:64+FFE5EE:64"
+cheat109_enable = false
+
+cheat110_desc = "[城市满内政]平阳"
+cheat110_code = "FFE192:0F+FFE193:27+FFE232:E7+FFE233:03+FFE372:64+FFE5F2:64"
+cheat110_enable = false
+
+cheat111_desc = "[城市满内政]临晋"
+cheat111_code = "FFE196:0F+FFE197:27+FFE236:E7+FFE237:03+FFE376:64+FFE5F6:64"
+cheat111_enable = false
+
+cheat112_desc = "[城市满内政]长安"
+cheat112_code = "FFE19A:0F+FFE19B:27+FFE23A:E7+FFE23B:03+FFE37A:64+FFE5FA:64"
+cheat112_enable = false
+
+cheat113_desc = "[城市满内政]许昌"
+cheat113_code = "FFE19E:0F+FFE19F:27+FFE23E:E7+FFE23F:03+FFE37E:64+FFE5FE:64"
+cheat113_enable = false
+
+cheat114_desc = "[城市满内政]西城"
+cheat114_code = "FFE1A2:0F+FFE1A3:27+FFE242:E7+FFE243:03+FFE382:64+FFE602:64"
+cheat114_enable = false
+
+cheat115_desc = "[城市满内政]襄阳"
+cheat115_code = "FFE1A6:0F+FFE1A7:27+FFE246:E7+FFE247:03+FFE386:64+FFE606:64"
+cheat115_enable = false
+
+cheat116_desc = "[城市满内政]永安"
+cheat116_code = "FFE1AA:0F+FFE1AB:27+FFE24A:E7+FFE24B:03+FFE38A:64+FFE60A:64"
+cheat116_enable = false
+
+cheat117_desc = "[城市满内政]且兰"
+cheat117_code = "FFE1AE:0F+FFE1AF:27+FFE24E:E7+FFE24F:03+FFE38E:64+FFE60E:64"
+cheat117_enable = false
+
+cheat118_desc = "[城市满内政]龙编"
+cheat118_code = "FFE1B2:0F+FFE1B3:27+FFE252:E7+FFE253:03+FFE392:64+FFE612:64"
+cheat118_enable = false
+
+cheat119_desc = "[城市满内政]临泾"
+cheat119_code = "FFE1B6:0F+FFE1B7:27+FFE256:E7+FFE257:03+FFE396:64+FFE616:64"
+cheat119_enable = false
+
+cheat120_desc = "[城市满内政]汉中"
+cheat120_code = "FFE1BA:0F+FFE1BB:27+FFE25A:E7+FFE25B:03+FFE39A:64+FFE61A:64"
+cheat120_enable = false
+
+cheat121_desc = "[城市满内政]江州"
+cheat121_code = "FFE1BE:0F+FFE1BF:27+FFE25E:E7+FFE25F:03+FFE39E:64+FFE61E:64"
+cheat121_enable = false
+
+cheat122_desc = "[城市满内政]宛温"
+cheat122_code = "FFE1C2:0F+FFE1C3:27+FFE262:E7+FFE263:03+FFE3A2:64+FFE622:64"
+cheat122_enable = false
+
+cheat123_desc = "[城市满内政]姑藏"
+cheat123_code = "FFE1C6:0F+FFE1C7:27+FFE266:E7+FFE267:03+FFE3A6:64+FFE626:64"
+cheat123_enable = false
+
+cheat124_desc = "[城市满内政]西都"
+cheat124_code = "FFE1CA:0F+FFE1CB:27+FFE26A:E7+FFE26B:03+FFE3AA:64+FFE62A:64"
+cheat124_enable = false
+
+cheat125_desc = "[城市满内政]襄武"
+cheat125_code = "FFE1CE:0F+FFE1CF:27+FFE26E:E7+FFE26F:03+FFE3AE:64+FFE62E:64"
+cheat125_enable = false
+
+cheat126_desc = "[城市满内政]成都"
+cheat126_code = "FFE1D2:0F+FFE1D3:27+FFE272:E7+FFE273:03+FFE3B2:64+FFE632:64"
+cheat126_enable = false
+
+cheat127_desc = "[城市满内政]武阳"
+cheat127_code = "FFE1D6:0F+FFE1D7:27+FFE276:E7+FFE277:03+FFE3B6:64+FFE636:64"
+cheat127_enable = false
+
+cheat128_desc = "[城市满内政]云南"
+cheat128_code = "FFE1DA:0F+FFE1DB:27+FFE27A:E7+FFE27B:03+FFE3BA:64+FFE63A:64"
+cheat128_enable = false
+
+cheat129_desc = "[城市满内政]不韦"
+cheat129_code = "FFE1DE:0F+FFE1DF:27+FFE27E:E7+FFE27F:03+FFE3BE:64+FFE63E:64"
+cheat129_enable = false
+
+cheat130_desc = "[君主选择]公孙瓒"
+cheat130_code = "FFF67A:00"
+cheat130_enable = false
+
+cheat131_desc = "[君主选择]刘备"
+cheat131_code = "FFF67A:01"
+cheat131_enable = false
+
+cheat132_desc = "[君主选择]袁绍"
+cheat132_code = "FFF67A:02"
+cheat132_enable = false
+
+cheat133_desc = "[君主选择]孔融"
+cheat133_code = "FFF67A:03"
+cheat133_enable = false
+
+cheat134_desc = "[君主选择]陶谦"
+cheat134_code = "FFF67A:04"
+cheat134_enable = false
+
+cheat135_desc = "[君主选择]曹操"
+cheat135_code = "FFF67A:05"
+cheat135_enable = false
+
+cheat136_desc = "[君主选择]王朗"
+cheat136_code = "FFF67A:06"
+cheat136_enable = false
+
+cheat137_desc = "[君主选择]董卓"
+cheat137_code = "FFF67A:07"
+cheat137_enable = false
+
+cheat138_desc = "[君主选择]刘表"
+cheat138_code = "FFF67A:08"
+cheat138_enable = false
+
+cheat139_desc = "[君主选择]袁术"
+cheat139_code = "FFF67A:09"
+cheat139_enable = false
+
+cheat140_desc = "[君主选择]孙坚/孙权"
+cheat140_code = "FFF67A:0A"
+cheat140_enable = false
+
+cheat141_desc = "[君主选择]张鲁"
+cheat141_code = "FFF67A:0B"
+cheat141_enable = false
+
+cheat142_desc = "[君主选择]刘焉/刘璋"
+cheat142_code = "FFF67A:0C"
+cheat142_enable = false
+
+cheat143_desc = "[君主选择]马腾"
+cheat143_code = "FFF67A:0D"
+cheat143_enable = false
+
+cheat144_desc = "[君主选择]观看模式"
+cheat144_code = "FFF67A:0E"
+cheat144_enable = false
+

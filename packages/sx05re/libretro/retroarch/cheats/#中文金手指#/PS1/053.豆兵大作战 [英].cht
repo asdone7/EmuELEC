@@ -1,0 +1,439 @@
+cheats = 109
+
+cheat0_desc = "#无限健康"
+cheat0_code = "800C8620 10F0"
+cheat0_enable = false
+
+cheat1_desc = "#最大健康"
+cheat1_code = "800C8622 10F0"
+cheat1_enable = false
+
+cheat2_desc = "#时间是0:00:00"
+cheat2_code = "800C85C0 0000"
+cheat2_enable = false
+
+cheat3_desc = "#Max Zenny / Money"
+cheat3_code = "800C85CC 967F+800C85CE 0098"
+cheat3_enable = false
+
+cheat4_desc = "#完成所有任务"
+cheat4_code = "50000601 0000+300A6095 0003"
+cheat4_enable = false
+
+cheat5_desc = "#1-打败警察任务1-2"
+cheat5_code = "D00C9346 0060+800C9346 0000"
+cheat5_enable = false
+
+cheat6_desc = "#1-击中BIG Reaverbot任务3-1"
+cheat6_code = "D00C9346 0040+800C9346 0000+1命中率击败Reaverbot Nest任务3-2+D009F78E 0018+8009F78E 0000"
+cheat6_enable = false
+
+cheat7_desc = "#1击中最后的高卢人任务3"
+cheat7_code = "D00C9346 00A0+800C9346 0000+1命中率击败Glyde Intro任务+D00C9346 0180+800C9346 0000"
+cheat7_enable = false
+
+cheat8_desc = "#1-命中击败格莱德的最终任务"
+cheat8_code = "D00C990E 0400+800C990E 0001"
+cheat8_enable = false
+
+cheat9_desc = "#1-命中击败巨人最后一战"
+cheat9_code = "D1200C9346 1200+800C9346 0000"
+cheat9_enable = false
+
+cheat10_desc = "#无限牛与卡车的能源任务5-2"
+cheat10_code = "D009F78E 0021+8009F78E 0030+D009F78E 0012+8009F78E 0030+D009F78E 0003+8009F78E 0030"
+cheat10_enable = false
+
+cheat11_desc = "#启用服务机器人41"
+cheat11_code = "800F2142 0029+D00C8148 0100+800F2184 0028"
+cheat11_enable = false
+
+cheat12_desc = "#Max Attack-ServBots"
+cheat12_code = "50002808 0000+300CB540 00FF"
+cheat12_enable = false
+
+cheat13_desc = "#Max Brains-ServBots"
+cheat13_code = "50002808 0000+300CB541 00FF"
+cheat13_enable = false
+
+cheat14_desc = "#解锁Teisel的房间"
+cheat14_code = "300A60AE 0001"
+cheat14_enable = false
+
+cheat15_desc = "#解锁酷刑室"
+cheat15_code = "300A60AC 0001"
+cheat15_enable = false
+
+cheat16_desc = "#解锁特隆的房间"
+cheat16_code = "300A60AD 0001"
+cheat16_enable = false
+
+cheat17_desc = "#无限时间任务1"
+cheat17_code = "800C85E4 0000"
+cheat17_enable = false
+
+cheat18_desc = "#无限青苹果"
+cheat18_code = "300C880C 0063"
+cheat18_enable = false
+
+cheat19_desc = "#Infinite E.Bottle 1"
+cheat19_code = "300C880D 0063"
+cheat19_enable = false
+
+cheat20_desc = "#Infinite E.Bottle 2"
+cheat20_code = "300C880E 0063"
+cheat20_enable = false
+
+cheat21_desc = "#Infinite E.Bottle 3"
+cheat21_code = "300C880F 0063"
+cheat21_enable = false
+
+cheat22_desc = "#Infinite E.Bottle 4"
+cheat22_code = "300C8810 0063"
+cheat22_enable = false
+
+cheat23_desc = "#无限猪肉"
+cheat23_code = "300C881B 0063"
+cheat23_enable = false
+
+cheat24_desc = "#无限鱼"
+cheat24_code = "300C881C 0063"
+cheat24_enable = false
+
+cheat25_desc = "#无限苹果"
+cheat25_code = "300C881D 0063"
+cheat25_enable = false
+
+cheat26_desc = "#无限咖喱"
+cheat26_code = "300C881E 0063"
+cheat26_enable = false
+
+cheat27_desc = "#无限汉堡"
+cheat27_code = "300C881F 0063"
+cheat27_enable = false
+
+cheat28_desc = "#无限果汁"
+cheat28_code = "300C8820 0063"
+cheat28_enable = false
+
+cheat29_desc = "#无限蛋糕"
+cheat29_code = "300C8821 0063"
+cheat29_enable = false
+
+cheat30_desc = "#无限轮胎"
+cheat30_code = "300C8822 0063"
+cheat30_enable = false
+
+cheat31_desc = "#无限警灯"
+cheat31_code = "300C8823 0063"
+cheat31_enable = false
+
+cheat32_desc = "#无限防暴盾牌"
+cheat32_code = "300C8824 0063"
+cheat32_enable = false
+
+cheat33_desc = "#无限漫画"
+cheat33_code = "300C8825 0063"
+cheat33_enable = false
+
+cheat34_desc = "#无限帽子"
+cheat34_code = "300C8826 0063"
+cheat34_enable = false
+
+cheat35_desc = "#无限鸡"
+cheat35_code = "300C8827 0063"
+cheat35_enable = false
+
+cheat36_desc = "#无限字母"
+cheat36_code = "300C8828 0063"
+cheat36_enable = false
+
+cheat37_desc = "#无限扇贝"
+cheat37_code = "300C8829 0063"
+cheat37_enable = false
+
+cheat38_desc = "#无限环"
+cheat38_code = "300C882A 0063"
+cheat38_enable = false
+
+cheat39_desc = "#无限壳"
+cheat39_code = "300C882B 0063"
+cheat39_enable = false
+
+cheat40_desc = "#无限午餐盒"
+cheat40_code = "300C882C 0063"
+cheat40_enable = false
+
+cheat41_desc = "#无限牛排"
+cheat41_code = "300C8832 0063"
+cheat41_enable = false
+
+cheat42_desc = "#无限猪"
+cheat42_code = "300C8833 0063"
+cheat42_enable = false
+
+cheat43_desc = "#无限兔子"
+cheat43_code = "300C8834 0063"
+cheat43_enable = false
+
+cheat44_desc = "#无限牛"
+cheat44_code = "300C8835 0063"
+cheat44_enable = false
+
+cheat45_desc = "#无限黑种马"
+cheat45_code = "300C8837 0063"
+cheat45_enable = false
+
+cheat46_desc = "#无限马"
+cheat46_code = "300C8838 0063"
+cheat46_enable = false
+
+cheat47_desc = "#Infinite Birdbot"
+cheat47_code = "300C8839 0063"
+cheat47_enable = false
+
+cheat48_desc = "#无限牛奶"
+cheat48_code = "300C883A 0063"
+cheat48_enable = false
+
+cheat49_desc = "#无限奶酪"
+cheat49_code = "300C883B 0063"
+cheat49_enable = false
+
+cheat50_desc = "#无限酸奶"
+cheat50_code = "300C883C 0063"
+cheat50_enable = false
+
+cheat51_desc = "#无限冰淇淋"
+cheat51_code = "300C883D 0063"
+cheat51_enable = false
+
+cheat52_desc = "#无限马蹄"
+cheat52_code = "300C883E 0063"
+cheat52_enable = false
+
+cheat53_desc = "#无限牛肉"
+cheat53_code = "300C883F 0063"
+cheat53_enable = false
+
+cheat54_desc = "#无限管道"
+cheat54_code = "300C8845 0063"
+cheat54_enable = false
+
+cheat55_desc = "#无限烟花"
+cheat55_code = "300C8846 0063"
+cheat55_enable = false
+
+cheat56_desc = "#无限铁板"
+cheat56_code = "300C8847 0063"
+cheat56_enable = false
+
+cheat57_desc = "#无限锂"
+cheat57_code = "300C8848 0063"
+cheat57_enable = false
+
+cheat58_desc = "#无限高密度坦克"
+cheat58_code = "300C8849 0063"
+cheat58_enable = false
+
+cheat59_desc = "#无限瓶笔记"
+cheat59_code = "300C884A 0063"
+cheat59_enable = false
+
+cheat60_desc = "#无限生锈的坦克"
+cheat60_code = "300C884B 0063"
+cheat60_enable = false
+
+cheat61_desc = "#无限攻击立方"
+cheat61_code = "300C884C 0063"
+cheat61_enable = false
+
+cheat62_desc = "#无限脑立方"
+cheat62_code = "300C884D 0063"
+cheat62_enable = false
+
+cheat63_desc = "#Infinite Speed Cube"
+cheat63_code = "300C884E 0063"
+cheat63_enable = false
+
+cheat64_desc = "#无限能量立方"
+cheat64_code = "300C884F 0063"
+cheat64_enable = false
+
+cheat65_desc = "#无限卡密钥"
+cheat65_code = "300C8850 0063"
+cheat65_enable = false
+
+cheat66_desc = "#无限门钥匙"
+cheat66_code = "300C8851 0063"
+cheat66_enable = false
+
+cheat67_desc = "#无限房间钥匙"
+cheat67_code = "300C8852 0063"
+cheat67_enable = false
+
+cheat68_desc = "#无限蓝水晶"
+cheat68_code = "300C8853 0063"
+cheat68_enable = false
+
+cheat69_desc = "#无限绿色水晶"
+cheat69_code = "300C8854 0063"
+cheat69_enable = false
+
+cheat70_desc = "#无限粉红水晶"
+cheat70_code = "300C8855 0063"
+cheat70_enable = false
+
+cheat71_desc = "#无限超级演练"
+cheat71_code = "300C8856 0063"
+cheat71_enable = false
+
+cheat72_desc = "#Infinite Hyper Drill"
+cheat72_code = "300C8857 0063"
+cheat72_enable = false
+
+cheat73_desc = "#无限耐火矿石"
+cheat73_code = "300C8858 0063"
+cheat73_enable = false
+
+cheat74_desc = "#无限金融书"
+cheat74_code = "300C8859 0063"
+cheat74_enable = false
+
+cheat75_desc = "#无限美丽书"
+cheat75_code = "300C885A 0063"
+cheat75_enable = false
+
+cheat76_desc = "#无限大炮"
+cheat76_code = "300C885B 0063"
+cheat76_enable = false
+
+cheat77_desc = "#Infinite Paint Set"
+cheat77_code = "300C885C 0063"
+cheat77_enable = false
+
+cheat78_desc = "#无限诗集"
+cheat78_code = "300C885D 0063"
+cheat78_enable = false
+
+cheat79_desc = "#无限策略注释"
+cheat79_code = "300C885E 0063"
+cheat79_enable = false
+
+cheat80_desc = "#无限设计杂志"
+cheat80_code = "300C885F 0063"
+cheat80_enable = false
+
+cheat81_desc = "#无限红头零件"
+cheat81_code = "300C8861 0063"
+cheat81_enable = false
+
+cheat82_desc = "#无限的旧乐器"
+cheat82_code = "300C886A 0063"
+cheat82_enable = false
+
+cheat83_desc = "#无限装载机零件"
+cheat83_code = "300C886B 0063"
+cheat83_enable = false
+
+cheat84_desc = "#无限纪念"
+cheat84_code = "300C886C 0063"
+cheat84_enable = false
+
+cheat85_desc = "#无限的Bon部分"
+cheat85_code = "300C886D 0063"
+cheat85_enable = false
+
+cheat86_desc = "#无限文件管理器"
+cheat86_code = "300C886E 0063"
+cheat86_enable = false
+
+cheat87_desc = "#无限隐形眼镜"
+cheat87_code = "300C886F 0063"
+cheat87_enable = false
+
+cheat88_desc = "#无限手帕"
+cheat88_code = "300C8870 0063"
+cheat88_enable = false
+
+cheat89_desc = "#无限古代手枪"
+cheat89_code = "300C8871 0063"
+cheat89_enable = false
+
+cheat90_desc = "#无限坦克零件"
+cheat90_code = "300C8879 0063"
+cheat90_enable = false
+
+cheat91_desc = "#无限火箭筒零件"
+cheat91_code = "300C887A 0063"
+cheat91_enable = false
+
+cheat92_desc = "#无限加特林零件"
+cheat92_code = "300C887B 0063"
+cheat92_enable = false
+
+cheat93_desc = "#无限装甲零件"
+cheat93_code = "300C887C 0063"
+cheat93_enable = false
+
+cheat94_desc = "#无限搜索大炮"
+cheat94_code = "300C887D 0063"
+cheat94_enable = false
+
+cheat95_desc = "#无限Bonne火箭筒"
+cheat95_code = "300C887E 0063"
+cheat95_enable = false
+
+cheat96_desc = "#无限加特林机枪"
+cheat96_code = "300C887F 0063"
+cheat96_enable = false
+
+cheat97_desc = "#无限护甲"
+cheat97_code = "300C8880 0063"
+cheat97_enable = false
+
+cheat98_desc = "#无限硬甲"
+cheat98_code = "300C8881 0063"
+cheat98_enable = false
+
+cheat99_desc = "#无限E.坦克1"
+cheat99_code = "300C8882 0063"
+cheat99_enable = false
+
+cheat100_desc = "#无限E.坦克2"
+cheat100_code = "300C8883 0063"
+cheat100_enable = false
+
+cheat101_desc = "#无限E.坦克3"
+cheat101_code = "300C8884 0063"
+cheat101_enable = false
+
+cheat102_desc = "#无限E.坦克4"
+cheat102_code = "300C8885 0063"
+cheat102_enable = false
+
+cheat103_desc = "#无限E.坦克5"
+cheat103_code = "300C8886 0063"
+cheat103_enable = false
+
+cheat104_desc = "#无限E.坦克6"
+cheat104_code = "300C8887 0063"
+cheat104_enable = false
+
+cheat105_desc = "#无限E.坦克7"
+cheat105_code = "300C8888 0063"
+cheat105_enable = false
+
+cheat106_desc = "#无限E.坦克P"
+cheat106_code = "300C8889 0063"
+cheat106_enable = false
+
+cheat107_desc = "#拥有所有物品"
+cheat107_code = "50000502 0000+300C880C 0063+50001202 0000+300C881B 0063+50000402 0000+300C8832 0063+50000902 0000+300C8837 0063+50001B02 0000+300C8845 0063+300C8861 0063+50000802 0000+300C886A 0063+50001102 0000+300C8879 0063"
+cheat107_enable = false
+
+cheat108_desc = "#Max Training Training Select中的最高分"
+cheat108_code = "D00C8146 0001+300F2A9A 0063"
+cheat108_enable = false
+
+

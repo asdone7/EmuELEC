@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[飞镖]ON"
+cheat0_code = "FF37E2:FF"
+cheat0_enable = false
+
+cheat1_desc = "[HP]ON"
+cheat1_code = "FF37E8:10"
+cheat1_enable = false
+
+cheat2_desc = "[忍术]ON"
+cheat2_code = "FF37E7:03"
+cheat2_enable = false
+

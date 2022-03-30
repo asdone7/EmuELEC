@@ -1,0 +1,95 @@
+cheats = 23
+
+cheat0_desc = "#无限健康"
+cheat0_code = "800970FC 2020"
+cheat0_enable = false
+
+cheat1_desc = "#Hp压力表已满"
+cheat1_code = "300CCF2B 0040"
+cheat1_enable = false
+
+cheat2_desc = "#无限的生命"
+cheat2_code = "800CCF08 0900"
+cheat2_enable = false
+
+cheat3_desc = "#拥有所有武器"
+cheat3_code = "30097169 00FF"
+cheat3_enable = false
+
+cheat4_desc = "#无关卡时间"
+cheat4_code = "800CCF60 0000"
+cheat4_enable = false
+
+cheat5_desc = "#无限所有武器"
+cheat5_code = "50000802 0000+8009714A 0168"
+cheat5_enable = false
+
+cheat6_desc = "#拥有一切灵魂（HU排名）"
+cheat6_code = "800CCFA2 270F"
+cheat6_enable = false
+
+cheat7_desc = "#拥有所有装甲零件"
+cheat7_code = "800CCF38 FF01"
+cheat7_enable = false
+
+cheat8_desc = "#挽救所有的副本"
+cheat8_code = "50002002 0000+800CCFA8 2222"
+cheat8_enable = false
+
+cheat9_desc = "#拥有所有护甲并启用黑色护甲零"
+cheat9_code = "300CCF2F 003F"
+cheat9_enable = false
+
+cheat10_desc = "#Level Sky Lagoon选择游戏从主屏幕开始，在介绍场景之后，而不是转到Intro Level（Sky Lagoon），您将被带到水平"
+cheat10_code = "301721CC 0000"
+cheat10_enable = false
+
+cheat11_desc = "#Level丛林选择游戏从主屏幕开始，在介绍场景之后，而不是转到介绍级别（天空泻湖），您将被带到水平"
+cheat11_code = "301721CC 0001"
+cheat11_enable = false
+
+cheat12_desc = "#Level Snow Base选择Game从主标题屏幕开始，在介绍场景之后，而不是转到Intro Level（Sky Lagoon），您将被带到水平"
+cheat12_code = "301721CC 0002"
+cheat12_enable = false
+
+cheat13_desc = "#Level生物实验室选择“游戏”，从主屏幕开始，在介绍场景之后，而不是转到介绍级别（天空泻湖），您将被带到水平"
+cheat13_code = "301721CC 0003"
+cheat13_enable = false
+
+cheat14_desc = "#Level Volcano选择游戏从主标题屏幕开始，在介绍场面之后，而不是转到介绍层面（天空泻湖），您将被带到水平"
+cheat14_code = "301721CC 0004"
+cheat14_enable = false
+
+cheat15_desc = "#Level Marine Base选择Game从主标题屏幕开始，在介绍场景之后，而不是转到Intro Level（Sky Lagoon），您将被带到水平"
+cheat15_code = "301721CC 0005"
+cheat15_enable = false
+
+cheat16_desc = "#Level Cyber​​ Space选择Game从主标题屏幕开始，在介绍场景之后，而不是转到Intro Level（Sky Lagoon），您将被带到水平"
+cheat16_code = "301721CC 0006"
+cheat16_enable = false
+
+cheat17_desc = "#Level Air Force在主标题屏幕上选择Game Start，在介绍场景之后，而不是转到Intro Level（Sky Lagoon），您将被带到水平"
+cheat17_code = "301721CC 0007"
+cheat17_enable = false
+
+cheat18_desc = "#Level Military Train选择Game从主标题屏幕开始，在介绍场面之后，而不是转到Intro Level（Sky Lagoon），您将被带到水平"
+cheat18_code = "301721CC 0008"
+cheat18_enable = false
+
+cheat19_desc = "#Level Memorial Hall选择Game从主标题屏幕开始，在介绍场景之后，而不是转到Intro Level（Sky Lagoon），您将被带到水平"
+cheat19_code = "301721CC 0009"
+cheat19_enable = false
+
+cheat20_desc = "#Level Spaceport选择Game从主标题屏幕开始，在介绍场景之后，而不是转到Intro Level（Sky Lagoon），您将被带到水平"
+cheat20_code = "301721CC 000A"
+cheat20_enable = false
+
+cheat21_desc = "#Level Final Weapon选择游戏从主标题屏幕开始，在介绍性场景结束后，您无需进入介绍性关卡（天空泻湖）"
+cheat21_code = "301721CC 000B"
+cheat21_enable = false
+
+cheat22_desc = "#Level最终武器：第二部分，选择“游戏开始于主标题”屏幕，在介绍性场景之后，您无需进入介绍性关卡（Sky Lagoon），就可以进入"
+cheat22_code = "301721CC 000C"
+cheat22_enable = false
+
+

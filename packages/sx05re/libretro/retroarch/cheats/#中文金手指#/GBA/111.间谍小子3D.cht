@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "Infinite Lives"
+cheat0_code = "04000800 0000000A+All Moves+040003B0 00000001+All Levels Open (Finish One level To Ativate)+0400039C 0000000C+All 3D Gallery Pic+14000AD4 0000FFFF"
+cheat0_enable = false
+
+

@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[Energie Infinie]On"
+cheat0_code = "1F17C9:05"
+cheat0_enable = false
+
+cheat1_desc = "[Armes Puissance Max]On"
+cheat1_code = "1F0B78:0F"
+cheat1_enable = false
+
+cheat2_desc = "[Avoir les 2 Clones]On"
+cheat2_code = "1F184C:03"
+cheat2_enable = false
+

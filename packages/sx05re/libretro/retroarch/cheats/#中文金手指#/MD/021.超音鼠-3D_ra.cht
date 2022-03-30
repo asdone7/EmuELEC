@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[RINGS] ON"
+cheat0_code = "FF0A56:99 "
+cheat0_enable = false
+
+cheat1_desc = "[生命不减] ON"
+cheat1_code = "FF0680:9 "
+cheat1_enable = false
+

@@ -1,0 +1,38 @@
+cheats = 9
+
+cheat0_desc = "[无影手]ON"
+cheat0_code = "0446:84"
+cheat0_enable = false
+
+cheat1_desc = "[P1 生命数]ON"
+cheat1_code = "0432:09"
+cheat1_enable = false
+
+cheat2_desc = "[P1 体力格]ON"
+cheat2_code = "041E:7F"
+cheat2_enable = false
+
+cheat3_desc = "[P1 透明]OFF"
+cheat3_code = "03CC:01"
+cheat3_enable = false
+
+cheat4_desc = "[P1 透明]ON"
+cheat4_code = "03CC:00"
+cheat4_enable = false
+
+cheat5_desc = "[P2 生命数]ON"
+cheat5_code = "0433:09"
+cheat5_enable = false
+
+cheat6_desc = "[P2 体力格]ON"
+cheat6_code = "041F:7F"
+cheat6_enable = false
+
+cheat7_desc = "[P2 透明]OFF"
+cheat7_code = "03CD:01"
+cheat7_enable = false
+
+cheat8_desc = "[P2 透明]ON"
+cheat8_code = "03CD:00"
+cheat8_enable = false
+

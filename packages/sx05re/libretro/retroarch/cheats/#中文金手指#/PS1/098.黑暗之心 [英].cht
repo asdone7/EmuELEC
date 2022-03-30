@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "#几乎无敌"
+cheat0_code = "800885CA C000"
+cheat0_enable = false
+
+cheat1_desc = "#Player 1打开所有电影"
+cheat1_code = "800A02BC FFFF+800A02BE FFFF"
+cheat1_enable = false
+
+cheat2_desc = "#Player 1打开所有级别"
+cheat2_code = "800A02BA 0007"
+cheat2_enable = false
+
+

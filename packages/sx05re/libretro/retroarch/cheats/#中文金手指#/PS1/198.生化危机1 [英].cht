@@ -1,0 +1,23 @@
+cheats = 5
+
+cheat0_desc = "#Joker命令"
+cheat0_code = "D00CF844 0000"
+cheat0_enable = false
+
+cheat1_desc = "#无限健康标准模式"
+cheat1_code = "800C51AC 0060+800C867E 0060"
+cheat1_enable = false
+
+cheat2_desc = "#无限健康训练模式"
+cheat2_code = "300C51AC 008C"
+cheat2_enable = false
+
+cheat3_desc = "#无限健康高级模式"
+cheat3_code = "800B8BC6 0301+800B8BC8 FF00+800B8BCC 00FF+800C51AC 0060"
+cheat3_enable = false
+
+cheat4_desc = "#无限弹药（除火焰喷射器外的所有武器）"
+cheat4_code = "D00418F8 FFFF+800418F8 0000"
+cheat4_enable = false
+
+

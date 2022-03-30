@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[体力值]ON"
+cheat0_code = "0478:0E"
+cheat0_enable = false
+
+cheat1_desc = "[能量值]ON"
+cheat1_code = "0477:0E"
+cheat1_enable = false
+

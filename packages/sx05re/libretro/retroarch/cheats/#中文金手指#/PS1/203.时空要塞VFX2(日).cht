@@ -1,0 +1,43 @@
+cheats = 10
+
+cheat0_desc = "#无限盾/力量"
+cheat0_code = "800858A0 270F"
+cheat0_enable = false
+
+cheat1_desc = "#0任务时间"
+cheat1_code = "800844FC 0000"
+cheat1_enable = false
+
+cheat2_desc = "#无限弹药"
+cheat2_code = "800840C8 270F+80084088 270F+80084048 270F+800833CC 0064+80084188 0005+80084108 03E8+80084148 03E8+800841C8 03E8+8008468C 000A+800A6310 0064"
+cheat2_enable = false
+
+cheat3_desc = "#无限枪荚"
+cheat3_code = "80083288 270F"
+cheat3_enable = false
+
+cheat4_desc = "#得分了"
+cheat4_code = "800844D8 FFFF"
+cheat4_enable = false
+
+cheat5_desc = "#Infinite Chaff"
+cheat5_code = "8008374C 270F"
+cheat5_enable = false
+
+cheat6_desc = "#解锁所有战斗机/图库/ BGV"
+cheat6_code = "80084448 0001+8008444A 0001"
+cheat6_enable = false
+
+cheat7_desc = "#无限时间"
+cheat7_code = "D001A01C 0001+8001A01C 0000"
+cheat7_enable = false
+
+cheat8_desc = "#Level在小镇上"
+cheat8_code = "800759C0 000E+80085908 000A"
+cheat8_enable = false
+
+cheat9_desc = "#快速战斗"
+cheat9_code = "800785A0 0000"
+cheat9_enable = false
+
+

@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#战斗主角中的无限能量"
+cheat0_code = "801490B4 0096"
+cheat0_enable = false
+
+cheat1_desc = "#无限金钱"
+cheat1_code = "80103F30 FFFF"
+cheat1_enable = false
+
+

@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#无限生命P1"
+cheat0_code = "800A62FE 0063"
+cheat0_enable = false
+
+cheat1_desc = "#无限生命P2"
+cheat1_code = "800A6956 0063"
+cheat1_enable = false
+
+cheat2_desc = "#无限生命P2"
+cheat2_code = "800A6924 0009"
+cheat2_enable = false
+
+cheat3_desc = "#无限时间"
+cheat3_code = "800A079C 03E7"
+cheat3_enable = false
+
+cheat4_desc = "#无限学分"
+cheat4_code = "800A0588 0009"
+cheat4_enable = false
+
+cheat5_desc = "#所有卡"
+cheat5_code = "50000401 0000+300B6AEB 0001"
+cheat5_enable = false
+
+

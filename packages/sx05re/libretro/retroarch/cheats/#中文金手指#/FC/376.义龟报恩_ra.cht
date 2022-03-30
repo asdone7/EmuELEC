@@ -1,0 +1,58 @@
+cheats = 14
+
+cheat0_desc = "[体力]ON"
+cheat0_code = "054C:25"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "057C:2F"
+cheat1_enable = false
+
+cheat2_desc = "[钱最多]ON"
+cheat2_code = "055C:E7"
+cheat2_enable = false
+
+cheat3_desc = "[选关]2"
+cheat3_code = "054E:01"
+cheat3_enable = false
+
+cheat4_desc = "[选关]3"
+cheat4_code = "054E:02"
+cheat4_enable = false
+
+cheat5_desc = "[选关]4"
+cheat5_code = "054E:03"
+cheat5_enable = false
+
+cheat6_desc = "[选关]5"
+cheat6_code = "054E:04"
+cheat6_enable = false
+
+cheat7_desc = "[选关]6"
+cheat7_code = "054E:05"
+cheat7_enable = false
+
+cheat8_desc = "[选关]7"
+cheat8_code = "054E:06"
+cheat8_enable = false
+
+cheat9_desc = "[选关]8"
+cheat9_code = "054E:07"
+cheat9_enable = false
+
+cheat10_desc = "[选关]9"
+cheat10_code = "054E:08"
+cheat10_enable = false
+
+cheat11_desc = "[选关]10"
+cheat11_code = "054E:09"
+cheat11_enable = false
+
+cheat12_desc = "[选关]11"
+cheat12_code = "054E:0A"
+cheat12_enable = false
+
+cheat13_desc = "[选关]12"
+cheat13_code = "054E:0B"
+cheat13_enable = false
+

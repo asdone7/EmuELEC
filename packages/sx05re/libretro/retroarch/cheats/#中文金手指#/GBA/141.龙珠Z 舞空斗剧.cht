@@ -1,0 +1,191 @@
+cheats = 47
+
+cheat0_desc = "购物点数"
+cheat0_code = "02044DB4 000000FF+02044DB5 000000FF"
+cheat0_enable = false
+
+cheat1_desc = "全人物+隐藏要素开启"
+cheat1_code = "02044D58 000000FF+02044D59 000000FF+02044D5A 000000FF+02044D5B 000000FF+02044D5C 000000FF+02044D5D 000000FF+02044D5E 000000FF+02044D5F 000000FF+CHALLENGE全开+02044DB6 00000001+02044DB7 00000001+02044DB8 00000001+02044DB9 00000001+02044DBA 00000001+02044DBB 00000001+02044DBC 00000001+02044DBD 00000001"
+cheat1_enable = false
+
+cheat2_desc = "我方体力"
+cheat2_code = "0204273E 000000FF"
+cheat2_enable = false
+
+cheat3_desc = "我方最大体力"
+cheat3_code = "0204273F 000000FF"
+cheat3_enable = false
+
+cheat4_desc = "我方气量"
+cheat4_code = "0204274B 00000064"
+cheat4_enable = false
+
+cheat5_desc = "对方体力"
+cheat5_code = "02042826 00000000"
+cheat5_enable = false
+
+cheat6_desc = "对方气量"
+cheat6_code = "02042833 00000000"
+cheat6_enable = false
+
+cheat7_desc = "对方气绝"
+cheat7_code = "02044C54 00000000+02044C55 00000000"
+cheat7_enable = false
+
+cheat8_desc = "选人 孙悟空LV1"
+cheat8_code = "02042738 00000000+020450B0 00000000"
+cheat8_enable = false
+
+cheat9_desc = "选人 孙悟空LV2"
+cheat9_code = "02042738 00000001+020450B0 00000001"
+cheat9_enable = false
+
+cheat10_desc = "选人 孙悟空LV3"
+cheat10_code = "02042738 00000002+020450B0 00000002"
+cheat10_enable = false
+
+cheat11_desc = "选人 孙悟饭LV1"
+cheat11_code = "02042738 00000003+020450B0 00000003"
+cheat11_enable = false
+
+cheat12_desc = "选人 孙悟饭LV2"
+cheat12_code = "02042738 00000004+020450B0 00000004"
+cheat12_enable = false
+
+cheat13_desc = "选人 孙悟饭LV3"
+cheat13_code = "02042738 00000005+020450B0 00000005"
+cheat13_enable = false
+
+cheat14_desc = "选人 短笛LV1"
+cheat14_code = "02042738 00000006+020450B0 00000006"
+cheat14_enable = false
+
+cheat15_desc = "选人 短笛LV2"
+cheat15_code = "02042738 00000007+020450B0 00000007"
+cheat15_enable = false
+
+cheat16_desc = "选人 短笛LV3"
+cheat16_code = "02042738 00000008+020450B0 00000008"
+cheat16_enable = false
+
+cheat17_desc = "选人 小林LV1"
+cheat17_code = "02042738 00000009+020450B0 00000009"
+cheat17_enable = false
+
+cheat18_desc = "选人 小林LV2"
+cheat18_code = "02042738 0000000A+020450B0 0000000A"
+cheat18_enable = false
+
+cheat19_desc = "选人 小林LV3"
+cheat19_code = "02042738 0000000B+020450B0 0000000B"
+cheat19_enable = false
+
+cheat20_desc = "选人 贝吉塔LV1"
+cheat20_code = "02042738 0000000C+020450B0 0000000C"
+cheat20_enable = false
+
+cheat21_desc = "选人 贝吉塔LV2"
+cheat21_code = "02042738 0000000D+020450B0 0000000D"
+cheat21_enable = false
+
+cheat22_desc = "选人 贝吉塔LV3"
+cheat22_code = "02042738 0000000E+020450B0 0000000F"
+cheat22_enable = false
+
+cheat23_desc = "选人 特兰克斯LV1"
+cheat23_code = "02042738 0000000F+020450B0 0000000F"
+cheat23_enable = false
+
+cheat24_desc = "选人 特兰克斯LV2"
+cheat24_code = "02042738 00000010+020450B0 00000010"
+cheat24_enable = false
+
+cheat25_desc = "选人 特兰克斯LV3"
+cheat25_code = "02042738 00000011+020450B0 00000011"
+cheat25_enable = false
+
+cheat26_desc = "选人 基纽LV1"
+cheat26_code = "02042738 00000012+020450B0 00000012"
+cheat26_enable = false
+
+cheat27_desc = "选人 基纽LV2"
+cheat27_code = "02042738 00000013+020450B0 00000013"
+cheat27_enable = false
+
+cheat28_desc = "选人 基纽LV3"
+cheat28_code = "02042738 00000014+020450B0 00000014"
+cheat28_enable = false
+
+cheat29_desc = "选人 弗利萨LV1"
+cheat29_code = "02042738 00000015+020450B0 00000015"
+cheat29_enable = false
+
+cheat30_desc = "选人 弗利萨LV2"
+cheat30_code = "02042738 00000016+020450B0 00000016"
+cheat30_enable = false
+
+cheat31_desc = "选人 弗利萨LV3"
+cheat31_code = "02042738 00000017+020450B0 00000017"
+cheat31_enable = false
+
+cheat32_desc = "选人 20号LV1"
+cheat32_code = "02042738 00000018+020450B0 00000018"
+cheat32_enable = false
+
+cheat33_desc = "选人 20号LV2"
+cheat33_code = "02042738 00000019+020450B0 00000019"
+cheat33_enable = false
+
+cheat34_desc = "选人 20号LV3"
+cheat34_code = "02042738 0000001A+020450B0 0000001A"
+cheat34_enable = false
+
+cheat35_desc = "选人 18号LV1"
+cheat35_code = "02042738 0000001B+020450B0 0000001B"
+cheat35_enable = false
+
+cheat36_desc = "选人 18号LV2"
+cheat36_code = "02042738 0000001C+020450B0 0000001C"
+cheat36_enable = false
+
+cheat37_desc = "选人 18号LV3"
+cheat37_code = "02042738 0000001D+020450B0 0000001D"
+cheat37_enable = false
+
+cheat38_desc = "选人 沙鲁LV1"
+cheat38_code = "02042738 0000001E+020450B0 0000001E"
+cheat38_enable = false
+
+cheat39_desc = "选人 沙鲁LV2"
+cheat39_code = "02042738 0000001F+020450B0 0000001F"
+cheat39_enable = false
+
+cheat40_desc = "选人 沙鲁LV3"
+cheat40_code = "02042738 00000020+020450B0 00000020"
+cheat40_enable = false
+
+cheat41_desc = "选人 布欧LV1"
+cheat41_code = "02042738 00000021+020450B0 00000021"
+cheat41_enable = false
+
+cheat42_desc = "选人 布欧LV2"
+cheat42_code = "02042738 00000022+020450B0 00000022"
+cheat42_enable = false
+
+cheat43_desc = "选人 布欧LV3"
+cheat43_code = "02042738 00000023+020450B0 00000023"
+cheat43_enable = false
+
+cheat44_desc = "选人 悟天克斯LV1"
+cheat44_code = "02042738 00000024+020450B0 00000024"
+cheat44_enable = false
+
+cheat45_desc = "选人 悟天克斯LV2"
+cheat45_code = "02042738 00000025+020450B0 00000025"
+cheat45_enable = false
+
+cheat46_desc = "选人 悟天克斯LV3"
+cheat46_code = "02042738 00000026+020450B0 00000026"
+cheat46_enable = false
+
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1P无限生命]ON"
+cheat0_code = "00A2:09"
+cheat0_enable = false
+
+cheat1_desc = "[1P无限子弹]ON"
+cheat1_code = "00A4:63"
+cheat1_enable = false
+

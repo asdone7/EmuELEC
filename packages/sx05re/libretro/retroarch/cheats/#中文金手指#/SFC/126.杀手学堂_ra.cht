@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[血槽不减]ON"
+cheat0_code = "7E0D2478"
+cheat0_enable = false
+
+cheat1_desc = "[时间]99秒"
+cheat1_code = "7E10DB0A+7E10DC09"
+cheat1_enable = false
+
+cheat2_desc = "[敌人状况]自杀"
+cheat2_code = "7E0D2800"
+cheat2_enable = false
+
+cheat3_desc = "[敌人状况]一击即杀"
+cheat3_code = "7E0D2801"
+cheat3_enable = false
+

@@ -1,0 +1,194 @@
+cheats = 48
+
+cheat0_desc = "[全员最强] ON"
+cheat0_code = "7EE18162+7EE182E7+7EE18303+7EE184E7+7EE18503+7EE18863+7EE18963+7EE18A63+7EE18B63+7EE18C63+7EE18D7F+7EE18E96+7EE18F98+7EE19000+7EE19100+7EE19764+7EE198A0+7EE1A464+7EE1A520+7EE1A603+7EE1A820+7EE1A903+7EE38162+7EE382E7+7EE38303+7EE384E7+7EE38503+7EE38663+7EE38763+7EE38863+7EE38963+7EE38A63+7EE38B63+7EE38C63+7EE38D7F+7EE38E96+7EE38F98+7EE39000+7EE39100+7EE39764+7EE398A0+7EE3A464+7EE3A520+7EE3A603+7EE3A820+7EE3A903+7EE58162+7EE582E7+7EE58303+7EE584E7+7EE58503+7EE58663+7EE58763+7EE58863+7EE58963+7EE58A63+7EE58B63+7EE58C63+7EE58D7F+7EE58E96+7EE58F98+7EE59000+7EE59100+7EE59764+7EE598A0+7EE5A464+7EE5A520+7EE5A603+7EE5A820+7EE5A903 "
+cheat0_enable = false
+
+cheat1_desc = "[全员武器熟练等级8] ON"
+cheat1_code = "7EE1C088+7EE1C188+7EE1C288+7EE1C388+7EE3C088+7EE3C188+7EE3C288+7EE3C388+7EE5C088+7EE5C188+7EE5C288+7EE5C388 "
+cheat1_enable = false
+
+cheat2_desc = "[全员武器熟练度99-快速升级] ON"
+cheat2_code = "7EE1D063+7EE1D163+7EE1D263+7EE1D363+7EE1D463+7EE1D563+7EE1D663+7EE1D763+7EE3D063+7EE3D163+7EE3D263+7EE3D363+7EE3D463+7EE3D563+7EE3D663+7EE3D763+7EE5D063+7EE5D163+7EE5D263+7EE5D363+7EE5D463+7EE5D563+7EE5D663+7EE5D763 "
+cheat2_enable = false
+
+cheat3_desc = "[全魔法] ON"
+cheat3_code = "7EE3C8FF+7EE3C9FF+7EE3CAFF+7EE3CBFF+7EE3CCFF+7EE3CDFF+7EE3CE00+7EE3CFFF+7EE5C8FF+7EE5C9FF+7EE5CAFF+7EE5CBFF+7EE5CCFF+7EE5CDFF+7EE5CEFF "
+cheat3_enable = false
+
+cheat4_desc = "[全员魔法熟练等级10] ON"
+cheat4_code = "7EE3C4AA+7EE3C5AA+7EE3C6AA+7EE3C7AA+7EE5C4AA+7EE5C5AA+7EE5C6AA+7EE5C7AA "
+cheat4_enable = false
+
+cheat5_desc = "[全员魔法熟练度99-快速升级] ON"
+cheat5_code = "7EE3D863+7EE3D963+7EE3DA63+7EE3DB63+7EE3DC63+7EE3DD63+7EE3DE00+7EE3DF63+7EE5D863+7EE5D963+7EE5DA63+7EE5DB63+7EE5DC63+7EE5DD63+7EE5DE63 "
+cheat5_enable = false
+
+cheat6_desc = "[最强武器锁定后可使每个人装备相同武器] ON"
+cheat6_code = "7ECC5408+7ECC5508+7ECC5608+7ECC5708+7ECC5808+7ECC5908+7ECC5A08+7ECC5B08 "
+cheat6_enable = false
+
+cheat7_desc = "[金钱最多] ON"
+cheat7_code = "7ECC6A7F+7ECC6B96+7ECC6C98 "
+cheat7_enable = false
+
+cheat8_desc = "[主角存在状况] 在队伍中"
+cheat8_code = "7EE00001 "
+cheat8_enable = false
+
+cheat9_desc = "[主角存在状况] 不在队伍中"
+cheat9_code = "7EE000FF "
+cheat9_enable = false
+
+cheat10_desc = "[女主角存在状况] 在队伍中"
+cheat10_code = "7EE20001 "
+cheat10_enable = false
+
+cheat11_desc = "[女主角存在状况] 不在队伍中"
+cheat11_code = "7EE200FF "
+cheat11_enable = false
+
+cheat12_desc = "[妖精存在状况] 在队伍中"
+cheat12_code = "7EE40001 "
+cheat12_enable = false
+
+cheat13_desc = "[妖精存在状况] 不在队伍中"
+cheat13_code = "7EE400FF "
+cheat13_enable = false
+
+cheat14_desc = "[主角图像] 主角"
+cheat14_code = "7EE18080 "
+cheat14_enable = false
+
+cheat15_desc = "[主角图像] 女主角"
+cheat15_code = "7EE18081 "
+cheat15_enable = false
+
+cheat16_desc = "[主角图像] 妖精"
+cheat16_code = "7EE18082 "
+cheat16_enable = false
+
+cheat17_desc = "[女主角图像] 主角"
+cheat17_code = "7EE38080 "
+cheat17_enable = false
+
+cheat18_desc = "[女主角图像] 女主角"
+cheat18_code = "7EE38081 "
+cheat18_enable = false
+
+cheat19_desc = "[女主角图像] 妖精"
+cheat19_code = "7EE38082 "
+cheat19_enable = false
+
+cheat20_desc = "[妖精图像] 主角"
+cheat20_code = "7EE58080 "
+cheat20_enable = false
+
+cheat21_desc = "[妖精图像] 女主角"
+cheat21_code = "7EE58081 "
+cheat21_enable = false
+
+cheat22_desc = "[妖精图像] 妖精"
+cheat22_code = "7EE58082 "
+cheat22_enable = false
+
+cheat23_desc = "[所有人必杀技横轴可集气到8] ON"
+cheat23_code = "7EE19C08+7EE39C08+7EE59C08 "
+cheat23_enable = false
+
+cheat24_desc = "[主角必杀技连续使用(按住B纽停止)] 第一级必杀技"
+cheat24_code = "7EE19B01 "
+cheat24_enable = false
+
+cheat25_desc = "[主角必杀技连续使用(按住B纽停止)] 第二级必杀技"
+cheat25_code = "7EE19B02 "
+cheat25_enable = false
+
+cheat26_desc = "[主角必杀技连续使用(按住B纽停止)] 第三级必杀技"
+cheat26_code = "7EE19B03 "
+cheat26_enable = false
+
+cheat27_desc = "[主角必杀技连续使用(按住B纽停止)] 第四级必杀技"
+cheat27_code = "7EE19B04 "
+cheat27_enable = false
+
+cheat28_desc = "[主角必杀技连续使用(按住B纽停止)] 第五级必杀技"
+cheat28_code = "7EE19B05 "
+cheat28_enable = false
+
+cheat29_desc = "[主角必杀技连续使用(按住B纽停止)] 第六级必杀技"
+cheat29_code = "7EE19B06 "
+cheat29_enable = false
+
+cheat30_desc = "[主角必杀技连续使用(按住B纽停止)] 第七级必杀技"
+cheat30_code = "7EE19B07 "
+cheat30_enable = false
+
+cheat31_desc = "[主角必杀技连续使用(按住B纽停止)] 第八级必杀技"
+cheat31_code = "7EE19B08 "
+cheat31_enable = false
+
+cheat32_desc = "[女主角必杀技连续使用(按住B纽停止)] 第一级必杀技"
+cheat32_code = "7EE39B01 "
+cheat32_enable = false
+
+cheat33_desc = "[女主角必杀技连续使用(按住B纽停止)] 第二级必杀技"
+cheat33_code = "7EE39B02 "
+cheat33_enable = false
+
+cheat34_desc = "[女主角必杀技连续使用(按住B纽停止)] 第三级必杀技"
+cheat34_code = "7EE39B03 "
+cheat34_enable = false
+
+cheat35_desc = "[女主角必杀技连续使用(按住B纽停止)] 第四级必杀技"
+cheat35_code = "7EE39B04 "
+cheat35_enable = false
+
+cheat36_desc = "[女主角必杀技连续使用(按住B纽停止)] 第五级必杀技"
+cheat36_code = "7EE39B05 "
+cheat36_enable = false
+
+cheat37_desc = "[女主角必杀技连续使用(按住B纽停止)] 第六级必杀技"
+cheat37_code = "7EE39B06 "
+cheat37_enable = false
+
+cheat38_desc = "[女主角必杀技连续使用(按住B纽停止)] 第七级必杀技"
+cheat38_code = "7EE39B07 "
+cheat38_enable = false
+
+cheat39_desc = "[女主角必杀技连续使用(按住B纽停止)] 第八级必杀技"
+cheat39_code = "7EE39B08 "
+cheat39_enable = false
+
+cheat40_desc = "[妖精必杀技连续使用(按住B纽停止)] 第一级必杀技"
+cheat40_code = "7EE59B01 "
+cheat40_enable = false
+
+cheat41_desc = "[妖精必杀技连续使用(按住B纽停止)] 第二级必杀技"
+cheat41_code = "7EE59B02 "
+cheat41_enable = false
+
+cheat42_desc = "[妖精必杀技连续使用(按住B纽停止)] 第三级必杀技"
+cheat42_code = "7EE59B03 "
+cheat42_enable = false
+
+cheat43_desc = "[妖精必杀技连续使用(按住B纽停止)] 第四级必杀技"
+cheat43_code = "7EE59B04 "
+cheat43_enable = false
+
+cheat44_desc = "[妖精必杀技连续使用(按住B纽停止)] 第五级必杀技"
+cheat44_code = "7EE59B05 "
+cheat44_enable = false
+
+cheat45_desc = "[妖精必杀技连续使用(按住B纽停止)] 第六级必杀技"
+cheat45_code = "7EE59B06 "
+cheat45_enable = false
+
+cheat46_desc = "[妖精必杀技连续使用(按住B纽停止)] 第七级必杀技"
+cheat46_code = "7EE59B07 "
+cheat46_enable = false
+
+cheat47_desc = "[妖精必杀技连续使用(按住B纽停止)] 第八级必杀技"
+cheat47_code = "7EE59B08 "
+cheat47_enable = false
+

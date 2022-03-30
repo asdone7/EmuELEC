@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "#不减少奖金（HBP）"
+cheat0_code = "D01394A2 0052+801394A2 0040"
+cheat0_enable = false
+
+cheat1_desc = "#按L1 + L2的每个参数分配最大值为100"
+cheat1_code = "D00D3602 FAFF+801FEB70 0064+D00D3602 FAFF+801FEB74 0064+D00D3602 FAFF+801FEB78 0064+D00D3602 FAFF+801FEB7C 0064"
+cheat1_enable = false
+
+cheat2_desc = "#按R1 + R2全选"
+cheat2_code = "D00D3602 F5FF+801FEB88 FFFF+D00D3602 F5FF+801FEB8A FFFF"
+cheat2_enable = false
+
+

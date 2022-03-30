@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[体力]ON"
+cheat0_code = "0720:10"
+cheat0_enable = false
+
+cheat1_desc = "[无敌(接触敌人后有效)]ON"
+cheat1_code = "0603:00"
+cheat1_enable = false
+
+cheat2_desc = "[EN]ON"
+cheat2_code = "0180:E7+0181:03"
+cheat2_enable = false
+
+cheat3_desc = "[命]ON"
+cheat3_code = "0727:08"
+cheat3_enable = false
+
+cheat4_desc = "[BOSS体力为0]ON"
+cheat4_code = "0724:00"
+cheat4_enable = false
+

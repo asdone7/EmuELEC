@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[RING(¹ý¹Ø½âËø)] no"
+cheat0_code = "FFFE20:FF "
+cheat0_enable = false
+
+cheat1_desc = "[Ãü] no"
+cheat1_code = "FFFE13:99 "
+cheat1_enable = false
+
+cheat2_desc = "[TIME] NO"
+cheat2_code = "FFFE23:00+FFFE24:FE26+FFFE25:00 "
+cheat2_enable = false
+

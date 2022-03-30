@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[2 子弹]ON"
+cheat0_code = "FFB1E2:63"
+cheat0_enable = false
+
+cheat1_desc = "[1 子弹]ON"
+cheat1_code = "FFB222:63"
+cheat1_enable = false
+

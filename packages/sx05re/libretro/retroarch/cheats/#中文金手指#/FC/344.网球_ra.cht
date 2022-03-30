@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1P点数]ON"
+cheat0_code = "0051:09"
+cheat0_enable = false
+
+cheat1_desc = "[COM点数]ON"
+cheat1_code = "0052:00"
+cheat1_enable = false
+

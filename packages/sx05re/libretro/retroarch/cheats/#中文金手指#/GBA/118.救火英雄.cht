@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "着火点剩余数量"
+cheat0_code = "02017DEC 00000000"
+cheat0_enable = false
+
+cheat1_desc = "救人数量"
+cheat1_code = "02017E00 00000000"
+cheat1_enable = false
+
+cheat2_desc = "狗剩余数量"
+cheat2_code = "02017DE8 00000000"
+cheat2_enable = false
+
+

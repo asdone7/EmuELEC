@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[生命数]ON"
+cheat0_code = "0056:63"
+cheat0_enable = false
+
+cheat1_desc = "[透明]ON"
+cheat1_code = "0506:FF"
+cheat1_enable = false
+

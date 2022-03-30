@@ -1,0 +1,19 @@
+cheats = 4
+
+cheat0_desc = "飞机数"
+cheat0_code = "02040AF8 00000005"
+cheat0_enable = false
+
+cheat1_desc = "炸弹"
+cheat1_code = "02045AFC 00000032"
+cheat1_enable = false
+
+cheat2_desc = "燃料"
+cheat2_code = "02040500 0000002A"
+cheat2_enable = false
+
+cheat3_desc = "装甲"
+cheat3_code = "020471F8 0000002A"
+cheat3_enable = false
+
+

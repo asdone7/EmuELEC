@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[杆数为零]ON"
+cheat0_code = "002C:00"
+cheat0_enable = false
+
+cheat1_desc = "[被减杆数为零]ON"
+cheat1_code = "0014:00+0015:00"
+cheat1_enable = false
+

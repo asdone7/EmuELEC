@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[生命数9]ON"
+cheat0_code = "009B:09"
+cheat0_enable = false
+
+cheat1_desc = "[血格不减]ON"
+cheat1_code = "0095:12"
+cheat1_enable = false
+
+cheat2_desc = "[时间不减]ON"
+cheat2_code = "0091:05+0092:00"
+cheat2_enable = false
+

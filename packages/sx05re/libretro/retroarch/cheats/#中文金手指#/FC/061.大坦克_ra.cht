@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[血不减]ON"
+cheat0_code = "0306:20+03F7:0F"
+cheat0_enable = false
+
+cheat1_desc = "[V不减]ON"
+cheat1_code = "0039:28"
+cheat1_enable = false
+
+cheat2_desc = "[F不减]ON"
+cheat2_code = "003A:28"
+cheat2_enable = false
+
+cheat3_desc = "[B不减]ON"
+cheat3_code = "003B:28"
+cheat3_enable = false
+
+cheat4_desc = "[L不减]ON"
+cheat4_code = "003C:28"
+cheat4_enable = false
+

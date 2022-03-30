@@ -1,0 +1,90 @@
+cheats = 22
+
+cheat0_desc = "[全道具]ON"
+cheat0_code = "08CF:63+08D0:63+08D1:63+08D2:63+08D3:63+08D4:63+08D5:63+08D6:63+08D7:63+08D8:63+08D9:63+08DA:63+08DB:63+08DC:63+08DD:63+08DE:63+08DF:63"
+cheat0_enable = false
+
+cheat1_desc = "[無限金錢]ON"
+cheat1_code = "082E:FF+082F:FF"
+cheat1_enable = false
+
+cheat2_desc = "[生命]ON"
+cheat2_code = "084A:FF+084B:FF"
+cheat2_enable = false
+
+cheat3_desc = "[不遇敌]ON"
+cheat3_code = "082C:1E"
+cheat3_enable = false
+
+cheat4_desc = "[無限經驗]ON"
+cheat4_code = "0889:FF+088A:FF+088B:FF+088C:00"
+cheat4_enable = false
+
+cheat5_desc = "[最高力量加成]ON"
+cheat5_code = "089E:FF+089F:FF+08A0:FF+08A1:00"
+cheat5_enable = false
+
+cheat6_desc = "[第一人魔法等级]第一人"
+cheat6_code = "0B8F:FF+0B90:FF+0B91:FF+0B92:FF+0B93:FF+0B94:FF+0B95:FF+0B96:FF+0B97:FF"
+cheat6_enable = false
+
+cheat7_desc = "[第二人魔法等级]第二人"
+cheat7_code = "0BAA:FF+0BAB:FF+0BAC:FF+0BAD:FF+0BAE:FF+0BAF:FF+0BB0:FF+0BB1:FF+0BB2:FF"
+cheat7_enable = false
+
+cheat8_desc = "[第三人魔法等级]第三人"
+cheat8_code = "0B98:FF+0B99:FF+0B9A:FF+0B9B:FF+0B9C:FF+0B9D:FF+0B9E:FF+0B9F:FF+0BA0:FF"
+cheat8_enable = false
+
+cheat9_desc = "[第一人HP]9999"
+cheat9_code = "084A:0F+0851:27+08C1:0F+08C8:27"
+cheat9_enable = false
+
+cheat10_desc = "[第二人HP]9999"
+cheat10_code = "084D:0F+0854:27+08C4:0F+08CB:27"
+cheat10_enable = false
+
+cheat11_desc = "[第三人HP]9999"
+cheat11_code = "084C:0F+0853:27+08C3:0F+08CA:27"
+cheat11_enable = false
+
+cheat12_desc = "[经验值]65535"
+cheat12_code = "0882:FF+0889:FF+0885:FF+088C:FF+0884:FF+088B:FF"
+cheat12_enable = false
+
+cheat13_desc = "[人物属性]MAX"
+cheat13_code = "172F:0F+1730:27+1731:0F+1732:27+1733:0F+1734:27+1735:0F+1736:27+1737:FF"
+cheat13_enable = false
+
+cheat14_desc = "[CP值]ON"
+cheat14_code = "0C3A:63+0C3B:63+0C3C:63+0C43:63+0C44:63+0C45:63+0C46:63+0C47:63+0C4C:63+0C4D:63+0C4E:63+0C4F:63+0C50:63+0C51:63+0C52:63+0C53:63+0C54:63+0C55:63+0C5E:63+0C5F:63+0C60:63+0C61:63+0C62:63+0C63:63+0C64:63+0C65:63+0C66:63+0C67:63+0C70:63+0C71:63+0C72:63+0C73:63+0C50:63+0C51:63+0C52:63+0C53:63+0C54:63+0C55:63+0C56:63+0C57:63+0C58:63+0C59:63+0C68:63+0C69:63+0C6A:63+0C6B:63+0C6C:63+0C6D:63+0C6E:63+0C6F:63+0C70:63"
+cheat14_enable = false
+
+cheat15_desc = "[全防具]ON"
+cheat15_code = "08E0:63+08E1:63+08E2:63+08E3:63+08E4:63+08E5:63+08E6:63+08E7:63+08E8:63+08E9:63+08EA:63+08EB:63+08EC:63+08ED:63+08EE:63+08EF:63+08F0:63+08F1:63+08F2:63+08F3:63+08F4:63+08F5:63+08F6:63+08F7:63+08F8:63+08F9:63+08FA:63+08FB:63+08FC:63+08FD:63+08FE:63+08FF:63+0900:63+0901:63+0902:63+0903:63+0904:63+0905:63+0906:63+0907:63+0908:63+0909:63+090A:63+090B:63+090C:63+090D:63+090E:63+090F:63+0910:63+0911:63+0912:63+0913:63+0914:63+0915:63+0916:63+0917:63+0918:63+0919:63+091A:63+091B:63+091C:63+091D:63+091E:63+091F:63+0920:63+0921:63+0922:63+0923:63+0924:63+0925:63+0926:63+0927:63+0928:63+0929:63+092A:63+092B:63+092C:63+092D:63+092E:63+092F:63+0930:63+0931:63+0932:63+0933:63+0934:63+0935:63+0936:63+0937:63+0938:63+0939:63+093A:63+093B:63+093C:63+093D:63+093E:63+093F:63+0940:63+0941:63+0942:63+0943:63+0944:63+0945:63+0946:63+0947:63+0948:63+0949:63+094A:63+094B:63+094C:63+094D:63+094E:63+094F:63+0950:63+0951:63+0952:63+0953:63+0954:63+0955:63+0956:63+0957:63+0958:63+0959:63+095A:63+095B:63+095C:63+095D:63+095E:63+095F:63+0960:63+0961:63"
+cheat15_enable = false
+
+cheat16_desc = "[第一人武器等级]255级"
+cheat16_code = "0A3C:FF+0B6A:09"
+cheat16_enable = false
+
+cheat17_desc = "[第一人武器等级]99级"
+cheat17_code = "0A3C:63+0B6A:09"
+cheat17_enable = false
+
+cheat18_desc = "[第二人武器等级]255级"
+cheat18_code = "0A6C:FF+0B6B:09"
+cheat18_enable = false
+
+cheat19_desc = "[第二人武器等级]99级"
+cheat19_code = "0A6C:63+0B6B:09"
+cheat19_enable = false
+
+cheat20_desc = "[第三人武器等级]255级"
+cheat20_code = "0A5C:FF+0B6D:09"
+cheat20_enable = false
+
+cheat21_desc = "[第三人武器等级]99级"
+cheat21_code = "0A5C:63+0B6D:09"
+cheat21_enable = false
+

@@ -1,0 +1,43 @@
+cheats = 10
+
+cheat0_desc = "#Button命令"
+cheat0_code = "D00AC54A 0000"
+cheat0_enable = false
+
+cheat1_desc = "#无限的生命"
+cheat1_code = "80162914 0005"
+cheat1_enable = false
+
+cheat2_desc = "#无限的生命（狙击模式阶段）"
+cheat2_code = "801628DE 0009"
+cheat2_enable = false
+
+cheat3_desc = "#Saveed人质修改器（狙击模式阶段）"
+cheat3_code = "801628DC ????"
+cheat3_enable = false
+
+cheat4_desc = "#能源（男人和直升机）"
+cheat4_code = "800AC66C 0064"
+cheat4_enable = false
+
+cheat5_desc = "#能源（坦克）"
+cheat5_code = "80163EC0 0064+80162D2C 0064"
+cheat5_enable = false
+
+cheat6_desc = "#将Heli升级到2个射击（按选择）（注：如果代码冻结游戏，而不是使用#Up Heli到2个射击的按钮命令#：每个代码D00AC54A FFFE-使用SELECT按钮。）"
+cheat6_code = "D00AC54A FFFE+80178F1E 0001"
+cheat6_enable = false
+
+cheat7_desc = "#Ammo（包括榴弹）"
+cheat7_code = "800AC674 0063+800AC678 0063+800AC67E 0063"
+cheat7_enable = false
+
+cheat8_desc = "#无限时间（C4阶段）"
+cheat8_code = "801628FC 0005"
+cheat8_enable = false
+
+cheat9_desc = "#拥有所有C4（C4阶段）"
+cheat9_code = "801628F4 0004"
+cheat9_enable = false
+
+

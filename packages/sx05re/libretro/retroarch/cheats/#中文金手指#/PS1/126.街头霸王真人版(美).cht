@@ -1,0 +1,79 @@
+cheats = 19
+
+cheat0_desc = "#无限能量P1"
+cheat0_code = "801B759A 0070"
+cheat0_enable = false
+
+cheat1_desc = "#无限超级P1"
+cheat1_code = "801B76B2 3030"
+cheat1_enable = false
+
+cheat2_desc = "#无能量P2"
+cheat2_code = "801B793A 0000"
+cheat2_enable = false
+
+cheat3_desc = "#P1的角色Ryu"
+cheat3_code = "801B789E 0000"
+cheat3_enable = false
+
+cheat4_desc = "#P1角色E.本田"
+cheat4_code = "801B789E 0101"
+cheat4_enable = false
+
+cheat5_desc = "#P1的角色布兰卡"
+cheat5_code = "801B789E 0202"
+cheat5_enable = false
+
+cheat6_desc = "#P1的角色指南"
+cheat6_code = "801B789E 0303"
+cheat6_enable = false
+
+cheat7_desc = "#P1的角色Ken"
+cheat7_code = "801B789E 0404"
+cheat7_enable = false
+
+cheat8_desc = "#P1的角色Chun Li"
+cheat8_code = "801B789E 0505"
+cheat8_enable = false
+
+cheat9_desc = "#P1人物角色"
+cheat9_code = "801B789E 0606"
+cheat9_enable = false
+
+cheat10_desc = "#P1的角色Akuma"
+cheat10_code = "801B789E 0707"
+cheat10_enable = false
+
+cheat11_desc = "#P1的角色M.Bison"
+cheat11_code = "801B789E 0808"
+cheat11_enable = false
+
+cheat12_desc = "#P1的角色传奇"
+cheat12_code = "801B789E 0909"
+cheat12_enable = false
+
+cheat13_desc = "#P1的角色Balrog"
+cheat13_code = "801B789E 0A0A"
+cheat13_enable = false
+
+cheat14_desc = "#P1的角色维加"
+cheat14_code = "801B789E 0B0B"
+cheat14_enable = false
+
+cheat15_desc = "#P1的角色Cammy"
+cheat15_code = "801B789E 0C0C"
+cheat15_enable = false
+
+cheat16_desc = "#P1的角色泽田"
+cheat16_code = "801B789E 0D0D"
+cheat16_enable = false
+
+cheat17_desc = "#P1的角色Dee Jay"
+cheat17_code = "801B789E 0E0E"
+cheat17_enable = false
+
+cheat18_desc = "#解锁视频剪辑从主菜单中选择“备份”，然后选择“视频剪辑”以观看Chage＆Aska的“那里的东西”视频。"
+cheat18_code = "301B8AE6 0001"
+cheat18_enable = false
+
+

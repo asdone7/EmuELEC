@@ -1,0 +1,162 @@
+cheats = 40
+
+cheat0_desc = "[我队队名]全明星"
+cheat0_code = "7E040BD "
+cheat0_enable = false
+
+cheat1_desc = "[场次]01.圣保罗VS克里新斯"
+cheat1_code = "7E040000"
+cheat1_enable = false
+
+cheat2_desc = "[场次]02.香谢丽舍VS蒙马特尔"
+cheat2_code = "7E040001"
+cheat2_enable = false
+
+cheat3_desc = "[场次]03.墨西哥城VSモンテレ一"
+cheat3_code = "7E040002"
+cheat3_enable = false
+
+cheat4_desc = "[场次]04.圣保罗VS格雷米奥"
+cheat4_code = "7E040003"
+cheat4_enable = false
+
+cheat5_desc = "[场次]05.约克镇VS曼彻斯特"
+cheat5_code = "7E040004"
+cheat5_enable = false
+
+cheat6_desc = "[场次]06.汉堡VS拜仁"
+cheat6_code = "7E040005"
+cheat6_enable = false
+
+cheat7_desc = "[场次]07.圣保罗VS弗拉门戈"
+cheat7_code = "7E040006"
+cheat7_enable = false
+
+cheat8_desc = "[场次]08.日本VS荷兰"
+cheat8_code = "7E040007"
+cheat8_enable = false
+
+cheat9_desc = "[场次]09.日本VS法国二队"
+cheat9_code = "7E040008"
+cheat9_enable = false
+
+cheat10_desc = "[场次]10.日本VS美国初队"
+cheat10_code = "7E040009"
+cheat10_enable = false
+
+cheat11_desc = "[场次]11.日本VS乌拉圭"
+cheat11_code = "7E04000A"
+cheat11_enable = false
+
+cheat12_desc = "[场次]12.日本VS比利时"
+cheat12_code = "7E04000B"
+cheat12_enable = false
+
+cheat13_desc = "[场次]13.日本VS罗马"
+cheat13_code = "7E04000C"
+cheat13_enable = false
+
+cheat14_desc = "[场次]14.日本VS中国"
+cheat14_code = "7E04000D"
+cheat14_enable = false
+
+cheat15_desc = "[场次]15.日本VS英格兰"
+cheat15_code = "7E04000E"
+cheat15_enable = false
+
+cheat16_desc = "[场次]16.日本VS美国"
+cheat16_code = "7E04000F"
+cheat16_enable = false
+
+cheat17_desc = "[场次]17.日本VS意大利"
+cheat17_code = "7E040010"
+cheat17_enable = false
+
+cheat18_desc = "[场次]18.日本VS阿根廷"
+cheat18_code = "7E040011"
+cheat18_enable = false
+
+cheat19_desc = "[场次]19.日本VS法国"
+cheat19_code = "7E040012"
+cheat19_enable = false
+
+cheat20_desc = "[场次]20.日本VS巴西"
+cheat20_code = "7E040013"
+cheat20_enable = false
+
+cheat21_desc = "[场次]21.日本VS德国"
+cheat21_code = "7E040014"
+cheat21_enable = false
+
+cheat22_desc = "[场次]+7E+7E+7EAll STAR"
+cheat22_code = "7E040015"
+cheat22_enable = false
+
+cheat23_desc = "[我方11名球员等级全部80级]ON"
+cheat23_code = "7E34054F+7E34254F+7E34454F+7E34654F+7E34854F+7E34A54F+7E34C54F+7E34E54F+7E35054F+7E35254F+7E35454F+7E36C54F+7E36E54F+7E37054F+7E37254F"
+cheat23_enable = false
+
+cheat24_desc = "[对方11名球员等级全部80级]ON"
+cheat24_code = "7E35654F+7E35854F+7E35A54F+7E35C54F+7E35E54F+7E36054F+7E36254F+7E36454F+7E36654F+7E36854F+7E36A54F"
+cheat24_enable = false
+
+cheat25_desc = "[全明星队]ON"
+cheat25_code = "7E342141+7E344123+7E34611F+7E34811C+7E34A146+7E34C12B+7E34E121+7E350119+7E352101+7E35412A+7E340000+7E342000+7E344000+7E346000+7E348000+7E34A000+7E34C000+7E34E000+7E350000+7E352000+7E354000"
+cheat25_enable = false
+
+cheat26_desc = "[明星守门员选择]若岛津健威"
+cheat26_code = "7E340122"
+cheat26_enable = false
+
+cheat27_desc = "[明星守门员选择]若林源三"
+cheat27_code = "7E340120"
+cheat27_enable = false
+
+cheat28_desc = "[明星守门员选择]沙里拿斯"
+cheat28_code = "7E340142"
+cheat28_enable = false
+
+cheat29_desc = "[全体球员体力全部999（不适用巴西）]ON"
+cheat29_code = "7E3522FF+7E3422FF+7E3402FF+7E3442FF+7E3462FF+7E3482FF+7E34A2FF+7E34C2FF+7E34E2FF+7E3502FF+7E3542FF"
+cheat29_enable = false
+
+cheat30_desc = "[巴西队]ON"
+cheat30_code = "7E340000+7E340142+7E341207+7E342000+7E34212D+7E343239+7E344000+7E344105+7E345202+7E346000+7E346143+7E34723A+7E348000+7E348106+7E349203+7E34A000+7E34A12C+7E34B226+7E34C000+7E34C144+7E34D23B+7E34E000+7E34E145+7E34F23C+7E350000+7E35012B+7E351227+7E352000+7E352146+7E35323D+7E35331E+7E354000+7E354147+7E35523E+7E36C000+7E36C125+7E36D220+7E36E000+7E36E10A+7E36F207+7E370000+7E37010B+7E371209+7E372000+7E372128+7E373204"
+cheat30_enable = false
+
+cheat31_desc = "[巴西球员体力全部999]ON"
+cheat31_code = "7E3402E7+7E340303+7E3422E7+7E342303+7E3442E7+7E344303+7E3462E7+7E346303+7E3482E7+7E348303+7E34A2E7+7E34A303+7E34C2E7+7E34C303+7E34E2E7+7E34E303+7E3502E7+7E350303+7E3522E7+7E352303+7E3542E7+7E354303+7E36C2E7+7E36C303+7E36E2E7+7E36E303+7E3702E7+7E370303+7E3722E7+7E372303"
+cheat31_enable = false
+
+cheat32_desc = "[全体队员能力全满]ON"
+cheat32_code = "7E340562+7E342562+7E344562+7E346562+7E348562+7E34A562+7E34C562+7E34E562+7E350562+7E352562+7E354562"
+cheat32_enable = false
+
+cheat33_desc = "[气力]ON"
+cheat33_code = "7E3522FF+7E3422FF+7E3402FF+7E3442FF+7E3462FF+7E3482FF+7E34A2FF+7E34C2FF+7E34E2FF+7E3502FF+7E3542FF"
+cheat33_enable = false
+
+cheat34_desc = "[超级世界队]ON"
+cheat34_code = "7E342141+7E344123+7E34611F+7E34811C+7E34A146+7E34C12B+7E34E121+7E350119+7E352101+7E35412A+7E340000+7E342000+7E344000+7E346000+7E348000+7E34A000+7E34C000+7E34E000+7E350000+7E352000+7E354000"
+cheat34_enable = false
+
+cheat35_desc = "[体力全满]ON"
+cheat35_code = "7E3402E7+7E340303+7E3422E7+7E342303+7E3442E7+7E344303+7E3462E7+7E346303+7E3482E7+7E348303+7E34A2E7+7E34A303+7E34C2E7+7E34C303+7E34E2E7+7E34E303+7E3502E7+7E350303+7E3522E7+7E352303+7E3542E7+7E354303+7E3414E7+7E341503+7E3434E7+7E343503+7E3454E7+7E345503+7E3474E7+7E347503+7E3494E7+7E349503+7E34B4E7+7E34B503+7E34D4E7+7E34D503+7E34F4E7+7E34F503+7E3514E7+7E351503+7E3534E7+7E353503+7E3554E7+7E355503"
+cheat35_enable = false
+
+cheat36_desc = "[能力全满]ON"
+cheat36_code = "7E340563+7E342563+7E344563+7E346563+7E348563+7E34A563+7E34C563+7E34E563+7E350563+7E352563+7E354563+7E341200+7E343200+7E345200+7E347200+7E349200+7E34B200+7E34D200+7E34F200+7E351200+7E353200+7E355200"
+cheat36_enable = false
+
+cheat37_desc = "[守门员选择]若岛津健"
+cheat37_code = "7E340122"
+cheat37_enable = false
+
+cheat38_desc = "[守门员选择]若林源三"
+cheat38_code = "7E340120"
+cheat38_enable = false
+
+cheat39_desc = "[守门员选择]另一个守门员"
+cheat39_code = "7E340142"
+cheat39_enable = false
+

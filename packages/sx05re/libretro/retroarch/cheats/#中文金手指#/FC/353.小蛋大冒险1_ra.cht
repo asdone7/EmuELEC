@@ -1,0 +1,358 @@
+cheats = 89
+
+cheat0_desc = "[道具1]火柴"
+cheat0_code = "006E:00"
+cheat0_enable = false
+
+cheat1_desc = "[道具1]木柴"
+cheat1_code = "006E:01"
+cheat1_enable = false
+
+cheat2_desc = "[道具1]有水的桶"
+cheat2_code = "006E:02"
+cheat2_enable = false
+
+cheat3_desc = "[道具1]小的笼子"
+cheat3_code = "006E:03"
+cheat3_enable = false
+
+cheat4_desc = "[道具1]重的铁锹"
+cheat4_code = "006E:04"
+cheat4_enable = false
+
+cheat5_desc = "[道具1]面包"
+cheat5_code = "006E:05"
+cheat5_enable = false
+
+cheat6_desc = "[道具1]一对浆勺"
+cheat6_code = "006E:06"
+cheat6_enable = false
+
+cheat7_desc = "[道具1]黄金的竖琴"
+cheat7_code = "006E:07"
+cheat7_enable = false
+
+cheat8_desc = "[道具1]花样的旧钥匙"
+cheat8_code = "006E:08"
+cheat8_enable = false
+
+cheat9_desc = "[道具1]铜的喇叭"
+cheat9_code = "006E:09"
+cheat9_enable = false
+
+cheat10_desc = "[道具1]饮料"
+cheat10_code = "006E:0A"
+cheat10_enable = false
+
+cheat11_desc = "[道具1]钳子"
+cheat11_code = "006E:0B"
+cheat11_enable = false
+
+cheat12_desc = "[道具1]扳手"
+cheat12_code = "006E:0C"
+cheat12_enable = false
+
+cheat13_desc = "[道具1]一堆木头"
+cheat13_code = "006E:0D"
+cheat13_enable = false
+
+cheat14_desc = "[道具1]奶酪"
+cheat14_code = "006E:0E"
+cheat14_enable = false
+
+cheat15_desc = "[道具1]尖刺"
+cheat15_code = "006E:0F"
+cheat15_enable = false
+
+cheat16_desc = "[道具1]关着的XXX"
+cheat16_code = "006E:10"
+cheat16_enable = false
+
+cheat17_desc = "[道具1]飞毯"
+cheat17_code = "006E:11"
+cheat17_enable = false
+
+cheat18_desc = "[道具1]笑话书"
+cheat18_code = "006E:12"
+cheat18_enable = false
+
+cheat19_desc = "[道具1]帝王的旗帜"
+cheat19_code = "006E:13"
+cheat19_enable = false
+
+cheat20_desc = "[道具1]斧头"
+cheat20_code = "006E:14"
+cheat20_enable = false
+
+cheat21_desc = "[道具1]黄金的十字"
+cheat21_code = "006E:15"
+cheat21_enable = false
+
+cheat22_desc = "[道具1]长的树枝"
+cheat22_code = "006E:16"
+cheat22_enable = false
+
+cheat23_desc = "[道具1]长的绳子"
+cheat23_code = "006E:17"
+cheat23_enable = false
+
+cheat24_desc = "[道具1]空的水桶"
+cheat24_code = "006E:18"
+cheat24_enable = false
+
+cheat25_desc = "[道具1]捞鱼的网"
+cheat25_code = "006E:19"
+cheat25_enable = false
+
+cheat26_desc = "[道具1]帝王的皇冠"
+cheat26_code = "006E:1A"
+cheat26_enable = false
+
+cheat27_desc = "[道具1]大的球"
+cheat27_code = "006E:1B"
+cheat27_enable = false
+
+cheat28_desc = "[道具1](*)洞"
+cheat28_code = "006E:1C"
+cheat28_enable = false
+
+cheat29_desc = "[道具2]火柴"
+cheat29_code = "006F:00"
+cheat29_enable = false
+
+cheat30_desc = "[道具2]木柴"
+cheat30_code = "006F:01"
+cheat30_enable = false
+
+cheat31_desc = "[道具2]有水的桶"
+cheat31_code = "006F:02"
+cheat31_enable = false
+
+cheat32_desc = "[道具2]小的笼子"
+cheat32_code = "006F:03"
+cheat32_enable = false
+
+cheat33_desc = "[道具2]重的铁锹"
+cheat33_code = "006F:04"
+cheat33_enable = false
+
+cheat34_desc = "[道具2]面包"
+cheat34_code = "006F:05"
+cheat34_enable = false
+
+cheat35_desc = "[道具2]一对浆勺"
+cheat35_code = "006F:06"
+cheat35_enable = false
+
+cheat36_desc = "[道具2]黄金的竖琴"
+cheat36_code = "006F:07"
+cheat36_enable = false
+
+cheat37_desc = "[道具2]花样的旧钥匙"
+cheat37_code = "006F:08"
+cheat37_enable = false
+
+cheat38_desc = "[道具2]铜的喇叭"
+cheat38_code = "006F:09"
+cheat38_enable = false
+
+cheat39_desc = "[道具2]饮料"
+cheat39_code = "006F:0A"
+cheat39_enable = false
+
+cheat40_desc = "[道具2]钳子"
+cheat40_code = "006F:0B"
+cheat40_enable = false
+
+cheat41_desc = "[道具2]扳手"
+cheat41_code = "006F:0C"
+cheat41_enable = false
+
+cheat42_desc = "[道具2]一堆木头"
+cheat42_code = "006F:0D"
+cheat42_enable = false
+
+cheat43_desc = "[道具2]奶酪"
+cheat43_code = "006F:0E"
+cheat43_enable = false
+
+cheat44_desc = "[道具2]尖刺"
+cheat44_code = "006F:0F"
+cheat44_enable = false
+
+cheat45_desc = "[道具2]关着的XXX"
+cheat45_code = "006F:10"
+cheat45_enable = false
+
+cheat46_desc = "[道具2]飞毯"
+cheat46_code = "006F:11"
+cheat46_enable = false
+
+cheat47_desc = "[道具2]笑话书"
+cheat47_code = "006F:12"
+cheat47_enable = false
+
+cheat48_desc = "[道具2]帝王的旗帜"
+cheat48_code = "006F:13"
+cheat48_enable = false
+
+cheat49_desc = "[道具2]斧头"
+cheat49_code = "006F:14"
+cheat49_enable = false
+
+cheat50_desc = "[道具2]黄金的十字"
+cheat50_code = "006F:15"
+cheat50_enable = false
+
+cheat51_desc = "[道具2]长的树枝"
+cheat51_code = "006F:16"
+cheat51_enable = false
+
+cheat52_desc = "[道具2]长的绳子"
+cheat52_code = "006F:17"
+cheat52_enable = false
+
+cheat53_desc = "[道具2]空的水桶"
+cheat53_code = "006F:18"
+cheat53_enable = false
+
+cheat54_desc = "[道具2]捞鱼的网"
+cheat54_code = "006F:19"
+cheat54_enable = false
+
+cheat55_desc = "[道具2]帝王的皇冠"
+cheat55_code = "006F:1A"
+cheat55_enable = false
+
+cheat56_desc = "[道具2]大的球"
+cheat56_code = "006F:1B"
+cheat56_enable = false
+
+cheat57_desc = "[道具2](*)洞"
+cheat57_code = "006F:1C"
+cheat57_enable = false
+
+cheat58_desc = "[道具3]火柴"
+cheat58_code = "0070:00"
+cheat58_enable = false
+
+cheat59_desc = "[道具3]木柴"
+cheat59_code = "0070:01"
+cheat59_enable = false
+
+cheat60_desc = "[道具3]有水的桶"
+cheat60_code = "0070:02"
+cheat60_enable = false
+
+cheat61_desc = "[道具3]小的笼子"
+cheat61_code = "0070:03"
+cheat61_enable = false
+
+cheat62_desc = "[道具3]重的铁锹"
+cheat62_code = "0070:04"
+cheat62_enable = false
+
+cheat63_desc = "[道具3]面包"
+cheat63_code = "0070:05"
+cheat63_enable = false
+
+cheat64_desc = "[道具3]一对浆勺"
+cheat64_code = "0070:06"
+cheat64_enable = false
+
+cheat65_desc = "[道具3]黄金的竖琴"
+cheat65_code = "0070:07"
+cheat65_enable = false
+
+cheat66_desc = "[道具3]花样的旧钥匙"
+cheat66_code = "0070:08"
+cheat66_enable = false
+
+cheat67_desc = "[道具3]铜的喇叭"
+cheat67_code = "0070:09"
+cheat67_enable = false
+
+cheat68_desc = "[道具3]饮料"
+cheat68_code = "0070:0A"
+cheat68_enable = false
+
+cheat69_desc = "[道具3]钳子"
+cheat69_code = "0070:0B"
+cheat69_enable = false
+
+cheat70_desc = "[道具3]扳手"
+cheat70_code = "0070:0C"
+cheat70_enable = false
+
+cheat71_desc = "[道具3]一堆木头"
+cheat71_code = "0070:0D"
+cheat71_enable = false
+
+cheat72_desc = "[道具3]奶酪"
+cheat72_code = "0070:0E"
+cheat72_enable = false
+
+cheat73_desc = "[道具3]尖刺"
+cheat73_code = "0070:0F"
+cheat73_enable = false
+
+cheat74_desc = "[道具3]关着的XXX"
+cheat74_code = "0070:10"
+cheat74_enable = false
+
+cheat75_desc = "[道具3]飞毯"
+cheat75_code = "0070:11"
+cheat75_enable = false
+
+cheat76_desc = "[道具3]笑话书"
+cheat76_code = "0070:12"
+cheat76_enable = false
+
+cheat77_desc = "[道具3]帝王的旗帜"
+cheat77_code = "0070:13"
+cheat77_enable = false
+
+cheat78_desc = "[道具3]斧头"
+cheat78_code = "0070:14"
+cheat78_enable = false
+
+cheat79_desc = "[道具3]黄金的十字"
+cheat79_code = "0070:15"
+cheat79_enable = false
+
+cheat80_desc = "[道具3]长的树枝"
+cheat80_code = "0070:16"
+cheat80_enable = false
+
+cheat81_desc = "[道具3]长的绳子"
+cheat81_code = "0070:17"
+cheat81_enable = false
+
+cheat82_desc = "[道具3]空的水桶"
+cheat82_code = "0070:18"
+cheat82_enable = false
+
+cheat83_desc = "[道具3]捞鱼的网"
+cheat83_code = "0070:19"
+cheat83_enable = false
+
+cheat84_desc = "[道具3]帝王的皇冠"
+cheat84_code = "0070:1A"
+cheat84_enable = false
+
+cheat85_desc = "[道具3]大的球"
+cheat85_code = "0070:1B"
+cheat85_enable = false
+
+cheat86_desc = "[道具3](*)洞"
+cheat86_code = "0070:1C"
+cheat86_enable = false
+
+cheat87_desc = "[人数]ON"
+cheat87_code = "009E:09"
+cheat87_enable = false
+
+cheat88_desc = "[剩余五星,使用后解开]1"
+cheat88_code = "009F:01"
+cheat88_enable = false
+

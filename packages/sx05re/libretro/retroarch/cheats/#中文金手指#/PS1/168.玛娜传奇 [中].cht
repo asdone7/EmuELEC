@@ -1,0 +1,101 @@
+cheats = 24
+
+cheat0_desc = "#99级"
+cheat0_code = "30043750 0063"
+cheat0_enable = false
+
+cheat1_desc = "#HP 999"
+cheat1_code = "80043754 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#Max Money"
+cheat2_code = "8004316C 967F+8004316E 0098"
+cheat2_enable = false
+
+cheat3_desc = "#启用调试室"
+cheat3_code = "80102752 0002"
+cheat3_enable = false
+
+cheat4_desc = "#Max Stats Hero"
+cheat4_code = "80043760 FF00+80043762 FF00+80043764 FF00+80043766 FF00+80043768 FF00+8004376A FF00+8004376C FF00+8004376E FF00"
+cheat4_enable = false
+
+cheat5_desc = "#敌人死亡打击"
+cheat5_code = "D00B2CE8 0003+800B2CE0 0005+D00B2CE8 0003+800B2CE2 1140"
+cheat5_enable = false
+
+cheat6_desc = "#无敌/英雄"
+cheat6_code = "30105328 0002"
+cheat6_enable = false
+
+cheat7_desc = "#不降低盟友HP"
+cheat7_code = "D00B2CE8 0003+800B2CE0 0006+D00B2CE8 0003+800B2CE2 1540"
+cheat7_enable = false
+
+cheat8_desc = "#敌人HP1"
+cheat8_code = "D00B3E00 0004+800B3E00 0001"
+cheat8_enable = false
+
+cheat9_desc = "#99拥有物品（不包括装备）"
+cheat9_code = "D0143370 0220+8014BDF0 0063+D0143370 0220+8014BDF2 2402+D0143370 0220+8014BDF6 A242"
+cheat9_enable = false
+
+cheat10_desc = "#武器攻击力999"
+cheat10_code = "D0143370 0220+801461B0 03E7+D0143370 0220+801461B2 2406+D0143370 0220+801461BE A446"
+cheat10_enable = false
+
+cheat11_desc = "#装甲防御99"
+cheat11_code = "D0143370 0220+80146774 0063+D0143370 0220+80146776 2406+D0143370 0220+8014678A A446"
+cheat11_enable = false
+
+cheat12_desc = "#经验值MAX并拿珠宝"
+cheat12_code = "D00C0C78 0006+800C0C78 0001"
+cheat12_enable = false
+
+cheat13_desc = "#始终可用的致命一击"
+cheat13_code = "D008E3EC 0006+8008E3EE 1000"
+cheat13_enable = false
+
+cheat14_desc = "#我可以阅读全部"
+
+cheat14_desc = "人绘本"
+cheat14_code = "D01413B0 0220+80143D0C 1025"
+cheat14_enable = false
+
+cheat15_desc = "#我可以阅读所有土地书"
+cheat15_code = "D01413B0 0220+801433BC 1025"
+cheat15_enable = false
+
+cheat16_desc = "#我可以阅读所有神器图画书"
+cheat16_code = "D01413B0 0220+80143728 1025"
+cheat16_enable = false
+
+cheat17_desc = "#我可以阅读所有《怪物百科全书》"
+cheat17_code = "D01413B0 0220+80143AD0 1025+D01413B0 0220+80143BC8 1025"
+cheat17_enable = false
+
+cheat18_desc = "#我可以阅读所有Deathblow图画书"
+cheat18_code = "D01413B0 0220+80144594 1025"
+cheat18_enable = false
+
+cheat19_desc = "#永远打赢这场战斗"
+cheat19_code = "80172190 E000"
+cheat19_enable = false
+
+cheat20_desc = "#不会减少生命"
+cheat20_code = "8017203E 1E00+80172216 E00B"
+cheat20_enable = false
+
+cheat21_desc = "#物品完全打开"
+cheat21_code = "5000FF01 0000+30045720 0063"
+cheat21_enable = false
+
+cheat22_desc = "#仙人掌坤日记ALL"
+cheat22_code = "3004622D 00FF+8004622E CFFF+80046230 F7F7+80046232 FA9F+80046234高炉+30046236 0033"
+cheat22_enable = false
+
+cheat23_desc = "#World字典ALL"
+cheat23_code = "30046238 00FF"
+cheat23_enable = false
+
+

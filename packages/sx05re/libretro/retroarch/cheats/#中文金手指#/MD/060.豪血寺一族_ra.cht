@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[无限时间]ON"
+cheat0_code = "FF6576:99"
+cheat0_enable = false
+
+cheat1_desc = "[1P体力]MAX"
+cheat1_code = "FF86B6:FF"
+cheat1_enable = false
+
+cheat2_desc = "[1P体力]MIN"
+cheat2_code = "FF86B6:00"
+cheat2_enable = false
+
+cheat3_desc = "[2P体力]MAX"
+cheat3_code = "FF88B6:FF"
+cheat3_enable = false
+
+cheat4_desc = "[2P体力]MIN"
+cheat4_code = "FF88B6:00"
+cheat4_enable = false
+

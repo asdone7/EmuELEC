@@ -1,0 +1,34 @@
+cheats = 8
+
+cheat0_desc = "[生命无限]ON"
+cheat0_code = "7E106214+7E1E5014"
+cheat0_enable = false
+
+cheat1_desc = "[关卡重置]ON"
+cheat1_code = "7E100522"
+cheat1_enable = false
+
+cheat2_desc = "[999 ZAM]ON"
+cheat2_code = "7E1063E7+7E106403"
+cheat2_enable = false
+
+cheat3_desc = "[无敌]ON"
+cheat3_code = "7E103CFF"
+cheat3_enable = false
+
+cheat4_desc = "[最终型态可直接发射集气飞弹(配合最终型态使用)]ON"
+cheat4_code = "7E107378"
+cheat4_enable = false
+
+cheat5_desc = "[全物品+7E能力获得]ON"
+cheat5_code = "7E1E52FF+7E1E53FF+7E1E54FF"
+cheat5_enable = false
+
+cheat6_desc = "[连续发射火焰弹开启]ON"
+cheat6_code = "7E103B00"
+cheat6_enable = false
+
+cheat7_desc = "[BOSS一击毙杀]ON"
+cheat7_code = "7E133600"
+cheat7_enable = false
+

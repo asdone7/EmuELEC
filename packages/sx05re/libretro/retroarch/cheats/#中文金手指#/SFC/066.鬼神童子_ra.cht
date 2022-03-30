@@ -1,0 +1,50 @@
+cheats = 12
+
+cheat0_desc = "[HP不减]ON"
+cheat0_code = "7E021480"
+cheat0_enable = false
+
+cheat1_desc = "[无限法术]ON"
+cheat1_code = "7E021A09"
+cheat1_enable = false
+
+cheat2_desc = "[生命无限]ON"
+cheat2_code = "7E021309"
+cheat2_enable = false
+
+cheat3_desc = "[选关(大关)]第一关"
+cheat3_code = "7E020000"
+cheat3_enable = false
+
+cheat4_desc = "[选关(大关)]第二关"
+cheat4_code = "7E020001"
+cheat4_enable = false
+
+cheat5_desc = "[选关(大关)]第三关"
+cheat5_code = "7E020002"
+cheat5_enable = false
+
+cheat6_desc = "[选关(大关)]第四关"
+cheat6_code = "7E020003"
+cheat6_enable = false
+
+cheat7_desc = "[选关(大关)]第五关"
+cheat7_code = "7E020004"
+cheat7_enable = false
+
+cheat8_desc = "[选关(小关)]第一小关"
+cheat8_code = "7E020100"
+cheat8_enable = false
+
+cheat9_desc = "[选关(小关)]第二小关"
+cheat9_code = "7E020101"
+cheat9_enable = false
+
+cheat10_desc = "[选关(小关)]第三小关"
+cheat10_code = "7E020102"
+cheat10_enable = false
+
+cheat11_desc = "[选关(小关)]BOSS"
+cheat11_code = "7E02010F"
+cheat11_enable = false
+

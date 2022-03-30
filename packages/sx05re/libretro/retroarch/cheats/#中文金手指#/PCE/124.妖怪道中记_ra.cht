@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[POWER 不减]ON"
+cheat0_code = "1F0028:10"
+cheat0_enable = false
+

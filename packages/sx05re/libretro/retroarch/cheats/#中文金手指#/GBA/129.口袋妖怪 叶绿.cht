@@ -1,0 +1,139 @@
+cheats = 34
+
+cheat0_desc = "获得999经验"
+cheat0_code = "0202280C 000000E7+0202280D 00000003+02022A3C 000000E7+02022A3D 00000003+02022B4C 000000E7+02022B4D 00000003+02023CB0 000000E7+02023CB1 00000003+02000060 000000E7+02000061 00000003"
+cheat0_enable = false
+
+cheat1_desc = "HP"
+cheat1_code = "0202423A 000000E7+0202423B 00000003+0202423C 000000E7+0202423D 00000003"
+cheat1_enable = false
+
+cheat2_desc = "能力值1"
+cheat2_code = "0202423E 000000E7+0202423F 00000003"
+cheat2_enable = false
+
+cheat3_desc = "能力值2"
+cheat3_code = "02024240 000000E7+02024241 00000003"
+cheat3_enable = false
+
+cheat4_desc = "能力值3"
+cheat4_code = "02024242 000000E7+02024243 00000003"
+cheat4_enable = false
+
+cheat5_desc = "能力值4"
+cheat5_code = "02024244 000000E7+02024245 00000003"
+cheat5_enable = false
+
+cheat6_desc = "能力值5"
+cheat6_code = "02024246 000000E7+02024247 00000003"
+cheat6_enable = false
+
+cheat7_desc = "第一技能PP"
+cheat7_code = "020227F0 00000063+02022B30 00000063+02023B68 00000063+02046844 00000063"
+cheat7_enable = false
+
+cheat8_desc = "血"
+cheat8_code = "02023B6C 0000002C+02023B6D 00000001+0202423A 0000002C+0202423B 00000001"
+cheat8_enable = false
+
+cheat9_desc = "不遇敌"
+cheat9_code = "02026534 000000F8"
+cheat9_enable = false
+
+cheat10_desc = "购买金钱"
+cheat10_code = "02039888 00000000+02039889 00000000+0203988A 00000000+0203988B 00000000+0203988C 00000000"
+cheat10_enable = false
+
+cheat11_desc = "金钱 MAX"
+cheat11_code = "02039888 00000000+02039889 00000000+0203988A 00000000+0203988B 00000000+0203988A 00000000"
+cheat11_enable = false
+
+cheat12_desc = "当前pokemon等级 MAX"
+cheat12_code = "02024238 00000064"
+cheat12_enable = false
+
+cheat13_desc = "攻击力 MAX"
+cheat13_code = "0202423E 000000E7+0202423F 00000003"
+cheat13_enable = false
+
+cheat14_desc = "防御力 MAX"
+cheat14_code = "02024240 000000E7+02024241 00000003"
+cheat14_enable = false
+
+cheat15_desc = "特攻力 MAX"
+cheat15_code = "02024242 000000E7+02024243 00000003"
+cheat15_enable = false
+
+cheat16_desc = "特防力 MAX"
+cheat16_code = "02024244 000000E7+02024245 00000003"
+cheat16_enable = false
+
+cheat17_desc = "敏捷力 MAX"
+cheat17_code = "02024246 000000E7+02024247 00000003"
+cheat17_enable = false
+
+cheat18_desc = "野生保护区内无限行动"
+cheat18_code = "1203990E 00000258"
+cheat18_enable = false
+
+cheat19_desc = "野生保护区内精灵球无限"
+cheat19_code = "0203990C 0000001E"
+cheat19_enable = false
+
+cheat20_desc = "物品可买99个"
+cheat20_code = "02045102 00000063"
+cheat20_enable = false
+
+cheat21_desc = "遇到Pokemon等级 自选"
+cheat21_code = "32023FE0 ??(1-64)"
+cheat21_enable = false
+
+cheat22_desc = "遇到Pokemon等级 等级5"
+cheat22_code = "02023FE0 00000005"
+cheat22_enable = false
+
+cheat23_desc = "遇到Pokemon等级 等级10"
+cheat23_code = "02023FE0 0000000A"
+cheat23_enable = false
+
+cheat24_desc = "遇到Pokemon等级 等级20"
+cheat24_code = "02023FE0 00000014"
+cheat24_enable = false
+
+cheat25_desc = "遇到Pokemon等级 等级30"
+cheat25_code = "02023FE0 0000001E"
+cheat25_enable = false
+
+cheat26_desc = "遇到Pokemon等级 等级40"
+cheat26_code = "02023FE0 00000028"
+cheat26_enable = false
+
+cheat27_desc = "遇到Pokemon等级 等级50"
+cheat27_code = "02023FE0 00000032"
+cheat27_enable = false
+
+cheat28_desc = "遇到Pokemon等级 等级60"
+cheat28_code = "02023FE0 0000003C"
+cheat28_enable = false
+
+cheat29_desc = "遇到Pokemon等级 等级70"
+cheat29_code = "02023FE0 00000046"
+cheat29_enable = false
+
+cheat30_desc = "遇到Pokemon等级 等级80"
+cheat30_code = "02023FE0 00000050"
+cheat30_enable = false
+
+cheat31_desc = "遇到Pokemon等级 等级90"
+cheat31_code = "02023FE0 0000005A"
+cheat31_enable = false
+
+cheat32_desc = "遇到Pokemon等级 等级100"
+cheat32_code = "02023FE0 00000064"
+cheat32_enable = false
+
+cheat33_desc = "Pokemon中心 大师球 MAX"
+cheat33_code = "020257A0 00000001"
+cheat33_enable = false
+
+

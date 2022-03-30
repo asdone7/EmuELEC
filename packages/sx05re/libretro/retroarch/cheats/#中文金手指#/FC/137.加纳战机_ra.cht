@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[机体数]ON"
+cheat0_code = "018D:99"
+cheat0_enable = false
+
+cheat1_desc = "[保险数]ON"
+cheat1_code = "018F:99"
+cheat1_enable = false
+
+cheat2_desc = "[无敌]ON"
+cheat2_code = "06A0:52"
+cheat2_enable = false
+

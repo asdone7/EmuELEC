@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[体力]ON"
+cheat0_code = "0632:23"
+cheat0_enable = false
+
+cheat1_desc = "[钱]ON"
+cheat1_code = "0627:E7"
+cheat1_enable = false
+

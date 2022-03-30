@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "答辩时允许出错的次数"
+cheat0_code = "0204384A 00000050+02043848 00000050"
+cheat0_enable = false
+
+

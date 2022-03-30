@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#无限船"
+cheat0_code = "8011426C 0009"
+cheat0_enable = false
+
+cheat1_desc = "#无限炸弹"
+cheat1_code = "80114264 0003"
+cheat1_enable = false
+
+cheat2_desc = "#在得分攻击模式下解锁所有阶段"
+cheat2_code = "80095074 0006"
+cheat2_enable = false
+
+cheat3_desc = "#最大火力"
+cheat3_code = "80114260 0003"
+cheat3_enable = false
+
+cheat4_desc = "#Max（100）左栏上的三角形"
+cheat4_code = "8010C412 0064"
+cheat4_enable = false
+
+cheat5_desc = "#总是有超级枪"
+cheat5_code = "8010D50A 0008"
+cheat5_enable = false
+
+

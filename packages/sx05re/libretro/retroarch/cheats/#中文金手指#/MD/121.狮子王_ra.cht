@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[最大体力]ON"
+cheat0_code = "FFCCF6:09+FFCCF8:0E"
+cheat0_enable = false
+
+cheat1_desc = "[最大生命]ON"
+cheat1_code = "FFCCEE:09"
+cheat1_enable = false
+
+cheat2_desc = "[声波最强]ON"
+cheat2_code = "FFCCF0:FF+FFCCF2:FF"
+cheat2_enable = false
+

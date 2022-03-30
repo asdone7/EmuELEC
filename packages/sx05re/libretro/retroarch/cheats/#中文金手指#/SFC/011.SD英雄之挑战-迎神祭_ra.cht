@@ -1,0 +1,106 @@
+cheats = 26
+
+cheat0_desc = "[HP]ON"
+cheat0_code = "7E043414+7E044914"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "7E0D4AFF"
+cheat1_enable = false
+
+cheat2_desc = "[闪烁无敌]ON"
+cheat2_code = "7E0D4AFF+7E0528FF"
+cheat2_enable = false
+
+cheat3_desc = "[金钱]ON"
+cheat3_code = "7E0432FF+7E0433FF"
+cheat3_enable = false
+
+cheat4_desc = "[特殊武器种类]丸子"
+cheat4_code = "7E044441+7E051E81+7E051F01"
+cheat4_enable = false
+
+cheat5_desc = "[特殊武器种类]花伞"
+cheat5_code = "7E044442+7E051E82+7E051F02"
+cheat5_enable = false
+
+cheat6_desc = "[特殊武器种类]烤玉米"
+cheat6_code = "7E044443+7E051E83+7E051F03"
+cheat6_enable = false
+
+cheat7_desc = "[特殊武器种类]悠悠球"
+cheat7_code = "7E044444+7E051E84+7E051F04"
+cheat7_enable = false
+
+cheat8_desc = "[特殊武器种类]S"
+cheat8_code = "7E044445+7E051E85+7E051F05"
+cheat8_enable = false
+
+cheat9_desc = "[特殊武器种类]焰火"
+cheat9_code = "7E044446+7E051E86+7E051F06"
+cheat9_enable = false
+
+cheat10_desc = "[特殊武器种类]假面超人"
+cheat10_code = "7E044447+7E051E86+7E051F07"
+cheat10_enable = false
+
+cheat11_desc = "[特殊武器种类]火龙"
+cheat11_code = "7E044448+7E051E86+7E051F08"
+cheat11_enable = false
+
+cheat12_desc = "[特殊武器种类]老鼠焰火"
+cheat12_code = "7E044449+7E051E86+7E051F09"
+cheat12_enable = false
+
+cheat13_desc = "[特殊武器种类]气球"
+cheat13_code = "7E04444A+7E051E87+7E051F0A"
+cheat13_enable = false
+
+cheat14_desc = "[特殊武器种类]回复"
+cheat14_code = "7E04444B+7E051E88+7E051F0B"
+cheat14_enable = false
+
+cheat15_desc = "[特殊武器数量]ON"
+cheat15_code = "7E0520FF"
+cheat15_enable = false
+
+cheat16_desc = "[换人]巴尔丹星人"
+cheat16_code = "7E042000"
+cheat16_enable = false
+
+cheat17_desc = "[换人]奥特曼"
+cheat17_code = "7E042001"
+cheat17_enable = false
+
+cheat18_desc = "[换人]GP-01"
+cheat18_code = "7E042002"
+cheat18_enable = false
+
+cheat19_desc = "[换人]假面超人"
+cheat19_code = "7E042003"
+cheat19_enable = false
+
+cheat20_desc = "[MINI游戏弹珠人数]ON"
+cheat20_code = "7E103C63"
+cheat20_enable = false
+
+cheat21_desc = "[MINI游戏弹珠分数]ON"
+cheat21_code = "7E1041FF+7E1042FF"
+cheat21_enable = false
+
+cheat22_desc = "[MINI游戏方块速胜]ON"
+cheat22_code = "7E1024FF"
+cheat22_enable = false
+
+cheat23_desc = "[MINI游戏飞机无敌]ON"
+cheat23_code = "7E1068FF"
+cheat23_enable = false
+
+cheat24_desc = "[MINI游戏飞机最强]ON"
+cheat24_code = "7E104FBF+7E10A005+7E10A405+7E10A80A"
+cheat24_enable = false
+
+cheat25_desc = "[MINI游戏飞机分数]ON"
+cheat25_code = "7E10AAFF+7E10ABFF"
+cheat25_enable = false
+

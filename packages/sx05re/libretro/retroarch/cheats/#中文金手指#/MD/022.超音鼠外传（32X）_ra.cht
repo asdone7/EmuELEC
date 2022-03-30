@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[RIMGS] ON"
+cheat0_code = "FFE008:FF "
+cheat0_enable = false
+
+cheat1_desc = "[时间不减] ON"
+cheat1_code = "FFE010:0 "
+cheat1_enable = false
+

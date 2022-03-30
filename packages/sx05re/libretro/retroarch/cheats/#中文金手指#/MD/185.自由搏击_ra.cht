@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1p体力]ON"
+cheat0_code = "FFD0C2:3A"
+cheat0_enable = false
+
+cheat1_desc = "[2p体力]ON"
+cheat1_code = "FFD0C4:3A"
+cheat1_enable = false
+

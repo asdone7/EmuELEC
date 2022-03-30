@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[体力]ON"
+cheat0_code = "7EB03228"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "7EB04A28"
+cheat1_enable = false
+
+cheat2_desc = "[弹药]ON"
+cheat2_code = "7EA9B0E7+7EA9B103+7EA9B2E7+7EA9B303+7EA9B6E7+7EA9B703+7EA9B8E7+7EA9B903"
+cheat2_enable = false
+

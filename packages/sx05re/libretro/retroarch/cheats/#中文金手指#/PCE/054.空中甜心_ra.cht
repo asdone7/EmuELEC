@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[体力值最大]ON"
+cheat0_code = "1F067B:70"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "1F0688:40"
+cheat1_enable = false
+

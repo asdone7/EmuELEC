@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[命] On"
+cheat0_code = "FF00DA:05"
+cheat0_enable = false
+
+cheat1_desc = "[血槽]On"
+cheat1_code = "FF007C:00+FF007D:01"
+cheat1_enable = false
+
+cheat2_desc = "[无限飞行]锁"
+cheat2_code = "FF16B2:00"
+cheat2_enable = false
+
+cheat3_desc = "[无敌] 锁"
+cheat3_code = "FF16D2:FA+FF16D3:01"
+cheat3_enable = false
+

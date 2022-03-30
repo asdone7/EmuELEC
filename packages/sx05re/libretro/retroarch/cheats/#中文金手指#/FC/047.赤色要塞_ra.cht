@@ -1,0 +1,66 @@
+cheats = 16
+
+cheat0_desc = "[1P 生命数]ON"
+cheat0_code = "00031:09"
+cheat0_enable = false
+
+cheat1_desc = "[1P 选择武器]手榴弹"
+cheat1_code = "0050:00"
+cheat1_enable = false
+
+cheat2_desc = "[1P 选择武器]普通导弹"
+cheat2_code = "0050:01"
+cheat2_enable = false
+
+cheat3_desc = "[1P 选择武器]二开花导弹"
+cheat3_code = "0050:02"
+cheat3_enable = false
+
+cheat4_desc = "[1P 选择武器]四开花导弹"
+cheat4_code = "0050:03"
+cheat4_enable = false
+
+cheat5_desc = "[1P 无敌]OFF"
+cheat5_code = "0052:00"
+cheat5_enable = false
+
+cheat6_desc = "[1P 无敌]ON"
+cheat6_code = "0052:7A"
+cheat6_enable = false
+
+cheat7_desc = "[2P 生命数]ON"
+cheat7_code = "0032:09"
+cheat7_enable = false
+
+cheat8_desc = "[2P 选择武器]手榴弹"
+cheat8_code = "0051:00"
+cheat8_enable = false
+
+cheat9_desc = "[2P 选择武器]普通导弹"
+cheat9_code = "0051:01"
+cheat9_enable = false
+
+cheat10_desc = "[2P 选择武器]二开花导弹"
+cheat10_code = "0051:02"
+cheat10_enable = false
+
+cheat11_desc = "[2P 选择武器]四开花导弹"
+cheat11_code = "0051:03"
+cheat11_enable = false
+
+cheat12_desc = "[2P 无敌]OFF"
+cheat12_code = "0052:00"
+cheat12_enable = false
+
+cheat13_desc = "[2P 无敌]ON"
+cheat13_code = "0053:7A"
+cheat13_enable = false
+
+cheat14_desc = "[人质MAX]ON"
+cheat14_code = "0054:99"
+cheat14_enable = false
+
+cheat15_desc = "[飞弹强度MAX]ON"
+cheat15_code = "0050:FF"
+cheat15_enable = false
+

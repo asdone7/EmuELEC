@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "棍的耐久度"
+cheat0_code = "02009818 0000000A"
+cheat0_enable = false
+
+cheat1_desc = "血"
+cheat1_code = "02026A6C 000000E8+02026A6D 00000003+0200B9F0 00000012"
+cheat1_enable = false
+
+

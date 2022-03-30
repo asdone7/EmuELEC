@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#Infinite Lives Player 1"
+cheat0_code = "801B0D20 0004"
+cheat0_enable = false
+
+cheat1_desc = "#Infinite Lives Player 2"
+cheat1_code = "801B0D94 0004"
+cheat1_enable = false
+
+

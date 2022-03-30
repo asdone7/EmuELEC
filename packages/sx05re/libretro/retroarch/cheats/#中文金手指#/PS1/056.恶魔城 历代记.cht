@@ -1,0 +1,63 @@
+cheats = 15
+
+cheat0_desc = "#Inf Lives"
+cheat0_code = "80059292 0063"
+cheat0_enable = false
+
+cheat1_desc = "#Inf Hp"
+cheat1_code = "8005A822 0010"
+cheat1_enable = false
+
+cheat2_desc = "#无敌"
+cheat2_code = "8005A828 006B"
+cheat2_enable = false
+
+cheat3_desc = "#从1级开始游戏-城堡入口"
+cheat3_code = "800592C4 0000"
+cheat3_enable = false
+
+cheat4_desc = "#在2级开始游戏-洞穴"
+cheat4_code = "800592C4 0001"
+cheat4_enable = false
+
+cheat5_desc = "#3级开始游戏-庭院"
+cheat5_code = "800592C4 0002"
+cheat5_enable = false
+
+cheat6_desc = "#4级开始游戏-皇家教堂"
+cheat6_code = "800592C4 0003"
+cheat6_enable = false
+
+cheat7_desc = "#5级开始游戏-钟楼"
+cheat7_code = "800592C4 0004"
+cheat7_enable = false
+
+cheat8_desc = "#6级开始游戏-浮动走廊"
+cheat8_code = "800592C4 0005"
+cheat8_enable = false
+
+cheat9_desc = "#从7级开始游戏-监狱"
+cheat9_code = "800592C4 0006"
+cheat9_enable = false
+
+cheat10_desc = "#在8级开始游戏-最终水平-编年史"
+cheat10_code = "800592C4 0007"
+cheat10_enable = false
+
+cheat11_desc = "#以原始和编排模式观看结尾/ FMV"
+cheat11_code = "8010564C 001B"
+cheat11_enable = false
+
+cheat12_desc = "#在编排模式下启用所有模式"
+cheat12_code = "3006E464 0001"
+cheat12_enable = false
+
+cheat13_desc = "#启用照片库"
+cheat13_code = "3006E461 001A"
+cheat13_enable = false
+
+cheat14_desc = "#进入特殊选项屏幕"
+cheat14_code = "D0059270 000F+80059286 001C"
+cheat14_enable = false
+
+

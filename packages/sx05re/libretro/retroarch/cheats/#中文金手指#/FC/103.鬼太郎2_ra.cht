@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[鬼太郎体力255]ON"
+cheat0_code = "02DA:FF"
+cheat0_enable = false
+
+cheat1_desc = "[鬼太郎妖力255]ON"
+cheat1_code = "02DB:FF"
+cheat1_enable = false
+
+cheat2_desc = "[鬼太郎攻击力255]ON"
+cheat2_code = "02DC:FF"
+cheat2_enable = false
+
+cheat3_desc = "[鬼太郎经验值999]ON"
+cheat3_code = "00AB:E7+00AC:03"
+cheat3_enable = false
+

@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "氧气不减"
+cheat0_code = "0204107E 00000064"
+cheat0_enable = false
+
+cheat1_desc = "生命不减"
+cheat1_code = "02041087 00000009"
+cheat1_enable = false
+
+cheat2_desc = "隐藏角色 外星兔"
+cheat2_code = "02001191 00000006"
+cheat2_enable = false
+
+cheat3_desc = "隐藏角色 剑士"
+cheat3_code = "02001191 00000008"
+cheat3_enable = false
+
+cheat4_desc = "米数"
+cheat4_code = "02002124 00000088+02002125 00000013"
+cheat4_enable = false
+
+cheat5_desc = "超强砖"
+cheat5_code = "02001191 0000000A"
+cheat5_enable = false
+
+

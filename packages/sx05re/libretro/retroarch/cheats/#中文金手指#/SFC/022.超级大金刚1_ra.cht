@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[大猿无敌]ON"
+cheat0_code = "7E16D503 "
+cheat0_enable = false
+
+cheat1_desc = "[大猿闪烁]ON"
+cheat1_code = "7E16D103 "
+cheat1_enable = false
+
+cheat2_desc = "[小猿无敌]ON"
+cheat2_code = "7E16C803"
+cheat2_enable = false
+

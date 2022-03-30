@@ -1,0 +1,63 @@
+cheats = 15
+
+cheat0_desc = "#无限马力"
+cheat0_code = "800A202C 03E7+800A202E 03E7"
+cheat0_enable = false
+
+cheat1_desc = "#无限弹药"
+cheat1_code = "800A2032 1010"
+cheat1_enable = false
+
+cheat2_desc = "#无限项"
+cheat2_code = "800A2038 0909+800A203A 0909"
+cheat2_enable = false
+
+cheat3_desc = "#无限合作伙伴"
+cheat3_code = "800A341C 03E7+800A341E 03E7"
+cheat3_enable = false
+
+cheat4_desc = "#无限物品合作伙伴"
+cheat4_code = "800A3428 0909+300A342A 0009"
+cheat4_enable = false
+
+cheat5_desc = "#无限时间"
+cheat5_code = "80074B2C 1940"
+cheat5_enable = false
+
+cheat6_desc = "#将合作伙伴更改为Harry（选择屏幕）（可以从一个阶段使用此本地语言）"
+cheat6_code = "8000E2FC 0000"
+cheat6_enable = false
+
+cheat7_desc = "#将合作伙伴更改为西西里岛（选择屏幕）（可以从一个阶段使用此本地语言）"
+cheat7_code = "8000E2FC 0000"
+cheat7_enable = false
+
+cheat8_desc = "#将合作伙伴更改为玛丽亚（选择屏幕）（可以从一个阶段使用此本地语言）"
+cheat8_code = "8000E2FC 0000"
+cheat8_enable = false
+
+cheat9_desc = "#将合作伙伴更改为百吉饼（选择屏幕）（可以从一个阶段使用此本地语言）"
+cheat9_code = "8000E2FC 0000"
+cheat9_enable = false
+
+cheat10_desc = "#将合作伙伴更改为狙击手（选择屏幕）（可以从一个阶段使用此本地语言）"
+cheat10_code = "8000E2FC 0004"
+cheat10_enable = false
+
+cheat11_desc = "#将合作伙伴更改为Nay（选择屏幕）（可以从一个阶段使用此本地语言）"
+cheat11_code = "8000E2FC 0005"
+cheat11_enable = false
+
+cheat12_desc = "#无敌主角"
+cheat12_code = "D00A2082 0000+300A2082 00FF"
+cheat12_enable = false
+
+cheat13_desc = "#无敌伙伴"
+cheat13_code = "D00A3472 0000+300A3472 00FF"
+cheat13_enable = false
+
+cheat14_desc = "#开放专家和培训模式"
+cheat14_code = "8009BE98 0300"
+cheat14_enable = false
+
+

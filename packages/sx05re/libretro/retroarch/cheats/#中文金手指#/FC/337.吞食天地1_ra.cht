@@ -1,0 +1,74 @@
+cheats = 18
+
+cheat0_desc = "[兵粮]ON"
+cheat0_code = "0879:7F+087A:96+087B:0F"
+cheat0_enable = false
+
+cheat1_desc = "[金钱]ON"
+cheat1_code = "0876:3F+0877:42+0878:0F"
+cheat1_enable = false
+
+cheat2_desc = "[生命值]999999"
+cheat2_code = "0960:3F+0961:42+0962:0F+0964:3F+0965:42+0966:0F+0968:3F+0969:42+096A:0F+096C:3F+096D:42+096E:0F+0970:3F+0971:42+0972:0F+0974:3F+0975:42+0976:0F+0978:3F+0979:42+097A:0F"
+cheat2_enable = false
+
+cheat3_desc = "[战斗后总经验值]999"
+cheat3_code = "0870:E7+0871:03"
+cheat3_enable = false
+
+cheat4_desc = "[战斗后总经验值]9999"
+cheat4_code = "0870:0F+0871:27"
+cheat4_enable = false
+
+cheat5_desc = "[战斗后总经验值]99999"
+cheat5_code = "0870:9F+0871:86+0872:01"
+cheat5_enable = false
+
+cheat6_desc = "[战斗后总经验值]999999"
+cheat6_code = "0870:3F+0871:42+0872:0F"
+cheat6_enable = false
+
+cheat7_desc = "[所有人武力与智力与SP]255"
+cheat7_code = "099C:FF+099D:FF+099E:FF+099F:FF+09A0:FF+09A1:FF+09A2:FF+09A8:FF+09A9:FF+09AA:FF+09AB:FF+09AC:FF+09AD:FF+09AE:FF+09FB:FF"
+cheat7_enable = false
+
+cheat8_desc = "[防御力]255"
+cheat8_code = "08B4:FF+08B5:FF+08B6:FF+08B7:FF+08B8:FF+08B9:FF+08BA:FF"
+cheat8_enable = false
+
+cheat9_desc = "[第一个道具]守护烟"
+cheat9_code = "0918:2B"
+cheat9_enable = false
+
+cheat10_desc = "[第一个道具]神行符"
+cheat10_code = "0918:28"
+cheat10_enable = false
+
+cheat11_desc = "[第一个道具]赤兔马"
+cheat11_code = "0918:21"
+cheat11_enable = false
+
+cheat12_desc = "[第一个道具]火神头盔100"
+cheat12_code = "0918:6F"
+cheat12_enable = false
+
+cheat13_desc = "[第一个道具]正龙铠甲100"
+cheat13_code = "0918:65"
+cheat13_enable = false
+
+cheat14_desc = "[第一个道具]成功之剑240"
+cheat14_code = "0918:4F"
+cheat14_enable = false
+
+cheat15_desc = "[第一个道具]土龙剑240"
+cheat15_code = "0918:50"
+cheat15_enable = false
+
+cheat16_desc = "[第一个道具]正龙刀240"
+cheat16_code = "0918:51"
+cheat16_enable = false
+
+cheat17_desc = "[第一个道具]正气戟250"
+cheat17_code = "0918:52"
+cheat17_enable = false
+

@@ -1,0 +1,39 @@
+cheats = 9
+
+cheat0_desc = "金钱"
+cheat0_code = "0202D9F0 000000FF+0202D9F1 000000E0+0202D9F2 000000F5+0202D9F3 00000005"
+cheat0_enable = false
+
+cheat1_desc = "不遇敌"
+cheat1_code = "02042B8C 00000000"
+cheat1_enable = false
+
+cheat2_desc = "主角等级"
+cheat2_code = "02042BC2 00000063"
+cheat2_enable = false
+
+cheat3_desc = "主角HP上限"
+cheat3_code = "02042BC4 000000E7+02042BC5 00000003"
+cheat3_enable = false
+
+cheat4_desc = "主角HP"
+cheat4_code = "02042BC6 000000E7+02042BC7 00000003"
+cheat4_enable = false
+
+cheat5_desc = "主角AP上限"
+cheat5_code = "02042BC8 000000E7+02042BC9 00000003"
+cheat5_enable = false
+
+cheat6_desc = "主角AP"
+cheat6_code = "02042BCA 000000E7+02042BCB 00000003"
+cheat6_enable = false
+
+cheat7_desc = "主角EXP"
+cheat7_code = "02042BCC 0000007F+02042BCD 00000096+02042BCE 00000098"
+cheat7_enable = false
+
+cheat8_desc = "主角能力最高"
+cheat8_code = "02042BD0 000000FF+02042BD1 000000FF+02042BD2 000000FF+02042BD3 000000FF+02042BD4 000000FF+02042BD5 000000FF+02042BD6 0000000F+02042BD7 00000027+02042BD8 0000000F+02042BD9 00000027+02042BDA 000000FF+02042BDB 000000FF+02042BDC 000000FF"
+cheat8_enable = false
+
+

@@ -1,0 +1,598 @@
+cheats = 149
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "7E047CFF+7E047DFF+7E047EFF"
+cheat0_enable = false
+
+cheat1_desc = "[游戏时间归零]ON"
+cheat1_code = "7E038E00+7E038F00+7E039200+7E039300"
+cheat1_enable = false
+
+cheat2_desc = "[HP不减]ON"
+cheat2_code = "7E064CE7+7E064D03"
+cheat2_enable = false
+
+cheat3_desc = "[MP不减]ON"
+cheat3_code = "7E066CE7+7E066D03"
+cheat3_enable = false
+
+cheat4_desc = "[魔法咏唱不减]ON"
+cheat4_code = "7E0475FF"
+cheat4_enable = false
+
+cheat5_desc = "[HP最大值]ON"
+cheat5_code = "7E0471E7+7E047203"
+cheat5_enable = false
+
+cheat6_desc = "[MP最大值]ON"
+cheat6_code = "7E0473E7+7E047403"
+cheat6_enable = false
+
+cheat7_desc = "[力量最高]ON"
+cheat7_code = "7E0476FF"
+cheat7_enable = false
+
+cheat8_desc = "[耐久最高]ON"
+cheat8_code = "7E0477FF"
+cheat8_enable = false
+
+cheat9_desc = "[敏捷最高]ON"
+cheat9_code = "7E0478FF"
+cheat9_enable = false
+
+cheat10_desc = "[智力最高]ON"
+cheat10_code = "7E0479FF"
+cheat10_enable = false
+
+cheat11_desc = "[体力最高]ON"
+cheat11_code = "7E047AFF"
+cheat11_enable = false
+
+cheat12_desc = "[魔力最高]ON"
+cheat12_code = "7E047BFF"
+cheat12_enable = false
+
+cheat13_desc = "[物攻]ON"
+cheat13_code = "7E060CFF"
+cheat13_enable = false
+
+cheat14_desc = "[魔攻]ON"
+cheat14_code = "7E061CFF"
+cheat14_enable = false
+
+cheat15_desc = "[物防]ON"
+cheat15_code = "7E062CFF"
+cheat15_enable = false
+
+cheat16_desc = "[魔防]ON"
+cheat16_code = "7E063CFF"
+cheat16_enable = false
+
+cheat17_desc = "[战斗等级]ON"
+cheat17_code = "7E058C63"
+cheat17_enable = false
+
+cheat18_desc = "[魔法等级]ON"
+cheat18_code = "7E059C63"
+cheat18_enable = false
+
+cheat19_desc = "[第一道具种类]腕轮"
+cheat19_code = "7E04B100"
+cheat19_enable = false
+
+cheat20_desc = "[第一道具种类]光之结晶"
+cheat20_code = "7E04B101"
+cheat20_enable = false
+
+cheat21_desc = "[第一道具种类]水之结晶"
+cheat21_code = "7E04B102"
+cheat21_enable = false
+
+cheat22_desc = "[第一道具种类]地之结晶"
+cheat22_code = "7E04B103"
+cheat22_enable = false
+
+cheat23_desc = "[第一道具种类]炎之结晶"
+cheat23_code = "7E04B104"
+cheat23_enable = false
+
+cheat24_desc = "[第一道具种类]暗之结晶"
+cheat24_code = "7E04B105"
+cheat24_enable = false
+
+cheat25_desc = "[第一道具种类]风之结晶"
+cheat25_code = "7E04B106"
+cheat25_enable = false
+
+cheat26_desc = "[第一道具种类]道路笔记"
+cheat26_code = "7E04B107"
+cheat26_enable = false
+
+cheat27_desc = "[第一道具种类]开关"
+cheat27_code = "7E04B108"
+cheat27_enable = false
+
+cheat28_desc = "[第一道具种类]地图"
+cheat28_code = "7E04B109"
+cheat28_enable = false
+
+cheat29_desc = "[第一道具种类]地图2"
+cheat29_code = "7E04B10A"
+cheat29_enable = false
+
+cheat30_desc = "[第一道具种类]防热斗篷"
+cheat30_code = "7E04B10F"
+cheat30_enable = false
+
+cheat31_desc = "[第一道具种类]透视眼镜"
+cheat31_code = "7E04B113"
+cheat31_enable = false
+
+cheat32_desc = "[第一道具种类]水门钥匙"
+cheat32_code = "7E04B115"
+cheat32_enable = false
+
+cheat33_desc = "[第一道具种类]地道钥匙"
+cheat33_code = "7E04B116"
+cheat33_enable = false
+
+cheat34_desc = "[第一道具种类]リジェのメダル"
+cheat34_code = "7E04B10B"
+cheat34_enable = false
+
+cheat35_desc = "[第一道具种类]たわし"
+cheat35_code = "7E04B10C"
+cheat35_enable = false
+
+cheat36_desc = "[第一道具种类]カメリアのつぼみ"
+cheat36_code = "7E04B10D"
+cheat36_enable = false
+
+cheat37_desc = "[第一道具种类]オカリナ"
+cheat37_code = "7E04B10E"
+cheat37_enable = false
+
+cheat38_desc = "[第一道具种类]きんのコイン"
+cheat38_code = "7E04B110"
+cheat38_enable = false
+
+cheat39_desc = "[第一道具种类]ぎんのコイン"
+cheat39_code = "7E04B111"
+cheat39_enable = false
+
+cheat40_desc = "[第一道具种类]ぎんのだいざ"
+cheat40_code = "7E04B112"
+cheat40_enable = false
+
+cheat41_desc = "[第一道具种类]めがみのコイン"
+cheat41_code = "7E04B114"
+cheat41_enable = false
+
+cheat42_desc = "[第一道具种类]イシオスたわし"
+cheat42_code = "7E04B117"
+cheat42_enable = false
+
+cheat43_desc = "[第一道具种类]やくそう"
+cheat43_code = "7E04B118"
+cheat43_enable = false
+
+cheat44_desc = "[第一道具种类]プライア"
+cheat44_code = "7E04B119"
+cheat44_enable = false
+
+cheat45_desc = "[第一道具种类]ルピア"
+cheat45_code = "7E04B11A"
+cheat45_enable = false
+
+cheat46_desc = "[第一道具种类]セルリア"
+cheat46_code = "7E04B11B"
+cheat46_enable = false
+
+cheat47_desc = "[第一道具种类]タバス"
+cheat47_code = "7E04B11C"
+cheat47_enable = false
+
+cheat48_desc = "[第一道具种类]ダークプライア"
+cheat48_code = "7E04B11D"
+cheat48_enable = false
+
+cheat49_desc = "[第一道具种类]ラルダ"
+cheat49_code = "7E04B11E"
+cheat49_enable = false
+
+cheat50_desc = "[第一道具种类]H.ボーション"
+cheat50_code = "7E04B11F"
+cheat50_enable = false
+
+cheat51_desc = "[第一道具种类]M.ボーション"
+cheat51_code = "7E04B120"
+cheat51_enable = false
+
+cheat52_desc = "[第一道具种类]どくけしそう"
+cheat52_code = "7E04B121"
+cheat52_enable = false
+
+cheat53_desc = "[第一道具种类]ネードのひやく"
+cheat53_code = "7E04B122"
+cheat53_enable = false
+
+cheat54_desc = "[第一道具种类]マジュのみ"
+cheat54_code = "7E04B123"
+cheat54_enable = false
+
+cheat55_desc = "[第一道具种类]セルセタのひやく"
+cheat55_code = "7E04B124"
+cheat55_enable = false
+
+cheat56_desc = "[第一道具种类]せいめいのくすり"
+cheat56_code = "7E04B125"
+cheat56_enable = false
+
+cheat57_desc = "[第一道具种类]ひかりの石"
+cheat57_code = "7E04B126"
+cheat57_enable = false
+
+cheat58_desc = "[第一道具种类]みずの石"
+cheat58_code = "7E04B127"
+cheat58_enable = false
+
+cheat59_desc = "[第一道具种类]だいちの石"
+cheat59_code = "7E04B128"
+cheat59_enable = false
+
+cheat60_desc = "[第一道具种类]ほのあの石"
+cheat60_code = "7E04B129"
+cheat60_enable = false
+
+cheat61_desc = "[第一道具种类]ヤミの石"
+cheat61_code = "7E04B12A"
+cheat61_enable = false
+
+cheat62_desc = "[第一道具种类]かぜの石"
+cheat62_code = "7E04B12B"
+cheat62_enable = false
+
+cheat63_desc = "[全剧情道具]ON"
+cheat63_code = "7E04B100+7E04B201+7E04B302+7E04B403+7E04B504+7E04B605+7E04B706+7E04B807+7E04B908+7E04BA09+7E04BB0A+7E04BC0F+7E04BD13+7E04BE15+7E04BF16+7E051DFF+7E051EFF+7E051FFF+7E0520FF+7E0521FF+7E0522FF+7E0523FF+7E0524FF+7E0525FF+7E0526FF+7E0527FF+7E0528FF+7E0529FF+7E052AFF+7E052BFF"
+cheat63_enable = false
+
+cheat64_desc = "[拥有全道具×99]ON"
+cheat64_code = "7E04B100+7E04B201+7E04B302+7E04B403+7E04B504+7E04B605+7E04B706+7E04B807+7E04B908+7E04BA09+7E04BB0A+7E04BC0B+7E04BD0C+7E04BE0D+7E04BF0E+7E04C00F+7E04C110+7E04C211+7E04C312+7E04C413+7E04C514+7E04C615+7E04C716+7E04C817+7E04C918+7E04CA19+7E04CB1A+7E04CC1B+7E04CD1C+7E04CE1D+7E04CF1E+7E04D01F+7E04D120+7E04D221+7E04D322+7E04D423+7E04D524+7E04D625+7E04D726+7E04D827+7E04D928+7E04DA29+7E04DB2A+7E04DC2B+7E051DFF+7E051EFF+7E051FFF+7E0520FF+7E0521FF+7E0522FF+7E0523FF+7E0524FF+7E0525FF+7E0526FF+7E052763+7E052863+7E052963+7E052A63+7E052B63+7E052C63+7E052D63+7E052E63+7E052F63+7E053063+7E053163+7E053263+7E053363+7E053463+7E053563+7E053663+7E053763+7E053863+7E053963+7E053A63+7E053B63+7E053C63+7E053D63+7E053E63+7E053F63+7E054063+7E054163+7E054263+7E054363+7E054463+7E054563+7E054663+7E054763+7E054863"
+cheat64_enable = false
+
+cheat65_desc = "[武器变更]ロングンード"
+cheat65_code = "7E048C2C"
+cheat65_enable = false
+
+cheat66_desc = "[武器变更]タルワール"
+cheat66_code = "7E048C2D"
+cheat66_enable = false
+
+cheat67_desc = "[武器变更]フリッサ"
+cheat67_code = "7E048C2E"
+cheat67_enable = false
+
+cheat68_desc = "[武器变更]イシオスブレード"
+cheat68_code = "7E048C2F"
+cheat68_enable = false
+
+cheat69_desc = "[武器变更]シャムシール"
+cheat69_code = "7E048C30"
+cheat69_enable = false
+
+cheat70_desc = "[盾牌变更]ラージシールド"
+cheat70_code = "7E048D31"
+cheat70_enable = false
+
+cheat71_desc = "[盾牌变更]ラウンドシールド"
+cheat71_code = "7E048D32"
+cheat71_enable = false
+
+cheat72_desc = "[盾牌变更]ヒーターシールド"
+cheat72_code = "7E048D33"
+cheat72_enable = false
+
+cheat73_desc = "[盾牌变更]メタルシールド"
+cheat73_code = "7E048D34"
+cheat73_enable = false
+
+cheat74_desc = "[盾牌变更]イシオスシールド"
+cheat74_code = "7E048D35"
+cheat74_enable = false
+
+cheat75_desc = "[铠甲变更]レザーアーマー"
+cheat75_code = "7E048E36"
+cheat75_enable = false
+
+cheat76_desc = "[铠甲变更]チェインメイル"
+cheat76_code = "7E048E37"
+cheat76_enable = false
+
+cheat77_desc = "[铠甲变更]スケイルメイル"
+cheat77_code = "7E048E38"
+cheat77_enable = false
+
+cheat78_desc = "[铠甲变更]プレートアーマー"
+cheat78_code = "7E048E39"
+cheat78_enable = false
+
+cheat79_desc = "[铠甲变更]イシオスアーマー"
+cheat79_code = "7E048E3A"
+cheat79_enable = false
+
+cheat80_desc = "[戒指变更]パワーリング"
+cheat80_code = "7E048F3B"
+cheat80_enable = false
+
+cheat81_desc = "[戒指变更]シールドリング"
+cheat81_code = "7E048F3C"
+cheat81_enable = false
+
+cheat82_desc = "[戒指变更]タイマーリング"
+cheat82_code = "7E048F3D"
+cheat82_enable = false
+
+cheat83_desc = "[戒指变更]ヒールリング"
+cheat83_code = "7E048F3E"
+cheat83_enable = false
+
+cheat84_desc = "[戒指变更]マジックリング"
+cheat84_code = "7E048F3F"
+cheat84_enable = false
+
+cheat85_desc = "[戒指变更]ラッキールング"
+cheat85_code = "7E048F40"
+cheat85_enable = false
+
+cheat86_desc = "[戒指变更]プロテクトリング"
+cheat86_code = "7E048F41"
+cheat86_enable = false
+
+cheat87_desc = "[戒指变更]クレリアリング"
+cheat87_code = "7E048F42"
+cheat87_enable = false
+
+cheat88_desc = "[戒指变更]イシオスリング"
+cheat88_code = "7E048F43"
+cheat88_enable = false
+
+cheat89_desc = "[戒指变更]グレートリング"
+cheat89_code = "7E048F44"
+cheat89_enable = false
+
+cheat90_desc = "[戒指变更]ボスキラリング"
+cheat90_code = "7E048F45"
+cheat90_enable = false
+
+cheat91_desc = "[戒指变更]MPへうず"
+cheat91_code = "7E048F46"
+cheat91_enable = false
+
+cheat92_desc = "[拥有全装备]ON"
+cheat92_code = "7E04932C+7E04942D+7E04952E+7E04962F+7E049730+7E049831+7E049932+7E049A33+7E049B34+7E049C35+7E049D36+7E049E37+7E049F38+7E04A039+7E04A13A"
+cheat92_enable = false
+
+cheat93_desc = "[拥有全戒指]ON"
+cheat93_code = "7E04DD3B+7E04DE3C+7E04DF3D+7E04E03E+7E04E13F+7E04E240+7E04E341+7E04E442+7E04E543+7E04E644+7E04E745+7E04E846+7E054901+7E054A01+7E054B01+7E054C01+7E054D01+7E054E01+7E054F01+7E055001+7E055101+7E055201+7E055301+7E055401"
+cheat93_enable = false
+
+cheat94_desc = "[拥有全魔法石]ON"
+cheat94_code = "7E04E947+7E04EA48+7E04EB49+7E04EC4A+7E04ED4B+7E04EE4C+7E04EF4D+7E04F04E+7E04F14F+7E04F250+7E04F351+7E04F452+7E04F553+7E04F654+7E04F755+7E04F856+7E04F957+7E04FA58+7E055501+7E055601+7E055701+7E055801+7E055901+7E055A01+7E055B01+7E055C01+7E055D01+7E055E01+7E055F01+7E056001+7E056101+7E056201+7E056301+7E056401+7E056501+7E056601"
+cheat94_enable = false
+
+cheat95_desc = "[装备武器第一魔法]コンバッション"
+cheat95_code = "7E049047"
+cheat95_enable = false
+
+cheat96_desc = "[装备武器第一魔法]ラバフロウ"
+cheat96_code = "7E049048"
+cheat96_enable = false
+
+cheat97_desc = "[装备武器第一魔法]ヒートサンド"
+cheat97_code = "7E049049"
+cheat97_enable = false
+
+cheat98_desc = "[装备武器第一魔法]ヒートウィンド"
+cheat98_code = "7E04904A"
+cheat98_enable = false
+
+cheat99_desc = "[装备武器第一魔法]ヒートフラッシュ"
+cheat99_code = "7E04904B"
+cheat99_enable = false
+
+cheat100_desc = "[装备武器第一魔法]ダークフラッシュ"
+cheat100_code = "7E04904C"
+cheat100_enable = false
+
+cheat101_desc = "[装备武器第一魔法]カーレントフレム"
+cheat101_code = "7E04904D"
+cheat101_enable = false
+
+cheat102_desc = "[装备武器第一魔法]アバランチロック"
+cheat102_code = "7E04904E"
+cheat102_enable = false
+
+cheat103_desc = "[装备武器第一魔法]ラビーン"
+cheat103_code = "7E04904F"
+cheat103_enable = false
+
+cheat104_desc = "[装备武器第一魔法]ヒートポイル"
+cheat104_code = "7E049050"
+cheat104_enable = false
+
+cheat105_desc = "[装备武器第一魔法]ダークポイル"
+cheat105_code = "7E049051"
+cheat105_enable = false
+
+cheat106_desc = "[装备武器第一魔法]サンドストーム"
+cheat106_code = "7E049052"
+cheat106_enable = false
+
+cheat107_desc = "[装备武器第一魔法]ボルカニックロック"
+cheat107_code = "7E049053"
+cheat107_enable = false
+
+cheat108_desc = "[装备武器第一魔法]ヒートコール"
+cheat108_code = "7E049054"
+cheat108_enable = false
+
+cheat109_desc = "[装备武器第一魔法]フレムサンダー"
+cheat109_code = "7E049055"
+cheat109_enable = false
+
+cheat110_desc = "[装备武器第一魔法]フリージング"
+cheat110_code = "7E049056"
+cheat110_enable = false
+
+cheat111_desc = "[装备武器第一魔法]カタストロフィー"
+cheat111_code = "7E049057"
+cheat111_enable = false
+
+cheat112_desc = "[装备武器第一魔法]メガトルネード"
+cheat112_code = "7E049058"
+cheat112_enable = false
+
+cheat113_desc = "[装备武器第二魔法]コンバッション"
+cheat113_code = "7E049147"
+cheat113_enable = false
+
+cheat114_desc = "[装备武器第二魔法]ラバフロウ"
+cheat114_code = "7E049148"
+cheat114_enable = false
+
+cheat115_desc = "[装备武器第二魔法]ヒートサンド"
+cheat115_code = "7E049149"
+cheat115_enable = false
+
+cheat116_desc = "[装备武器第二魔法]ヒートウィンド"
+cheat116_code = "7E04914A"
+cheat116_enable = false
+
+cheat117_desc = "[装备武器第二魔法]ヒートフラッシュ"
+cheat117_code = "7E04914B"
+cheat117_enable = false
+
+cheat118_desc = "[装备武器第二魔法]ダークフラッシュ"
+cheat118_code = "7E04914C"
+cheat118_enable = false
+
+cheat119_desc = "[装备武器第二魔法]カーレントフレム"
+cheat119_code = "7E04914D"
+cheat119_enable = false
+
+cheat120_desc = "[装备武器第二魔法]アバランチロック"
+cheat120_code = "7E04914E"
+cheat120_enable = false
+
+cheat121_desc = "[装备武器第二魔法]ラビーン"
+cheat121_code = "7E04914F"
+cheat121_enable = false
+
+cheat122_desc = "[装备武器第二魔法]ヒートポイル"
+cheat122_code = "7E049150"
+cheat122_enable = false
+
+cheat123_desc = "[装备武器第二魔法]ダークポイル"
+cheat123_code = "7E049151"
+cheat123_enable = false
+
+cheat124_desc = "[装备武器第二魔法]サンドストーム"
+cheat124_code = "7E049152"
+cheat124_enable = false
+
+cheat125_desc = "[装备武器第二魔法]ボルカニックロック"
+cheat125_code = "7E049153"
+cheat125_enable = false
+
+cheat126_desc = "[装备武器第二魔法]ヒートコール"
+cheat126_code = "7E049154"
+cheat126_enable = false
+
+cheat127_desc = "[装备武器第二魔法]フレムサンダー"
+cheat127_code = "7E049155"
+cheat127_enable = false
+
+cheat128_desc = "[装备武器第二魔法]フリージング"
+cheat128_code = "7E049156"
+cheat128_enable = false
+
+cheat129_desc = "[装备武器第二魔法]カタストロフィー"
+cheat129_code = "7E049157"
+cheat129_enable = false
+
+cheat130_desc = "[装备武器第二魔法]メガトルネード"
+cheat130_code = "7E049158"
+cheat130_enable = false
+
+cheat131_desc = "[装备武器第三魔法]コンバッション"
+cheat131_code = "7E049247"
+cheat131_enable = false
+
+cheat132_desc = "[装备武器第三魔法]ラバフロウ"
+cheat132_code = "7E049248"
+cheat132_enable = false
+
+cheat133_desc = "[装备武器第三魔法]ヒートサンド"
+cheat133_code = "7E049249"
+cheat133_enable = false
+
+cheat134_desc = "[装备武器第三魔法]ヒートウィンド"
+cheat134_code = "7E04924A"
+cheat134_enable = false
+
+cheat135_desc = "[装备武器第三魔法]ヒートフラッシュ"
+cheat135_code = "7E04924B"
+cheat135_enable = false
+
+cheat136_desc = "[装备武器第三魔法]ダークフラッシュ"
+cheat136_code = "7E04924C"
+cheat136_enable = false
+
+cheat137_desc = "[装备武器第三魔法]カーレントフレム"
+cheat137_code = "7E04924D"
+cheat137_enable = false
+
+cheat138_desc = "[装备武器第三魔法]アバランチロック"
+cheat138_code = "7E04924E"
+cheat138_enable = false
+
+cheat139_desc = "[装备武器第三魔法]ラビーン"
+cheat139_code = "7E04924F"
+cheat139_enable = false
+
+cheat140_desc = "[装备武器第三魔法]ヒートポイル"
+cheat140_code = "7E049250"
+cheat140_enable = false
+
+cheat141_desc = "[装备武器第三魔法]ダークポイル"
+cheat141_code = "7E049251"
+cheat141_enable = false
+
+cheat142_desc = "[装备武器第三魔法]サンドストーム"
+cheat142_code = "7E049252"
+cheat142_enable = false
+
+cheat143_desc = "[装备武器第三魔法]ボルカニックロック"
+cheat143_code = "7E049253"
+cheat143_enable = false
+
+cheat144_desc = "[装备武器第三魔法]ヒートコール"
+cheat144_code = "7E049254"
+cheat144_enable = false
+
+cheat145_desc = "[装备武器第三魔法]フレムサンダー"
+cheat145_code = "7E049255"
+cheat145_enable = false
+
+cheat146_desc = "[装备武器第三魔法]フリージング"
+cheat146_code = "7E049256"
+cheat146_enable = false
+
+cheat147_desc = "[装备武器第三魔法]カタストロフィー"
+cheat147_code = "7E049257"
+cheat147_enable = false
+
+cheat148_desc = "[装备武器第三魔法]メガトルネード"
+cheat148_code = "7E049258"
+cheat148_enable = false
+

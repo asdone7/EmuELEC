@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[主角无限体力]ON"
+cheat0_code = "0091:14+0092:14"
+cheat0_enable = false
+
+cheat1_desc = "[主角无限法力]ON"
+cheat1_code = "0093:14+0094:14"
+cheat1_enable = false
+
+cheat2_desc = "[主角无限生命]ON"
+cheat2_code = "0096:99"
+cheat2_enable = false
+
+cheat3_desc = "[主角最大能量]ON"
+cheat3_code = "008E:0F+0089:0F"
+cheat3_enable = false
+
+cheat4_desc = "[主角魔法种类]火焰(八方飞散)"
+cheat4_code = "0095:00"
+cheat4_enable = false
+
+cheat5_desc = "[主角魔法种类]闪电(敌全灭)"
+cheat5_code = "0095:01"
+cheat5_enable = false
+
+cheat6_desc = "[主角魔法种类]时空(时间停止)"
+cheat6_code = "0095:02"
+cheat6_enable = false
+

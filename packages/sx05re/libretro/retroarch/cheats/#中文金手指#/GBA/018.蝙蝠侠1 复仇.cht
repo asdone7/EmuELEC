@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "暗器的数量"
+cheat0_code = "02040021 00000009+02040022 00000009+02040023 00000009+02040024 00000009+02040025 00000009"
+cheat0_enable = false
+
+cheat1_desc = "血"
+cheat1_code = "02000334 0000000C"
+cheat1_enable = false
+
+

@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[无限只数]ON"
+cheat0_code = "045D:09"
+cheat0_enable = false
+
+cheat1_desc = "[生命值]ON"
+cheat1_code = "0459:09"
+cheat1_enable = false
+
+cheat2_desc = "[透明]ON"
+cheat2_code = "0453:01"
+cheat2_enable = false
+

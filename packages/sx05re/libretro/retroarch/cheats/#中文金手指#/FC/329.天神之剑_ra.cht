@@ -1,0 +1,82 @@
+cheats = 20
+
+cheat0_desc = "[money]ON"
+cheat0_code = "0702:FF+0703:FF+0704:00"
+cheat0_enable = false
+
+cheat1_desc = "[hp]ON"
+cheat1_code = "03C0:FF+03C1:FF"
+cheat1_enable = false
+
+cheat2_desc = "[mp]ON"
+cheat2_code = "0709:FF+0708:FF"
+cheat2_enable = false
+
+cheat3_desc = "[ATTACK]ON"
+cheat3_code = "03E1:63"
+cheat3_enable = false
+
+cheat4_desc = "[DEFENSE]ON"
+cheat4_code = "0400:63+0401:63"
+cheat4_enable = false
+
+cheat5_desc = "[EXP]ON"
+cheat5_code = "0704:FF"
+cheat5_enable = false
+
+cheat6_desc = "[LV]ON"
+cheat6_code = "0421:63"
+cheat6_enable = false
+
+cheat7_desc = "[最强装备]ON"
+cheat7_code = "0C34:1C+0C38:14"
+cheat7_enable = false
+
+cheat8_desc = "[能量格]1"
+cheat8_code = "06C0:06"
+cheat8_enable = false
+
+cheat9_desc = "[能量格]2"
+cheat9_code = "06C0:12"
+cheat9_enable = false
+
+cheat10_desc = "[能量格]3"
+cheat10_code = "06C0:18"
+cheat10_enable = false
+
+cheat11_desc = "[全部宝剑]ON"
+cheat11_code = "0C30:00+0C31:01+0C32:02+0C33:03"
+cheat11_enable = false
+
+cheat12_desc = "[全部手镯]ON"
+cheat12_code = "0C3C:06+0C3D:08+0C3E:0A+0C3F:0C"
+cheat12_enable = false
+
+cheat13_desc = "[习得所有魔法]ON"
+cheat13_code = "0C58:41+0C59:42+0C5A:43+0C5B:44+0C5C:45+0C5D:46+0C5E:47+0C5F:48"
+cheat13_enable = false
+
+cheat14_desc = "[比较重要的物品]第1种"
+cheat14_code = "0C50:32+0C51:33+0C52:34+0C53:35+0C54:36+0C55:37+0C56:38+0C57:39"
+cheat14_enable = false
+
+cheat15_desc = "[比较重要的物品]第2种"
+cheat15_code = "0C50:3A+0C51:3B+0C52:3C+0C53:3D+0C54:3E+0C55:3F+0C56:40"
+cheat15_enable = false
+
+cheat16_desc = "[物品]第1种"
+cheat16_code = "0C40:1D+0C41:1E+0C42:1F+0C43:20+0C44:21+0C45:22+0C46:23+0C47:24"
+cheat16_enable = false
+
+cheat17_desc = "[物品]第2A种"
+cheat17_code = "0C48:25+0C49:26+0C4A:27+0C4B:28+0C4C:29+0C4D:2A+0C4E:2B+0C4F:2C"
+cheat17_enable = false
+
+cheat18_desc = "[物品]第2B种"
+cheat18_code = "0C48:2D+0C49:2E+0C4A:2F+0C4B:30+0C4C:31+0C4D:32+0C4E:33+0C4F:34"
+cheat18_enable = false
+
+cheat19_desc = "[物品]第3种"
+cheat19_code = "0C48:35+0C49:36+0C4A:37+0C4B:38"
+cheat19_enable = false
+

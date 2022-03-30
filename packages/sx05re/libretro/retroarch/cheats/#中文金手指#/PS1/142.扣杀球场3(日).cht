@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#竞争对手分数始终为0"
+cheat0_code = "80078E9C 0000"
+cheat0_enable = false
+
+cheat1_desc = "#对手无法退球-按L1"
+cheat1_code = "D00E178C 0004+800E4770 001A"
+cheat1_enable = false
+
+cheat2_desc = "#无限球-迷你游戏模式"
+cheat2_code = "801933C8 0009"
+cheat2_enable = false
+
+cheat3_desc = "#Score-迷你游戏模式"
+cheat3_code = "801933B8 FFFF"
+cheat3_enable = false
+
+cheat4_desc = "#跑得更快"
+cheat4_code = "800E17EA 0009"
+cheat4_enable = false
+
+cheat5_desc = "#一次任务并解锁所有角色"
+cheat5_code = "80078CE8 0000+800A5556 FF1D"
+cheat5_enable = false
+
+

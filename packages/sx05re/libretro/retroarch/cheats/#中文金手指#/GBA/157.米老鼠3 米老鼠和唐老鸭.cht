@@ -1,0 +1,51 @@
+cheats = 12
+
+cheat0_desc = "血"
+cheat0_code = "020129F6 00000005"
+cheat0_enable = false
+
+cheat1_desc = "无敌"
+cheat1_code = "020129D6 00000096"
+cheat1_enable = false
+
+cheat2_desc = "钱"
+cheat2_code = "02012A40 000000E7+02012A41 00000003"
+cheat2_enable = false
+
+cheat3_desc = "只数"
+cheat3_code = "02012A42 00000009"
+cheat3_enable = false
+
+cheat4_desc = "铁锤消耗的能量"
+cheat4_code = "02012A48 00000038"
+cheat4_enable = false
+
+cheat5_desc = "状态 正常"
+cheat5_code = "02012972 0000000C"
+cheat5_enable = false
+
+cheat6_desc = "状态 使用铁锤1"
+cheat6_code = "02012972 0000000E"
+cheat6_enable = false
+
+cheat7_desc = "状态 使用铁锤2"
+cheat7_code = "02012972 0000000F"
+cheat7_enable = false
+
+cheat8_desc = "状态 使用魔壶1"
+cheat8_code = "02012972 00000010"
+cheat8_enable = false
+
+cheat9_desc = "状态 使用魔壶2"
+cheat9_code = "02012972 00000011"
+cheat9_enable = false
+
+cheat10_desc = "状态 使用套索"
+cheat10_code = "02012972 00000012"
+cheat10_enable = false
+
+cheat11_desc = "魔壶消耗的能量"
+cheat11_code = "02012A49 00000038"
+cheat11_enable = false
+
+

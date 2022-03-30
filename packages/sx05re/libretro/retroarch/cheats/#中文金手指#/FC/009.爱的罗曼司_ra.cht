@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[体力值]ON"
+cheat0_code = "0153:32"
+cheat0_enable = false
+
+cheat1_desc = "[剑]ON"
+cheat1_code = "0154:32"
+cheat1_enable = false
+
+cheat2_desc = "[钱]ON"
+cheat2_code = "0155:32"
+cheat2_enable = false
+
+cheat3_desc = "[杖]ON"
+cheat3_code = "0156:32"
+cheat3_enable = false
+
+cheat4_desc = "[盾]ON"
+cheat4_code = "0157:00"
+cheat4_enable = false
+
+cheat5_desc = "[戒指]ON"
+cheat5_code = "0158:32"
+cheat5_enable = false
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[体力值]ON"
+cheat0_code = "006A:FF"
+cheat0_enable = false
+
+cheat1_desc = "[钥匙数]ON"
+cheat1_code = "00B8:09"
+cheat1_enable = false
+

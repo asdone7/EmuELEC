@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[生命数]ON"
+cheat0_code = "0742:09"
+cheat0_enable = false
+
+cheat1_desc = "[体力值]ON"
+cheat1_code = "0716:05"
+cheat1_enable = false
+
+cheat2_desc = "[无敌]ON"
+cheat2_code = "0736:52"
+cheat2_enable = false
+

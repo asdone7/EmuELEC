@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "隐身"
+cheat0_code = "0204637A 00000096"
+cheat0_enable = false
+
+cheat1_desc = "金钱"
+cheat1_code = "02035408 00000050+02035409 000000C3"
+cheat1_enable = false
+
+cheat2_desc = "炮弹"
+cheat2_code = "02046377 00000032"
+cheat2_enable = false
+
+cheat3_desc = "所持金99999G"
+cheat3_code = "02035408 0000009F+02035409 00000086+0203540A 00000001"
+cheat3_enable = false
+
+cheat4_desc = "子弹99"
+cheat4_code = "02046377 00000063"
+cheat4_enable = false
+
+cheat5_desc = "时间00'00''00"
+cheat5_code = "02041F60 00000000+02041F61 00000000"
+cheat5_enable = false
+
+

@@ -1,0 +1,23 @@
+cheats = 5
+
+cheat0_desc = "#Infinity Hp"
+cheat0_code = "8013045C 05B0"
+cheat0_enable = false
+
+cheat1_desc = "#Infinity Sp"
+cheat1_code = "8009BDDC 0010"
+cheat1_enable = false
+
+cheat2_desc = "#无限导弹"
+cheat2_code = "8017E308 0144"
+cheat2_enable = false
+
+cheat3_desc = "#无敌"
+cheat3_code = "80017E2E 1000"
+cheat3_enable = false
+
+cheat4_desc = "#机身选择"
+cheat4_code = "D009C040 0090+80130122 0000+D009C040 0030+80130122 0001+D009C040 0028+80130122 0002+D009C040 0022+80130122 0003+D009C040 0024+80130122 0004+D009C040 0021+80130122 0005"
+cheat4_enable = false
+
+

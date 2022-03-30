@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "钱"
+cheat0_code = "0201AB9C 0000007F+0201AB9D 00000096+0201AB9E 00000098"
+cheat0_enable = false
+
+

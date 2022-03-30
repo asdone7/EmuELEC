@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#无限金钱"
+cheat0_code = "80083378 FFFF"
+cheat0_enable = false
+
+cheat1_desc = "#Money Max"
+cheat1_code = "80083378 869F+8008337A 0001"
+cheat1_enable = false
+
+cheat2_desc = "#无限马力"
+cheat2_code = "80142248 0384"
+cheat2_enable = false
+
+cheat3_desc = "#无限子弹"
+cheat3_code = "80142528 0020"
+cheat3_enable = false
+
+cheat4_desc = "#无敌"
+cheat4_code = "800A8888 00BD"
+cheat4_enable = false
+
+cheat5_desc = "#所有零件拥有"
+cheat5_code = "30085838 00FF+30085839 00FF+3008583A 00FF+3008583B 00FF+3008583C 00FF+3008583D 00FF+3008583E 00FF+3008583F 00FF+30085840 00FF+30085841 00FF+30085842 00FF+30085843 00FF+30085844 00FF+30085845 00FF+30085846 00FF"
+cheat5_enable = false
+
+

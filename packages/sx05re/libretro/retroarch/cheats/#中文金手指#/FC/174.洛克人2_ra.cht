@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[生命数]ON"
+cheat0_code = "00A8:09"
+cheat0_enable = false
+
+cheat1_desc = "[体力值]ON"
+cheat1_code = "06C0:1C"
+cheat1_enable = false
+
+cheat2_desc = "[能力值]ON"
+cheat2_code = "009C:1C+009D:1C+009E:1C+009F:1C+00A0:1C+00A1:1C+00A2:1C+00A3:1C+00A4:1C+00A5:1C+00A6:1C"
+cheat2_enable = false
+
+cheat3_desc = "[隐身]ON"
+cheat3_code = "004B:28"
+cheat3_enable = false
+

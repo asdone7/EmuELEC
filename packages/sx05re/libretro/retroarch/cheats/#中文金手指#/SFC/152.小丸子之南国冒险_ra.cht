@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[1P HP]ON"
+cheat0_code = "7E06E005+7E044C05+7E208005"
+cheat0_enable = false
+
+cheat1_desc = "[1P 力量,速度MAX]ON"
+cheat1_code = "7E06F80A+7E06F604+7E13B414+7E132A03"
+cheat1_enable = false
+
+cheat2_desc = "[1P 鬼影球]ON"
+cheat2_code = "7E0DB002+7E06D60E"
+cheat2_enable = false
+
+cheat3_desc = "[1P 无敌]ON"
+cheat3_code = "7E06DE64+7E044864+7E133864"
+cheat3_enable = false
+
+cheat4_desc = "[1P 大画笔,无限风筒]ON"
+cheat4_code = "7E043004+7E04560F"
+cheat4_enable = false
+
+cheat5_desc = "[1P 力量摔]ON"
+cheat5_code = "7E13481E"
+cheat5_enable = false
+

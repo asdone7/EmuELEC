@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#最大健康"
+cheat0_code = "8008C262 03E7+8008C264 03E7"
+cheat0_enable = false
+
+cheat1_desc = "#最大MP"
+cheat1_code = "8008C266 03E7+8008C264 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#最大AP"
+cheat2_code = "8008C26A 03E7+8008C268 03E7"
+cheat2_enable = false
+
+cheat3_desc = "#Max Exp"
+cheat3_code = "8008C268 03E7+8008C26C FFFF"
+cheat3_enable = false
+
+cheat4_desc = "#最大力量与防御"
+cheat4_code = "8008C26E 03E7"
+cheat4_enable = false
+
+cheat5_desc = "#无限金钱"
+cheat5_code = "8008C254 FFFF"
+cheat5_enable = false
+
+

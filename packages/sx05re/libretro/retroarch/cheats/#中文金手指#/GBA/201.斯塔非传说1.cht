@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "星"
+cheat0_code = "02040FB0 000000E7+02040FB1 00000003"
+cheat0_enable = false
+
+cheat1_desc = "血"
+cheat1_code = "02040F7A 00000005"
+cheat1_enable = false
+
+

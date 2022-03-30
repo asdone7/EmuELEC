@@ -1,0 +1,23 @@
+cheats = 5
+
+cheat0_desc = "#Xevious Infinite Lives P1"
+cheat0_code = "8010D0F8 0009"
+cheat0_enable = false
+
+cheat1_desc = "#超级Xevious无限生命P1"
+cheat1_code = "8010D0F8 0009"
+cheat1_enable = false
+
+cheat2_desc = "#Xevious安排无限生命P1"
+cheat2_code = "8011FBF8 0009"
+cheat2_enable = false
+
+cheat3_desc = "#Xevious 3D Infinite Lives P1"
+cheat3_code = "8012DD58 0009"
+cheat3_enable = false
+
+cheat4_desc = "#Xevious 3D Infinite Lives P2"
+cheat4_code = "8012DD5C 0009"
+cheat4_enable = false
+
+

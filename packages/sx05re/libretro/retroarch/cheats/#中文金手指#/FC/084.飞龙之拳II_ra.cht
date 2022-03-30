@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[主角hp]ON"
+cheat0_code = "033B:E7+033C:03"
+cheat0_enable = false
+
+cheat1_desc = "[主角击倒值]ON"
+cheat1_code = "034A:00FF"
+cheat1_enable = false
+
+cheat2_desc = "[一击必死]ON"
+cheat2_code = "00E8:00"
+cheat2_enable = false
+

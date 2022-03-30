@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[无限生命]启用"
+cheat0_code = "0410:09+0411:09+0412:09"
+cheat0_enable = false
+
+cheat1_desc = "[无限武器能量]启用"
+cheat1_code = "04F6:09+04F7:09+04F8:09"
+cheat1_enable = false
+
+cheat2_desc = "[分配点数]启用"
+cheat2_code = "0347:05"
+cheat2_enable = false
+
+cheat3_desc = "[双激光]ON"
+cheat3_code = "0402:0A"
+cheat3_enable = false
+
+cheat4_desc = "[副机]ON"
+cheat4_code = "04E3:03+04E0:06"
+cheat4_enable = false
+
+cheat5_desc = "[最终关]ON"
+cheat5_code = "0715:2F"
+cheat5_enable = false
+
+cheat6_desc = "[无敌]ON"
+cheat6_code = "040E:63"
+cheat6_enable = false
+

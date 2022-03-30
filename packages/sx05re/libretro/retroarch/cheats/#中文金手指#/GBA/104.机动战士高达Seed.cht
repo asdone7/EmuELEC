@@ -1,0 +1,39 @@
+cheats = 9
+
+cheat0_desc = "回合数"
+cheat0_code = "02047720 00000001+02047721 000000FE"
+cheat0_enable = false
+
+cheat1_desc = "剩余队伍 无限"
+cheat1_code = "02047743 00000000"
+cheat1_enable = false
+
+cheat2_desc = "剩余队伍 快速结束"
+cheat2_code = "02047743 00000002"
+cheat2_enable = false
+
+cheat3_desc = "我方IC"
+cheat3_code = "02047723 00000009+02047724 00000009+02047725 00000009"
+cheat3_enable = false
+
+cheat4_desc = "对方IC"
+cheat4_code = "02047727 00000009+02047728 00000009+02047729 00000009"
+cheat4_enable = false
+
+cheat5_desc = "我方CT"
+cheat5_code = "0204772B 00000009+0204772C 00000009+0204772D 00000009"
+cheat5_enable = false
+
+cheat6_desc = "对方CT"
+cheat6_code = "02047731 00000009+02047732 00000009+02047733 00000009"
+cheat6_enable = false
+
+cheat7_desc = "我方点数"
+cheat7_code = "02047737 00000009+02047738 00000009"
+cheat7_enable = false
+
+cheat8_desc = "对方点数"
+cheat8_code = "02047739 00000009+0204773A 00000009"
+cheat8_enable = false
+
+

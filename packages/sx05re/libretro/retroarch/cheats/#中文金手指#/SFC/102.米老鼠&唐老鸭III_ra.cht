@@ -1,0 +1,62 @@
+cheats = 15
+
+cheat0_desc = "[无敌]ON"
+cheat0_code = "7E0454FF"
+cheat0_enable = false
+
+cheat1_desc = "[透明]ON"
+cheat1_code = "7E041AFF"
+cheat1_enable = false
+
+cheat2_desc = "[随意变身变另一人后别按A键]米老鼠第1模样"
+cheat2_code = "7E049D02"
+cheat2_enable = false
+
+cheat3_desc = "[随意变身变另一人后别按A键]米老鼠第2模样"
+cheat3_code = "7E049D04"
+cheat3_enable = false
+
+cheat4_desc = "[随意变身变另一人后别按A键]米老鼠第3模样"
+cheat4_code = "7E049D06"
+cheat4_enable = false
+
+cheat5_desc = "[随意变身变另一人后别按A键]唐老鸭第1模样"
+cheat5_code = "7E049D08"
+cheat5_enable = false
+
+cheat6_desc = "[随意变身变另一人后别按A键]唐老鸭第2模样"
+cheat6_code = "7E049D0A"
+cheat6_enable = false
+
+cheat7_desc = "[随意变身变另一人后别按A键]唐老鸭第3模样"
+cheat7_code = "7E049D0C"
+cheat7_enable = false
+
+cheat8_desc = "[随意变身变另一人后别按A键]唐老鸭第4模样"
+cheat8_code = "7E049D0E"
+cheat8_enable = false
+
+cheat9_desc = "[随意变身变另一人后别按A键]变回最初样子"
+cheat9_code = "7E049D00"
+cheat9_enable = false
+
+cheat10_desc = "[生命数]无限"
+cheat10_code = "7E0486FF"
+cheat10_enable = false
+
+cheat11_desc = "[心值]10颗心"
+cheat11_code = "7E046F0A"
+cheat11_enable = false
+
+cheat12_desc = "[攻击能量满]ON"
+cheat12_code = "7E048A38+7E048B38"
+cheat12_enable = false
+
+cheat13_desc = "[不怕水淹]水底呼吸"
+cheat13_code = "7E04810A"
+cheat13_enable = false
+
+cheat14_desc = "[金币999枚]米老鼠标志999"
+cheat14_code = "7E0484E7+7E048503"
+cheat14_enable = false
+

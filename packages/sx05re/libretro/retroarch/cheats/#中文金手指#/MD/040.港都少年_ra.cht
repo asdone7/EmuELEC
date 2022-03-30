@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[大量金钱]ON"
+cheat0_code = "FFF6F0:E8+FFF6F1:03"
+cheat0_enable = false
+
+cheat1_desc = "[全属性]ON"
+cheat1_code = "FFF6F2:03+FFF6F3:03+FFF6F4:03+FFF6F5:03+FFF6F6:03+FFF6F7:03+FFF6F8:03+FFF6F9:03+FFF6FA:03+FFF6FB:03+FFF6FC:03+FFF6FD:03+FFF6FE:03+FFF6FF:03+FFF700:03+FFF701:03"
+cheat1_enable = false
+
+cheat2_desc = "[修改人物坐标]ON（镇东桥上男子面前使用）"
+cheat2_code = "FFF450:B8+FFF451:06+FFF452:88+FFF453:08"
+cheat2_enable = false
+

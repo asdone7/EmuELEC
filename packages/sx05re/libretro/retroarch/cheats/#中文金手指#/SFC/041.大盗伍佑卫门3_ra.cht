@@ -1,0 +1,70 @@
+cheats = 17
+
+cheat0_desc = "[生命]ON"
+cheat0_code = "7E00BA20"
+cheat0_enable = false
+
+cheat1_desc = "[生命上限]ON"
+cheat1_code = "7E00BC20"
+cheat1_enable = false
+
+cheat2_desc = "[能量]ON"
+cheat2_code = "7E202E699+7E202E709"
+cheat2_enable = false
+
+cheat3_desc = "[能量上限]ON"
+cheat3_code = "7E202E899+7E202E909"
+cheat3_enable = false
+
+cheat4_desc = "[人数]ON"
+cheat4_code = "7E00B89A"
+cheat4_enable = false
+
+cheat5_desc = "[隐身]ON"
+cheat5_code = "7E0438FF"
+cheat5_enable = false
+
+cheat6_desc = "[金钱]ON"
+cheat6_code = "7E00BE99+7E00BF99"
+cheat6_enable = false
+
+cheat7_desc = "[金梭]ON"
+cheat7_code = "7E2029A99"
+cheat7_enable = false
+
+cheat8_desc = "[全道具1]ON"
+cheat8_code = "7E202A005+7E202A100+7E202A205+7E202A300+7E202A403+7E202A500+7E202A603+7E202A700+7E202A803"
+cheat8_enable = false
+
+cheat9_desc = "[全道具2]ON"
+cheat9_code = "7E202B401"
+cheat9_enable = false
+
+cheat10_desc = "[全道具3]ON"
+cheat10_code = "7E2029C04+7E202B001+7E202B100+7E202B201+7E202BA01+7E202BB00+7E202BC01+7E202BD00+7E202BE01+7E202BF00+7E202C001+7E202C100+7E202C201+7E202C300+7E202C401+7E202C500+7E202C601+7E202C700+7E202C801+7E202C900+7E202CA01"
+cheat10_enable = false
+
+cheat11_desc = "[全魔法]ON"
+cheat11_code = "7E202F201+7E202F300+7E202F401+7E202F500+7E202F601"
+cheat11_enable = false
+
+cheat12_desc = "[全镜片]ON"
+cheat12_code = "7E202CC01+7E202CD00+7E202CE01+7E202CF00+7E202D001+7E202D100+7E202D201+7E202D300+7E202D401+7E202D500+7E202D601+7E202D700+7E202D801+7E202D900+7E202DA01"
+cheat12_enable = false
+
+cheat13_desc = "[全人物]ON"
+cheat13_code = "7E2032401+7E2033801"
+cheat13_enable = false
+
+cheat14_desc = "[术全开]ON"
+cheat14_code = "7E2030401+7E2031801+7E2032C01+7E2034001"
+cheat14_enable = false
+
+cheat15_desc = "[副武器全开]ON"
+cheat15_code = "7E2031601+7E2032801"
+cheat15_enable = false
+
+cheat16_desc = "[弹簧烟竿]ON"
+cheat16_code = "7E202FE01"
+cheat16_enable = false
+

@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[最大生命数]ON"
+cheat0_code = "0655:09"
+cheat0_enable = false
+
+cheat1_desc = "[能力全满]ON"
+cheat1_code = "0658:02+0659:03+065A:03+065B:05+065C:05"
+cheat1_enable = false
+
+cheat2_desc = "[锁定Gas]ON"
+cheat2_code = "0024:BF+04A7:BF"
+cheat2_enable = false
+
+cheat3_desc = "[锁定Shield]ON"
+cheat3_code = "0023:0E+002B:0E"
+cheat3_enable = false
+
+cheat4_desc = "[锁定Time]ON"
+cheat4_code = "0021:97"
+cheat4_enable = false
+
+cheat5_desc = "[锁定Missile]ON"
+cheat5_code = "051B:63"
+cheat5_enable = false
+
+cheat6_desc = "[锁定Laser]ON"
+cheat6_code = "051A:63"
+cheat6_enable = false
+

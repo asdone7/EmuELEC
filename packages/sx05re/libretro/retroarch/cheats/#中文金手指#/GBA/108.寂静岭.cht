@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "全卡片"
+cheat0_code = "02042970 000000FF+02042971 000000FF+02042972 000000FF+02042973 000000FF"
+cheat0_enable = false
+
+

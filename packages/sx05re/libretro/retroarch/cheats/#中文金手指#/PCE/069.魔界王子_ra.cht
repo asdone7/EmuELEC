@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[生命数最大]ON"
+cheat0_code = "1F083F:09"
+cheat0_enable = false
+
+cheat1_desc = "[体力值不减]ON"
+cheat1_code = "1F0841:06"
+cheat1_enable = false
+

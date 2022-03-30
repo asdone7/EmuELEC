@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[奖励分数不减]ON"
+cheat0_code = "0021:63"
+cheat0_enable = false
+
+cheat1_desc = "[无敌（不建议使用）]ON"
+cheat1_code = "0057:00"
+cheat1_enable = false
+

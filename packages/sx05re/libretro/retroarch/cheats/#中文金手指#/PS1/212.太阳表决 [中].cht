@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#Arcade Mode无限HP P1"
+cheat0_code = "800AD88A 07D0+800AD88E 07D0"
+cheat0_enable = false
+
+cheat1_desc = "#Arcade Mode无限HP P2"
+cheat1_code = "800AD942 07D0+800AD946 07D0"
+cheat1_enable = false
+
+cheat2_desc = "#RPG模式补充HP（按X和圆圈）"
+cheat2_code = "D00883DC 0A00+800AD88E 1000"
+cheat2_enable = false
+
+cheat3_desc = "#RPG模式（原始）升级时的最大HP"
+cheat3_code = "D00CD76C 0002+800AD88A 1000"
+cheat3_enable = false
+
+cheat4_desc = "#无限健康"
+cheat4_code = "800A7116 270F"
+cheat4_enable = false
+
+cheat5_desc = "#无限魔法"
+cheat5_code = "800A7126 0030"
+cheat5_enable = false
+
+

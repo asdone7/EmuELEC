@@ -1,0 +1,799 @@
+cheats = 199
+
+cheat0_desc = "漩涡鸣人忍术修炼点数"
+cheat0_code = "02022FAA 00000009"
+cheat0_enable = false
+
+cheat1_desc = "宇智波佐助忍术修炼点数"
+cheat1_code = "02023066 00000009"
+cheat1_enable = false
+
+cheat2_desc = "春野樱忍术修炼点数"
+cheat2_code = "02023122 00000009"
+cheat2_enable = false
+
+cheat3_desc = "桃地再不斩忍术修炼点数"
+cheat3_code = "02023356 00000009"
+cheat3_enable = false
+
+cheat4_desc = "卡卡西忍术修炼点数"
+cheat4_code = "020231DE 00000009"
+cheat4_enable = false
+
+cheat5_desc = "我爱罗忍术修炼点数"
+cheat5_code = "0202329A 00000009"
+cheat5_enable = false
+
+cheat6_desc = "白忍术修炼点数"
+cheat6_code = "02023412 00000009"
+cheat6_enable = false
+
+cheat7_desc = "奈良鹿丸忍术修炼点数"
+cheat7_code = "020234CE 00000009"
+cheat7_enable = false
+
+cheat8_desc = "山中井野忍术修炼点数"
+cheat8_code = "0202358A 00000009"
+cheat8_enable = false
+
+cheat9_desc = "秋道丁次忍术修炼点数"
+cheat9_code = "02023646 00000009"
+cheat9_enable = false
+
+cheat10_desc = "犬冢牙忍术修炼点数"
+cheat10_code = "02023702 00000009"
+cheat10_enable = false
+
+cheat11_desc = "油女志乃忍术修炼点数"
+cheat11_code = "020237BE 00000009"
+cheat11_enable = false
+
+cheat12_desc = "日向锥田忍术修炼点数"
+cheat12_code = "0202387A 00000009"
+cheat12_enable = false
+
+cheat13_desc = "日向宁次忍术修炼点数"
+cheat13_code = "02023AAE 00000009"
+cheat13_enable = false
+
+cheat14_desc = "漩涡鸣人经验值"
+cheat14_code = "02022F00 000000E7+02022F01 00000003"
+cheat14_enable = false
+
+cheat15_desc = "宇智波佐助经验值"
+cheat15_code = "02022FBC 000000E7+02022FBD 00000003"
+cheat15_enable = false
+
+cheat16_desc = "春野樱经验值"
+cheat16_code = "02023078 000000E7+02023079 00000003"
+cheat16_enable = false
+
+cheat17_desc = "桃地再不斩经验值"
+cheat17_code = "020232AC 000000E7+020232AD 00000003"
+cheat17_enable = false
+
+cheat18_desc = "卡卡西经验值"
+cheat18_code = "02023134 000000E7+02023135 00000003"
+cheat18_enable = false
+
+cheat19_desc = "我爱罗经验值"
+cheat19_code = "020231F0 000000E7+020231F1 00000003"
+cheat19_enable = false
+
+cheat20_desc = "白经验值"
+cheat20_code = "02023368 000000E7+02023369 00000003"
+cheat20_enable = false
+
+cheat21_desc = "奈良鹿丸经验值"
+cheat21_code = "02023424 000000E7+02023425 00000003"
+cheat21_enable = false
+
+cheat22_desc = "山中井野经验值"
+cheat22_code = "020234E0 000000E7+020234E1 00000003"
+cheat22_enable = false
+
+cheat23_desc = "秋道丁次经验值"
+cheat23_code = "0202359C 000000E7+0202359D 00000003"
+cheat23_enable = false
+
+cheat24_desc = "犬冢牙经验值"
+cheat24_code = "02023658 000000E7+02023659 00000003"
+cheat24_enable = false
+
+cheat25_desc = "油女志乃经验值"
+cheat25_code = "02023714 000000E7+02023715 00000003"
+cheat25_enable = false
+
+cheat26_desc = "日向锥田经验值"
+cheat26_code = "020237D0 000000E7+020237D1 00000003"
+cheat26_enable = false
+
+cheat27_desc = "日向宁次经验值"
+cheat27_code = "02023A04 000000E7+02023A05 00000003"
+cheat27_enable = false
+
+cheat28_desc = "第一个人物 鸣人"
+cheat28_code = "02024294 00000001+02024350 00000001"
+cheat28_enable = false
+
+cheat29_desc = "第一个人物 佐助"
+cheat29_code = "02024294 00000002+02024350 00000002"
+cheat29_enable = false
+
+cheat30_desc = "第一个人物 樱"
+cheat30_code = "02024294 00000003+02024350 00000003"
+cheat30_enable = false
+
+cheat31_desc = "第一个人物 山中"
+cheat31_code = "02024294 00000004+02024350 00000004"
+cheat31_enable = false
+
+cheat32_desc = "第一个人物 奈良"
+cheat32_code = "02024294 00000005+02024350 00000005"
+cheat32_enable = false
+
+cheat33_desc = "第一个人物 秋道"
+cheat33_code = "02024294 00000006+02024350 00000006"
+cheat33_enable = false
+
+cheat34_desc = "第一个人物 卡卡西"
+cheat34_code = "02024294 00000007+02024350 00000007"
+cheat34_enable = false
+
+cheat35_desc = "第一个人物 犬冢"
+cheat35_code = "02024294 00000008+02024350 00000008"
+cheat35_enable = false
+
+cheat36_desc = "第一个人物 油女"
+cheat36_code = "02024294 00000009+02024350 00000009"
+cheat36_enable = false
+
+cheat37_desc = "第一个人物 日向ヒナタ"
+cheat37_code = "02024294 0000000A+02024350 0000000A"
+cheat37_enable = false
+
+cheat38_desc = "第一个人物 日向ネヅ"
+cheat38_code = "02024294 0000000B+02024350 0000000B"
+cheat38_enable = false
+
+cheat39_desc = "第一个人物 李洛克"
+cheat39_code = "02024294 0000000C+02024350 0000000C"
+cheat39_enable = false
+
+cheat40_desc = "第一个人物 テンテン"
+cheat40_code = "02024294 0000000D+02024350 0000000D"
+cheat40_enable = false
+
+cheat41_desc = "第一个人物 我爱罗"
+cheat41_code = "02024294 0000000E+02024350 0000000E"
+cheat41_enable = false
+
+cheat42_desc = "第一个人物 カンクロウ"
+cheat42_code = "02024294 0000000F+02024350 0000000F"
+cheat42_enable = false
+
+cheat43_desc = "第一个人物 テマリ"
+cheat43_code = "02024294 00000010+02024350 00000010"
+cheat43_enable = false
+
+cheat44_desc = "第一个人物 ザク"
+cheat44_code = "02024294 00000011+02024350 00000011"
+cheat44_enable = false
+
+cheat45_desc = "第一个人物 ドス"
+cheat45_code = "02024294 00000012+02024350 00000012"
+cheat45_enable = false
+
+cheat46_desc = "第一个人物 キン·ツチ"
+cheat46_code = "02024294 00000013+02024350 00000013"
+cheat46_enable = false
+
+cheat47_desc = "第一个人物 再不斩"
+cheat47_code = "02024294 00000014+02024350 00000014"
+cheat47_enable = false
+
+cheat48_desc = "第一个人物 白"
+cheat48_code = "02024294 00000015+02024350 00000015"
+cheat48_enable = false
+
+cheat49_desc = "第一个人物 篝"
+cheat49_code = "02024294 00000016+02024350 00000016"
+cheat49_enable = false
+
+cheat50_desc = "第一个人物 胧"
+cheat50_code = "02024294 00000017+02024350 00000017"
+cheat50_enable = false
+
+cheat51_desc = "第一个人物 梦火"
+cheat51_code = "02024294 00000018+02024350 00000018"
+cheat51_enable = false
+
+cheat52_desc = "第一个人物 业头"
+cheat52_code = "02024294 00000019+02024350 00000019"
+cheat52_enable = false
+
+cheat53_desc = "第一个人物 冥头"
+cheat53_code = "02024294 0000001A+02024350 0000001A"
+cheat53_enable = false
+
+cheat54_desc = "第一个人物 ワラヅ"
+cheat54_code = "02024294 0000001B+02024350 0000001B"
+cheat54_enable = false
+
+cheat55_desc = "第一个人物 ゾウリ"
+cheat55_code = "02024294 0000001C+02024350 0000001C"
+cheat55_enable = false
+
+cheat56_desc = "第一个人物 大蛇丸"
+cheat56_code = "02024294 0000001D+02024350 0000001D"
+cheat56_enable = false
+
+cheat57_desc = "第一个人物 木叶丸"
+cheat57_code = "02024294 0000001E+02024350 0000001E"
+cheat57_enable = false
+
+cheat58_desc = "第一个人物 タズナ"
+cheat58_code = "02024294 0000001F+02024350 0000001F"
+cheat58_enable = false
+
+cheat59_desc = "第一个人物 カト的手下"
+cheat59_code = "02024294 00000020+02024350 00000020"
+cheat59_enable = false
+
+cheat60_desc = "第一个人物 なぞの忍者1"
+cheat60_code = "02024294 00000021+02024350 00000021"
+cheat60_enable = false
+
+cheat61_desc = "第一个人物 なぞの忍者2"
+cheat61_code = "02024294 00000022+02024350 00000022"
+cheat61_enable = false
+
+cheat62_desc = "第一个人物 木偶"
+cheat62_code = "02024294 00000023+02024350 00000023"
+cheat62_enable = false
+
+cheat63_desc = "第一个人物 熊"
+cheat63_code = "02024294 00000024+02024350 00000024"
+cheat63_enable = false
+
+cheat64_desc = "第一个人物 虎"
+cheat64_code = "02024294 00000025+02024350 00000025"
+cheat64_enable = false
+
+cheat65_desc = "第一个人物 蜈蚣"
+cheat65_code = "02024294 00000026+02024350 00000026"
+cheat65_enable = false
+
+cheat66_desc = "第一个人物 蟒头"
+cheat66_code = "02024294 00000027+02024350 00000027"
+cheat66_enable = false
+
+cheat67_desc = "第一个人物 蟒尾"
+cheat67_code = "02024294 00000028+02024350 00000028"
+cheat67_enable = false
+
+cheat68_desc = "第一个人物 狗"
+cheat68_code = "02024294 00000029+02024350 00000029"
+cheat68_enable = false
+
+cheat69_desc = "第一个人物 封在水球中的卡卡西"
+cheat69_code = "02024294 0000002A+02024350 0000002A"
+cheat69_enable = false
+
+cheat70_desc = "第一个人物 三代目火影"
+cheat70_code = "02024294 0000002B+02024350 0000002B"
+cheat70_enable = false
+
+cheat71_desc = "第一个人物 伊鲁卡"
+cheat71_code = "02024294 0000002C+02024350 0000002C"
+cheat71_enable = false
+
+cheat72_desc = "第一个人物 飞猿"
+cheat72_code = "02024294 0000002D+02024350 0000002D"
+cheat72_enable = false
+
+cheat73_desc = "第一个人物 TOO MORE..."
+cheat73_code = "02024294 0000002E+02024350 0000002E"
+cheat73_enable = false
+
+cheat74_desc = "第二个人物 鸣人"
+cheat74_code = "02024468 00000001+02024524 00000001"
+cheat74_enable = false
+
+cheat75_desc = "第二个人物 佐助"
+cheat75_code = "02024468 00000002+02024524 00000002"
+cheat75_enable = false
+
+cheat76_desc = "第二个人物 樱"
+cheat76_code = "02024468 00000003+02024524 00000003"
+cheat76_enable = false
+
+cheat77_desc = "第二个人物 山中"
+cheat77_code = "02024468 00000004+02024524 00000004"
+cheat77_enable = false
+
+cheat78_desc = "第二个人物 奈良"
+cheat78_code = "02024468 00000005+02024524 00000005"
+cheat78_enable = false
+
+cheat79_desc = "第二个人物 秋道"
+cheat79_code = "02024468 00000006+02024524 00000006"
+cheat79_enable = false
+
+cheat80_desc = "第二个人物 卡卡西"
+cheat80_code = "02024468 00000007+02024524 00000007"
+cheat80_enable = false
+
+cheat81_desc = "第二个人物 犬冢"
+cheat81_code = "02024468 00000008+02024524 00000008"
+cheat81_enable = false
+
+cheat82_desc = "第二个人物 油女"
+cheat82_code = "02024468 00000009+02024524 00000009"
+cheat82_enable = false
+
+cheat83_desc = "第二个人物 日向ヒナタ"
+cheat83_code = "02024468 0000000A+02024524 0000000A"
+cheat83_enable = false
+
+cheat84_desc = "第二个人物 日向ネヅ"
+cheat84_code = "02024468 0000000B+02024524 0000000B"
+cheat84_enable = false
+
+cheat85_desc = "第二个人物 李洛克"
+cheat85_code = "02024468 0000000C+02024524 0000000C"
+cheat85_enable = false
+
+cheat86_desc = "第二个人物 テンテン"
+cheat86_code = "02024468 0000000D+02024524 0000000D"
+cheat86_enable = false
+
+cheat87_desc = "第二个人物 我爱罗"
+cheat87_code = "02024468 0000000E+02024524 0000000E"
+cheat87_enable = false
+
+cheat88_desc = "第二个人物 カンクロウ"
+cheat88_code = "02024468 0000000F+02024524 0000000F"
+cheat88_enable = false
+
+cheat89_desc = "第二个人物 テマリ"
+cheat89_code = "02024468 00000010+02024524 00000010"
+cheat89_enable = false
+
+cheat90_desc = "第二个人物 ザク"
+cheat90_code = "02024468 00000011+02024524 00000011"
+cheat90_enable = false
+
+cheat91_desc = "第二个人物 ドス"
+cheat91_code = "02024468 00000012+02024524 00000012"
+cheat91_enable = false
+
+cheat92_desc = "第二个人物 キン·ツチ"
+cheat92_code = "02024468 00000013+02024524 00000013"
+cheat92_enable = false
+
+cheat93_desc = "第二个人物 再不斩"
+cheat93_code = "02024468 00000014+02024524 00000014"
+cheat93_enable = false
+
+cheat94_desc = "第二个人物 白"
+cheat94_code = "02024468 00000015+02024524 00000015"
+cheat94_enable = false
+
+cheat95_desc = "第二个人物 篝"
+cheat95_code = "02024468 00000016+02024524 00000016"
+cheat95_enable = false
+
+cheat96_desc = "第二个人物 胧"
+cheat96_code = "02024468 00000017+02024524 00000017"
+cheat96_enable = false
+
+cheat97_desc = "第二个人物 梦火"
+cheat97_code = "02024468 00000018+02024524 00000018"
+cheat97_enable = false
+
+cheat98_desc = "第二个人物 业头"
+cheat98_code = "02024468 00000019+02024524 00000019"
+cheat98_enable = false
+
+cheat99_desc = "第二个人物 冥头"
+cheat99_code = "02024468 0000001A+02024524 0000001A"
+cheat99_enable = false
+
+cheat100_desc = "第二个人物 ワラヅ"
+cheat100_code = "02024468 0000001B+02024524 0000001B"
+cheat100_enable = false
+
+cheat101_desc = "第二个人物 ゾウリ"
+cheat101_code = "02024468 0000001C+02024524 0000001C"
+cheat101_enable = false
+
+cheat102_desc = "第二个人物 大蛇丸"
+cheat102_code = "02024468 0000001D+02024524 0000001D"
+cheat102_enable = false
+
+cheat103_desc = "第二个人物 木叶丸"
+cheat103_code = "02024468 0000001E+02024524 0000001E"
+cheat103_enable = false
+
+cheat104_desc = "第二个人物 タズナ"
+cheat104_code = "02024468 0000001F+02024524 0000001F"
+cheat104_enable = false
+
+cheat105_desc = "第二个人物 カト的手下"
+cheat105_code = "02024468 00000020+02024524 00000020"
+cheat105_enable = false
+
+cheat106_desc = "第二个人物 なぞの忍者1"
+cheat106_code = "02024468 00000021+02024524 00000021"
+cheat106_enable = false
+
+cheat107_desc = "第二个人物 なぞの忍者2"
+cheat107_code = "02024468 00000022+02024524 00000022"
+cheat107_enable = false
+
+cheat108_desc = "第二个人物 木偶"
+cheat108_code = "02024468 00000023+02024524 00000023"
+cheat108_enable = false
+
+cheat109_desc = "第二个人物 熊"
+cheat109_code = "02024468 00000024+02024524 00000024"
+cheat109_enable = false
+
+cheat110_desc = "第二个人物 虎"
+cheat110_code = "02024468 00000025+02024524 00000025"
+cheat110_enable = false
+
+cheat111_desc = "第二个人物 蜈蚣"
+cheat111_code = "02024468 00000026+02024524 00000026"
+cheat111_enable = false
+
+cheat112_desc = "第二个人物 蟒头"
+cheat112_code = "02024468 00000027+02024524 00000027"
+cheat112_enable = false
+
+cheat113_desc = "第二个人物 蟒尾"
+cheat113_code = "02024468 00000028+02024524 00000028"
+cheat113_enable = false
+
+cheat114_desc = "第二个人物 狗"
+cheat114_code = "02024468 00000029+02024524 00000029"
+cheat114_enable = false
+
+cheat115_desc = "第二个人物 封在水球中的卡卡西"
+cheat115_code = "02024468 0000002A+02024524 0000002A"
+cheat115_enable = false
+
+cheat116_desc = "第二个人物 三代目火影"
+cheat116_code = "02024468 0000002B+02024524 0000002B"
+cheat116_enable = false
+
+cheat117_desc = "第二个人物 伊鲁卡"
+cheat117_code = "02024468 0000002C+02024524 0000002C"
+cheat117_enable = false
+
+cheat118_desc = "第二个人物 飞猿"
+cheat118_code = "02024468 0000002D+02024524 0000002D"
+cheat118_enable = false
+
+cheat119_desc = "第二个人物 TOO MORE..."
+cheat119_code = "02024468 0000002E+02024524 0000002E"
+cheat119_enable = false
+
+cheat120_desc = "第三个人物 鸣人"
+cheat120_code = "0202463C 00000001+020246F8 00000001"
+cheat120_enable = false
+
+cheat121_desc = "第三个人物 佐助"
+cheat121_code = "0202463C 00000002+020246F8 00000002"
+cheat121_enable = false
+
+cheat122_desc = "第三个人物 樱"
+cheat122_code = "0202463C 00000003+020246F8 00000003"
+cheat122_enable = false
+
+cheat123_desc = "第三个人物 山中"
+cheat123_code = "0202463C 00000004+020246F8 00000004"
+cheat123_enable = false
+
+cheat124_desc = "第三个人物 奈良"
+cheat124_code = "0202463C 00000005+020246F8 00000005"
+cheat124_enable = false
+
+cheat125_desc = "第三个人物 秋道"
+cheat125_code = "0202463C 00000006+020246F8 00000006"
+cheat125_enable = false
+
+cheat126_desc = "第三个人物 卡卡西"
+cheat126_code = "0202463C 00000007+020246F8 00000007"
+cheat126_enable = false
+
+cheat127_desc = "第三个人物 犬冢"
+cheat127_code = "0202463C 00000008+020246F8 00000008"
+cheat127_enable = false
+
+cheat128_desc = "第三个人物 油女"
+cheat128_code = "0202463C 00000009+020246F8 00000009"
+cheat128_enable = false
+
+cheat129_desc = "第三个人物 日向ヒナタ"
+cheat129_code = "0202463C 0000000A+020246F8 0000000A"
+cheat129_enable = false
+
+cheat130_desc = "第三个人物 日向ネヅ"
+cheat130_code = "0202463C 0000000B+020246F8 0000000B"
+cheat130_enable = false
+
+cheat131_desc = "第三个人物 李洛克"
+cheat131_code = "0202463C 0000000C+020246F8 0000000C"
+cheat131_enable = false
+
+cheat132_desc = "第三个人物 テンテン"
+cheat132_code = "0202463C 0000000D+020246F8 0000000D"
+cheat132_enable = false
+
+cheat133_desc = "第三个人物 我爱罗"
+cheat133_code = "0202463C 0000000E+020246F8 0000000E"
+cheat133_enable = false
+
+cheat134_desc = "第三个人物 カンクロウ"
+cheat134_code = "0202463C 0000000F+020246F8 0000000F"
+cheat134_enable = false
+
+cheat135_desc = "第三个人物 テマリ"
+cheat135_code = "0202463C 00000010+020246F8 00000010"
+cheat135_enable = false
+
+cheat136_desc = "第三个人物 ザク"
+cheat136_code = "0202463C 00000011+020246F8 00000011"
+cheat136_enable = false
+
+cheat137_desc = "第三个人物 ドス"
+cheat137_code = "0202463C 00000012+020246F8 00000012"
+cheat137_enable = false
+
+cheat138_desc = "第三个人物 キン·ツチ"
+cheat138_code = "0202463C 00000013+020246F8 00000013"
+cheat138_enable = false
+
+cheat139_desc = "第三个人物 再不斩"
+cheat139_code = "0202463C 00000014+020246F8 00000014"
+cheat139_enable = false
+
+cheat140_desc = "第三个人物 白"
+cheat140_code = "0202463C 00000015+020246F8 00000015"
+cheat140_enable = false
+
+cheat141_desc = "第三个人物 篝"
+cheat141_code = "0202463C 00000016+020246F8 00000016"
+cheat141_enable = false
+
+cheat142_desc = "第三个人物 胧"
+cheat142_code = "0202463C 00000017+020246F8 00000017"
+cheat142_enable = false
+
+cheat143_desc = "第三个人物 梦火"
+cheat143_code = "0202463C 00000018+020246F8 00000018"
+cheat143_enable = false
+
+cheat144_desc = "第三个人物 业头"
+cheat144_code = "0202463C 00000019+020246F8 00000019"
+cheat144_enable = false
+
+cheat145_desc = "第三个人物 冥头"
+cheat145_code = "0202463C 0000001A+020246F8 0000001A"
+cheat145_enable = false
+
+cheat146_desc = "第三个人物 ワラヅ"
+cheat146_code = "0202463C 0000001B+020246F8 0000001B"
+cheat146_enable = false
+
+cheat147_desc = "第三个人物 ゾウリ"
+cheat147_code = "0202463C 0000001C+020246F8 0000001C"
+cheat147_enable = false
+
+cheat148_desc = "第三个人物 大蛇丸"
+cheat148_code = "0202463C 0000001D+020246F8 0000001D"
+cheat148_enable = false
+
+cheat149_desc = "第三个人物 木叶丸"
+cheat149_code = "0202463C 0000001E+020246F8 0000001E"
+cheat149_enable = false
+
+cheat150_desc = "第三个人物 タズナ"
+cheat150_code = "0202463C 0000001F+020246F8 0000001F"
+cheat150_enable = false
+
+cheat151_desc = "第三个人物 カト的手下"
+cheat151_code = "0202463C 00000020+020246F8 00000020"
+cheat151_enable = false
+
+cheat152_desc = "第三个人物 なぞの忍者1"
+cheat152_code = "0202463C 00000021+020246F8 00000021"
+cheat152_enable = false
+
+cheat153_desc = "第三个人物 なぞの忍者2"
+cheat153_code = "0202463C 00000022+020246F8 00000022"
+cheat153_enable = false
+
+cheat154_desc = "第三个人物 木偶"
+cheat154_code = "0202463C 00000023+020246F8 00000023"
+cheat154_enable = false
+
+cheat155_desc = "第三个人物 熊"
+cheat155_code = "0202463C 00000024+020246F8 00000024"
+cheat155_enable = false
+
+cheat156_desc = "第三个人物 虎"
+cheat156_code = "0202463C 00000025+020246F8 00000025"
+cheat156_enable = false
+
+cheat157_desc = "第三个人物 蜈蚣"
+cheat157_code = "0202463C 00000026+020246F8 00000026"
+cheat157_enable = false
+
+cheat158_desc = "第三个人物 蟒头"
+cheat158_code = "0202463C 00000027+020246F8 00000027"
+cheat158_enable = false
+
+cheat159_desc = "第三个人物 蟒尾"
+cheat159_code = "0202463C 00000028+020246F8 00000028"
+cheat159_enable = false
+
+cheat160_desc = "第三个人物 狗"
+cheat160_code = "0202463C 00000029+020246F8 00000029"
+cheat160_enable = false
+
+cheat161_desc = "第三个人物 封在水球中的卡卡西"
+cheat161_code = "0202463C 0000002A+020246F8 0000002A"
+cheat161_enable = false
+
+cheat162_desc = "第三个人物 三代目火影"
+cheat162_code = "0202463C 0000002B+020246F8 0000002B"
+cheat162_enable = false
+
+cheat163_desc = "第三个人物 伊鲁卡"
+cheat163_code = "0202463C 0000002C+020246F8 0000002C"
+cheat163_enable = false
+
+cheat164_desc = "第三个人物 飞猿"
+cheat164_code = "0202463C 0000002D+020246F8 0000002D"
+cheat164_enable = false
+
+cheat165_desc = "第三个人物 TOO MORE..."
+cheat165_code = "0202463C 0000002E+020246F8 0000002E"
+cheat165_enable = false
+
+cheat166_desc = "中忍笔试开启"
+cheat166_code = "020240BC 00000001"
+cheat166_enable = false
+
+cheat167_desc = "通关附加项全开"
+cheat167_code = "0203150F 000000FF+02031510 000000FF+02031511 000000FF+02031512 000000FF+02031513 000000FF+02031514 000000FF+02031515 000000FF+02031516 000000FF"
+cheat167_enable = false
+
+cheat168_desc = "全图鉴"
+cheat168_code = "020240AC 000000FF+020240AD 000000FF+020240AE 000000FF+020240AF 000000FF+020240B0 000000FF+020240B1 000000FF+020240B2 000000FF+020240B3 000000FF"
+cheat168_enable = false
+
+cheat169_desc = "全忍具"
+cheat169_code = "02023FD6 00000001+02023FD7 00000001+02023FD8 00000001+02023FD9 00000001+02023FDA 00000001+02023FDB 00000001+02023FDC 00000001+02023FDD 00000001+02023FDE 00000001+02023FDF 00000001+02023FE0 00000001+02023FE1 00000001+02023FE2 00000001+02023FE3 00000001+02023FE4 00000001+02023FE5 00000001+02023FE6 00000001+02023FE7 00000001+02023FE8 00000001+02023FE9 00000001+02023FEA 00000001+02023FEB 00000001+02023FEC 00000001+02023FED 00000001+02023FEE 00000001+02023FEF 00000001+02023FF0 00000001+02023FF1 00000001+02023FF2 00000001+02023FF3 00000001+02023FF4 00000001+02023FF5 00000001+02023FF6 00000001+02023FF7 00000001+02023FF8 00000001+02023FF9 00000001+02023FFA 00000001+02023FFB 00000001+02023FFC 00000001+02023FFD 00000001+02023FFE 00000001+02023FFF 00000001+02024000 00000001+02024001 00000001+02024002 00000001+02024003 00000001+02024004 00000001+02024005 00000001+02024006 00000001+02024007 00000001+02024008 00000001+02024009 00000001+0202400A 00000001+0202400B 00000001+0202400C 00000001+0202400D 00000001+0202400E 00000001+0202400F 00000001+02024010 00000001+02024011 00000001+02024012 00000001+02024013 00000001+02024014 00000001+02024015 00000001+02024016 00000001+02024017 00000001+02024018 00000001+02024019 00000001+0202401A 00000001+0202401B 00000001+0202401C 00000001+0202401D 00000001+0202401E 00000001+0202401F 00000001+02024020 00000001+02024021 00000001+02024022 00000001+02024023 00000001+02024024 00000001+02024025 00000001+02024026 00000001+02024027 00000001+02024028 00000001+02024029 00000001+0202402A 00000001+0202402B 00000001+0202402C 00000001+0202402D 00000001+0202402E 00000001+0202402F 00000001+02024030 00000001+02024031 00000001+02024032 00000001"
+cheat169_enable = false
+
+cheat170_desc = "全强化素材"
+cheat170_code = "02024033 00000063+02024034 00000063+02024035 00000063+02024036 00000063+02024037 00000063+02024038 00000063+02024039 00000063+0202403A 00000063+0202403B 00000063+0202403C 00000063+0202403D 00000063+0202403E 00000063+0202403F 00000063+02024040 00000063+02024041 00000063+02024042 00000063+02024043 00000063+02024044 00000063"
+cheat170_enable = false
+
+cheat171_desc = "鸣人等级"
+cheat171_code = "02022EF1 00000063"
+cheat171_enable = false
+
+cheat172_desc = "鸣人经验"
+cheat172_code = "02022F00 000000E7+02022F01 00000003"
+cheat172_enable = false
+
+cheat173_desc = "鸣人点数"
+cheat173_code = "02022FAA 00000063"
+cheat173_enable = false
+
+cheat174_desc = "鸣人全忍术等级"
+cheat174_code = "02022F05 00000003+02022F09 00000003+02022F0D 00000003+02022F11 00000003+02022F15 00000003+02022F19 00000003+02022F1D 00000003+02022F21 00000003"
+cheat174_enable = false
+
+cheat175_desc = "鸣人全修业等级"
+cheat175_code = "02022F41 00000003+02022F45 00000003+02022F49 00000003+02022F4D 00000003+02022F51 00000003+02022F55 00000003+02022F59 00000003+02022F5D 00000003+02022F61 00000003+02022F65 00000003+02022F69 00000003+02022F6D 00000003+02022F71 00000003+02022F75 00000003+02022F79 00000003+02022F7D 00000003+02022F81 00000003+02022F85 00000003+02022F89 00000003+02022F8D 00000003+02022F91 00000003+02022F95 00000003+02022F99 00000003+02022F9D 00000003"
+cheat175_enable = false
+
+cheat176_desc = "佐助等级"
+cheat176_code = "02022FAD 00000063"
+cheat176_enable = false
+
+cheat177_desc = "佐助经验"
+cheat177_code = "02022FBC 000000E7+02022FBD 00000003"
+cheat177_enable = false
+
+cheat178_desc = "佐助点数"
+cheat178_code = "02023066 00000063"
+cheat178_enable = false
+
+cheat179_desc = "佐助全忍术等级"
+cheat179_code = "02022FC1 00000003+02022FC5 00000003+02022FC9 00000003+02022FCD 00000003+02022FD1 00000003+02022FD5 00000003+02022FD9 00000003+02022FDD 00000003+02022FE1 00000003+02022FE5 00000003+02022FE9 00000003"
+cheat179_enable = false
+
+cheat180_desc = "佐助全技能等级"
+cheat180_code = "02022FFD 00000003+02023001 00000003+02023005 00000003+02023009 00000003+0202300D 00000003+02023011 00000003+02023015 00000003+02023019 00000003+0202301D 00000003+02023021 00000003+02023025 00000003+02023029 00000003+0202302D 00000003+02023031 00000003+02023035 00000003+02023039 00000003+0202303D 00000003+02023041 00000003+02023045 00000003+02023049 00000003+0202304D 00000003+02023051 00000003+02023055 00000003+02023059 00000003"
+cheat180_enable = false
+
+cheat181_desc = "小樱等级"
+cheat181_code = "02023069 00000063"
+cheat181_enable = false
+
+cheat182_desc = "小樱经验"
+cheat182_code = "02023078 000000E7+02023079 00000003"
+cheat182_enable = false
+
+cheat183_desc = "小樱点数"
+cheat183_code = "02023122 00000063"
+cheat183_enable = false
+
+cheat184_desc = "小樱全忍术等级"
+cheat184_code = "0202307D 00000003+02023081 00000003+02023085 00000003+02023089 00000003+0202308D 00000003+02023091 00000003+02023095 00000003+02023099 00000003"
+cheat184_enable = false
+
+cheat185_desc = "小樱全技能等级"
+cheat185_code = "02022FFD 00000003+02023001 00000003+02023005 00000003+02023009 00000003+0202300D 00000003+02023011 00000003+02023015 00000003+02023019 00000003+0202301D 00000003+02023021 00000003+02023025 00000003+02023029 00000003+0202302D 00000003+02023031 00000003+02023035 00000003+02023039 00000003+0202303D 00000003+02023041 00000003+02023045 00000003+02023049 00000003+0202304D 00000003+02023051 00000003"
+cheat185_enable = false
+
+cheat186_desc = "战斗中第1人体力 无限"
+cheat186_code = "020242A0 000000E7+020242A1 00000003"
+cheat186_enable = false
+
+cheat187_desc = "战斗中第1人体力 速死"
+cheat187_code = "020242A0 00000000+020242A1 00000000"
+cheat187_enable = false
+
+cheat188_desc = "战斗中第1人查克拉"
+cheat188_code = "0202429B 00000063"
+cheat188_enable = false
+
+cheat189_desc = "战斗中第1人移动力"
+cheat189_code = "02024299 0000000F"
+cheat189_enable = false
+
+cheat190_desc = "战斗中第2人体力 无限"
+cheat190_code = "02024474 000000E7+02024475 00000003"
+cheat190_enable = false
+
+cheat191_desc = "战斗中第2人体力 速死"
+cheat191_code = "02024474 00000000+02024475 00000000"
+cheat191_enable = false
+
+cheat192_desc = "战斗中第2人查克拉"
+cheat192_code = "0202446F 00000063"
+cheat192_enable = false
+
+cheat193_desc = "战斗中第2人移动力"
+cheat193_code = "0202446D 0000000F"
+cheat193_enable = false
+
+cheat194_desc = "战斗中第3人体力 无限"
+cheat194_code = "02024648 000000E7+02024649 00000003"
+cheat194_enable = false
+
+cheat195_desc = "战斗中第3人体力 速死"
+cheat195_code = "02024648 00000000+02024649 00000000"
+cheat195_enable = false
+
+cheat196_desc = "战斗中第3人查克拉"
+cheat196_code = "02024643 00000063"
+cheat196_enable = false
+
+cheat197_desc = "战斗中第3人移动力"
+cheat197_code = "02024641 0000000F"
+cheat197_enable = false
+
+cheat198_desc = "战斗中其他敌人速死"
+cheat198_code = "0202481C 00000000+0202481D 00000000+020249F0 00000000+020249F1 00000000+02024BC4 00000000+02024BC5 00000000+02024D98 00000000+02024D99 00000000+02024F6C 00000000+02024F6D 00000000+02025140 00000000+02025141 00000000"
+cheat198_enable = false
+
+

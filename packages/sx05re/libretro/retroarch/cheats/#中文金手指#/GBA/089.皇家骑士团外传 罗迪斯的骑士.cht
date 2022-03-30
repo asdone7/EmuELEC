@@ -1,0 +1,699 @@
+cheats = 174
+
+cheat0_desc = "第一人LV (编成时)"
+cheat0_code = "02000762 00000032"
+cheat0_enable = false
+
+cheat1_desc = "第一人LV(战斗时)"
+cheat1_code = "02001B52 00000032"
+cheat1_enable = false
+
+cheat2_desc = "第一人经验值(编成时)"
+cheat2_code = "02000763 00000063"
+cheat2_enable = false
+
+cheat3_desc = "第一人经验值(战斗时)"
+cheat3_code = "02001B53 00000063"
+cheat3_enable = false
+
+cheat4_desc = "第一人HP(编成时)"
+cheat4_code = "02000750 000000E7+02000751 00000003+02000752 000000E7+02000753 00000003"
+cheat4_enable = false
+
+cheat5_desc = "第一人HP(战斗时)"
+cheat5_code = "02001B40 000000E7+02001B41 00000003+02001B42 000000E7+02001B43 00000003"
+cheat5_enable = false
+
+cheat6_desc = "第一人MP(编成时)"
+cheat6_code = "02000754 000000E7+02000755 00000003+02000756 000000E7+02000757 00000003"
+cheat6_enable = false
+
+cheat7_desc = "第一人MP(战斗时)"
+cheat7_code = "02001B44 000000E7+02001B45 00000003+02001B46 000000E7+02001B47 00000003"
+cheat7_enable = false
+
+cheat8_desc = "第一人能力(编成时)"
+cheat8_code = "02000758 000000E7+02000759 00000003+0200075A 000000E7+0200075B 00000003+0200075C 000000E7+0200075D 00000003"
+cheat8_enable = false
+
+cheat9_desc = "第一人能力(战斗时)"
+cheat9_code = "02001B48 000000E7+02001B49 00000003+02001B4A 000000E7+02001B4B 00000003+02001B4C 000000E7+02001B4D 00000003"
+cheat9_enable = false
+
+cheat10_desc = "第一人属性(编成时) 风"
+cheat10_code = "02000764 00000001"
+cheat10_enable = false
+
+cheat11_desc = "第一人属性(编成时) 炎"
+cheat11_code = "02000764 00000002"
+cheat11_enable = false
+
+cheat12_desc = "第一人属性(编成时) 地"
+cheat12_code = "02000764 00000003"
+cheat12_enable = false
+
+cheat13_desc = "第一人属性(编成时) 水"
+cheat13_code = "02000764 00000004"
+cheat13_enable = false
+
+cheat14_desc = "第一人属性(编成时) 圣"
+cheat14_code = "02000764 00000005"
+cheat14_enable = false
+
+cheat15_desc = "第一人属性(编成时) 暗"
+cheat15_code = "02000764 00000006"
+cheat15_enable = false
+
+cheat16_desc = "第一人属性(战斗时) 风"
+cheat16_code = "02001B54 00000001"
+cheat16_enable = false
+
+cheat17_desc = "第一人属性(战斗时) 炎"
+cheat17_code = "02001B54 00000002"
+cheat17_enable = false
+
+cheat18_desc = "第一人属性(战斗时) 地"
+cheat18_code = "02001B54 00000003"
+cheat18_enable = false
+
+cheat19_desc = "第一人属性(战斗时) 水"
+cheat19_code = "02001B54 00000004"
+cheat19_enable = false
+
+cheat20_desc = "第一人属性(战斗时) 圣"
+cheat20_code = "02001B54 00000005"
+cheat20_enable = false
+
+cheat21_desc = "第一人属性(战斗时) 暗"
+cheat21_code = "02001B54 00000006"
+cheat21_enable = false
+
+cheat22_desc = "第一人性格(编成时) L"
+cheat22_code = "02000765 00000001"
+cheat22_enable = false
+
+cheat23_desc = "第一人性格(编成时) N"
+cheat23_code = "02000765 00000002"
+cheat23_enable = false
+
+cheat24_desc = "第一人性格(编成时) C"
+cheat24_code = "02000765 00000003"
+cheat24_enable = false
+
+cheat25_desc = "第一人性格(战斗时) L"
+cheat25_code = "02001B55 00000001"
+cheat25_enable = false
+
+cheat26_desc = "第一人性格(战斗时) N"
+cheat26_code = "02001B55 00000002"
+cheat26_enable = false
+
+cheat27_desc = "第一人性格(战斗时) C"
+cheat27_code = "02001B55 00000003"
+cheat27_enable = false
+
+cheat28_desc = "第一人性别(编成时) 男"
+cheat28_code = "0200076E 00000001"
+cheat28_enable = false
+
+cheat29_desc = "第一人性别(编成时) 女"
+cheat29_code = "0200076E 00000002"
+cheat29_enable = false
+
+cheat30_desc = "第一人性别(战斗时) 男"
+cheat30_code = "02001B5E 00000001"
+cheat30_enable = false
+
+cheat31_desc = "第一人性别(战斗时) 女"
+cheat31_code = "02001B5E 00000002"
+cheat31_enable = false
+
+cheat32_desc = "第一人职业(编成时) 堕天使"
+cheat32_code = "0200075F 00000053"
+cheat32_enable = false
+
+cheat33_desc = "第一人职业(编成时) 士兵（男）"
+cheat33_code = "0200075F 00000001"
+cheat33_enable = false
+
+cheat34_desc = "第一人职业(编成时) 士兵（女）"
+cheat34_code = "0200075F 00000002"
+cheat34_enable = false
+
+cheat35_desc = "第一人职业(编成时) 忍者（男）"
+cheat35_code = "0200075F 00000003"
+cheat35_enable = false
+
+cheat36_desc = "第一人职业(编成时) 忍者（女）"
+cheat36_code = "0200075F 00000004"
+cheat36_enable = false
+
+cheat37_desc = "第一人职业(编成时) 弓兵（男）"
+cheat37_code = "0200075F 00000005"
+cheat37_enable = false
+
+cheat38_desc = "第一人职业(编成时) 弓兵（女）"
+cheat38_code = "0200075F 00000006"
+cheat38_enable = false
+
+cheat39_desc = "第一人职业(编成时) 魔法师（男）"
+cheat39_code = "0200075F 00000007"
+cheat39_enable = false
+
+cheat40_desc = "第一人职业(编成时) 魔法师（女）"
+cheat40_code = "0200075F 00000008"
+cheat40_enable = false
+
+cheat41_desc = "第一人职业(编成时) 僧侣（男）"
+cheat41_code = "0200075F 00000009"
+cheat41_enable = false
+
+cheat42_desc = "第一人职业(编成时) 僧侣（女）"
+cheat42_code = "0200075F 0000000A"
+cheat42_enable = false
+
+cheat43_desc = "第一人职业(编成时) 祭司（男）"
+cheat43_code = "0200075F 00000013"
+cheat43_enable = false
+
+cheat44_desc = "第一人职业(编成时) 祭司（女）"
+cheat44_code = "0200075F 00000014"
+cheat44_enable = false
+
+cheat45_desc = "第一人职业(编成时) 骑士（男）"
+cheat45_code = "0200075F 0000000B"
+cheat45_enable = false
+
+cheat46_desc = "第一人职业(编成时) 骑士（女）"
+cheat46_code = "0200075F 0000000C"
+cheat46_enable = false
+
+cheat47_desc = "第一人职业(编成时) 剑圣（男）"
+cheat47_code = "0200075F 0000000D"
+cheat47_enable = false
+
+cheat48_desc = "第一人职业(编成时) 剑圣（女）"
+cheat48_code = "0200075F 0000004F"
+cheat48_enable = false
+
+cheat49_desc = "第一人职业(编成时) 召唤师（男）"
+cheat49_code = "0200075F 00000045"
+cheat49_enable = false
+
+cheat50_desc = "第一人职业(编成时) 召唤师（女）"
+cheat50_code = "0200075F 00000046"
+cheat50_enable = false
+
+cheat51_desc = "第一人职业(编成时) 死灵士兵（男）"
+cheat51_code = "0200075F 00000032"
+cheat51_enable = false
+
+cheat52_desc = "第一人职业(编成时) 死灵士兵（女）"
+cheat52_code = "0200075F 00000033"
+cheat52_enable = false
+
+cheat53_desc = "第一人职业(编成时) 死灵魔法师（男）"
+cheat53_code = "0200075F 00000034"
+cheat53_enable = false
+
+cheat54_desc = "第一人职业(编成时) 死灵魔法师（女）"
+cheat54_code = "0200075F 00000035"
+cheat54_enable = false
+
+cheat55_desc = "第一人职业(编成时) 死灵骑士（男）"
+cheat55_code = "0200075F 00000036"
+cheat55_enable = false
+
+cheat56_desc = "第一人职业(编成时) 死灵骑士（女）"
+cheat56_code = "0200075F 00000037"
+cheat56_enable = false
+
+cheat57_desc = "第一人职业(编成时) 天使骑士（男）"
+cheat57_code = "0200075F 0000001B"
+cheat57_enable = false
+
+cheat58_desc = "第一人职业(编成时) 天使骑士（女）"
+cheat58_code = "0200075F 0000001C"
+cheat58_enable = false
+
+cheat59_desc = "第一人职业(编成时) 暗天使骑士（男）"
+cheat59_code = "0200075F 00000022"
+cheat59_enable = false
+
+cheat60_desc = "第一人职业(编成时) 暗天使骑士（女）"
+cheat60_code = "0200075F 00000023"
+cheat60_enable = false
+
+cheat61_desc = "第一人职业(编成时) 小恶魔"
+cheat61_code = "0200075F 0000001F"
+cheat61_enable = false
+
+cheat62_desc = "第一人职业(编成时) 下级恶魔"
+cheat62_code = "0200075F 0000004A"
+cheat62_enable = false
+
+cheat63_desc = "第一人职业(编成时) 上级恶魔"
+cheat63_code = "0200075F 00000020"
+cheat63_enable = false
+
+cheat64_desc = "第一人职业(编成时) 暗忍者"
+cheat64_code = "0200075F 00000039"
+cheat64_enable = false
+
+cheat65_desc = "第一人职业(编成时) 暗巨人"
+cheat65_code = "0200075F 0000003A"
+cheat65_enable = false
+
+cheat66_desc = "第一人职业(编成时) 暗龙骑士"
+cheat66_code = "0200075F 0000003F"
+cheat66_enable = false
+
+cheat67_desc = "第一人职业(编成时) 风龙"
+cheat67_code = "0200075F 00000024"
+cheat67_enable = false
+
+cheat68_desc = "第一人职业(编成时) 炎龙"
+cheat68_code = "0200075F 00000025"
+cheat68_enable = false
+
+cheat69_desc = "第一人职业(编成时) 地龙"
+cheat69_code = "0200075F 00000026"
+cheat69_enable = false
+
+cheat70_desc = "第一人职业(编成时) 水龙"
+cheat70_code = "0200075F 00000027"
+cheat70_enable = false
+
+cheat71_desc = "第一人职业(编成时) 圣龙"
+cheat71_code = "0200075F 00000028"
+cheat71_enable = false
+
+cheat72_desc = "第一人职业(编成时) 海龙"
+cheat72_code = "0200075F 00000029"
+cheat72_enable = false
+
+cheat73_desc = "第一人职业(编成时) 魔龙"
+cheat73_code = "0200075F 0000002A"
+cheat73_enable = false
+
+cheat74_desc = "第一人职业(编成时) 丧尸龙"
+cheat74_code = "0200075F 0000002B"
+cheat74_enable = false
+
+cheat75_desc = "第一人职业(编成时) 龙骑士"
+cheat75_code = "0200075F 0000000E"
+cheat75_enable = false
+
+cheat76_desc = "第一人职业(编成时) 近卫骑士"
+cheat76_code = "0200075F 00000021"
+cheat76_enable = false
+
+cheat77_desc = "第一人职业(编成时) 蓝铠骑士"
+cheat77_code = "0200075F 0000004E"
+cheat77_enable = false
+
+cheat78_desc = "第一人职业(编成时) 女武神"
+cheat78_code = "0200075F 0000000F"
+cheat78_enable = false
+
+cheat79_desc = "第一人职业(编成时) 高位魔法师"
+cheat79_code = "0200075F 00000010"
+cheat79_enable = false
+
+cheat80_desc = "第一人职业(编成时) 学者"
+cheat80_code = "0200075F 00000011"
+cheat80_enable = false
+
+cheat81_desc = "第一人职业(编成时) 巫女"
+cheat81_code = "0200075F 00000012"
+cheat81_enable = false
+
+cheat82_desc = "第一人职业(编成时) 操龙使"
+cheat82_code = "0200075F 00000015"
+cheat82_enable = false
+
+cheat83_desc = "第一人职业(编成时) 操兽使"
+cheat83_code = "0200075F 00000016"
+cheat83_enable = false
+
+cheat84_desc = "第一人职业(编成时) 翼人"
+cheat84_code = "0200075F 00000017"
+cheat84_enable = false
+
+cheat85_desc = "第一人职业(编成时) 人鱼"
+cheat85_code = "0200075F 00000018"
+cheat85_enable = false
+
+cheat86_desc = "第一人职业(编成时) 精灵"
+cheat86_code = "0200075F 00000019"
+cheat86_enable = false
+
+cheat87_desc = "第一人职业(编成时) 死灵魔道士"
+cheat87_code = "0200075F 0000001A"
+cheat87_enable = false
+
+cheat88_desc = "第一人职业(编成时) 幽灵"
+cheat88_code = "0200075F 0000001D"
+cheat88_enable = false
+
+cheat89_desc = "第一人职业(编成时) 美杜莎"
+cheat89_code = "0200075F 0000001E"
+cheat89_enable = false
+
+cheat90_desc = "第一人职业(编成时) 狮鹫"
+cheat90_code = "0200075F 0000002C"
+cheat90_enable = false
+
+cheat91_desc = "第一人职业(编成时) 石化鸟"
+cheat91_code = "0200075F 0000002D"
+cheat91_enable = false
+
+cheat92_desc = "第一人职业(编成时) 乌鱼"
+cheat92_code = "0200075F 0000002E"
+cheat92_enable = false
+
+cheat93_desc = "第一人职业(编成时) 双头犬"
+cheat93_code = "0200075F 0000002F"
+cheat93_enable = false
+
+cheat94_desc = "第一人职业(编成时) 巨人"
+cheat94_code = "0200075F 00000030"
+cheat94_enable = false
+
+cheat95_desc = "第一人职业(编成时) 海贼"
+cheat95_code = "0200075F 00000031"
+cheat95_enable = false
+
+cheat96_desc = "第一人职业(编成时) 孤高的美女魔术师"
+cheat96_code = "0200075F 00000042"
+cheat96_enable = false
+
+cheat97_desc = "第一人职业(编成时) 神官骑士"
+cheat97_code = "0200075F 00000043"
+cheat97_enable = false
+
+cheat98_desc = "第一人职业(编成时) 魔导战士"
+cheat98_code = "0200075F 0000004B"
+cheat98_enable = false
+
+cheat99_desc = "第一人职业(编成时) 大魔女迪芙"
+cheat99_code = "0200075F 0000004C"
+cheat99_enable = false
+
+cheat100_desc = "第一人职业(编成时) 领主"
+cheat100_code = "0200075F 0000004D"
+cheat100_enable = false
+
+cheat101_desc = "第一人职业(编成时) 巨魔"
+cheat101_code = "0200075F 00000052"
+cheat101_enable = false
+
+cheat102_desc = "第一人职业(战斗时) 堕天使"
+cheat102_code = "02001B4F 00000053"
+cheat102_enable = false
+
+cheat103_desc = "第一人职业(战斗时) 士兵(男)"
+cheat103_code = "02001B4F 00000001"
+cheat103_enable = false
+
+cheat104_desc = "第一人职业(战斗时) 士兵(女)"
+cheat104_code = "02001B4F 00000002"
+cheat104_enable = false
+
+cheat105_desc = "第一人职业(战斗时) 忍者(男)"
+cheat105_code = "02001B4F 00000003"
+cheat105_enable = false
+
+cheat106_desc = "第一人职业(战斗时) 忍者(女)"
+cheat106_code = "02001B4F 00000004"
+cheat106_enable = false
+
+cheat107_desc = "第一人职业(战斗时) 弓兵(男)"
+cheat107_code = "02001B4F 00000005"
+cheat107_enable = false
+
+cheat108_desc = "第一人职业(战斗时) 弓兵(女)"
+cheat108_code = "02001B4F 00000006"
+cheat108_enable = false
+
+cheat109_desc = "第一人职业(战斗时) 魔法师(男)"
+cheat109_code = "02001B4F 00000007"
+cheat109_enable = false
+
+cheat110_desc = "第一人职业(战斗时) 魔法师(女)"
+cheat110_code = "02001B4F 00000008"
+cheat110_enable = false
+
+cheat111_desc = "第一人职业(战斗时) 僧侣(男)"
+cheat111_code = "02001B4F 00000009"
+cheat111_enable = false
+
+cheat112_desc = "第一人职业(战斗时) 僧侣(女)"
+cheat112_code = "02001B4F 0000000A"
+cheat112_enable = false
+
+cheat113_desc = "第一人职业(战斗时) 祭司(男)"
+cheat113_code = "02001B4F 00000013"
+cheat113_enable = false
+
+cheat114_desc = "第一人职业(战斗时) 祭司(女)"
+cheat114_code = "02001B4F 00000014"
+cheat114_enable = false
+
+cheat115_desc = "第一人职业(战斗时) 骑士(男)"
+cheat115_code = "02001B4F 0000000B"
+cheat115_enable = false
+
+cheat116_desc = "第一人职业(战斗时) 骑士(女)"
+cheat116_code = "02001B4F 0000000C"
+cheat116_enable = false
+
+cheat117_desc = "第一人职业(战斗时) 剑圣(男)"
+cheat117_code = "02001B4F 0000000D"
+cheat117_enable = false
+
+cheat118_desc = "第一人职业(战斗时) 剑圣(女)"
+cheat118_code = "02001B4F 0000004F"
+cheat118_enable = false
+
+cheat119_desc = "第一人职业(战斗时) 召唤师(男)"
+cheat119_code = "02001B4F 00000045"
+cheat119_enable = false
+
+cheat120_desc = "第一人职业(战斗时) 召唤师(女）"
+cheat120_code = "02001B4F 00000046"
+cheat120_enable = false
+
+cheat121_desc = "第一人职业(战斗时) 死灵士兵(男)"
+cheat121_code = "02001B4F 00000032"
+cheat121_enable = false
+
+cheat122_desc = "第一人职业(战斗时) 死灵士兵(女)"
+cheat122_code = "02001B4F 00000033"
+cheat122_enable = false
+
+cheat123_desc = "第一人职业(战斗时) 死灵魔法师(男)"
+cheat123_code = "02001B4F 00000034"
+cheat123_enable = false
+
+cheat124_desc = "第一人职业(战斗时) 死灵魔法师(女)"
+cheat124_code = "02001B4F 00000035"
+cheat124_enable = false
+
+cheat125_desc = "第一人职业(战斗时) 死灵骑士(男)"
+cheat125_code = "02001B4F 00000036"
+cheat125_enable = false
+
+cheat126_desc = "第一人职业(战斗时) 死灵骑士(女)"
+cheat126_code = "02001B4F 00000037"
+cheat126_enable = false
+
+cheat127_desc = "第一人职业(战斗时) 天使骑士(男)"
+cheat127_code = "02001B4F 0000001B"
+cheat127_enable = false
+
+cheat128_desc = "第一人职业(战斗时) 天使骑士(女)"
+cheat128_code = "02001B4F 0000001C"
+cheat128_enable = false
+
+cheat129_desc = "第一人职业(战斗时) 暗天使骑士(男)"
+cheat129_code = "02001B4F 00000022"
+cheat129_enable = false
+
+cheat130_desc = "第一人职业(战斗时) 暗天使骑士(女)"
+cheat130_code = "02001B4F 00000023"
+cheat130_enable = false
+
+cheat131_desc = "第一人职业(战斗时) 小恶魔"
+cheat131_code = "02001B4F 0000001F"
+cheat131_enable = false
+
+cheat132_desc = "第一人职业(战斗时) 下级恶魔"
+cheat132_code = "02001B4F 0000004A"
+cheat132_enable = false
+
+cheat133_desc = "第一人职业(战斗时) 上级恶魔"
+cheat133_code = "02001B4F 00000020"
+cheat133_enable = false
+
+cheat134_desc = "第一人职业(战斗时) 暗忍者"
+cheat134_code = "02001B4F 00000039"
+cheat134_enable = false
+
+cheat135_desc = "第一人职业(战斗时) 暗巨人"
+cheat135_code = "02001B4F 0000003A"
+cheat135_enable = false
+
+cheat136_desc = "第一人职业(战斗时) 暗龙骑士"
+cheat136_code = "02001B4F 0000003F"
+cheat136_enable = false
+
+cheat137_desc = "第一人职业(战斗时) 风龙"
+cheat137_code = "02001B4F 00000024"
+cheat137_enable = false
+
+cheat138_desc = "第一人职业(战斗时) 炎龙"
+cheat138_code = "02001B4F 00000025"
+cheat138_enable = false
+
+cheat139_desc = "第一人职业(战斗时) 地龙"
+cheat139_code = "02001B4F 00000026"
+cheat139_enable = false
+
+cheat140_desc = "第一人职业(战斗时) 水龙"
+cheat140_code = "02001B4F 00000027"
+cheat140_enable = false
+
+cheat141_desc = "第一人职业(战斗时) 圣龙"
+cheat141_code = "02001B4F 00000028"
+cheat141_enable = false
+
+cheat142_desc = "第一人职业(战斗时) 海龙"
+cheat142_code = "02001B4F 00000029"
+cheat142_enable = false
+
+cheat143_desc = "第一人职业(战斗时) 魔龙"
+cheat143_code = "02001B4F 0000002A"
+cheat143_enable = false
+
+cheat144_desc = "第一人职业(战斗时) 丧尸龙"
+cheat144_code = "02001B4F 0000002B"
+cheat144_enable = false
+
+cheat145_desc = "第一人职业(战斗时) 龙骑士"
+cheat145_code = "02001B4F 0000000E"
+cheat145_enable = false
+
+cheat146_desc = "第一人职业(战斗时) 近卫骑士"
+cheat146_code = "02001B4F 00000021"
+cheat146_enable = false
+
+cheat147_desc = "第一人职业(战斗时) 蓝铠骑士"
+cheat147_code = "02001B4F 0000004E"
+cheat147_enable = false
+
+cheat148_desc = "第一人职业(战斗时) 女武神"
+cheat148_code = "02001B4F 0000000F"
+cheat148_enable = false
+
+cheat149_desc = "第一人职业(战斗时) 高位魔法师"
+cheat149_code = "02001B4F 00000010"
+cheat149_enable = false
+
+cheat150_desc = "第一人职业(战斗时) 学者"
+cheat150_code = "02001B4F 00000011"
+cheat150_enable = false
+
+cheat151_desc = "第一人职业(战斗时) 巫女"
+cheat151_code = "02001B4F 00000012"
+cheat151_enable = false
+
+cheat152_desc = "第一人职业(战斗时) 操龙使"
+cheat152_code = "02001B4F 00000015"
+cheat152_enable = false
+
+cheat153_desc = "第一人职业(战斗时) 操兽使"
+cheat153_code = "02001B4F 00000016"
+cheat153_enable = false
+
+cheat154_desc = "第一人职业(战斗时) 翼人"
+cheat154_code = "02001B4F 00000017"
+cheat154_enable = false
+
+cheat155_desc = "第一人职业(战斗时) 人鱼"
+cheat155_code = "02001B4F 00000018"
+cheat155_enable = false
+
+cheat156_desc = "第一人职业(战斗时) 精灵"
+cheat156_code = "02001B4F 00000019"
+cheat156_enable = false
+
+cheat157_desc = "第一人职业(战斗时) 死灵魔道士"
+cheat157_code = "02001B4F 0000001A"
+cheat157_enable = false
+
+cheat158_desc = "第一人职业(战斗时) 幽灵"
+cheat158_code = "02001B4F 0000001D"
+cheat158_enable = false
+
+cheat159_desc = "第一人职业(战斗时) 美杜莎"
+cheat159_code = "02001B4F 0000001E"
+cheat159_enable = false
+
+cheat160_desc = "第一人职业(战斗时) 狮鹫"
+cheat160_code = "02001B4F 0000002C"
+cheat160_enable = false
+
+cheat161_desc = "第一人职业(战斗时) 石化鸟"
+cheat161_code = "02001B4F 0000002D"
+cheat161_enable = false
+
+cheat162_desc = "第一人职业(战斗时) 乌鱼"
+cheat162_code = "02001B4F 0000002E"
+cheat162_enable = false
+
+cheat163_desc = "第一人职业(战斗时) 双头犬"
+cheat163_code = "02001B4F 0000002F"
+cheat163_enable = false
+
+cheat164_desc = "第一人职业(战斗时) 巨人"
+cheat164_code = "02001B4F 00000030"
+cheat164_enable = false
+
+cheat165_desc = "第一人职业(战斗时) 海贼"
+cheat165_code = "02001B4F 00000031"
+cheat165_enable = false
+
+cheat166_desc = "第一人职业(战斗时) 孤高的美女魔术师"
+cheat166_code = "0200075F 00000042"
+cheat166_enable = false
+
+cheat167_desc = "第一人职业(战斗时) 神官骑士"
+cheat167_code = "02001B4F 00000043"
+cheat167_enable = false
+
+cheat168_desc = "第一人职业(战斗时) 魔导战士"
+cheat168_code = "02001B4F 0000004B"
+cheat168_enable = false
+
+cheat169_desc = "第一人职业(战斗时) 大魔女迪芙妮"
+cheat169_code = "02001B4F 0000004C"
+cheat169_enable = false
+
+cheat170_desc = "第一人职业(战斗时) 领主"
+cheat170_code = "02001B4F 0000004D"
+cheat170_enable = false
+
+cheat171_desc = "第一人职业(战斗时) 巨魔"
+cheat171_code = "02001B4F 00000052"
+cheat171_enable = false
+
+cheat172_desc = "第一人徽章(编成时)"
+cheat172_code = "02000718 000000DF+02000719 000000F7+0200071A 000000E7+0200071B 000000F3"
+cheat172_enable = false
+
+cheat173_desc = "第一人徽章(战斗时)"
+cheat173_code = "02001B08 000000DF+02001B09 000000F7+02001B0A 000000E7+02001B0B 000000F3"
+cheat173_enable = false
+
+

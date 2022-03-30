@@ -1,0 +1,42 @@
+cheats = 10
+
+cheat0_desc = "[生命数] ON"
+cheat0_code = "0304:63 "
+cheat0_enable = false
+
+cheat1_desc = "[血格] ON"
+cheat1_code = "030D:08 "
+cheat1_enable = false
+
+cheat2_desc = "[隐身] ON"
+cheat2_code = "0402:20 "
+cheat2_enable = false
+
+cheat3_desc = "[能量槽最大值] ON"
+cheat3_code = "0308:14 "
+cheat3_enable = false
+
+cheat4_desc = "[能量最大] ON"
+cheat4_code = "0321:14 "
+cheat4_enable = false
+
+cheat5_desc = "[道具] 斧子"
+cheat5_code = "0313:01 "
+cheat5_enable = false
+
+cheat6_desc = "[道具] 炸弹"
+cheat6_code = "0313:02 "
+cheat6_enable = false
+
+cheat7_desc = "[道具] 医药箱"
+cheat7_code = "0313:03 "
+cheat7_enable = false
+
+cheat8_desc = "[道具槽最大值] ON"
+cheat8_code = "030B:05 "
+cheat8_enable = false
+
+cheat9_desc = "[道具数最大] ON"
+cheat9_code = "030A:05 "
+cheat9_enable = false
+

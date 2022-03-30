@@ -1,0 +1,111 @@
+cheats = 27
+
+cheat0_desc = "能源 HOT VIOLET"
+cheat0_code = "02012DEB 00000064"
+cheat0_enable = false
+
+cheat1_desc = "能源 FIRE BALL"
+cheat1_code = "02012EB7 00000064"
+cheat1_enable = false
+
+cheat2_desc = "能源 J.B.CRYSTAL"
+cheat2_code = "02012F83 00000064"
+cheat2_enable = false
+
+cheat3_desc = "能源 CRAZY HOUSE"
+cheat3_code = "0201304F 00000064"
+cheat3_enable = false
+
+cheat4_desc = "速度 HOT VIOLET"
+cheat4_code = "02012DD4 000000FF+02012DD5 00000014"
+cheat4_enable = false
+
+cheat5_desc = "速度 FIRE BALL"
+cheat5_code = "02012EA0 000000FF+02012EA1 00000014"
+cheat5_enable = false
+
+cheat6_desc = "速度 J.B.CRYSTAL"
+cheat6_code = "02012F6C 000000FF+02012F6D 00000064"
+cheat6_enable = false
+
+cheat7_desc = "速度 CRAZY HOUSE"
+cheat7_code = "02013038 000000FF+02013039 00000014"
+cheat7_enable = false
+
+cheat8_desc = "隐藏要素全开&可选所有MACHINE"
+cheat8_code = "02008957 000000FF"
+cheat8_enable = false
+
+cheat9_desc = "0HV速度 最高速"
+cheat9_code = "02012DD4 000000FF+02012DD5 0000007F"
+cheat9_enable = false
+
+cheat10_desc = "0HV速度 最低速"
+cheat10_code = "02012DD4 00000000+02012DD5 00000000"
+cheat10_enable = false
+
+cheat11_desc = "0HV能源 无限Power"
+cheat11_code = "02012DEB 00000064"
+cheat11_enable = false
+
+cheat12_desc = "0HV能源 无Power"
+cheat12_code = "02012DEB 00000000"
+cheat12_enable = false
+
+cheat13_desc = "0HV即时胜利"
+cheat13_code = "02012E0C 00000005"
+cheat13_enable = false
+
+cheat14_desc = "0HV无限加速"
+cheat14_code = "02012E17 00000003"
+cheat14_enable = false
+
+cheat15_desc = "9JV最高速"
+cheat15_code = "02013500 000000FF+02013501 0000007F"
+cheat15_enable = false
+
+cheat16_desc = "无限命(SPARE MACHINE)"
+cheat16_code = "02042B6A 00000004"
+cheat16_enable = false
+
+cheat17_desc = "使用中的MACHINE Hot Violet(紫)"
+cheat17_code = "02042E11 00000000"
+cheat17_enable = false
+
+cheat18_desc = "使用中的MACHINE Fireball(红)"
+cheat18_code = "02042E11 00000001"
+cheat18_enable = false
+
+cheat19_desc = "使用中的MACHINE J.B. Crystal(淡绿)"
+cheat19_code = "02042E11 00000002"
+cheat19_enable = false
+
+cheat20_desc = "使用中的MACHINE Crazy Horse(啡)"
+cheat20_code = "02042E11 00000003"
+cheat20_enable = false
+
+cheat21_desc = "使用中的MACHINE Dirty Joker(绿)"
+cheat21_code = "02042E11 00000004"
+cheat21_enable = false
+
+cheat22_desc = "使用中的MACHINE The Stingray(白&青)"
+cheat22_code = "02042E11 00000005"
+cheat22_enable = false
+
+cheat23_desc = "使用中的MACHINE Silver Thunder(银)"
+cheat23_code = "02042E11 00000006"
+cheat23_enable = false
+
+cheat24_desc = "使用中的MACHINE Falcon MK-II(蓝)"
+cheat24_code = "02042E11 00000007"
+cheat24_enable = false
+
+cheat25_desc = "使用中的MACHINE Fighting Comet(白&紫)"
+cheat25_code = "02042E11 00000008"
+cheat25_enable = false
+
+cheat26_desc = "使用中的MACHINE Jet Vermilion(橙)"
+cheat26_code = "02042E11 00000009"
+cheat26_enable = false
+
+

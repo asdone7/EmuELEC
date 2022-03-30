@@ -1,0 +1,155 @@
+cheats = 38
+
+cheat0_desc = "#解锁所有武器/阶段-VS模式"
+cheat0_code = "50000802 0000+800CC5E0 0001"
+cheat0_enable = false
+
+cheat1_desc = "#2D阶段无敌"
+cheat1_code = "D00DF806 1040+800DF806 1400"
+cheat1_enable = false
+
+cheat2_desc = "#所有数据武器"
+cheat2_code = "800CC622 0001+800CC624 0001+800CC626 0001+800CC628 0001+800CC62A 0001+800CC62C 0001+800CC62E 0001"
+cheat2_enable = false
+
+cheat3_desc = "#武器所有数据（战斗）"
+cheat3_code = "800CC5E2 0001+800CC5E4 0001+800CC5E6 0001+800CC5E8 0001+800CC5EA 0001+800CC5EC 0001+800CC5EE 0001"
+cheat3_enable = false
+
+cheat4_desc = "#Infinite Health-Stage 1.1（仅使用该阶段的代码）"
+cheat4_code = "801D155C 0A00"
+cheat4_enable = false
+
+cheat5_desc = "#Infinite Health-Stage 1.2"
+cheat5_code = "801D9A1C 0A00"
+cheat5_enable = false
+
+cheat6_desc = "#Infinite Health-Stage 1.3"
+cheat6_code = "801D8BB4 0A00"
+cheat6_enable = false
+
+cheat7_desc = "#Infinite Health-阶段1.4"
+cheat7_code = "8018A5CC 0A00"
+cheat7_enable = false
+
+cheat8_desc = "#Infinite Health-Stage 2.1"
+cheat8_code = "801DFDE0 0A00"
+cheat8_enable = false
+
+cheat9_desc = "#Infinite Health-Stage 2.2"
+cheat9_code = "801DBF00 0A00"
+cheat9_enable = false
+
+cheat10_desc = "#Infinite Health-Stage 2.3"
+cheat10_code = "801D21C8 0A00"
+cheat10_enable = false
+
+cheat11_desc = "#Infinite Health-阶段2.4"
+cheat11_code = "8018A2E4 0A00"
+cheat11_enable = false
+
+cheat12_desc = "#Infinite Health-Stage 3.1"
+cheat12_code = "801E13F0 0A00"
+cheat12_enable = false
+
+cheat13_desc = "#Infinite Health-Stage 3.2"
+cheat13_code = "801DDBD0 0A00"
+cheat13_enable = false
+
+cheat14_desc = "#Infinite Health-阶段3.3"
+cheat14_code = "801D78FC 0A00"
+cheat14_enable = false
+
+cheat15_desc = "#Infinite Health-阶段3.4"
+cheat15_code = "80189A5C 0A00"
+cheat15_enable = false
+
+cheat16_desc = "#Infinite Health-4.1阶段"
+cheat16_code = "801DC2EC 0A00"
+cheat16_enable = false
+
+cheat17_desc = "#Infinite Health-阶段4.2"
+cheat17_code = "801DCBF8 0A00"
+cheat17_enable = false
+
+cheat18_desc = "#Infinite Health-阶段4.3"
+cheat18_code = "801DC4C4 0A00"
+cheat18_enable = false
+
+cheat19_desc = "#Infinite Health-阶段4.4"
+cheat19_code = "80189D74 0A00"
+cheat19_enable = false
+
+cheat20_desc = "#Infinite Health-阶段5.1"
+cheat20_code = "801D0D50 0A00"
+cheat20_enable = false
+
+cheat21_desc = "#Infinite Health-5.2阶段"
+cheat21_code = "801D7A0C 0A00"
+cheat21_enable = false
+
+cheat22_desc = "#Infinite Health-5.3阶段"
+cheat22_code = "801D22C0 0A00"
+cheat22_enable = false
+
+cheat23_desc = "#Infinite Health-5.4阶段"
+cheat23_code = "8018A790 0A00"
+cheat23_enable = false
+
+cheat24_desc = "#Infinite Health-6.1阶段"
+cheat24_code = "801B8D00 0A00"
+cheat24_enable = false
+
+cheat25_desc = "#Infinite Health-6.2阶段"
+cheat25_code = "801B6FFC 0A00"
+cheat25_enable = false
+
+cheat26_desc = "#Infinite Health-6.3阶段"
+cheat26_code = "80189BA0 0A00"
+cheat26_enable = false
+
+cheat27_desc = "#Infinite Health-7.1阶段"
+cheat27_code = "801B28FC 0A00"
+cheat27_enable = false
+
+cheat28_desc = "#Infinite Health-7.2阶段"
+cheat28_code = "801B6324 0A00"
+cheat28_enable = false
+
+cheat29_desc = "#Infinite Health-7.3阶段"
+cheat29_code = "801B6848 0A00"
+cheat29_enable = false
+
+cheat30_desc = "#Infinite Health-阶段7.4"
+cheat30_code = "8018A47C 0A00"
+cheat30_enable = false
+
+cheat31_desc = "#Infinite Health-阶段8.1"
+cheat31_code = "801DFBF8 0A00"
+cheat31_enable = false
+
+cheat32_desc = "#Infinite Health-8.2阶段"
+cheat32_code = "801DD4BC 0A00"
+cheat32_enable = false
+
+cheat33_desc = "#Infinite Health-8.3阶段"
+cheat33_code = "801DEF10 0A00"
+cheat33_enable = false
+
+cheat34_desc = "#Infinite Health-8.4阶段"
+cheat34_code = "801DD604 0A00"
+cheat34_enable = false
+
+cheat35_desc = "#Infinite Health-阶段8.5"
+cheat35_code = "801DD4CC 0A00"
+cheat35_enable = false
+
+cheat36_desc = "#Infinite Health-9.1级"
+cheat36_code = "801CF300 0A00"
+cheat36_enable = false
+
+cheat37_desc = "#Infinite Health-9.2阶段"
+cheat37_code = "801CB764 0A00"
+cheat37_enable = false
+
+

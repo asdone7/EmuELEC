@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1p] ON"
+cheat0_code = "006A:08 "
+cheat0_enable = false
+
+cheat1_desc = "[2p] ON"
+cheat1_code = "006B:08 "
+cheat1_enable = false
+

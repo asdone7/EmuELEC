@@ -1,0 +1,42 @@
+cheats = 10
+
+cheat0_desc = "[无限加速(仅比赛状态可锁定)]ON"
+cheat0_code = "7E01A6C8"
+cheat0_enable = false
+
+cheat1_desc = "[机油无限(仅比赛状态可锁定)]ON"
+cheat1_code = "7E069364"
+cheat1_enable = false
+
+cheat2_desc = "[最高金钱]ON"
+cheat2_code = "7E1D190F+7E1D1A27"
+cheat2_enable = false
+
+cheat3_desc = "[速度最快]ON"
+cheat3_code = "7E061E21"
+cheat3_enable = false
+
+cheat4_desc = "[完成圈数]1"
+cheat4_code = "7EC42201"
+cheat4_enable = false
+
+cheat5_desc = "[完成圈数]2"
+cheat5_code = "7EC42202"
+cheat5_enable = false
+
+cheat6_desc = "[完成圈数]3"
+cheat6_code = "7EC42203"
+cheat6_enable = false
+
+cheat7_desc = "[完成圈数]4"
+cheat7_code = "7EC42204"
+cheat7_enable = false
+
+cheat8_desc = "[完成圈数]5"
+cheat8_code = "7EC42205"
+cheat8_enable = false
+
+cheat9_desc = "[总是第一]ON"
+cheat9_code = "7EC42600"
+cheat9_enable = false
+

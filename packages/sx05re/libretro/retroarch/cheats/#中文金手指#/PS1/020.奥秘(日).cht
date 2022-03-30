@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "#无限马力"
+cheat0_code = "801FE5B8 00FF"
+cheat0_enable = false
+
+cheat1_desc = "#无限子弹"
+cheat1_code = "801FE5CE 0063"
+cheat1_enable = false
+
+cheat2_desc = "#无限秘密石规"
+cheat2_code = "801FBEDC 0064+801FE63A 2EE0"
+cheat2_enable = false
+
+

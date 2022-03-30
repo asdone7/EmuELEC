@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[透明]ON"
+cheat0_code = "7E1CC499"
+cheat0_enable = false
+
+cheat1_desc = "[REST--09]ON"
+cheat1_code = "7E1FB009+7E1FB100+7E1FB202"
+cheat1_enable = false
+
+cheat2_desc = "[LEVEL-7]ON"
+cheat2_code = "7E1FB406+7E1FB500+7E1FB603"
+cheat2_enable = false
+

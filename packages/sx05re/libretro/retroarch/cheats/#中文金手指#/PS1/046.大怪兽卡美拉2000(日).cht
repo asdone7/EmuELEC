@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#无限能量/盾"
+cheat0_code = "8019BA38 0064"
+cheat0_enable = false
+
+cheat1_desc = "#All Levels所有无敌"
+cheat1_code = "8003ACFA 0000+8003ACF8 0000"
+cheat1_enable = false
+
+

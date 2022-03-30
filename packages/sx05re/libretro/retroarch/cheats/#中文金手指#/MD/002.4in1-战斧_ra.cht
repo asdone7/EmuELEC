@@ -1,0 +1,54 @@
+cheats = 13
+
+cheat0_desc = "[P1 生命数]ON"
+cheat0_code = "FFFC7D:09"
+cheat0_enable = false
+
+cheat1_desc = "[P1 体力格]ON"
+cheat1_code = "FFFC7F:50"
+cheat1_enable = false
+
+cheat2_desc = "[P1 魔法值]女生"
+cheat2_code = "FFFC81:09"
+cheat2_enable = false
+
+cheat3_desc = "[P1 魔法值]男生"
+cheat3_code = "FFFC81:06"
+cheat3_enable = false
+
+cheat4_desc = "[P1 魔法值]老爷"
+cheat4_code = "FFFC81:04"
+cheat4_enable = false
+
+cheat5_desc = "[选择关卡]第一关"
+cheat5_code = "FFFC2C:00"
+cheat5_enable = false
+
+cheat6_desc = "[选择关卡]第二关"
+cheat6_code = "FFFC2C:01"
+cheat6_enable = false
+
+cheat7_desc = "[选择关卡]第三关"
+cheat7_code = "FFFC2C:02"
+cheat7_enable = false
+
+cheat8_desc = "[选择关卡]第四关"
+cheat8_code = "FFFC2C:03"
+cheat8_enable = false
+
+cheat9_desc = "[选择关卡]第五关"
+cheat9_code = "FFFC2C:04"
+cheat9_enable = false
+
+cheat10_desc = "[选择关卡]第六关"
+cheat10_code = "FFFC2C:05"
+cheat10_enable = false
+
+cheat11_desc = "[选择关卡]第七关"
+cheat11_code = "FFFC2C:06"
+cheat11_enable = false
+
+cheat12_desc = "[选择关卡]第八关"
+cheat12_code = "FFFC2C:07"
+cheat12_enable = false
+

@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[HP]ON"
+cheat0_code = "FF13DE:00+FF13E5:03"
+cheat0_enable = false
+

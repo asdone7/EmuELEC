@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[人数]ON"
+cheat0_code = "03BB:06+0659:06"
+cheat0_enable = false
+
+cheat1_desc = "[体力]ON"
+cheat1_code = "03BA:14+0658:28"
+cheat1_enable = false
+
+cheat2_desc = "[拼图时限]ON"
+cheat2_code = "006F:00"
+cheat2_enable = false
+
+cheat3_desc = "[?]ON"
+cheat3_code = "0759:0F"
+cheat3_enable = false
+

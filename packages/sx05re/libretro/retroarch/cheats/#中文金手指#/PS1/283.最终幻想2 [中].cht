@@ -1,0 +1,35 @@
+cheats = 8
+
+cheat0_desc = "#最大金钱"
+cheat0_code = "800AFA7C 869F+800AFA7E 0001"
+cheat0_enable = false
+
+cheat1_desc = "#999生命值"
+cheat1_code = "800AF892 03E7+800AF894 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#保存到任何地方"
+cheat2_code = "D013EC60 0024+8013EC7E 1000"
+cheat2_enable = false
+
+cheat3_desc = "#100％怪物百科全书"
+cheat3_code = "D0141F08 1040+80141F14 83E7+D0141F08 1040+80141F16 2402+D0141F08 1040+80141F1A A462"
+cheat3_enable = false
+
+cheat4_desc = "#100％物品收集率不会消失并立即看到效果"
+cheat4_code = "800149CE A060+800149DC 0000"
+cheat4_enable = false
+
+cheat5_desc = "#补充美术馆"
+cheat5_code = "300AFB2B 00FF"
+cheat5_enable = false
+
+cheat6_desc = "#None遇到SELECT +？，它将被取消，而不会遇到？ + 。如果您将“步”设置为“开”而没有战斗结束，则设置为“开”。"
+cheat6_code = "D011CA7A DFFE+8003FAD0 0000+D011CA7A 9FFF+8003FAD0 FFFF"
+cheat6_enable = false
+
+cheat7_desc = "#随时随地的迷你游戏"
+cheat7_code = "D011CA7A FFFE+800B0174 FE0B"
+cheat7_enable = false
+
+

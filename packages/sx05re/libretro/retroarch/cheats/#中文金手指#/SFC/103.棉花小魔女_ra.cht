@@ -1,0 +1,138 @@
+cheats = 34
+
+cheat0_desc = "[生命无限]ON"
+cheat0_code = "7E000BE908"
+cheat0_enable = false
+
+cheat1_desc = "[接关次数]0次"
+cheat1_code = "7EF6B800"
+cheat1_enable = false
+
+cheat2_desc = "[接关次数]5次"
+cheat2_code = "7EF6B805"
+cheat2_enable = false
+
+cheat3_desc = "[接关次数]10次"
+cheat3_code = "7EF6B810"
+cheat3_enable = false
+
+cheat4_desc = "[魔法无限]ON"
+cheat4_code = "7E0011DE09"
+cheat4_enable = false
+
+cheat5_desc = "[小魔女*3]ON"
+cheat5_code = "7E000FCC03"
+cheat5_enable = false
+
+cheat6_desc = "[游戏难度]简单"
+cheat6_code = "7E0C5000"
+cheat6_enable = false
+
+cheat7_desc = "[游戏难度]普通"
+cheat7_code = "7E0C5001"
+cheat7_enable = false
+
+cheat8_desc = "[游戏难度]难"
+cheat8_code = "7E0C5002"
+cheat8_enable = false
+
+cheat9_desc = "[游戏难度]超难"
+cheat9_code = "7E0C5003"
+cheat9_enable = false
+
+cheat10_desc = "[魔力攻击方式]火龙+7E电龙+7E流星"
+cheat10_code = "7E0C8800"
+cheat10_enable = false
+
+cheat11_desc = "[魔力攻击方式]跟踪小魔女+7E攻击泡+7E流星"
+cheat11_code = "7E0C8801"
+cheat11_enable = false
+
+cheat12_desc = "[魔力攻击方式]跟踪小魔女+7E电龙+7E防身泡"
+cheat12_code = "7E0C8802"
+cheat12_enable = false
+
+cheat13_desc = "[魔力攻击方式]火龙+7E攻击泡+7E防身泡"
+cheat13_code = "7E0C8803"
+cheat13_enable = false
+
+cheat14_desc = "[魔力攻击时间无限]电龙+7E跟踪小魔女"
+cheat14_code = "7E11F0B3"
+cheat14_enable = false
+
+cheat15_desc = "[EXP子弹强度]1级"
+cheat15_code = "7E11B800"
+cheat15_enable = false
+
+cheat16_desc = "[EXP子弹强度]2级"
+cheat16_code = "7E11B801"
+cheat16_enable = false
+
+cheat17_desc = "[EXP子弹强度]3级"
+cheat17_code = "7E11B802"
+cheat17_enable = false
+
+cheat18_desc = "[EXP子弹强度]4级"
+cheat18_code = "7E11B803"
+cheat18_enable = false
+
+cheat19_desc = "[EXP子弹强度]5级"
+cheat19_code = "7E11B804"
+cheat19_enable = false
+
+cheat20_desc = "[EXP子弹强度]6级"
+cheat20_code = "7E11B805"
+cheat20_enable = false
+
+cheat21_desc = "[EXP子弹强度]7级"
+cheat21_code = "7E11B806"
+cheat21_enable = false
+
+cheat22_desc = "[EXP子弹强度]8级"
+cheat22_code = "7E11B807"
+cheat22_enable = false
+
+cheat23_desc = "[EXP子弹强度]9级(最强)"
+cheat23_code = "7E11B808"
+cheat23_enable = false
+
+cheat24_desc = "[无敌]ON"
+cheat24_code = "7E20F885"
+cheat24_enable = false
+
+cheat25_desc = "[选关]第一关"
+cheat25_code = "7E0BEF00"
+cheat25_enable = false
+
+cheat26_desc = "[选关]第二关"
+cheat26_code = "7E0BEF01"
+cheat26_enable = false
+
+cheat27_desc = "[选关]第三关"
+cheat27_code = "7E0BEF02"
+cheat27_enable = false
+
+cheat28_desc = "[选关]第四关"
+cheat28_code = "7E0BEF03"
+cheat28_enable = false
+
+cheat29_desc = "[选关]第五关"
+cheat29_code = "7E0BEF04"
+cheat29_enable = false
+
+cheat30_desc = "[选关]第六关"
+cheat30_code = "7E0BEF05"
+cheat30_enable = false
+
+cheat31_desc = "[选关]第七关"
+cheat31_code = "7E0BEF06"
+cheat31_enable = false
+
+cheat32_desc = "[选关]最终BOSS"
+cheat32_code = "7E0BEF07"
+cheat32_enable = false
+
+cheat33_desc = "[选关]结局"
+cheat33_code = "7E0BEF08"
+cheat33_enable = false
+

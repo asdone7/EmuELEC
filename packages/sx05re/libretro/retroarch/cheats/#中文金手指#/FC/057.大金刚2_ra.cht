@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[体力不减]ON"
+cheat0_code = "0062:99+0063:09"
+cheat0_enable = false
+

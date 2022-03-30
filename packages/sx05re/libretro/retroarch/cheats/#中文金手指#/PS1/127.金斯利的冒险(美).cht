@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#无限健康"
+cheat0_code = "800E851A 000A"
+cheat0_enable = false
+
+cheat1_desc = "#无限的生命"
+cheat1_code = "800E85B0 0009"
+cheat1_enable = false
+
+

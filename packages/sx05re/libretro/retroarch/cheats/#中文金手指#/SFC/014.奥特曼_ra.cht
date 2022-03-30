@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[我方体力]ON"
+cheat0_code = "7EF40A00+7EF40B60"
+cheat0_enable = false
+
+cheat1_desc = "[对方体力]ON"
+cheat1_code = "7EF42A00+7EF42B00"
+cheat1_enable = false
+
+cheat2_desc = "[能量]ON"
+cheat2_code = "7EF48910"
+cheat2_enable = false
+
+cheat3_desc = "[时间]ON"
+cheat3_code = "7EF64899+7EF64909"
+cheat3_enable = false
+

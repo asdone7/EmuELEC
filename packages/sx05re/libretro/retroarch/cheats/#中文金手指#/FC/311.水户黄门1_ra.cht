@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[体力(进入游戏后锁定)]ON"
+cheat0_code = "04DC:1E"
+cheat0_enable = false
+
+cheat1_desc = "[银两]ON"
+cheat1_code = "04DA:09"
+cheat1_enable = false
+
+cheat2_desc = "[时间]ON"
+cheat2_code = "04DF:00"
+cheat2_enable = false
+
+cheat3_desc = "[完成度]ON"
+cheat3_code = "04F2:10"
+cheat3_enable = false
+

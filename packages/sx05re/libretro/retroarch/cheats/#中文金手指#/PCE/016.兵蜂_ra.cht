@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[只数99]ON"
+cheat0_code = "1F0087:99"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "1F180D:85"
+cheat1_enable = false
+
+cheat2_desc = "[威力最大]ON"
+cheat2_code = "1F00A6:28"
+cheat2_enable = false
+

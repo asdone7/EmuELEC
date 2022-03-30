@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[Invincible]On"
+cheat0_code = "1F1612:80"
+cheat0_enable = false
+
+cheat1_desc = "[Tir Puissance Max]On"
+cheat1_code = "1F1602:03"
+cheat1_enable = false
+

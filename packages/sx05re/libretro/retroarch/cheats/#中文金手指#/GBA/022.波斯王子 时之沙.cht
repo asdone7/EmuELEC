@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "血"
+cheat0_code = "02047772 0000003C"
+cheat0_enable = false
+
+cheat1_desc = "所有能力卷轴"
+cheat1_code = "020477B2 000000FF+020477B3 000000FF"
+cheat1_enable = false
+
+

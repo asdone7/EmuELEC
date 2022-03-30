@@ -1,0 +1,298 @@
+cheats = 74
+
+cheat0_desc = "[林云能力]ON"
+cheat0_code = "FF02BA:0A+FF02CC:FF+FF02CE:FF+FF02CF:FF+FF02D0:E7+FF02D1:03+FF02D2:E7+FF02D3:03+FF02D5:63+FF02D6:E7+FF02D7:03+FF02D8:E7+FF02D9:03"
+cheat0_enable = false
+
+cheat1_desc = "[林云职业]剑师"
+cheat1_code = "FF02B8:00"
+cheat1_enable = false
+
+cheat2_desc = "[林云职业]医术士"
+cheat2_code = "FF02B8:01"
+cheat2_enable = false
+
+cheat3_desc = "[林云职业]神兵"
+cheat3_code = "FF02B8:02"
+cheat3_enable = false
+
+cheat4_desc = "[林云职业]将骑"
+cheat4_code = "FF02B8:03"
+cheat4_enable = false
+
+cheat5_desc = "[林云职业]飞天"
+cheat5_code = "FF02B8:04"
+cheat5_enable = false
+
+cheat6_desc = "[林云职业]太子"
+cheat6_code = "FF02B8:05"
+cheat6_enable = false
+
+cheat7_desc = "[林云职业]道人"
+cheat7_code = "FF02B8:06"
+cheat7_enable = false
+
+cheat8_desc = "[林云职业]拳法师"
+cheat8_code = "FF02B8:07"
+cheat8_enable = false
+
+cheat9_desc = "[林云职业]兽人族"
+cheat9_code = "FF02B8:08"
+cheat9_enable = false
+
+cheat10_desc = "[林云属性]玄武"
+cheat10_code = "FF02BB:00"
+cheat10_enable = false
+
+cheat11_desc = "[林云属性]青龙"
+cheat11_code = "FF02BB:01"
+cheat11_enable = false
+
+cheat12_desc = "[林云属性]白虎"
+cheat12_code = "FF02BB:02"
+cheat12_enable = false
+
+cheat13_desc = "[林云属性]朱雀"
+cheat13_code = "FF02BB:03"
+cheat13_enable = false
+
+cheat14_desc = "[林云首位法术]御剑术"
+cheat14_code = "FF02C5:00"
+cheat14_enable = false
+
+cheat15_desc = "[林云首位法术]擎天剑"
+cheat15_code = "FF02C5:01"
+cheat15_enable = false
+
+cheat16_desc = "[林云首位法术]万剑诀"
+cheat16_code = "FF02C5:02"
+cheat16_enable = false
+
+cheat17_desc = "[林云首位法术]天剑决"
+cheat17_code = "FF02C5:03"
+cheat17_enable = false
+
+cheat18_desc = "[林云首位法术]剑破苍穹"
+cheat18_code = "FF02C5:04"
+cheat18_enable = false
+
+cheat19_desc = "[林云首位法术]乾坤破"
+cheat19_code = "FF02C5:05"
+cheat19_enable = false
+
+cheat20_desc = "[林云首位法术]长虹贯日"
+cheat20_code = "FF02C5:06"
+cheat20_enable = false
+
+cheat21_desc = "[林云首位法术]怒剑式"
+cheat21_code = "FF02C5:07"
+cheat21_enable = false
+
+cheat22_desc = "[林云首位法术]地裂刀"
+cheat22_code = "FF02C5:08"
+cheat22_enable = false
+
+cheat23_desc = "[林云首位法术]十字斩"
+cheat23_code = "FF02C5:09"
+cheat23_enable = false
+
+cheat24_desc = "[林云首位法术]御震刀法"
+cheat24_code = "FF02C5:0A"
+cheat24_enable = false
+
+cheat25_desc = "[林云首位法术]龙啸九天"
+cheat25_code = "FF02C5:0B"
+cheat25_enable = false
+
+cheat26_desc = "[林云首位法术]百步穿杨"
+cheat26_code = "FF02C5:0C"
+cheat26_enable = false
+
+cheat27_desc = "[林云首位法术]气动箭"
+cheat27_code = "FF02C5:0D"
+cheat27_enable = false
+
+cheat28_desc = "[林云首位法术]万箭穿心"
+cheat28_code = "FF02C5:0E"
+cheat28_enable = false
+
+cheat29_desc = "[林云首位法术]飓风矢"
+cheat29_code = "FF02C5:0F"
+cheat29_enable = false
+
+cheat30_desc = "[林云首位法术]旋风矢"
+cheat30_code = "FF02C5:10"
+cheat30_enable = false
+
+cheat31_desc = "[林云首位法术]狂嚣箭"
+cheat31_code = "FF02C5:11"
+cheat31_enable = false
+
+cheat32_desc = "[林云首位法术]裂爆拳"
+cheat32_code = "FF02C5:12"
+cheat32_enable = false
+
+cheat33_desc = "[林云首位法术]五气朝元"
+cheat33_code = "FF02C5:13"
+cheat33_enable = false
+
+cheat34_desc = "[林云首位法术]地裂天崩"
+cheat34_code = "FF02C5:14"
+cheat34_enable = false
+
+cheat35_desc = "[林云首位法术]升龙拳"
+cheat35_code = "FF02C5:15"
+cheat35_enable = false
+
+cheat36_desc = "[林云首位法术]炎杀"
+cheat36_code = "FF02C5:16"
+cheat36_enable = false
+
+cheat37_desc = "[林云首位法术]三昧真火"
+cheat37_code = "FF02C5:17"
+cheat37_enable = false
+
+cheat38_desc = "[林云首位法术]炼狱之火"
+cheat38_code = "FF02C5:18"
+cheat38_enable = false
+
+cheat39_desc = "[林云首位法术]天火燎原"
+cheat39_code = "FF02C5:19"
+cheat39_enable = false
+
+cheat40_desc = "[林云首位法术]冰晶术"
+cheat40_code = "FF02C5:1A"
+cheat40_enable = false
+
+cheat41_desc = "[林云首位法术]裂冰术"
+cheat41_code = "FF02C5:1B"
+cheat41_enable = false
+
+cheat42_desc = "[林云首位法术]风雪冰天"
+cheat42_code = "FF02C5:1C"
+cheat42_enable = false
+
+cheat43_desc = "[林云首位法术]崩冰术"
+cheat43_code = "FF02C5:1D"
+cheat43_enable = false
+
+cheat44_desc = "[林云首位法术]疾雷"
+cheat44_code = "FF02C5:1E"
+cheat44_enable = false
+
+cheat45_desc = "[林云首位法术]五雷咒"
+cheat45_code = "FF02C5:1F"
+cheat45_enable = false
+
+cheat46_desc = "[林云首位法术]天雷破"
+cheat46_code = "FF02C5:20"
+cheat46_enable = false
+
+cheat47_desc = "[林云首位法术]霸雷"
+cheat47_code = "FF02C5:21"
+cheat47_enable = false
+
+cheat48_desc = "[林云首位法术]暴走之光"
+cheat48_code = "FF02C5:22"
+cheat48_enable = false
+
+cheat49_desc = "[林云首位法术]九天之怒"
+cheat49_code = "FF02C5:23"
+cheat49_enable = false
+
+cheat50_desc = "[林云首位法术]积尸气"
+cheat50_code = "FF02C5:24"
+cheat50_enable = false
+
+cheat51_desc = "[林云首位法术]黑色狂岚"
+cheat51_code = "FF02C5:25"
+cheat51_enable = false
+
+cheat52_desc = "[林云首位法术]归元"
+cheat52_code = "FF02C5:26"
+cheat52_enable = false
+
+cheat53_desc = "[林云首位法术]凝神"
+cheat53_code = "FF02C5:27"
+cheat53_enable = false
+
+cheat54_desc = "[林云首位法术]凝神归元"
+cheat54_code = "FF02C5:28"
+cheat54_enable = false
+
+cheat55_desc = "[林云首位法术]元灵归心"
+cheat55_code = "FF02C5:29"
+cheat55_enable = false
+
+cheat56_desc = "[林云首位法术]观音下凡"
+cheat56_code = "FF02C5:2A"
+cheat56_enable = false
+
+cheat57_desc = "[林云首位法术]还魂咒"
+cheat57_code = "FF02C5:2B"
+cheat57_enable = false
+
+cheat58_desc = "[林云首位法术]灵血咒"
+cheat58_code = "FF02C5:2C"
+cheat58_enable = false
+
+cheat59_desc = "[林云首位法术]净衣咒"
+cheat59_code = "FF02C5:2D"
+cheat59_enable = false
+
+cheat60_desc = "[林云首位法术]金刚咒"
+cheat60_code = "FF02C5:2E"
+cheat60_enable = false
+
+cheat61_desc = "[林云首位法术]真元护体"
+cheat61_code = "FF02C5:2F"
+cheat61_enable = false
+
+cheat62_desc = "[林云首位法术]金刚破"
+cheat62_code = "FF02C5:30"
+cheat62_enable = false
+
+cheat63_desc = "[林云首位法术]真元归天"
+cheat63_code = "FF02C5:31"
+cheat63_enable = false
+
+cheat64_desc = "[林云首位法术]封魔符"
+cheat64_code = "FF02C5:32"
+cheat64_enable = false
+
+cheat65_desc = "[林云首位法术]回梦"
+cheat65_code = "FF02C5:33"
+cheat65_enable = false
+
+cheat66_desc = "[林云首位法术]哮天犬"
+cheat66_code = "FF02C5:34"
+cheat66_enable = false
+
+cheat67_desc = "[林云首位法术]龙王"
+cheat67_code = "FF02C5:35"
+cheat67_enable = false
+
+cheat68_desc = "[林云首位法术]龙须虎"
+cheat68_code = "FF02C5:36"
+cheat68_enable = false
+
+cheat69_desc = "[林云首位法术]火凤凰"
+cheat69_code = "FF02C5:37"
+cheat69_enable = false
+
+cheat70_desc = "[林云首位法术]麒麟兽"
+cheat70_code = "FF02C5:38"
+cheat70_enable = false
+
+cheat71_desc = "[林云首位法术]四不像"
+cheat71_code = "FF02C5:39"
+cheat71_enable = false
+
+cheat72_desc = "[队员全能力]ON"
+cheat72_code = "FF02FA:0A+FF030C:FF+FF030E:FF+FF030F:FF+FF0310:E7+FF0311:03+FF0312:E7+FF0313:03+FF0315:63+FF0316:E7+FF0317:03+FF0318:E7+FF0319:03+FF033A:0A+FF034C:FF+FF034E:FF+FF034F:FF+FF0350:E7+FF0351:03+FF0352:E7+FF0353:03+FF0355:63+FF0356:E7+FF0357:03+FF0358:E7+FF0359:03+FF037A:0A+FF038C:FF+FF038E:FF+FF038F:FF+FF0390:E7+FF0391:03+FF0392:E7+FF0393:03+FF0395:63+FF0396:E7+FF0397:03+FF0398:E7+FF0399:03+FF03BA:0A+FF03CC:FF+FF03CE:FF+FF03CF:FF+FF03D0:E7+FF03D1:03+FF03D2:E7+FF03D3:03+FF03D5:63+FF03D6:E7+FF03D7:03+FF03D8:E7+FF03D9:03+FF03FA:0A+FF040C:FF+FF040E:FF+FF040F:FF+FF0410:E7+FF0411:03+FF0412:E7+FF0413:03+FF0415:63+FF0416:E7+FF0417:03+FF0418:E7+FF0419:03+FF043A:0A+FF044C:FF+FF044E:FF+FF044F:FF+FF0450:E7+FF0451:03+FF0452:E7+FF0453:03+FF0455:63+FF0456:E7+FF0457:03+FF0458:E7+FF0459:03+FF047A:0A+FF048C:FF+FF048E:FF+FF048F:FF+FF0490:E7+FF0491:03+FF0492:E7+FF0493:03+FF0495:63+FF0496:E7+FF0497:03+FF0498:E7+FF0499:03+FF04BA:0A+FF04CC:FF+FF04CE:FF+FF04CF:FF+FF04D0:E7+FF04D1:03+FF04D2:E7+FF04D3:03+FF04D5:63+FF04D6:E7+FF04D7:03+FF04D8:E7+FF04D9:03+FF04FA:0A+FF050C:FF+FF050E:FF+FF050F:FF+FF0510:E7+FF0511:03+FF0512:E7+FF0513:03+FF0515:63+FF0516:E7+FF0517:03+FF0518:E7+FF0519:03"
+cheat72_enable = false
+
+cheat73_desc = "[全道具]ON"
+cheat73_code = "FFA000:63+FFA001:00+FFA002:63+FFA003:01+FFA004:63+FFA005:02+FFA006:63+FFA007:03+FFA008:63+FFA009:04+FFA00A:63+FFA00B:05+FFA00C:63+FFA00D:06+FFA00E:63+FFA00F:07+FFA010:63+FFA011:08+FFA012:63+FFA013:09+FFA014:63+FFA015:0A+FFA016:63+FFA017:0B+FFA018:63+FFA019:0C+FFA01A:63+FFA01B:0D+FFA01C:63+FFA01D:0E+FFA01E:63+FFA01F:0F+FFA020:63+FFA021:10+FFA022:63+FFA023:11+FFA024:63+FFA025:12+FFA026:63+FFA027:13+FFA028:63+FFA029:14+FFA02A:63+FFA02B:15+FFA02C:63+FFA02D:16+FFA02E:63+FFA02F:17+FFA030:63+FFA031:18+FFA032:63+FFA033:19+FFA034:63+FFA035:1A+FFA036:63+FFA037:1B+FFA038:63+FFA039:1C+FFA03A:63+FFA03B:1D+FFA03C:63+FFA03D:1E+FFA03E:63+FFA03F:1F+FFA040:63+FFA041:20+FFA042:63+FFA043:21+FFA044:63+FFA045:22+FFA046:63+FFA047:23"
+cheat73_enable = false
+

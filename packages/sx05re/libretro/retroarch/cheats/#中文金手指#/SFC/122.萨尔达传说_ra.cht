@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[HP] ON"
+cheat0_code = "7EF36D9A "
+cheat0_enable = false
+
+cheat1_desc = "[气槽] ON"
+cheat1_code = "7EF36E80 "
+cheat1_enable = false
+
+cheat2_desc = "[宝石] ON"
+cheat2_code = "7EF360E7+7EF3613 "
+cheat2_enable = false
+
+cheat3_desc = "[锁匙] ON"
+cheat3_code = "7EF36F09 "
+cheat3_enable = false
+
+cheat4_desc = "[水] ON"
+cheat4_code = "7EF34363 "
+cheat4_enable = false
+
+cheat5_desc = "[道具] ON"
+cheat5_code = "7EF34402+7EF34503+7EF34604+7EF34705+7EF34806+7EF34907+7EF34A08+7EF34B09+7EF34C10+7EF34D11+7EF34E12+7EF34F13+7EF35014+7EF35116+7EF35217 "
+cheat5_enable = false
+

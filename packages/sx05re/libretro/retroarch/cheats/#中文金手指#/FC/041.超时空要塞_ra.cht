@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[主角无限生命]ON"
+cheat0_code = "00F4:09"
+cheat0_enable = false
+
+cheat1_desc = "[主角无限HP]ON"
+cheat1_code = "00EB:32"
+cheat1_enable = false
+
+cheat2_desc = "[主角无限导弹]ON"
+cheat2_code = "00ED:08"
+cheat2_enable = false
+

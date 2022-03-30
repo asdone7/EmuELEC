@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1P人物无限体力]ON"
+cheat0_code = "FF9F0A:E7+FF9F0B:03"
+cheat0_enable = false
+
+cheat1_desc = "[2P人物无限体力]ON"
+cheat1_code = "FF9FE0:E7+FF9FE1:03"
+cheat1_enable = false
+

@@ -1,0 +1,55 @@
+cheats = 13
+
+cheat0_desc = "#P1的无限生命"
+cheat0_code = "8009959C 0005"
+cheat0_enable = false
+
+cheat1_desc = "#P2的无限生命"
+cheat1_code = "80099638 0005"
+cheat1_enable = false
+
+cheat2_desc = "#P1无限炸弹"
+cheat2_code = "8009959E 0002"
+cheat2_enable = false
+
+cheat3_desc = "#P2无限炸弹"
+cheat3_code = "8009963A 0002"
+cheat3_enable = false
+
+cheat4_desc = "#P1的超级攻击Lv Max"
+cheat4_code = "300995F3 0070"
+cheat4_enable = false
+
+cheat5_desc = "#Super Attack Lv Max For P2"
+cheat5_code = "3009968F 0070"
+cheat5_enable = false
+
+cheat6_desc = "#P1的最大功率"
+cheat6_code = "300995C2 0004"
+cheat6_enable = false
+
+cheat7_desc = "#Shot Power Max For P2"
+cheat7_code = "3009965E 0004"
+cheat7_enable = false
+
+cheat8_desc = "#P1副战斗机最大"
+cheat8_code = "300995C1 0004"
+cheat8_enable = false
+
+cheat9_desc = "P2的#Sub-Fighter Max"
+cheat9_code = "3009965D 0004"
+cheat9_enable = false
+
+cheat10_desc = "#最大寿命数R2启用代码L2禁用代码"
+cheat10_code = "D009B6C0 0002+8002CCA0 0000+D009B6C0 0001+8002CCA0 FFFF"
+cheat10_enable = false
+
+cheat11_desc = "#Invincible R2启用代码L2禁用代码"
+cheat11_code = "D009B6C0 0002+8002BE96 2403+D009B6C0 0001+8002BE96 9643+D009B6C0 0002+800995D6 007F+D009B6C0 0002+80099672 007F"
+cheat11_enable = false
+
+cheat12_desc = "。"
+"
+cheat12_enable = false
+
+

@@ -1,0 +1,134 @@
+cheats = 33
+
+cheat0_desc = "[1~3P]Z"
+cheat0_code = "FFE80C:FF+FFE80E:FF+FFE810:FF+FFE811:FF+FFE812:FF+FFE814:FF+FFE816:FF+FFE818:FF+FFE844:FF+FFE846:FF+FFE848:FF+FFE849:FF+FFE84A:FF+FFE84C:FF+FFE84E:FF+FFE850:FF+FFE87C:FF+FFE87E:FF+FFE882:FF+FFE884:FF+FFE886:FF+FFE888:FF"
+cheat0_enable = false
+
+cheat1_desc = "[1~3P]20"
+cheat1_code = "FF080A:14+FF0842:0A+FF087A:0A"
+cheat1_enable = false
+
+cheat2_desc = "[1~3P]99"
+cheat2_code = "FF080A:63+FF0842:63+FF087A:63"
+cheat2_enable = false
+
+cheat3_desc = "[4P]Z"
+cheat3_code = "FFE8B4:FF+FFE8B6:FF+FFE8BA:FF+FFE8BC:FF+FFE8BE:FF+FFE8C0:FF"
+cheat3_enable = false
+
+cheat4_desc = "[4P]20"
+cheat4_code = "FFE8B2:14"
+cheat4_enable = false
+
+cheat5_desc = "[4P]99"
+cheat5_code = "FFE8B2:63"
+cheat5_enable = false
+
+cheat6_desc = "[5P]Z"
+cheat6_code = "FFE8EC:FF+FFE8EE:FF+FFE8F0:FF+FFE8F1:FF+FFE8F2:FF+FFE8F4:FF+FFE8F5:E8F6+FFE8F6:FF+FFE8F8:FF"
+cheat6_enable = false
+
+cheat7_desc = "[5P]20"
+cheat7_code = "FFE8EA:14"
+cheat7_enable = false
+
+cheat8_desc = "[5P]99"
+cheat8_code = "FFE8EA:63"
+cheat8_enable = false
+
+cheat9_desc = "[6P]Z"
+cheat9_code = "FFE924:FF+FFE926:FF+FFE92A:FF+FFE92C:FF+FFE92E:FF+FFE930:FF"
+cheat9_enable = false
+
+cheat10_desc = "[6P]20"
+cheat10_code = "FFE922:14"
+cheat10_enable = false
+
+cheat11_desc = "[6P]99"
+cheat11_code = "FFE922:63"
+cheat11_enable = false
+
+cheat12_desc = "[7P]Z"
+cheat12_code = "FFE95C:FF+FFE95E:FF+FFE962:FF+FFE964:FF+FFE966:FF+FFE968:FF"
+cheat12_enable = false
+
+cheat13_desc = "[7P]20"
+cheat13_code = "FFE95A:14"
+cheat13_enable = false
+
+cheat14_desc = "[7P]99"
+cheat14_code = "FFE95A:63"
+cheat14_enable = false
+
+cheat15_desc = "[8P]Z"
+cheat15_code = "FFE994:FF+FFE996:FF+FFE99A:FF+FFE99C:FF+FFE99E:FF+FFE9A0:FF"
+cheat15_enable = false
+
+cheat16_desc = "[8P]20"
+cheat16_code = "FFE992:14"
+cheat16_enable = false
+
+cheat17_desc = "[8P]99"
+cheat17_code = "FFE992:63"
+cheat17_enable = false
+
+cheat18_desc = "[9P]Z"
+cheat18_code = "FFE9CC:FF+FFE9CE:FF+FFE9D2:FF+FFE9D4:FF+FFE9D6:FF+FFE9D8:FF"
+cheat18_enable = false
+
+cheat19_desc = "[9P]20"
+cheat19_code = "FFE9CA:14"
+cheat19_enable = false
+
+cheat20_desc = "[9P]99"
+cheat20_code = "FFE9CA:63"
+cheat20_enable = false
+
+cheat21_desc = "[10P]Z"
+cheat21_code = "FFEA04:FF+FFEA06:FF+FFEA0A:FF+FFEA0C:FF+FFEA0E:FF+FFEA10:FF"
+cheat21_enable = false
+
+cheat22_desc = "[10P]20"
+cheat22_code = "FFEA02:14"
+cheat22_enable = false
+
+cheat23_desc = "[10P]99"
+cheat23_code = "FFEA02:63"
+cheat23_enable = false
+
+cheat24_desc = "[11P]Z"
+cheat24_code = "FFEA3C:FF+FFEA3E:FF+FFEA42:FF+FFEA44:FF+FFEA46:FF+FFEA48:FF"
+cheat24_enable = false
+
+cheat25_desc = "[11P]20"
+cheat25_code = "FFEA3A:14"
+cheat25_enable = false
+
+cheat26_desc = "[11P]99"
+cheat26_code = "FFEA3A:63"
+cheat26_enable = false
+
+cheat27_desc = "[12P]Z"
+cheat27_code = "FFEA74:FF+FFEA76:FF+FFEA7A:FF+FFEA7C:FF+FFEA7E:FF+FFEA80:FF"
+cheat27_enable = false
+
+cheat28_desc = "[12P]99"
+cheat28_code = "FFEA72:63"
+cheat28_enable = false
+
+cheat29_desc = "[13~15P]Z"
+cheat29_code = "FFEAAC:FF+FFEAAE:FF+FFEAB2:FF+FFEAB4:FF+FFEAB6:FF+FFEAB8:FF+FFEAE4:FF+FFEAE6:FF+FFEAEA:FF+FFEAEC:FF+FFEAEE:FF+FFEAF0:FF+FFEB1C:FF+FFEB1E:FF+FFEB22:FF+FFEB24:FF+FFEB26:FF+FFEB28:FF"
+cheat29_enable = false
+
+cheat30_desc = "[13~15P]99"
+cheat30_code = "FFEAAA:63+FFEAE2:63+FFEB1A:63"
+cheat30_enable = false
+
+cheat31_desc = "[16~18]Z"
+cheat31_code = "FFEB54:FF+FFEB56:FF+FFEB5A:FF+FFEB5C:FF+FFEB5E:FF+FFEB60:FF+FFEB8C:FF+FFEB8E:FF+FFEB92:FF+FFEB94:FF+FFEB96:FF+FFEB98:FF+FFEBC4:FF+FFEBC6:FF+FFEBCA:FF+FFEBCC:FF+FFEBCE:FF+FFEBD0:FF"
+cheat31_enable = false
+
+cheat32_desc = "[16~18]99"
+cheat32_code = "FFEB52:63+FFEB8A:63+FFEBC2:63"
+cheat32_enable = false
+

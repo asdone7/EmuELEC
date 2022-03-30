@@ -1,0 +1,34 @@
+cheats = 8
+
+cheat0_desc = "[体力不减]ON"
+cheat0_code = "FFF442:32"
+cheat0_enable = false
+
+cheat1_desc = "[魔力不减]ON"
+cheat1_code = "FFF446:32"
+cheat1_enable = false
+
+cheat2_desc = "[武器能量MAX]ON"
+cheat2_code = "FFF454:03"
+cheat2_enable = false
+
+cheat3_desc = "[武器种类]散射剑"
+cheat3_code = "FFF450:01"
+cheat3_enable = false
+
+cheat4_desc = "[武器种类]护卫剑"
+cheat4_code = "FFF450:02"
+cheat4_enable = false
+
+cheat5_desc = "[武器种类]追踪箭"
+cheat5_code = "FFF450:03"
+cheat5_enable = false
+
+cheat6_desc = "[武器种类]L杀剑"
+cheat6_code = "FFF450:04"
+cheat6_enable = false
+
+cheat7_desc = "[武器种类]爆裂剑"
+cheat7_code = "FFF450:05"
+cheat7_enable = false
+

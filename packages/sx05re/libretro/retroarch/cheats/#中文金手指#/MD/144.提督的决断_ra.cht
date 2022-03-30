@@ -1,0 +1,186 @@
+cheats = 46
+
+cheat0_desc = "[日本第一舰队燃料]ON"
+cheat0_code = "FF3226:1F+FF3227:40"
+cheat0_enable = false
+
+cheat1_desc = "[日本第一舰队特殊食不减]ON"
+cheat1_code = "FF3246:0A"
+cheat1_enable = false
+
+cheat2_desc = "[日本第一舰队疲劳不增]ON"
+cheat2_code = "FF322A:00"
+cheat2_enable = false
+
+cheat3_desc = "[日本战斗机数量]ON"
+cheat3_code = "FF38DC:0F+FF38DD:27"
+cheat3_enable = false
+
+cheat4_desc = "[日本雷击机数量]ON"
+cheat4_code = "FF38DE:0F+FF38DF:27"
+cheat4_enable = false
+
+cheat5_desc = "[日本侦察机数量]ON"
+cheat5_code = "FF38E0:0F+FF38E1:27"
+cheat5_enable = false
+
+cheat6_desc = "[日本新型战斗机数量]ON"
+cheat6_code = "FF38E2:0F+FF38E3:27"
+cheat6_enable = false
+
+cheat7_desc = "[日本火箭弹数量]ON"
+cheat7_code = "FF38E6:0F+FF38E7:27"
+cheat7_enable = false
+
+cheat8_desc = "[日本长距离战略爆击机数量]ON"
+cheat8_code = "FF38E4:0F+FF38E5:27"
+cheat8_enable = false
+
+cheat9_desc = "[日本兵员数量]ON"
+cheat9_code = "FF38E8:0F+FF38E9:27"
+cheat9_enable = false
+
+cheat10_desc = "[日本工业]ON"
+cheat10_code = "FF38F0:30+FF38F1:75"
+cheat10_enable = false
+
+cheat11_desc = "[日本兵员运输船数量]ON"
+cheat11_code = "FF38F2:0F+FF38F3:27"
+cheat11_enable = false
+
+cheat12_desc = "[日本燃料运输船数量]ON"
+cheat12_code = "FF38F4:0F+FF38F5:27"
+cheat12_enable = false
+
+cheat13_desc = "[日本资材数量]ON"
+cheat13_code = "FF38EE:30+FF38EF:75"
+cheat13_enable = false
+
+cheat14_desc = "[日本燃料数量]ON"
+cheat14_code = "FF38EA:2D+FF38EC:C6+FF38ED:C5"
+cheat14_enable = false
+
+cheat15_desc = "[日本国民士气]ON"
+cheat15_code = "FF38F8:64"
+cheat15_enable = false
+
+cheat16_desc = "[日本预算]ON"
+cheat16_code = "FF38FA:30+FF38FB:75"
+cheat16_enable = false
+
+cheat17_desc = "[日本炮贯]ON"
+cheat17_code = "FF38FC:63"
+cheat17_enable = false
+
+cheat18_desc = "[日本情报]ON"
+cheat18_code = "FF38FD:63"
+cheat18_enable = false
+
+cheat19_desc = "[日本机关]ON"
+cheat19_code = "FF38FE:63"
+cheat19_enable = false
+
+cheat20_desc = "[日本钢材]ON"
+cheat20_code = "FF38FF:63"
+cheat20_enable = false
+
+cheat21_desc = "[日本电气]ON"
+cheat21_code = "FF3900:63"
+cheat21_enable = false
+
+cheat22_desc = "[日本航空]ON"
+cheat22_code = "FF3901:63"
+cheat22_enable = false
+
+cheat23_desc = "[美国第一舰队燃料]ON"
+cheat23_code = "FF3584:1F+FF3585:40"
+cheat23_enable = false
+
+cheat24_desc = "[美国第一舰队特殊食不减]ON"
+cheat24_code = "FF35A6:0A"
+cheat24_enable = false
+
+cheat25_desc = "[美国第一舰队疲劳不增]ON"
+cheat25_code = "FF358A:00"
+cheat25_enable = false
+
+cheat26_desc = "[美国战斗机数量]ON"
+cheat26_code = "FF3920:0F+FF3921:27"
+cheat26_enable = false
+
+cheat27_desc = "[美国雷击机数量]ON"
+cheat27_code = "FF3922:0F+FF3923:27"
+cheat27_enable = false
+
+cheat28_desc = "[美国侦察机数量]ON"
+cheat28_code = "FF3924:0F+FF3925:27"
+cheat28_enable = false
+
+cheat29_desc = "[美国新型战斗机数量]ON"
+cheat29_code = "FF3926:0F+FF3927:27"
+cheat29_enable = false
+
+cheat30_desc = "[美国火箭弹数量]ON"
+cheat30_code = "FF392A:0F+FF392B:27"
+cheat30_enable = false
+
+cheat31_desc = "[美国长距离战略爆击机数量]ON"
+cheat31_code = "FF3928:0F+FF3929:27"
+cheat31_enable = false
+
+cheat32_desc = "[美国兵员数量]ON"
+cheat32_code = "FF392C:0F+FF392D:27"
+cheat32_enable = false
+
+cheat33_desc = "[美国工业]ON"
+cheat33_code = "FF3934:30+FF3935:75"
+cheat33_enable = false
+
+cheat34_desc = "[美国兵员运输船数量]ON"
+cheat34_code = "FF3936:0F+FF3937:27"
+cheat34_enable = false
+
+cheat35_desc = "[美国燃料运输船数量]ON"
+cheat35_code = "FF3938:0F+FF3939:27"
+cheat35_enable = false
+
+cheat36_desc = "[美国资材数量]ON"
+cheat36_code = "FF3932:30+FF3933:75"
+cheat36_enable = false
+
+cheat37_desc = "[美国燃料数量]ON"
+cheat37_code = "FF392E:2D+FF3930:C6+FF3931:C5"
+cheat37_enable = false
+
+cheat38_desc = "[美国国民士气]ON"
+cheat38_code = "FF393C:64"
+cheat38_enable = false
+
+cheat39_desc = "[美国预算]ON"
+cheat39_code = "FF393E:30+FF393F:75"
+cheat39_enable = false
+
+cheat40_desc = "[美国炮贯]ON"
+cheat40_code = "FF3940:63"
+cheat40_enable = false
+
+cheat41_desc = "[美国情报]ON"
+cheat41_code = "FF3941:63"
+cheat41_enable = false
+
+cheat42_desc = "[美国机关]ON"
+cheat42_code = "FF3942:63"
+cheat42_enable = false
+
+cheat43_desc = "[美国钢材]ON"
+cheat43_code = "FF3943:63"
+cheat43_enable = false
+
+cheat44_desc = "[美国电气]ON"
+cheat44_code = "FF3944:63"
+cheat44_enable = false
+
+cheat45_desc = "[美国航空]ON"
+cheat45_code = "FF3945:63"
+cheat45_enable = false
+

@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#无限促销积分"
+cheat0_code = "8002B1F6 00FF"
+cheat0_enable = false
+
+cheat1_desc = "#任务修改器（00-19）"
+cheat1_code = "3002B1F9 0019"
+cheat1_enable = false
+
+

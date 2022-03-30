@@ -1,0 +1,54 @@
+cheats = 13
+
+cheat0_desc = "[SHIELD数]ON"
+cheat0_code = "FF05C4:06"
+cheat0_enable = false
+
+cheat1_desc = "[接关数]ON"
+cheat1_code = "FF04CA:03"
+cheat1_enable = false
+
+cheat2_desc = "[ITEM选择]H-LASER"
+cheat2_code = "FF05FE:01+FF05F6:09"
+cheat2_enable = false
+
+cheat3_desc = "[ITEM选择]H-BOMB"
+cheat3_code = "FF05FE:02+FF05F6:09"
+cheat3_enable = false
+
+cheat4_desc = "[ITEM选择]B-LASER"
+cheat4_code = "FF05FE:03+FF05F6:09"
+cheat4_enable = false
+
+cheat5_desc = "[ITEM选择]PSYCHIC-S"
+cheat5_code = "FF05FE:04+FF05F6:09"
+cheat5_enable = false
+
+cheat6_desc = "[ITEM选择]P-BEAM"
+cheat6_code = "FF05FE:05+FF05F6:09"
+cheat6_enable = false
+
+cheat7_desc = "[ITEM选择]H-SHIELD"
+cheat7_code = "FF05FE:06+FF05F6:09"
+cheat7_enable = false
+
+cheat8_desc = "[ITEM选择]S-CRUSHER"
+cheat8_code = "FF05FE:07+FF05F6:09"
+cheat8_enable = false
+
+cheat9_desc = "[ITEM选择]SPEED-UP"
+cheat9_code = "FF05FE:08+FF05F6:09"
+cheat9_enable = false
+
+cheat10_desc = "[ITEM选择]RECOVER-S"
+cheat10_code = "FF05FE:09+FF05F6:09"
+cheat10_enable = false
+
+cheat11_desc = "[ITEM选择]T-STOP"
+cheat11_code = "FF05FE:0A+FF05F6:09"
+cheat11_enable = false
+
+cheat12_desc = "[ITEM选择]P XTOP"
+cheat12_code = "FF05FE:0B+FF05F6:09"
+cheat12_enable = false
+

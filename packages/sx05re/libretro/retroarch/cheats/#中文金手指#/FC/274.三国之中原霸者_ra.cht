@@ -1,0 +1,554 @@
+cheats = 138
+
+cheat0_desc = "[赵云体]ON"
+cheat0_code = "10C1:C7"
+cheat0_enable = false
+
+cheat1_desc = "[赵云智]ON"
+cheat1_code = "10C2:C7"
+cheat1_enable = false
+
+cheat2_desc = "[赵云武]ON"
+cheat2_code = "10C3:C7"
+cheat2_enable = false
+
+cheat3_desc = "[赵云步]ON"
+cheat3_code = "10C4:00"
+cheat3_enable = false
+
+cheat4_desc = "[赵云忠]ON"
+cheat4_code = "10C5:C7"
+cheat4_enable = false
+
+cheat5_desc = "[赵云弓骑]ON"
+cheat5_code = "10C7:46"
+cheat5_enable = false
+
+cheat6_desc = "[张飞体]ON"
+cheat6_code = "1111:C7"
+cheat6_enable = false
+
+cheat7_desc = "[张飞智]ON"
+cheat7_code = "1112:C7"
+cheat7_enable = false
+
+cheat8_desc = "[张飞武]ON"
+cheat8_code = "1113:C7"
+cheat8_enable = false
+
+cheat9_desc = "[张飞步]ON"
+cheat9_code = "1114:00"
+cheat9_enable = false
+
+cheat10_desc = "[张飞忠]ON"
+cheat10_code = "1115:C7"
+cheat10_enable = false
+
+cheat11_desc = "[张飞弓骑]ON"
+cheat11_code = "1117:46"
+cheat11_enable = false
+
+cheat12_desc = "[马超体]ON"
+cheat12_code = "11F1:C7"
+cheat12_enable = false
+
+cheat13_desc = "[马超智]ON"
+cheat13_code = "11F2:C7"
+cheat13_enable = false
+
+cheat14_desc = "[马超武]ON"
+cheat14_code = "11F3:C7"
+cheat14_enable = false
+
+cheat15_desc = "[马超步]ON"
+cheat15_code = "11F4:00"
+cheat15_enable = false
+
+cheat16_desc = "[马超忠]ON"
+cheat16_code = "11F5:C7"
+cheat16_enable = false
+
+cheat17_desc = "[马超弓骑]ON"
+cheat17_code = "11F7:46"
+cheat17_enable = false
+
+cheat18_desc = "[关羽体]ON"
+cheat18_code = "0D99:C7"
+cheat18_enable = false
+
+cheat19_desc = "[关羽智]ON"
+cheat19_code = "0D9A:C7"
+cheat19_enable = false
+
+cheat20_desc = "[关羽武]ON"
+cheat20_code = "0D9B:C7"
+cheat20_enable = false
+
+cheat21_desc = "[关羽步]ON"
+cheat21_code = "0D9C:00"
+cheat21_enable = false
+
+cheat22_desc = "[关羽忠]ON"
+cheat22_code = "0D9D:C7"
+cheat22_enable = false
+
+cheat23_desc = "[关羽弓骑]ON"
+cheat23_code = "0D9F:C7"
+cheat23_enable = false
+
+cheat24_desc = "[许渚体]ON"
+cheat24_code = "0E39:C7"
+cheat24_enable = false
+
+cheat25_desc = "[许渚智]ON"
+cheat25_code = "0E3A:C7"
+cheat25_enable = false
+
+cheat26_desc = "[许渚武]ON"
+cheat26_code = "0E3B:C7"
+cheat26_enable = false
+
+cheat27_desc = "[许渚忠]ON"
+cheat27_code = "0E3D:C7"
+cheat27_enable = false
+
+cheat28_desc = "[许渚步]ON"
+cheat28_code = "0E3C:00"
+cheat28_enable = false
+
+cheat29_desc = "[许渚弓骑]ON"
+cheat29_code = "0E3F:46"
+cheat29_enable = false
+
+cheat30_desc = "[司马懿体]ON"
+cheat30_code = "0F19:C7"
+cheat30_enable = false
+
+cheat31_desc = "[司马懿智]ON"
+cheat31_code = "0F1A:C7"
+cheat31_enable = false
+
+cheat32_desc = "[司马懿武]ON"
+cheat32_code = "0F1B:C7"
+cheat32_enable = false
+
+cheat33_desc = "[司马懿步]ON"
+cheat33_code = "0F1C:00"
+cheat33_enable = false
+
+cheat34_desc = "[司马懿忠]ON"
+cheat34_code = "0F1D:C7"
+cheat34_enable = false
+
+cheat35_desc = "[司马懿弓骑]ON"
+cheat35_code = "0F1F:46"
+cheat35_enable = false
+
+cheat36_desc = "[诸葛亮体]ON"
+cheat36_code = "0FC1:C7"
+cheat36_enable = false
+
+cheat37_desc = "[诸葛亮智]ON"
+cheat37_code = "0FC2:C7"
+cheat37_enable = false
+
+cheat38_desc = "[诸葛亮武]ON"
+cheat38_code = "0FC3:C7"
+cheat38_enable = false
+
+cheat39_desc = "[诸葛亮步]ON"
+cheat39_code = "0FC4:00"
+cheat39_enable = false
+
+cheat40_desc = "[诸葛亮忠]ON"
+cheat40_code = "0FC5:C7"
+cheat40_enable = false
+
+cheat41_desc = "[诸葛亮弓骑]ON"
+cheat41_code = "0FC7:C7"
+cheat41_enable = false
+
+cheat42_desc = "[典伟体]ON"
+cheat42_code = "1179:C7"
+cheat42_enable = false
+
+cheat43_desc = "[典伟智]ON"
+cheat43_code = "117A:C7"
+cheat43_enable = false
+
+cheat44_desc = "[典伟武]ON"
+cheat44_code = "117B:C7"
+cheat44_enable = false
+
+cheat45_desc = "[典伟步]ON"
+cheat45_code = "117C:00"
+cheat45_enable = false
+
+cheat46_desc = "[典伟忠]ON"
+cheat46_code = "117D:C7"
+cheat46_enable = false
+
+cheat47_desc = "[典伟攻骑]ON"
+cheat47_code = "117F:46"
+cheat47_enable = false
+
+cheat48_desc = "[庞统体]ON"
+cheat48_code = "1279:C7"
+cheat48_enable = false
+
+cheat49_desc = "[庞统智]ON"
+cheat49_code = "127A:C7"
+cheat49_enable = false
+
+cheat50_desc = "[庞统武]ON"
+cheat50_code = "127B:C7"
+cheat50_enable = false
+
+cheat51_desc = "[庞统步]ON"
+cheat51_code = "127C:00"
+cheat51_enable = false
+
+cheat52_desc = "[庞统忠]ON"
+cheat52_code = "127D:C7"
+cheat52_enable = false
+
+cheat53_desc = "[庞统弓骑]ON"
+cheat53_code = "127F:46"
+cheat53_enable = false
+
+cheat54_desc = "[庞德体]ON"
+cheat54_code = "1281:C7"
+cheat54_enable = false
+
+cheat55_desc = "[庞德智]ON"
+cheat55_code = "1282:C7"
+cheat55_enable = false
+
+cheat56_desc = "[庞德武]ON"
+cheat56_code = "1283:C7"
+cheat56_enable = false
+
+cheat57_desc = "[庞德步]ON"
+cheat57_code = "1284:00"
+cheat57_enable = false
+
+cheat58_desc = "[庞德忠]ON"
+cheat58_code = "1285:C7"
+cheat58_enable = false
+
+cheat59_desc = "[庞德弓骑]ON"
+cheat59_code = "1287:46"
+cheat59_enable = false
+
+cheat60_desc = "[周瑜体]ON"
+cheat60_code = "0F51:C7"
+cheat60_enable = false
+
+cheat61_desc = "[周瑜智]ON"
+cheat61_code = "0F52:C7"
+cheat61_enable = false
+
+cheat62_desc = "[周瑜武]ON"
+cheat62_code = "0F53:C7"
+cheat62_enable = false
+
+cheat63_desc = "[周瑜步]ON"
+cheat63_code = "0F54:00"
+cheat63_enable = false
+
+cheat64_desc = "[周瑜忠]ON"
+cheat64_code = "0F55:C7"
+cheat64_enable = false
+
+cheat65_desc = "[周瑜弓骑]ON"
+cheat65_code = "0F57:46"
+cheat65_enable = false
+
+cheat66_desc = "[姜维体]ON"
+cheat66_code = "0E29:C7"
+cheat66_enable = false
+
+cheat67_desc = "[姜维智]ON"
+cheat67_code = "0E2A:C7"
+cheat67_enable = false
+
+cheat68_desc = "[姜维武]ON"
+cheat68_code = "0E2B:C7"
+cheat68_enable = false
+
+cheat69_desc = "[姜维步]ON"
+cheat69_code = "0E2C:00"
+cheat69_enable = false
+
+cheat70_desc = "[姜维忠]ON"
+cheat70_code = "0E2D:C7"
+cheat70_enable = false
+
+cheat71_desc = "[姜维弓骑]ON"
+cheat71_code = "0E2F:46"
+cheat71_enable = false
+
+cheat72_desc = "[刘备体]ON"
+cheat72_code = "0C59:C7"
+cheat72_enable = false
+
+cheat73_desc = "[刘备智]ON"
+cheat73_code = "0C5A:C7"
+cheat73_enable = false
+
+cheat74_desc = "[刘备武]ON"
+cheat74_code = "0C5B:C7"
+cheat74_enable = false
+
+cheat75_desc = "[刘备步]ON"
+cheat75_code = "0C5C:00"
+cheat75_enable = false
+
+cheat76_desc = "[刘备忠]ON"
+cheat76_code = "0C5D:FF"
+cheat76_enable = false
+
+cheat77_desc = "[刘备弓骑]ON"
+cheat77_code = "0C5E:46"
+cheat77_enable = false
+
+cheat78_desc = "[刘章体]ON"
+cheat78_code = "0C61:C7"
+cheat78_enable = false
+
+cheat79_desc = "[刘章智]ON"
+cheat79_code = "0C62:C7"
+cheat79_enable = false
+
+cheat80_desc = "[刘章武]ON"
+cheat80_code = "0C63:C7"
+cheat80_enable = false
+
+cheat81_desc = "[刘章步]ON"
+cheat81_code = "0C64:00"
+cheat81_enable = false
+
+cheat82_desc = "[刘章忠]ON"
+cheat82_code = "0C65:FF"
+cheat82_enable = false
+
+cheat83_desc = "[刘章弓骑]ON"
+cheat83_code = "0C67:46"
+cheat83_enable = false
+
+cheat84_desc = "[曹操体]ON"
+cheat84_code = "0C49:C7"
+cheat84_enable = false
+
+cheat85_desc = "[曹操智]ON"
+cheat85_code = "0C4A:C7"
+cheat85_enable = false
+
+cheat86_desc = "[曹操武]ON"
+cheat86_code = "0C4B:C7"
+cheat86_enable = false
+
+cheat87_desc = "[曹操步]ON"
+cheat87_code = "0C4C:00"
+cheat87_enable = false
+
+cheat88_desc = "[曹操忠]ON"
+cheat88_code = "0C4D:FF"
+cheat88_enable = false
+
+cheat89_desc = "[曹操弓骑]ON"
+cheat89_code = "0C4F:46"
+cheat89_enable = false
+
+cheat90_desc = "[马腾体]ON"
+cheat90_code = "0C41:C7"
+cheat90_enable = false
+
+cheat91_desc = "[马腾智]ON"
+cheat91_code = "0C42:C7"
+cheat91_enable = false
+
+cheat92_desc = "[马腾武]ON"
+cheat92_code = "0C43:C7"
+cheat92_enable = false
+
+cheat93_desc = "[马腾步]ON"
+cheat93_code = "0C44:00"
+cheat93_enable = false
+
+cheat94_desc = "[马腾忠]ON"
+cheat94_code = "0C45:FF"
+cheat94_enable = false
+
+cheat95_desc = "[马腾弓骑]ON"
+cheat95_code = "0C47:46"
+cheat95_enable = false
+
+cheat96_desc = "[孙权体]ON"
+cheat96_code = "0C51:C7"
+cheat96_enable = false
+
+cheat97_desc = "[孙权智]ON"
+cheat97_code = "0C52:C7"
+cheat97_enable = false
+
+cheat98_desc = "[孙权武]ON"
+cheat98_code = "0C53:C7"
+cheat98_enable = false
+
+cheat99_desc = "[孙权步]ON"
+cheat99_code = "0C54:00"
+cheat99_enable = false
+
+cheat100_desc = "[孙权忠]ON"
+cheat100_code = "0C55:FF"
+cheat100_enable = false
+
+cheat101_desc = "[孙权弓骑]ON"
+cheat101_code = "0C57:46"
+cheat101_enable = false
+
+cheat102_desc = "[袁绍体]ON"
+cheat102_code = "0C39:C7"
+cheat102_enable = false
+
+cheat103_desc = "[袁绍智]ON"
+cheat103_code = "0C3A:C7"
+cheat103_enable = false
+
+cheat104_desc = "[袁绍武]ON"
+cheat104_code = "0C3B:C7"
+cheat104_enable = false
+
+cheat105_desc = "[袁绍步]ON"
+cheat105_code = "0C3C:00"
+cheat105_enable = false
+
+cheat106_desc = "[袁绍忠]ON"
+cheat106_code = "0C3D:FF"
+cheat106_enable = false
+
+cheat107_desc = "[袁绍弓骑]ON"
+cheat107_code = "0C3F:46"
+cheat107_enable = false
+
+cheat108_desc = "[甘宁体]ON"
+cheat108_code = "0DE9:C7"
+cheat108_enable = false
+
+cheat109_desc = "[甘宁智]ON"
+cheat109_code = "0DEA:C7"
+cheat109_enable = false
+
+cheat110_desc = "[甘宁武]ON"
+cheat110_code = "0DEB:C7"
+cheat110_enable = false
+
+cheat111_desc = "[甘宁步]ON"
+cheat111_code = "0DEC:00"
+cheat111_enable = false
+
+cheat112_desc = "[甘宁忠]ON"
+cheat112_code = "0DED:C7"
+cheat112_enable = false
+
+cheat113_desc = "[甘宁弓骑]ON"
+cheat113_code = "0DEF:46"
+cheat113_enable = false
+
+cheat114_desc = "[颜良体]ON"
+cheat114_code = "0E09:C7"
+cheat114_enable = false
+
+cheat115_desc = "[颜良智]ON"
+cheat115_code = "0E0A:C7"
+cheat115_enable = false
+
+cheat116_desc = "[颜良武]ON"
+cheat116_code = "0E0B:C7"
+cheat116_enable = false
+
+cheat117_desc = "[颜良步]ON"
+cheat117_code = "0E0C:00"
+cheat117_enable = false
+
+cheat118_desc = "[颜良忠]ON"
+cheat118_code = "0E0D:C7"
+cheat118_enable = false
+
+cheat119_desc = "[颜良弓骑]ON"
+cheat119_code = "0E0F:46"
+cheat119_enable = false
+
+cheat120_desc = "[文丑体]ON"
+cheat120_code = "1241:C7"
+cheat120_enable = false
+
+cheat121_desc = "[文丑智]ON"
+cheat121_code = "1242:C7"
+cheat121_enable = false
+
+cheat122_desc = "[文丑武]ON"
+cheat122_code = "1243:C7"
+cheat122_enable = false
+
+cheat123_desc = "[文丑步]ON"
+cheat123_code = "1244:00"
+cheat123_enable = false
+
+cheat124_desc = "[文丑忠]ON"
+cheat124_code = "1245:C7"
+cheat124_enable = false
+
+cheat125_desc = "[文丑弓骑]ON"
+cheat125_code = "1247:46"
+cheat125_enable = false
+
+cheat126_desc = "[黄忠体]ON"
+cheat126_code = "0EC9:C7"
+cheat126_enable = false
+
+cheat127_desc = "[黄忠智]ON"
+cheat127_code = "0ECA:C7"
+cheat127_enable = false
+
+cheat128_desc = "[黄忠武]ON"
+cheat128_code = "0ECB:C7"
+cheat128_enable = false
+
+cheat129_desc = "[黄忠步]ON"
+cheat129_code = "0ECC:00"
+cheat129_enable = false
+
+cheat130_desc = "[黄忠忠]ON"
+cheat130_code = "0ECD:C7"
+cheat130_enable = false
+
+cheat131_desc = "[黄忠弓骑]ON"
+cheat131_code = "0ECF:46"
+cheat131_enable = false
+
+cheat132_desc = "[魏延体]ON"
+cheat132_code = "0E11:C7"
+cheat132_enable = false
+
+cheat133_desc = "[魏延智]ON"
+cheat133_code = "0E12:C7"
+cheat133_enable = false
+
+cheat134_desc = "[魏延武]ON"
+cheat134_code = "0E13:C7"
+cheat134_enable = false
+
+cheat135_desc = "[魏延步]ON"
+cheat135_code = "0E14:00"
+cheat135_enable = false
+
+cheat136_desc = "[魏延忠]ON"
+cheat136_code = "0E15:C7"
+cheat136_enable = false
+
+cheat137_desc = "[魏延弓骑]ON"
+cheat137_code = "0E17:46"
+cheat137_enable = false
+

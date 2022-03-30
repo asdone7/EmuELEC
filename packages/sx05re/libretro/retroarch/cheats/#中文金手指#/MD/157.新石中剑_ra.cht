@@ -1,0 +1,486 @@
+cheats = 121
+
+cheat0_desc = "[KIM金钱]ON"
+cheat0_code = "FFC620:88+FFC621:00+FFC622:88+FFC623:88"
+cheat0_enable = false
+
+cheat1_desc = "[战后升级]ON"
+cheat1_code = "FFC628:00+FFC629:00+FFC62A:01+FFC62B:00"
+cheat1_enable = false
+
+cheat2_desc = "[不遇敌]ON"
+cheat2_code = "FFC68E:01+FFC68F:01"
+cheat2_enable = false
+
+cheat3_desc = "[迷宫全亮]ON"
+cheat3_code = "FFC561:01+FFC55E:FF"
+cheat3_enable = false
+
+cheat4_desc = "[全戒指入手]ON"
+cheat4_code = "FFC819:FF+FFC81A:FF+FFC81B:FF+FFC81C:FF+FFC81D:FF+FFC81E:FF+FFC81F:FF"
+cheat4_enable = false
+
+cheat5_desc = "[人物强属性]ON"
+cheat5_code = "FFC62C:B0+FFC62D:04+FFC62E:B0+FFC62F:04+FFC630:58+FFC631:02+FFC632:58+FFC633:02+FFC634:E7+FFC635:03+FFC636:E7+FFC637:03+FFC638:E7+FFC639:03+FFC63A:E7+FFC63B:03+FFC63C:E7+FFC63D:03"
+cheat5_enable = false
+
+cheat6_desc = "[强装备/实用魔法(激活解锁)]ON"
+cheat6_code = "FFC482:03+FFC483:00+FFC484:0F+FFC485:04+FFC486:21+FFC487:08+FFC488:35+FFC489:10+FFC462:03+FFC463:00+FFC464:0E+FFC465:00+FFC466:0D+FFC467:02+FFC468:08+FFC469:02"
+cheat6_enable = false
+
+cheat7_desc = "[战斗魔法(可直接使用)]按此选择"
+cheat7_code = "FF"
+cheat7_enable = false
+
+cheat8_desc = "[战斗魔法(可直接使用)]真空"
+cheat8_code = "FFC4D6:00+FFC4D7:02"
+cheat8_enable = false
+
+cheat9_desc = "[战斗魔法(可直接使用)]放射"
+cheat9_code = "FFC4D6:01+FFC4D7:02"
+cheat9_enable = false
+
+cheat10_desc = "[战斗魔法(可直接使用)]电球"
+cheat10_code = "FFC4D6:02+FFC4D7:02"
+cheat10_enable = false
+
+cheat11_desc = "[战斗魔法(可直接使用)]电屏"
+cheat11_code = "FFC4D6:03+FFC4D7:02"
+cheat11_enable = false
+
+cheat12_desc = "[战斗魔法(可直接使用)]电击"
+cheat12_code = "FFC4D6:04+FFC4D7:02"
+cheat12_enable = false
+
+cheat13_desc = "[战斗魔法(可直接使用)]火球"
+cheat13_code = "FFC4D6:05+FFC4D7:02"
+cheat13_enable = false
+
+cheat14_desc = "[战斗魔法(可直接使用)]火环"
+cheat14_code = "FFC4D6:06+FFC4D7:02"
+cheat14_enable = false
+
+cheat15_desc = "[战斗魔法(可直接使用)]放射火球"
+cheat15_code = "FFC4D6:07+FFC4D7:02"
+cheat15_enable = false
+
+cheat16_desc = "[战斗魔法(可直接使用)]巨火炎"
+cheat16_code = "FFC4D6:08+FFC4D7:02"
+cheat16_enable = false
+
+cheat17_desc = "[战斗魔法(可直接使用)]水淹"
+cheat17_code = "FFC4D6:09+FFC4D7:02"
+cheat17_enable = false
+
+cheat18_desc = "[战斗魔法(可直接使用)]大水"
+cheat18_code = "FFC4D6:0A+FFC4D7:02"
+cheat18_enable = false
+
+cheat19_desc = "[战斗魔法(可直接使用)]催眠"
+cheat19_code = "FFC4D6:0B+FFC4D7:02"
+cheat19_enable = false
+
+cheat20_desc = "[战斗魔法(可直接使用)]长眠"
+cheat20_code = "FFC4D6:0C+FFC4D7:02"
+cheat20_enable = false
+
+cheat21_desc = "[战斗魔法(可直接使用)]地动"
+cheat21_code = "FFC4D6:0D+FFC4D7:02"
+cheat21_enable = false
+
+cheat22_desc = "[物品一览]按此选择"
+cheat22_code = "FF"
+cheat22_enable = false
+
+cheat23_desc = "[物品一览]药草"
+cheat23_code = "FFC442:01+FFC443:00+FFC444:00+FFC445:00"
+cheat23_enable = false
+
+cheat24_desc = "[物品一览]蜡烛"
+cheat24_code = "FFC442:01+FFC443:00+FFC444:01+FFC445:00"
+cheat24_enable = false
+
+cheat25_desc = "[物品一览]手提灯"
+cheat25_code = "FFC442:01+FFC443:00+FFC444:02+FFC445:00"
+cheat25_enable = false
+
+cheat26_desc = "[物品一览]毒害香油"
+cheat26_code = "FFC442:01+FFC443:00+FFC444:03+FFC445:00"
+cheat26_enable = false
+
+cheat27_desc = "[物品一览]闹钟"
+cheat27_code = "FFC442:01+FFC443:00+FFC444:04+FFC445:00"
+cheat27_enable = false
+
+cheat28_desc = "[物品一览]花瓶"
+cheat28_code = "FFC442:01+FFC443:00+FFC444:05+FFC445:00"
+cheat28_enable = false
+
+cheat29_desc = "[物品一览]玩笑书"
+cheat29_code = "FFC442:01+FFC443:00+FFC444:06+FFC445:00"
+cheat29_enable = false
+
+cheat30_desc = "[物品一览]小炸弹"
+cheat30_code = "FFC442:01+FFC443:00+FFC444:07+FFC445:00"
+cheat30_enable = false
+
+cheat31_desc = "[物品一览]老妇人图"
+cheat31_code = "FFC442:01+FFC443:00+FFC444:08+FFC445:00"
+cheat31_enable = false
+
+cheat32_desc = "[物品一览]老人的图"
+cheat32_code = "FFC442:01+FFC443:00+FFC444:09+FFC445:00"
+cheat32_enable = false
+
+cheat33_desc = "[物品一览]通行证"
+cheat33_code = "FFC442:01+FFC443:00+FFC444:0A+FFC445:00"
+cheat33_enable = false
+
+cheat34_desc = "[物品一览]松露"
+cheat34_code = "FFC442:01+FFC443:00+FFC444:0B+FFC445:00"
+cheat34_enable = false
+
+cheat35_desc = "[物品一览]迪卡药草"
+cheat35_code = "FFC442:01+FFC443:00+FFC444:0C+FFC445:00"
+cheat35_enable = false
+
+cheat36_desc = "[物品一览]特利宝藏"
+cheat36_code = "FFC442:01+FFC443:00+FFC444:0D+FFC445:00"
+cheat36_enable = false
+
+cheat37_desc = "[物品一览]白水晶"
+cheat37_code = "FFC442:01+FFC443:00+FFC444:0E+FFC445:00"
+cheat37_enable = false
+
+cheat38_desc = "[物品一览]红水晶"
+cheat38_code = "FFC442:01+FFC443:00+FFC444:0F+FFC445:00"
+cheat38_enable = false
+
+cheat39_desc = "[物品一览]蓝水晶"
+cheat39_code = "FFC442:01+FFC443:00+FFC444:10+FFC445:00"
+cheat39_enable = false
+
+cheat40_desc = "[物品一览]白钥匙"
+cheat40_code = "FFC442:01+FFC443:00+FFC444:11+FFC445:00"
+cheat40_enable = false
+
+cheat41_desc = "[物品一览]红钥匙"
+cheat41_code = "FFC442:01+FFC443:00+FFC444:12+FFC445:00"
+cheat41_enable = false
+
+cheat42_desc = "[物品一览]蓝钥匙"
+cheat42_code = "FFC442:01+FFC443:00+FFC444:13+FFC445:00"
+cheat42_enable = false
+
+cheat43_desc = "[物品一览]王冠"
+cheat43_code = "FFC442:01+FFC443:00+FFC444:14+FFC445:00"
+cheat43_enable = false
+
+cheat44_desc = "[物品一览]12枚戒指"
+cheat44_code = "FFC442:01+FFC443:00+FFC444:15+FFC445:00"
+cheat44_enable = false
+
+cheat45_desc = "[物品一览]铜戒指"
+cheat45_code = "FFC442:01+FFC443:00+FFC444:16+FFC445:00"
+cheat45_enable = false
+
+cheat46_desc = "[物品一览]银戒指"
+cheat46_code = "FFC442:01+FFC443:00+FFC444:17+FFC445:00"
+cheat46_enable = false
+
+cheat47_desc = "[物品一览]金钥匙"
+cheat47_code = "FFC442:01+FFC443:00+FFC444:18+FFC445:00"
+cheat47_enable = false
+
+cheat48_desc = "[物品一览]狮利钥匙"
+cheat48_code = "FFC442:01+FFC443:00+FFC444:19+FFC445:00"
+cheat48_enable = false
+
+cheat49_desc = "[物品一览]秘密钥匙"
+cheat49_code = "FFC442:01+FFC443:00+FFC444:1A+FFC445:00"
+cheat49_enable = false
+
+cheat50_desc = "[物品一览]药"
+cheat50_code = "FFC442:01+FFC443:00+FFC444:1B+FFC445:00"
+cheat50_enable = false
+
+cheat51_desc = "[物品一览]玛瑙"
+cheat51_code = "FFC442:01+FFC443:00+FFC444:1C+FFC445:00"
+cheat51_enable = false
+
+cheat52_desc = "[物品一览]格里翅膀"
+cheat52_code = "FFC442:01+FFC443:00+FFC444:1D+FFC445:00"
+cheat52_enable = false
+
+cheat53_desc = "[物品一览]提那镜子"
+cheat53_code = "FFC442:01+FFC443:00+FFC444:1E+FFC445:00"
+cheat53_enable = false
+
+cheat54_desc = "[物品一览]诺姆石头"
+cheat54_code = "FFC442:01+FFC443:00+FFC444:1F+FFC445:00"
+cheat54_enable = false
+
+cheat55_desc = "[物品一览]黄宝石"
+cheat55_code = "FFC442:01+FFC443:00+FFC444:20+FFC445:00"
+cheat55_enable = false
+
+cheat56_desc = "[物品一览]妖精粉末"
+cheat56_code = "FFC442:01+FFC443:00+FFC444:21+FFC445:00"
+cheat56_enable = false
+
+cheat57_desc = "[物品一览]斐尔棍子"
+cheat57_code = "FFC442:01+FFC443:00+FFC444:22+FFC445:00"
+cheat57_enable = false
+
+cheat58_desc = "[物品一览]地图镜子"
+cheat58_code = "FFC442:01+FFC443:00+FFC444:23+FFC445:00"
+cheat58_enable = false
+
+cheat59_desc = "[物品一览]宝石胸针"
+cheat59_code = "FFC442:01+FFC443:00+FFC444:24+FFC445:00"
+cheat59_enable = false
+
+cheat60_desc = "[物品一览]土牢钥匙"
+cheat60_code = "FFC442:01+FFC443:00+FFC444:25+FFC445:00"
+cheat60_enable = false
+
+cheat61_desc = "[物品一览]库利花瓶"
+cheat61_code = "FFC442:01+FFC443:00+FFC444:26+FFC445:00"
+cheat61_enable = false
+
+cheat62_desc = "[物品一览]库珊X子"
+cheat62_code = "FFC442:01+FFC443:00+FFC444:27+FFC445:00"
+cheat62_enable = false
+
+cheat63_desc = "[物品一览]KIEL的书"
+cheat63_code = "FFC442:01+FFC443:00+FFC444:28+FFC445:00"
+cheat63_enable = false
+
+cheat64_desc = "[物品一览]抗丹税"
+cheat64_code = "FFC442:01+FFC443:00+FFC444:29+FFC445:00"
+cheat64_enable = false
+
+cheat65_desc = "[物品一览]矿物酒巴"
+cheat65_code = "FFC442:01+FFC443:00+FFC444:2A+FFC445:00"
+cheat65_enable = false
+
+cheat66_desc = "[物品一览]大强风"
+cheat66_code = "FFC442:01+FFC443:00+FFC444:2B+FFC445:00"
+cheat66_enable = false
+
+cheat67_desc = "[辅助魔法一览(村外禁用)]ON"
+cheat67_code = "FFC462:08+FFC463:00+FFC464:0F+FFC465:00+FFC466:10+FFC467:02+FFC468:11+FFC469:00+FFC46A:12+FFC46B:00+FFC46C:13+FFC46D:00+FFC46E:14+FFC46F:00+FFC470:15+FFC471:00+FFC472:16+FFC473:00"
+cheat67_enable = false
+
+cheat68_desc = "[装备一览]按此选择"
+cheat68_code = "FF"
+cheat68_enable = false
+
+cheat69_desc = "[装备一览]铜剑"
+cheat69_code = "FFC482:01+FFC483:00+FFC484:00+FFC485:04"
+cheat69_enable = false
+
+cheat70_desc = "[装备一览]铁剑"
+cheat70_code = "FFC482:01+FFC483:00+FFC484:01+FFC485:04"
+cheat70_enable = false
+
+cheat71_desc = "[装备一览]锋利剑"
+cheat71_code = "FFC482:01+FFC483:00+FFC484:02+FFC485:04"
+cheat71_enable = false
+
+cheat72_desc = "[装备一览]长剑"
+cheat72_code = "FFC482:01+FFC483:00+FFC484:03+FFC485:04"
+cheat72_enable = false
+
+cheat73_desc = "[装备一览]银剑"
+cheat73_code = "FFC482:01+FFC483:00+FFC484:04.04"
+cheat73_enable = false
+
+cheat74_desc = "[装备一览]主要剑"
+cheat74_code = "FFC482:01+FFC483:00+FFC484:05+FFC485:04"
+cheat74_enable = false
+
+cheat75_desc = "[装备一览]金剑"
+cheat75_code = "FFC482:01+FFC483:00+FFC484:06+FFC485:04"
+cheat75_enable = false
+
+cheat76_desc = "[装备一览]幻想剑"
+cheat76_code = "FFC482:01+FFC483:00+FFC484:07+FFC485:04"
+cheat76_enable = false
+
+cheat77_desc = "[装备一览]铂剑"
+cheat77_code = "FFC482:01+FFC483:00+FFC484:08+FFC485:04"
+cheat77_enable = false
+
+cheat78_desc = "[装备一览]钻石剑"
+cheat78_code = "FFC482:01+FFC483:00+FFC484:09+FFC485:04"
+cheat78_enable = false
+
+cheat79_desc = "[装备一览]石墨剑"
+cheat79_code = "FFC482:01+FFC483:00+FFC484:0A+FFC485:04"
+cheat79_enable = false
+
+cheat80_desc = "[装备一览]皇家剑"
+cheat80_code = "FFC482:01+FFC483:00+FFC484:0B+FFC485:04"
+cheat80_enable = false
+
+cheat81_desc = "[装备一览]最终剑"
+cheat81_code = "FFC482:01+FFC483:00+FFC484:0C+FFC485:04"
+cheat81_enable = false
+
+cheat82_desc = "[装备一览]银原剑"
+cheat82_code = "FFC482:01+FFC483:00+FFC484:0D+FFC485:04"
+cheat82_enable = false
+
+cheat83_desc = "[装备一览]暗剑"
+cheat83_code = "FFC482:01+FFC483:00+FFC484:0E+FFC485:04"
+cheat83_enable = false
+
+cheat84_desc = "[装备一览]死亡剑"
+cheat84_code = "FFC482:01+FFC483:00+FFC484:0F+FFC485:04"
+cheat84_enable = false
+
+cheat85_desc = "[装备一览]野蛮剑"
+cheat85_code = "FFC482:01+FFC483:00+FFC484:10+FFC485:04"
+cheat85_enable = false
+
+cheat86_desc = "[装备一览]批评剑"
+cheat86_code = "FFC482:01+FFC483:00+FFC484:11+FFC485:04"
+cheat86_enable = false
+
+cheat87_desc = "[装备一览]皮革盾"
+cheat87_code = "FFC482:01+FFC483:00+FFC484:14+FFC485:08"
+cheat87_enable = false
+
+cheat88_desc = "[装备一览]小盾"
+cheat88_code = "FFC482:01+FFC483:00+FFC484:15+FFC485:08"
+cheat88_enable = false
+
+cheat89_desc = "[装备一览]大盾"
+cheat89_code = "FFC482:01+FFC483:00+FFC484:16+FFC485:08"
+cheat89_enable = false
+
+cheat90_desc = "[装备一览]银盾"
+cheat90_code = "FFC482:01+FFC483:00+FFC484:17+FFC485:08"
+cheat90_enable = false
+
+cheat91_desc = "[装备一览]金盾"
+cheat91_code = "FFC482:01+FFC483:00+FFC484:18+FFC485:08"
+cheat91_enable = false
+
+cheat92_desc = "[装备一览]铂盾"
+cheat92_code = "FFC482:01+FFC483:00+FFC484:19+FFC485:08"
+cheat92_enable = false
+
+cheat93_desc = "[装备一览]宝盾"
+cheat93_code = "FFC482:01+FFC483:00+FFC484:1A+FFC485:08"
+cheat93_enable = false
+
+cheat94_desc = "[装备一览]宝石盾"
+cheat94_code = "FFC482:01+FFC483:00+FFC484:1B+FFC485:08"
+cheat94_enable = false
+
+cheat95_desc = "[装备一览]钻石盾"
+cheat95_code = "FFC482:01+FFC483:00+FFC484:1C+FFC485:08"
+cheat95_enable = false
+
+cheat96_desc = "[装备一览]龙盾"
+cheat96_code = "FFC482:01+FFC483:00+FFC484:1D+FFC485:08"
+cheat96_enable = false
+
+cheat97_desc = "[装备一览]魔术盾"
+cheat97_code = "FFC482:01+FFC483:00+FFC484:1E+FFC485:08"
+cheat97_enable = false
+
+cheat98_desc = "[装备一览]幽灵盾"
+cheat98_code = "FFC482:01+FFC483:00+FFC484:1F+FFC485:08"
+cheat98_enable = false
+
+cheat99_desc = "[装备一览]灰熊盾"
+cheat99_code = "FFC482:01+FFC483:00+FFC484:20+FFC485:08"
+cheat99_enable = false
+
+cheat100_desc = "[装备一览]洋红盾"
+cheat100_code = "FFC482:01+FFC483:00+FFC484:21+FFC485:08"
+cheat100_enable = false
+
+cheat101_desc = "[装备一览]皇家盾"
+cheat101_code = "FFC482:01+FFC483:00+FFC484:22+FFC485:08"
+cheat101_enable = false
+
+cheat102_desc = "[装备一览]毒物盾"
+cheat102_code = "FFC482:01+FFC483:00+FFC484:23+FFC485:08"
+cheat102_enable = false
+
+cheat103_desc = "[装备一览]骑士盾"
+cheat103_code = "FFC482:01+FFC483:00+FFC484:24+FFC485:08"
+cheat103_enable = false
+
+cheat104_desc = "[装备一览]皮革甲"
+cheat104_code = "FFC482:01+FFC483:00+FFC484:28+FFC485:10"
+cheat104_enable = false
+
+cheat105_desc = "[装备一览]铜盔甲"
+cheat105_code = "FFC482:01+FFC483:00+FFC484:29+FFC485:10"
+cheat105_enable = false
+
+cheat106_desc = "[装备一览]金属甲"
+cheat106_code = "FFC482:01+FFC483:00+FFC484:2A+FFC485:10"
+cheat106_enable = false
+
+cheat107_desc = "[装备一览]规模甲"
+cheat107_code = "FFC482:01+FFC483:00+FFC484:2B+FFC485:10"
+cheat107_enable = false
+
+cheat108_desc = "[装备一览]板盔甲"
+cheat108_code = "FFC482:01+FFC483:00+FFC484:2C+FFC485:10"
+cheat108_enable = false
+
+cheat109_desc = "[装备一览]银盔甲"
+cheat109_code = "FFC482:01+FFC483:00+FFC484:2D+FFC485:10"
+cheat109_enable = false
+
+cheat110_desc = "[装备一览]金盔甲"
+cheat110_code = "FFC482:01+FFC483:00+FFC484:2E+FFC485:10"
+cheat110_enable = false
+
+cheat111_desc = "[装备一览]晶体甲"
+cheat111_code = "FFC482:01+FFC483:00+FFC484:2F+FFC485:10"
+cheat111_enable = false
+
+cheat112_desc = "[装备一览]翠玉甲"
+cheat112_code = "FFC482:01+FFC483:00+FFC484:30+FFC485:10"
+cheat112_enable = false
+
+cheat113_desc = "[装备一览]钻石甲"
+cheat113_code = "FFC482:01+FFC483:00+FFC484:31+FFC485:10"
+cheat113_enable = false
+
+cheat114_desc = "[装备一览]骑士甲"
+cheat114_code = "FFC482:01+FFC483:00+FFC484:32+FFC485:10"
+cheat114_enable = false
+
+cheat115_desc = "[装备一览]最终甲"
+cheat115_code = "FFC482:01+FFC483:00+FFC484:33+FFC485:10"
+cheat115_enable = false
+
+cheat116_desc = "[装备一览]最高甲"
+cheat116_code = "FFC482:01+FFC483:00+FFC484:34+FFC485:10"
+cheat116_enable = false
+
+cheat117_desc = "[装备一览]秘密甲"
+cheat117_code = "FFC482:01+FFC483:00+FFC484:35+FFC485:10"
+cheat117_enable = false
+
+cheat118_desc = "[装备一览]骨架甲"
+cheat118_code = "FFC482:01+FFC483:00+FFC484:36+FFC485:10"
+cheat118_enable = false
+
+cheat119_desc = "[装备一览]梅红甲"
+cheat119_code = "FFC482:01+FFC483:00+FFC484:37+FFC485:10"
+cheat119_enable = false
+
+cheat120_desc = "[装备一览]旧盔甲"
+cheat120_code = "FFC482:01+FFC483:00+FFC484:38+FFC485:10"
+cheat120_enable = false
+

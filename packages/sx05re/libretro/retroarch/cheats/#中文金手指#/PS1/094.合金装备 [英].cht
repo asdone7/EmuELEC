@@ -1,0 +1,471 @@
+cheats = 117
+
+cheat0_desc = "#Infinite Health On Disk 1，使用此代码，它可以帮助您穿越酷刑现场，但是您仍然必须反复按按钮才能使该代码不会死掉，以确保您的健康不会被吸收！"
+cheat0_code = "800B7526 03E7"
+cheat0_enable = false
+
+cheat1_desc = "#无限的空气"
+cheat1_code = "800AE1AC 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#Never Reload"
+cheat2_code = "800AE164 000D"
+cheat2_enable = false
+
+cheat3_desc = "#无限追逐吉普车"
+cheat3_code = "800E1258 FFFF"
+cheat3_enable = false
+
+cheat4_desc = "#Invulnerability此代码使之不能被任何东西击中"
+cheat4_code = "800AE1CA 0080"
+cheat4_enable = false
+
+cheat5_desc = "#Never Reload"
+cheat5_code = "800AE164 000D"
+cheat5_enable = false
+
+cheat6_desc = "#Max Life"
+cheat6_code = "800B7528 0600"
+cheat6_enable = false
+
+cheat7_desc = "#幽灵模式"
+cheat7_code = "800AE188 0000+800AE18A 0000"
+cheat7_enable = false
+
+cheat8_desc = "#永不感冒"
+cheat8_code = "800B752A 0000"
+cheat8_enable = false
+
+cheat9_desc = "#发现雷达不受干扰"
+cheat9_code = "800AE178 0000"
+cheat9_enable = false
+
+cheat10_desc = "#Ocelot有0个项目符号"
+cheat10_code = "80167CA8 0000"
+cheat10_enable = false
+
+cheat11_desc = "#无限3:00战斗时间"
+cheat11_code = "800E72BC 1475"
+cheat11_enable = false
+
+cheat12_desc = "#无限时光追逐"
+cheat12_code = "800E1258 FFFF"
+cheat12_enable = false
+
+cheat13_desc = "#液体-无健康决赛"
+cheat13_code = "8017997C 0000"
+cheat13_enable = false
+
+cheat14_desc = "#Press R1与Ninja轻松战斗"
+cheat14_code = "D00B2D58 0008+8015B59C 0000"
+cheat14_enable = false
+
+cheat15_desc = "#按R1以便与螳螂抗争。使用此代码，请继续轻按R1“直到螳螂让Meryl尽其全力。此时再次轻按R1，然后交换控制器端口并将其关闭！"
+cheat15_code = "D00B2D58 0008+801B8CB6 0000"
+cheat15_enable = false
+
+cheat16_desc = "#按R1键获取Meryil + Health S.Wolf"
+cheat16_code = "D00B2D58 0008+80174A50 0080"
+cheat16_enable = false
+
+cheat17_desc = "#按R1与后方进行快速战斗d用此代码，轻按R1，后方D将向您开火，躲开它的开火，然后再次轻按R1。完成战斗。"
+cheat17_code = "D00B2D58 0008+80154AB4 0000"
+cheat17_enable = false
+
+cheat18_desc = "#按R1快速进行S.Wolf Snow Fight用此代码，点击R1然后跑到她"
+cheat18_code = "D00B2D58 0008+8016FE78 0000"
+cheat18_enable = false
+
+cheat19_desc = "#按R1进行快速金属装备战斗"
+cheat19_code = "D00B2D58 0008+800B8EF6 0000"
+cheat19_enable = false
+
+cheat20_desc = "#Press R1与Raven进行快速战斗"
+cheat20_code = "D00B2D58 0008+80157408 0000"
+cheat20_enable = false
+
+cheat21_desc = "#99地西p"
+cheat21_code = "800B7580 0063"
+cheat21_enable = false
+
+cheat22_desc = "#可以访问特殊模式[SELECT + R2 + L2]"
+cheat22_code = "D00AC240 0103+3011C804 0003"
+cheat22_enable = false
+
+cheat23_desc = "#具有所有Vr培训阶段和技术演示"
+cheat23_code = "300B499B 0020"
+cheat23_enable = false
+
+cheat24_desc = "#所有模式VR训练"
+cheat24_code = "800B672B 0020"
+cheat24_enable = false
+
+cheat25_desc = "#有Socom手枪"
+cheat25_code = "800B7532 03E7+800B7546 03E7"
+cheat25_enable = false
+
+cheat26_desc = "#拥有法马斯"
+cheat26_code = "800B7534 03E7+800B7548 03E7"
+cheat26_enable = false
+
+cheat27_desc = "#有手榴弹"
+cheat27_code = "800B7536 03E7+800B754A 03E7"
+cheat27_enable = false
+
+cheat28_desc = "#有尼基塔"
+cheat28_code = "800B7538 03E7+800B754C 03E7"
+cheat28_enable = false
+
+cheat29_desc = "#有毒刺"
+cheat29_code = "800B753A 03E7+800B754E 03E7"
+cheat29_enable = false
+
+cheat30_desc = "#拥有克莱莫尔矿山"
+cheat30_code = "800B753C 03E7+800B7550 03E7"
+cheat30_enable = false
+
+cheat31_desc = "#拥有C4"
+cheat31_code = "800B753E 03E7+800B7552 03E7"
+cheat31_enable = false
+
+cheat32_desc = "#有眩晕手榴弹"
+cheat32_code = "800B7540 03E7+800B7554 03E7"
+cheat32_enable = false
+
+cheat33_desc = "#拥有Chaff手榴弹"
+cheat33_code = "800B7542 03E7+800B7556 03E7"
+cheat33_enable = false
+
+cheat34_desc = "#有狙击步枪"
+cheat34_code = "800B7544 03E7+800B7558 03E7"
+cheat34_enable = false
+
+cheat35_desc = "#Havecigs"
+cheat35_code = "800B755A 0001"
+cheat35_enable = false
+
+cheat36_desc = "#有范围"
+cheat36_code = "800B755C 0001"
+cheat36_enable = false
+
+cheat37_desc = "#有C.Box A"
+cheat37_code = "800B755E 0001"
+cheat37_enable = false
+
+cheat38_desc = "#有C.Box B"
+cheat38_code = "800B7560 0001"
+cheat38_enable = false
+
+cheat39_desc = "#有C.Box c"
+cheat39_code = "800B7562 0001"
+cheat39_enable = false
+
+cheat40_desc = "#拥有N.V.G."
+cheat40_code = "800B7564 0001"
+cheat40_enable = false
+
+cheat41_desc = "#拥有Therm.G"
+cheat41_code = "800B7566 0001"
+cheat41_enable = false
+
+cheat42_desc = "#有防毒面具"
+cheat42_code = "800B7568 0001"
+cheat42_enable = false
+
+cheat43_desc = "#有B.Armor"
+cheat43_code = "800B756A 0001"
+cheat43_enable = false
+
+cheat44_desc = "#有番茄酱"
+cheat44_code = "800B756C 0001"
+cheat44_enable = false
+
+cheat45_desc = "#有隐形"
+cheat45_code = "800B756E 0001"
+cheat45_enable = false
+
+cheat46_desc = "#有头巾"
+cheat46_code = "800B7570 0001"
+cheat46_enable = false
+
+cheat47_desc = "#有相机"
+cheat47_code = "800B7572 0001"
+cheat47_enable = false
+
+cheat48_desc = "#有255个口粮"
+cheat48_code = "800B7574 03E7+800B758A 03E7"
+cheat48_enable = false
+
+cheat49_desc = "#拥有255种药"
+cheat49_code = "800B7576 03E7+800B758C 03E7"
+cheat49_enable = false
+
+cheat50_desc = "#有255地西p"
+cheat50_code = "800B7578 03E7+800B758E 03E7"
+cheat50_enable = false
+
+cheat51_desc = "#拥有Pal Key"
+cheat51_code = "800B757A 0001"
+cheat51_enable = false
+
+cheat52_desc = "#拥有10级钥匙卡"
+cheat52_code = "800B757C 0064"
+cheat52_enable = false
+
+cheat53_desc = "#永无定时炸弹"
+cheat53_code = "800B757E 0000"
+cheat53_enable = false
+
+cheat54_desc = "#拥有地雷探测器"
+cheat54_code = "800B7580 0001"
+cheat54_enable = false
+
+cheat55_desc = "#拥有Mo Disc"
+cheat55_code = "800B7582 0001"
+cheat55_enable = false
+
+cheat56_desc = "#有绳子"
+cheat56_code = "800B7584 0001"
+cheat56_enable = false
+
+cheat57_desc = "#有Handker"
+cheat57_code = "800B7586 0001"
+cheat57_enable = false
+
+cheat58_desc = "#启用抑制器"
+cheat58_code = "800B7588 0000"
+cheat58_enable = false
+
+cheat59_desc = "#按R1键选择普通Pal键"
+cheat59_code = "D00B2D58 0008+800B7592 0000"
+cheat59_enable = false
+
+cheat60_desc = "#按R2键获得热键"
+cheat60_code = "D00B2D58 0002+800B7592 0001"
+cheat60_enable = false
+
+cheat61_desc = "#按L1键输入冷键"
+cheat61_code = "D00B2D58 0004+800B7592 0002"
+cheat61_enable = false
+
+cheat62_desc = "#Play在“第一人称视角”模式下激活此代码，请按L1 + L2 + R1 + R2，然后单击三角形按钮。要取消激活，只需再次按三角形。"
+cheat62_code = "D00AE0C8 001F+300AE1C8 0000"
+cheat62_enable = false
+
+cheat63_desc = "#Never Reload（V 1.1）"
+cheat63_code = "800AE16C 000D"
+cheat63_enable = false
+
+cheat64_desc = "#Infinite Air（V 1.1）"
+cheat64_code = "800AE1B4 03E8"
+cheat64_enable = false
+
+cheat65_desc = "#Infinite Health（V 1.1）将帮助您穿越酷刑现场，但是您仍然必须反复按下按钮，以免使健康守则丧命，以确保您的健康不会被吸收！"
+cheat65_code = "800B752E 03E8"
+cheat65_enable = false
+
+cheat66_desc = "#拥有SOCOM手枪和弹药（V 1.1）"
+cheat66_code = "800B753A 0019"
+cheat66_enable = false
+
+cheat67_desc = "#拥有FAMAS步枪和弹药（V 1.1）"
+cheat67_code = "800B753C 0065"
+cheat67_enable = false
+
+cheat68_desc = "#手榴弹（V 1.1）"
+cheat68_code = "800B753E 0008"
+cheat68_enable = false
+
+cheat69_desc = "#拥有Nikita和Ammo（V 1.1）"
+cheat69_code = "800B7540 0004"
+cheat69_enable = false
+
+cheat70_desc = "#有毒刺和弹药（V 1.1）"
+cheat70_code = "800B7542 0004"
+cheat70_enable = false
+
+cheat71_desc = "#拥有Claymore（V 1.1）"
+cheat71_code = "800B7544 0006"
+cheat71_enable = false
+
+cheat72_desc = "#具有C-4（V 1.1）"
+cheat72_code = "800B7546 0004"
+cheat72_enable = false
+
+cheat73_desc = "#有Stun Grenade（V 1.1）"
+cheat73_code = "800B7548 0003"
+cheat73_enable = false
+
+cheat74_desc = "#拥有Chaff手榴弹（V 1.1）"
+cheat74_code = "800B754A 0003"
+cheat74_enable = false
+
+cheat75_desc = "#拥有PSG1步枪和弹药（V 1.1）"
+cheat75_code = "800B754C 0005"
+cheat75_enable = false
+
+cheat76_desc = "#有香烟（V 1.1）"
+cheat76_code = "800B7562 0001"
+cheat76_enable = false
+
+cheat77_desc = "#具有范围（V 1.1）"
+cheat77_code = "800B7564 0001"
+cheat77_enable = false
+
+cheat78_desc = "#有纸箱（V 1.1）A"
+cheat78_code = "800B7566 0001"
+cheat78_enable = false
+
+cheat79_desc = "#有纸板箱B（V 1.1）"
+cheat79_code = "800B7568 0001"
+cheat79_enable = false
+
+cheat80_desc = "#有纸板箱C（V 1.1）"
+cheat80_code = "800B756A 0001"
+cheat80_enable = false
+
+cheat81_desc = "#拥有夜视镜（V 1.1）"
+cheat81_code = "800B756C 0001"
+cheat81_enable = false
+
+cheat82_desc = "#有防热护目镜（V 1.1）"
+cheat82_code = "800B756E 0001"
+cheat82_enable = false
+
+cheat83_desc = "#有防毒面具（V 1.1）"
+cheat83_code = "800B7570 0001"
+cheat83_enable = false
+
+cheat84_desc = "#有防弹衣（V 1.1）"
+cheat84_code = "800B7572 0001"
+cheat84_enable = false
+
+cheat85_desc = "#有番茄酱（V 1.1）"
+cheat85_code = "800B7574 0001"
+cheat85_enable = false
+
+cheat86_desc = "#拥有隐形服（V 1.1）"
+cheat86_code = "800B7576 0001"
+cheat86_enable = false
+
+cheat87_desc = "#有头巾（V 1.1）"
+cheat87_code = "800B7578 0001"
+cheat87_enable = false
+
+cheat88_desc = "#拥有相机（V 1.1）"
+cheat88_code = "800B757A 0001"
+cheat88_enable = false
+
+cheat89_desc = "#拥有口粮（V 1.1）"
+cheat89_code = "800B757C 0002"
+cheat89_enable = false
+
+cheat90_desc = "#Have Medicine（V 1.1）"
+cheat90_code = "800B757E 0002"
+cheat90_enable = false
+
+cheat91_desc = "#具有地西p（V 1.1）"
+cheat91_code = "800B7580 0002"
+cheat91_enable = false
+
+cheat92_desc = "#具有PAL密钥（V 1.1）"
+cheat92_code = "800B7582 0001"
+cheat92_enable = false
+
+cheat93_desc = "#具有10级键（V 1.1）"
+cheat93_code = "800B7584 000A"
+cheat93_enable = false
+
+cheat94_desc = "#从未拥有定时炸弹（V 1.1）"
+cheat94_code = "800B7586 0000"
+cheat94_enable = false
+
+cheat95_desc = "#拥有额外的弹药SOCOM手枪（V 1.1）"
+cheat95_code = "80067CD8 0001"
+cheat95_enable = false
+
+cheat96_desc = "#拥有额外的弹药FAMAS步枪（V 1.1）"
+cheat96_code = "800682F4 0001"
+cheat96_enable = false
+
+cheat97_desc = "#有额外的弹药毒刺（V 1.1）"
+cheat97_code = "80069524 0001"
+cheat97_enable = false
+
+cheat98_desc = "#拥有Extra Ammo Claymore（V 1.1）"
+cheat98_code = "800698D8 0001"
+cheat98_enable = false
+
+cheat99_desc = "#拥有Extra Ammo C-4（V 1.1）"
+cheat99_code = "80069C24 0001"
+cheat99_enable = false
+
+cheat100_desc = "#拥有额外的弹药PSG1步枪（V 1.1）"
+cheat100_code = "8006A378 0001"
+cheat100_enable = false
+
+cheat101_desc = "#拥有Extra Ammo Nikita（V 1.1）"
+cheat101_code = "80068FE0 0001"
+cheat101_enable = false
+
+cheat102_desc = "#有排雷探测器（V 1.1）"
+cheat102_code = "800B7588 0001"
+cheat102_enable = false
+
+cheat103_desc = "#拥有MO Disk（V 1.1）"
+cheat103_code = "800B758A 0001"
+cheat103_enable = false
+
+cheat104_desc = "#有绳（V 1.1）"
+cheat104_code = "800B758C 0001"
+cheat104_enable = false
+
+cheat105_desc = "#拥有Hankerchief（V 1.1）"
+cheat105_code = "800B758E 0001"
+cheat105_enable = false
+
+cheat106_desc = "#具有抑制器（V 1.1）"
+cheat106_code = "800B7590 0000"
+cheat106_enable = false
+
+cheat107_desc = "#R1 =普通PAL密钥（V 1.1）"
+cheat107_code = "D00B2D60 0008+800B 759A 0000"
+cheat107_enable = false
+
+cheat108_desc = "#R2 =热PAL键（V 1.1）"
+cheat108_code = "D00B2D60 0002+800B 759A 0001"
+cheat108_enable = false
+
+cheat109_desc = "#L1 =冷PAL键（V 1.1）"
+cheat109_code = "D00B2D60 0004+800B759A 0002"
+cheat109_enable = false
+
+cheat110_desc = "#发现雷达时未卡死（V 1.1）"
+cheat110_code = "800AE180 000"
+cheat110_enable = false
+
+cheat111_desc = "#豹猫有0颗子弹（V 1.1）"
+cheat111_code = "80167CB0 0000"
+cheat111_enable = false
+
+cheat112_desc = "#无限3:00战斗时间（V 1.1）"
+cheat112_code = "800E72C4 1475"
+cheat112_enable = false
+
+cheat113_desc = "#Infinite Time：Jeep Chase（V 1.1）"
+cheat113_code = "800E1260 FFFF"
+cheat113_enable = false
+
+cheat114_desc = "#Liquid：不健康的最终战斗（V 1.1）"
+cheat114_code = "80179984 0000"
+cheat114_enable = false
+
+cheat115_desc = "#R1 =与Raven（V 1.1）进行快速战斗"
+cheat115_code = "D00B2D60 0008+80157592 0002"
+cheat115_enable = false
+
+cheat116_desc = "#R1 =快速金属装备战斗（V 1.1）"
+cheat116_code = "D00B2D60 0008+800B8EFE 0000"
+cheat116_enable = false
+
+

@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "游戏时间"
+cheat0_code = "020006EE 0000005E"
+cheat0_enable = false
+
+cheat1_desc = "1P HP"
+cheat1_code = "02002F76 000000B8+02002F77 00000001"
+cheat1_enable = false
+
+cheat1_desc = "1P 能量"
+cheat1_code = "02002F7C 000000E8+02002F7D 00000003"
+cheat1_enable = false
+
+

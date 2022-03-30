@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[体力值最大]ON"
+cheat0_code = "1F0A68:0A"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]ON"
+cheat1_code = "1F0B1D:28"
+cheat1_enable = false
+
+cheat2_desc = "[生命数最大]ON"
+cheat2_code = "1F0A66:09"
+cheat2_enable = false
+

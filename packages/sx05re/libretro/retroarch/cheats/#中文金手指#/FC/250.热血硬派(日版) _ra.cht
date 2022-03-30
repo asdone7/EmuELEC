@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[生命无限]ON"
+cheat0_code = "007C:0F+007D:27"
+cheat0_enable = false
+
+cheat1_desc = "[时间无限]ON"
+cheat1_code = "0472:59"
+cheat1_enable = false
+

@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[生命数]ON"
+cheat0_code = "0321:09"
+cheat0_enable = false
+
+cheat1_desc = "[金钱]ON"
+cheat1_code = "0325:63"
+cheat1_enable = false
+
+cheat2_desc = "[无敌]ON"
+cheat2_code = "0342:4A"
+cheat2_enable = false
+

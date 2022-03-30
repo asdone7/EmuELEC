@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[能量]ON"
+cheat0_code = "00C4:00"
+cheat0_enable = false
+
+cheat1_desc = "[车速]ON"
+cheat1_code = "0095:FF"
+cheat1_enable = false
+
+cheat2_desc = "[路程]ON"
+cheat2_code = "00C7:0C"
+cheat2_enable = false
+

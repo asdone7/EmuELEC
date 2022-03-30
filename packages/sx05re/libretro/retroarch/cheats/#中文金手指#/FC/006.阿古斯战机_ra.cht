@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[命无限]ON"
+cheat0_code = "0022:06"
+cheat0_enable = false
+
+cheat1_desc = "[B]ON"
+cheat1_code = "002B:09"
+cheat1_enable = false
+
+cheat2_desc = "[P]ON"
+cheat2_code = "002D:09"
+cheat2_enable = false
+
+cheat3_desc = "[状态]不死威力加强"
+cheat3_code = "0083:A0"
+cheat3_enable = false
+
+cheat4_desc = "[状态]无敌"
+cheat4_code = "0083:90+00A7:FF+00A8:00"
+cheat4_enable = false
+
+cheat5_desc = "[状态]无敌威力加强"
+cheat5_code = "0083:B0+00A7:FF+00A8:00"
+cheat5_enable = false
+
+cheat6_desc = "[状态]无敌机器人"
+cheat6_code = "0083:B8+00A7:FF+00A8:00"
+cheat6_enable = false
+

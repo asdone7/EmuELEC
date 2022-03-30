@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "生命值"
+cheat0_code = "02041344 00000063"
+cheat0_enable = false
+
+cheat1_desc = "隐身"
+cheat1_code = "0204127D 00000063"
+cheat1_enable = false
+
+

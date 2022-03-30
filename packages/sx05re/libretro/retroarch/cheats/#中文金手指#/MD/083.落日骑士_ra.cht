@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1P隐身]ON"
+cheat0_code = "FFCA4E:46"
+cheat0_enable = false
+
+cheat1_desc = "[1P生命数]ON"
+cheat1_code = "FFB098:03"
+cheat1_enable = false
+

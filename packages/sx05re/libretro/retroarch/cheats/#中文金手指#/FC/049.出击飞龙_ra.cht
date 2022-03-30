@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[体力及能量无限]ON"
+cheat0_code = "0569:FF+056B:FF"
+cheat0_enable = false
+
+cheat1_desc = "[等级最高]ON"
+cheat1_code = "048E:09"
+cheat1_enable = false
+
+cheat2_desc = "[鞋]ON"
+cheat2_code = "048D:FF"
+cheat2_enable = false
+
+cheat3_desc = "[跳跃力加强]ON"
+cheat3_code = "0538:20"
+cheat3_enable = false
+
+cheat4_desc = "[钥匙]ON"
+cheat4_code = "048C:FF"
+cheat4_enable = false
+
+cheat5_desc = "[情报]ON"
+cheat5_code = "048E:FF"
+cheat5_enable = false
+
+cheat6_desc = "[直达最终关(最好先获得磁力鞋)]ON"
+cheat6_code = "04B8:06"
+cheat6_enable = false
+

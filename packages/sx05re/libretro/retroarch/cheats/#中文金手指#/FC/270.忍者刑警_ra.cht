@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[体力无限]ON"
+cheat0_code = "0549:09"
+cheat0_enable = false
+
+cheat1_desc = "[人数无限]ON"
+cheat1_code = "0547:09"
+cheat1_enable = false
+
+cheat2_desc = "[影子]ON"
+cheat2_code = "05C7:80"
+cheat2_enable = false
+
+cheat3_desc = "[影子]OFF"
+cheat3_code = "05C7:00"
+cheat3_enable = false
+
+cheat4_desc = "[BOSS即死]ON"
+cheat4_code = "05A2:00"
+cheat4_enable = false
+
+cheat5_desc = "[忍法全齐]ON"
+cheat5_code = "0551:01+0552:01+0555:01+0556:01+0558:01+0559:01"
+cheat5_enable = false
+

@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[血不减]ON"
+cheat0_code = "1F1C53:A1+1F1C54:A1"
+cheat0_enable = false
+
+cheat1_desc = "[钱袋数]ON"
+cheat1_code = "1F1C48:63"
+cheat1_enable = false
+
+cheat2_desc = "[钥匙数]ON"
+cheat2_code = "1F1C4A:09"
+cheat2_enable = false
+
+cheat3_desc = "[蓝色小马数]ON"
+cheat3_code = "1F1C47:09"
+cheat3_enable = false
+

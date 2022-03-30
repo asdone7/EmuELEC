@@ -1,0 +1,106 @@
+cheats = 26
+
+cheat0_desc = "[P1 人物]*J-LANCE"
+cheat0_code = "7E024712+7E093A12"
+cheat0_enable = false
+
+cheat1_desc = "[P1 人物]BANG"
+cheat1_code = "7E024700+7E093A00"
+cheat1_enable = false
+
+cheat2_desc = "[P1 人物]TIRIA"
+cheat2_code = "7E024702+7E093A02"
+cheat2_enable = false
+
+cheat3_desc = "[P1 人物]OTTOH"
+cheat3_code = "7E024704+7E093A04"
+cheat3_enable = false
+
+cheat4_desc = "[P1 人物]HARMAN"
+cheat4_code = "7E024706+7E093A06"
+cheat4_enable = false
+
+cheat5_desc = "[P1 人物]SPENDZA"
+cheat5_code = "7E024708+7E093A08"
+cheat5_enable = false
+
+cheat6_desc = "[P1 人物]CALIARSA"
+cheat6_code = "7E02470A+7E093A0A"
+cheat6_enable = false
+
+cheat7_desc = "[P1 人物]SEENA"
+cheat7_code = "7E02470C+7E093A0C"
+cheat7_enable = false
+
+cheat8_desc = "[P1 人物]GUSTON"
+cheat8_code = "7E02470E+7E093A0E"
+cheat8_enable = false
+
+cheat9_desc = "[P1 人物]PACHET"
+cheat9_code = "7E024710+7E093A10"
+cheat9_enable = false
+
+cheat10_desc = "[P1 体力]不损"
+cheat10_code = "7E02AB64"
+cheat10_enable = false
+
+cheat11_desc = "[P1 体力]见红"
+cheat11_code = "7E02AB18"
+cheat11_enable = false
+
+cheat12_desc = "[P1 AGS值]ON"
+cheat12_code = "7E02AD64+7E02AF64+7E02B364"
+cheat12_enable = false
+
+cheat13_desc = "[P2 人物]*J-LANCE"
+cheat13_code = "7E034712+7E0A3A12"
+cheat13_enable = false
+
+cheat14_desc = "[P2 人物]BANG"
+cheat14_code = "7E034700+7E0A3A00"
+cheat14_enable = false
+
+cheat15_desc = "[P2 人物]TIRIA"
+cheat15_code = "7E034702+7E0A3A02"
+cheat15_enable = false
+
+cheat16_desc = "[P2 人物]OTTOH"
+cheat16_code = "7E034704+7E0A3A04"
+cheat16_enable = false
+
+cheat17_desc = "[P2 人物]HARMAN"
+cheat17_code = "7E034706+7E0A3A06"
+cheat17_enable = false
+
+cheat18_desc = "[P2 人物]SPENDZA"
+cheat18_code = "7E034708+7E0A3A08"
+cheat18_enable = false
+
+cheat19_desc = "[P2 人物]CALIARSA"
+cheat19_code = "7E03470A+7E0A3A0A"
+cheat19_enable = false
+
+cheat20_desc = "[P2 人物]SEENA"
+cheat20_code = "7E03470C+7E0A3A0C"
+cheat20_enable = false
+
+cheat21_desc = "[P2 人物]GUSTON"
+cheat21_code = "7E03470E+7E0A3A0E"
+cheat21_enable = false
+
+cheat22_desc = "[P2 人物]PACHET"
+cheat22_code = "7E034710+7E0A3A10"
+cheat22_enable = false
+
+cheat23_desc = "[P2 体力]不损"
+cheat23_code = "7E03AB64"
+cheat23_enable = false
+
+cheat24_desc = "[P2 体力]见红"
+cheat24_code = "7E03AB18"
+cheat24_enable = false
+
+cheat25_desc = "[P2 AGS值]ON"
+cheat25_code = "7E03AD64+7E03AF64+7E03B364"
+cheat25_enable = false
+

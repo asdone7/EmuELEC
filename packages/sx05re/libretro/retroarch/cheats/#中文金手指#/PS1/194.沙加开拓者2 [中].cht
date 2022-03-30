@@ -1,0 +1,147 @@
+cheats = 36
+
+cheat0_desc = "#Chip MAX"
+cheat0_code = "800103D4 423F+800103D6 000F"
+cheat0_enable = false
+
+cheat1_desc = "#CR MAX当时的英雄Nebesutan"
+cheat1_code = "80010408 423F+8001040A 000F"
+cheat1_enable = false
+
+cheat2_desc = "当时的英雄的#CR MAX Shirumaru"
+cheat2_code = "80010478 423F+8001047A 000F"
+cheat2_enable = false
+
+cheat3_desc = "#CR MAX当时的英雄Narses"
+cheat3_code = "800104E8 423F+800104EA 000F"
+cheat3_enable = false
+
+cheat4_desc = "#CR MAX时间的妮娜英雄"
+cheat4_code = "80010558 423F+8001055A 000F"
+cheat4_enable = false
+
+cheat5_desc = "当时的英雄#CR MAX La Vale"
+cheat5_code = "800105C8 423F+800105CA 000F"
+cheat5_enable = false
+
+cheat6_desc = "#CR MAX时间古斯塔夫英雄"
+cheat6_code = "80010638 423F+8001063A 000F"
+cheat6_enable = false
+
+cheat7_desc = "#CR MAX开尔文时间英雄"
+cheat7_code = "800106A8 423F+800106AA 000F"
+cheat7_enable = false
+
+cheat8_desc = "#CR MAX时间泰勒英雄"
+cheat8_code = "80010718 423F+8001071A 000F"
+cheat8_enable = false
+
+cheat9_desc = "#CR MAX时间的科迪莉亚英雄"
+cheat9_code = "80010788 423F+8001078A 000F"
+cheat9_enable = false
+
+cheat10_desc = "#CR MAX当时的英雄骑士"
+cheat10_code = "800107F8 423F+800107FA 000F"
+cheat10_enable = false
+
+cheat11_desc = "#CR当时的英雄戴安娜（MAX）"
+cheat11_code = "80010868 423F+8001086A 000F"
+cheat11_enable = false
+
+cheat12_desc = "#CR MAX约翰·时间英雄"
+cheat12_code = "800108D8 423F+800108DA 000F"
+cheat12_enable = false
+
+cheat13_desc = "#CR MAX Vu〜an“当时的英雄们#"
+cheat13_code = "80010948 423F+8001094A 000F"
+cheat13_enable = false
+
+cheat14_desc = "英雄时的#CR MAX尿素"
+cheat14_code = "800109B8 423F+800109BA 000F"
+cheat14_enable = false
+
+cheat15_desc = "#CR MAX当时的英雄埃莉诺"
+cheat15_code = "80010A28 423F+80010A2A 000F"
+cheat15_enable = false
+
+cheat16_desc = "当时的英雄#CR MAX雷蒙德"
+cheat16_code = "80010A98 423F+80010A9A 000F"
+cheat16_enable = false
+
+cheat17_desc = "当时的英雄#CR MAX Sargon"
+cheat17_code = "80010B08 423F+80010B0A 000F"
+cheat17_enable = false
+
+cheat18_desc = "#CR MAX时间的丰富英雄"
+cheat18_code = "80010B78 423F+80010B7A 000F"
+cheat18_enable = false
+
+cheat19_desc = "#CR MAX帕特里克（当时）的英雄"
+cheat19_code = "80010BE8 423F+80010BEA 000F"
+cheat19_enable = false
+
+cheat20_desc = "#CR MAX时间古斯塔夫英雄"
+cheat20_code = "80010C58 423F+80010C5A 000F"
+cheat20_enable = false
+
+cheat21_desc = "#CR MAX流星英雄"
+cheat21_code = "80010CC8 423F+80010CCA 000F"
+cheat21_enable = false
+
+cheat22_desc = "#CR MAX Roberto时间英雄"
+cheat22_code = "80010D38 423F+80010D3A 000F"
+cheat22_enable = false
+
+cheat23_desc = "#CR MAX当时的英雄首映"
+cheat23_code = "80010DA8 423F+80010DAA 000F"
+cheat23_enable = false
+
+cheat24_desc = "#CR MAX当时的英雄金妮骑士"
+cheat24_code = "80010E18 423F+80010E1A 000F"
+cheat24_enable = false
+
+cheat25_desc = "#HP999在战斗中"
+cheat25_code = "801BAFD6 2402+801BAFD4 03E7"
+cheat25_enable = false
+
+cheat26_desc = "#特技手术所有学习"
+cheat26_code = "50000F02 0000+8001003C FFFF+3001005A 00FF"
+cheat26_enable = false
+
+cheat27_desc = "#不降低HP"
+cheat27_code = "D01C9A84 35B8+801C9A84 0000+D01C9A86 AC85+801C9A86 0000"
+cheat27_enable = false
+
+cheat28_desc = "#invincible /无异常状态"
+cheat28_code = "D01C4C5E AC62+801C4C5E AC60"
+cheat28_enable = false
+
+cheat29_desc = "“致命一击”"
+cheat29_code = "D01BAB2E AE04+801BAB2E AE00+D01DD38A ACE3+801DD38A ACE0"
+cheat29_enable = false
+
+cheat30_desc = "#敌人歼灭"
+cheat30_code = "D009E5F2 FFFE+8001308C 0001"
+cheat30_enable = false
+
+cheat31_desc = "#Jobs Points Max"
+cheat31_code = "800103D4 FFFF"
+cheat31_enable = false
+
+cheat32_desc = "#无限制的JP"
+cheat32_code = "D01C9C22 2405+801C9C20 0000"
+cheat32_enable = false
+
+cheat33_desc = "#CR 999999"
+cheat33_code = "80010638 423F+8001063A 000F"
+cheat33_enable = false
+
+cheat34_desc = "#调试模式"
+cheat34_code = "80019158 0002"
+cheat34_enable = false
+
+cheat35_desc = "#无限和最大生命值"
+cheat35_code = "8001040C 03E7+8001040E 03E7"
+cheat35_enable = false
+
+

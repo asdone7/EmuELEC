@@ -1,0 +1,71 @@
+cheats = 17
+
+cheat0_desc = "#战斗中的无限能量"
+cheat0_code = "800E66A8 270F"
+cheat0_enable = false
+
+cheat1_desc = "#钱999999"
+cheat1_code = "800CA28C 423F+800CA28E 000F"
+cheat1_enable = false
+
+cheat2_desc = "#1st Hp角色"
+cheat2_code = "300C8560 0063"
+cheat2_enable = false
+
+cheat3_desc = "#1st角色Mp"
+cheat3_code = "300C8561 0063"
+cheat3_enable = false
+
+cheat4_desc = "#1st角色Cp"
+cheat4_code = "300C8567 0063"
+cheat4_enable = false
+
+cheat5_desc = "#1角色魔法"
+cheat5_code = "300C856C 00FF"
+cheat5_enable = false
+
+cheat6_desc = "#2nd Hp"
+cheat6_code = "300C857D 0063"
+cheat6_enable = false
+
+cheat7_desc = "#2nd角色Mp"
+cheat7_code = "300C857E 0063"
+cheat7_enable = false
+
+cheat8_desc = "#2nd字符Cp"
+cheat8_code = "300C8584 0063"
+cheat8_enable = false
+
+cheat9_desc = "#2Nd CharacterMagic"
+cheat9_code = "300C8589 00FF"
+cheat9_enable = false
+
+cheat10_desc = "#所有统计数据99（角色1）"
+cheat10_code = "800C8560 6363+800C8562 6363+800C8564 6363+800C8566 6363+800C8568 0063+800C856C 00FF"
+cheat10_enable = false
+
+cheat11_desc = "#所有统计数据99（角色2st）"
+cheat11_code = "300C857D 0063+800C857E 6363+800C8580 6363+800C8582 6363+800C8584 6363+300C8589 00FF"
+cheat11_enable = false
+
+cheat12_desc = "#All Stats 99（角色3st）"
+cheat12_code = "800C8958 6363+800C895A 6363+800C895C 6363+800C895E 6363+300C8957 0063"
+cheat12_enable = false
+
+cheat13_desc = "#敌人无法移动"
+cheat13_code = "300E66AD 0000"
+cheat13_enable = false
+
+cheat14_desc = "#我们的立即行动"
+cheat14_code = "300E66AC 0063"
+cheat14_enable = false
+
+cheat15_desc = "#魔术只要学校一次就能学习到整体"
+cheat15_code = "D00431C4 1825+800431C4 00FF+D00431C6 0062+800431C4 3403"
+cheat15_enable = false
+
+cheat16_desc = "#极乐世界"
+cheat16_code = "800CA290 FFFF+800CA292 00FF"
+cheat16_enable = false
+
+

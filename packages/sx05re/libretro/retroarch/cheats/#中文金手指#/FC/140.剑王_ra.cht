@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[体力不减]ON"
+cheat0_code = "042F:78"
+cheat0_enable = false
+

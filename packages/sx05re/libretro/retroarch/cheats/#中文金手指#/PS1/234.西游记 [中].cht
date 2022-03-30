@@ -1,0 +1,63 @@
+cheats = 15
+
+cheat0_desc = "#无限金钱"
+cheat0_code = "80130CD4 03E7"
+cheat0_enable = false
+
+cheat1_desc = "#Infinite Hp＆Mp 1st Character"
+cheat1_code = "80130530 03E7+80130532 03E7+8013054A 03E7+8013054C 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#Infinite Hp＆Mp 2nd Character"
+cheat2_code = "80130568 03E7+8013056A 03E7+80130582 03E7+80130584 03E7"
+cheat2_enable = false
+
+cheat3_desc = "#奖金外观"
+cheat3_code = "800D72F8 0001"
+cheat3_enable = false
+
+cheat4_desc = "#日记故事编号/旅程简介"
+cheat4_code = "300D7388 005E"
+cheat4_enable = false
+
+cheat5_desc = "#日记故事编号/第1章"
+cheat5_code = "300D7388 005F"
+cheat5_enable = false
+
+cheat6_desc = "#日记的故事编号/第2章"
+cheat6_code = "300D7388 0060"
+cheat6_enable = false
+
+cheat7_desc = "#日记故事编号/第3章"
+cheat7_code = "300D7388 0061"
+cheat7_enable = false
+
+cheat8_desc = "#日记故事编号/第4章"
+cheat8_code = "300D7388 0062"
+cheat8_enable = false
+
+cheat9_desc = "#牵手钱"
+cheat9_code = "80130E04 423F+80130E06 000F"
+cheat9_enable = false
+
+cheat10_desc = "#战斗中的神兽规"
+cheat10_code = "300D75D4 0014"
+cheat10_enable = false
+
+cheat11_desc = "#性别红利女人"
+cheat11_code = "300D71D4 0000"
+cheat11_enable = false
+
+cheat12_desc = "#性别红利男人"
+cheat12_code = "300D71D4 0001"
+cheat12_enable = false
+
+cheat13_desc = "#最大HP"
+cheat13_code = "80130660 03E7"
+cheat13_enable = false
+
+cheat14_desc = "#最大MP"
+cheat14_code = "80130662 03E7"
+cheat14_enable = false
+
+

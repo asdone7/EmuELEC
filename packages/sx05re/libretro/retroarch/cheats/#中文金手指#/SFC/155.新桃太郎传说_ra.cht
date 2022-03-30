@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[无敌]锁"
+cheat0_code = "7E1C7B46"
+cheat0_enable = false
+
+cheat1_desc = "[生命值]锁"
+cheat1_code = "7E1A35FF+7E1A36FF"
+cheat1_enable = false
+
+cheat2_desc = "[技值]锁"
+cheat2_code = "7E16F5FF"
+cheat2_enable = false
+
+cheat3_desc = "[一击毙敌]锁"
+cheat3_code = "7E1A3700+7E1A3800+7E1A3900+7E1A3A00+7E1A3B00+7E1A3C00"
+cheat3_enable = false
+
+cheat4_desc = "[攻击值]锁"
+cheat4_code = "7E171FE7+7E173403"
+cheat4_enable = false
+
+cheat5_desc = "[金钱]锁"
+cheat5_code = "7E1621E7+7E162203"
+cheat5_enable = false
+
+cheat6_desc = "[遇敌机率小]锁"
+cheat6_code = "7E155700+7E155800+7E113600+7E113700+7E113800"
+cheat6_enable = false
+

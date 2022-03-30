@@ -1,0 +1,70 @@
+cheats = 17
+
+cheat0_desc = "[耐久值]ON"
+cheat0_code = "FFB045:10"
+cheat0_enable = false
+
+cheat1_desc = "[更换1#武器]LG-GUN"
+cheat1_code = "FFD056:01+FFD057:00"
+cheat1_enable = false
+
+cheat2_desc = "[更换1#武器]HG-GUN"
+cheat2_code = "FFD056:02+FFD057:00"
+cheat2_enable = false
+
+cheat3_desc = "[更换1#武器]25-SC"
+cheat3_code = "FFD056:03+FFD057:00"
+cheat3_enable = false
+
+cheat4_desc = "[更换1#武器]40-SC"
+cheat4_code = "FFD056:04+FFD057:00"
+cheat4_enable = false
+
+cheat5_desc = "[更换1#武器]GL"
+cheat5_code = "FFD056:05+FFD057:00"
+cheat5_enable = false
+
+cheat6_desc = "[更换1#武器]MGL"
+cheat6_code = "FFD056:06+FFD057:00"
+cheat6_enable = false
+
+cheat7_desc = "[更换1#武器]150BZ"
+cheat7_code = "FFD056:07+FFD057:00"
+cheat7_enable = false
+
+cheat8_desc = "[更换1#武器]203BZ"
+cheat8_code = "FFD056:08+FFD057:00"
+cheat8_enable = false
+
+cheat9_desc = "[更换1#武器]MISSLE"
+cheat9_code = "FFD056:09+FFD057:00"
+cheat9_enable = false
+
+cheat10_desc = "[更换1#武器]M.POD"
+cheat10_code = "FFD056:0A+FFD057:00"
+cheat10_enable = false
+
+cheat11_desc = "[更换1#武器]E-AS"
+cheat11_code = "FFD056:0B+FFD057:00"
+cheat11_enable = false
+
+cheat12_desc = "[更换1#武器]E-CN"
+cheat12_code = "FFD056:0C+FFD057:00"
+cheat12_enable = false
+
+cheat13_desc = "[更换1#武器]D-D"
+cheat13_code = "FFD056:0D+FFD057:00"
+cheat13_enable = false
+
+cheat14_desc = "[更换1#武器]BURST"
+cheat14_code = "FFD056:0E+FFD057:00"
+cheat14_enable = false
+
+cheat15_desc = "[1-3#武器子弹值]ON（锁住）"
+cheat15_code = "FFD09A:50+FFD09B:00+FFD09C:50+FFD09D:00+FFD09E:50+FFD09F:00"
+cheat15_enable = false
+
+cheat16_desc = "[1-3#强武器+FF防具]ON（武器库中激活即解锁）"
+cheat16_code = "FFD056:04+FFD057:00+FFD058:0A+FFD059:00+FFD05A:0C+FFD05B:00+FFD05C:0F+FFD05D:00+FFD05E:10+FFD05F:00+FFD060:11+FFD061:00+FFD09A:50+FFD09B:00+FFD09C:50+FFD09D:00+FFD09E:50+FFD09F:00+FFD0A0:01+FFD0A1:00+FFD0A2:01+FFD0A3:00+FFD0A4:01+FFD0A5:00"
+cheat16_enable = false
+

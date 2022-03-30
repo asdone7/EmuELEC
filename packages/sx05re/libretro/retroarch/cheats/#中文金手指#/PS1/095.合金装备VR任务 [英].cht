@@ -1,0 +1,247 @@
+cheats = 61
+
+cheat0_desc = "#无限健康蛇\\忍者"
+cheat0_code = "800B7316 0600+800B7318 0600"
+cheat0_enable = false
+
+cheat1_desc = "#无限的空气"
+cheat1_code = "800AC844 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#发现雷达不受干扰"
+cheat2_code = "800AC810 0000"
+cheat2_enable = false
+
+cheat3_desc = "#永不感冒"
+cheat3_code = "800B731A 0000"
+cheat3_enable = false
+
+cheat4_desc = "#幽灵模式"
+cheat4_code = "800AC820 0000+800AC822 0000"
+cheat4_enable = false
+
+cheat5_desc = "#Never Reload"
+cheat5_code = "800AC7FC 0019"
+cheat5_enable = false
+
+cheat6_desc = "#有Socom手枪"
+cheat6_code = "800B5BCA 03E7+800B5BDE 03E7"
+cheat6_enable = false
+
+cheat7_desc = "#拥有Fa-Mas"
+cheat7_code = "800B5BCC 03E7+800B5BE0 03E7"
+cheat7_enable = false
+
+cheat8_desc = "#有手榴弹"
+cheat8_code = "800B5BCE 03E7+800B5BE2 03E7"
+cheat8_enable = false
+
+cheat9_desc = "#有尼基塔"
+cheat9_code = "800B5BD0 03E7+800B5BE4 03E7"
+cheat9_enable = false
+
+cheat10_desc = "#有毒刺"
+cheat10_code = "800B5BD2 03E7+800B5BE6 03E7"
+cheat10_enable = false
+
+cheat11_desc = "#拥有克莱莫尔矿山"
+cheat11_code = "800B5BD4 03E7+800B5BE8 03E7"
+cheat11_enable = false
+
+cheat12_desc = "#拥有C4"
+cheat12_code = "800B5BD6 03E7+800B5BEA 03E7"
+cheat12_enable = false
+
+cheat13_desc = "#有眩晕手榴弹"
+cheat13_code = "800B5BD8 03E7+800B5BEC 03E7"
+cheat13_enable = false
+
+cheat14_desc = "#拥有Chaff手榴弹"
+cheat14_code = "800B5BDA 03E7+800B5BEE 03E7"
+cheat14_enable = false
+
+cheat15_desc = "#有狙击步枪"
+cheat15_code = "800B5BDC 03E7+800B5BF0 03E7"
+cheat15_enable = false
+
+cheat16_desc = "#有烟"
+cheat16_code = "800B5BF2 0001"
+cheat16_enable = false
+
+cheat17_desc = "#有范围"
+cheat17_code = "800B5BF4 0001"
+cheat17_enable = false
+
+cheat18_desc = "#有C.Box A"
+cheat18_code = "800B5BF6 0001"
+cheat18_enable = false
+
+cheat19_desc = "#有C.Box B"
+cheat19_code = "800B5BF8 0001"
+cheat19_enable = false
+
+cheat20_desc = "#有C.Box c"
+cheat20_code = "800B5BFA 0001"
+cheat20_enable = false
+
+cheat21_desc = "#拥有N.V.G."
+cheat21_code = "800B5BFC 0001"
+cheat21_enable = false
+
+cheat22_desc = "#拥有Therm.G"
+cheat22_code = "800B5BFE 0001"
+cheat22_enable = false
+
+cheat23_desc = "#有防毒面具"
+cheat23_code = "800B5C00 0001"
+cheat23_enable = false
+
+cheat24_desc = "#有B.Armor"
+cheat24_code = "800B5C02 0001"
+cheat24_enable = false
+
+cheat25_desc = "#有番茄酱"
+cheat25_code = "800B5C04 0001"
+cheat25_enable = false
+
+cheat26_desc = "#有隐形"
+cheat26_code = "800B5C06 0001"
+cheat26_enable = false
+
+cheat27_desc = "#有头巾"
+cheat27_code = "800B5C08 0001"
+cheat27_enable = false
+
+cheat28_desc = "#有相机"
+cheat28_code = "800B5C0A 0001"
+cheat28_enable = false
+
+cheat29_desc = "#有255个口粮"
+cheat29_code = "800B5C0C 03E7+800B5C22 03E7"
+cheat29_enable = false
+
+cheat30_desc = "#拥有255种药"
+cheat30_code = "800B5C0E 03E7+800B5C24 03E7"
+cheat30_enable = false
+
+cheat31_desc = "#有255地西p"
+cheat31_code = "800B5C10 03E7+800B5C26 03E7"
+cheat31_enable = false
+
+cheat32_desc = "#拥有Pal Key"
+cheat32_code = "800B5C12 0001"
+cheat32_enable = false
+
+cheat33_desc = "#拥有100级钥匙卡"
+cheat33_code = "800B5C14 0064"
+cheat33_enable = false
+
+cheat34_desc = "#永无定时炸弹"
+cheat34_code = "800B5C16 0000"
+cheat34_enable = false
+
+cheat35_desc = "#拥有地雷探测器"
+cheat35_code = "800B5C18 0001"
+cheat35_enable = false
+
+cheat36_desc = "#拥有Mo Disc"
+cheat36_code = "800B5C1A 0001"
+cheat36_enable = false
+
+cheat37_desc = "#有绳子"
+cheat37_code = "800B5C1C 0001"
+cheat37_enable = false
+
+cheat38_desc = "#有Handker"
+cheat38_code = "800B5C1E 0001"
+cheat38_enable = false
+
+cheat39_desc = "#启用抑制器"
+cheat39_code = "800B5C20 0000"
+cheat39_enable = false
+
+cheat40_desc = "#特殊模式代码\\所有任务已打开"
+cheat40_code = "800E5538 FFFF"
+cheat40_enable = false
+
+cheat41_desc = "#特殊模式代码\\ Vs。 12个战斗所有级别的开放与完成"
+cheat41_code = "800E553A FFFF+800E553C FFFF"
+cheat41_enable = false
+
+cheat42_desc = "#特殊模式代码\\忍者所有级别开放和完成"
+cheat42_code = "800E54D8 FFFF+800E54DA FFFF"
+cheat42_enable = false
+
+cheat43_desc = "#特殊模式代码\\ Ng选择所有级别均已打开并完成"
+cheat43_code = "800E54BA FFFF+800E54BC FFFF"
+cheat43_enable = false
+
+cheat44_desc = "#特殊模式代码\\各种级别开放和完成"
+cheat44_code = "800E5556 FFFF+800E5558 FFFF"
+cheat44_enable = false
+
+cheat45_desc = "#Special Mode Codes \\ Puzzle所有级别打开并完成"
+cheat45_code = "800E550E FFFF+800E5510 FFFF"
+cheat45_enable = false
+
+cheat46_desc = "#特殊模式代码\\神秘世界所有级别开放和完成"
+cheat46_code = "800E5522 FFFF+800E5524 FFFF"
+cheat46_enable = false
+
+cheat47_desc = "#特殊模式代码\\ Vr任务完成"
+cheat47_code = "800E556C 1000"
+cheat47_enable = false
+
+cheat48_desc = "#1分钟。战斗代码\\对比所有级别的开放与完成"
+cheat48_code = "800E54C0 FFFF+800E54C2 FFFF"
+cheat48_enable = false
+
+cheat49_desc = "#1分钟。战斗代码\\敌对所有等级开放与完成"
+cheat49_code = "800E54A8 FFFF+800E54AA FFFF"
+cheat49_enable = false
+
+cheat50_desc = "#潜行模式代码\\无武器\\ 51练习所有级别均已打开"
+cheat50_code = "800E546C FFFE"
+cheat50_enable = false
+
+cheat51_desc = "#Sneak模式代码\\无武器\\时间攻击所有级别已打开"
+cheat51_code = "800E5484 FFFE"
+cheat51_enable = false
+
+cheat52_desc = "#Sneak模式代码\\ Socom \\ Practice所有级别均已打开"
+cheat52_code = "800E543C FFFE"
+cheat52_enable = false
+
+cheat53_desc = "#Sneak模式代码\\ Socom \\ Time Attack所有级别均已打开"
+cheat53_code = "800E5454 FFFE"
+cheat53_enable = false
+
+cheat54_desc = "#武器模式代码\\时间攻击\\所有武器所有级别均已打开"
+cheat54_code = "800E5456 8FE0+800E5458 3E0F+800E545A F0F8+800E545C 0F8F+800E545E F83E"
+cheat54_enable = false
+
+cheat55_desc = "#Weapon Mode Codes \\ Practice \\ All Weapons All Levels Open"
+cheat55_code = "800E543E 8FE0+800E5440 3E0F+800E5442 F0F8+800E5444 0F8F+800E5446 F83E"
+cheat55_enable = false
+
+cheat56_desc = "#Advanced Mode Codes \\ Time Attack \\ All Weapons All Levels Open"
+cheat56_code = "800E5486 8FE0+800E5488 3E0F+800E548A F0F8+800E548C 0F8F+800E548C F83E"
+cheat56_enable = false
+
+cheat57_desc = "#Advanced Mode Codes \\ Practice \\ All Weapons All Levels Open"
+cheat57_code = "800E546E 8FE0+800E5470 3E0F+800E5472 F0F8+800E5474 0F8F+800E5476 F83E"
+cheat57_enable = false
+
+cheat58_desc = "#更多杂项。代码\\已打开的所有其他电影"
+cheat58_code = "800B75CA FFFF"
+cheat58_enable = false
+
+cheat59_desc = "#更多杂项。代码\\第一人称视角（按三角形）"
+cheat59_code = "D00AC760 0010+800AC254 0001+D00AC760 0010+800AC860 0040"
+cheat59_enable = false
+
+cheat60_desc = "#更多杂项。 Codes \\ Ninja的面具打开"
+cheat60_code = "800DDD0C 0032"
+cheat60_enable = false
+
+

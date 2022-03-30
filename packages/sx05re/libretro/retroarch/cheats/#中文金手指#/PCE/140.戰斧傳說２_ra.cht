@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[Barre d'Energie Max]On"
+cheat0_code = "1F110F:0A"
+cheat0_enable = false
+
+cheat1_desc = "[Energie Infinie]On"
+cheat1_code = "1F110E:0B+1F110F:0A"
+cheat1_enable = false
+
+cheat2_desc = "[Arme Puissance Max]On"
+cheat2_code = "1F17F1:04"
+cheat2_enable = false
+
+cheat3_desc = "[Bombes Infinies]On"
+cheat3_code = "1F1112:0A"
+cheat3_enable = false
+
+cheat4_desc = "[Vies Infinies]On"
+cheat4_code = "1F110D:63"
+cheat4_enable = false
+
+cheat5_desc = "[Temps Infini]On"
+cheat5_code = "1F110C:60"
+cheat5_enable = false
+

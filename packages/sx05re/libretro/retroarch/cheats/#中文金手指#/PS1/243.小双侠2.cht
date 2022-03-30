@@ -1,0 +1,23 @@
+cheats = 5
+
+cheat0_desc = "#无限继续"
+cheat0_code = "8008EB34 000A"
+cheat0_enable = false
+
+cheat1_desc = "#P1无限Hp"
+cheat1_code = "80106C5E 0004"
+cheat1_enable = false
+
+cheat2_desc = "#P1无限特殊攻击"
+cheat2_code = "80106BE6 0096+80106BE8 0096"
+cheat2_enable = false
+
+cheat3_desc = "#P2无限Hp"
+cheat3_code = "80106D2A 0004"
+cheat3_enable = false
+
+cheat4_desc = "#P2无限特殊攻击"
+cheat4_code = "80106CB2 0096+80106CB4 0096"
+cheat4_enable = false
+
+

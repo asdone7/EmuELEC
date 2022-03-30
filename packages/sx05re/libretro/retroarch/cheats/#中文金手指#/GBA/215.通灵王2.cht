@@ -1,0 +1,187 @@
+cheats = 46
+
+cheat0_desc = "战斗生命"
+cheat0_code = "02041A60 000000E7+02041A61 00000003"
+cheat0_enable = false
+
+cheat1_desc = "战斗隐身"
+cheat1_code = "02041A5D 000000FF"
+cheat1_enable = false
+
+cheat2_desc = "金钱"
+cheat2_code = "02046510 000000FF+02046511 000000E0+02046512 000000F5+02046513 00000005"
+cheat2_enable = false
+
+cheat3_desc = "HP"
+cheat3_code = "020464A4 000000E7+020464A5 00000003"
+cheat3_enable = false
+
+cheat4_desc = "MAXHP"
+cheat4_code = "020464A6 000000E7+020464A7 00000003"
+cheat4_enable = false
+
+cheat5_desc = "SP"
+cheat5_code = "020464AA 000000E7+020464AB 00000003"
+cheat5_enable = false
+
+cheat6_desc = "MAXSP"
+cheat6_code = "020464AC 000000E7+020464AD 00000003"
+cheat6_enable = false
+
+cheat7_desc = "攻击力"
+cheat7_code = "020464AE 000000E7+020464AF 00000003"
+cheat7_enable = false
+
+cheat8_desc = "防御力"
+cheat8_code = "020464B0 000000E7+020464B1 00000003"
+cheat8_enable = false
+
+cheat9_desc = "全属性"
+cheat9_code = "020465A7 00000063+020465A8 00000063+020465A9 00000063+020465AA 00000063"
+cheat9_enable = false
+
+cheat10_desc = "全魔导书"
+cheat10_code = "0204650C 00000007"
+cheat10_enable = false
+
+cheat11_desc = "全卡片"
+cheat11_code = "0204658C 000000FF+0204658D 000000FF+0204658E 000000FF+0204658F 000000FF+02046590 000000FF+02046591 000000FF+02046592 000000FF+02046593 000000FF"
+cheat11_enable = false
+
+cheat12_desc = "魂魄数"
+cheat12_code = "0204658A 00000063"
+cheat12_enable = false
+
+cheat13_desc = "持有武器"
+cheat13_code = "020465A5 00000002"
+cheat13_enable = false
+
+cheat14_desc = "全技能"
+cheat14_code = "020465AB 000000FF+020465AC 000000FF+020465AD 000000FF+020465AE 000000FF+020465AF 000000FF+020465B0 000000FF+020465B1 000000FF+020465B2 000000FF+020465B3 000000FF+020465B4 000000FF+020465B5 000000FF+020465B6 000000FF+020465B7 000000FF"
+cheat14_enable = false
+
+cheat15_desc = "全饰物"
+cheat15_code = "020465BB 000000FF"
+cheat15_enable = false
+
+cheat16_desc = "全防具"
+cheat16_code = "020465B8 000000FF"
+cheat16_enable = false
+
+cheat17_desc = "技能满星+额外道具"
+cheat17_code = "020465B9 000000FF+020465BA 000000FF"
+cheat17_enable = false
+
+cheat18_desc = "全信息+音乐盒开启"
+cheat18_code = "02046335 000000FF+02046336 000000FF"
+cheat18_enable = false
+
+cheat19_desc = "全音乐"
+cheat19_code = "02046594 000000FF+02046595 000000FF+02046596 000000FF+02046597 000000FF+02046598 000000FF+02046599 000000FF"
+cheat19_enable = false
+
+cheat20_desc = "全恢复道具"
+cheat20_code = "0204659A 00000004+0204659B 00000005+0204659C 00000006+0204659D 00000007+0204659E 00000008"
+cheat20_enable = false
+
+cheat21_desc = "氧气"
+cheat21_code = "020464DC 00000000+020464DD 00000040+BOSS一击死+02041B28 00000001+02041B29 00000000"
+cheat21_enable = false
+
+cheat22_desc = "自由战全开"
+cheat22_code = "020465D4 00000001+020465D8 00000001+020465DC 00000001+020465E0 00000001+020465E4 00000001+020465E8 00000001+020465EC 00000001+020465F0 00000001+020465F4 00000001+020465F8 00000001+020465FC 00000001+02046600 00000001+02046604 00000001+02046608 00000001+0204660C 00000001+02046610 00000001+02046614 00000001+02046618 00000001+0204661C 00000001+02046620 00000001+02046624 00000001"
+cheat22_enable = false
+
+cheat23_desc = "战斗中HP 全满"
+cheat23_code = "02041A60 000000E7+02041A61 00000003"
+cheat23_enable = false
+
+cheat24_desc = "无敌"
+cheat24_code = "02041A5D 00000063"
+cheat24_enable = false
+
+cheat25_desc = "无敌 OFF"
+cheat25_code = "02041A5D 00000000"
+cheat25_enable = false
+
+cheat26_desc = "金钱9999999"
+cheat26_code = "02046510 0000007F+02046511 00000096+02046512 00000098"
+cheat26_enable = false
+
+cheat27_desc = "全灵魂收集"
+cheat27_code = "020465AB 000000FF+020465AC 000000FF+020465AD 000000FF+020465AE 000000FF+020465AF 000000FF+020465B0 000000FF+020465B1 000000FF+020465B2 000000FF+020465B3 000000FF+020465B4 000000FF+020465B5 000000FF+020465B6 000000FF+020465B7 000000FF"
+cheat27_enable = false
+
+cheat28_desc = "全EX-ITEM"
+cheat28_code = "020465B8 000000FF+020465B9 000000FF+020465BA 000000FF+020465BB 000000FF"
+cheat28_enable = false
+
+cheat29_desc = "技能之书I+II+III全获得"
+cheat29_code = "0204650C 0000000F"
+cheat29_enable = false
+
+cheat30_desc = "魂数量255"
+cheat30_code = "0204658A 000000FF"
+cheat30_enable = false
+
+cheat31_desc = "攻击方式 刀斩"
+cheat31_code = "020464B3 00000001"
+cheat31_enable = false
+
+cheat32_desc = "攻击方式 气斩"
+cheat32_code = "020464B3 00000002"
+cheat32_enable = false
+
+cheat33_desc = "攻击方式 鬼火"
+cheat33_code = "020464B3 00000030"
+cheat33_enable = false
+
+cheat34_desc = "拥有加强能力状态 所有能力加强"
+cheat34_code = "020464D6 000000E7+020464D7 00000003+020464D8 000000E7+020464D9 00000003+020464DA 000000E7+020464DB 00000003"
+cheat34_enable = false
+
+cheat35_desc = "拥有加强能力状态 攻击加强"
+cheat35_code = "020464D6 000000E7+020464D7 00000003"
+cheat35_enable = false
+
+cheat36_desc = "拥有加强能力状态 守备加强"
+cheat36_code = "020464D8 000000E7+020464D9 00000003"
+cheat36_enable = false
+
+cheat37_desc = "拥有加强能力状态 灵力加强"
+cheat37_code = "020464DA 000000E7+020464DB 00000003"
+cheat37_enable = false
+
+cheat38_desc = "阿叶能力 全能力超强"
+cheat38_code = "02041A60 000000E7+02041A61 00000003+020464A4 000000E7+020464A5 00000003+020464A6 000000E7+020464A7 00000003+020464A8 000000E7+020464A9 00000003+020464AA 000000E7+020464AB 00000003+020464AC 000000E7+020464AD 00000003+020464AE 000000E7+020464AF 00000003+020464B0 000000E7+020464B1 00000003+020465A7 00000063+020465A8 00000063+020465A9 00000063+020465AA 00000063"
+cheat38_enable = false
+
+cheat39_desc = "阿叶能力 HP+SP MAX"
+cheat39_code = "02041A60 000000E7+02041A61 00000003+020464A4 000000E7+020464A5 00000003+020464A6 000000E7+020464A7 00000003+020464A8 000000E7+020464A9 00000003+020464AA 000000E7+020464AB 00000003+020464AC 000000E7+020464AD 00000003"
+cheat39_enable = false
+
+cheat40_desc = "阿叶能力 HP MAX"
+cheat40_code = "02041A60 000000E7+02041A61 00000003+020464A4 000000E7+020464A5 00000003+020464A6 000000E7+020464A7 00000003+020464A8 000000E7+020464A9 00000003"
+cheat40_enable = false
+
+cheat41_desc = "阿叶能力 SP MAX"
+cheat41_code = "020464AA 000000E7+020464AB 00000003+020464AC 000000E7+020464AD 00000003"
+cheat41_enable = false
+
+cheat42_desc = "阿叶能力 攻击力"
+cheat42_code = "020464AE 000000E7+020464AF 00000003"
+cheat42_enable = false
+
+cheat43_desc = "阿叶能力 守备力"
+cheat43_code = "020464B0 000000E7+020464B1 00000003"
+cheat43_enable = false
+
+cheat44_desc = "阿叶能力 全属性能力满"
+cheat44_code = "020465A7 00000063+020465A8 00000063+020465A9 00000063+020465AA 00000063"
+cheat44_enable = false
+
+cheat45_desc = "敌方BOSS HP 一击必杀"
+cheat45_code = "02041B28 00000001+02041B29 00000000"
+cheat45_enable = false
+
+

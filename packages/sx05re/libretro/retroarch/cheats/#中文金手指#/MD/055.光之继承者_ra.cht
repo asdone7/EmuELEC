@@ -1,0 +1,2134 @@
+cheats = 533
+
+cheat0_desc = "[敌血255]ON"
+cheat0_code = "FF1EDA:FF+FF1ED8:FF+FF1E1E:FF+FF1E1C:FF+FF1F94:FF+FF1F96:FF+FF2050:FF+FF2052:FF+FF210C:FF+FF210E:FF+FF2284:FF+FF2286:FF+FF2340:FF+FF2342:FF+FF21C8:FF+FF21CA:FF+FF23FC:FF+FF23FE:FF+FF1F94:FF+FF1F96:FF+FF2920:FF+FF2922:FF+FF2864:FF+FF2866:FF"
+cheat0_enable = false
+
+cheat1_desc = "[敌攻50]ON"
+cheat1_code = "FF1E24:50+FF1EE0:50+FF1F9C:50+FF2058:50+FF1D68:50+FF2114:50+FF228C:50+FF2348:50+FF21D0:50+FF2404:50+FF1F9C:50+FF2927:50+FF286B:50"
+cheat1_enable = false
+
+cheat2_desc = "[敌防255]ON"
+cheat2_code = "FF1EE2:FF+FF1E26:FF+FF1F9E:FF+FF205A:FF+FF1D6A:FF+FF2116:FF+FF228E:FF+FF234A:FF+FF21D2:FF+FF2406:FF+FF1F9E:FF+FF2929:FF+FF286D:FF"
+cheat2_enable = false
+
+cheat3_desc = "[现在攻  50]ON"
+cheat3_code = "FF1A78:32"
+cheat3_enable = false
+
+cheat4_desc = "[现在防  50]ON"
+cheat4_code = "FF1A7A:32"
+cheat4_enable = false
+
+cheat5_desc = "[现在HP MAX]ON"
+cheat5_code = "FF1A72:FF"
+cheat5_enable = false
+
+cheat6_desc = "[最大HP MAX]ON"
+cheat6_code = "FF1A70:FF"
+cheat6_enable = false
+
+cheat7_desc = "[现在SP MAX]ON"
+cheat7_code = "FF1A76:FF"
+cheat7_enable = false
+
+cheat8_desc = "[最大SP MAX]ON"
+cheat8_code = "FF1A74:FF"
+cheat8_enable = false
+
+cheat9_desc = "[拥有全部召唤兽]ON"
+cheat9_code = "FF0D7B:0F"
+cheat9_enable = false
+
+cheat10_desc = "[拥有全部钥匙]ON"
+cheat10_code = "FF0DB2:0D+FF0DB3:0E+FF0DB4:0F+FF0DB5:10"
+cheat10_enable = false
+
+cheat11_desc = "[拥有全部特殊物品]ON"
+cheat11_code = "FF0DBB:0F"
+cheat11_enable = false
+
+cheat12_desc = "[宝石]全部MAX"
+cheat12_code = "FF0DB6:63+FF0DB7:63+FF0DB8:63+FF0DB9:63"
+cheat12_enable = false
+
+cheat13_desc = "[战利品为]红心(加HP)"
+cheat13_code = "FF2AEE:11"
+cheat13_enable = false
+
+cheat14_desc = "[战利品为]水S.T"
+cheat14_code = "FF2AEE:12"
+cheat14_enable = false
+
+cheat15_desc = "[战利品为]火S.T"
+cheat15_code = "FF2AEE:13"
+cheat15_enable = false
+
+cheat16_desc = "[战利品为]暗S.T"
+cheat16_code = "FF2AEE:14"
+cheat16_enable = false
+
+cheat17_desc = "[战利品为]木S.T"
+cheat17_code = "FF2AEE:15"
+cheat17_enable = false
+
+cheat18_desc = "[所有武器无限使用]ON"
+cheat18_code = "FF0D80:FF+FF0D82:FF+FF0D84:FF+FF0D86:FF+FF0D88:FF+FF0D8A:FF+FF0D8C:FF+FF0D8E:FF"
+cheat18_enable = false
+
+cheat19_desc = "[武器1]小刀"
+cheat19_code = "FF0D81:01"
+cheat19_enable = false
+
+cheat20_desc = "[武器1]长剑"
+cheat20_code = "FF0D81:02"
+cheat20_enable = false
+
+cheat21_desc = "[武器1]宽剑"
+cheat21_code = "FF0D81:03"
+cheat21_enable = false
+
+cheat22_desc = "[武器1]死亡之剑"
+cheat22_code = "FF0D81:04"
+cheat22_enable = false
+
+cheat23_desc = "[武器1]欧米枷之剑"
+cheat23_code = "FF0D81:05"
+cheat23_enable = false
+
+cheat24_desc = "[武器1]弓箭"
+cheat24_code = "FF0D81:06"
+cheat24_enable = false
+
+cheat25_desc = "[武器1]火焰之弓"
+cheat25_code = "FF0D81:07"
+cheat25_enable = false
+
+cheat26_desc = "[武器1]金属之弓"
+cheat26_code = "FF0D81:08"
+cheat26_enable = false
+
+cheat27_desc = "[武器1]炸弹"
+cheat27_code = "FF0D81:09"
+cheat27_enable = false
+
+cheat28_desc = "[武器1]强力炸弹"
+cheat28_code = "FF0D81:0A"
+cheat28_enable = false
+
+cheat29_desc = "[武器1]核弹"
+cheat29_code = "FF0D81:0B"
+cheat29_enable = false
+
+cheat30_desc = "[武器1]炸弹之弓"
+cheat30_code = "FF0D81:0C"
+cheat30_enable = false
+
+cheat31_desc = "[武器2]小刀"
+cheat31_code = "FF0D83:01"
+cheat31_enable = false
+
+cheat32_desc = "[武器2]长剑"
+cheat32_code = "FF0D83:02"
+cheat32_enable = false
+
+cheat33_desc = "[武器2]宽剑"
+cheat33_code = "FF0D83:03"
+cheat33_enable = false
+
+cheat34_desc = "[武器2]死亡之剑"
+cheat34_code = "FF0D83:04"
+cheat34_enable = false
+
+cheat35_desc = "[武器2]欧米枷之剑"
+cheat35_code = "FF0D83:05"
+cheat35_enable = false
+
+cheat36_desc = "[武器2]弓箭"
+cheat36_code = "FF0D83:06"
+cheat36_enable = false
+
+cheat37_desc = "[武器2]火焰之弓"
+cheat37_code = "FF0D83:07"
+cheat37_enable = false
+
+cheat38_desc = "[武器2]金属之弓"
+cheat38_code = "FF0D83:08"
+cheat38_enable = false
+
+cheat39_desc = "[武器2]炸弹"
+cheat39_code = "FF0D83:09"
+cheat39_enable = false
+
+cheat40_desc = "[武器2]强力炸弹"
+cheat40_code = "FF0D83:0A"
+cheat40_enable = false
+
+cheat41_desc = "[武器2]核弹"
+cheat41_code = "FF0D83:0B"
+cheat41_enable = false
+
+cheat42_desc = "[武器2]炸弹之弓"
+cheat42_code = "FF0D83:0C"
+cheat42_enable = false
+
+cheat43_desc = "[武器3]小刀"
+cheat43_code = "FF0D85:01"
+cheat43_enable = false
+
+cheat44_desc = "[武器3]长剑"
+cheat44_code = "FF0D85:02"
+cheat44_enable = false
+
+cheat45_desc = "[武器3]宽剑"
+cheat45_code = "FF00D85:03"
+cheat45_enable = false
+
+cheat46_desc = "[武器3]死亡之剑"
+cheat46_code = "FF0D85:04"
+cheat46_enable = false
+
+cheat47_desc = "[武器3]欧米枷之剑"
+cheat47_code = "FF0D85:05"
+cheat47_enable = false
+
+cheat48_desc = "[武器3]弓箭"
+cheat48_code = "FF0D85:06"
+cheat48_enable = false
+
+cheat49_desc = "[武器3]火焰之弓"
+cheat49_code = "FF0D85:07"
+cheat49_enable = false
+
+cheat50_desc = "[武器3]金属之弓"
+cheat50_code = "FF0D85:08"
+cheat50_enable = false
+
+cheat51_desc = "[武器3]炸弹"
+cheat51_code = "FF0D85:09"
+cheat51_enable = false
+
+cheat52_desc = "[武器3]强力炸弹"
+cheat52_code = "FF0D85:0A"
+cheat52_enable = false
+
+cheat53_desc = "[武器3]核弹"
+cheat53_code = "FF0D85:0B"
+cheat53_enable = false
+
+cheat54_desc = "[武器3]炸弹之弓"
+cheat54_code = "FF0D85:0C"
+cheat54_enable = false
+
+cheat55_desc = "[武器4]小刀"
+cheat55_code = "FF0D87:01"
+cheat55_enable = false
+
+cheat56_desc = "[武器4]长剑"
+cheat56_code = "FF0D87:02"
+cheat56_enable = false
+
+cheat57_desc = "[武器4]宽剑"
+cheat57_code = "FF0D87:03"
+cheat57_enable = false
+
+cheat58_desc = "[武器4]死亡之剑"
+cheat58_code = "FF0D87:04"
+cheat58_enable = false
+
+cheat59_desc = "[武器4]欧米枷之剑"
+cheat59_code = "FF0D87:05"
+cheat59_enable = false
+
+cheat60_desc = "[武器4]弓箭"
+cheat60_code = "FF0D87:06"
+cheat60_enable = false
+
+cheat61_desc = "[武器4]火焰之弓"
+cheat61_code = "FF0D87:07"
+cheat61_enable = false
+
+cheat62_desc = "[武器4]金属之弓"
+cheat62_code = "FF0D87:08"
+cheat62_enable = false
+
+cheat63_desc = "[武器4]炸弹"
+cheat63_code = "FF0D87:09"
+cheat63_enable = false
+
+cheat64_desc = "[武器4]强力炸弹"
+cheat64_code = "FF0D87:0A"
+cheat64_enable = false
+
+cheat65_desc = "[武器4]核弹"
+cheat65_code = "FF0D87:0B"
+cheat65_enable = false
+
+cheat66_desc = "[武器4]炸弹之弓"
+cheat66_code = "FF0D87:0C"
+cheat66_enable = false
+
+cheat67_desc = "[武器5]小刀"
+cheat67_code = "FF0D89:01"
+cheat67_enable = false
+
+cheat68_desc = "[武器5]长剑"
+cheat68_code = "FF0D89:02"
+cheat68_enable = false
+
+cheat69_desc = "[武器5]宽剑"
+cheat69_code = "FF0D89:03"
+cheat69_enable = false
+
+cheat70_desc = "[武器5]死亡之剑"
+cheat70_code = "FF0D89:04"
+cheat70_enable = false
+
+cheat71_desc = "[武器5]欧米枷之剑"
+cheat71_code = "FF0D89:05"
+cheat71_enable = false
+
+cheat72_desc = "[武器5]弓箭"
+cheat72_code = "FF0D89:06"
+cheat72_enable = false
+
+cheat73_desc = "[武器5]火焰之弓"
+cheat73_code = "FF0D89:07"
+cheat73_enable = false
+
+cheat74_desc = "[武器5]金属之弓"
+cheat74_code = "FF0D89:08"
+cheat74_enable = false
+
+cheat75_desc = "[武器5]炸弹"
+cheat75_code = "FF0D89:09"
+cheat75_enable = false
+
+cheat76_desc = "[武器5]强力炸弹"
+cheat76_code = "FF0D89:0A"
+cheat76_enable = false
+
+cheat77_desc = "[武器5]核弹"
+cheat77_code = "FF0D89:0B"
+cheat77_enable = false
+
+cheat78_desc = "[武器5]炸弹之弓"
+cheat78_code = "FF0D89:0C"
+cheat78_enable = false
+
+cheat79_desc = "[武器6]小刀"
+cheat79_code = "FF0D8B:01"
+cheat79_enable = false
+
+cheat80_desc = "[武器6]长剑"
+cheat80_code = "FF0D8B:02"
+cheat80_enable = false
+
+cheat81_desc = "[武器6]宽剑"
+cheat81_code = "FF0D8B:03"
+cheat81_enable = false
+
+cheat82_desc = "[武器6]死亡之剑"
+cheat82_code = "FF0D8B:04"
+cheat82_enable = false
+
+cheat83_desc = "[武器6]欧米枷之剑"
+cheat83_code = "FF0D8B:05"
+cheat83_enable = false
+
+cheat84_desc = "[武器6]弓箭"
+cheat84_code = "FF0D8B:06"
+cheat84_enable = false
+
+cheat85_desc = "[武器6]火焰之弓"
+cheat85_code = "FF0D8B:07"
+cheat85_enable = false
+
+cheat86_desc = "[武器6]金属之弓"
+cheat86_code = "FF0D8B:08"
+cheat86_enable = false
+
+cheat87_desc = "[武器6]炸弹"
+cheat87_code = "FF0D8B:09"
+cheat87_enable = false
+
+cheat88_desc = "[武器6]强力炸弹"
+cheat88_code = "FF0D8B:0A"
+cheat88_enable = false
+
+cheat89_desc = "[武器6]核弹"
+cheat89_code = "FF0D8B:0B"
+cheat89_enable = false
+
+cheat90_desc = "[武器6]炸弹之弓"
+cheat90_code = "FF0D8B:0C"
+cheat90_enable = false
+
+cheat91_desc = "[武器7]小刀"
+cheat91_code = "FF0D8D:01"
+cheat91_enable = false
+
+cheat92_desc = "[武器7]长剑"
+cheat92_code = "FF0D8D:02"
+cheat92_enable = false
+
+cheat93_desc = "[武器7]宽剑"
+cheat93_code = "FF0D8D:03"
+cheat93_enable = false
+
+cheat94_desc = "[武器7]死亡之剑"
+cheat94_code = "FF0D8D:04"
+cheat94_enable = false
+
+cheat95_desc = "[武器7]欧米枷之剑"
+cheat95_code = "FF0D8D:05"
+cheat95_enable = false
+
+cheat96_desc = "[武器7]弓箭"
+cheat96_code = "FF0D8D:06"
+cheat96_enable = false
+
+cheat97_desc = "[武器7]火焰之弓"
+cheat97_code = "FF0D8D:07"
+cheat97_enable = false
+
+cheat98_desc = "[武器7]金属之弓"
+cheat98_code = "FF0D8D:08"
+cheat98_enable = false
+
+cheat99_desc = "[武器7]炸弹"
+cheat99_code = "FF0D8D:09"
+cheat99_enable = false
+
+cheat100_desc = "[武器7]强力炸弹"
+cheat100_code = "FF0D8D:0A"
+cheat100_enable = false
+
+cheat101_desc = "[武器7]核弹"
+cheat101_code = "FF0D8D:0B"
+cheat101_enable = false
+
+cheat102_desc = "[武器7]炸弹之弓"
+cheat102_code = "FF0D8D:0C"
+cheat102_enable = false
+
+cheat103_desc = "[武器8]小刀"
+cheat103_code = "FF0D8F:01"
+cheat103_enable = false
+
+cheat104_desc = "[武器8]长剑"
+cheat104_code = "FF0D8F:02"
+cheat104_enable = false
+
+cheat105_desc = "[武器8]宽剑"
+cheat105_code = "FF0D8F:03"
+cheat105_enable = false
+
+cheat106_desc = "[武器8]死亡之剑"
+cheat106_code = "FF0D8F:04"
+cheat106_enable = false
+
+cheat107_desc = "[武器8]欧米枷之剑"
+cheat107_code = "FF0D8F:05"
+cheat107_enable = false
+
+cheat108_desc = "[武器8]弓箭"
+cheat108_code = "FF0D8F:06"
+cheat108_enable = false
+
+cheat109_desc = "[武器8]火焰之弓"
+cheat109_code = "FF0D8F:07"
+cheat109_enable = false
+
+cheat110_desc = "[武器8]金属之弓"
+cheat110_code = "FF0D8F:08"
+cheat110_enable = false
+
+cheat111_desc = "[武器8]炸弹"
+cheat111_code = "FF0D8F:09"
+cheat111_enable = false
+
+cheat112_desc = "[武器8]强力炸弹"
+cheat112_code = "FF0D8F:0A"
+cheat112_enable = false
+
+cheat113_desc = "[武器8]核弹"
+cheat113_code = "FF0D8F:0B"
+cheat113_enable = false
+
+cheat114_desc = "[武器8]炸弹之弓"
+cheat114_code = "FF0D8F:0C"
+cheat114_enable = false
+
+cheat115_desc = "[拥有物品]ON"
+cheat115_code = "FF0D90:01+FF0D92:01+FF0D94:01+FF0D96:01+FF0D98:01+FF0D9A:01+FF0D9C:01+FF0D9E:01+FF0DA0:01+FF0DA2:01+FF0DA4:01+FF0DA6:01+FF0DA8:01+FF0DAA:01+FF0DAC:01+FF0DAE:01"
+cheat115_enable = false
+
+cheat116_desc = "[物品1]DYT CALL"
+cheat116_code = "FF0D91:1A"
+cheat116_enable = false
+
+cheat117_desc = "[物品1]EFR CALL"
+cheat117_code = "FF0D91:1B"
+cheat117_enable = false
+
+cheat118_desc = "[物品1]SHD CALL"
+cheat118_code = "FF0D91:1C"
+cheat118_enable = false
+
+cheat119_desc = "[物品1]BOW CALL"
+cheat119_code = "FF0D91:1D"
+cheat119_enable = false
+
+cheat120_desc = "[物品1]奶酪(HP+FF1/4)"
+cheat120_code = "FF0D91:1E"
+cheat120_enable = false
+
+cheat121_desc = "[物品1]鱼(HP+FF1/2)"
+cheat121_code = "FF0D91:1F"
+cheat121_enable = false
+
+cheat122_desc = "[物品1]肉(HP+FF3/4)"
+cheat122_code = "FF0D91:20"
+cheat122_enable = false
+
+cheat123_desc = "[物品1]鸡腿(HP全恢复)"
+cheat123_code = "FF0D91:21"
+cheat123_enable = false
+
+cheat124_desc = "[物品1]橙子(SP+FF1/4)"
+cheat124_code = "FF0D91:22"
+cheat124_enable = false
+
+cheat125_desc = "[物品1]苹果(SP+FF1/2)"
+cheat125_code = "FF0D91:23"
+cheat125_enable = false
+
+cheat126_desc = "[物品1]芒果(SP+FF3/4)"
+cheat126_code = "FF0D91:24"
+cheat126_enable = false
+
+cheat127_desc = "[物品1]葡萄(SP全恢复)"
+cheat127_code = "FF0D91:25"
+cheat127_enable = false
+
+cheat128_desc = "[物品1]蘑菇(HP.SP+FF1/4)"
+cheat128_code = "FF0D91:26"
+cheat128_enable = false
+
+cheat129_desc = "[物品1]甜菜(HP.SP+FF1/2)"
+cheat129_code = "FF0D91:27"
+cheat129_enable = false
+
+cheat130_desc = "[物品1]白菜(HP.SP+FF3/4)"
+cheat130_code = "FF0D91:28"
+cheat130_enable = false
+
+cheat131_desc = "[物品1]灵芝(HP.SP全恢复)"
+cheat131_code = "FF0D91:29"
+cheat131_enable = false
+
+cheat132_desc = "[物品1]药瓶"
+cheat132_code = "FF0D91:2A"
+cheat132_enable = false
+
+cheat133_desc = "[物品2]DYT CALL"
+cheat133_code = "FF0D93:1A"
+cheat133_enable = false
+
+cheat134_desc = "[物品2]EFR CALL"
+cheat134_code = "FF0D93:1B"
+cheat134_enable = false
+
+cheat135_desc = "[物品2]SHD CALL"
+cheat135_code = "FF0D93:1C"
+cheat135_enable = false
+
+cheat136_desc = "[物品2]BOW CALL"
+cheat136_code = "FF0D93:1D"
+cheat136_enable = false
+
+cheat137_desc = "[物品2]奶酪(HP+FF1/4)"
+cheat137_code = "FF0D93:1E"
+cheat137_enable = false
+
+cheat138_desc = "[物品2]鱼(HP+FF1/2)"
+cheat138_code = "FF0D93:1F"
+cheat138_enable = false
+
+cheat139_desc = "[物品2]肉(HP+FF3/4)"
+cheat139_code = "FF0D93:20"
+cheat139_enable = false
+
+cheat140_desc = "[物品2]鸡腿(HP全恢复)"
+cheat140_code = "FF0D93:21"
+cheat140_enable = false
+
+cheat141_desc = "[物品2]橙子(SP+FF1/4)"
+cheat141_code = "FF0D93:22"
+cheat141_enable = false
+
+cheat142_desc = "[物品2]苹果(SP+FF1/2)"
+cheat142_code = "FF0D93:23"
+cheat142_enable = false
+
+cheat143_desc = "[物品2]芒果(SP+FF3/4)"
+cheat143_code = "FF0D93:24"
+cheat143_enable = false
+
+cheat144_desc = "[物品2]葡萄(SP全恢复)"
+cheat144_code = "FF0D93:25"
+cheat144_enable = false
+
+cheat145_desc = "[物品2]蘑菇(HP.SP+FF1/4)"
+cheat145_code = "FF0D93:26"
+cheat145_enable = false
+
+cheat146_desc = "[物品2]甜菜(HP.SP+FF1/2)"
+cheat146_code = "FF0D93:27"
+cheat146_enable = false
+
+cheat147_desc = "[物品2]白菜(HP.SP+FF3/4)"
+cheat147_code = "FF0D93:28"
+cheat147_enable = false
+
+cheat148_desc = "[物品2]灵芝(HP.SP全恢复)"
+cheat148_code = "FF0D93:29"
+cheat148_enable = false
+
+cheat149_desc = "[物品2]药瓶"
+cheat149_code = "FF0D93:2A"
+cheat149_enable = false
+
+cheat150_desc = "[物品3]DYT CALL"
+cheat150_code = "FF0D95:1A"
+cheat150_enable = false
+
+cheat151_desc = "[物品3]EFR CALL"
+cheat151_code = "FF0D95:1B"
+cheat151_enable = false
+
+cheat152_desc = "[物品3]SHD CALL"
+cheat152_code = "FF0D95:1C"
+cheat152_enable = false
+
+cheat153_desc = "[物品3]BOW CALL"
+cheat153_code = "FF0D95:1D"
+cheat153_enable = false
+
+cheat154_desc = "[物品3]奶酪(HP+FF1/4)"
+cheat154_code = "FF0D95:1E"
+cheat154_enable = false
+
+cheat155_desc = "[物品3]鱼(HP+FF1/2)"
+cheat155_code = "FF0D95:1F"
+cheat155_enable = false
+
+cheat156_desc = "[物品3]肉(HP+FF3/4)"
+cheat156_code = "FF0D95:20"
+cheat156_enable = false
+
+cheat157_desc = "[物品3]鸡腿(HP全恢复)"
+cheat157_code = "FF0D95:21"
+cheat157_enable = false
+
+cheat158_desc = "[物品3]橙子(SP+FF1/4)"
+cheat158_code = "FF0D95:22"
+cheat158_enable = false
+
+cheat159_desc = "[物品3]苹果(SP+FF1/2)"
+cheat159_code = "FF0D95:23"
+cheat159_enable = false
+
+cheat160_desc = "[物品3]芒果(SP+FF3/4)"
+cheat160_code = "FF0D95:24"
+cheat160_enable = false
+
+cheat161_desc = "[物品3]葡萄(SP全恢复)"
+cheat161_code = "FF0D95:25"
+cheat161_enable = false
+
+cheat162_desc = "[物品3]蘑菇(HP.SP+FF1/4)"
+cheat162_code = "FF0D95:26"
+cheat162_enable = false
+
+cheat163_desc = "[物品3]甜菜(HP.SP+FF1/2)"
+cheat163_code = "FF0D95:27"
+cheat163_enable = false
+
+cheat164_desc = "[物品3]白菜(HP.SP+FF3/4)"
+cheat164_code = "FF0D95:28"
+cheat164_enable = false
+
+cheat165_desc = "[物品3]灵芝(HP.SP全恢复)"
+cheat165_code = "FF0D95:29"
+cheat165_enable = false
+
+cheat166_desc = "[物品3]药瓶"
+cheat166_code = "FF0D95:2A"
+cheat166_enable = false
+
+cheat167_desc = "[物品4]DYT CALL"
+cheat167_code = "FF0D97:1A"
+cheat167_enable = false
+
+cheat168_desc = "[物品4]EFR CALL"
+cheat168_code = "FF0D97:1B"
+cheat168_enable = false
+
+cheat169_desc = "[物品4]SHD CALL"
+cheat169_code = "FF0D97:1C"
+cheat169_enable = false
+
+cheat170_desc = "[物品4]BOW CALL"
+cheat170_code = "FF0D97:1D"
+cheat170_enable = false
+
+cheat171_desc = "[物品4]奶酪(HP+FF1/4)"
+cheat171_code = "FF0D97:1E"
+cheat171_enable = false
+
+cheat172_desc = "[物品4]鱼(HP+FF1/2)"
+cheat172_code = "FF0D97:1F"
+cheat172_enable = false
+
+cheat173_desc = "[物品4]肉(HP+FF3/4)"
+cheat173_code = "FF0D97:20"
+cheat173_enable = false
+
+cheat174_desc = "[物品4]鸡腿(HP全恢复)"
+cheat174_code = "FF0D97:21"
+cheat174_enable = false
+
+cheat175_desc = "[物品4]橙子(SP+FF1/4)"
+cheat175_code = "FF0D97:22"
+cheat175_enable = false
+
+cheat176_desc = "[物品4]苹果(SP+FF1/2)"
+cheat176_code = "FF0D97:23"
+cheat176_enable = false
+
+cheat177_desc = "[物品4]芒果(SP+FF3/4)"
+cheat177_code = "FF0D97:24"
+cheat177_enable = false
+
+cheat178_desc = "[物品4]葡萄(SP全恢复)"
+cheat178_code = "FF0D97:25"
+cheat178_enable = false
+
+cheat179_desc = "[物品4]蘑菇(HP.SP+FF1/4)"
+cheat179_code = "FF0D97:26"
+cheat179_enable = false
+
+cheat180_desc = "[物品4]甜菜(HP.SP+FF1/2)"
+cheat180_code = "FF0D97:27"
+cheat180_enable = false
+
+cheat181_desc = "[物品4]白菜(HP.SP+FF3/4)"
+cheat181_code = "FF0D97:28"
+cheat181_enable = false
+
+cheat182_desc = "[物品4]灵芝(HP.SP全恢复)"
+cheat182_code = "FF0D97:29"
+cheat182_enable = false
+
+cheat183_desc = "[物品4]药瓶"
+cheat183_code = "FF0D97:2A"
+cheat183_enable = false
+
+cheat184_desc = "[物品5]DYT CALL"
+cheat184_code = "FF0D99:1A"
+cheat184_enable = false
+
+cheat185_desc = "[物品5]EFR CALL"
+cheat185_code = "FF0D99:1B"
+cheat185_enable = false
+
+cheat186_desc = "[物品5]SHD CALL"
+cheat186_code = "FF0D99:1C"
+cheat186_enable = false
+
+cheat187_desc = "[物品5]BOW CALL"
+cheat187_code = "FF0D99:1D"
+cheat187_enable = false
+
+cheat188_desc = "[物品5]奶酪(HP+FF1/4)"
+cheat188_code = "FF0D99:1E"
+cheat188_enable = false
+
+cheat189_desc = "[物品5]鱼(HP+FF1/2)"
+cheat189_code = "FF0D99:1F"
+cheat189_enable = false
+
+cheat190_desc = "[物品5]肉(HP+FF3/4)"
+cheat190_code = "FF0D99:20"
+cheat190_enable = false
+
+cheat191_desc = "[物品5]鸡腿(HP全恢复)"
+cheat191_code = "FF0D99:21"
+cheat191_enable = false
+
+cheat192_desc = "[物品5]橙子(SP+FF1/4)"
+cheat192_code = "FF0D99:22"
+cheat192_enable = false
+
+cheat193_desc = "[物品5]苹果(SP+FF1/2)"
+cheat193_code = "FF0D99:23"
+cheat193_enable = false
+
+cheat194_desc = "[物品5]芒果(SP+FF3/4)"
+cheat194_code = "FF0D99:24"
+cheat194_enable = false
+
+cheat195_desc = "[物品5]葡萄(SP全恢复)"
+cheat195_code = "FF0D99:25"
+cheat195_enable = false
+
+cheat196_desc = "[物品5]蘑菇(HP.SP+FF1/4)"
+cheat196_code = "FF0D99:26"
+cheat196_enable = false
+
+cheat197_desc = "[物品5]甜菜(HP.SP+FF1/2)"
+cheat197_code = "FF0D99:27"
+cheat197_enable = false
+
+cheat198_desc = "[物品5]白菜(HP.SP+FF3/4)"
+cheat198_code = "FF0D99:28"
+cheat198_enable = false
+
+cheat199_desc = "[物品5]灵芝(HP.SP全恢复)"
+cheat199_code = "FF0D99:29"
+cheat199_enable = false
+
+cheat200_desc = "[物品5]药瓶"
+cheat200_code = "FF0D99:2A"
+cheat200_enable = false
+
+cheat201_desc = "[物品6]DYT CALL"
+cheat201_code = "FF0D9B:1A"
+cheat201_enable = false
+
+cheat202_desc = "[物品6]EFR CALL"
+cheat202_code = "FF0D9B:1B"
+cheat202_enable = false
+
+cheat203_desc = "[物品6]SHD CALL"
+cheat203_code = "FF0D9B:1C"
+cheat203_enable = false
+
+cheat204_desc = "[物品6]BOW CALL"
+cheat204_code = "FF0D9B:1D"
+cheat204_enable = false
+
+cheat205_desc = "[物品6]奶酪(HP+FF1/4)"
+cheat205_code = "FF0D9B:1E"
+cheat205_enable = false
+
+cheat206_desc = "[物品6]鱼(HP+FF1/2)"
+cheat206_code = "FF0D9B:1F"
+cheat206_enable = false
+
+cheat207_desc = "[物品6]肉(HP+FF3/4)"
+cheat207_code = "FF0D9B:20"
+cheat207_enable = false
+
+cheat208_desc = "[物品6]鸡腿(HP全恢复)"
+cheat208_code = "FF0D9B:21"
+cheat208_enable = false
+
+cheat209_desc = "[物品6]橙子(SP+FF1/4)"
+cheat209_code = "FF0D9B:22"
+cheat209_enable = false
+
+cheat210_desc = "[物品6]苹果(SP+FF1/2)"
+cheat210_code = "FF0D9B:23"
+cheat210_enable = false
+
+cheat211_desc = "[物品6]芒果(SP+FF3/4)"
+cheat211_code = "FF0D9B:24"
+cheat211_enable = false
+
+cheat212_desc = "[物品6]葡萄(SP全恢复)"
+cheat212_code = "FF0D9B:25"
+cheat212_enable = false
+
+cheat213_desc = "[物品6]蘑菇(HP.SP+FF1/4)"
+cheat213_code = "FF0D9B:26"
+cheat213_enable = false
+
+cheat214_desc = "[物品6]甜菜(HP.SP+FF1/2)"
+cheat214_code = "FF0D9B:27"
+cheat214_enable = false
+
+cheat215_desc = "[物品6]白菜(HP.SP+FF3/4)"
+cheat215_code = "FF0D9B:28"
+cheat215_enable = false
+
+cheat216_desc = "[物品6]灵芝(HP.SP全恢复)"
+cheat216_code = "FF0D9B:29"
+cheat216_enable = false
+
+cheat217_desc = "[物品6]药瓶"
+cheat217_code = "FF0D9B:2A"
+cheat217_enable = false
+
+cheat218_desc = "[物品7]DYT CALL"
+cheat218_code = "FF0D9D:1A"
+cheat218_enable = false
+
+cheat219_desc = "[物品7]EFR CALL"
+cheat219_code = "FF0D9D:1B"
+cheat219_enable = false
+
+cheat220_desc = "[物品7]SHD CALL"
+cheat220_code = "FF0D9D:1C"
+cheat220_enable = false
+
+cheat221_desc = "[物品7]BOW CALL"
+cheat221_code = "FF0D9D:1D"
+cheat221_enable = false
+
+cheat222_desc = "[物品7]奶酪(HP+FF1/4)"
+cheat222_code = "FF0D9D:1E"
+cheat222_enable = false
+
+cheat223_desc = "[物品7]鱼(HP+FF1/2)"
+cheat223_code = "FF0D9D:1F"
+cheat223_enable = false
+
+cheat224_desc = "[物品7]肉(HP+FF3/4)"
+cheat224_code = "FF0D9D:20"
+cheat224_enable = false
+
+cheat225_desc = "[物品7]鸡腿(HP全恢复)"
+cheat225_code = "FF0D9D:21"
+cheat225_enable = false
+
+cheat226_desc = "[物品7]橙子(SP+FF1/4)"
+cheat226_code = "FF0D9D:22"
+cheat226_enable = false
+
+cheat227_desc = "[物品7]苹果(SP+FF1/2)"
+cheat227_code = "FF0D9D:23"
+cheat227_enable = false
+
+cheat228_desc = "[物品7]芒果(SP+FF3/4)"
+cheat228_code = "FF0D9D:24"
+cheat228_enable = false
+
+cheat229_desc = "[物品7]葡萄(SP全恢复)"
+cheat229_code = "FF0D9D:25"
+cheat229_enable = false
+
+cheat230_desc = "[物品7]蘑菇(HP.SP+FF1/4)"
+cheat230_code = "FF0D9D:26"
+cheat230_enable = false
+
+cheat231_desc = "[物品7]甜菜(HP.SP+FF1/2)"
+cheat231_code = "FF0D9D:27"
+cheat231_enable = false
+
+cheat232_desc = "[物品7]白菜(HP.SP+FF3/4)"
+cheat232_code = "FF0D9D:28"
+cheat232_enable = false
+
+cheat233_desc = "[物品7]灵芝(HP.SP全恢复)"
+cheat233_code = "FF0D9D:29"
+cheat233_enable = false
+
+cheat234_desc = "[物品7]药瓶"
+cheat234_code = "FF0D9D:2A"
+cheat234_enable = false
+
+cheat235_desc = "[物品8]DYT CALL"
+cheat235_code = "FF0D9F:1A"
+cheat235_enable = false
+
+cheat236_desc = "[物品8]EFR CALL"
+cheat236_code = "FF0D9F:1B"
+cheat236_enable = false
+
+cheat237_desc = "[物品8]SHD CALL"
+cheat237_code = "FF0D9F:1C"
+cheat237_enable = false
+
+cheat238_desc = "[物品8]BOW CALL"
+cheat238_code = "FF0D9F:1D"
+cheat238_enable = false
+
+cheat239_desc = "[物品8]奶酪(HP+FF1/4)"
+cheat239_code = "FF0D9F:1E"
+cheat239_enable = false
+
+cheat240_desc = "[物品8]鱼(HP+FF1/2)"
+cheat240_code = "FF0D9F:1F"
+cheat240_enable = false
+
+cheat241_desc = "[物品8]肉(HP+FF3/4)"
+cheat241_code = "FF0D9F:20"
+cheat241_enable = false
+
+cheat242_desc = "[物品8]鸡腿(HP全恢复)"
+cheat242_code = "FF0D9F:21"
+cheat242_enable = false
+
+cheat243_desc = "[物品8]橙子(SP+FF1/4)"
+cheat243_code = "FF0D9F:22"
+cheat243_enable = false
+
+cheat244_desc = "[物品8]苹果(SP+FF1/2)"
+cheat244_code = "FF0D9F:23"
+cheat244_enable = false
+
+cheat245_desc = "[物品8]芒果(SP+FF3/4)"
+cheat245_code = "FF0D9F:24"
+cheat245_enable = false
+
+cheat246_desc = "[物品8]葡萄(SP全恢复)"
+cheat246_code = "FF0D9F:25"
+cheat246_enable = false
+
+cheat247_desc = "[物品8]蘑菇(HP.SP+FF1/4)"
+cheat247_code = "FF0D9F:26"
+cheat247_enable = false
+
+cheat248_desc = "[物品8]甜菜(HP.SP+FF1/2)"
+cheat248_code = "FF0D9F:27"
+cheat248_enable = false
+
+cheat249_desc = "[物品8]白菜(HP.SP+FF3/4)"
+cheat249_code = "FF0D9F:28"
+cheat249_enable = false
+
+cheat250_desc = "[物品8]灵芝(HP.SP全恢复)"
+cheat250_code = "FF0D9F:29"
+cheat250_enable = false
+
+cheat251_desc = "[物品8]药瓶"
+cheat251_code = "FF0D9F:2A"
+cheat251_enable = false
+
+cheat252_desc = "[物品9]DYT CALL"
+cheat252_code = "FF0DA1:1A"
+cheat252_enable = false
+
+cheat253_desc = "[物品9]EFR CALL"
+cheat253_code = "FF0DA1:1B"
+cheat253_enable = false
+
+cheat254_desc = "[物品9]SHD CALL"
+cheat254_code = "FF0DA1:1C"
+cheat254_enable = false
+
+cheat255_desc = "[物品9]BOW CALL"
+cheat255_code = "FF0DA1:1D"
+cheat255_enable = false
+
+cheat256_desc = "[物品9]奶酪(HP+FF1/4)"
+cheat256_code = "FF0DA1:1E"
+cheat256_enable = false
+
+cheat257_desc = "[物品9]鱼(HP+FF1/2)"
+cheat257_code = "FF0DA1:1F"
+cheat257_enable = false
+
+cheat258_desc = "[物品9]肉(HP+FF3/4)"
+cheat258_code = "FF0DA1:20"
+cheat258_enable = false
+
+cheat259_desc = "[物品9]鸡腿(HP全恢复)"
+cheat259_code = "FF0DA1:21"
+cheat259_enable = false
+
+cheat260_desc = "[物品9]橙子(SP+FF1/4)"
+cheat260_code = "FF0DA1:22"
+cheat260_enable = false
+
+cheat261_desc = "[物品9]苹果(SP+FF1/2)"
+cheat261_code = "FF0DA1:23"
+cheat261_enable = false
+
+cheat262_desc = "[物品9]芒果(SP+FF3/4)"
+cheat262_code = "FF0DA1:24"
+cheat262_enable = false
+
+cheat263_desc = "[物品9]葡萄(SP全恢复)"
+cheat263_code = "FF0DA1:25"
+cheat263_enable = false
+
+cheat264_desc = "[物品9]蘑菇(HP.SP+FF1/4)"
+cheat264_code = "FF0DA1:26"
+cheat264_enable = false
+
+cheat265_desc = "[物品9]甜菜(HP.SP+FF1/2)"
+cheat265_code = "FF0DA1:27"
+cheat265_enable = false
+
+cheat266_desc = "[物品9]白菜(HP.SP+FF3/4)"
+cheat266_code = "FF0DA1:28"
+cheat266_enable = false
+
+cheat267_desc = "[物品9]灵芝(HP.SP全恢复)"
+cheat267_code = "FF0DA1:29"
+cheat267_enable = false
+
+cheat268_desc = "[物品9]药瓶"
+cheat268_code = "FF0DA1:2A"
+cheat268_enable = false
+
+cheat269_desc = "[物品10]DYT CALL"
+cheat269_code = "FF0DA3:1A"
+cheat269_enable = false
+
+cheat270_desc = "[物品10]EFR CALL"
+cheat270_code = "FF0DA3:1B"
+cheat270_enable = false
+
+cheat271_desc = "[物品10]SHD CALL"
+cheat271_code = "FF0DA3:1C"
+cheat271_enable = false
+
+cheat272_desc = "[物品10]BOW CALL"
+cheat272_code = "FF0DA3:1D"
+cheat272_enable = false
+
+cheat273_desc = "[物品10]奶酪(HP+FF1/4)"
+cheat273_code = "FF0DA3:1E"
+cheat273_enable = false
+
+cheat274_desc = "[物品10]鱼(HP+FF1/2)"
+cheat274_code = "FF0DA3:1F"
+cheat274_enable = false
+
+cheat275_desc = "[物品10]肉(HP+FF3/4)"
+cheat275_code = "FF0DA3:20"
+cheat275_enable = false
+
+cheat276_desc = "[物品10]鸡腿(HP全恢复)"
+cheat276_code = "FF0DA3:21"
+cheat276_enable = false
+
+cheat277_desc = "[物品10]橙子(SP+FF1/4)"
+cheat277_code = "FF0DA3:22"
+cheat277_enable = false
+
+cheat278_desc = "[物品10]苹果(SP+FF1/2)"
+cheat278_code = "FF0DA3:23"
+cheat278_enable = false
+
+cheat279_desc = "[物品10]芒果(SP+FF3/4)"
+cheat279_code = "FF0DA3:24"
+cheat279_enable = false
+
+cheat280_desc = "[物品10]葡萄(SP全恢复)"
+cheat280_code = "FF0DA3:25"
+cheat280_enable = false
+
+cheat281_desc = "[物品10]蘑菇(HP.SP+FF1/4)"
+cheat281_code = "FF0DA3:26"
+cheat281_enable = false
+
+cheat282_desc = "[物品10]甜菜(HP.SP+FF1/2)"
+cheat282_code = "FF0DA3:27"
+cheat282_enable = false
+
+cheat283_desc = "[物品10]白菜(HP.SP+FF3/4)"
+cheat283_code = "FF0DA3:28"
+cheat283_enable = false
+
+cheat284_desc = "[物品10]灵芝(HP.SP全恢复)"
+cheat284_code = "FF0DA3:29"
+cheat284_enable = false
+
+cheat285_desc = "[物品10]药瓶"
+cheat285_code = "FF0DA3:2A"
+cheat285_enable = false
+
+cheat286_desc = "[物品11]DYT CALL"
+cheat286_code = "FF0DA5:1A"
+cheat286_enable = false
+
+cheat287_desc = "[物品11]EFR CALL"
+cheat287_code = "FF0DA5:1B"
+cheat287_enable = false
+
+cheat288_desc = "[物品11]SHD CALL"
+cheat288_code = "FF0DA5:1C"
+cheat288_enable = false
+
+cheat289_desc = "[物品11]BOW CALL"
+cheat289_code = "FF0DA5:1D"
+cheat289_enable = false
+
+cheat290_desc = "[物品11]奶酪(HP+FF1/4)"
+cheat290_code = "FF0DA5:1E"
+cheat290_enable = false
+
+cheat291_desc = "[物品11]鱼(HP+FF1/2)"
+cheat291_code = "FF0DA5:1F"
+cheat291_enable = false
+
+cheat292_desc = "[物品11]肉(HP+FF3/4)"
+cheat292_code = "FF0DA5:20"
+cheat292_enable = false
+
+cheat293_desc = "[物品11]鸡腿(HP全恢复)"
+cheat293_code = "FF0DA5:21"
+cheat293_enable = false
+
+cheat294_desc = "[物品11]橙子(SP+FF1/4)"
+cheat294_code = "FF0DA5:22"
+cheat294_enable = false
+
+cheat295_desc = "[物品11]苹果(SP+FF1/2)"
+cheat295_code = "FF0DA5:23"
+cheat295_enable = false
+
+cheat296_desc = "[物品11]芒果(SP+FF3/4)"
+cheat296_code = "FF0DA5:24"
+cheat296_enable = false
+
+cheat297_desc = "[物品11]葡萄(SP全恢复)"
+cheat297_code = "FF0DA5:25"
+cheat297_enable = false
+
+cheat298_desc = "[物品11]蘑菇(HP.SP+FF1/4)"
+cheat298_code = "FF0DA5:26"
+cheat298_enable = false
+
+cheat299_desc = "[物品11]甜菜(HP.SP+FF1/2)"
+cheat299_code = "FF0DA5:27"
+cheat299_enable = false
+
+cheat300_desc = "[物品11]白菜(HP.SP+FF3/4)"
+cheat300_code = "FF0DA5:28"
+cheat300_enable = false
+
+cheat301_desc = "[物品11]灵芝(HP.SP全恢复)"
+cheat301_code = "FF0DA5:29"
+cheat301_enable = false
+
+cheat302_desc = "[物品11]药瓶"
+cheat302_code = "FF0DA5:2A"
+cheat302_enable = false
+
+cheat303_desc = "[物品12]DYT CALL"
+cheat303_code = "FF0DA7:1A"
+cheat303_enable = false
+
+cheat304_desc = "[物品12]EFR CALL"
+cheat304_code = "FF0DA7:1B"
+cheat304_enable = false
+
+cheat305_desc = "[物品12]SHD CALL"
+cheat305_code = "FF0DA7:1C"
+cheat305_enable = false
+
+cheat306_desc = "[物品12]BOW CALL"
+cheat306_code = "FF0DA7:1D"
+cheat306_enable = false
+
+cheat307_desc = "[物品12]奶酪(HP+FF1/4)"
+cheat307_code = "FF0DA7:1E"
+cheat307_enable = false
+
+cheat308_desc = "[物品12]鱼(HP+FF1/2)"
+cheat308_code = "FF0DA7:1F"
+cheat308_enable = false
+
+cheat309_desc = "[物品12]肉(HP+FF3/4)"
+cheat309_code = "FF0DA7:20"
+cheat309_enable = false
+
+cheat310_desc = "[物品12]鸡腿(HP全恢复)"
+cheat310_code = "FF0DA7:21"
+cheat310_enable = false
+
+cheat311_desc = "[物品12]橙子(SP+FF1/4)"
+cheat311_code = "FF0DA7:22"
+cheat311_enable = false
+
+cheat312_desc = "[物品12]苹果(SP+FF1/2)"
+cheat312_code = "FF0DA7:23"
+cheat312_enable = false
+
+cheat313_desc = "[物品12]芒果(SP+FF3/4)"
+cheat313_code = "FF0DA7:24"
+cheat313_enable = false
+
+cheat314_desc = "[物品12]葡萄(SP全恢复)"
+cheat314_code = "FF0DA7:25"
+cheat314_enable = false
+
+cheat315_desc = "[物品12]蘑菇(HP.SP+FF1/4)"
+cheat315_code = "FF0DA7:26"
+cheat315_enable = false
+
+cheat316_desc = "[物品12]甜菜(HP.SP+FF1/2)"
+cheat316_code = "FF0DA7:27"
+cheat316_enable = false
+
+cheat317_desc = "[物品12]白菜(HP.SP+FF3/4)"
+cheat317_code = "FF0DA7:28"
+cheat317_enable = false
+
+cheat318_desc = "[物品12]灵芝(HP.SP全恢复)"
+cheat318_code = "FF0DA7:29"
+cheat318_enable = false
+
+cheat319_desc = "[物品12]药瓶"
+cheat319_code = "FF0DA7:2A"
+cheat319_enable = false
+
+cheat320_desc = "[物品13]DYT CALL"
+cheat320_code = "FF0DA9:1A"
+cheat320_enable = false
+
+cheat321_desc = "[物品13]EFR CALL"
+cheat321_code = "FF0DA9:1B"
+cheat321_enable = false
+
+cheat322_desc = "[物品13]SHD CALL"
+cheat322_code = "FF0DA9:1C"
+cheat322_enable = false
+
+cheat323_desc = "[物品13]BOW CALL"
+cheat323_code = "FF0DA9:1D"
+cheat323_enable = false
+
+cheat324_desc = "[物品13]奶酪(HP+FF1/4)"
+cheat324_code = "FF0DA9:1E"
+cheat324_enable = false
+
+cheat325_desc = "[物品13]鱼(HP+FF1/2)"
+cheat325_code = "FF0DA9:1F"
+cheat325_enable = false
+
+cheat326_desc = "[物品13]肉(HP+FF3/4)"
+cheat326_code = "FF0DA9:20"
+cheat326_enable = false
+
+cheat327_desc = "[物品13]鸡腿(HP全恢复)"
+cheat327_code = "FF0DA9:21"
+cheat327_enable = false
+
+cheat328_desc = "[物品13]橙子(SP+FF1/4)"
+cheat328_code = "FF0DA9:22"
+cheat328_enable = false
+
+cheat329_desc = "[物品13]苹果(SP+FF1/2)"
+cheat329_code = "FF0DA9:23"
+cheat329_enable = false
+
+cheat330_desc = "[物品13]芒果(SP+FF3/4)"
+cheat330_code = "FF0DA9:24"
+cheat330_enable = false
+
+cheat331_desc = "[物品13]葡萄(SP全恢复)"
+cheat331_code = "FF0DA9:25"
+cheat331_enable = false
+
+cheat332_desc = "[物品13]蘑菇(HP.SP+FF1/4)"
+cheat332_code = "FF0DA9:26"
+cheat332_enable = false
+
+cheat333_desc = "[物品13]甜菜(HP.SP+FF1/2)"
+cheat333_code = "FF0DA9:27"
+cheat333_enable = false
+
+cheat334_desc = "[物品13]白菜(HP.SP+FF3/4)"
+cheat334_code = "FF0DA9:28"
+cheat334_enable = false
+
+cheat335_desc = "[物品13]灵芝(HP.SP全恢复)"
+cheat335_code = "FF0DA9:29"
+cheat335_enable = false
+
+cheat336_desc = "[物品13]药瓶"
+cheat336_code = "FF0DA9:2A"
+cheat336_enable = false
+
+cheat337_desc = "[物品14]DYT CALL"
+cheat337_code = "FF0DAB:1A"
+cheat337_enable = false
+
+cheat338_desc = "[物品14]EFR CALL"
+cheat338_code = "FF0DAB:1B"
+cheat338_enable = false
+
+cheat339_desc = "[物品14]SHD CALL"
+cheat339_code = "FF0DAB:1C"
+cheat339_enable = false
+
+cheat340_desc = "[物品14]BOW CALL"
+cheat340_code = "FF0DAB:1D"
+cheat340_enable = false
+
+cheat341_desc = "[物品14]奶酪(HP+FF1/4)"
+cheat341_code = "FF0DAB:1E"
+cheat341_enable = false
+
+cheat342_desc = "[物品14]鱼(HP+FF1/2)"
+cheat342_code = "FF0DAB:1F"
+cheat342_enable = false
+
+cheat343_desc = "[物品14]肉(HP+FF3/4)"
+cheat343_code = "FF0DAB:20"
+cheat343_enable = false
+
+cheat344_desc = "[物品14]鸡腿(HP全恢复)"
+cheat344_code = "FF0DAB:21"
+cheat344_enable = false
+
+cheat345_desc = "[物品14]橙子(SP+FF1/4)"
+cheat345_code = "FF0DAB:22"
+cheat345_enable = false
+
+cheat346_desc = "[物品14]苹果(SP+FF1/2)"
+cheat346_code = "FF0DAB:23"
+cheat346_enable = false
+
+cheat347_desc = "[物品14]芒果(SP+FF3/4)"
+cheat347_code = "FF0DAB:24"
+cheat347_enable = false
+
+cheat348_desc = "[物品14]葡萄(SP全恢复)"
+cheat348_code = "FF0DAB:25"
+cheat348_enable = false
+
+cheat349_desc = "[物品14]蘑菇(HP.SP+FF1/4)"
+cheat349_code = "FF0DAB:26"
+cheat349_enable = false
+
+cheat350_desc = "[物品14]甜菜(HP.SP+FF1/2)"
+cheat350_code = "FF0DAB:27"
+cheat350_enable = false
+
+cheat351_desc = "[物品14]白菜(HP.SP+FF3/4)"
+cheat351_code = "FF0DAB:28"
+cheat351_enable = false
+
+cheat352_desc = "[物品14]灵芝(HP.SP全恢复)"
+cheat352_code = "FF0DAB:29"
+cheat352_enable = false
+
+cheat353_desc = "[物品14]药瓶"
+cheat353_code = "FF0DAB:2A"
+cheat353_enable = false
+
+cheat354_desc = "[物品15]DYT CALL"
+cheat354_code = "FF0DAD:1A"
+cheat354_enable = false
+
+cheat355_desc = "[物品15]EFR CALL"
+cheat355_code = "FF0DAD:1B"
+cheat355_enable = false
+
+cheat356_desc = "[物品15]SHD CALL"
+cheat356_code = "FF0DAD:1C"
+cheat356_enable = false
+
+cheat357_desc = "[物品15]BOW CALL"
+cheat357_code = "FF0DAD:1D"
+cheat357_enable = false
+
+cheat358_desc = "[物品15]奶酪(HP+FF1/4)"
+cheat358_code = "FF0DAD:1E"
+cheat358_enable = false
+
+cheat359_desc = "[物品15]鱼(HP+FF1/2)"
+cheat359_code = "FF0DAD:1F"
+cheat359_enable = false
+
+cheat360_desc = "[物品15]肉(HP+FF3/4)"
+cheat360_code = "FF0DAD:20"
+cheat360_enable = false
+
+cheat361_desc = "[物品15]鸡腿(HP全恢复)"
+cheat361_code = "FF0DAD:21"
+cheat361_enable = false
+
+cheat362_desc = "[物品15]橙子(SP+FF1/4)"
+cheat362_code = "FF0DAD:22"
+cheat362_enable = false
+
+cheat363_desc = "[物品15]苹果(SP+FF1/2)"
+cheat363_code = "FF0DAD:23"
+cheat363_enable = false
+
+cheat364_desc = "[物品15]芒果(SP+FF3/4)"
+cheat364_code = "FF0DAD:24"
+cheat364_enable = false
+
+cheat365_desc = "[物品15]葡萄(SP全恢复)"
+cheat365_code = "FF0DAD:25"
+cheat365_enable = false
+
+cheat366_desc = "[物品15]蘑菇(HP.SP+FF1/4)"
+cheat366_code = "FF0DAD:26"
+cheat366_enable = false
+
+cheat367_desc = "[物品15]甜菜(HP.SP+FF1/2)"
+cheat367_code = "FF0DAD:27"
+cheat367_enable = false
+
+cheat368_desc = "[物品15]白菜(HP.SP+FF3/4)"
+cheat368_code = "FF0DAD:28"
+cheat368_enable = false
+
+cheat369_desc = "[物品15]灵芝(HP.SP全恢复)"
+cheat369_code = "FF0DAD:29"
+cheat369_enable = false
+
+cheat370_desc = "[物品15]药瓶"
+cheat370_code = "FF0DAD:2A"
+cheat370_enable = false
+
+cheat371_desc = "[物品16]DYT CALL"
+cheat371_code = "FF0DAF:1A"
+cheat371_enable = false
+
+cheat372_desc = "[物品16]EFR CALL"
+cheat372_code = "FF0DAF:1B"
+cheat372_enable = false
+
+cheat373_desc = "[物品16]SHD CALL"
+cheat373_code = "FF0DAF:1C"
+cheat373_enable = false
+
+cheat374_desc = "[物品16]BOW CALL"
+cheat374_code = "FF0DAF:1D"
+cheat374_enable = false
+
+cheat375_desc = "[物品16]奶酪(HP+FF1/4)"
+cheat375_code = "FF0DAF:1E"
+cheat375_enable = false
+
+cheat376_desc = "[物品16]鱼(HP+FF1/2)"
+cheat376_code = "FF0DAF:1F"
+cheat376_enable = false
+
+cheat377_desc = "[物品16]肉(HP+FF3/4)"
+cheat377_code = "FF0DAF:20"
+cheat377_enable = false
+
+cheat378_desc = "[物品16]鸡腿(HP全恢复)"
+cheat378_code = "FF0DAF:21"
+cheat378_enable = false
+
+cheat379_desc = "[物品16]橙子(SP+FF1/4)"
+cheat379_code = "FF0DAF:22"
+cheat379_enable = false
+
+cheat380_desc = "[物品16]苹果(SP+FF1/2)"
+cheat380_code = "FF0DAF:23"
+cheat380_enable = false
+
+cheat381_desc = "[物品16]芒果(SP+FF3/4)"
+cheat381_code = "FF0DAF:24"
+cheat381_enable = false
+
+cheat382_desc = "[物品16]葡萄(SP全恢复)"
+cheat382_code = "FF0DAF:25"
+cheat382_enable = false
+
+cheat383_desc = "[物品16]蘑菇(HP.SP+FF1/4)"
+cheat383_code = "FF0DAF:26"
+cheat383_enable = false
+
+cheat384_desc = "[物品16]甜菜(HP.SP+FF1/2)"
+cheat384_code = "FF0DAF:27"
+cheat384_enable = false
+
+cheat385_desc = "[物品16]白菜(HP.SP+FF3/4)"
+cheat385_code = "FF0DAF:28"
+cheat385_enable = false
+
+cheat386_desc = "[物品16]灵芝(HP.SP全恢复)"
+cheat386_code = "FF0DAF:29"
+cheat386_enable = false
+
+cheat387_desc = "[物品16]药瓶"
+cheat387_code = "FF0DAF:2A"
+cheat387_enable = false
+
+cheat388_desc = "[人物属性]原始状态"
+cheat388_code = "FF1A70:C8+FF1A71:00+FF1A72:C8+FF1A73:00+FF1A74:64+FF1A75:00+FF1A76:64+FF1A77:00+FF1A78:00"
+cheat388_enable = false
+
+cheat389_desc = "[人物属性]MAX"
+cheat389_code = "FF1A70:E7+FF1A71:03+FF1A72:E7+FF1A73:03+FF1A74:E7+FF1A75:03+FF1A76:E7+FF1A77:03+FF1A78:E7+FF1A79:03"
+cheat389_enable = false
+
+cheat390_desc = "[宝石]MAX"
+cheat390_code = "FF0DB6:0F+FF0DB7:0F+FF0DB8:0F+FF0DB9:0F"
+cheat390_enable = false
+
+cheat391_desc = "[地图全开]用完解锁"
+cheat391_code = "FF0DBE:12+FF0DC4:0E+FF0DC6:02+FF0DC8:40"
+cheat391_enable = false
+
+cheat392_desc = "[无条件取得四个精灵]MAX"
+cheat392_code = "FF0D7B:0F"
+cheat392_enable = false
+
+cheat393_desc = "[无条件取得四个重要道具]MAX"
+cheat393_code = "FF0DBB:0F"
+cheat393_enable = false
+
+cheat394_desc = "[钥匙不减]ON"
+cheat394_code = "FF0DB2:02+FF0DB3:02+FF0DB4:02+FF0DB5:02"
+cheat394_enable = false
+
+cheat395_desc = "[武器齐全]MAX"
+cheat395_code = "FF0D80:FF+FF0D81:01+FF0D82:FF+FF0D83:04+FF0D84:FF+FF0D85:05+FF0D86:FF+FF0D87:08+FF0D88:FF+FF0D89:0A+FF0D8A:FF+FF0D8B:0C+FF0D8C:FF+FF0D8D:0B"
+cheat395_enable = false
+
+cheat396_desc = "[道具齐全(召唤)]MAX"
+cheat396_code = "FF0D90:FF+FF0D91:1A+FF0D92:FF+FF0D93:1B+FF0D94:FF+FF0D95:1C+FF0D96:FF+FF0D97:1D+FF0D98:FF+FF0D99:2A+FF0D9A:FF+FF0D9B:11"
+cheat396_enable = false
+
+cheat397_desc = "[第8格武器]OFF"
+cheat397_code = "FF0D8F:00"
+cheat397_enable = false
+
+cheat398_desc = "[第8格武器]小刀"
+cheat398_code = "FF0D8F:01"
+cheat398_enable = false
+
+cheat399_desc = "[第8格武器]木劍"
+cheat399_code = "FF0D8F:02"
+cheat399_enable = false
+
+cheat400_desc = "[第8格武器]铁劍"
+cheat400_code = "FF0D8F:03"
+cheat400_enable = false
+
+cheat401_desc = "[第8格武器]死亡之劍"
+cheat401_code = "FF0D8F:04"
+cheat401_enable = false
+
+cheat402_desc = "[第8格武器]奥米加之劍"
+cheat402_code = "FF0D8F:05"
+cheat402_enable = false
+
+cheat403_desc = "[第8格武器]弓"
+cheat403_code = "FF0D8F:06"
+cheat403_enable = false
+
+cheat404_desc = "[第8格武器]火弓"
+cheat404_code = "FF0D8F:07"
+cheat404_enable = false
+
+cheat405_desc = "[第8格武器]穿心弓"
+cheat405_code = "FF0D8F:08"
+cheat405_enable = false
+
+cheat406_desc = "[第8格武器]小炸弹"
+cheat406_code = "FF0D8F:09"
+cheat406_enable = false
+
+cheat407_desc = "[第8格武器]中炸弹"
+cheat407_code = "FF0D8F:0A"
+cheat407_enable = false
+
+cheat408_desc = "[第8格武器]大炸弹"
+cheat408_code = "FF0D8F:0B"
+cheat408_enable = false
+
+cheat409_desc = "[第8格武器]炸弹弓"
+cheat409_code = "FF0D8F:0C"
+cheat409_enable = false
+
+cheat410_desc = "[第8格道具]OFF"
+cheat410_code = "FF0D9F:00"
+cheat410_enable = false
+
+cheat411_desc = "[第8格道具]水壶"
+cheat411_code = "FF0D9F:1A"
+cheat411_enable = false
+
+cheat412_desc = "[第8格道具]灯笼"
+cheat412_code = "FF0D9F:1B"
+cheat412_enable = false
+
+cheat413_desc = "[第8格道具]镜子"
+cheat413_code = "FF0D9F:1C"
+cheat413_enable = false
+
+cheat414_desc = "[第8格道具]种子"
+cheat414_code = "FF0D9F:1D"
+cheat414_enable = false
+
+cheat415_desc = "[第8格道具]升级"
+cheat415_code = "FF0D9F:11"
+cheat415_enable = false
+
+cheat416_desc = "[第8格道具]饼干"
+cheat416_code = "FF0D9F:1E"
+cheat416_enable = false
+
+cheat417_desc = "[第8格道具]鱼干"
+cheat417_code = "FF0D9F:1F"
+cheat417_enable = false
+
+cheat418_desc = "[第8格道具]肉干"
+cheat418_code = "FF0D9F:20"
+cheat418_enable = false
+
+cheat419_desc = "[第8格道具]鸡腿"
+cheat419_code = "FF0D9F:21"
+cheat419_enable = false
+
+cheat420_desc = "[第8格道具]柠檬"
+cheat420_code = "FF0D9F:22"
+cheat420_enable = false
+
+cheat421_desc = "[第8格道具]苹果"
+cheat421_code = "FF0D9F:23"
+cheat421_enable = false
+
+cheat422_desc = "[第8格道具]芒果"
+cheat422_code = "FF0D9F:24"
+cheat422_enable = false
+
+cheat423_desc = "[第8格道具]葡萄"
+cheat423_code = "FF0D9F:25"
+cheat423_enable = false
+
+cheat424_desc = "[第8格道具]小磨姑"
+cheat424_code = "FF0D9F:26"
+cheat424_enable = false
+
+cheat425_desc = "[第8格道具]生菜"
+cheat425_code = "FF0D9F:27"
+cheat425_enable = false
+
+cheat426_desc = "[第8格道具]蒜头"
+cheat426_code = "FF0D9F:28"
+cheat426_enable = false
+
+cheat427_desc = "[第8格道具]大磨姑"
+cheat427_code = "FF0D9F:29"
+cheat427_enable = false
+
+cheat428_desc = "[第8格道具]续命瓶"
+cheat428_code = "FF0D9F:2A"
+cheat428_enable = false
+
+cheat429_desc = "[时空之门转移点]皇宫门前"
+cheat429_code = "FF2DDA:02+FF2DDB:00+FF2DDE:00+FF2DDF:01+FF2DE0:AE+FF2DE1:00"
+cheat429_enable = false
+
+cheat430_desc = "[时空之门转移点]街口"
+cheat430_code = "FF2DDA:01+FF2DDB:00+FF2DDE:00+FF2DDF:01+FF2DE0:AE+FF2DE1:00"
+cheat430_enable = false
+
+cheat431_desc = "[时空之门转移点]山腰城堡"
+cheat431_code = "FF2DDA:04+FF2DDB:00+FF2DDE:93+FF2DDF:03+FF2DE0:01+FF2DE1:01"
+cheat431_enable = false
+
+cheat432_desc = "[时空之门转移点]山腰小道"
+cheat432_code = "FF2DDA:0B+FF2DDB:00+FF2DDE:CA+FF2DDF:01+FF2DE0:91+FF2DE1:00"
+cheat432_enable = false
+
+cheat433_desc = "[时空之门转移点]沙滩"
+cheat433_code = "FF2DDA:0D+FF2DDB:00+FF2DDE:B2+FF2DDF:02+FF2DE0:18+FF2DE1:01"
+cheat433_enable = false
+
+cheat434_desc = "[时空之门转移点]老人面前"
+cheat434_code = "FF2DDA:19+FF2DDB:00+FF2DDE:C1+FF2DDF:00+FF2DE0:8A+FF2DE1:00"
+cheat434_enable = false
+
+cheat435_desc = "[时空之门转移点]山腰"
+cheat435_code = "FF2DDA:12+FF2DDB:00+FF2DDE:47+FF2DDF:03+FF2DE0:B8+FF2DE1:00"
+cheat435_enable = false
+
+cheat436_desc = "[时空之门转移点]水精灵殿堂"
+cheat436_code = "FF2DDA:00+FF2DDB:01+FF2DDE:A0+FF2DDF:00+FF2DE0:28+FF2DE1:01"
+cheat436_enable = false
+
+cheat437_desc = "[时空之门转移点]火精灵山洞"
+cheat437_code = "FF2DDA:00+FF2DDB:02+FF2DDE:A8+FF2DDF:00+FF2DE0:E0+FF2DE1:00"
+cheat437_enable = false
+
+cheat438_desc = "[时空之门转移点]敌人基地"
+cheat438_code = "FF2DDA:00+FF2DDB:03+FF2DDE:2B+FF2DDF:00+FF2DE0:D7+FF2DE1:01"
+cheat438_enable = false
+
+cheat439_desc = "[时空之门转移点]船上"
+cheat439_code = "FF2DDA:00+FF2DDB:04+FF2DDE:6E+FF2DDF:00+FF2DE0:E4+FF2DE1:00"
+cheat439_enable = false
+
+cheat440_desc = "[时空之门转移点]岩石山洞"
+cheat440_code = "FF2DDA:00+FF2DDB:05+FF2DDE:6F+FF2DDF:00+FF2DE0:6C+FF2DE1:00"
+cheat440_enable = false
+
+cheat441_desc = "[时空之门转移点]山腰城堡"
+cheat441_code = "FF2DDA:00+FF2DDB:06+FF2DDE:A0+FF2DDF:00+FF2DE0:E8+FF2DE1:00"
+cheat441_enable = false
+
+cheat442_desc = "[时空之门转移点]山顶"
+cheat442_code = "FF2DDA:00+FF2DDB:07+FF2DDE:44+FF2DDF:01+FF2DE0:75+FF2DE1:00"
+cheat442_enable = false
+
+cheat443_desc = "[时空之门转移点]影子山洞"
+cheat443_code = "FF2DDA:00+FF2DDB:08+FF2DDE:B8+FF2DDF:01+FF2DE0:50+FF2DE1:00"
+cheat443_enable = false
+
+cheat444_desc = "[时空之门转移点]皇宫底下"
+cheat444_code = "FF2DDA:00+FF2DDB:09+FF2DDE:6F+FF2DDF:00+FF2DE0:BF+FF2DE1:00"
+cheat444_enable = false
+
+cheat445_desc = "[时空之门转移点]草洞"
+cheat445_code = "FF2DDA:00+FF2DDB:0A+FF2DDE:00+FF2DDF:01+FF2DE0:E8+FF2DE1:00"
+cheat445_enable = false
+
+cheat446_desc = "[时空之门转移点]山腰洞穴"
+cheat446_code = "FF2DDA:00+FF2DDB:0B+FF2DDE:A2+FF2DDF:00+FF2DE0:9A+FF2DE1:01"
+cheat446_enable = false
+
+cheat447_desc = "[时空之门转移点]魔界"
+cheat447_code = "FF2DDA:00+FF2DDB:0C+FF2DDE:66+FF2DDF:01+FF2DE0:C6+FF2DE1:00"
+cheat447_enable = false
+
+cheat448_desc = "[时空之门转移点]大蝎子(守护水精灵)"
+cheat448_code = "FF2DDA:05+FF2DDB:01+FF2DDE:00+FF2DDF:01+FF2DE0:2A+FF2DE1:01"
+cheat448_enable = false
+
+cheat449_desc = "[时空之门转移点]恶魔(守护火精灵)"
+cheat449_code = "FF2DDA:05+FF2DDB:02+FF2DDE:00+FF2DDF:01+FF2DE0:21+FF2DE1:01"
+cheat449_enable = false
+
+cheat450_desc = "[时空之门转移点]岩石怪"
+cheat450_code = "FF2DDA:0A+FF2DDB:05+FF2DDE:BE+FF2DDF:00+FF2DE0:22+FF2DE1:01"
+cheat450_enable = false
+
+cheat451_desc = "[时空之门转移点]大蛇(守护时空之匙)"
+cheat451_code = "FF2DDA:04+FF2DDB:07+FF2DDE:14+FF2DDF:07+FF2DE0:B3+FF2DE1:00"
+cheat451_enable = false
+
+cheat452_desc = "[时空之门转移点]火龙(守护影子)"
+cheat452_code = "FF2DDA:04+FF2DDB:08+FF2DDE:00+FF2DDF:01+FF2DE0:ED+FF2DE1:01"
+cheat452_enable = false
+
+cheat453_desc = "[时空之门转移点]水精球魔法师(守护植物精灵)"
+cheat453_code = "FF2DDA:0F+FF2DDB:0A+FF2DDE:00+FF2DDF:01+FF2DE0:E8+FF2DE1:01"
+cheat453_enable = false
+
+cheat454_desc = "[时空之门转移点]异空间守护者(守护魔界入口)"
+cheat454_code = "FF2DDA:0F+FF2DDB:0B+FF2DDE:00+FF2DDF:01+FF2DE0:E5+FF2DE1:00"
+cheat454_enable = false
+
+cheat455_desc = "[时空之门转移点]姐姐"
+cheat455_code = "FF2DDA:14+FF2DDB:0C+FF2DDE:A0+FF2DDF:00+FF2DE0:FF+FF2DE1:00"
+cheat455_enable = false
+
+cheat456_desc = "[时空之门转移点]罪魁祸首"
+cheat456_code = "FF2DDA:15+FF2DDB:0C+FF2DDE:00+FF2DDF:01+FF2DE0:EC+FF2DE1:00"
+cheat456_enable = false
+
+cheat457_desc = "[时空之门转移点(60颗宝石地点)]1蓝(桥底)"
+cheat457_code = "FF2DDA:1A+FF2DDB:00+FF2DDE:67+FF2DDF:00+FF2DE0:97+FF2DE1:00"
+cheat457_enable = false
+
+cheat458_desc = "[时空之门转移点(60颗宝石地点)]2蓝(火精灵洞穴)"
+cheat458_code = "FF2DDA:04+FF2DDB:02+FF2DDE:2B+FF2DDF:00+FF2DE0:CE+FF2DE1:01"
+cheat458_enable = false
+
+cheat459_desc = "[时空之门转移点(60颗宝石地点)]3蓝(火精灵洞穴)"
+cheat459_code = "FF2DDA:01+FF2DDB:02+FF2DDE:7C+FF2DDF:00+FF2DE0:FC+FF2DE1:00"
+cheat459_enable = false
+
+cheat460_desc = "[时空之门转移点(60颗宝石地点)]4蓝"
+cheat460_code = "FF2DDA:09+FF2DDB:06+FF2DDE:A4+FF2DDF:00+FF2DE0:77+FF2DE1:00"
+cheat460_enable = false
+
+cheat461_desc = "[时空之门转移点(60颗宝石地点)]5蓝"
+cheat461_code = "FF2DDA:14+FF2DDB:00+FF2DDE:CB+FF2DDF:01+FF2DE0:23+FF2DE1:02"
+cheat461_enable = false
+
+cheat462_desc = "[时空之门转移点(60颗宝石地点)]6蓝(消灭敌人)"
+cheat462_code = "FF2DDA:01+FF2DDB:03+FF2DDE:81+FF2DDF:00+FF2DE0:9C+FF2DE1:00"
+cheat462_enable = false
+
+cheat463_desc = "[时空之门转移点(60颗宝石地点)]7蓝(消灭右边的敌人)"
+cheat463_code = "FF2DDA:02+FF2DDB:0B+FF2DDE:F0+FF2DDF:00+FF2DE0:D4+FF2DE1:02"
+cheat463_enable = false
+
+cheat464_desc = "[时空之门转移点(60颗宝石地点)]8蓝(同时触动两个机关)"
+cheat464_code = "FF2DDA:12+FF2DDB:0C+FF2DDE:4E+FF2DDF:00+FF2DE0:B5+FF2DE1:01"
+cheat464_enable = false
+
+cheat465_desc = "[时空之门转移点(60颗宝石地点)]1红(桥底)"
+cheat465_code = "FF2DDA:1C+FF2DDB:00+FF2DDE:67+FF2DDF:00+FF2DE0:97+FF2DE1:00"
+cheat465_enable = false
+
+cheat466_desc = "[时空之门转移点(60颗宝石地点)]2红"
+cheat466_code = "FF2DDA:00+FF2DDB:14+FF2DDE:70+FF2DDF:01+FF2DE0:27+FF2DE1:00+FF9FEE:6A+FF9FEF:08"
+cheat466_enable = false
+
+cheat467_desc = "[时空之门转移点(60颗宝石地点)]3红(仍炸弹到机关处)"
+cheat467_code = "FF2DDA:09+FF2DDB:05+FF2DDE:11+FF2DDF:01+FF2DE0:49+FF2DE1:00"
+cheat467_enable = false
+
+cheat468_desc = "[时空之门转移点(60颗宝石地点)]4红"
+cheat468_code = "FF2DDA:15+FF2DDB:00+FF2DDE:CD+FF2DDF:03+FF2DE0:19+FF2DE1:01"
+cheat468_enable = false
+
+cheat469_desc = "[时空之门转移点(60颗宝石地点)]5红"
+cheat469_code = "FF2DDA:02+FF2DDB:08+FF2DDE:56+FF2DDF:03+FF2DE0:28+FF2DE1:00"
+cheat469_enable = false
+
+cheat470_desc = "[时空之门转移点(60颗宝石地点)]6红"
+cheat470_code = "FF2DDA:04+FF2DDB:0B+FF2DDE:61+FF2DDF:01+FF2DE0:52+FF2DE1:00"
+cheat470_enable = false
+
+cheat471_desc = "[时空之门转移点(60颗宝石地点)]7红"
+cheat471_code = "FF2DDA:04+FF2DDB:0C+FF2DDE:9E+FF2DDF:00+FF2DE0:5E+FF2DE1:00"
+cheat471_enable = false
+
+cheat472_desc = "[时空之门转移点(60颗宝石地点)]8红(同时触动两个机关)"
+cheat472_code = "FF2DDA:12+FF2DDB:0A+FF2DDE:83+FF2DDF:00+FF2DE0:93+FF2DE1:00"
+cheat472_enable = false
+
+cheat473_desc = "[时空之门转移点(60颗宝石地点)]9红(消灭所有敌人)"
+cheat473_code = "FF2DDA:04+FF2DDB:03+FF2DDE:FF+FF2DDF:00+FF2DE0:B2+FF2DE1:00"
+cheat473_enable = false
+
+cheat474_desc = "[时空之门转移点(60颗宝石地点)]1黑(必须用影子扒过来)"
+cheat474_code = "FF2DDA:01+FF2DDB:11+FF2DDE:E4+FF2DDF:01+FF2DE0:50+FF2DE1:00"
+cheat474_enable = false
+
+cheat475_desc = "[时空之门转移点(60颗宝石地点)]2黑(同上)"
+cheat475_code = "FF2DDA:05+FF2DDB:09+FF2DDE:BB+FF2DDF:00+FF2DE0:9F+FF2DE1:00"
+cheat475_enable = false
+
+cheat476_desc = "[时空之门转移点(60颗宝石地点)]3黑(水精灵殿)"
+cheat476_code = "FF2DDA:02+FF2DDB:01+FF2DDE:27+FF2DDF:00+FF2DE0:61+FF2DE1:01"
+cheat476_enable = false
+
+cheat477_desc = "[时空之门转移点(60颗宝石地点)]4黑"
+cheat477_code = "FF2DDA:0C+FF2DDB:00+FF2DDE:C9+FF2DDF:01+FF2DE0:5B+FF2DE1:00"
+cheat477_enable = false
+
+cheat478_desc = "[时空之门转移点(60颗宝石地点)]5黑"
+cheat478_code = "FF2DDA:12+FF2DDB:00+FF2DDE:95+FF2DDF:03+FF2DE0:76+FF2DE1:01"
+cheat478_enable = false
+
+cheat479_desc = "[时空之门转移点(60颗宝石地点)]6黑"
+cheat479_code = "FF2DDA:18+FF2DDB:00+FF2DDE:60+FF2DDF:04+FF2DE0:B4+FF2DE1:00"
+cheat479_enable = false
+
+cheat480_desc = "[时空之门转移点(60颗宝石地点)]7黑(触动机关)"
+cheat480_code = "FF2DDA:0A+FF2DDB:0A+FF2DDE:A1+FF2DDF:00+FF2DE0:C8+FF2DE1:00"
+cheat480_enable = false
+
+cheat481_desc = "[时空之门转移点(60颗宝石地点)]8黑"
+cheat481_code = "FF2DDA:05+FF2DDB:00+FF2DDE:68+FF2DDF:02+FF2DE0:20+FF2DE1:00"
+cheat481_enable = false
+
+cheat482_desc = "[时空之门转移点(60颗宝石地点)]9黑"
+cheat482_code = "FF2DDA:0E+FF2DDB:00+FF2DDE:FC+FF2DDF:01+FF2DE0:ED+FF2DE1:01"
+cheat482_enable = false
+
+cheat483_desc = "[时空之门转移点(60颗宝石地点)]10黑"
+cheat483_code = "FF2DDA:0D+FF2DDB:00+FF2DDE:BC+FF2DDF:01+FF2DE0:5B+FF2DE1:00"
+cheat483_enable = false
+
+cheat484_desc = "[时空之门转移点(60颗宝石地点)]11黑"
+cheat484_code = "FF2DDA:09+FF2DDB:0B+FF2DDE:66+FF2DDF:01+FF2DE0:9D+FF2DE1:01"
+cheat484_enable = false
+
+cheat485_desc = "[时空之门转移点(60颗宝石地点)]12黑"
+cheat485_code = "FF2DDA:02+FF2DDB:0A+FF2DDE:C0+FF2DDF:01+FF2DE0:C2+FF2DE1:00"
+cheat485_enable = false
+
+cheat486_desc = "[时空之门转移点(60颗宝石地点)]1绿(消灭所有敌人)"
+cheat486_code = "FF2DDA:04+FF2DDB:09+FF2DDE:4F+FF2DDF:00+FF2DE0:A6+FF2DE1:00"
+cheat486_enable = false
+
+cheat487_desc = "[时空之门转移点(60颗宝石地点)]2绿"
+cheat487_code = "FF2DDA:09+FF2DDB:09+FF2DDE:F2+FF2DDF:00+FF2DE0:C0+FF2DE1:00"
+cheat487_enable = false
+
+cheat488_desc = "[时空之门转移点(60颗宝石地点)]3绿(触动机关)"
+cheat488_code = "FF2DDA:0C+FF2DDB:0C+FF2DDE:9C+FF2DDF:00+FF2DE0:6E+FF2DE1:00"
+cheat488_enable = false
+
+cheat489_desc = "[时空之门转移点(60颗宝石地点)]4绿(收复绿精灵后自动出现)"
+cheat489_code = "FF2DDA:1B+FF2DDB:00+FF2DDE:B7+FF2DDF:00+FF2DE0:8B+FF2DE1:00"
+cheat489_enable = false
+
+cheat490_desc = "[时空之门转移点(60颗宝石地点)]5绿"
+cheat490_code = "FF2DDA:10+FF2DDB:00+FF2DDE:0D+FF2DDF:03+FF2DE0:3E+FF2DE1:01"
+cheat490_enable = false
+
+cheat491_desc = "[时空之门转移点(60颗宝石地点)]6绿"
+cheat491_code = "FF2DDA:04+FF2DDB:00+FF2DDE:1D+FF2DDF:00+FF2DE0:61+FF2DE1:01"
+cheat491_enable = false
+
+cheat492_desc = "[时空之门转移点(60颗宝石地点)]7绿"
+cheat492_code = "FF2DDA:02+FF2DDB:0E+FF2DDE:00+FF2DDF:01+FF2DE0:CA+FF2DE1:01"
+cheat492_enable = false
+
+cheat493_desc = "[时空之门转移点(60颗宝石地点)]8绿(用影子扒过来)"
+cheat493_code = "FF2DDA:08+FF2DDB:0B+FF2DDE:F5+FF2DDF:00+FF2DE0:29+FF2DE1:01"
+cheat493_enable = false
+
+cheat494_desc = "[时空之门转移点(60颗宝石地点)]9绿(消灭所有敌人)"
+cheat494_code = "FF2DDA:0E+FF2DDB:0B+FF2DDE:B5+FF2DDF:00+FF2DE0:66+FF2DE1:00"
+cheat494_enable = false
+
+cheat495_desc = "[时空之门转移点(60颗宝石地点)]10绿(消灭爪虫)"
+cheat495_code = "FF2DDA:04+FF2DDB:09+FF2DDE:A7+FF2DDF:01+FF2DE0:BF+FF2DE1:00"
+cheat495_enable = false
+
+cheat496_desc = "[时空之门转移点(60颗宝石地点)]11绿"
+cheat496_code = "FF2DDA:11+FF2DDB:00+FF2DDE:4B+FF2DDF:01+FF2DE0:DE+FF2DE1:03"
+cheat496_enable = false
+
+cheat497_desc = "[时空之门转移点(60颗宝石地点)]蓝+FF红"
+cheat497_code = "FF2DDA:01+FF2DDB:05+FF2DDE:A1+FF2DDF:00+FF2DE0:87+FF2DE1:00"
+cheat497_enable = false
+
+cheat498_desc = "[时空之门转移点(60颗宝石地点)]蓝+FF红(同下)"
+cheat498_code = "FF2DDA:0E+FF2DDB:06+FF2DDE:9E+FF2DDF:00+FF2DE0:7A+FF2DE1:00"
+cheat498_enable = false
+
+cheat499_desc = "[时空之门转移点(60颗宝石地点)]蓝+FF红(消灭所有敌人)"
+cheat499_code = "FF2DDA:07+FF2DDB:05+FF2DDE:A1+FF2DDF:00+FF2DE0:7F+FF2DE1:00"
+cheat499_enable = false
+
+cheat500_desc = "[时空之门转移点(60颗宝石地点)]蓝+FF红(同上)"
+cheat500_code = "FF2DDA:00+FF2DDB:12+FF2DDE:9F+FF2DDF:00+FF2DE0:BA+FF2DE1:0E"
+cheat500_enable = false
+
+cheat501_desc = "[时空之门转移点(60颗宝石地点)]蓝+FF绿(密室)"
+cheat501_code = "FF2DDA:00+FF2DDB:13+FF2DDE:A2+FF2DDF:00+FF2DE0:8D+FF2DE1:00"
+cheat501_enable = false
+
+cheat502_desc = "[时空之门转移点(60颗宝石地点)]黑+FF绿(消灭所有敌人)"
+cheat502_code = "FF2DDA:13+FF2DDB:0C+FF2DDE:4C+FF2DDF:00+FF2DE0:4E+FF2DE1:00"
+cheat502_enable = false
+
+cheat503_desc = "[时空之门转移点(60颗宝石地点)]蓝+FF红+FF黑+FF绿(消灭所有敌人)"
+cheat503_code = "FF2DDA:03+FF2DDB:03+FF2DDE:60+FF2DDF:00+FF2DE0:DF+FF2DE1:00"
+cheat503_enable = false
+
+cheat504_desc = "[时空之门转移点(60颗宝石地点)]蓝(59层地狱)"
+cheat504_code = "FF2DDA:00+FF2DDB:10+FF2DDE:9E+FF2DDF:00+FF2DE0:87+FF2DE1:00+FF0E2A:3B"
+cheat504_enable = false
+
+cheat505_desc = "[时空之门转移点(60颗宝石地点)]红(69层地狱)"
+cheat505_code = "FF2DDA:00+FF2DDB:10+FF2DDE:9E+FF2DDF:00+FF2DE0:87+FF2DE1:00+FF0E2A:45"
+cheat505_enable = false
+
+cheat506_desc = "[时空之门转移点(60颗宝石地点)]黑(79层地狱)"
+cheat506_code = "FF2DDA:00+FF2DDB:10+FF2DDE:9E+FF2DDF:00+FF2DE0:87+FF2DE1:00+FF0E2A:4F"
+cheat506_enable = false
+
+cheat507_desc = "[时空之门转移点(60颗宝石地点)]绿(89层地狱)"
+cheat507_code = "FF2DDA:00+FF2DDB:10+FF2DDE:9E+FF2DDF:00+FF2DE0:87+FF2DE1:00+FF0E2A:59"
+cheat507_enable = false
+
+cheat508_desc = "[显示隐藏的时空门]ON"
+cheat508_code = "FF2DB6:02+FF2DC3:08"
+cheat508_enable = false
+
+cheat509_desc = "[HP.SP.KILL.RANK]MAX"
+cheat509_code = "FF1A70:E7+FF1A71:03+FF1A72:E7+FF1A73:03+FF1A74:E7+FF1A75:03+FF1A76:E7+FF1A77:03+FF1A78:E7+FF1A79:03+FF1A7A:00+FF1A7B:00+FF1A7C:FF+FF1A7D:FF+FF1A7E:00"
+cheat509_enable = false
+
+cheat510_desc = "[钥匙,精灵(升级),手饰]MAX"
+cheat510_code = "FF0DB2:02+FF0DB3:02+FF0DB4:02+FF0DB5:02+FF0DB6:63+FF0DB7:63+FF0DB8:63+FF0DB9:63+FF0DBB:0F+FF0D7B:0F"
+cheat510_enable = false
+
+cheat511_desc = "[通关过程]开始旅程"
+cheat511_code = "FF0DBC:00+FF0DBD:00+FF0DBE:00+FF0DBF:00+FF0DC0:00+FF0DC1:00+FF0DC2:00+FF0DC3:00+FF0DC4:00+FF0DC5:00+FF0DC6:00+FF0DC7:00+FF0DC8:00+FF0DC9:00+FF0DCA:00+FF0DCB:00+FF0DCC:00+FF0DCD:00+FF0DCE:00+FF0DCF:00"
+cheat511_enable = false
+
+cheat512_desc = "[通关过程]去王宫"
+cheat512_code = "FF0DBD:01"
+cheat512_enable = false
+
+cheat513_desc = "[通关过程]找水之精灵"
+cheat513_code = "FF0DBD:01+FF0DBE:01"
+cheat513_enable = false
+
+cheat514_desc = "[通关过程]与水之精灵签约"
+cheat514_code = "FF0DBC:10+FF0DBD:0F+FF0DBE:03+FF0DC3:20+FF0DC4:00+FF0DC5:02"
+cheat514_enable = false
+
+cheat515_desc = "[通关过程]找火之精灵"
+cheat515_code = "FF0DBC:10+FF0DBD:0F+FF0DBE:03+FF0DC3:20+FF0DC4:00+FF0DC5:12"
+cheat515_enable = false
+
+cheat516_desc = "[通关过程]与火之精灵签约"
+cheat516_code = "FF0DBC:10+FF0DBD:0F+FF0DBE:0B+FF0DC0:50+FF0DC1:00+FF0DC2:03+FF0DC3:20+FF0DC4:00+FF0DC5:1A"
+cheat516_enable = false
+
+cheat517_desc = "[通关过程]去船那边"
+cheat517_code = "FF0DBC:10+FF0DBD:0F+FF0DBE:0B+FF0DC0:50+FF0DC1:00+FF0DC2:03+FF0DC3:20+FF0DC4:00+FF0DC5:3A+FF0DC6:00+FF0DC7:00+FF0DC8:00+FF0DC9:00+FF0DCA:00+FF0DCB:80"
+cheat517_enable = false
+
+cheat518_desc = "[通关过程]在船上"
+cheat518_code = "FF0DBC:10+FF0DBD:4F+FF0DBE:0B+FF0DC0:50+FF0DC1:00+FF0DC2:0B+FF0DC3:20+FF0DC4:00+FF0DC5:3A+FF0DC6:00+FF0DC7:00+FF0DC8:00+FF0DC9:00+FF0DCA:00+FF0DCB:80+FF0DCC:80"
+cheat518_enable = false
+
+cheat519_desc = "[通关过程]进山洞"
+cheat519_code = "FF0DBC:10+FF0DBD:4F+FF0DBE:0B+FF0DC0:50+FF0DC1:00+FF0DC2:0B+FF0DC3:20+FF0DC4:00+FF0DC5:3E+FF0DC6:00+FF0DC7:80+FF0DC8:00+FF0DC9:00+FF0DCA:00+FF0DCB:80+FF0DCC:80"
+cheat519_enable = false
+
+cheat520_desc = "[通关过程]去山腰城堡"
+cheat520_code = "FF0DBC:10+FF0DBD:4F+FF0DBE:0B+FF0DC0:54+FF0DC1:80+FF0DC2:0B+FF0DC3:28+FF0DC4:00+FF0DC5:3E+FF0DC6:00+FF0DC7:80+FF0DC8:00+FF0DC9:00+FF0DCA:00+FF0DCB:80+FF0DCC:80"
+cheat520_enable = false
+
+cheat521_desc = "[通关过程]上山顶"
+cheat521_code = "FF0DBC:1C+FF0DBD:CF+FF0DBE:0B+FF0DC0:54+FF0DC1:80+FF0DC2:0B+FF0DC3:28+FF0DC4:00+FF0DC5:3E+FF0DC6:80+FF0DC7:80+FF0DC8:00+FF0DC9:00+FF0DCA:00+FF0DCB:80+FF0DCC:80"
+cheat521_enable = false
+
+cheat522_desc = "[通关过程]找暗之精灵"
+cheat522_code = "FF0DBC:1C+FF0DBD:CF+FF0DBE:0B+FF0DC0:54+FF0DC1:80+FF0DC2:2B+FF0DC3:28+FF0DC4:00+FF0DC5:3F+FF0DC6:80+FF0DC7:80+FF0DC8:00+FF0DC9:00+FF0DCA:00+FF0DCB:80+FF0DCC:80"
+cheat522_enable = false
+
+cheat523_desc = "[通关过程]与暗之精灵签约"
+cheat523_code = "FF0DBC:1C+FF0DBD:CF+FF0DBE:0B+FF0DBF:80+FF0DC0:54+FF0DC1:80+FF0DC2:AF+FF0DC3:28+FF0DC4:40+FF0DC5:3F+FF0DC6:A0+FF0DC7:80+FF0DC8:00+FF0DC9:80+FF0DCA:80"
+cheat523_enable = false
+
+cheat524_desc = "[通关过程]叛变"
+cheat524_code = "FF0DBC:1C+FF0DBD:CF+FF0DBE:0B+FF0DBF:80+FF0DC0:54+FF0DC1:80+FF0DC2:AF+FF0DC3:28+FF0DC4:4C+FF0DC5:3F+FF0DC6:A0+FF0DC7:80+FF0DC8:00+FF0DC9:00+FF0DCA:00+FF0DCB:80+FF0DCC:80"
+cheat524_enable = false
+
+cheat525_desc = "[通关过程]找地之精灵"
+cheat525_code = "FF0DBC:1C+FF0DBD:CF+FF0DBE:0B+FF0DBF:80+FF0DC0:54+FF0DC1:80+FF0DC2:AF+FF0DC3:28+FF0DC4:4C+FF0DC5:3F+FF0DC6:A1+FF0DC7:80+FF0DC8:00+FF0DC9:00+FF0DCA:00+FF0DCB:80+FF0DCC:80 "
+cheat525_enable = false
+
+cheat526_desc = "[通关过程]与地之精灵签约"
+cheat526_code = "FF0DBC:3C+FF0DBD:CF+FF0DBE:0B+FF0DBF:BC+FF0DC0:54+FF0DC1:80+FF0DC2:AF+FF0DC3:28+FF0DC4:EC+FF0DC5:3F+FF0DC6:A1+FF0DC7:80+FF0DC8:00+FF0DC9:00+FF0DCA:00+FF0DCB:80+FF0DCC:80 "
+cheat526_enable = false
+
+cheat527_desc = "[通关过程]找公主"
+cheat527_code = "FF0DBC:3C+FF0DBD:CF+FF0DBE:1F+FF0DBF:BC+FF0DC0:54+FF0DC1:82+FF0DC2:AF+FF0DC3:68+FF0DC4:EE+FF0DC5:3F+FF0DC6:A1+FF0DC7:99+FF0DC8:00+FF0DC9:00+FF0DCA:00+FF0DCB:80+FF0DCC:80+FF0DCD:00+FF0DCE:00+FF0DCF:40"
+cheat527_enable = false
+
+cheat528_desc = "[通关过程]魔界入口"
+cheat528_code = "FF0DBC:3C+FF0DBD:CF+FF0DBE:1F+FF0DBF:BC+FF0DC0:54+FF0DC1:82+FF0DC2:AF+FF0DC3:68+FF0DC4:EE+FF0DC5:3F+FF0DC6:A3+FF0DC7:99+FF0DC8:00+FF0DC9:00+FF0DCA:00+FF0DCB:C0+FF0DCC:80+FF0DCD:00+FF0DCE:00+FF0DCF:40"
+cheat528_enable = false
+
+cheat529_desc = "[通关过程]可以入魔界"
+cheat529_code = "FF0DBC:3C+FF0DBD:CF+FF0DBE:1F+FF0DBF:BC+FF0DC0:54+FF0DC1:82+FF0DC2:AF+FF0DC3:68+FF0DC4:EE+FF0DC5:3F+FF0DC6:A3+FF0DC7:99+FF0DC8:00+FF0DC9:00+FF0DCA:00+FF0DCB:C2+FF0DCC:80+FF0DCD:00+FF0DCE:00+FF0DCF:60"
+cheat529_enable = false
+
+cheat530_desc = "[通关过程]自由出入魔界"
+cheat530_code = "FF0DBC:3C+FF0DBD:CF+FF0DBE:1F+FF0DBF:BC+FF0DC0:54+FF0DC1:82+FF0DC2:AF+FF0DC3:68+FF0DC4:EE+FF0DC5:3F+FF0DC6:A3+FF0DC7:99+FF0DC8:C0+FF0DC9:00+FF0DCA:02+FF0DCB:C2+FF0DCC:80+FF0DCD:00+FF0DCE:00+FF0DCF:62"
+cheat530_enable = false
+
+cheat531_desc = "[其他]透明"
+cheat531_code = "FF1A21:18"
+cheat531_enable = false
+
+cheat532_desc = "[其他]无地形限制"
+cheat532_code = "FF1A21:19"
+cheat532_enable = false
+

@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "当您完成关卡时，#Infinite Energy将停用"
+cheat0_code = "800876CA 270F+8012DD08 270F+801317A8 270F+801349FC 270F+8018C4EC 270F"
+cheat0_enable = false
+
+

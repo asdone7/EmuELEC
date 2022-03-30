@@ -1,0 +1,174 @@
+cheats = 43
+
+cheat0_desc = "[比赛地点]拳社"
+cheat0_code = "0644:0A"
+cheat0_enable = false
+
+cheat1_desc = "[比赛地点]发电厂"
+cheat1_code = "0644:0B"
+cheat1_enable = false
+
+cheat2_desc = "[比赛地点]工厂"
+cheat2_code = "0644:0C"
+cheat2_enable = false
+
+cheat3_desc = "[比赛地点]地雷区"
+cheat3_code = "0644:0D"
+cheat3_enable = false
+
+cheat4_desc = "[比赛地点]冰库"
+cheat4_code = "0644:04"
+cheat4_enable = false
+
+cheat5_desc = "[比赛地点]下水道"
+cheat5_code = "0644:09"
+cheat5_enable = false
+
+cheat6_desc = "[比赛地点]木材厂"
+cheat6_code = "0644:0E"
+cheat6_enable = false
+
+cheat7_desc = "[比赛地点]圣地"
+cheat7_code = "0644:13"
+cheat7_enable = false
+
+cheat8_desc = "[比赛地点]直接通关"
+cheat8_code = "0644:13+065A:10"
+cheat8_enable = false
+
+cheat9_desc = "[颜色]绿色"
+cheat9_code = "0305:15"
+cheat9_enable = false
+
+cheat10_desc = "[颜色]白色"
+cheat10_code = "0305:2C"
+cheat10_enable = false
+
+cheat11_desc = "[颜色]黑客"
+cheat11_code = "0305:00"
+cheat11_enable = false
+
+cheat12_desc = "[老虎]1P"
+cheat12_code = "0401:04+0409:01"
+cheat12_enable = false
+
+cheat13_desc = "[老虎]2P"
+cheat13_code = "0402:04+040A:00"
+cheat13_enable = false
+
+cheat14_desc = "[老虎]3P"
+cheat14_code = "0403:04+040B:02"
+cheat14_enable = false
+
+cheat15_desc = "[老虎]4P"
+cheat15_code = "0404:04+040C:03"
+cheat15_enable = false
+
+cheat16_desc = "[老虎]1P和2P"
+cheat16_code = "0401:04+0402:04+0405:05+0406:05+0409:01+040A:00"
+cheat16_enable = false
+
+cheat17_desc = "[老虎]3P和4P"
+cheat17_code = "0403:04+0404:04+0407:05+0408:05+040B:01+040C:00"
+cheat17_enable = false
+
+cheat18_desc = "[老虎]全部"
+cheat18_code = "0401:04+0402:04+0403:04+0404:04+0405:05+0406:05+0407:05+0408:05+0409:01+040A:00+040B:02+040C:03"
+cheat18_enable = false
+
+cheat19_desc = "[HP]1P"
+cheat19_code = "04C2:FF"
+cheat19_enable = false
+
+cheat20_desc = "[HP]2P"
+cheat20_code = "04C3:FF"
+cheat20_enable = false
+
+cheat21_desc = "[HP]3P"
+cheat21_code = "04C4:FF"
+cheat21_enable = false
+
+cheat22_desc = "[HP]4P"
+cheat22_code = "04C5:FF"
+cheat22_enable = false
+
+cheat23_desc = "[HP]12P"
+cheat23_code = "04C2:FF+04C3:FF"
+cheat23_enable = false
+
+cheat24_desc = "[HP]34P"
+cheat24_code = "04C4:FF+04C5:FF"
+cheat24_enable = false
+
+cheat25_desc = "[HP]全部满血"
+cheat25_code = "04C2:FF+04C3:FF+04C4:FF+04C5:FF"
+cheat25_enable = false
+
+cheat26_desc = "[HP]全部空血"
+cheat26_code = "04C2:00+04C3:00+04C4:00+04C5:00"
+cheat26_enable = false
+
+cheat27_desc = "[级别]1P"
+cheat27_code = "05B2:1D"
+cheat27_enable = false
+
+cheat28_desc = "[级别]2P"
+cheat28_code = "05BE:1D"
+cheat28_enable = false
+
+cheat29_desc = "[级别]3P"
+cheat29_code = "05CA:1D"
+cheat29_enable = false
+
+cheat30_desc = "[级别]4P"
+cheat30_code = "05D6:1D"
+cheat30_enable = false
+
+cheat31_desc = "[级别]A队"
+cheat31_code = "05B2:1D+05BE:1D"
+cheat31_enable = false
+
+cheat32_desc = "[级别]B队"
+cheat32_code = "05CA:1D+05D6:1D"
+cheat32_enable = false
+
+cheat33_desc = "[级别]AB队"
+cheat33_code = "05B2:1D+05BE:1D+05CA:1D+05D6:1D"
+cheat33_enable = false
+
+cheat34_desc = "[快手快脚.招式]1P"
+cheat34_code = "0605:FD+0609:FF"
+cheat34_enable = false
+
+cheat35_desc = "[快手快脚.招式]2P"
+cheat35_code = "0606:FD+060A:FF"
+cheat35_enable = false
+
+cheat36_desc = "[快手快脚.招式]3P"
+cheat36_code = "0607:FD+060B:FF"
+cheat36_enable = false
+
+cheat37_desc = "[快手快脚.招式]4P"
+cheat37_code = "0608:FD+060C:FF"
+cheat37_enable = false
+
+cheat38_desc = "[快手快脚.招式]左边"
+cheat38_code = "0605:FD+0606:FD+0609:FF+060A:FF"
+cheat38_enable = false
+
+cheat39_desc = "[快手快脚.招式]右边"
+cheat39_code = "0607:FD+0608:FD+060B:FF+060C:FF"
+cheat39_enable = false
+
+cheat40_desc = "[快手快脚.招式]大家"
+cheat40_code = "0605:FD+0606:FD+0607:FD+0608:FD+0609:FF+060A:FF+060B:FF+060C:FF"
+cheat40_enable = false
+
+cheat41_desc = "[GameInFo]Name"
+cheat41_code = ""
+cheat41_enable = false
+
+cheat42_desc = "[GameInFo]System"
+cheat42_code = ""
+cheat42_enable = false
+

@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[      ]ON"
+cheat0_code = "00BE:09"
+cheat0_enable = false
+
+cheat1_desc = "[    ֵ]ON"
+cheat1_code = "00B7:08"
+cheat1_enable = false
+
+cheat2_desc = "[     ӵ ]ON"
+cheat2_code = "00B8:63"
+cheat2_enable = false
+
+cheat3_desc = "[͸  ]OFF"
+cheat3_code = "00CC:00"
+cheat3_enable = false
+
+cheat4_desc = "[͸  ]ON"
+cheat4_code = "00CC:BA"
+cheat4_enable = false
+

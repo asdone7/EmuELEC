@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#无限金钱"
+cheat0_code = "800DAD40 FFFF"
+cheat0_enable = false
+
+cheat1_desc = "#Max。现金"
+cheat1_code = "800DCE04 FFFF+800DCE06 7FFF"
+cheat1_enable = false
+
+

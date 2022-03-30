@@ -1,0 +1,19 @@
+cheats = 4
+
+cheat0_desc = "体力"
+cheat0_code = "0201767E 00000064"
+cheat0_enable = false
+
+cheat1_desc = "タフ"
+cheat1_code = "02017686 00000064"
+cheat1_enable = false
+
+cheat2_desc = "基础能力（筋力、技术、变化球）"
+cheat2_code = "02016BA6 000000E7+02016BA7 00000003+02016BA8 000000E7+02016BA9 00000003+02016BAA 000000E7+02016BAB 00000003+02016BAC 000000E7+02016BAD 00000003"
+cheat2_enable = false
+
+cheat3_desc = "活力（不懂日语蒙的，就是体力边上的那个）"
+cheat3_code = "02016B9E 0000000A"
+cheat3_enable = false
+
+

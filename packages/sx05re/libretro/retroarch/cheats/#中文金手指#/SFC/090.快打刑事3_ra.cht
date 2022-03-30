@@ -1,0 +1,94 @@
+cheats = 23
+
+cheat0_desc = "[1p血槽]ON"
+cheat0_code = "7E06944F+7E06BA4F"
+cheat0_enable = false
+
+cheat1_desc = "[无敌1P]ON"
+cheat1_code = "7E06CE8E"
+cheat1_enable = false
+
+cheat2_desc = "[1P全屏必杀可使用次数]ON"
+cheat2_code = "7E06DB02"
+cheat2_enable = false
+
+cheat3_desc = "[1p使用隐藏人物机器人(在选人画面使用)]ON"
+cheat3_code = "7E168005"
+cheat3_enable = false
+
+cheat4_desc = "[2p血槽]ON"
+cheat4_code = "7E07944F+7E07BA4F"
+cheat4_enable = false
+
+cheat5_desc = "[2P全屏必杀可使用次数]ON"
+cheat5_code = "7E07DB02"
+cheat5_enable = false
+
+cheat6_desc = "[2P使用隐藏人物机器人(在选人画面使用)]ON"
+cheat6_code = "7E16A005"
+cheat6_enable = false
+
+cheat7_desc = "[一击毙敌]锁"
+cheat7_code = "7E089400+7E099400+7E0A9400"
+cheat7_enable = false
+
+cheat8_desc = "[游戏中替换角色]1#"
+cheat8_code = "7E062704"
+cheat8_enable = false
+
+cheat9_desc = "[游戏中替换角色]2#"
+cheat9_code = "7E062700"
+cheat9_enable = false
+
+cheat10_desc = "[游戏中替换角色]3#"
+cheat10_code = "7E062710"
+cheat10_enable = false
+
+cheat11_desc = "[游戏中替换角色]4#"
+cheat11_code = "7E062708"
+cheat11_enable = false
+
+cheat12_desc = "[游戏中替换角色]隐藏A"
+cheat12_code = "7E062714"
+cheat12_enable = false
+
+cheat13_desc = "[游戏中替换角色]隐藏B"
+cheat13_code = "7E06270C"
+cheat13_enable = false
+
+cheat14_desc = "[游戏中替换角色]敌人1"
+cheat14_code = "7E062716"
+cheat14_enable = false
+
+cheat15_desc = "[游戏中替换角色]敌人2"
+cheat15_code = "7E062718"
+cheat15_enable = false
+
+cheat16_desc = "[游戏中替换角色]敌人3"
+cheat16_code = "7E06271C"
+cheat16_enable = false
+
+cheat17_desc = "[游戏中替换角色]敌人4"
+cheat17_code = "7E062720"
+cheat17_enable = false
+
+cheat18_desc = "[游戏中替换角色]敌人5"
+cheat18_code = "7E062724"
+cheat18_enable = false
+
+cheat19_desc = "[游戏中替换角色]敌人6"
+cheat19_code = "7E062726"
+cheat19_enable = false
+
+cheat20_desc = "[游戏中替换角色]敌人7"
+cheat20_code = "7E062728"
+cheat20_enable = false
+
+cheat21_desc = "[游戏中替换角色]敌人8"
+cheat21_code = "7E06272E"
+cheat21_enable = false
+
+cheat22_desc = "[游戏中替换角色]敌人9"
+cheat22_code = "7E062734"
+cheat22_enable = false
+

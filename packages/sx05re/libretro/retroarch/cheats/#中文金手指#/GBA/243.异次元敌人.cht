@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "金钱无限"
+cheat0_code = "02004334 0000003F+02004335 00000042+02004336 0000000F"
+cheat0_enable = false
+
+cheat1_desc = "主角HP/PP无限"
+cheat1_code = "02002E6C 000000E7+02002E6D 00000003+02002E70 000000E7+02002E71 00000003"
+cheat1_enable = false
+
+cheat2_desc = "主角EP无限"
+cheat2_code = "02003090 0000000F+02003091 00000027"
+cheat2_enable = false
+
+cheat3_desc = "战斗后经验值 100"
+cheat3_code = "0204382C 00000064"
+cheat3_enable = false
+
+cheat4_desc = "战斗后经验值 1000"
+cheat4_code = "0204382C 000000E8+0204382D 00000003"
+cheat4_enable = false
+
+cheat5_desc = "战斗后经验值 10000"
+cheat5_code = "0204382C 00000010+0204382D 00000027"
+cheat5_enable = false
+
+

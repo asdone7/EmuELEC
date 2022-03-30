@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[体力不减]On"
+cheat0_code = "1F0E0C:12"
+cheat0_enable = false
+
+cheat1_desc = "[无敌]On"
+cheat1_code = "1F1B48:00"
+cheat1_enable = false
+

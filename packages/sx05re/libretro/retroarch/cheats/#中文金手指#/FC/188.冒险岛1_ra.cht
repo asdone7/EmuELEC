@@ -1,0 +1,106 @@
+cheats = 26
+
+cheat0_desc = "[无限时间]ON"
+cheat0_code = "0076:10"
+cheat0_enable = false
+
+cheat1_desc = "[生命数]ON"
+cheat1_code = "003F:09"
+cheat1_enable = false
+
+cheat2_desc = "[武器]斧头"
+cheat2_code = "006D:01"
+cheat2_enable = false
+
+cheat3_desc = "[武器]超强斧头"
+cheat3_code = "006D:02"
+cheat3_enable = false
+
+cheat4_desc = "[状态]正常"
+cheat4_code = "006E:00"
+cheat4_enable = false
+
+cheat5_desc = "[状态]划板"
+cheat5_code = "006E:01"
+cheat5_enable = false
+
+cheat6_desc = "[无敌]ON"
+cheat6_code = "0075:01"
+cheat6_enable = false
+
+cheat7_desc = "[选择关卡-大关]第一大关"
+cheat7_code = "0037:00"
+cheat7_enable = false
+
+cheat8_desc = "[选择关卡-大关]第二大关"
+cheat8_code = "0037:01"
+cheat8_enable = false
+
+cheat9_desc = "[选择关卡-大关]第三大关"
+cheat9_code = "0037:02"
+cheat9_enable = false
+
+cheat10_desc = "[选择关卡-大关]第四大关"
+cheat10_code = "0037:03"
+cheat10_enable = false
+
+cheat11_desc = "[选择关卡-大关]第五大关"
+cheat11_code = "0037:04"
+cheat11_enable = false
+
+cheat12_desc = "[选择关卡-小关]第一小关"
+cheat12_code = "0038:00"
+cheat12_enable = false
+
+cheat13_desc = "[选择关卡-小关]第二小关"
+cheat13_code = "0038:01"
+cheat13_enable = false
+
+cheat14_desc = "[选择关卡-小关]第三小关"
+cheat14_code = "0038:02"
+cheat14_enable = false
+
+cheat15_desc = "[选择关卡-小关]第四小关"
+cheat15_code = "0038:03"
+cheat15_enable = false
+
+cheat16_desc = "[选择关卡-小关]第五小关"
+cheat16_code = "0038:04"
+cheat16_enable = false
+
+cheat17_desc = "[选择关卡-小关]第六小关"
+cheat17_code = "0038:05"
+cheat17_enable = false
+
+cheat18_desc = "[选择关卡-小关]第七小关"
+cheat18_code = "0038:06"
+cheat18_enable = false
+
+cheat19_desc = "[选择关卡-小关]第八小关"
+cheat19_code = "0038:07"
+cheat19_enable = false
+
+cheat20_desc = "[选择关卡-小关]第九小关"
+cheat20_code = "0038:08"
+cheat20_enable = false
+
+cheat21_desc = "[选择关卡-小关]第十小关"
+cheat21_code = "0038:09"
+cheat21_enable = false
+
+cheat22_desc = "[选择关卡-小节]第一小节"
+cheat22_code = "0039:00"
+cheat22_enable = false
+
+cheat23_desc = "[选择关卡-小节]第二小节"
+cheat23_code = "0039:01"
+cheat23_enable = false
+
+cheat24_desc = "[选择关卡-小节]第三小节"
+cheat24_code = "0039:02"
+cheat24_enable = false
+
+cheat25_desc = "[选择关卡-小节]第四小节"
+cheat25_code = "0039:02"
+cheat25_enable = false
+

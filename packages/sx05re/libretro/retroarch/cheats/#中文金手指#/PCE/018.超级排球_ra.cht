@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[发球权]我方"
+cheat0_code = "1F1331:00"
+cheat0_enable = false
+
+cheat1_desc = "[发球权]电脑"
+cheat1_code = "1F1331:01"
+cheat1_enable = false
+

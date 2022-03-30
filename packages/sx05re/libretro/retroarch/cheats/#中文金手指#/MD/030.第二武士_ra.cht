@@ -1,0 +1,254 @@
+cheats = 63
+
+cheat0_desc = "[血槽不减]第一关.山丘"
+cheat0_code = "FF5536:64"
+cheat0_enable = false
+
+cheat1_desc = "[血槽不减]第二关.岩浆"
+cheat1_code = "FF87E6:64"
+cheat1_enable = false
+
+cheat2_desc = "[血槽不减]第三关.上升"
+cheat2_code = "FFCD36:64"
+cheat2_enable = false
+
+cheat3_desc = "[血槽不减]第四关.骑恐龙"
+cheat3_code = "FF5356:64"
+cheat3_enable = false
+
+cheat4_desc = "[血槽不减]第五关.岩洞"
+cheat4_code = "FF505E:64"
+cheat4_enable = false
+
+cheat5_desc = "[血槽不减]第六关.丛林"
+cheat5_code = "FF55FE:64"
+cheat5_enable = false
+
+cheat6_desc = "[血槽不减]第七关.河流"
+cheat6_code = "FF58CE:64"
+cheat6_enable = false
+
+cheat7_desc = "[血槽不减]-------BOSS"
+cheat7_code = "FF6AC6:64"
+cheat7_enable = false
+
+cheat8_desc = "[血槽不减]最终关-1阶段"
+cheat8_code = "FF5A16:64"
+cheat8_enable = false
+
+cheat9_desc = "[血槽不减]-------2阶段"
+cheat9_code = "FF7196:64"
+cheat9_enable = false
+
+cheat10_desc = "[血槽不减]-------3阶段"
+cheat10_code = "FFA31E:64"
+cheat10_enable = false
+
+cheat11_desc = "[血槽不减]-------4阶段"
+cheat11_code = "FFAAFE:64"
+cheat11_enable = false
+
+cheat12_desc = "[血槽不减]-------5阶段"
+cheat12_code = "FF8726:64"
+cheat12_enable = false
+
+cheat13_desc = "[血槽不减]隐藏关-1阶段"
+cheat13_code = "FF828E:64"
+cheat13_enable = false
+
+cheat14_desc = "[血槽不减]-------岩石BOSS"
+cheat14_code = "FFC94E:64"
+cheat14_enable = false
+
+cheat15_desc = "[血槽不减]-------3阶段"
+cheat15_code = "FF718E:64"
+cheat15_enable = false
+
+cheat16_desc = "[血槽不减]-------魔鬼BOSS"
+cheat16_code = "FF80EE:64"
+cheat16_enable = false
+
+cheat17_desc = "[无限刀剑]第一关.山丘"
+cheat17_code = "FF55A6:63+FF55BC:63+FF55BD:03"
+cheat17_enable = false
+
+cheat18_desc = "[无限刀剑]第二关.岩浆"
+cheat18_code = "FF8856:63+FF886C:63+FF886D:03"
+cheat18_enable = false
+
+cheat19_desc = "[无限刀剑]第三关.上升"
+cheat19_code = "FFCDA6:63+FFCDBC:63+FFCDBD:03"
+cheat19_enable = false
+
+cheat20_desc = "[无限刀剑]第五关.岩洞"
+cheat20_code = "FF50CE:63+FF50E4:63+FF50E5:03"
+cheat20_enable = false
+
+cheat21_desc = "[无限刀剑]第六关.丛林"
+cheat21_code = "FF566E:63+FF5684:63+FF5685:03"
+cheat21_enable = false
+
+cheat22_desc = "[无限刀剑]第七关.河流"
+cheat22_code = "FF593E:63+FF5954:63+FF5955:03"
+cheat22_enable = false
+
+cheat23_desc = "[无限刀剑]第七关.BOSS"
+cheat23_code = "FF6B36:63+FF6B4C:63+FF6B4D:03"
+cheat23_enable = false
+
+cheat24_desc = "[无限刀剑]最终关1阶段"
+cheat24_code = "FF5A86:63+FF5A9C:63+FF5A9D:03"
+cheat24_enable = false
+
+cheat25_desc = "[无限刀剑]------2阶段"
+cheat25_code = "FF7206:63+FF721C:63+FF721D:03"
+cheat25_enable = false
+
+cheat26_desc = "[无限刀剑]------3阶段"
+cheat26_code = "FFA38E:63+FFA3A4:63+FFA3A5:03"
+cheat26_enable = false
+
+cheat27_desc = "[无敌]第一关.山丘"
+cheat27_code = "FF55AA:45+FF55AB:00+FF55AC:19"
+cheat27_enable = false
+
+cheat28_desc = "[无敌]第二关.岩浆"
+cheat28_code = "FF885A:45+FF885B:00+FF885C:19"
+cheat28_enable = false
+
+cheat29_desc = "[无敌]第三关.上升"
+cheat29_code = "FFCDAA:45+FFCDAB:00+FFCDAC:19"
+cheat29_enable = false
+
+cheat30_desc = "[无敌]第四关.骑恐龙"
+cheat30_code = "FF529D:00"
+cheat30_enable = false
+
+cheat31_desc = "[无敌]第五关.岩洞"
+cheat31_code = "FF50D2:45+FF50D3:00+FF50D4:19"
+cheat31_enable = false
+
+cheat32_desc = "[无敌]第六关.丛林"
+cheat32_code = "FF5672:45+FF5673:00+FF5674:19"
+cheat32_enable = false
+
+cheat33_desc = "[无敌]第七关.河流"
+cheat33_code = "FF5942:45+FF5943:00+FF5944:19"
+cheat33_enable = false
+
+cheat34_desc = "[无敌]------.BOSS"
+cheat34_code = "FF6B3A:45+FF6B3B:00+FF6B3C:19"
+cheat34_enable = false
+
+cheat35_desc = "[无敌]最终关1阶段"
+cheat35_code = "FF5A8A:45+FF5A8B:00+FF5A8C:19"
+cheat35_enable = false
+
+cheat36_desc = "[无敌]------2阶段"
+cheat36_code = "FF720A:45+FF720B:00+FF720C:19"
+cheat36_enable = false
+
+cheat37_desc = "[无敌]------3阶段"
+cheat37_code = "FFA392:45+FFA393:00+FFA394:19"
+cheat37_enable = false
+
+cheat38_desc = "[无敌]------4阶段"
+cheat38_code = "FFAB72:45+FFAB73:00+FFAB74:19"
+cheat38_enable = false
+
+cheat39_desc = "[无敌]------5阶段"
+cheat39_code = "FF879A:45+FF879B:00+FF879C:19"
+cheat39_enable = false
+
+cheat40_desc = "[跳关/慎用]2"
+cheat40_code = "FF010C:01"
+cheat40_enable = false
+
+cheat41_desc = "[跳关/慎用]3"
+cheat41_code = "FF010C:02"
+cheat41_enable = false
+
+cheat42_desc = "[跳关/慎用]4"
+cheat42_code = "FF010C:03"
+cheat42_enable = false
+
+cheat43_desc = "[跳关/慎用]5"
+cheat43_code = "FF010C:04"
+cheat43_enable = false
+
+cheat44_desc = "[跳关/慎用]6"
+cheat44_code = "FF010C:05"
+cheat44_enable = false
+
+cheat45_desc = "[跳关/慎用]7"
+cheat45_code = "FF010C:06"
+cheat45_enable = false
+
+cheat46_desc = "[跳关/慎用]8"
+cheat46_code = "FF010C:07"
+cheat46_enable = false
+
+cheat47_desc = "[跳关/慎用]9"
+cheat47_code = "FF010C:08"
+cheat47_enable = false
+
+cheat48_desc = "[跳关/慎用]10"
+cheat48_code = "FF010C:09"
+cheat48_enable = false
+
+cheat49_desc = "[跳关/慎用]11"
+cheat49_code = "FF010C:0A"
+cheat49_enable = false
+
+cheat50_desc = "[跳关/慎用]12"
+cheat50_code = "FF010C:0B"
+cheat50_enable = false
+
+cheat51_desc = "[跳关/慎用]13"
+cheat51_code = "FF010C:0C"
+cheat51_enable = false
+
+cheat52_desc = "[跳关/慎用]14"
+cheat52_code = "FF010C:0D"
+cheat52_enable = false
+
+cheat53_desc = "[跳关/慎用]15"
+cheat53_code = "FF010C:0E"
+cheat53_enable = false
+
+cheat54_desc = "[跳关/慎用]16"
+cheat54_code = "FF010C:0F"
+cheat54_enable = false
+
+cheat55_desc = "[跳关/慎用]17"
+cheat55_code = "FF010C:10"
+cheat55_enable = false
+
+cheat56_desc = "[跳关/慎用]18"
+cheat56_code = "FF010C:11"
+cheat56_enable = false
+
+cheat57_desc = "[跳关/慎用]19"
+cheat57_code = "FF010C:12+FF010D:"
+cheat57_enable = false
+
+cheat58_desc = "[跳关/慎用]20"
+cheat58_code = "FF010C:13+FF010D:"
+cheat58_enable = false
+
+cheat59_desc = "[跳关/慎用]21"
+cheat59_code = "FF010C:14+FF010D:"
+cheat59_enable = false
+
+cheat60_desc = "[跳关/慎用]22"
+cheat60_code = "FF010C:15+FF010D:"
+cheat60_enable = false
+
+cheat61_desc = "[恶搞(第一关)]On"
+cheat61_code = "FF552C:34+FF552D:CA"
+cheat61_enable = false
+
+cheat62_desc = "[2P血槽不减]第一关.山丘"
+cheat62_code = "FF544E:64"
+cheat62_enable = false
+

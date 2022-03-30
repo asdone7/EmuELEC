@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "0562:9F+0563:86+0564:01"
+cheat0_enable = false
+
+cheat1_desc = "[生命值]ON"
+cheat1_code = "0566:E7+0567:03"
+cheat1_enable = false
+
+cheat2_desc = "[法术值]ON"
+cheat2_code = "0568:E7+0569:03"
+cheat2_enable = false
+

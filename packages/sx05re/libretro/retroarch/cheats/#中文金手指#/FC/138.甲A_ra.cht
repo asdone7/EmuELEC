@@ -1,0 +1,146 @@
+cheats = 36
+
+cheat0_desc = "[金]2亿以上"
+cheat0_code = "1408:11"
+cheat0_enable = false
+
+cheat1_desc = "[赛季目标]无目标"
+cheat1_code = "17A0:14"
+cheat1_enable = false
+
+cheat2_desc = "[赛季目标]保级"
+cheat2_code = "17A0:09"
+cheat2_enable = false
+
+cheat3_desc = "[赛季目标]前八"
+cheat3_code = "17A0:07"
+cheat3_enable = false
+
+cheat4_desc = "[赛季目标]前六"
+cheat4_code = "17A0:05"
+cheat4_enable = false
+
+cheat5_desc = "[赛季目标]三甲"
+cheat5_code = "17A0:02"
+cheat5_enable = false
+
+cheat6_desc = "[赛季目标]冠军"
+cheat6_code = "17A0:00"
+cheat6_enable = false
+
+cheat7_desc = "[当前赛季]永远的97赛季"
+cheat7_code = "1630:00"
+cheat7_enable = false
+
+cheat8_desc = "[评价]100"
+cheat8_code = "1401:64"
+cheat8_enable = false
+
+cheat9_desc = "[全队员合同期限]99月"
+cheat9_code = "1160:63+1161:63+1162:63+1163:63+1164:63+1165:63+1166:63+1167:63+1168:63+1169:63+116A:63+116B:63+116C:63+116D:63+116E:63+116F:63+1170:63+1171:63+1172:63+1173:63+1174:63+1175:63+1176:63+1177:63"
+cheat9_enable = false
+
+cheat10_desc = "[全队员状态]太棒"
+cheat10_code = "1120:00+1121:00+1122:00+1123:00+1124:00+1125:00+1126:00+1127:00+1128:00+1129:00+112A:00+112B:00+112C:00+112D:00+112E:00+112F:00+1130:00+1131:00+1132:00+1133:00+1134:00+1135:00+1136:00+1137:00+1138:00+1139:00+113A:00+113B:00+113C:00+113D:00+113E:00+113F:00+1140:00+1141:00+1142:00+1143:00+1144:00+1145:00+1146:00+1147:00+1148:00+1149:00+114A:00+114B:00+114C:00+114D:00+114E:00+114F:00"
+cheat10_enable = false
+
+cheat11_desc = "[全队员体力]90体"
+cheat11_code = "10C0:5A+10C1:5A+10C2:5A+10C3:5A+10C4:5A+10C5:5A+10C6:5A+10C7:5A+10C8:5A+10C9:5A+10CA:5A+10CB:5A+10CC:5A+10CD:5A+10CE:5A+10CF:5A+10D0:5A+10D1:5A+10D2:5A+10D3:5A+10D4:5A+10D5:5A+10D6:5A+10D7:5A"
+cheat11_enable = false
+
+cheat12_desc = "[全队员伤病]无伤病"
+cheat12_code = "10E0:00+10E1:00+10E2:00+10E3:00+10E4:00+10E5:00+10E6:00+10E7:00+10E8:00+10E9:00+10EA:00+10EB:00+10EC:00+10ED:00+10EE:00+10EF:00+10F0:00+10F1:00+10F2:00+10F3:00+10F4:00+10F5:00+10F6:00+10F7:00"
+cheat12_enable = false
+
+cheat13_desc = "[全队员停赛期]无停赛"
+cheat13_code = "1100:00+1101:00+1102:00+1103:00+1104:00+1105:00+1106:00+1107:00+1108:00+1109:00+110A:00+110B:00+110C:00+110D:00+110E:00+110F:00+1110:00+1111:00+1112:00+1113:00+1114:00+1115:00+1116:00+1117:00"
+cheat13_enable = false
+
+cheat14_desc = "[场地受损度]0"
+cheat14_code = "1421:00"
+cheat14_enable = false
+
+cheat15_desc = "[全队员年龄]20岁"
+cheat15_code = "1040:14+1041:14+1042:14+1043:14+1044:14+1045:14+1046:14+1047:14+1048:14+1049:14+104A:14+104B:14+104C:14+104D:14+104E:14+104F:14+1050:14+1051:14+1052:14+1053:14+1054:14+1055:14+1056:14+1057:14"
+cheat15_enable = false
+
+cheat16_desc = "[主场得分]0"
+cheat16_code = "034B:00"
+cheat16_enable = false
+
+cheat17_desc = "[主场得分]1"
+cheat17_code = "034B:01"
+cheat17_enable = false
+
+cheat18_desc = "[主场得分]2"
+cheat18_code = "034B:02"
+cheat18_enable = false
+
+cheat19_desc = "[主场得分]3"
+cheat19_code = "034B:03"
+cheat19_enable = false
+
+cheat20_desc = "[主场得分]4"
+cheat20_code = "034B:04"
+cheat20_enable = false
+
+cheat21_desc = "[主场得分]5"
+cheat21_code = "034B:05"
+cheat21_enable = false
+
+cheat22_desc = "[主场得分]6"
+cheat22_code = "034B:06"
+cheat22_enable = false
+
+cheat23_desc = "[主场得分]7"
+cheat23_code = "034B:07"
+cheat23_enable = false
+
+cheat24_desc = "[主场得分]8"
+cheat24_code = "034B:08"
+cheat24_enable = false
+
+cheat25_desc = "[主场得分]9"
+cheat25_code = "034B:09"
+cheat25_enable = false
+
+cheat26_desc = "[客场得分]0"
+cheat26_code = "034C:00"
+cheat26_enable = false
+
+cheat27_desc = "[客场得分]1"
+cheat27_code = "034C:01"
+cheat27_enable = false
+
+cheat28_desc = "[客场得分]2"
+cheat28_code = "034C:02"
+cheat28_enable = false
+
+cheat29_desc = "[客场得分]3"
+cheat29_code = "034C:03"
+cheat29_enable = false
+
+cheat30_desc = "[客场得分]4"
+cheat30_code = "034C:04"
+cheat30_enable = false
+
+cheat31_desc = "[客场得分]5"
+cheat31_code = "034C:05"
+cheat31_enable = false
+
+cheat32_desc = "[客场得分]6"
+cheat32_code = "034C:06"
+cheat32_enable = false
+
+cheat33_desc = "[客场得分]7"
+cheat33_code = "034C:07"
+cheat33_enable = false
+
+cheat34_desc = "[客场得分]8"
+cheat34_code = "034C:08"
+cheat34_enable = false
+
+cheat35_desc = "[客场得分]9"
+cheat35_code = "034C:09"
+cheat35_enable = false
+

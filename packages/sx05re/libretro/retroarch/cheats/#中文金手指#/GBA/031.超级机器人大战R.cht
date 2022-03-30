@@ -1,0 +1,341 @@
+cheats = 84
+
+cheat0_desc = "主角无限移动"
+cheat0_code = "02013C3A 00000001"
+cheat0_enable = false
+
+cheat1_desc = "主角HP、EN"
+cheat1_code = "02013288 0000000F+02013289 00000027+0201328C 0000000F+0201328D 00000027"
+cheat1_enable = false
+
+cheat2_desc = "主角精神"
+cheat2_code = "02010DF4 000000E7+02010DF5 00000003"
+cheat2_enable = false
+
+cheat3_desc = "主角气力"
+cheat3_code = "02010DF6 000000FF"
+cheat3_enable = false
+
+cheat4_desc = "主角等级"
+cheat4_code = "02010DF2 000000C1+02010DF3 000000C0"
+cheat4_enable = false
+
+cheat5_desc = "金钱"
+cheat5_code = "02000C00 00000040+02000C01 00000054+02000C02 00000089"
+cheat5_enable = false
+
+cheat6_desc = "金钱 TEXT"
+
+cheat6_desc = "强化部件"
+cheat6_code = "02000B25 00000009+02000B26 00000009+02000B27 00000009+12000B28 00000B28+02000B2A 00000009+02000B29 00000009+02000B2A 00000009+02000B2B 00000009+02000B2C 00000009+02000B2D 00000009"
+cheat6_enable = false
+
+cheat7_desc = "打倒敌人就升级 99级"
+cheat7_code = "02014BE8 0000005C+02014BE9 000000C1"
+cheat7_enable = false
+
+cheat8_desc = "打倒敌人就升级 90级"
+cheat8_code = "02014BE8 000000C8+02014BE9 000000AF"
+cheat8_enable = false
+
+cheat9_desc = "打倒敌人就升级 50级"
+cheat9_code = "02014BE8 000000A8+02014BE9 00000061"
+cheat9_enable = false
+
+cheat10_desc = "打倒敌人就升级 30级"
+cheat10_code = "02014BE8 00000098+02014BE9 0000003A"
+cheat10_enable = false
+
+cheat11_desc = "打倒敌人就升级 10级"
+cheat11_code = "02014BE8 00000088+02014BE9 00000013"
+cheat11_enable = false
+
+cheat12_desc = "打倒敌人就升级 5级"
+cheat12_code = "02014BE8 000000C4+02014BE9 00000009"
+cheat12_enable = false
+
+cheat13_desc = "打倒敌人就升级 3级"
+cheat13_code = "02014BE8 000000DC+02014BE9 00000005"
+cheat13_enable = false
+
+cheat14_desc = "打倒敌人就升级 2级"
+cheat14_code = "02014BE8 000000E8+02014BE9 00000003"
+cheat14_enable = false
+
+cheat15_desc = "打倒敌人就升级 1级"
+cheat15_code = "02014BE8 000000F4+02014BE9 00000001"
+cheat15_enable = false
+
+cheat16_desc = "打倒敌人就升级 不升级"
+cheat16_code = "02014BE8 00000000"
+cheat16_enable = false
+
+cheat17_desc = "战斗后所得EXP"
+cheat17_code = "02014BE8 000000F4+02014BE9 00000001"
+cheat17_enable = false
+
+cheat18_desc = "总回合数零"
+cheat18_code = "02000C06 00000000"
+cheat18_enable = false
+
+cheat19_desc = "开始分歧选择 ナデシコル一ト路线"
+cheat19_code = "02000C0E 00000012"
+cheat19_enable = false
+
+cheat20_desc = "开始分歧选择 ラ一·カイラムル一ト路线"
+cheat20_code = "02000C0E 00000013"
+cheat20_enable = false
+
+cheat21_desc = "选关(使用有一定的危险性) 第１话 トライアル?ウェポン"
+cheat21_code = "02000C0F 00000000"
+cheat21_enable = false
+
+cheat22_desc = "选关(使用有一定的危险性) 第２话 火星の后继者"
+cheat22_code = "02000C0F 00000001"
+cheat22_enable = false
+
+cheat23_desc = "选关(使用有一定的危险性) 第３话 再会のレシピ"
+cheat23_code = "02000C0F 00000002"
+cheat23_enable = false
+
+cheat24_desc = "选关(使用有一定的危险性) 第４话 最恶の决战"
+cheat24_code = "02000C0F 00000003"
+cheat24_enable = false
+
+cheat25_desc = "选关(使用有一定的危险性) 第５话 ‘运命の选择’みたいな"
+cheat25_code = "02000C0F 00000004"
+cheat25_enable = false
+
+cheat26_desc = "选关(使用有一定的危险性) 第６话 ＧＥＡＲ战士　电童"
+cheat26_code = "02000C0F 00000005"
+cheat26_enable = false
+
+cheat27_desc = "选关(使用有一定的危险性) 第２话 逆袭のシャア"
+cheat27_code = "02000C0F 00000006"
+cheat27_enable = false
+
+cheat28_desc = "选关(使用有一定的危险性) 第３话 γガンダム"
+cheat28_code = "02000C0F 00000007"
+cheat28_enable = false
+
+cheat29_desc = "选关(使用有一定的危险性) 第４话 最恶の结末"
+cheat29_code = "02000C0F 00000008"
+cheat29_enable = false
+
+cheat30_desc = "选关(使用有一定的危险性) 第５话 あなたに、力を???"
+cheat30_code = "02000C0F 00000009"
+cheat30_enable = false
+
+cheat31_desc = "选关(使用有一定的危险性) 第６话 出击！！ネオゲッタ一ロボ！"
+cheat31_code = "02000C0F 0000000A"
+cheat31_enable = false
+
+cheat32_desc = "选关(使用有一定的危险性) 第７话 危うしマジンガ一チ一ム！"
+cheat32_code = "02000C0F 0000000B"
+cheat32_enable = false
+
+cheat33_desc = "选关(使用有一定的危险性) 第８话 バンドック现る！"
+cheat33_code = "02000C0F 0000000C"
+cheat33_enable = false
+
+cheat34_desc = "选关(使用有一定的危险性) 第９话 炸裂！バイパ一ウィップ "
+cheat34_code = "02000C0F 0000000D"
+cheat34_enable = false
+
+cheat35_desc = "选关(使用有一定的危险性) 第１０话 登场！！　テキサスマック！"
+cheat35_code = "02000C0F 0000000E"
+cheat35_enable = false
+
+cheat36_desc = "选关(使用有一定的危险性) 第１１话 私の爱马は凶暴です "
+cheat36_code = "02000C0F 0000000F"
+cheat36_enable = false
+
+cheat37_desc = "选关(使用有一定的危险性) 第１２话 さらば青春！　战斗兽になった青年！！"
+cheat37_code = "02000C0F 00000010"
+cheat37_enable = false
+
+cheat38_desc = "选关(使用有一定的危险性) 第１３话 コン?バトラ一Ｖを破坏せよ "
+cheat38_code = "02000C0F 00000011"
+cheat38_enable = false
+
+cheat39_desc = "选关(使用有一定的危险性) 第１４话 皇帝陛下のプレゼント "
+cheat39_code = "02000C0F 00000012"
+cheat39_enable = false
+
+cheat40_desc = "选关(使用有一定的危险性) 第１３话 海の战い "
+cheat40_code = "02000C0F 00000013"
+cheat40_enable = false
+
+cheat41_desc = "选关(使用有一定的危险性) 第１４话 コロスとゼノイア "
+cheat41_code = "02000C0F 00000014"
+cheat41_enable = false
+
+cheat42_desc = "选关(使用有一定的危险性) 第１５话 必杀！　超高速グレ一トブ一スタ一！！"
+cheat42_code = "02000C0F 00000015"
+cheat42_enable = false
+
+cheat43_desc = "选关(使用有一定的危险性) 第１６话 私の最高杰作です "
+cheat43_code = "02000C0F 00000016"
+cheat43_enable = false
+
+cheat44_desc = "选关(使用有一定的危险性) 第１７话 俺の声が闻こえるか！"
+cheat44_code = "02000C0F 00000017"
+cheat44_enable = false
+
+cheat45_desc = "选关(使用有一定的危险性) 第１６话 决战！　电童ＶＳ凰牙 "
+cheat45_code = "02000C0F 00000018"
+cheat45_enable = false
+
+cheat46_desc = "选关(使用有一定的危险性) 第１７话 谋略の父が地球を狙う "
+cheat46_code = "02000C0F 00000019"
+cheat46_enable = false
+
+cheat47_desc = "选关(使用有一定的危险性) 第１８话 ‘真实’はひとつじゃない"
+cheat47_code = "02000C0F 0000001A"
+cheat47_enable = false
+
+cheat48_desc = "选关(使用有一定的危险性) 第１９话 よみがえる命 "
+cheat48_code = "02000C0F 0000001B"
+cheat48_enable = false
+
+cheat49_desc = "选关(使用有一定的危险性) 第２０话 ダブルエックス起动！"
+cheat49_code = "12000C0F 00000 1C"
+cheat49_enable = false
+
+cheat50_desc = "选关(使用有一定的危险性) 第２１话 ?#092;骑士と母の秘密 "
+cheat50_code = "02000C0F 0000001D"
+cheat50_enable = false
+
+cheat51_desc = "选关(使用有一定的危险性) 第２２话 炎の中で "
+cheat51_code = "02000C0F 0000001E"
+cheat51_enable = false
+
+cheat52_desc = "选关(使用有一定的危险性) 第２３话 螺旋城の落ちる日 "
+cheat52_code = "02000C0F 0000001F"
+cheat52_enable = false
+
+cheat53_desc = "选关(使用有一定的危险性) 第２２话 ハマ一ンの?#092;い影 "
+cheat53_code = "02000C0F 00000020"
+cheat53_enable = false
+
+cheat54_desc = "选关(使用有一定的危险性) 第２３话 エンドレスワルツ "
+cheat54_code = "02000C0F 00000021"
+cheat54_enable = false
+
+cheat55_desc = "选关(使用有一定的危险性) 第２４话 怒りの火山岛基地！"
+cheat55_code = "02000C0F 00000022"
+cheat55_enable = false
+
+cheat56_desc = "选关(使用有一定的危险性) 第２５话 东方不败は二度死ぬ "
+cheat56_code = "02000C0F 00000023"
+cheat56_enable = false
+
+cheat57_desc = "选关(使用有一定的危险性) 第２６话 复活！！　真ゲッタ一ロボ！"
+cheat57_code = "02000C0F 00000024"
+cheat57_enable = false
+
+cheat58_desc = "选关(使用有一定的危险性) 第２７话 切り拓け！！　地球の未来！"
+cheat58_code = "02000C0F 00000025"
+cheat58_enable = false
+
+cheat59_desc = "选关(使用有一定的危险性) 第２８话 明日の‘舰长’は君だ！"
+cheat59_code = "02000C0F 00000026"
+cheat59_enable = false
+
+cheat60_desc = "选关(使用有一定的危险性) 第２９话 北斗の叫び、银河の泪 "
+cheat60_code = "02000C0F 00000027"
+cheat60_enable = false
+
+cheat61_desc = "选关(使用有一定的危险性) 第３０话 ＧＥＡＲ坏灭！"
+cheat61_code = "12000C0F 00000 28"
+cheat61_enable = false
+
+cheat62_desc = "选关(使用有一定的危险性) 第３１话 ブッチャ一の最期の日"
+cheat62_code = "02000C0F 00000029"
+cheat62_enable = false
+
+cheat63_desc = "选关(使用有一定的危险性) 第２９话 月が见えた！"
+cheat63_code = "02000C0F 0000002A"
+cheat63_enable = false
+
+cheat64_desc = "选关(使用有一定的危险性) 第３０话 战士、再び??? "
+cheat64_code = "02000C0F 0000002B"
+cheat64_enable = false
+
+cheat65_desc = "选关(使用有一定的危险性) 第３１话 私はデュミナス??? "
+cheat65_code = "02000C0F 0000002C"
+cheat65_enable = false
+
+cheat66_desc = "选关(使用有一定的危险性) 第３２话 仆らが求めた战争だ "
+cheat66_code = "02000C0F 0000002D"
+cheat66_enable = false
+
+cheat67_desc = "选关(使用有一定的危险性) 第３３话 银河に消えた男 "
+cheat67_code = "02000C0F 0000002D"
+cheat67_enable = false
+
+cheat68_desc = "选关(使用有一定的危险性) 第３４话 ‘ゲキ?ガンガ一’を越えてゆけ！"
+cheat68_code = "02000C0F 0000002F"
+cheat68_enable = false
+
+cheat69_desc = "选关(使用有一定的危险性) 第３５话 岚の海 "
+cheat69_code = "02000C0F 00000030"
+cheat69_enable = false
+
+cheat70_desc = "选关(使用有一定的危险性) 第３６话 アルクトスの真实"
+cheat70_code = "02000C0F 00000031"
+cheat70_enable = false
+
+cheat71_desc = "选关(使用有一定的危险性) 第３７话 デュミナスの答え "
+cheat71_code = "02000C0F 00000032"
+cheat71_enable = false
+
+cheat72_desc = "选关(使用有一定的危险性) 第３８话 移动マップ世界 "
+cheat72_code = "02000C0F 00000033"
+cheat72_enable = false
+
+cheat73_desc = "选关(使用有一定的危险性) 第３８话 移动マップ日本 "
+cheat73_code = "02000C0F 00000034"
+cheat73_enable = false
+
+cheat74_desc = "选关(使用有一定的危险性) 第３８话 移动マップ地球圈 "
+cheat74_code = "02000C0F 00000035"
+cheat74_enable = false
+
+cheat75_desc = "选关(使用有一定的危险性) 第３８话 移动マップ太阳系 "
+cheat75_code = "02000C0F 00000036"
+cheat75_enable = false
+
+cheat76_desc = "选关(使用有一定的危险性) 第３８话 火星の后继者 "
+cheat76_code = "02000C0F 00000037"
+cheat76_enable = false
+
+cheat77_desc = "选关(使用有一定的危险性) 第３８话 逆袭のシャア "
+cheat77_code = "02000C0F 00000038"
+cheat77_enable = false
+
+cheat78_desc = "选关(使用有一定的危险性) 第３８话 ＮＯ４で使用 "
+cheat78_code = "02000C0F 00000039"
+cheat78_enable = false
+
+cheat79_desc = "选关(使用有一定的危险性) 第３８话 岚の海 "
+cheat79_code = "02000C0F 0000003A"
+cheat79_enable = false
+
+cheat80_desc = "选关(使用有一定的危险性) 第３８话 ナデシコＢの保护を受ける"
+cheat80_code = "02000C0F 0000003B"
+cheat80_enable = false
+
+cheat81_desc = "选关(使用有一定的危险性) 第３８话 ７タ一ン以内に指定地点に到达 "
+cheat81_code = "02000C0F 0000003C"
+cheat81_enable = false
+
+cheat82_desc = "选关(使用有一定的危险性) 第３８话 电童の破坏 "
+cheat82_code = "02000C0F 0000003D"
+cheat82_enable = false
+
+cheat83_desc = "选关(使用有一定的危险性) 第３８话 凰牙の破坏 "
+cheat83_code = "02000C0F 0000003E"
+cheat83_enable = false
+
+

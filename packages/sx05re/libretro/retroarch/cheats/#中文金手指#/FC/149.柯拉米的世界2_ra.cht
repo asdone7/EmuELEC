@@ -1,0 +1,74 @@
+cheats = 18
+
+cheat0_desc = "[1P体力值]ON"
+cheat0_code = "07E2:10"
+cheat0_enable = false
+
+cheat1_desc = "[1P生命数]ON"
+cheat1_code = "07DD:0A"
+cheat1_enable = false
+
+cheat2_desc = "[1P不受攻击]ON"
+cheat2_code = "0400:80"
+cheat2_enable = false
+
+cheat3_desc = "[1P可以变身]ON"
+cheat3_code = "07E6:01"
+cheat3_enable = false
+
+cheat4_desc = "[1P变身时间]ON"
+cheat4_code = "01A5:3C"
+cheat4_enable = false
+
+cheat5_desc = "[1P变身分组]第一组"
+cheat5_code = "07F0:01+07F1:02+07F2:05+07FE:00"
+cheat5_enable = false
+
+cheat6_desc = "[1P变身分组]第二组"
+cheat6_code = "07F0:01+07F1:03+07F2:04+07FE:01"
+cheat6_enable = false
+
+cheat7_desc = "[1P变身分组]第三组"
+cheat7_code = "07F0:02+07F1:04+07F2:05+07FE:02"
+cheat7_enable = false
+
+cheat8_desc = "[1P变身分组]第四组"
+cheat8_code = "07F0:02+07F1:05+07F2:03+07FE:03"
+cheat8_enable = false
+
+cheat9_desc = "[2P体力值]ON"
+cheat9_code = "07E3:10"
+cheat9_enable = false
+
+cheat10_desc = "[2P生命数]ON"
+cheat10_code = "07DE:0A"
+cheat10_enable = false
+
+cheat11_desc = "[2P不受攻击]ON"
+cheat11_code = "0401:80"
+cheat11_enable = false
+
+cheat12_desc = "[2P可以变身]ON"
+cheat12_code = "07E7:01"
+cheat12_enable = false
+
+cheat13_desc = "[2P变身时间]ON"
+cheat13_code = "01A6:3C"
+cheat13_enable = false
+
+cheat14_desc = "[2P变身分组]第一组"
+cheat14_code = "07F3:01+07F4:02+07F5:05+07FF:00"
+cheat14_enable = false
+
+cheat15_desc = "[2P变身分组]第二组"
+cheat15_code = "07F3:01+07F4:03+07F5:04+07FF:01"
+cheat15_enable = false
+
+cheat16_desc = "[2P变身分组]第三组"
+cheat16_code = "07F3:02+07F4:04+07F5:05+07FF:02"
+cheat16_enable = false
+
+cheat17_desc = "[2P变身分组]第四组"
+cheat17_code = "07F3:02+07F4:05+07F5:03+07FF:03"
+cheat17_enable = false
+

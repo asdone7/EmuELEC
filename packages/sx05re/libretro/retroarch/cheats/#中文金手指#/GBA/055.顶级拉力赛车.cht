@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "时速"
+cheat0_code = "0201033D 000000D0+0201033E 00000007"
+cheat0_enable = false
+
+cheat1_desc = "时间"
+cheat1_code = "0201048D 00000000"
+cheat1_enable = false
+
+

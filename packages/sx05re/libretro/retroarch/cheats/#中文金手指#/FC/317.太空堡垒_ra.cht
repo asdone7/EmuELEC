@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[生命]ON"
+cheat0_code = "00EC:30"
+cheat0_enable = false
+

@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[时间]ON"
+cheat0_code = "0092:09+0093:09"
+cheat0_enable = false
+
+cheat1_desc = "[电池]ON"
+cheat1_code = "0054:09+0055:09"
+cheat1_enable = false
+
+cheat2_desc = "[命]ON"
+cheat2_code = "0058:05"
+cheat2_enable = false
+

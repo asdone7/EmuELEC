@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[炸弹]ON"
+cheat0_code = "1F1112:64"
+cheat0_enable = false
+
+cheat1_desc = "[只数]ON"
+cheat1_code = "1F110D:64"
+cheat1_enable = false
+
+cheat2_desc = "[血不减(过关解锁)]ON"
+cheat2_code = "1F110E:0B"
+cheat2_enable = false
+

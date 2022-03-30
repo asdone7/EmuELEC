@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#Infinite Energy Player 1"
+cheat0_code = "800C2B64 03C9+800E2EDC 0014"
+cheat0_enable = false
+
+cheat1_desc = "#Infinite Energy Player 2"
+cheat1_code = "800E3A88 0014"
+cheat1_enable = false
+
+

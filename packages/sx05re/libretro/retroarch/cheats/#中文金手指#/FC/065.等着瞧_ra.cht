@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[能量无限]ON"
+cheat0_code = "03EB:04"
+cheat0_enable = false
+
+cheat1_desc = "[生命无限]ON"
+cheat1_code = "03EE:09"
+cheat1_enable = false
+

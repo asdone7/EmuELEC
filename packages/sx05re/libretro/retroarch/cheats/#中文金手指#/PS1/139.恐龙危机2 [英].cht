@@ -1,0 +1,63 @@
+cheats = 15
+
+cheat0_desc = "#无限健康"
+cheat0_code = "D0038CC8 0108+80038CCA 2400+D0039594 0108+80039596 2400+D0039744 0108+80039746 2400+D00D2348 0108+800D234A 2400+D00D24A0 0108+800D24A2 2400+D00D25B0 0108+800D25B2 2400+D00D26FC 0108+800D26FE 2400+D00D38BC 0108+800D38BE 2400"
+cheat0_enable = false
+
+cheat1_desc = "#商店所有可用武器floydfan"
+cheat1_code = "D01CE5C0 0074+801CE5C0 0001+D01CE5C8 0074+801CE5C8 0001+D01CE5D0 000A+801CE5D0 0001+D01CE5D8 0012+801CE5D8 0001+D01CE5E0 0012+801CE5E0 0001+D01CE5E8 0014+801CE5E8 0001+D01CE5F0 0016+801CE5F0 0001+D01CE5F8 0016+801CE5F8 0001+D01CE600 0017+801CE600 0001"
+cheat1_enable = false
+
+cheat2_desc = "#角色修改器（常规游戏）迪伦"
+cheat2_code = "300AECAB 0001"
+cheat2_enable = false
+
+cheat3_desc = "#最大绝灭点数"
+cheat3_code = "800AEE10 967F+800AEE12 0098"
+cheat3_enable = false
+
+cheat4_desc = "#具有额外危机模式（使用此代码，进入“选项”，然后退出并出现新菜单）"
+cheat4_code = "800AECA8 0100+800AECAA 0101+800AECAC 0101"
+cheat4_enable = false
+
+cheat5_desc = "#解锁所有角色（额外危机模式）"
+cheat5_code = "800AECAE 0FFF"
+cheat5_enable = false
+
+cheat6_desc = "#走墙"
+cheat6_code = "D0032DCC 000F+80032DCE 1000+D00330C8 0161+800330CA 1000+D003365C 0013+8003365E 1000"
+cheat6_enable = false
+
+cheat7_desc = "#恐龙打不了你"
+cheat7_code = "80048814 0000"
+cheat7_enable = false
+
+cheat8_desc = "#拥有所有文件"
+cheat8_code = "800AEEE0 FD77+800AEEE2 FFF3+800AEA80 FD77+800AEA82 FFF3"
+cheat8_enable = false
+
+cheat9_desc = "#拥有所有关键项目"
+cheat9_code = "800AEED8 FFFF+800AEEDA 03FF"
+cheat9_enable = false
+
+cheat10_desc = "#拥有所有三张EPS卡，内服和轻型装甲"
+cheat10_code = "800AEEDA 0278"
+cheat10_enable = false
+
+cheat11_desc = "#在角色购买屏幕上具有无限消光点（游戏结束时）"
+cheat11_code = "800AEE28 967F+800AEE2A 0098+800D84E8 967F+800D84EA 0098"
+cheat11_enable = false
+
+cheat12_desc = "#宝拉的无限健康（当您必须保护她时）"
+cheat12_code = "800AE36A 06F4+800AE548 06F4"
+cheat12_enable = false
+
+cheat13_desc = "#无限项用法"
+cheat13_code = "D00560AC FFFF+800560AE 2400"
+cheat13_enable = false
+
+cheat14_desc = "#保存并购物到任何地方（按Triangle + R2）"
+cheat14_code = "D00AF130 0012+800AE73E 0002"
+cheat14_enable = false
+
+

@@ -1,0 +1,35 @@
+cheats = 8
+
+cheat0_desc = "电脑全为零星卡片"
+cheat0_code = "020404DE 00000000+020404E2 00000000+020404E6 00000000+020404EA 00000000+020404EE 00000000"
+cheat0_enable = false
+
+cheat1_desc = "自己全为六星卡片"
+cheat1_code = "020404A6 000000FF+020404AA 000000FF+020404AE 000000FF+020404B2 000000FF+020404B6 000000FF"
+cheat1_enable = false
+
+cheat2_desc = "电脑能量槽为零"
+cheat2_code = "020438C1 00000000+020404F1 00000000"
+cheat2_enable = false
+
+cheat3_desc = "自己能量槽全满"
+cheat3_code = "020404B9 00000064+020438C2 0000000D"
+cheat3_enable = false
+
+cheat4_desc = "调换卡片时间(按SELECT键完成) 无限"
+cheat4_code = "02040C04 00000000"
+cheat4_enable = false
+
+cheat5_desc = "调换卡片时间(按SELECT键完成) 为零"
+cheat5_code = "02040C04 00000084"
+cheat5_enable = false
+
+cheat6_desc = "隐藏人物可选"
+cheat6_code = "0200DF5C 00000001+0200DF5D 00000001"
+cheat6_enable = false
+
+cheat7_desc = "封面人物全部出现"
+cheat7_code = "0200DF66 000000FF"
+cheat7_enable = false
+
+

@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "HP不减"
+cheat0_code = "02022076 0000002C+02022077 00000001"
+cheat0_enable = false
+
+cheat1_desc = "气力"
+cheat1_code = "02022214 000000E7+02022215 00000003"
+cheat1_enable = false
+
+cheat2_desc = "同伴HP不减"
+cheat2_code = "020222C6 0000002C+020222C7 00000001"
+cheat2_enable = false
+
+

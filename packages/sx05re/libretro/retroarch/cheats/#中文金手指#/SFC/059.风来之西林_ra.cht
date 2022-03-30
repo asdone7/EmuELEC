@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[金钱最大]ON"
+cheat0_code = "7E893F3F+7E894042+7E89410F+7E894200"
+cheat0_enable = false
+
+cheat1_desc = "[LV70最高级别一次升级]ON"
+cheat1_code = "7E86543F+7E866842+7E867C0F"
+cheat1_enable = false
+
+cheat2_desc = "[HP和满腹度等锁定]ON"
+cheat2_code = "7E8604FA+7E8943F6+7E894409+7E893D63"
+cheat2_enable = false
+
+cheat3_desc = "[能力值合理化最大]ON"
+cheat3_code = "7E8618FA+7E8945F6+7E894609+7E893E63+7E897464+7E86A464"
+cheat3_enable = false
+

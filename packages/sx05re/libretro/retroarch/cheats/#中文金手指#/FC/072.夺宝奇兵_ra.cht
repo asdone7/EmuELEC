@@ -1,0 +1,34 @@
+cheats = 8
+
+cheat0_desc = "[人数]ON"
+cheat0_code = "0046:09"
+cheat0_enable = false
+
+cheat1_desc = "[总是有炸弹]ON"
+cheat1_code = "05F3:01"
+cheat1_enable = false
+
+cheat2_desc = "[key]ON"
+cheat2_code = "05DF:03"
+cheat2_enable = false
+
+cheat3_desc = "[弹弓]ON"
+cheat3_code = "05F2:33"
+cheat3_enable = false
+
+cheat4_desc = "[钻石]ON"
+cheat4_code = "05D8:07"
+cheat4_enable = false
+
+cheat5_desc = "[小孩,我不知道有什么用]7"
+cheat5_code = "05D6:07"
+cheat5_enable = false
+
+cheat6_desc = "[无敌]ON"
+cheat6_code = "05F6:28"
+cheat6_enable = false
+
+cheat7_desc = "[血]ON"
+cheat7_code = "00A0:23"
+cheat7_enable = false
+

@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#无限能量"
+cheat0_code = "800C2D1A 00FF"
+cheat0_enable = false
+
+cheat1_desc = "#无限硬币"
+cheat1_code = "800C2D18 270F"
+cheat1_enable = false
+
+cheat2_desc = "#无限气球心"
+cheat2_code = "800C2E19 0003"
+cheat2_enable = false
+
+cheat3_desc = "#2P Life 0按下（L2 + R2）"
+cheat3_code = "D00CCBB2 FCFF+300C2E7A 0000"
+cheat3_enable = false
+
+cheat4_desc = "#超"
+cheat4_code = "300C2D1C 0064"
+cheat4_enable = false
+
+cheat5_desc = "#时间99"
+cheat5_code = "800C5590 0063"
+cheat5_enable = false
+
+

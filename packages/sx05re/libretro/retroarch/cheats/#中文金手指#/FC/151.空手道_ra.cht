@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[体力不减]ON"
+cheat0_code = "0209:10"
+cheat0_enable = false
+
+cheat1_desc = "[敌方一击倒]ON"
+cheat1_code = "0229:01"
+cheat1_enable = false
+

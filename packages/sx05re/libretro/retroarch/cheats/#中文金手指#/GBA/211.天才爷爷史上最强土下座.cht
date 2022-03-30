@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "时间"
+cheat0_code = "02000E71 00000009"
+cheat0_enable = false
+
+cheat1_desc = "吃的萝卜数"
+cheat1_code = "02000E5C 000000E7+02000E5D 00000003"
+cheat1_enable = false
+
+cheat2_desc = "长大"
+cheat2_code = "02000E7C 00000003"
+cheat2_enable = false
+
+

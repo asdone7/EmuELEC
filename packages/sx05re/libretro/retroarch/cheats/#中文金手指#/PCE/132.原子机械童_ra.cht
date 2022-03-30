@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[血不减]ON"
+cheat0_code = "1F0F9D:0E"
+cheat0_enable = false
+
+cheat1_desc = "[只数不减]ON"
+cheat1_code = "1F0211:03"
+cheat1_enable = false
+
+cheat2_desc = "[武器选择]1"
+cheat2_code = "1F0F8B:01"
+cheat2_enable = false
+
+cheat3_desc = "[武器选择]2"
+cheat3_code = "1F0F8B:02"
+cheat3_enable = false
+
+cheat4_desc = "[武器选择]3"
+cheat4_code = "1F0F8B:03"
+cheat4_enable = false
+
+cheat5_desc = "[武器选择]4"
+cheat5_code = "1F0F8B:04"
+cheat5_enable = false
+

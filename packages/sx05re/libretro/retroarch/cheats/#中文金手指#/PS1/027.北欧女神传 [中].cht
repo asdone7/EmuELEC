@@ -1,0 +1,67 @@
+cheats = 16
+
+cheat0_desc = "#完全恢复打开菜单时"
+cheat0_code = "D0044A02 0220+80045BD4 0001"
+cheat0_enable = false
+
+cheat1_desc = "#保存到任何地方"
+cheat1_code = "D005CA1E 0220+8005D582 0000+D2205+8005F154 0001"
+cheat1_enable = false
+
+cheat2_desc = "#保存总是可能的"
+cheat2_code = "301F6274 0001"
+cheat2_enable = false
+
+cheat3_desc = "#无En"
+cheat3_code = "3007F064 0000"
+cheat3_enable = false
+
+cheat4_desc = "#DME当前"
+cheat4_code = "801DFF48 FFFF+801DFF4A 7FFF"
+cheat4_enable = false
+
+cheat5_desc = "#最大DME"
+cheat5_code = "801DFF4C FFFF+801DFF4E 7FFF"
+cheat5_enable = false
+
+cheat6_desc = "#LV 99"
+cheat6_code = "301DFE9C 0063"
+cheat6_enable = false
+
+cheat7_desc = "#CP消费零学习技能"
+cheat7_code = "D2202+80059F66 A040+D2202+80059F76 0000"
+cheat7_enable = false
+
+cheat8_desc = "#MAX学习水平"
+cheat8_code = "D2202+80059E34 0008+D2202+80059E36 2408+D2202+80059E4C 0066+D2202+80059E4E A048+D2202+80059E5A 3110"
+cheat8_enable = false
+
+cheat9_desc = "#CP消费零人属性增强"
+cheat9_code = "D003B3AA 0220+8003BE22 A480+D003B3AA 0220+8003BE4E A480+D003B3AA 0220+8003BE54 1021"
+cheat9_enable = false
+
+cheat10_desc = "#人物特征校正值所有物种+99"
+cheat10_code = "D2202+8005DC08 0063+D2202+8005DC0A 2414+D2202+8005DC1E A434"
+cheat10_enable = false
+
+cheat11_desc = "#容量（CP）最大"
+cheat11_code = "D005B73E 0002+8005B730 03E7+D005B73E 0002+8005B732 3406+D005B73E 0002+8005B756 A466"
+cheat11_enable = false
+
+cheat12_desc = "#材料化点MAX"
+cheat12_code = "801F5F80 C9FF+801F5F82 3B9A"
+cheat12_enable = false
+
+cheat13_desc = "#Orb MAX的经验"
+cheat13_code = "801E5BF8 C9F6+801E5BFA 3B9A"
+cheat13_enable = false
+
+cheat14_desc = "#Voice集合已完成.ON片刻，请保存代码，然后打开集合以完成声音返回标题屏幕。"
+cheat14_code = "50004D02 0000+801F6EDE FFFF+801F6F78 03FF"
+cheat14_enable = false
+
+cheat15_desc = "#语音收藏"
+cheat15_code = "301F6FFF 00FF"
+cheat15_enable = false
+
+

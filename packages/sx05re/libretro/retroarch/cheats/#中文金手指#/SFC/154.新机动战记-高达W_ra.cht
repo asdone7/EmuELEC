@@ -1,0 +1,102 @@
+cheats = 25
+
+cheat0_desc = "[时间]ON"
+cheat0_code = "7E060C99"
+cheat0_enable = false
+
+cheat1_desc = "[P1 角色]*EPYON"
+cheat1_code = "7E055812"
+cheat1_enable = false
+
+cheat2_desc = "[P1 角色]HEAVY ARMS"
+cheat2_code = "7E055800"
+cheat2_enable = false
+
+cheat3_desc = "[P1 角色]WING"
+cheat3_code = "7E055802"
+cheat3_enable = false
+
+cheat4_desc = "[P1 角色]DEATH SCYTHE"
+cheat4_code = "7E055804"
+cheat4_enable = false
+
+cheat5_desc = "[P1 角色]SAND ROCK"
+cheat5_code = "7E055806"
+cheat5_enable = false
+
+cheat6_desc = "[P1 角色]WIN ZERO"
+cheat6_code = "7E055808"
+cheat6_enable = false
+
+cheat7_desc = "[P1 角色]SHEN-LONG"
+cheat7_code = "7E05580A"
+cheat7_enable = false
+
+cheat8_desc = "[P1 角色]MER-CURIUS"
+cheat8_code = "7E05580C"
+cheat8_enable = false
+
+cheat9_desc = "[P1 角色]TALL-GEESE"
+cheat9_code = "7E05580E"
+cheat9_enable = false
+
+cheat10_desc = "[P1 角色]VAYE-ATE"
+cheat10_code = "7E055810"
+cheat10_enable = false
+
+cheat11_desc = "[P1 体力]ON"
+cheat11_code = "7E1B7170"
+cheat11_enable = false
+
+cheat12_desc = "[P1 能量]ON"
+cheat12_code = "7E1B802C+7E1B8101"
+cheat12_enable = false
+
+cheat13_desc = "[P2 角色]*EPYON"
+cheat13_code = "7E055C12"
+cheat13_enable = false
+
+cheat14_desc = "[P2 角色]HEAVY ARMS"
+cheat14_code = "7E055C00"
+cheat14_enable = false
+
+cheat15_desc = "[P2 角色]WING"
+cheat15_code = "7E055C02"
+cheat15_enable = false
+
+cheat16_desc = "[P2 角色]DEATH SCYTHE"
+cheat16_code = "7E055C04"
+cheat16_enable = false
+
+cheat17_desc = "[P2 角色]SAND ROCK"
+cheat17_code = "7E055C06"
+cheat17_enable = false
+
+cheat18_desc = "[P2 角色]WIN ZERO"
+cheat18_code = "7E055C08"
+cheat18_enable = false
+
+cheat19_desc = "[P2 角色]SHEN-LONG"
+cheat19_code = "7E055C0A"
+cheat19_enable = false
+
+cheat20_desc = "[P2 角色]MER-CURIUS"
+cheat20_code = "7E055C0C"
+cheat20_enable = false
+
+cheat21_desc = "[P2 角色]TALL-GEESE"
+cheat21_code = "7E055C0E"
+cheat21_enable = false
+
+cheat22_desc = "[P2 角色]VAYE-ATE"
+cheat22_code = "7E055C10"
+cheat22_enable = false
+
+cheat23_desc = "[P2 体力]ON"
+cheat23_code = "7E1B7570"
+cheat23_enable = false
+
+cheat24_desc = "[P2 能量]ON"
+cheat24_code = "7E1B842C+7E1B8501"
+cheat24_enable = false
+

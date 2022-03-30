@@ -1,0 +1,23 @@
+cheats = 5
+
+cheat0_desc = "金钱"
+cheat0_code = "02046D3C 000000FF+02046D3D 000000E0+02046D3E 000000F5+02046D3F 00000005"
+cheat0_enable = false
+
+cheat1_desc = "分数"
+cheat1_code = "02046D48 000000FF+02046D49 000000E0+02046D4A 000000F5+02046D4B 00000005"
+cheat1_enable = false
+
+cheat2_desc = "GF"
+cheat2_code = "02046D2C 0000002C+02046D2D 00000001+02046D32 0000002C+02046D33 00000001"
+cheat2_enable = false
+
+cheat3_desc = "HP"
+cheat3_code = "02046D2A 0000002C+02046D2B 00000001+02046D30 0000002C+02046D31 00000001"
+cheat3_enable = false
+
+cheat4_desc = "子弹"
+cheat4_code = "02046D34 00000009"
+cheat4_enable = false
+
+

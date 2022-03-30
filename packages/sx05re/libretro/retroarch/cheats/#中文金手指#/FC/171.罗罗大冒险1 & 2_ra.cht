@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[生命数]ON"
+cheat0_code = "007A:09"
+cheat0_enable = false
+
+cheat1_desc = "[子弹数]ON"
+cheat1_code = "007D:63"
+cheat1_enable = false
+

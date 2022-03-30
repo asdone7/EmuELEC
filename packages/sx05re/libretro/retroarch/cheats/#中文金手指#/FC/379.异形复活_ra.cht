@@ -1,0 +1,54 @@
+cheats = 13
+
+cheat0_desc = "[无敌(音乐存在轻微问题,对障碍物可能无效)]ON"
+cheat0_code = "0086:00+008A:00+00B7:00+0716:06+071B:23+071C:23+071E:23+071F:23+072E:70"
+cheat0_enable = false
+
+cheat1_desc = "[武器选择]威力波"
+cheat1_code = "008C:01"
+cheat1_enable = false
+
+cheat2_desc = "[武器选择]激光枪"
+cheat2_code = "008C:02"
+cheat2_enable = false
+
+cheat3_desc = "[武器选择]散波"
+cheat3_code = "008C:03"
+cheat3_enable = false
+
+cheat4_desc = "[武器选择]散弹枪"
+cheat4_code = "008C:04"
+cheat4_enable = false
+
+cheat5_desc = "[速度级别]1"
+cheat5_code = "008B:01"
+cheat5_enable = false
+
+cheat6_desc = "[速度级别]2"
+cheat6_code = "008B:02"
+cheat6_enable = false
+
+cheat7_desc = "[速度级别]3"
+cheat7_code = "008B:03"
+cheat7_enable = false
+
+cheat8_desc = "[速度级别]4"
+cheat8_code = "008B:04"
+cheat8_enable = false
+
+cheat9_desc = "[速度级别]5"
+cheat9_code = "008B:05"
+cheat9_enable = false
+
+cheat10_desc = "[金身]ON"
+cheat10_code = "0089:01"
+cheat10_enable = false
+
+cheat11_desc = "[导弹]ON"
+cheat11_code = "037D:03"
+cheat11_enable = false
+
+cheat12_desc = "[护体(得到一个即最强)]ON"
+cheat12_code = "008D:03+008F:2A+037E:01+0382:01+0386:01+038A:01"
+cheat12_enable = false
+

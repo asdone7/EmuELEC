@@ -1,0 +1,1814 @@
+cheats = 453
+
+cheat0_desc = "[人物1]悟空"
+cheat0_code = "04E0:00"
+cheat0_enable = false
+
+cheat1_desc = "[人物1]比克"
+cheat1_code = "04E0:18"
+cheat1_enable = false
+
+cheat2_desc = "[人物1]达尔"
+cheat2_code = "04E0:30"
+cheat2_enable = false
+
+cheat3_desc = "[人物1]悟饭"
+cheat3_code = "04E0:48"
+cheat3_enable = false
+
+cheat4_desc = "[人物1]克林"
+cheat4_code = "04E0:60"
+cheat4_enable = false
+
+cheat5_desc = "[人物1]乐平"
+cheat5_code = "04E0:78"
+cheat5_enable = false
+
+cheat6_desc = "[人物1]天津饭"
+cheat6_code = "04E0:90"
+cheat6_enable = false
+
+cheat7_desc = "[人物1]饺子"
+cheat7_code = "04E0:A8"
+cheat7_enable = false
+
+cheat8_desc = "[人物1]特兰克斯"
+cheat8_code = "04E0:C0"
+cheat8_enable = false
+
+cheat9_desc = "[人物1]无"
+cheat9_code = "04E0:FF"
+cheat9_enable = false
+
+cheat10_desc = "[人物2]悟饭"
+cheat10_code = "04E1:48"
+cheat10_enable = false
+
+cheat11_desc = "[人物2]悟空"
+cheat11_code = "04E1:00"
+cheat11_enable = false
+
+cheat12_desc = "[人物2]比克"
+cheat12_code = "04E1:18"
+cheat12_enable = false
+
+cheat13_desc = "[人物2]达尔"
+cheat13_code = "04E1:30"
+cheat13_enable = false
+
+cheat14_desc = "[人物2]克林"
+cheat14_code = "04E1:60"
+cheat14_enable = false
+
+cheat15_desc = "[人物2]乐平"
+cheat15_code = "04E1:78"
+cheat15_enable = false
+
+cheat16_desc = "[人物2]天津饭"
+cheat16_code = "04E1:90"
+cheat16_enable = false
+
+cheat17_desc = "[人物2]饺子"
+cheat17_code = "04E1:A8"
+cheat17_enable = false
+
+cheat18_desc = "[人物2]特兰克斯"
+cheat18_code = "04E1:C0"
+cheat18_enable = false
+
+cheat19_desc = "[人物2]无"
+cheat19_code = "04E1:FF"
+cheat19_enable = false
+
+cheat20_desc = "[人物3]达尔"
+cheat20_code = "04E2:30"
+cheat20_enable = false
+
+cheat21_desc = "[人物3]悟空"
+cheat21_code = "04E2:00"
+cheat21_enable = false
+
+cheat22_desc = "[人物3]比克"
+cheat22_code = "04E2:18"
+cheat22_enable = false
+
+cheat23_desc = "[人物3]悟饭"
+cheat23_code = "04E2:48"
+cheat23_enable = false
+
+cheat24_desc = "[人物3]克林"
+cheat24_code = "04E2:60"
+cheat24_enable = false
+
+cheat25_desc = "[人物3]乐平"
+cheat25_code = "04E2:78"
+cheat25_enable = false
+
+cheat26_desc = "[人物3]天津饭"
+cheat26_code = "04E2:90"
+cheat26_enable = false
+
+cheat27_desc = "[人物3]饺子"
+cheat27_code = "04E2:A8"
+cheat27_enable = false
+
+cheat28_desc = "[人物3]特兰克斯"
+cheat28_code = "04E2:C0"
+cheat28_enable = false
+
+cheat29_desc = "[人物3]无"
+cheat29_code = "04E2:FF"
+cheat29_enable = false
+
+cheat30_desc = "[人物4]克林"
+cheat30_code = "04E3:60"
+cheat30_enable = false
+
+cheat31_desc = "[人物4]悟空"
+cheat31_code = "04E3:00"
+cheat31_enable = false
+
+cheat32_desc = "[人物4]比克"
+cheat32_code = "04E3:18"
+cheat32_enable = false
+
+cheat33_desc = "[人物4]达尔"
+cheat33_code = "04E3:30"
+cheat33_enable = false
+
+cheat34_desc = "[人物4]悟饭"
+cheat34_code = "04E3:48"
+cheat34_enable = false
+
+cheat35_desc = "[人物4]乐平"
+cheat35_code = "04E3:78"
+cheat35_enable = false
+
+cheat36_desc = "[人物4]天津饭"
+cheat36_code = "04E3:90"
+cheat36_enable = false
+
+cheat37_desc = "[人物4]饺子"
+cheat37_code = "04E3:A8"
+cheat37_enable = false
+
+cheat38_desc = "[人物4]特兰克斯"
+cheat38_code = "04E3:C0"
+cheat38_enable = false
+
+cheat39_desc = "[人物4]无"
+cheat39_code = "04E3:FF"
+cheat39_enable = false
+
+cheat40_desc = "[人物5]乐平"
+cheat40_code = "04E4:78"
+cheat40_enable = false
+
+cheat41_desc = "[人物5]悟空"
+cheat41_code = "04E4:00"
+cheat41_enable = false
+
+cheat42_desc = "[人物5]比克"
+cheat42_code = "04E4:18"
+cheat42_enable = false
+
+cheat43_desc = "[人物5]达尔"
+cheat43_code = "04E4:30"
+cheat43_enable = false
+
+cheat44_desc = "[人物5]悟饭"
+cheat44_code = "04E4:48"
+cheat44_enable = false
+
+cheat45_desc = "[人物5]克林"
+cheat45_code = "04E4:60"
+cheat45_enable = false
+
+cheat46_desc = "[人物5]天津饭"
+cheat46_code = "04E4:90"
+cheat46_enable = false
+
+cheat47_desc = "[人物5]饺子"
+cheat47_code = "04E4:A8"
+cheat47_enable = false
+
+cheat48_desc = "[人物5]特兰克斯"
+cheat48_code = "04E4:C0"
+cheat48_enable = false
+
+cheat49_desc = "[人物5]无"
+cheat49_code = "04E4:FF"
+cheat49_enable = false
+
+cheat50_desc = "[人物6]饺子"
+cheat50_code = "04E5:A8"
+cheat50_enable = false
+
+cheat51_desc = "[人物6]悟空"
+cheat51_code = "04E5:00"
+cheat51_enable = false
+
+cheat52_desc = "[人物6]比克"
+cheat52_code = "04E5:18"
+cheat52_enable = false
+
+cheat53_desc = "[人物6]达尔"
+cheat53_code = "04E5:30"
+cheat53_enable = false
+
+cheat54_desc = "[人物6]悟饭"
+cheat54_code = "04E5:48"
+cheat54_enable = false
+
+cheat55_desc = "[人物6]克林"
+cheat55_code = "04E5:60"
+cheat55_enable = false
+
+cheat56_desc = "[人物6]乐平"
+cheat56_code = "04E5:78"
+cheat56_enable = false
+
+cheat57_desc = "[人物6]天津饭"
+cheat57_code = "04E5:90"
+cheat57_enable = false
+
+cheat58_desc = "[人物6]特兰克斯"
+cheat58_code = "04E5:C0"
+cheat58_enable = false
+
+cheat59_desc = "[人物6]无"
+cheat59_code = "04E5:FF"
+cheat59_enable = false
+
+cheat60_desc = "[人物7]天津饭"
+cheat60_code = "04E6:90"
+cheat60_enable = false
+
+cheat61_desc = "[人物7]悟空"
+cheat61_code = "04E6:00"
+cheat61_enable = false
+
+cheat62_desc = "[人物7]比克"
+cheat62_code = "04E6:18"
+cheat62_enable = false
+
+cheat63_desc = "[人物7]达尔"
+cheat63_code = "04E6:30"
+cheat63_enable = false
+
+cheat64_desc = "[人物7]悟饭"
+cheat64_code = "04E6:48"
+cheat64_enable = false
+
+cheat65_desc = "[人物7]克林"
+cheat65_code = "04E6:60"
+cheat65_enable = false
+
+cheat66_desc = "[人物7]乐平"
+cheat66_code = "04E6:78"
+cheat66_enable = false
+
+cheat67_desc = "[人物7]饺子"
+cheat67_code = "04E6:A8"
+cheat67_enable = false
+
+cheat68_desc = "[人物7]特兰克斯"
+cheat68_code = "04E6:C0"
+cheat68_enable = false
+
+cheat69_desc = "[人物7]无"
+cheat69_code = "04E6:FF"
+cheat69_enable = false
+
+cheat70_desc = "[人物8]比克"
+cheat70_code = "04E7:18"
+cheat70_enable = false
+
+cheat71_desc = "[人物8]悟空"
+cheat71_code = "04E7:00"
+cheat71_enable = false
+
+cheat72_desc = "[人物8]达尔"
+cheat72_code = "04E7:30"
+cheat72_enable = false
+
+cheat73_desc = "[人物8]悟饭"
+cheat73_code = "04E7:48"
+cheat73_enable = false
+
+cheat74_desc = "[人物8]克林"
+cheat74_code = "04E7:60"
+cheat74_enable = false
+
+cheat75_desc = "[人物8]乐平"
+cheat75_code = "04E7:78"
+cheat75_enable = false
+
+cheat76_desc = "[人物8]天津饭"
+cheat76_code = "04E7:90"
+cheat76_enable = false
+
+cheat77_desc = "[人物8]饺子"
+cheat77_code = "04E7:A8"
+cheat77_enable = false
+
+cheat78_desc = "[人物8]特兰克斯"
+cheat78_code = "04E7:C0"
+cheat78_enable = false
+
+cheat79_desc = "[人物8]无"
+cheat79_code = "04E7:FF"
+cheat79_enable = false
+
+cheat80_desc = "[人物9]特兰克斯"
+cheat80_code = "04E8:C0"
+cheat80_enable = false
+
+cheat81_desc = "[人物9]悟空"
+cheat81_code = "04E8:00"
+cheat81_enable = false
+
+cheat82_desc = "[人物9]比克"
+cheat82_code = "04E8:18"
+cheat82_enable = false
+
+cheat83_desc = "[人物9]达尔"
+cheat83_code = "04E8:30"
+cheat83_enable = false
+
+cheat84_desc = "[人物9]悟饭"
+cheat84_code = "04E8:48"
+cheat84_enable = false
+
+cheat85_desc = "[人物9]克林"
+cheat85_code = "04E8:60"
+cheat85_enable = false
+
+cheat86_desc = "[人物9]乐平"
+cheat86_code = "04E8:78"
+cheat86_enable = false
+
+cheat87_desc = "[人物9]天津饭"
+cheat87_code = "04E8:90"
+cheat87_enable = false
+
+cheat88_desc = "[人物9]饺子"
+cheat88_code = "04E8:A8"
+cheat88_enable = false
+
+cheat89_desc = "[人物9]无"
+cheat89_code = "04E8:FF"
+cheat89_enable = false
+
+cheat90_desc = "[人物10]无"
+cheat90_code = "04E9:FF"
+cheat90_enable = false
+
+cheat91_desc = "[人物10]悟空"
+cheat91_code = "04E9:00"
+cheat91_enable = false
+
+cheat92_desc = "[人物10]比克"
+cheat92_code = "04E9:18"
+cheat92_enable = false
+
+cheat93_desc = "[人物10]达尔"
+cheat93_code = "04E9:30"
+cheat93_enable = false
+
+cheat94_desc = "[人物10]悟饭"
+cheat94_code = "04E9:48"
+cheat94_enable = false
+
+cheat95_desc = "[人物10]克林"
+cheat95_code = "04E9:60"
+cheat95_enable = false
+
+cheat96_desc = "[人物10]乐平"
+cheat96_code = "04E9:78"
+cheat96_enable = false
+
+cheat97_desc = "[人物10]天津饭"
+cheat97_code = "04E9:90"
+cheat97_enable = false
+
+cheat98_desc = "[人物10]饺子"
+cheat98_code = "04E9:A8"
+cheat98_enable = false
+
+cheat99_desc = "[人物10]特兰克斯"
+cheat99_code = "04E9:C0"
+cheat99_enable = false
+
+cheat100_desc = "[达尔变身招数]有变身招数"
+cheat100_code = "0625:FF"
+cheat100_enable = false
+
+cheat101_desc = "[达尔变身招数]无变身招数"
+cheat101_code = "0625:FE"
+cheat101_enable = false
+
+cheat102_desc = "[悟空变身状态]超赛亚人"
+cheat102_code = "0300:09"
+cheat102_enable = false
+
+cheat103_desc = "[悟空变身状态]普通"
+cheat103_code = "0300:01"
+cheat103_enable = false
+
+cheat104_desc = "[达尔变身状态]超赛亚人"
+cheat104_code = "0330:0A"
+cheat104_enable = false
+
+cheat105_desc = "[达尔变身状态]普通"
+cheat105_code = "0300:03"
+cheat105_enable = false
+
+cheat106_desc = "[悟空等级]LV 50"
+cheat106_code = "0301:13"
+cheat106_enable = false
+
+cheat107_desc = "[悟空等级]LV 49"
+cheat107_code = "0301:12"
+cheat107_enable = false
+
+cheat108_desc = "[悟空等级]LV 48"
+cheat108_code = "0301:11"
+cheat108_enable = false
+
+cheat109_desc = "[悟空等级]LV 47"
+cheat109_code = "0301:10"
+cheat109_enable = false
+
+cheat110_desc = "[悟空等级]LV 46"
+cheat110_code = "0301:0F"
+cheat110_enable = false
+
+cheat111_desc = "[悟空等级]LV 45"
+cheat111_code = "0301:0E"
+cheat111_enable = false
+
+cheat112_desc = "[悟空等级]LV 44"
+cheat112_code = "0301:0D"
+cheat112_enable = false
+
+cheat113_desc = "[悟空等级]LV 43"
+cheat113_code = "0301:0C"
+cheat113_enable = false
+
+cheat114_desc = "[悟空等级]LV 42"
+cheat114_code = "0301:0B"
+cheat114_enable = false
+
+cheat115_desc = "[悟空等级]LV 41"
+cheat115_code = "0301:0A"
+cheat115_enable = false
+
+cheat116_desc = "[悟空等级]LV 40"
+cheat116_code = "0301:09"
+cheat116_enable = false
+
+cheat117_desc = "[悟空等级]LV 39"
+cheat117_code = "0301:08"
+cheat117_enable = false
+
+cheat118_desc = "[悟空等级]LV 38"
+cheat118_code = "0301:07"
+cheat118_enable = false
+
+cheat119_desc = "[悟空等级]LV 37"
+cheat119_code = "0301:06"
+cheat119_enable = false
+
+cheat120_desc = "[悟空等级]LV 36"
+cheat120_code = "0301:05"
+cheat120_enable = false
+
+cheat121_desc = "[悟空等级]LV 35"
+cheat121_code = "0301:04"
+cheat121_enable = false
+
+cheat122_desc = "[悟空等级]LV 34"
+cheat122_code = "0301:03"
+cheat122_enable = false
+
+cheat123_desc = "[悟空等级]LV 33"
+cheat123_code = "0301:02"
+cheat123_enable = false
+
+cheat124_desc = "[悟空等级]LV 32"
+cheat124_code = "0301:01"
+cheat124_enable = false
+
+cheat125_desc = "[悟空等级]LV 31"
+cheat125_code = "0301:00"
+cheat125_enable = false
+
+cheat126_desc = "[比克等级]LV 50"
+cheat126_code = "0319:13"
+cheat126_enable = false
+
+cheat127_desc = "[比克等级]LV 49"
+cheat127_code = "0319:12"
+cheat127_enable = false
+
+cheat128_desc = "[比克等级]LV 48"
+cheat128_code = "0319:11"
+cheat128_enable = false
+
+cheat129_desc = "[比克等级]LV 47"
+cheat129_code = "0319:10"
+cheat129_enable = false
+
+cheat130_desc = "[比克等级]LV 46"
+cheat130_code = "0319:0F"
+cheat130_enable = false
+
+cheat131_desc = "[比克等级]LV 45"
+cheat131_code = "0319:0E"
+cheat131_enable = false
+
+cheat132_desc = "[比克等级]LV 44"
+cheat132_code = "0319:0D"
+cheat132_enable = false
+
+cheat133_desc = "[比克等级]LV 43"
+cheat133_code = "0319:0C"
+cheat133_enable = false
+
+cheat134_desc = "[比克等级]LV 42"
+cheat134_code = "0319:0B"
+cheat134_enable = false
+
+cheat135_desc = "[比克等级]LV 41"
+cheat135_code = "0319:0A"
+cheat135_enable = false
+
+cheat136_desc = "[比克等级]LV 40"
+cheat136_code = "0319:09"
+cheat136_enable = false
+
+cheat137_desc = "[比克等级]LV 39"
+cheat137_code = "0319:08"
+cheat137_enable = false
+
+cheat138_desc = "[比克等级]LV 38"
+cheat138_code = "0319:07"
+cheat138_enable = false
+
+cheat139_desc = "[比克等级]LV 37"
+cheat139_code = "0319:06"
+cheat139_enable = false
+
+cheat140_desc = "[比克等级]LV 36"
+cheat140_code = "0319:05"
+cheat140_enable = false
+
+cheat141_desc = "[比克等级]LV 35"
+cheat141_code = "0319:04"
+cheat141_enable = false
+
+cheat142_desc = "[比克等级]LV 34"
+cheat142_code = "0319:03"
+cheat142_enable = false
+
+cheat143_desc = "[比克等级]LV 33"
+cheat143_code = "0319:02"
+cheat143_enable = false
+
+cheat144_desc = "[比克等级]LV 32"
+cheat144_code = "0319:01"
+cheat144_enable = false
+
+cheat145_desc = "[比克等级]LV 31"
+cheat145_code = "0319:00"
+cheat145_enable = false
+
+cheat146_desc = "[达尔等级]LV 50"
+cheat146_code = "0331:13"
+cheat146_enable = false
+
+cheat147_desc = "[达尔等级]LV 49"
+cheat147_code = "0331:12"
+cheat147_enable = false
+
+cheat148_desc = "[达尔等级]LV 48"
+cheat148_code = "0331:11"
+cheat148_enable = false
+
+cheat149_desc = "[达尔等级]LV 47"
+cheat149_code = "0331:10"
+cheat149_enable = false
+
+cheat150_desc = "[达尔等级]LV 46"
+cheat150_code = "0331:0F"
+cheat150_enable = false
+
+cheat151_desc = "[达尔等级]LV 45"
+cheat151_code = "0331:0E"
+cheat151_enable = false
+
+cheat152_desc = "[达尔等级]LV 44"
+cheat152_code = "0331:0D"
+cheat152_enable = false
+
+cheat153_desc = "[达尔等级]LV 43"
+cheat153_code = "0331:0C"
+cheat153_enable = false
+
+cheat154_desc = "[达尔等级]LV 42"
+cheat154_code = "0331:0B"
+cheat154_enable = false
+
+cheat155_desc = "[达尔等级]LV 41"
+cheat155_code = "0331:0A"
+cheat155_enable = false
+
+cheat156_desc = "[达尔等级]LV 40"
+cheat156_code = "0331:09"
+cheat156_enable = false
+
+cheat157_desc = "[达尔等级]LV 39"
+cheat157_code = "0331:08"
+cheat157_enable = false
+
+cheat158_desc = "[达尔等级]LV 38"
+cheat158_code = "0331:07"
+cheat158_enable = false
+
+cheat159_desc = "[达尔等级]LV 37"
+cheat159_code = "0331:06"
+cheat159_enable = false
+
+cheat160_desc = "[达尔等级]LV 36"
+cheat160_code = "0331:05"
+cheat160_enable = false
+
+cheat161_desc = "[达尔等级]LV 35"
+cheat161_code = "0331:04"
+cheat161_enable = false
+
+cheat162_desc = "[达尔等级]LV 34"
+cheat162_code = "0331:03"
+cheat162_enable = false
+
+cheat163_desc = "[达尔等级]LV 33"
+cheat163_code = "0331:02"
+cheat163_enable = false
+
+cheat164_desc = "[达尔等级]LV 32"
+cheat164_code = "0331:01"
+cheat164_enable = false
+
+cheat165_desc = "[达尔等级]LV 31"
+cheat165_code = "0331:00"
+cheat165_enable = false
+
+cheat166_desc = "[悟饭等级]LV 50"
+cheat166_code = "0349:13"
+cheat166_enable = false
+
+cheat167_desc = "[悟饭等级]LV 49"
+cheat167_code = "0349:12"
+cheat167_enable = false
+
+cheat168_desc = "[悟饭等级]LV 48"
+cheat168_code = "0349:11"
+cheat168_enable = false
+
+cheat169_desc = "[悟饭等级]LV 47"
+cheat169_code = "0349:10"
+cheat169_enable = false
+
+cheat170_desc = "[悟饭等级]LV 46"
+cheat170_code = "0349:0F"
+cheat170_enable = false
+
+cheat171_desc = "[悟饭等级]LV 45"
+cheat171_code = "0349:0E"
+cheat171_enable = false
+
+cheat172_desc = "[悟饭等级]LV 44"
+cheat172_code = "0349:0D"
+cheat172_enable = false
+
+cheat173_desc = "[悟饭等级]LV 43"
+cheat173_code = "0349:0C"
+cheat173_enable = false
+
+cheat174_desc = "[悟饭等级]LV 42"
+cheat174_code = "0349:0B"
+cheat174_enable = false
+
+cheat175_desc = "[悟饭等级]LV 41"
+cheat175_code = "0349:0A"
+cheat175_enable = false
+
+cheat176_desc = "[悟饭等级]LV 40"
+cheat176_code = "0349:09"
+cheat176_enable = false
+
+cheat177_desc = "[悟饭等级]LV 39"
+cheat177_code = "0349:08"
+cheat177_enable = false
+
+cheat178_desc = "[悟饭等级]LV 38"
+cheat178_code = "0349:07"
+cheat178_enable = false
+
+cheat179_desc = "[悟饭等级]LV 37"
+cheat179_code = "0349:06"
+cheat179_enable = false
+
+cheat180_desc = "[悟饭等级]LV 36"
+cheat180_code = "0349:05"
+cheat180_enable = false
+
+cheat181_desc = "[悟饭等级]LV 35"
+cheat181_code = "0349:04"
+cheat181_enable = false
+
+cheat182_desc = "[悟饭等级]LV 34"
+cheat182_code = "0349:03"
+cheat182_enable = false
+
+cheat183_desc = "[悟饭等级]LV 33"
+cheat183_code = "0349:02"
+cheat183_enable = false
+
+cheat184_desc = "[悟饭等级]LV 32"
+cheat184_code = "0349:01"
+cheat184_enable = false
+
+cheat185_desc = "[悟饭等级]LV 31"
+cheat185_code = "0349:00"
+cheat185_enable = false
+
+cheat186_desc = "[克林等级]LV 50"
+cheat186_code = "0361:13"
+cheat186_enable = false
+
+cheat187_desc = "[克林等级]LV 49"
+cheat187_code = "0361:12"
+cheat187_enable = false
+
+cheat188_desc = "[克林等级]LV 48"
+cheat188_code = "0361:11"
+cheat188_enable = false
+
+cheat189_desc = "[克林等级]LV 47"
+cheat189_code = "0361:10"
+cheat189_enable = false
+
+cheat190_desc = "[克林等级]LV 46"
+cheat190_code = "0361:0F"
+cheat190_enable = false
+
+cheat191_desc = "[克林等级]LV 45"
+cheat191_code = "0361:0E"
+cheat191_enable = false
+
+cheat192_desc = "[克林等级]LV 44"
+cheat192_code = "0361:0D"
+cheat192_enable = false
+
+cheat193_desc = "[克林等级]LV 43"
+cheat193_code = "0361:0C"
+cheat193_enable = false
+
+cheat194_desc = "[克林等级]LV 42"
+cheat194_code = "0361:0B"
+cheat194_enable = false
+
+cheat195_desc = "[克林等级]LV 41"
+cheat195_code = "0361:0A"
+cheat195_enable = false
+
+cheat196_desc = "[克林等级]LV 40"
+cheat196_code = "0361:09"
+cheat196_enable = false
+
+cheat197_desc = "[克林等级]LV 39"
+cheat197_code = "0361:08"
+cheat197_enable = false
+
+cheat198_desc = "[克林等级]LV 38"
+cheat198_code = "0361:07"
+cheat198_enable = false
+
+cheat199_desc = "[克林等级]LV 37"
+cheat199_code = "0361:06"
+cheat199_enable = false
+
+cheat200_desc = "[克林等级]LV 36"
+cheat200_code = "0361:05"
+cheat200_enable = false
+
+cheat201_desc = "[克林等级]LV 35"
+cheat201_code = "0361:04"
+cheat201_enable = false
+
+cheat202_desc = "[克林等级]LV 34"
+cheat202_code = "0361:03"
+cheat202_enable = false
+
+cheat203_desc = "[克林等级]LV 33"
+cheat203_code = "0361:02"
+cheat203_enable = false
+
+cheat204_desc = "[克林等级]LV 32"
+cheat204_code = "0361:01"
+cheat204_enable = false
+
+cheat205_desc = "[克林等级]LV 31"
+cheat205_code = "0361:00"
+cheat205_enable = false
+
+cheat206_desc = "[乐平等级]LV 50"
+cheat206_code = "0379:13"
+cheat206_enable = false
+
+cheat207_desc = "[乐平等级]LV 49"
+cheat207_code = "0379:12"
+cheat207_enable = false
+
+cheat208_desc = "[乐平等级]LV 48"
+cheat208_code = "0379:11"
+cheat208_enable = false
+
+cheat209_desc = "[乐平等级]LV 47"
+cheat209_code = "0379:10"
+cheat209_enable = false
+
+cheat210_desc = "[乐平等级]LV 46"
+cheat210_code = "0379:0F"
+cheat210_enable = false
+
+cheat211_desc = "[乐平等级]LV 45"
+cheat211_code = "0379:0E"
+cheat211_enable = false
+
+cheat212_desc = "[乐平等级]LV 44"
+cheat212_code = "0379:0D"
+cheat212_enable = false
+
+cheat213_desc = "[乐平等级]LV 43"
+cheat213_code = "0379:0C"
+cheat213_enable = false
+
+cheat214_desc = "[乐平等级]LV 42"
+cheat214_code = "0379:0B"
+cheat214_enable = false
+
+cheat215_desc = "[乐平等级]LV 41"
+cheat215_code = "0379:0A"
+cheat215_enable = false
+
+cheat216_desc = "[乐平等级]LV 40"
+cheat216_code = "0379:09"
+cheat216_enable = false
+
+cheat217_desc = "[乐平等级]LV 39"
+cheat217_code = "0379:08"
+cheat217_enable = false
+
+cheat218_desc = "[乐平等级]LV 38"
+cheat218_code = "0379:07"
+cheat218_enable = false
+
+cheat219_desc = "[乐平等级]LV 37"
+cheat219_code = "0379:06"
+cheat219_enable = false
+
+cheat220_desc = "[乐平等级]LV 36"
+cheat220_code = "0379:05"
+cheat220_enable = false
+
+cheat221_desc = "[乐平等级]LV 35"
+cheat221_code = "0379:04"
+cheat221_enable = false
+
+cheat222_desc = "[乐平等级]LV 34"
+cheat222_code = "0379:03"
+cheat222_enable = false
+
+cheat223_desc = "[乐平等级]LV 33"
+cheat223_code = "0379:02"
+cheat223_enable = false
+
+cheat224_desc = "[乐平等级]LV 32"
+cheat224_code = "0379:01"
+cheat224_enable = false
+
+cheat225_desc = "[乐平等级]LV 31"
+cheat225_code = "0379:00"
+cheat225_enable = false
+
+cheat226_desc = "[天津饭等级]LV 50"
+cheat226_code = "0391:13"
+cheat226_enable = false
+
+cheat227_desc = "[天津饭等级]LV 49"
+cheat227_code = "0391:12"
+cheat227_enable = false
+
+cheat228_desc = "[天津饭等级]LV 48"
+cheat228_code = "0391:11"
+cheat228_enable = false
+
+cheat229_desc = "[天津饭等级]LV 47"
+cheat229_code = "0391:10"
+cheat229_enable = false
+
+cheat230_desc = "[天津饭等级]LV 46"
+cheat230_code = "0391:0F"
+cheat230_enable = false
+
+cheat231_desc = "[天津饭等级]LV 45"
+cheat231_code = "0391:0E"
+cheat231_enable = false
+
+cheat232_desc = "[天津饭等级]LV 44"
+cheat232_code = "0391:0D"
+cheat232_enable = false
+
+cheat233_desc = "[天津饭等级]LV 43"
+cheat233_code = "0391:0C"
+cheat233_enable = false
+
+cheat234_desc = "[天津饭等级]LV 42"
+cheat234_code = "0391:0B"
+cheat234_enable = false
+
+cheat235_desc = "[天津饭等级]LV 41"
+cheat235_code = "0391:0A"
+cheat235_enable = false
+
+cheat236_desc = "[天津饭等级]LV 40"
+cheat236_code = "0391:09"
+cheat236_enable = false
+
+cheat237_desc = "[天津饭等级]LV 39"
+cheat237_code = "0391:08"
+cheat237_enable = false
+
+cheat238_desc = "[天津饭等级]LV 38"
+cheat238_code = "0391:07"
+cheat238_enable = false
+
+cheat239_desc = "[天津饭等级]LV 37"
+cheat239_code = "0391:06"
+cheat239_enable = false
+
+cheat240_desc = "[天津饭等级]LV 36"
+cheat240_code = "0391:05"
+cheat240_enable = false
+
+cheat241_desc = "[天津饭等级]LV 35"
+cheat241_code = "0391:04"
+cheat241_enable = false
+
+cheat242_desc = "[天津饭等级]LV 34"
+cheat242_code = "0391:03"
+cheat242_enable = false
+
+cheat243_desc = "[天津饭等级]LV 33"
+cheat243_code = "0391:02"
+cheat243_enable = false
+
+cheat244_desc = "[天津饭等级]LV 32"
+cheat244_code = "0391:01"
+cheat244_enable = false
+
+cheat245_desc = "[天津饭等级]LV 31"
+cheat245_code = "0391:00"
+cheat245_enable = false
+
+cheat246_desc = "[饺子等级]LV 50"
+cheat246_code = "03A9:13"
+cheat246_enable = false
+
+cheat247_desc = "[饺子等级]LV 49"
+cheat247_code = "03A9:12"
+cheat247_enable = false
+
+cheat248_desc = "[饺子等级]LV 48"
+cheat248_code = "03A9:11"
+cheat248_enable = false
+
+cheat249_desc = "[饺子等级]LV 47"
+cheat249_code = "03A9:10"
+cheat249_enable = false
+
+cheat250_desc = "[饺子等级]LV 46"
+cheat250_code = "03A9:0F"
+cheat250_enable = false
+
+cheat251_desc = "[饺子等级]LV 45"
+cheat251_code = "03A9:0E"
+cheat251_enable = false
+
+cheat252_desc = "[饺子等级]LV 44"
+cheat252_code = "03A9:0D"
+cheat252_enable = false
+
+cheat253_desc = "[饺子等级]LV 43"
+cheat253_code = "03A9:0C"
+cheat253_enable = false
+
+cheat254_desc = "[饺子等级]LV 42"
+cheat254_code = "03A9:0B"
+cheat254_enable = false
+
+cheat255_desc = "[饺子等级]LV 41"
+cheat255_code = "03A9:0A"
+cheat255_enable = false
+
+cheat256_desc = "[饺子等级]LV 40"
+cheat256_code = "03A9:09"
+cheat256_enable = false
+
+cheat257_desc = "[饺子等级]LV 39"
+cheat257_code = "03A9:08"
+cheat257_enable = false
+
+cheat258_desc = "[饺子等级]LV 38"
+cheat258_code = "03A9:07"
+cheat258_enable = false
+
+cheat259_desc = "[饺子等级]LV 37"
+cheat259_code = "03A9:06"
+cheat259_enable = false
+
+cheat260_desc = "[饺子等级]LV 36"
+cheat260_code = "03A9:05"
+cheat260_enable = false
+
+cheat261_desc = "[饺子等级]LV 35"
+cheat261_code = "03A9:04"
+cheat261_enable = false
+
+cheat262_desc = "[饺子等级]LV 34"
+cheat262_code = "03A9:03"
+cheat262_enable = false
+
+cheat263_desc = "[饺子等级]LV 33"
+cheat263_code = "03A9:02"
+cheat263_enable = false
+
+cheat264_desc = "[饺子等级]LV 32"
+cheat264_code = "03A9:01"
+cheat264_enable = false
+
+cheat265_desc = "[饺子等级]LV 31"
+cheat265_code = "03A9:00"
+cheat265_enable = false
+
+cheat266_desc = "[特兰克斯等级]LV 50"
+cheat266_code = "03C1:13"
+cheat266_enable = false
+
+cheat267_desc = "[特兰克斯等级]LV 49"
+cheat267_code = "03C1:12"
+cheat267_enable = false
+
+cheat268_desc = "[特兰克斯等级]LV 48"
+cheat268_code = "03C1:11"
+cheat268_enable = false
+
+cheat269_desc = "[特兰克斯等级]LV 47"
+cheat269_code = "03C1:10"
+cheat269_enable = false
+
+cheat270_desc = "[特兰克斯等级]LV 46"
+cheat270_code = "03C1:0F"
+cheat270_enable = false
+
+cheat271_desc = "[特兰克斯等级]LV 45"
+cheat271_code = "03C1:0E"
+cheat271_enable = false
+
+cheat272_desc = "[特兰克斯等级]LV 44"
+cheat272_code = "03C1:0D"
+cheat272_enable = false
+
+cheat273_desc = "[特兰克斯等级]LV 43"
+cheat273_code = "03C1:0C"
+cheat273_enable = false
+
+cheat274_desc = "[特兰克斯等级]LV 42"
+cheat274_code = "03C1:0B"
+cheat274_enable = false
+
+cheat275_desc = "[特兰克斯等级]LV 41"
+cheat275_code = "03C1:0A"
+cheat275_enable = false
+
+cheat276_desc = "[特兰克斯等级]LV 40"
+cheat276_code = "03C1:09"
+cheat276_enable = false
+
+cheat277_desc = "[特兰克斯等级]LV 39"
+cheat277_code = "03C1:08"
+cheat277_enable = false
+
+cheat278_desc = "[特兰克斯等级]LV 38"
+cheat278_code = "03C1:07"
+cheat278_enable = false
+
+cheat279_desc = "[特兰克斯等级]LV 37"
+cheat279_code = "03C1:06"
+cheat279_enable = false
+
+cheat280_desc = "[特兰克斯等级]LV 36"
+cheat280_code = "03C1:05"
+cheat280_enable = false
+
+cheat281_desc = "[特兰克斯等级]LV 35"
+cheat281_code = "03C1:04"
+cheat281_enable = false
+
+cheat282_desc = "[特兰克斯等级]LV 34"
+cheat282_code = "03C1:03"
+cheat282_enable = false
+
+cheat283_desc = "[特兰克斯等级]LV 33"
+cheat283_code = "03C1:02"
+cheat283_enable = false
+
+cheat284_desc = "[特兰克斯等级]LV 32"
+cheat284_code = "03C1:01"
+cheat284_enable = false
+
+cheat285_desc = "[特兰克斯等级]LV 31"
+cheat285_code = "03C1:00"
+cheat285_enable = false
+
+cheat286_desc = "[悟空HP]999"
+cheat286_code = "0302:E7+0303:03"
+cheat286_enable = false
+
+cheat287_desc = "[比克HP]730"
+cheat287_code = "031A:DA+031B:02"
+cheat287_enable = false
+
+cheat288_desc = "[比克HP]999"
+cheat288_code = "031A:E7+031B:03"
+cheat288_enable = false
+
+cheat289_desc = "[达尔HP]850"
+cheat289_code = "0332:52+0333:03"
+cheat289_enable = false
+
+cheat290_desc = "[达尔HP]999"
+cheat290_code = "0332:E7+0333:03"
+cheat290_enable = false
+
+cheat291_desc = "[悟饭HP]850"
+cheat291_code = "034A:52+034B:03"
+cheat291_enable = false
+
+cheat292_desc = "[悟饭HP]999"
+cheat292_code = "034A:E7+034B:03"
+cheat292_enable = false
+
+cheat293_desc = "[克林HP]696"
+cheat293_code = "0362:B8+0363:02"
+cheat293_enable = false
+
+cheat294_desc = "[克林HP]999"
+cheat294_code = "0362:E7+0363:03"
+cheat294_enable = false
+
+cheat295_desc = "[乐平HP]700"
+cheat295_code = "037A:BC+037B:02"
+cheat295_enable = false
+
+cheat296_desc = "[乐平HP]999"
+cheat296_code = "037A:E7+037B:03"
+cheat296_enable = false
+
+cheat297_desc = "[天津饭HP]709"
+cheat297_code = "0392:C5+0393:02"
+cheat297_enable = false
+
+cheat298_desc = "[天津饭HP]999"
+cheat298_code = "0392:E7+0393:03"
+cheat298_enable = false
+
+cheat299_desc = "[饺子HP]695"
+cheat299_code = "03AA:B7+03AB:02"
+cheat299_enable = false
+
+cheat300_desc = "[饺子HP]999"
+cheat300_code = "03AA:E7+03AB:03"
+cheat300_enable = false
+
+cheat301_desc = "[特兰克斯HP]845"
+cheat301_code = "03C2:4D+03C3:03"
+cheat301_enable = false
+
+cheat302_desc = "[特兰克斯HP]999"
+cheat302_code = "03C2:E7+03C3:03"
+cheat302_enable = false
+
+cheat303_desc = "[悟空KI]999"
+cheat303_code = "0304:EE+0305:02"
+cheat303_enable = false
+
+cheat304_desc = "[悟空KI]999"
+cheat304_code = "0304:E7+0305:03"
+cheat304_enable = false
+
+cheat305_desc = "[比克KI]730"
+cheat305_code = "031C:DF+031D:02"
+cheat305_enable = false
+
+cheat306_desc = "[比克KI]999"
+cheat306_code = "031C:E7+031D:03"
+cheat306_enable = false
+
+cheat307_desc = "[达尔KI]850"
+cheat307_code = "0334:0C+0335:03"
+cheat307_enable = false
+
+cheat308_desc = "[达尔KI]999"
+cheat308_code = "0334:E7+0335:03"
+cheat308_enable = false
+
+cheat309_desc = "[悟饭KI]850"
+cheat309_code = "034C:DF+034D:02"
+cheat309_enable = false
+
+cheat310_desc = "[悟饭KI]999"
+cheat310_code = "034C:E7+034D:03"
+cheat310_enable = false
+
+cheat311_desc = "[克林KI]696"
+cheat311_code = "0364:CB+0365:02"
+cheat311_enable = false
+
+cheat312_desc = "[克林KI]999"
+cheat312_code = "0364:E7+0365:03"
+cheat312_enable = false
+
+cheat313_desc = "[乐平KI]700"
+cheat313_code = "037C:BC+037D:02"
+cheat313_enable = false
+
+cheat314_desc = "[乐平KI]999"
+cheat314_code = "037C:E7+037D:03"
+cheat314_enable = false
+
+cheat315_desc = "[天津饭KI]709"
+cheat315_code = "0394:C6+0395:02"
+cheat315_enable = false
+
+cheat316_desc = "[天津饭KI]999"
+cheat316_code = "0394:E7+0395:03"
+cheat316_enable = false
+
+cheat317_desc = "[饺子KI]695"
+cheat317_code = "03AC:B7+03AD:02"
+cheat317_enable = false
+
+cheat318_desc = "[饺子KI]999"
+cheat318_code = "03AC:E7+03AD:03"
+cheat318_enable = false
+
+cheat319_desc = "[特兰克斯KI]845"
+cheat319_code = "03C4:E9+03C5:02"
+cheat319_enable = false
+
+cheat320_desc = "[特兰克斯KI]999"
+cheat320_code = "03C4:E7+03C5:03"
+cheat320_enable = false
+
+cheat321_desc = "[悟空exp]65535"
+cheat321_code = "0306:FF+0307:FF"
+cheat321_enable = false
+
+cheat322_desc = "[比克exp]65535"
+cheat322_code = "031E:FF+031F:FF"
+cheat322_enable = false
+
+cheat323_desc = "[达尔exp]65535"
+cheat323_code = "0336:FF+0337:FF"
+cheat323_enable = false
+
+cheat324_desc = "[悟饭exp]65535"
+cheat324_code = "034E:FF+034F:FF"
+cheat324_enable = false
+
+cheat325_desc = "[克林exp]65535"
+cheat325_code = "0366:FF+0367:FF"
+cheat325_enable = false
+
+cheat326_desc = "[乐平exp]65535"
+cheat326_code = "037E:FF+037F:FF"
+cheat326_enable = false
+
+cheat327_desc = "[天津饭exp]65535"
+cheat327_code = "0396:FF+0397:FF"
+cheat327_enable = false
+
+cheat328_desc = "[饺子exp]65535"
+cheat328_code = "03AE:FF+03AF:FF"
+cheat328_enable = false
+
+cheat329_desc = "[特兰克斯exp]65535"
+cheat329_code = "03C6:FF+03C7:FF"
+cheat329_enable = false
+
+cheat330_desc = "[悟空蓄力状态]蓄力状态"
+cheat330_code = "0311:80"
+cheat330_enable = false
+
+cheat331_desc = "[悟空蓄力状态]普通状态"
+cheat331_code = "0311:00"
+cheat331_enable = false
+
+cheat332_desc = "[比克蓄力状态]蓄力状态"
+cheat332_code = "0329:80"
+cheat332_enable = false
+
+cheat333_desc = "[比克蓄力状态]普通状态"
+cheat333_code = "0329:00"
+cheat333_enable = false
+
+cheat334_desc = "[达尔蓄力状态]蓄力状态"
+cheat334_code = "0341:80"
+cheat334_enable = false
+
+cheat335_desc = "[达尔蓄力状态]普通状态"
+cheat335_code = "0341:00"
+cheat335_enable = false
+
+cheat336_desc = "[悟饭蓄力状态]蓄力状态"
+cheat336_code = "0359:80"
+cheat336_enable = false
+
+cheat337_desc = "[悟饭蓄力状态]普通状态"
+cheat337_code = "0359:00"
+cheat337_enable = false
+
+cheat338_desc = "[克林蓄力状态]蓄力状态"
+cheat338_code = "0371:80"
+cheat338_enable = false
+
+cheat339_desc = "[克林蓄力状态]普通状态"
+cheat339_code = "0371:00"
+cheat339_enable = false
+
+cheat340_desc = "[乐平蓄力状态]蓄力状态"
+cheat340_code = "0389:80"
+cheat340_enable = false
+
+cheat341_desc = "[乐平蓄力状态]普通状态"
+cheat341_code = "0389:00"
+cheat341_enable = false
+
+cheat342_desc = "[天津饭蓄力状态]蓄力状态"
+cheat342_code = "03A1:80"
+cheat342_enable = false
+
+cheat343_desc = "[天津饭蓄力状态]普通状态"
+cheat343_code = "03A1:00"
+cheat343_enable = false
+
+cheat344_desc = "[饺子蓄力状态]蓄力状态"
+cheat344_code = "03B9:80"
+cheat344_enable = false
+
+cheat345_desc = "[饺子蓄力状态]普通状态"
+cheat345_code = "03B9:00"
+cheat345_enable = false
+
+cheat346_desc = "[特兰克斯蓄力状态]蓄力状态"
+cheat346_code = "03D1:80"
+cheat346_enable = false
+
+cheat347_desc = "[特兰克斯蓄力状态]普通状态"
+cheat347_code = "03D1:00"
+cheat347_enable = false
+
+cheat348_desc = "[第一张牌点数]Z"
+cheat348_code = "04F2:08"
+cheat348_enable = false
+
+cheat349_desc = "[第一张牌点数]7"
+cheat349_code = "04F2:07"
+cheat349_enable = false
+
+cheat350_desc = "[第一张牌点数]6"
+cheat350_code = "04F2:06"
+cheat350_enable = false
+
+cheat351_desc = "[第一张牌点数]5"
+cheat351_code = "04F2:05"
+cheat351_enable = false
+
+cheat352_desc = "[第一张牌点数]4"
+cheat352_code = "04F2:04"
+cheat352_enable = false
+
+cheat353_desc = "[第一张牌点数]3"
+cheat353_code = "04F2:03"
+cheat353_enable = false
+
+cheat354_desc = "[第一张牌点数]2"
+cheat354_code = "04F2:02"
+cheat354_enable = false
+
+cheat355_desc = "[第一张牌点数]1"
+cheat355_code = "04F2:01"
+cheat355_enable = false
+
+cheat356_desc = "[第二张牌点数]Z"
+cheat356_code = "04FA:08"
+cheat356_enable = false
+
+cheat357_desc = "[第二张牌点数]7"
+cheat357_code = "04FA:07"
+cheat357_enable = false
+
+cheat358_desc = "[第二张牌点数]6"
+cheat358_code = "04FA:06"
+cheat358_enable = false
+
+cheat359_desc = "[第二张牌点数]5"
+cheat359_code = "04FA:05"
+cheat359_enable = false
+
+cheat360_desc = "[第二张牌点数]4"
+cheat360_code = "04FA:04"
+cheat360_enable = false
+
+cheat361_desc = "[第二张牌点数]3"
+cheat361_code = "04FA:03"
+cheat361_enable = false
+
+cheat362_desc = "[第二张牌点数]2"
+cheat362_code = "04FA:02"
+cheat362_enable = false
+
+cheat363_desc = "[第二张牌点数]1"
+cheat363_code = "04FA:01"
+cheat363_enable = false
+
+cheat364_desc = "[第三张牌点数]Z"
+cheat364_code = "0502:08"
+cheat364_enable = false
+
+cheat365_desc = "[第三张牌点数]7"
+cheat365_code = "0502:07"
+cheat365_enable = false
+
+cheat366_desc = "[第三张牌点数]6"
+cheat366_code = "0502:06"
+cheat366_enable = false
+
+cheat367_desc = "[第三张牌点数]5"
+cheat367_code = "0502:05"
+cheat367_enable = false
+
+cheat368_desc = "[第三张牌点数]4"
+cheat368_code = "0502:04"
+cheat368_enable = false
+
+cheat369_desc = "[第三张牌点数]3"
+cheat369_code = "0502:03"
+cheat369_enable = false
+
+cheat370_desc = "[第三张牌点数]2"
+cheat370_code = "0502:02"
+cheat370_enable = false
+
+cheat371_desc = "[第三张牌点数]1"
+cheat371_code = "0502:01"
+cheat371_enable = false
+
+cheat372_desc = "[第四张牌点数]Z"
+cheat372_code = "050A:08"
+cheat372_enable = false
+
+cheat373_desc = "[第四张牌点数]7"
+cheat373_code = "050A:07"
+cheat373_enable = false
+
+cheat374_desc = "[第四张牌点数]6"
+cheat374_code = "050A:06"
+cheat374_enable = false
+
+cheat375_desc = "[第四张牌点数]5"
+cheat375_code = "050A:05"
+cheat375_enable = false
+
+cheat376_desc = "[第四张牌点数]4"
+cheat376_code = "050A:04"
+cheat376_enable = false
+
+cheat377_desc = "[第四张牌点数]3"
+cheat377_code = "050A:03"
+cheat377_enable = false
+
+cheat378_desc = "[第四张牌点数]2"
+cheat378_code = "050A:02"
+cheat378_enable = false
+
+cheat379_desc = "[第四张牌点数]1"
+cheat379_code = "050A:01"
+cheat379_enable = false
+
+cheat380_desc = "[第五张牌点数]Z"
+cheat380_code = "0512:08"
+cheat380_enable = false
+
+cheat381_desc = "[第五张牌点数]7"
+cheat381_code = "0512:07"
+cheat381_enable = false
+
+cheat382_desc = "[第五张牌点数]6"
+cheat382_code = "0512:06"
+cheat382_enable = false
+
+cheat383_desc = "[第五张牌点数]5"
+cheat383_code = "0512:05"
+cheat383_enable = false
+
+cheat384_desc = "[第五张牌点数]4"
+cheat384_code = "0512:04"
+cheat384_enable = false
+
+cheat385_desc = "[第五张牌点数]3"
+cheat385_code = "0512:03"
+cheat385_enable = false
+
+cheat386_desc = "[第五张牌点数]2"
+cheat386_code = "0512:02"
+cheat386_enable = false
+
+cheat387_desc = "[第五张牌点数]1"
+cheat387_code = "0512:01"
+cheat387_enable = false
+
+cheat388_desc = "[第一张牌字号]神"
+cheat388_code = "04F3:05"
+cheat388_enable = false
+
+cheat389_desc = "[第一张牌字号]魔"
+cheat389_code = "04F3:01"
+cheat389_enable = false
+
+cheat390_desc = "[第一张牌字号]界"
+cheat390_code = "04F3:02"
+cheat390_enable = false
+
+cheat391_desc = "[第一张牌字号]惑"
+cheat391_code = "04F3:03"
+cheat391_enable = false
+
+cheat392_desc = "[第一张牌字号]龟"
+cheat392_code = "04F3:04"
+cheat392_enable = false
+
+cheat393_desc = "[第一张牌字号]造"
+cheat393_code = "04F3:06"
+cheat393_enable = false
+
+cheat394_desc = "[第一张牌字号]Z3"
+cheat394_code = "04F3:07"
+cheat394_enable = false
+
+cheat395_desc = "[第二张牌字号]神"
+cheat395_code = "04FB:05"
+cheat395_enable = false
+
+cheat396_desc = "[第二张牌字号]魔"
+cheat396_code = "04FB:01"
+cheat396_enable = false
+
+cheat397_desc = "[第二张牌字号]界"
+cheat397_code = "04FB:02"
+cheat397_enable = false
+
+cheat398_desc = "[第二张牌字号]惑"
+cheat398_code = "04FB:03"
+cheat398_enable = false
+
+cheat399_desc = "[第二张牌字号]龟"
+cheat399_code = "04FB:04"
+cheat399_enable = false
+
+cheat400_desc = "[第二张牌字号]造"
+cheat400_code = "04FB:06"
+cheat400_enable = false
+
+cheat401_desc = "[第二张牌字号]Z3"
+cheat401_code = "04FB:07"
+cheat401_enable = false
+
+cheat402_desc = "[第三张牌字号]神"
+cheat402_code = "0503:05"
+cheat402_enable = false
+
+cheat403_desc = "[第三张牌字号]魔"
+cheat403_code = "0503:01"
+cheat403_enable = false
+
+cheat404_desc = "[第三张牌字号]界"
+cheat404_code = "0503:02"
+cheat404_enable = false
+
+cheat405_desc = "[第三张牌字号]惑"
+cheat405_code = "0503:03"
+cheat405_enable = false
+
+cheat406_desc = "[第三张牌字号]龟"
+cheat406_code = "0503:04"
+cheat406_enable = false
+
+cheat407_desc = "[第三张牌字号]造"
+cheat407_code = "0503:06"
+cheat407_enable = false
+
+cheat408_desc = "[第三张牌字号]Z3"
+cheat408_code = "0503:07"
+cheat408_enable = false
+
+cheat409_desc = "[第四张牌字号]神"
+cheat409_code = "050B:05"
+cheat409_enable = false
+
+cheat410_desc = "[第四张牌字号]魔"
+cheat410_code = "050B:01"
+cheat410_enable = false
+
+cheat411_desc = "[第四张牌字号]界"
+cheat411_code = "050B:02"
+cheat411_enable = false
+
+cheat412_desc = "[第四张牌字号]惑"
+cheat412_code = "050B:03"
+cheat412_enable = false
+
+cheat413_desc = "[第四张牌字号]龟"
+cheat413_code = "050B:04"
+cheat413_enable = false
+
+cheat414_desc = "[第四张牌字号]造"
+cheat414_code = "050B:06"
+cheat414_enable = false
+
+cheat415_desc = "[第四张牌字号]Z3"
+cheat415_code = "050B:07"
+cheat415_enable = false
+
+cheat416_desc = "[第五张牌字号]神"
+cheat416_code = "0513:05"
+cheat416_enable = false
+
+cheat417_desc = "[第五张牌字号]魔"
+cheat417_code = "0513:01"
+cheat417_enable = false
+
+cheat418_desc = "[第五张牌字号]界"
+cheat418_code = "0513:02"
+cheat418_enable = false
+
+cheat419_desc = "[第五张牌字号]惑"
+cheat419_code = "0513:03"
+cheat419_enable = false
+
+cheat420_desc = "[第五张牌字号]龟"
+cheat420_code = "0513:04"
+cheat420_enable = false
+
+cheat421_desc = "[第五张牌字号]造"
+cheat421_code = "0513:06"
+cheat421_enable = false
+
+cheat422_desc = "[第五张牌字号]Z3"
+cheat422_code = "0513:07"
+cheat422_enable = false
+
+cheat423_desc = "[第一张牌下小标]拳头"
+cheat423_code = "04F4:05"
+cheat423_enable = false
+
+cheat424_desc = "[第一张牌下小标]红心"
+cheat424_code = "04F4:01"
+cheat424_enable = false
+
+cheat425_desc = "[第一张牌下小标]楼梯"
+cheat425_code = "04F4:02"
+cheat425_enable = false
+
+cheat426_desc = "[第一张牌下小标]杠铃"
+cheat426_code = "04F4:03"
+cheat426_enable = false
+
+cheat427_desc = "[第一张牌下小标]鞋子"
+cheat427_code = "04F4:04"
+cheat427_enable = false
+
+cheat428_desc = "[第一张牌下小标]叹号"
+cheat428_code = "04F4:06"
+cheat428_enable = false
+
+cheat429_desc = "[第二张牌下小标]拳头"
+cheat429_code = "04FC:05"
+cheat429_enable = false
+
+cheat430_desc = "[第二张牌下小标]红心"
+cheat430_code = "04FC:01"
+cheat430_enable = false
+
+cheat431_desc = "[第二张牌下小标]楼梯"
+cheat431_code = "04FC:02"
+cheat431_enable = false
+
+cheat432_desc = "[第二张牌下小标]杠铃"
+cheat432_code = "04FC:03"
+cheat432_enable = false
+
+cheat433_desc = "[第二张牌下小标]鞋子"
+cheat433_code = "04FC:04"
+cheat433_enable = false
+
+cheat434_desc = "[第二张牌下小标]叹号"
+cheat434_code = "04FC:06"
+cheat434_enable = false
+
+cheat435_desc = "[第三张牌下小标]拳头"
+cheat435_code = "0504:05"
+cheat435_enable = false
+
+cheat436_desc = "[第三张牌下小标]红心"
+cheat436_code = "0504:01"
+cheat436_enable = false
+
+cheat437_desc = "[第三张牌下小标]楼梯"
+cheat437_code = "0504:02"
+cheat437_enable = false
+
+cheat438_desc = "[第三张牌下小标]杠铃"
+cheat438_code = "0504:03"
+cheat438_enable = false
+
+cheat439_desc = "[第三张牌下小标]鞋子"
+cheat439_code = "0504:04"
+cheat439_enable = false
+
+cheat440_desc = "[第三张牌下小标]叹号"
+cheat440_code = "0504:06"
+cheat440_enable = false
+
+cheat441_desc = "[第四张牌下小标]拳头"
+cheat441_code = "050C:05"
+cheat441_enable = false
+
+cheat442_desc = "[第四张牌下小标]红心"
+cheat442_code = "050C:01"
+cheat442_enable = false
+
+cheat443_desc = "[第四张牌下小标]楼梯"
+cheat443_code = "050C:02"
+cheat443_enable = false
+
+cheat444_desc = "[第四张牌下小标]杠铃"
+cheat444_code = "050C:03"
+cheat444_enable = false
+
+cheat445_desc = "[第四张牌下小标]鞋子"
+cheat445_code = "050C:04"
+cheat445_enable = false
+
+cheat446_desc = "[第四张牌下小标]叹号"
+cheat446_code = "050C:06"
+cheat446_enable = false
+
+cheat447_desc = "[第五张牌下小标]拳头"
+cheat447_code = "0514:05"
+cheat447_enable = false
+
+cheat448_desc = "[第五张牌下小标]红心"
+cheat448_code = "0514:01"
+cheat448_enable = false
+
+cheat449_desc = "[第五张牌下小标]楼梯"
+cheat449_code = "0514:02"
+cheat449_enable = false
+
+cheat450_desc = "[第五张牌下小标]杠铃"
+cheat450_code = "0514:03"
+cheat450_enable = false
+
+cheat451_desc = "[第五张牌下小标]鞋子"
+cheat451_code = "0514:04"
+cheat451_enable = false
+
+cheat452_desc = "[第五张牌下小标]叹号"
+cheat452_code = "0514:06"
+cheat452_enable = false
+

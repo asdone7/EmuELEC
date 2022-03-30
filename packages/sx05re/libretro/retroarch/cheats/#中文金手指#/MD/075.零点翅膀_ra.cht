@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[战机数量]ON"
+cheat0_code = "FF00FC:63"
+cheat0_enable = false
+

@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[快速升级]ON"
+cheat0_code = "7E0EC888+7E0EC913"
+cheat0_enable = false
+
+cheat1_desc = "[$$9999999]ON"
+cheat1_code = "7E100A7F+7E100B96+7E100C98"
+cheat1_enable = false
+
+cheat2_desc = "[SP不减]ON"
+cheat2_code = "7E0EC500"
+cheat2_enable = false
+

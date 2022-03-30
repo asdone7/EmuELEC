@@ -1,0 +1,35 @@
+cheats = 8
+
+cheat0_desc = "#无限的生命"
+cheat0_code = "D009E528 0102+8009E528 0103"
+cheat0_enable = false
+
+cheat1_desc = "#无限活力"
+cheat1_code = "D00A7C10 0003+800A7C10 0004"
+cheat1_enable = false
+
+cheat2_desc = "#Moon Jump"
+cheat2_code = "D009F200 0040+800A7C80 000B"
+cheat2_enable = false
+
+cheat3_desc = "#最大AP"
+cheat3_code = "800C175C E0FF+800C175E 05F5"
+cheat3_enable = false
+
+cheat4_desc = "#无限生命"
+cheat4_code = "800E9EB6 0008"
+cheat4_enable = false
+
+cheat5_desc = "#时间"
+cheat5_code = "800C1760 0000"
+cheat5_enable = false
+
+cheat6_desc = "#所有武器"
+cheat6_code = "800C199C 0101+800C199E 0101+800C19A0 0101+800C19A2 0101+800C19A4 0101+800C19A6 0101"
+cheat6_enable = false
+
+cheat7_desc = "#救命"
+cheat7_code = "800C1D1C FFFF"
+cheat7_enable = false
+
+

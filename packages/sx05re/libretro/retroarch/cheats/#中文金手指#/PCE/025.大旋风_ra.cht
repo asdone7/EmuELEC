@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[援护飞机数]ON"
+cheat0_code = "1F0A21:09"
+cheat0_enable = false
+
+cheat1_desc = "[只数]ON"
+cheat1_code = "1F02A4:09"
+cheat1_enable = false
+
+cheat2_desc = "[威力最强]ON"
+cheat2_code = "1F0A1F:03"
+cheat2_enable = false
+

@@ -1,0 +1,354 @@
+cheats = 88
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "7E0314FF+7E0315FF"
+cheat0_enable = false
+
+cheat1_desc = "[男主角HP]ON"
+cheat1_code = "7E10024FF"
+cheat1_enable = false
+
+cheat2_desc = "[男主角EXP]ON"
+cheat2_code = "7E1002588+7E1002613"
+cheat2_enable = false
+
+cheat3_desc = "[男主角能力最高]ON"
+cheat3_code = "7E10018FF+7E10019FF+7E1001AFF+7E1001BFF+7E1001CFF+7E1001DFF+7E1001EFF+7E1001FFF+7E10020FF+7E10021FF+7E10022FF+7E10023FF+7E100280F"
+cheat3_enable = false
+
+cheat4_desc = "[男主角持有道具]组1"
+cheat4_code = "7E1000C01+7E1000D02+7E1000E03+7E1000F04+7E1001005+7E1001106+7E1001207+7E1001308"
+cheat4_enable = false
+
+cheat5_desc = "[男主角持有道具]组2"
+cheat5_code = "7E1000C09+7E1000D0A+7E1000E0B+7E1000F0C+7E100100D+7E100110E+7E100120F+7E1001310"
+cheat5_enable = false
+
+cheat6_desc = "[男主角持有道具]组3"
+cheat6_code = "7E1000C11+7E1000D12+7E1000E13+7E1000F14+7E1001015+7E1001116+7E1001217+7E1001318"
+cheat6_enable = false
+
+cheat7_desc = "[男主角持有道具]组4"
+cheat7_code = "7E1000C19+7E1000D1A+7E1000E1B+7E1000F1C+7E100101D+7E100111E+7E100121F+7E1001320"
+cheat7_enable = false
+
+cheat8_desc = "[男主角持有道具]组5"
+cheat8_code = "7E1000C21+7E1000D22+7E1000E23+7E1000F24+7E1001025+7E1001126+7E1001227+7E1001328"
+cheat8_enable = false
+
+cheat9_desc = "[男主角持有道具]组6"
+cheat9_code = "7E1000C29+7E1000D2A+7E1000E2B+7E1000F2C+7E100102D+7E100112E+7E100122F+7E1001330"
+cheat9_enable = false
+
+cheat10_desc = "[男主角持有道具]组7"
+cheat10_code = "7E1000C31+7E1000D32+7E1000E33+7E1000F34+7E1001035+7E1001136+7E1001237+7E1001338"
+cheat10_enable = false
+
+cheat11_desc = "[男主角持有道具]组8"
+cheat11_code = "7E1000C39+7E1000D3A+7E1000E3B+7E1000F3C+7E100103D+7E100113E+7E100123F+7E1001340"
+cheat11_enable = false
+
+cheat12_desc = "[男主角持有道具]组9"
+cheat12_code = "7E1000C41+7E1000D42+7E1000E43+7E1000F44+7E1001045+7E1001146+7E1001247+7E1001348"
+cheat12_enable = false
+
+cheat13_desc = "[男主角持有道具]组10"
+cheat13_code = "7E1000C49+7E1000D4A+7E1000E4B+7E1000F4C+7E100104D+7E100114E+7E100124F+7E1001350"
+cheat13_enable = false
+
+cheat14_desc = "[男主角持有道具]组11"
+cheat14_code = "7E1000C51+7E1000D52+7E1000E53+7E1000F54+7E1001055+7E1001156+7E1001257+7E1001358"
+cheat14_enable = false
+
+cheat15_desc = "[男主角持有道具]组12"
+cheat15_code = "7E1000C59+7E1000D5A+7E1000E5B+7E1000F5C+7E100105D+7E100115E+7E100125F+7E1001360"
+cheat15_enable = false
+
+cheat16_desc = "[男主角持有道具]组13"
+cheat16_code = "7E1000C61+7E1000D62+7E1000E63+7E1000F64+7E1001065+7E1001166+7E1001267+7E1001368"
+cheat16_enable = false
+
+cheat17_desc = "[男主角持有道具]组14"
+cheat17_code = "7E1000C69+7E1000D6A+7E1000E6B+7E1000F6C+7E100106D+7E100116E+7E100126F+7E1001370"
+cheat17_enable = false
+
+cheat18_desc = "[男主角持有道具]组15"
+cheat18_code = "7E1000C71+7E1000D72+7E1000E73+7E1000F74+7E1001075"
+cheat18_enable = false
+
+cheat19_desc = "[女主角HP]ON"
+cheat19_code = "7E10060FF"
+cheat19_enable = false
+
+cheat20_desc = "[女主角EXP]ON"
+cheat20_code = "7E1006188+7E1006213"
+cheat20_enable = false
+
+cheat21_desc = "[女主角能力最高]ON"
+cheat21_code = "7E10054FF+7E10055FF+7E10056FF+7E10057FF+7E10058FF+7E10059FF+7E1005AFF+7E1005BFF+7E1005CFF+7E1005DFF+7E1005EFF+7E1005FFF+7E100640F"
+cheat21_enable = false
+
+cheat22_desc = "[女主角无限移动]ON"
+cheat22_code = "7E1003C00"
+cheat22_enable = false
+
+cheat23_desc = "[队员三]HP"
+cheat23_code = "7E1009CFF"
+cheat23_enable = false
+
+cheat24_desc = "[队员三]EXP"
+cheat24_code = "7E1009D88+7E1009E13"
+cheat24_enable = false
+
+cheat25_desc = "[队员三]能力最高"
+cheat25_code = "7E100B0FF+7E100B1FF+7E100B2FF+7E100B3FF+7E100B4FF+7E100B5FF+7E100B6FF+7E100B7FF+7E100B8FF+7E100B9FF+7E100BAFF+7E100BBFF+7E100A00F"
+cheat25_enable = false
+
+cheat26_desc = "[队员三]无限移动"
+cheat26_code = "7E1007800"
+cheat26_enable = false
+
+cheat27_desc = "[队员四]HP"
+cheat27_code = "7E100D8FF"
+cheat27_enable = false
+
+cheat28_desc = "[队员四]EXP"
+cheat28_code = "7E100D988+7E100DA13"
+cheat28_enable = false
+
+cheat29_desc = "[队员四]能力最高"
+cheat29_code = "7E100ECFF+7E100EDFF+7E100EEFF+7E100EFFF+7E100F0FF+7E100F1FF+7E100F2FF+7E100F3FF+7E100F4FF+7E100F5FF+7E100F6FF+7E100F7FF+7E100DC0F"
+cheat29_enable = false
+
+cheat30_desc = "[队员四]无限移动"
+cheat30_code = "7E100B400"
+cheat30_enable = false
+
+cheat31_desc = "[队员五]HP"
+cheat31_code = "7E10114FF"
+cheat31_enable = false
+
+cheat32_desc = "[队员五]EXP"
+cheat32_code = "7E1011588+7E1011613"
+cheat32_enable = false
+
+cheat33_desc = "[队员五]能力最高"
+cheat33_code = "7E10128FF+7E10129FF+7E1012AFF+7E1012BFF+7E1012CFF+7E1012DFF+7E1012EFF+7E1012FFF+7E10130FF+7E10131FF+7E10132FF+7E10133FF+7E101180F"
+cheat33_enable = false
+
+cheat34_desc = "[队员五]无限移动"
+cheat34_code = "7E100F000"
+cheat34_enable = false
+
+cheat35_desc = "[队员六]HP"
+cheat35_code = "7E10150FF"
+cheat35_enable = false
+
+cheat36_desc = "[队员六]EXP"
+cheat36_code = "7E1015188+7E1015213"
+cheat36_enable = false
+
+cheat37_desc = "[队员六]能力最高"
+cheat37_code = "7E10164FF+7E10165FF+7E10166FF+7E10167FF+7E10168FF+7E10169FF+7E1016AFF+7E1016BFF+7E1016CFF+7E1016DFF+7E1016EFF+7E1016FFF+7E101540F"
+cheat37_enable = false
+
+cheat38_desc = "[队员六]无限移动"
+cheat38_code = "7E1012C00"
+cheat38_enable = false
+
+cheat39_desc = "[队员七]HP"
+cheat39_code = "7E1018CFF"
+cheat39_enable = false
+
+cheat40_desc = "[队员七]EXP"
+cheat40_code = "7E1018D88+7E1018E13"
+cheat40_enable = false
+
+cheat41_desc = "[队员七]能力最高"
+cheat41_code = "7E101A0FF+7E101A1FF+7E101A2FF+7E101A3FF+7E101A4FF+7E101A5FF+7E101A6FF+7E101A7FF+7E101A8FF+7E101A9FF+7E101AAFF+7E101ABFF+7E101900F"
+cheat41_enable = false
+
+cheat42_desc = "[队员七]无限移动"
+cheat42_code = "7E1016800"
+cheat42_enable = false
+
+cheat43_desc = "[队员八]HP"
+cheat43_code = "7E101C8FF"
+cheat43_enable = false
+
+cheat44_desc = "[队员八]EXP"
+cheat44_code = "7E101C988+7E101CA13"
+cheat44_enable = false
+
+cheat45_desc = "[队员八]能力最高"
+cheat45_code = "7E101DCFF+7E101DDFF+7E101DEFF+7E101DFFF+7E101E0FF+7E101E1FF+7E101E2FF+7E101E3FF+7E101E4FF+7E101E5FF+7E101E6FF+7E101E7FF+7E101CC0F"
+cheat45_enable = false
+
+cheat46_desc = "[队员八]无限移动"
+cheat46_code = "7E101A400"
+cheat46_enable = false
+
+cheat47_desc = "[队员九]HP"
+cheat47_code = "7E10204FF"
+cheat47_enable = false
+
+cheat48_desc = "[队员九]EXP"
+cheat48_code = "7E1020588+7E1020613"
+cheat48_enable = false
+
+cheat49_desc = "[队员九]能力最高"
+cheat49_code = "7E10218FF+7E10219FF+7E1021AFF+7E1021BFF+7E1021CFF+7E1021DFF+7E1021EFF+7E1021FFF+7E10220FF+7E10221FF+7E10222FF+7E10223FF+7E102080F"
+cheat49_enable = false
+
+cheat50_desc = "[队员九]无限移动"
+cheat50_code = "7E101E000"
+cheat50_enable = false
+
+cheat51_desc = "[队员十]HP"
+cheat51_code = "7E10240FF"
+cheat51_enable = false
+
+cheat52_desc = "[队员十]EXP"
+cheat52_code = "7E1024188+7E1024213"
+cheat52_enable = false
+
+cheat53_desc = "[队员十]能力最高"
+cheat53_code = "7E10254FF+7E10255FF+7E10256FF+7E10257FF+7E10258FF+7E10259FF+7E1025AFF+7E1025BFF+7E1025CFF+7E1025DFF+7E1025EFF+7E1025FFF+7E102440F"
+cheat53_enable = false
+
+cheat54_desc = "[队员十]无限移动"
+cheat54_code = "7E1021C00"
+cheat54_enable = false
+
+cheat55_desc = "[队员十一]HP"
+cheat55_code = "7E1027CFF"
+cheat55_enable = false
+
+cheat56_desc = "[队员十一]EXP"
+cheat56_code = "7E1027D88+7E1027E13"
+cheat56_enable = false
+
+cheat57_desc = "[队员十一]能力最高"
+cheat57_code = "7E10290FF+7E10291FF+7E10292FF+7E10293FF+7E10294FF+7E10295FF+7E10296FF+7E10297FF+7E10298FF+7E10299FF+7E1029AFF+7E1029BFF+7E102800F"
+cheat57_enable = false
+
+cheat58_desc = "[队员十一]无限移动"
+cheat58_code = "7E1025800"
+cheat58_enable = false
+
+cheat59_desc = "[队员十二]HP"
+cheat59_code = "7E102B8FF"
+cheat59_enable = false
+
+cheat60_desc = "[队员十二]EXP"
+cheat60_code = "7E102B988+7E102BA13"
+cheat60_enable = false
+
+cheat61_desc = "[队员十二]能力最高"
+cheat61_code = "7E102CCFF+7E102CDFF+7E102CEFF+7E102CFFF+7E102D0FF+7E102D1FF+7E102D2FF+7E102D3FF+7E102D4FF+7E102D5FF+7E102D6FF+7E102D7FF+7E102BC0F"
+cheat61_enable = false
+
+cheat62_desc = "[队员十二]无限移动"
+cheat62_code = "7E1029400"
+cheat62_enable = false
+
+cheat63_desc = "[队员十三]HP"
+cheat63_code = "7E102F4FF"
+cheat63_enable = false
+
+cheat64_desc = "[队员十三]EXP"
+cheat64_code = "7E102F588+7E102F613"
+cheat64_enable = false
+
+cheat65_desc = "[队员十三]能力最高"
+cheat65_code = "7E10308FF+7E10309FF+7E1030AFF+7E1030BFF+7E1030CFF+7E1030DFF+7E1030EFF+7E1030FFF+7E10310FF+7E10311FF+7E10312FF+7E10313FF+7E102F80F"
+cheat65_enable = false
+
+cheat66_desc = "[队员十三]无限移动"
+cheat66_code = "7E102D000"
+cheat66_enable = false
+
+cheat67_desc = "[队员十四]HP"
+cheat67_code = "7E10330FF"
+cheat67_enable = false
+
+cheat68_desc = "[队员十四]EXP"
+cheat68_code = "7E1033188+7E1033213"
+cheat68_enable = false
+
+cheat69_desc = "[队员十四]能力最高"
+cheat69_code = "7E10344FF+7E10345FF+7E10346FF+7E10347FF+7E10348FF+7E10349FF+7E1034AFF+7E1034BFF+7E1034CFF+7E1034DFF+7E1034EFF+7E1034FFF+7E103340F"
+cheat69_enable = false
+
+cheat70_desc = "[队员十四]无限移动"
+cheat70_code = "7E1030C00"
+cheat70_enable = false
+
+cheat71_desc = "[队员十五]HP"
+cheat71_code = "7E1036CFF"
+cheat71_enable = false
+
+cheat72_desc = "[队员十五]EXP"
+cheat72_code = "7E1036D88+7E1036E13"
+cheat72_enable = false
+
+cheat73_desc = "[队员十五]能力最高"
+cheat73_code = "7E10380FF+7E10381FF+7E10382FF+7E10383FF+7E10384FF+7E10385FF+7E10386FF+7E10387FF+7E10388FF+7E10389FF+7E1038AFF+7E1038BFF+7E103700F"
+cheat73_enable = false
+
+cheat74_desc = "[队员十五]无限移动"
+cheat74_code = "7E1034800"
+cheat74_enable = false
+
+cheat75_desc = "[队员十六]HP"
+cheat75_code = "7E103A8FF"
+cheat75_enable = false
+
+cheat76_desc = "[队员十六]EXP"
+cheat76_code = "7E103A988+7E103AA13"
+cheat76_enable = false
+
+cheat77_desc = "[队员十六]能力最高"
+cheat77_code = "7E103BCFF+7E103BDFF+7E103BEFF+7E103BFFF+7E103C0FF+7E103C1FF+7E103C2FF+7E103C3FF+7E103C4FF+7E103C5FF+7E103C6FF+7E103C7FF+7E103AC0F"
+cheat77_enable = false
+
+cheat78_desc = "[队员十六]无限移动"
+cheat78_code = "7E1038400"
+cheat78_enable = false
+
+cheat79_desc = "[队员十七]HP"
+cheat79_code = "7E103E4FF"
+cheat79_enable = false
+
+cheat80_desc = "[队员十七]EXP"
+cheat80_code = "7E103E588+7E103E613"
+cheat80_enable = false
+
+cheat81_desc = "[队员十七]能力最高"
+cheat81_code = "7E10408FF+7E10409FF+7E1040AFF+7E1040BFF+7E1040CFF+7E1040DFF+7E1040EFF+7E1040FFF+7E10410FF+7E10411FF+7E10412FF+7E10413FF+7E103E80F"
+cheat81_enable = false
+
+cheat82_desc = "[队员十七]无限移动"
+cheat82_code = "7E103C000"
+cheat82_enable = false
+
+cheat83_desc = "[队员十八]HP"
+cheat83_code = "7E10420FF"
+cheat83_enable = false
+
+cheat84_desc = "[队员十八]EXP"
+cheat84_code = "7E1042188+7E1042213"
+cheat84_enable = false
+
+cheat85_desc = "[队员十八]能力最高"
+cheat85_code = "7E10434FF+7E10435FF+7E10436FF+7E10437FF+7E10438FF+7E10439FF+7E1043AFF+7E1043BFF+7E1043CFF+7E1043DFF+7E1043EFF+7E1043FFF+7E104240F"
+cheat85_enable = false
+
+cheat86_desc = "[队员十八]无限移动"
+cheat86_code = "7E103FC00"
+cheat86_enable = false
+
+cheat87_desc = "[敌人一击死]ON"
+cheat87_code = "7E1049801+7E104D401+7E1051001+7E1054C01+7E1058801+7E105C401+7E1060001+7E1063C01+7E1067801+7E106B401+7E106F001+7E1072C01+7E1076801+7E107A401+7E107E001+7E1081C01+7E1085801+7E1089401+7E108D001+7E1090C01+7E1094801+7E1098401+7E109C001+7E109FC01+7E10A3801+7E10A7401+7E10AB001+7E10AEC01+7E10B2801+7E10B6401+7E10BA001+7E10BDC01+7E10C1801+7E10C5401+7E10C9001+7E10CCC01+7E10D0801"
+cheat87_enable = false
+

@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "#没有鱼雷装填时间"
+cheat0_code = "800C79D8 0000+800C79DA 0000+800C79DC 0000+800C79DE 0000+800C79E0 0000+800C79E2 0000+800C79E4 0000+800C79E6 0000"
+cheat0_enable = false
+
+cheat1_desc = "#鱼雷，所有类型的鱼叉，诱饵，稻壳99"
+cheat1_code = "50000A02 0000+3006DA3A 0063"
+cheat1_enable = false
+
+cheat2_desc = "#无鱼雷加载时间（参数3代码）"
+cheat2_code = "50000802 0000+800C79D8 0000"
+cheat2_enable = false
+
+

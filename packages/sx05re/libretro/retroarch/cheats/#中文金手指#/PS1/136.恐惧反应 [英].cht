@@ -1,0 +1,771 @@
+cheats = 192
+
+cheat0_desc = "#无限弹药"
+cheat0_code = "80081820 03E7+8008DF16 03E7"
+cheat0_enable = false
+
+cheat1_desc = "#Infinite Ammo .90手枪"
+cheat1_code = "8008DF96 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#无限弹药突击步枪"
+cheat2_code = "8008DF1E 03E7"
+cheat2_enable = false
+
+cheat3_desc = "#无限弹药"
+cheat3_code = "D003DCE0 0002+8003DCE2 2400"
+cheat3_enable = false
+
+cheat4_desc = "#停止时间"
+cheat4_code = "D0028508 0008+8002850A 2400"
+cheat4_enable = false
+
+cheat5_desc = "#不怕"
+cheat5_code = "D0047D88 0068+80047D8A 2400"
+cheat5_enable = false
+
+cheat6_desc = "#停止倒数计时器"
+cheat6_code = "D00AFA2C 18F0+800AFA2E 2400"
+cheat6_enable = false
+
+cheat7_desc = "#Hana武器编号\\ Duel .90手枪"
+cheat7_code = "8008DF10 0002+8008DF12 6363"
+cheat7_enable = false
+
+cheat8_desc = "#Hana武器代码\\具有Smg"
+cheat8_code = "8008DF14 0002+8008DF16 6363"
+cheat8_enable = false
+
+cheat9_desc = "#Hana武器编号\\有射击手枪"
+cheat9_code = "8008DF18 0002+8008DF1A 6363"
+cheat9_enable = false
+
+cheat10_desc = "#Hana武器代码\\有突击步枪"
+cheat10_code = "8008DF1C 0001+8008DF1E 0063"
+cheat10_enable = false
+
+cheat11_desc = "#Hana武器编号\\有Shot弹枪"
+cheat11_code = "8008DF24 0001+8008DF26 0063"
+cheat11_enable = false
+
+cheat12_desc = "#Hana武器代码\\有香港v突击步枪"
+cheat12_code = "8008DF28 0001+8008DF2A 0063"
+cheat12_enable = false
+
+cheat13_desc = "#Royce武器代码\\拥有.90手枪"
+cheat13_code = "8008DF94 0002+8008DF96 6363"
+cheat13_enable = false
+
+cheat14_desc = "#Royce武器代码\\有Smg"
+cheat14_code = "8008DF98 0002+8008DF9A 6363"
+cheat14_enable = false
+
+cheat15_desc = "#Royce武器编号\\有射击手枪"
+cheat15_code = "8008DF9C 0002+8008DF9E 6363"
+cheat15_enable = false
+
+cheat16_desc = "#Royce武器代码\\有突击步枪"
+cheat16_code = "8008DFA0 0001+8008DFA2 0063"
+cheat16_enable = false
+
+cheat17_desc = "#Royce武器代码\\有Shot弹枪"
+cheat17_code = "8008DFA8 0001+8008DFAA 0063"
+cheat17_enable = false
+
+cheat18_desc = "#Royce武器代码\\拥有Mk v突击步枪"
+cheat18_code = "8008DFAC 0001+8008DFAE 0063"
+cheat18_enable = false
+
+cheat19_desc = "#Deke武器代码\\拥有.90手枪"
+cheat19_code = "8008E018 0002+8008E01A 6363"
+cheat19_enable = false
+
+cheat20_desc = "#Deke武器代码\\具有Smg"
+cheat20_code = "8008E01C 0002+8008E01E 6363"
+cheat20_enable = false
+
+cheat21_desc = "#Deke武器代码\\有射击手枪"
+cheat21_code = "8008E020 0002+8008E022 6363"
+cheat21_enable = false
+
+cheat22_desc = "#Deke武器代码\\有突击步枪"
+cheat22_code = "8008E024 0001+8008E026 0063"
+cheat22_enable = false
+
+cheat23_desc = "#Deke武器代码\\有Shot弹枪"
+cheat23_code = "8008E02C 0001+8008E02E 0063"
+cheat23_enable = false
+
+cheat24_desc = "#Deke武器代码\\拥有Mk v突击步枪"
+cheat24_code = "8008E030 0001+8008E032 0063"
+cheat24_enable = false
+
+cheat25_desc = "#Hana物品代码碟1 \\有石卷轴"
+cheat25_code = "E008DF5A 0000+3008DF5A 0001"
+cheat25_enable = false
+
+cheat26_desc = "#Hana物品代码-碟1 \\有石柳"
+cheat26_code = "E008DF5B 0000+3008DF5B 0001"
+cheat26_enable = false
+
+cheat27_desc = "#Hana产品代码光盘1 \\有石眼"
+cheat27_code = "E008DF5C 0000+3008DF5C 0001"
+cheat27_enable = false
+
+cheat28_desc = "#Hana产品代码光盘1 \\有Flash光盘"
+cheat28_code = "E008DF64 0000+3008DF64 0001"
+cheat28_enable = false
+
+cheat29_desc = "#Hana物品代码碟1 \\有门钥匙"
+cheat29_code = "E008DF65 0000+3008DF65 0001"
+cheat29_enable = false
+
+cheat30_desc = "#Hana物品代码碟1 \\有签名键"
+cheat30_code = "E008DF66 0000+3008DF66 0001"
+cheat30_enable = false
+
+cheat31_desc = "#Hana物品代码碟1 \\有红色钥匙卡"
+cheat31_code = "E008DF67 0000+3008DF67 0001"
+cheat31_enable = false
+
+cheat32_desc = "#Hana物品代码碟1 \\有蓝色钥匙卡"
+cheat32_code = "E008DF68 0000+3008DF68 0001"
+cheat32_enable = false
+
+cheat33_desc = "#Hana物品代码碟1 \\有储物柜钥匙"
+cheat33_code = "E008DF69 0000+3008DF69 0001"
+cheat33_enable = false
+
+cheat34_desc = "#Hana物品代码碟1 \\有保险丝"
+cheat34_code = "E008DF6A 0000+3008DF6A 0001"
+cheat34_enable = false
+
+cheat35_desc = "#Hana物品代码碟1 \\有烟斗"
+cheat35_code = "E008DF6B 0000+3008DF6B 0001"
+cheat35_enable = false
+
+cheat36_desc = "#Hana产品代码光盘1 \\有钢丝钳"
+cheat36_code = "E008DF6C 0000+3008DF6C 0001"
+cheat36_enable = false
+
+cheat37_desc = "#Hana物品代码碟1 \\具有炸药"
+cheat37_code = "E008DF6D 0000+3008DF6D 0001"
+cheat37_enable = false
+
+cheat38_desc = "#Royce物品代码碟1 \\有石卷轴"
+cheat38_code = "E008DFDE 0000+3008DFDE 0001"
+cheat38_enable = false
+
+cheat39_desc = "#Royce物品代码-碟1 \\有石柳"
+cheat39_code = "E008DFDF 0000+3008DFDF 0001"
+cheat39_enable = false
+
+cheat40_desc = "#Royce物品代码-碟1 \\有石眼"
+cheat40_code = "E008DFE0 0000+3008DFE0 0001"
+cheat40_enable = false
+
+cheat41_desc = "#Royce物品代码光盘1 \\有Flash光盘"
+cheat41_code = "E008DFE8 0000+3008DFE8 0001"
+cheat41_enable = false
+
+cheat42_desc = "#Royce物品代码碟1 \\有门钥匙"
+cheat42_code = "E008DFE9 0000+3008DFE9 0001"
+cheat42_enable = false
+
+cheat43_desc = "#Royce物品代码碟1 \\具有签名键"
+cheat43_code = "E008DFEA 0000+3008DFEA 0001"
+cheat43_enable = false
+
+cheat44_desc = "#Royce物品代码碟1 \\拥有红色钥匙卡"
+cheat44_code = "E008DFEB 0000+3008DFEB 0001"
+cheat44_enable = false
+
+cheat45_desc = "#Royce物品代码碟1 \\具有蓝色钥匙卡"
+cheat45_code = "E008DFEC 0000+3008DFEC 0001"
+cheat45_enable = false
+
+cheat46_desc = "#Royce物品代码碟1 \\有储物柜钥匙"
+cheat46_code = "E008DFED 0000+3008DFED 0001"
+cheat46_enable = false
+
+cheat47_desc = "#Royce物品代码碟1 \\有保险丝"
+cheat47_code = "E008DFEE 0000+3008DFEE 0001"
+cheat47_enable = false
+
+cheat48_desc = "#Royce物品代码碟1 \\有烟斗"
+cheat48_code = "E008DFEF 0000+3008DFEF 0001"
+cheat48_enable = false
+
+cheat49_desc = "#Royce物品代码光盘1 \\有钢丝钳"
+cheat49_code = "E008DFF0 0000+3008DFF0 0001"
+cheat49_enable = false
+
+cheat50_desc = "#Royce物品代码碟1 \\具有炸药"
+cheat50_code = "E008DFE1 0000+3008DFF1 0001"
+cheat50_enable = false
+
+cheat51_desc = "#Hana物品代码碟2 \\有石卷轴"
+cheat51_code = "E008DF5A 0000+3008DF5A 0001"
+cheat51_enable = false
+
+cheat52_desc = "#Hana商品编号-碟2 \\有石柳"
+cheat52_code = "E008DF5B 0000+3008DF5B 0001"
+cheat52_enable = false
+
+cheat53_desc = "#Hana物品代码碟2 \\有石眼"
+cheat53_code = "E008DF5C 0000+3008DF5C 0001"
+cheat53_enable = false
+
+cheat54_desc = "#Hana产品代码光盘2 \\有湿毛巾"
+cheat54_code = "E008DF64 0000+3008DF64 0001"
+cheat54_enable = false
+
+cheat55_desc = "#Hana物品代码碟2 \\有水的瓶子"
+cheat55_code = "E008DF65 0000+3008DF65 0001"
+cheat55_enable = false
+
+cheat56_desc = "#Hana物品代码碟2 \\有火车钥匙"
+cheat56_code = "E008DF66 0000+3008DF66 0001"
+cheat56_enable = false
+
+cheat57_desc = "#Hana物品代码碟2 \\有Po Mon键"
+cheat57_code = "E008DF69 0000+3008DF69 0001"
+cheat57_enable = false
+
+cheat58_desc = "#Hana物品代码碟2 \\有卡车钥匙"
+cheat58_code = "E008DF6A 0000+3008DF6A 0001"
+cheat58_enable = false
+
+cheat59_desc = "#Hana物品代码碟2 \\有梯子访问卡"
+cheat59_code = "E008DF6B 0000+3008DF6B 0001"
+cheat59_enable = false
+
+cheat60_desc = "#Hana商品代码光盘2 \\具有X1星期一密钥"
+cheat60_code = "E008DF6C 0000+3008DF6C 0001"
+cheat60_enable = false
+
+cheat61_desc = "#Royce物品代码碟2 \\有石卷轴"
+cheat61_code = "E008DFDE 0000+3008DFDE 0001"
+cheat61_enable = false
+
+cheat62_desc = "#Royce物品代码碟2 \\有石柳"
+cheat62_code = "E008DFDF 0000+3008DFDF 0001"
+cheat62_enable = false
+
+cheat63_desc = "#Royce物品代码碟2 \\有石眼"
+cheat63_code = "E008DFE0 0000+3008DFE0 0001"
+cheat63_enable = false
+
+cheat64_desc = "#Royce物品代码碟2 \\有湿毛巾"
+cheat64_code = "E008DFE8 0000+3008DFE8 0001"
+cheat64_enable = false
+
+cheat65_desc = "#Royce物品代码碟2 \\有水的瓶子"
+cheat65_code = "E008DFE9 0000+3008DFE9 0001"
+cheat65_enable = false
+
+cheat66_desc = "#Royce物品代码碟2 \\有火车钥匙"
+cheat66_code = "E008DFEA 0000+3008DFEA 0001"
+cheat66_enable = false
+
+cheat67_desc = "#Royce物品代码碟2 \\有Po Mon键"
+cheat67_code = "E008DFED 0000+3008DFED 0001"
+cheat67_enable = false
+
+cheat68_desc = "#Royce物品代码碟2 \\有卡车钥匙"
+cheat68_code = "E008DFEE 0000+3008DFEE 0001"
+cheat68_enable = false
+
+cheat69_desc = "#Royce物品代码碟2 \\有梯子访问卡"
+cheat69_code = "E008DFEF 0000+3008DFEF 0001"
+cheat69_enable = false
+
+cheat70_desc = "#Royce物品代码碟2 \\具有X1周一键"
+cheat70_code = "E008DFF0 0000+3008DFF0 0001"
+cheat70_enable = false
+
+cheat71_desc = "#Deke物品代码碟2 \\有石卷轴"
+cheat71_code = "E008E062 0000+3008E062 0001"
+cheat71_enable = false
+
+cheat72_desc = "#Deke物品代码-碟2 \\有石柳"
+cheat72_code = "E008E063 0000+3008E063 0001"
+cheat72_enable = false
+
+cheat73_desc = "#Deke物品代码碟2 \\有石眼"
+cheat73_code = "E008E064 0000+3008E064 0001"
+cheat73_enable = false
+
+cheat74_desc = "#Deke商品代码圆盘2 \\有湿毛巾"
+cheat74_code = "E008E06C 0000+3008E06C 0001"
+cheat74_enable = false
+
+cheat75_desc = "#Deke物品代码碟2 \\有水的瓶子"
+cheat75_code = "E008E06D 0000+3008E06D 0001"
+cheat75_enable = false
+
+cheat76_desc = "#Deke物品代码碟2 \\有火车钥匙"
+cheat76_code = "E008E06E 0000+3008E06E 0001"
+cheat76_enable = false
+
+cheat77_desc = "#Deke项代码光盘2 \\有Po Mon键"
+cheat77_code = "E008E071 0000+3008E071 0001"
+cheat77_enable = false
+
+cheat78_desc = "#Deke物品代码光盘2 \\有卡车钥匙"
+cheat78_code = "E008E072 0000+3008E072 0001"
+cheat78_enable = false
+
+cheat79_desc = "#Deke物品代码碟2 \\有梯子访问卡"
+cheat79_code = "E008E073 0000+3008E073 0001"
+cheat79_enable = false
+
+cheat80_desc = "#Deke项代码光盘2 \\具有X1星期一密钥"
+cheat80_code = "E008E074 0000+3008E074 0001"
+cheat80_enable = false
+
+cheat81_desc = "#Royce物品代码碟3 \\有石卷轴"
+cheat81_code = "E008DFDE 0000+3008DFDE 0001"
+cheat81_enable = false
+
+cheat82_desc = "#Royce物品代码-碟3 \\有石柳"
+cheat82_code = "E008DFDF 0000+3008DFDF 0001"
+cheat82_enable = false
+
+cheat83_desc = "#Royce物品代码-碟3 \\有石眼"
+cheat83_code = "E008DFE0 0000+3008DFE0 0001"
+cheat83_enable = false
+
+cheat84_desc = "#Royce物品代码碟3 \\有硬币"
+cheat84_code = "E008DFE8 0000+3008DFE8 0001"
+cheat84_enable = false
+
+cheat85_desc = "#Royce物品代码碟3 \\有向日葵"
+cheat85_code = "E008DFE9 0000+3008DFE9 0001"
+cheat85_enable = false
+
+cheat86_desc = "#罗伊斯（Royce）物品代码碟3 \\拥有马赫枪“ o Love"
+cheat86_code = "E008DFEA 0000+3008DFEA 0001"
+cheat86_enable = false
+
+cheat87_desc = "#Royce物品代码-碟3 \\有手枪鞭"
+cheat87_code = "E008DFEB 0000+3008DFEB 0001"
+cheat87_enable = false
+
+cheat88_desc = "#Royce物品代码碟3 \\有花"
+cheat88_code = "E008DFEC 0000+3008DFEC 0001"
+cheat88_enable = false
+
+cheat89_desc = "#Royce物品代码-碟3 \\有食用油"
+cheat89_code = "E008DFED 0000+3008DFED 0001"
+cheat89_enable = false
+
+cheat90_desc = "#Royce物品代码碟3 \\有办公室钥匙"
+cheat90_code = "E008DFEE 0000+3008DFEE 0001"
+cheat90_enable = false
+
+cheat91_desc = "#Royce物品代码碟3 \\有酒廊键"
+cheat91_code = "E008DFEF 0000+3008DFEF 0001"
+cheat91_enable = false
+
+cheat92_desc = "#Royce物品代码碟3 \\有钢丝钳"
+cheat92_code = "E008DFF0 0000+3008DFF0 0001"
+cheat92_enable = false
+
+cheat93_desc = "#Royce物品代码-碟片3 \\有电梯钥匙"
+cheat93_code = "E008DFE1 0000+3008DFF1 0001"
+cheat93_enable = false
+
+cheat94_desc = "#Royce物品代码碟3 \\有储藏室钥匙"
+cheat94_code = "E008DFF2 0000+3008DFF2 0001"
+cheat94_enable = false
+
+cheat95_desc = "#Royce物品代码碟3 \\有新欲望"
+cheat95_code = "E008DFF3 0000+3008DFF3 0001"
+cheat95_enable = false
+
+cheat96_desc = "#Royce物品代码碟3 \\有扳手"
+cheat96_code = "E008DFF4 0000+3008DFF4 0001"
+cheat96_enable = false
+
+cheat97_desc = "#Royce物品代码碟3 \\有肉储物柜钥匙"
+cheat97_code = "E008DFF5 0000+3008DFF5 0001"
+cheat97_enable = false
+
+cheat98_desc = "#Royce物品代码碟3 \\有白色花瓶"
+cheat98_code = "E008DFF6 0000+3008DFF6 0001"
+cheat98_enable = false
+
+cheat99_desc = "#Royce物品代码碟3 \\有黑色花瓶"
+cheat99_code = "E008DFF7 0000+3008DFF7 0001"
+cheat99_enable = false
+
+cheat100_desc = "#Royce物品代码碟3 \\有红色花瓶"
+cheat100_code = "E008DFF8 0000+3008DFF8 0001"
+cheat100_enable = false
+
+cheat101_desc = "#罗伊斯商品代码-光盘3 \\有纸陈女士"
+cheat101_code = "E008DFF9 0000+3008DFF9 0001"
+cheat101_enable = false
+
+cheat102_desc = "#Royce物品代码碟3 \\有女士房钥匙"
+cheat102_code = "E008DFFA 0000+3008DFFA 0001"
+cheat102_enable = false
+
+cheat103_desc = "#Hana物品代码碟3 \\有石卷轴"
+cheat103_code = "E008DF5A 0000+3008DF5A 0001"
+cheat103_enable = false
+
+cheat104_desc = "#Hana商品编号-碟3 \\有石柳"
+cheat104_code = "E008DF5B 0000+3008DF5B 0001"
+cheat104_enable = false
+
+cheat105_desc = "#Hana商品编号-碟3 \\有石眼"
+cheat105_code = "E008DF5C 0000+3008DF5C 0001"
+cheat105_enable = false
+
+cheat106_desc = "#Hana物品代码碟3 \\有硬币"
+cheat106_code = "E008DF64 0000+3008DF64 0001"
+cheat106_enable = false
+
+cheat107_desc = "#Hana商品编号-碟3 \\有向日葵"
+cheat107_code = "E008DF65 0000+3008DF65 0001"
+cheat107_enable = false
+
+cheat108_desc = "#Hana物品代码碟3 \\有马赫枪“ o Love"
+cheat108_code = "E008DF66 0000+3008DF67 0001"
+cheat108_enable = false
+
+cheat109_desc = "#Hana物品代码碟3 \\有手枪鞭子"
+cheat109_code = "E008DF68 0000+3008DF68 0001"
+cheat109_enable = false
+
+cheat110_desc = "#Hana商品编号-碟3 \\有花"
+cheat110_code = "E008DF69 0000+3008DF69 0001"
+cheat110_enable = false
+
+cheat111_desc = "#Hana产品代码光盘3 \\有食用油"
+cheat111_code = "E008DF6A 0000+3008DF6A 0001"
+cheat111_enable = false
+
+cheat112_desc = "#Hana物品代码碟3 \\有办公室钥匙"
+cheat112_code = "E008DF6B 0000+3008DF6B 0001"
+cheat112_enable = false
+
+cheat113_desc = "#Hana物品代码碟3 \\有酒廊键"
+cheat113_code = "E008DF6C 0000+3008DF6C 0001"
+cheat113_enable = false
+
+cheat114_desc = "#Hana产品代码光盘3 \\有钢丝钳"
+cheat114_code = "E008DF6D 0000+3008DF6D 0001"
+cheat114_enable = false
+
+cheat115_desc = "#Hana物品代码碟3 \\有电梯钥匙"
+cheat115_code = "E008DF6E 0000+3008DF6E 0001"
+cheat115_enable = false
+
+cheat116_desc = "#Hana物品代码碟3 \\有储藏室钥匙"
+cheat116_code = "E008DF6F 0000+3008DF6F 0001"
+cheat116_enable = false
+
+cheat117_desc = "#Hana物品代码碟3 \\有新欲望"
+cheat117_code = "E008DF70 0000+3008DF70 0001"
+cheat117_enable = false
+
+cheat118_desc = "#Hana物品代码碟3 \\有扳手"
+cheat118_code = "E008DF71 0000+3008DF71 0001"
+cheat118_enable = false
+
+cheat119_desc = "#Hana物品代码碟3 \\有肉储物柜钥匙"
+cheat119_code = "E008DF72 0000+3008DF72 0001"
+cheat119_enable = false
+
+cheat120_desc = "#Hana物品代码碟3 \\有白色花瓶"
+cheat120_code = "E008DF73 0000+3008DF73 0001"
+cheat120_enable = false
+
+cheat121_desc = "#Hana物品代码碟3 \\有黑色花瓶"
+cheat121_code = "E008DF74 0000+3008DF74 0001"
+cheat121_enable = false
+
+cheat122_desc = "#Hana物品代码碟3 \\有红色花瓶"
+cheat122_code = "E008DF75 0000+3008DF75 0001"
+cheat122_enable = false
+
+cheat123_desc = "#Hana物品代码-碟3 \\有纸Chen女士"
+cheat123_code = "E008DF76 0000+3008DF76 0001"
+cheat123_enable = false
+
+cheat124_desc = "#Hana商品编号-碟片3 \\有女士房钥匙"
+cheat124_code = "E008DF77 0000+3008DF77 0001"
+cheat124_enable = false
+
+cheat125_desc = "#Deke物品代码-碟3 \\有石卷轴"
+cheat125_code = "E008E062 0000+3008E062 0001"
+cheat125_enable = false
+
+cheat126_desc = "#Deke物品代码-碟3 \\有石柳"
+cheat126_code = "E008E063 0000+3008E063 0001"
+cheat126_enable = false
+
+cheat127_desc = "#Deke物品代码-碟3 \\有石眼"
+cheat127_code = "E008E064 0000+3008E064 0001"
+cheat127_enable = false
+
+cheat128_desc = "#Deke物品代码碟3 \\有硬币"
+cheat128_code = "E008DF6C 0000+3008DF6C 0001"
+cheat128_enable = false
+
+cheat129_desc = "#Deke物品代码碟3 \\有向日葵"
+cheat129_code = "E008DF6D 0000+3008DF6D 0001"
+cheat129_enable = false
+
+cheat130_desc = "#Deke物品代码碟3 \\拥有马赫枪“ o Love"
+cheat130_code = "E008DF6E 0000+3008DF6E 0001"
+cheat130_enable = false
+
+cheat131_desc = "#Deke物品代码碟3 \\有手枪鞭子"
+cheat131_code = "E008DF6F 0000+3008DF6F 0001"
+cheat131_enable = false
+
+cheat132_desc = "#Deke物品代码碟3 \\有花"
+cheat132_code = "E008DF70 0000+3008DF70 0001"
+cheat132_enable = false
+
+cheat133_desc = "#Deke物品代码-碟3 \\有食用油"
+cheat133_code = "E008DF71 0000+3008DF71 0001"
+cheat133_enable = false
+
+cheat134_desc = "#Deke商品代码-光盘3 \\有办公室钥匙"
+cheat134_code = "E008DF72 0000+3008DF72 0001"
+cheat134_enable = false
+
+cheat135_desc = "#Deke物品代码碟3 \\有酒廊键"
+cheat135_code = "E008DF73 0000+3008DF73 0001"
+cheat135_enable = false
+
+cheat136_desc = "#Deke物品代码-碟片3 \\有钢丝钳"
+cheat136_code = "E008DF74 0000+3008DF74 0001"
+cheat136_enable = false
+
+cheat137_desc = "#Deke物品代码-碟片3 \\有电梯钥匙"
+cheat137_code = "E008DF75 0000+3008DF75 0001"
+cheat137_enable = false
+
+cheat138_desc = "#Deke物品代码碟3 \\有储藏室钥匙"
+cheat138_code = "E008DF76 0000+3008DF76 0001"
+cheat138_enable = false
+
+cheat139_desc = "#Deke物品代码碟3 \\有新欲望"
+cheat139_code = "E008DF77 0000+3008DF77 0001"
+cheat139_enable = false
+
+cheat140_desc = "#Deke物品代码碟3 \\有扳手"
+cheat140_code = "E008DF78 0000+3008DF78 0001"
+cheat140_enable = false
+
+cheat141_desc = "#Deke物品代码碟3 \\有肉储物柜钥匙"
+cheat141_code = "E008DF79 0000+3008DF79 0001"
+cheat141_enable = false
+
+cheat142_desc = "#Deke物品代码碟3 \\有白色花瓶"
+cheat142_code = "E008DF7A 0000+3008DF7A 0001"
+cheat142_enable = false
+
+cheat143_desc = "#Deke物品代码碟3 \\有黑色花瓶"
+cheat143_code = "E008DF7B 0000+3008DF7B 0001"
+cheat143_enable = false
+
+cheat144_desc = "#Deke物品代码碟3 \\有红色花瓶"
+cheat144_code = "E008DF7C 0000+3008DF7C 0001"
+cheat144_enable = false
+
+cheat145_desc = "#Deke物品代码-碟3 \\有纸Chen女士"
+cheat145_code = "E008DF7D 0000+3008DF7D 0001"
+cheat145_enable = false
+
+cheat146_desc = "#Deke物品代码-碟3 \\有女士房键"
+cheat146_code = "E008DF7E 0000+3008DF7E 0001"
+cheat146_enable = false
+
+cheat147_desc = "#Deke物品代码-碟3 \\激活作弊无限弹药，无惧恐惧和无限生命"
+cheat147_code = "80077810 000F"
+cheat147_enable = false
+
+cheat148_desc = "#Hana物品代码碟4 \\有石卷轴"
+cheat148_code = "E008DF5A 0000+3008DF5A 0001"
+cheat148_enable = false
+
+cheat149_desc = "#Hana物品代码-碟片4 \\有石柳"
+cheat149_code = "E008DF5B 0000+3008DF5B 0001"
+cheat149_enable = false
+
+cheat150_desc = "#Hana产品代码光盘4 \\有石眼"
+cheat150_code = "E008DF5C 0000+3008DF5C 0001"
+cheat150_enable = false
+
+cheat151_desc = "#Hana物品代码碟4 \\有纸门"
+cheat151_code = "E008DF64 0000+3008DF64 0001"
+cheat151_enable = false
+
+cheat152_desc = "#Hana项目代码-光盘4 \\有纸门钥匙"
+cheat152_code = "E008DF65 0000+3008DF65 0001"
+cheat152_enable = false
+
+cheat153_desc = "#Hana产品代码光盘4 \\有树枝"
+cheat153_code = "E008DF66 0000+3008DF66 0001"
+cheat153_enable = false
+
+cheat154_desc = "#Hana物品代码碟4 \\有纸手枪"
+cheat154_code = "E008DF67 0000+3008DF67 0001"
+cheat154_enable = false
+
+cheat155_desc = "#Hana物品代码碟4 \\有纸ave弹枪"
+cheat155_code = "E008DF68 0000+3008DF68 0001"
+cheat155_enable = false
+
+cheat156_desc = "#Hana产品代码光盘4 \\有纸贴"
+cheat156_code = "E008DF69 0000+3008DF69 0001"
+cheat156_enable = false
+
+cheat157_desc = "#Hana物品代码碟4 \\有纸突击步枪"
+cheat157_code = "E008DF6A 0000+3008DF6A 0001"
+cheat157_enable = false
+
+cheat158_desc = "#Hana物品代码碟4 \\有手枪弹药"
+cheat158_code = "E008DF6B 0000+3008DF6B 0001"
+cheat158_enable = false
+
+cheat159_desc = "#Hana物品代码碟4 \\拥有Shot弹枪弹药"
+cheat159_code = "E008DF6C 0000+3008DF6C 0001"
+cheat159_enable = false
+
+cheat160_desc = "#Hana物品代码碟4 \\有Smg弹药"
+cheat160_code = "E008DF6D 0000+3008DF6D 0001"
+cheat160_enable = false
+
+cheat161_desc = "#Hana物品代码碟4 \\有突击步枪弹药"
+cheat161_code = "E008DF6E 0000+3008DF6E 0001"
+cheat161_enable = false
+
+cheat162_desc = "#Hana物品代码碟4 \\有洋娃娃"
+cheat162_code = "E008DF6F 0000+3008DF6F 0001"
+cheat162_enable = false
+
+cheat163_desc = "#Hana物品代码碟4 \\有石卷轴"
+cheat163_code = "E008DF70 0000+3008DF70 0001"
+cheat163_enable = false
+
+cheat164_desc = "#Hana产品代码光盘4 \\有树枝"
+cheat164_code = "E008DF71 0000+3008DF71 0001"
+cheat164_enable = false
+
+cheat165_desc = "#Hana物品代码碟4 \\有门钥匙"
+cheat165_code = "E008DF72 0000+3008DF72 0001"
+cheat165_enable = false
+
+cheat166_desc = "#Hana产品代码光盘4 \\有石眼"
+cheat166_code = "E008DF73 0000+3008DF73 0001"
+cheat166_enable = false
+
+cheat167_desc = "#Hana商品编号-碟片4 \\有一半的石树"
+cheat167_code = "E008DF74 0000+3008DF74 0001"
+cheat167_enable = false
+
+cheat168_desc = "#Hana商品编号-碟片4 \\整棵石头树"
+cheat168_code = "E008DF75 0000+3008DF75 0001"
+cheat168_enable = false
+
+cheat169_desc = "#Hana物品代码碟4 \\有曲柄"
+cheat169_code = "E008DF76 0000+3008DF76 0001"
+cheat169_enable = false
+
+cheat170_desc = "#Royce物品代码碟4 \\有石卷轴"
+cheat170_code = "E008DFDE 0000+3008DFDE 0001"
+cheat170_enable = false
+
+cheat171_desc = "#Royce物品代码-碟4 \\有石柳"
+cheat171_code = "E008DFDF 0000+3008DFDF 0001"
+cheat171_enable = false
+
+cheat172_desc = "#Royce商品编号-碟4 \\有石眼"
+cheat172_code = "E008DFE0 0000+3008DFE0 0001"
+cheat172_enable = false
+
+cheat173_desc = "#Royce物品代码碟4 \\有纸门"
+cheat173_code = "E008DFE8 0000+3008DFE8 0001"
+cheat173_enable = false
+
+cheat174_desc = "#Royce物品代码碟4 \\有纸门钥匙"
+cheat174_code = "E008DFE9 0000+3008DFE9 0001"
+cheat174_enable = false
+
+cheat175_desc = "#Royce物品代码-碟片4 \\有树枝"
+cheat175_code = "E008DFEA 0000+3008DFEA 0001"
+cheat175_enable = false
+
+cheat176_desc = "#Royce物品代码碟4 \\有纸手枪"
+cheat176_code = "E008DFEB 0000+3008DFEB 0001"
+cheat176_enable = false
+
+cheat177_desc = "#Royce物品代码碟4 \\有纸Shot弹枪"
+cheat177_code = "E008DFEC 0000+3008DFEC 0001"
+cheat177_enable = false
+
+cheat178_desc = "#Royce物品代码碟4 \\有纸贴"
+cheat178_code = "E008DFED 0000+3008DFED 0001"
+cheat178_enable = false
+
+cheat179_desc = "#Royce物品代码碟4 \\有突击步枪"
+cheat179_code = "E008DFEE 0000+3008DFEE 0001"
+cheat179_enable = false
+
+cheat180_desc = "#Royce物品代码碟4 \\有手枪弹药"
+cheat180_code = "E008DFEF 0000+3008DFEF 0001"
+cheat180_enable = false
+
+cheat181_desc = "#Royce物品代码碟4 \\拥有Shot弹枪弹药"
+cheat181_code = "E008DFF0 0000+3008DFF0 0001"
+cheat181_enable = false
+
+cheat182_desc = "#Royce物品代码碟4 \\拥有Smg弹药"
+cheat182_code = "E008DFF1 0000+3008DFF1 0001"
+cheat182_enable = false
+
+cheat183_desc = "#Royce物品代码碟4 \\有突击步枪弹药"
+cheat183_code = "E008DFF2 0000+3008DFF2 0001"
+cheat183_enable = false
+
+cheat184_desc = "#Royce物品代码碟4 \\有洋娃娃"
+cheat184_code = "E008DFF3 0000+3008DFF3 0001"
+cheat184_enable = false
+
+cheat185_desc = "#Royce物品代码碟4 \\有石卷轴"
+cheat185_code = "E008DFF4 0000+3008DFF4 0001"
+cheat185_enable = false
+
+cheat186_desc = "#Royce物品代码-碟片4 \\有树枝"
+cheat186_code = "E008DFF5 0000+3008DFF5 0001"
+cheat186_enable = false
+
+cheat187_desc = "#Royce物品代码碟4 \\有门钥匙"
+cheat187_code = "E008DFF6 0000+3008DFF6 0001"
+cheat187_enable = false
+
+cheat188_desc = "#Royce商品编号-碟4 \\有石眼"
+cheat188_code = "E008DFF7 0000+3008DFF7 0001"
+cheat188_enable = false
+
+cheat189_desc = "#罗伊斯（Royce）物品代码-碟4 \\有一半的石头树"
+cheat189_code = "E008DFF8 0000+3008DFF8 0001"
+cheat189_enable = false
+
+cheat190_desc = "#Royce商品编号-碟4 \\整棵石头树"
+cheat190_code = "E008DFF9 0000+3008DFF9 0001"
+cheat190_enable = false
+
+cheat191_desc = "#Royce物品代码碟4 \\有曲柄"
+cheat191_code = "E008DFFA 0000+3008DFFA 0001"
+cheat191_enable = false
+
+

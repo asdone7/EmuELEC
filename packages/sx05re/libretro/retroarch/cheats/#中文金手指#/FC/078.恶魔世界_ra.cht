@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[1P 人数无限]ON"
+cheat0_code = "0615:0A"
+cheat0_enable = false
+
+cheat1_desc = "[1P 可吐火]ON"
+cheat1_code = "061B:0A+061D:50"
+cheat1_enable = false
+
+cheat2_desc = "[1P 不死]ON"
+cheat2_code = "0600:01+0617:00"
+cheat2_enable = false
+
+cheat3_desc = "[2P 人数无限]ON"
+cheat3_code = "0635:0A"
+cheat3_enable = false
+
+cheat4_desc = "[2P 可吐火]ON"
+cheat4_code = "063B:0A+063D:50"
+cheat4_enable = false
+
+cheat5_desc = "[2P 不死]ON"
+cheat5_code = "0620:01+0637:00"
+cheat5_enable = false
+
+cheat6_desc = "[敌人全是食物]ON"
+cheat6_code = "0660:0F+0680:0F"
+cheat6_enable = false
+

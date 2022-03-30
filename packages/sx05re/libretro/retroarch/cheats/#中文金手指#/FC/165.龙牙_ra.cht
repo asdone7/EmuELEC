@@ -1,0 +1,86 @@
+cheats = 21
+
+cheat0_desc = "[P1 生命无限]开启"
+cheat0_code = "0303:FF"
+cheat0_enable = false
+
+cheat1_desc = "[P1 使用武器]飞镖"
+cheat1_code = "0309:00"
+cheat1_enable = false
+
+cheat2_desc = "[P1 使用武器]木棒"
+cheat2_code = "0309:01"
+cheat2_enable = false
+
+cheat3_desc = "[P1 使用武器]铁链"
+cheat3_code = "0309:02"
+cheat3_enable = false
+
+cheat4_desc = "[P1 使用武器]弯刀"
+cheat4_code = "0309:03"
+cheat4_enable = false
+
+cheat5_desc = "[P2 生命无限]开启"
+cheat5_code = "0383:FF"
+cheat5_enable = false
+
+cheat6_desc = "[P2 使用武器]飞镖"
+cheat6_code = "0389:00"
+cheat6_enable = false
+
+cheat7_desc = "[P2 使用武器]木棒"
+cheat7_code = "0389:01"
+cheat7_enable = false
+
+cheat8_desc = "[P2 使用武器]铁链"
+cheat8_code = "0389:02"
+cheat8_enable = false
+
+cheat9_desc = "[P2 使用武器]弯刀"
+cheat9_code = "0389:03"
+cheat9_enable = false
+
+cheat10_desc = "[飞龙无敌时间锁定]开启"
+cheat10_code = "0088:01"
+cheat10_enable = false
+
+cheat11_desc = "[选关(进入关卡后取消前面的勾)]第1-1关 燃烧都市"
+cheat11_code = "00FA:00"
+cheat11_enable = false
+
+cheat12_desc = "[选关(进入关卡后取消前面的勾)]第1-2关 水下城市"
+cheat12_code = "00FA:01"
+cheat12_enable = false
+
+cheat13_desc = "[选关(进入关卡后取消前面的勾)]第2-1关 死亡峡谷"
+cheat13_code = "00FA:02"
+cheat13_enable = false
+
+cheat14_desc = "[选关(进入关卡后取消前面的勾)]第2-2关 黑暗之湖"
+cheat14_code = "00FA:03"
+cheat14_enable = false
+
+cheat15_desc = "[选关(进入关卡后取消前面的勾)]第3-1关 魔鬼森林"
+cheat15_code = "00FA:04"
+cheat15_enable = false
+
+cheat16_desc = "[选关(进入关卡后取消前面的勾)]第3-2关 鬼魂别墅"
+cheat16_code = "00FA:05"
+cheat16_enable = false
+
+cheat17_desc = "[选关(进入关卡后取消前面的勾)]第4-1关 血腥之船"
+cheat17_code = "00FA:06"
+cheat17_enable = false
+
+cheat18_desc = "[选关(进入关卡后取消前面的勾)]第4-2关 幽灵巢穴"
+cheat18_code = "00FA:07"
+cheat18_enable = false
+
+cheat19_desc = "[选关(进入关卡后取消前面的勾)]第5-1关 重返故乡"
+cheat19_code = "00FA:08"
+cheat19_enable = false
+
+cheat20_desc = "[选关(进入关卡后取消前面的勾)]第5-2关 最终之战"
+cheat20_code = "00FA:09"
+cheat20_enable = false
+

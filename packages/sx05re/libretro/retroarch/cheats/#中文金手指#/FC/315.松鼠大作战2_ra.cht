@@ -1,0 +1,34 @@
+cheats = 8
+
+cheat0_desc = "[P1 透明]OFF"
+cheat0_code = "03D4:00"
+cheat0_enable = false
+
+cheat1_desc = "[P1 透明]ON"
+cheat1_code = "03D4:05"
+cheat1_enable = false
+
+cheat2_desc = "[P2 透明]OFF"
+cheat2_code = "03D5:00"
+cheat2_enable = false
+
+cheat3_desc = "[P2 透明]ON"
+cheat3_code = "03D5:05"
+cheat3_enable = false
+
+cheat4_desc = "[人数]ON"
+cheat4_code = "00A7:09+00A8:09"
+cheat4_enable = false
+
+cheat5_desc = "[糖包数]ON"
+cheat5_code = "00A3:FF"
+cheat5_enable = false
+
+cheat6_desc = "[1p最大体力]ON"
+cheat6_code = "03D4:05"
+cheat6_enable = false
+
+cheat7_desc = "[2p最大体力]ON"
+cheat7_code = "03D5:05"
+cheat7_enable = false
+

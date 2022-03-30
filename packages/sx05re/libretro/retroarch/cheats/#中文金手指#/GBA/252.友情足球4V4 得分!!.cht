@@ -1,0 +1,19 @@
+cheats = 4
+
+cheat0_desc = "时间"
+cheat0_code = "02044BDE 00000030+02044BDF 00000075"
+cheat0_enable = false
+
+cheat1_desc = "我方入球"
+cheat1_code = "02044AF8 00000063"
+cheat1_enable = false
+
+cheat2_desc = "对方入球"
+cheat2_code = "02044A1C 00000000"
+cheat2_enable = false
+
+cheat3_desc = "点数"
+cheat3_code = "02006183 00000063"
+cheat3_enable = false
+
+

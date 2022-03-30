@@ -1,0 +1,35 @@
+cheats = 8
+
+cheat0_desc = "#无限金钱"
+cheat0_code = "80183058 967F+8018305A 0098"
+cheat0_enable = false
+
+cheat1_desc = "#升级"
+cheat1_code = "D00FD91C 0010+800FD91C 0001"
+cheat1_enable = false
+
+cheat2_desc = "#Inf动作"
+cheat2_code = "D01639E8 0524+801639D8 0000"
+cheat2_enable = false
+
+cheat3_desc = "#无限基金"
+cheat3_code = "D002A9C4 1023+8002A9C6 0040"
+cheat3_enable = false
+
+cheat4_desc = "#Max和卖出一些资金"
+cheat4_code = "D002A9A2 1040+8002A9A2 1440"
+cheat4_enable = false
+
+cheat5_desc = "#不减少使用武器的次数"
+cheat5_code = "D010DC24 FFFF+8010DC24 0000"
+cheat5_enable = false
+
+cheat6_desc = "#不浪费盾牌"
+cheat6_code = "D010B9D0 FFFF+8010B9D0 0000"
+cheat6_enable = false
+
+cheat7_desc = "#凡人打击按SEL + L2：致命打击按SEL + R2：无敌或按SEL + L2 + R2：正常"
+cheat7_code = "D00CD048 0101+8010D666 0000+D00CD048 0102+8010D666 0080+D00CD048 0103+8010D666 0091"
+cheat7_enable = false
+
+

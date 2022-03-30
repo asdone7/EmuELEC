@@ -1,0 +1,47 @@
+cheats = 11
+
+cheat0_desc = "#Infinite Credits Player 1"
+cheat0_code = "800E6C78 0004"
+cheat0_enable = false
+
+cheat1_desc = "#Infinite Lifes Player 1"
+cheat1_code = "801BDE8C 0500"
+cheat1_enable = false
+
+cheat2_desc = "#Power Player 1"
+cheat2_code = "801BDE8A 0203"
+cheat2_enable = false
+
+cheat3_desc = "#玩家1无敌"
+cheat3_code = "801BDE80 00FF"
+cheat3_enable = false
+
+cheat4_desc = "#P1无限蓝色Smartbombs"
+cheat4_code = "801BDE92 0101+801BDE94 0101+801BDE96 0101"
+cheat4_enable = false
+
+cheat5_desc = "#P1无限红色Smartbombs"
+cheat5_code = "801BDE92 0202+801BDE94 0202+801BDE96 0202"
+cheat5_enable = false
+
+cheat6_desc = "#Infinite Lifes Player 2"
+cheat6_code = "801BDEF4 0500"
+cheat6_enable = false
+
+cheat7_desc = "#启动播放器2"
+cheat7_code = "801BDEF2 0203"
+cheat7_enable = false
+
+cheat8_desc = "#玩家2无敌"
+cheat8_code = "801BDEE8 00FF"
+cheat8_enable = false
+
+cheat9_desc = "#P1无限蓝色Smartbombs"
+cheat9_code = "801BDEFA 0101+801BDEFC 0101+801BDEFE 0101"
+cheat9_enable = false
+
+cheat10_desc = "#P2无限红色Smartbombs"
+cheat10_code = "801BDEFA 0202+801BDEFC 0202+801BDEFE 0202"
+cheat10_enable = false
+
+

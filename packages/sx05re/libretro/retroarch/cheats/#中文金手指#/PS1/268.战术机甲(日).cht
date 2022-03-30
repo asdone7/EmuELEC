@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "#所有思维筹码"
+cheat0_code = "30082105 00FF+80082106 FFFF+80082108 FFFF+8008210A FFFF+8008210C FFFF+8008210E FFFF+80082110 FFFF"
+cheat0_enable = false
+
+cheat1_desc = "#无限盾（99）"
+cheat1_code = "30082118 0063"
+cheat1_enable = false
+
+cheat2_desc = "#不减少执行时间策略"
+cheat2_code = "D0082B34 0001+80082B34 0000"
+cheat2_enable = false
+
+

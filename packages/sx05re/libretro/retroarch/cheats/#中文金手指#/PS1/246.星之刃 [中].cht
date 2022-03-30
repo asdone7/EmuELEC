@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#无限能量角色1"
+cheat0_code = "8015A23C 0063"
+cheat0_enable = false
+
+cheat1_desc = "#Infinite Energy Character 2（Group 1 Leader）"
+cheat1_code = "8015A05C 0063"
+cheat1_enable = false
+
+cheat2_desc = "#无限能量角色3"
+cheat2_code = "8015A2B4 0063"
+cheat2_enable = false
+
+cheat3_desc = "#无限能量角色4"
+cheat3_code = "8015A32C 0063"
+cheat3_enable = false
+
+cheat4_desc = "#Infinite Energy Character 5（Group 2 Leader）"
+cheat4_code = "8015A0D4 0063"
+cheat4_enable = false
+
+cheat5_desc = "#无限能量角色6"
+cheat5_code = "8015A3A4 0063"
+cheat5_enable = false
+
+

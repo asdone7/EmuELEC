@@ -1,0 +1,231 @@
+cheats = 57
+
+cheat0_desc = "#一场战斗后可以获得99级（适用于所有角色）。如果使用此代码，则需要在战斗中同时按下R1和R2一次。"
+cheat0_code = "D0058A10 000A+800CC9A6 01C9"
+cheat0_enable = false
+
+cheat1_desc = "#保存到任何地方"
+cheat1_code = "800B1840 0001"
+cheat1_enable = false
+
+cheat2_desc = "#无限金钱"
+cheat2_code = "8006E5E8 FFFF+8006E5EA FF00"
+cheat2_enable = false
+
+cheat3_desc = "#无限数量的第一箱物品"
+cheat3_code = "8006EC54 6363"
+cheat3_enable = false
+
+cheat4_desc = "#总比赛时间= 00:00"
+cheat4_code = "80058B24 0000"
+cheat4_enable = false
+
+cheat5_desc = "#Max Combo"
+cheat5_code = "D0058A10 0002+300DDAE0 0003+D0058A10 0012+300DDAE0 0003+D0058A10 0022+300DDAE0 0003+D0058A10 0082+300DDAE0 0003"
+cheat5_enable = false
+
+cheat6_desc = "#Character Status-Codes \\第一个字符\\级别255"
+cheat6_code = "8006CF92 00FF"
+cheat6_enable = false
+
+cheat7_desc = "#Character Status-Codes \\第一个字符\\ Now Hp"
+cheat7_code = "8006CF7C FFFF"
+cheat7_enable = false
+
+cheat8_desc = "#Character Status-Codes \\第一个字符\\最大。生命值"
+cheat8_code = "8006CF7E FFFF"
+cheat8_enable = false
+
+cheat9_desc = "#字符状态代码\\第一个字符\\现在Mp"
+cheat9_code = "8006CF80 FFFF"
+cheat9_enable = false
+
+cheat10_desc = "#Character Status-Codes \\第一个字符\\最大。 Mp"
+cheat10_code = "8006CF82 FFFF"
+cheat10_enable = false
+
+cheat11_desc = "#Character Status-Codes \\第一个字符\\ Weight = 0"
+cheat11_code = "8006CFA6 0000"
+cheat11_enable = false
+
+cheat12_desc = "#战斗中的角色状态代码\\第一个字符\\最大Ap"
+cheat12_code = "800D29C0 001E"
+cheat12_enable = false
+
+cheat13_desc = "#Character Status-Codes \\ 2nd Character \\ Level 255"
+cheat13_code = "8006D036 00FF"
+cheat13_enable = false
+
+cheat14_desc = "#Character Status-Codes \\ 2nd Character \\ Now Hp"
+cheat14_code = "8006D020 FFFF"
+cheat14_enable = false
+
+cheat15_desc = "#Character Status-Codes \\ 2nd Character \\ Max Hp"
+cheat15_code = "8006D022 FFFF"
+cheat15_enable = false
+
+cheat16_desc = "#Character Status-Codes \\ 2nd Character \\ Now Mp"
+cheat16_code = "8006D024 FFFF"
+cheat16_enable = false
+
+cheat17_desc = "#Character Status-Codes \\ 2nd Character \\ Max Mp"
+cheat17_code = "8006D026 FFFF"
+cheat17_enable = false
+
+cheat18_desc = "#Character Status-Codes \\ 2nd Character \\ Weight = 0"
+cheat18_code = "8006D04A 0000"
+cheat18_enable = false
+
+cheat19_desc = "#Character Status-Codes \\ 3rd Character \\ Level 255"
+cheat19_code = "8006D0DA 00FF"
+cheat19_enable = false
+
+cheat20_desc = "#Character Status-Codes \\ 3rd Character \\ Now Hp"
+cheat20_code = "8006D0C4 FFFF"
+cheat20_enable = false
+
+cheat21_desc = "#Character Status-Codes \\ 3rd Character \\ Max Hp"
+cheat21_code = "8006D0C6 FFFF"
+cheat21_enable = false
+
+cheat22_desc = "#Character Status-Codes \\ 3rd Character \\ Now Mp"
+cheat22_code = "8006D0C8 FFFF"
+cheat22_enable = false
+
+cheat23_desc = "#Character Status-Codes \\ 3rd Character \\ Max Mp"
+cheat23_code = "8006D0CA FFFF"
+cheat23_enable = false
+
+cheat24_desc = "#Character Status-Codes \\ 3rd Character \\ Weight = 0"
+cheat24_code = "8006D0EE 0000"
+cheat24_enable = false
+
+cheat25_desc = "#Character Status-Codes \\ 4th Character \\ Level 255"
+cheat25_code = "8006D17E 00FF"
+cheat25_enable = false
+
+cheat26_desc = "#Character Status-Codes \\ 4th Character \\ Now Hp"
+cheat26_code = "8006D168 FFFF"
+cheat26_enable = false
+
+cheat27_desc = "#Character Status-Codes \\ 4th Character \\ Max Hp"
+cheat27_code = "8006D16A FFFF"
+cheat27_enable = false
+
+cheat28_desc = "#Character Status-Codes \\ 4th Character \\ Now Mp"
+cheat28_code = "8006D16C FFFF"
+cheat28_enable = false
+
+cheat29_desc = "#Character Status-Codes \\ 4th Character \\ Max Mp"
+cheat29_code = "8006D16E FFFF"
+cheat29_enable = false
+
+cheat30_desc = "#Character Status-Codes \\ 4th Character \\ Weight = 0"
+cheat30_code = "8006D192 0000"
+cheat30_enable = false
+
+cheat31_desc = "#Character Status-Codes \\ 5th Character \\ Level 255"
+cheat31_code = "8006D222 00FF"
+cheat31_enable = false
+
+cheat32_desc = "#Character Status-Codes \\第5个字符\\ Now Hp"
+cheat32_code = "8006D20C FFFF"
+cheat32_enable = false
+
+cheat33_desc = "#Character Status-Codes \\第5个字符\\ Max Hp"
+cheat33_code = "8006D20E FFFF"
+cheat33_enable = false
+
+cheat34_desc = "#Character Status-Codes \\第5个字符\\ Now Mp"
+cheat34_code = "8006D210 FFFF"
+cheat34_enable = false
+
+cheat35_desc = "#Character Status-Codes \\第5个字符\\ Max Mp"
+cheat35_code = "8006D212 FFFF"
+cheat35_enable = false
+
+cheat36_desc = "#Gear Status-Codes \\ Max Hp \\ 1st Gear [Waltall]"
+cheat36_code = "8006D69C 1869+8006D69E 000F+8006D6A0 1869+8006D6A2 000F"
+cheat36_enable = false
+
+cheat37_desc = "#Gear Status-Codes \\ Max Hp \\ 2nd Gear [Brigander]"
+cheat37_code = "8006D7E4 1869+8006D7E6 000F+8006D7E8 1869+8006D7EA 000F"
+cheat37_enable = false
+
+cheat38_desc = "#Gear Status-Codes \\ Max Hp \\ 3rd Gear [Vierge]"
+cheat38_code = "8006D740 1869+8006D742 000F+8006D744 1869+8006D746 000F"
+cheat38_enable = false
+
+cheat39_desc = "#Gear Status-Codes \\ Max Hp \\ 4th Gear [Heimdal]"
+cheat39_code = "8006D888 1869+8006D88A 000F+8006D88C 1869+8006D88E 000F"
+cheat39_enable = false
+
+cheat40_desc = "#Gear Status-Codes \\ Max Hp \\ 5th Gear [Renmazuo]"
+cheat40_code = "8006D92C 1869+8006D92E 000F+8006D930 1869+8006D932 000F"
+cheat40_enable = false
+
+cheat41_desc = "#Gear Status-Codes \\ Max Fuel \\ 1st Gear [Wallall]"
+cheat41_code = "8006D674 270F+8006D676 270F"
+cheat41_enable = false
+
+cheat42_desc = "#Gear Status-Codes \\ Max Fuel \\ 2nd Gear [Brigander]"
+cheat42_code = "8006D7BC 270F+8006D7BE 270F"
+cheat42_enable = false
+
+cheat43_desc = "#Gear Status-Codes \\ Max Fuel \\ 3rd Gear [Vierge]"
+cheat43_code = "8006D718 270F+8006D71A 270F"
+cheat43_enable = false
+
+cheat44_desc = "#Gear Status-Codes \\ Max Fuel \\ 4th Gear [Heimdal]"
+cheat44_code = "8006D860 270F+8006D862 270F"
+cheat44_enable = false
+
+cheat45_desc = "#Gear Status-Codes \\ Max Fuel \\ 5th Gear [Renmazuo]"
+cheat45_code = "8006D904 270F+8006D906 270F"
+cheat45_enable = false
+
+cheat46_desc = "#Gear Status-Codes \\ Max All Status \\ 1st Gear [Waltall]"
+cheat46_code = "3006D678 00FF+3006D6B0 0026+8006D6AC 2610+8006D6AE 2610+3006D6DA 00FF+3006D6DB 00F0+3006D6D4 00FF"
+cheat46_enable = false
+
+cheat47_desc = "#Gear Status-Codes \\ Max All Status \\ 2nd Gear [Brigander]"
+cheat47_code = "3006D7C0 00FF+3006D7F8 0026+8006D7F4 2610+8006D7F6 2610+3006D822 00FF+3006D823 00FF+3006D81C 00FF"
+cheat47_enable = false
+
+cheat48_desc = "#Gear Status-Codes \\ Max All Status \\ 3rd Gear [Vierge]"
+cheat48_code = "3006D71C 00FF+3006D754 0026+8006D750 2610+8006D752 2610+3006D77E 00FF+3006D77F 00FF+3006D778 00FF"
+cheat48_enable = false
+
+cheat49_desc = "#Gear Status-Codes \\ Max All Status \\ 4th Gear [Heimdal]"
+cheat49_code = "3006D864 00FF+3006D89C 0026+8006D898 2610+8006D89A 2610+3006D8C6 00FF+3006D8C7 00FF+3006D8C0 00FF"
+cheat49_enable = false
+
+cheat50_desc = "#齿轮状态代码\\最大所有状态\\第5挡[Renmazuo]"
+cheat50_code = "3006D908 00FF+3006D940 0026+8006D93C 2610+8006D93E 2610+3006D96A 00FF+3006D96B 00FF+3006D964 00FF"
+cheat50_enable = false
+
+cheat51_desc = "#Gear Status-Codes \\ Weight = 0 Kg \\ 1st Gear [Waltall]"
+cheat51_code = "8006D6A4 0000"
+cheat51_enable = false
+
+cheat52_desc = "#Gear Status-Codes \\ Weight = 0 Kg \\ 2nd Gear [Brigander]"
+cheat52_code = "8006D748 0000"
+cheat52_enable = false
+
+cheat53_desc = "#Gear Status-Codes \\ Weight = 0 Kg \\ 3rd Gear [Vierge]"
+cheat53_code = "8006D7EC 0000"
+cheat53_enable = false
+
+cheat54_desc = "#Gear Status-Codes \\ Weight = 0 Kg \\ 4th Gear [Heimdal]"
+cheat54_code = "8006D890 0000"
+cheat54_enable = false
+
+cheat55_desc = "#Gear Status-Codes \\ Weight = 0 Kg \\ 5th Gear [Renmazuo]"
+cheat55_code = "8006D934 0000"
+cheat55_enable = false
+
+cheat56_desc = "#无随机信号"
+cheat56_code = "D0074A38 1400+80074A3E 1000+D00788F0 0094+800788F2 1000"
+cheat56_enable = false
+
+

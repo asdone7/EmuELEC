@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#无限能量P1"
+cheat0_code = "8001200C 0140"
+cheat0_enable = false
+
+cheat1_desc = "#无限时间"
+cheat1_code = "80012002 0063"
+cheat1_enable = false
+
+

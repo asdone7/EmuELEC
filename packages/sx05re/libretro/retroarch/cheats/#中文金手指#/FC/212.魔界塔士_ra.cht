@@ -1,0 +1,70 @@
+cheats = 17
+
+cheat0_desc = "[洛克hp]ON"
+cheat0_code = "0969:FF"
+cheat0_enable = false
+
+cheat1_desc = "[洛克攻击]ON"
+cheat1_code = "09A9:FF"
+cheat1_enable = false
+
+cheat2_desc = "[洛克防御]ON"
+cheat2_code = "09B9:FF"
+cheat2_enable = false
+
+cheat3_desc = "[洛克敏捷]ON"
+cheat3_code = "0919:FF"
+cheat3_enable = false
+
+cheat4_desc = "[杰克HP]ON"
+cheat4_code = "096A:FF"
+cheat4_enable = false
+
+cheat5_desc = "[杰克攻击]ON"
+cheat5_code = "09AA:FF"
+cheat5_enable = false
+
+cheat6_desc = "[杰克防御]ON"
+cheat6_code = "09BA:FF"
+cheat6_enable = false
+
+cheat7_desc = "[杰克敏捷]ON"
+cheat7_code = "091A:FF"
+cheat7_enable = false
+
+cheat8_desc = "[蕾洁hp]ON"
+cheat8_code = "096B:FF"
+cheat8_enable = false
+
+cheat9_desc = "[蕾洁攻击]ON"
+cheat9_code = "09AB:FF"
+cheat9_enable = false
+
+cheat10_desc = "[蕾洁防御]ON"
+cheat10_code = "09BB:FF"
+cheat10_enable = false
+
+cheat11_desc = "[蕾洁敏捷]ON"
+cheat11_code = "091B:FF"
+cheat11_enable = false
+
+cheat12_desc = "[沙娜HP]ON"
+cheat12_code = "096C:FF"
+cheat12_enable = false
+
+cheat13_desc = "[沙娜攻击]ON"
+cheat13_code = "09AC:FF"
+cheat13_enable = false
+
+cheat14_desc = "[沙娜防御]ON"
+cheat14_code = "09BC:FF"
+cheat14_enable = false
+
+cheat15_desc = "[沙娜敏捷]ON"
+cheat15_code = "091C:FF"
+cheat15_enable = false
+
+cheat16_desc = "[金钱]ON"
+cheat16_code = "081F:FF"
+cheat16_enable = false
+

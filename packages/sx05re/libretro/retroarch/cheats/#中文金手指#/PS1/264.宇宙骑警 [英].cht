@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#无限能量"
+cheat0_code = "80068A08 012C+80068DC0 012C"
+cheat0_enable = false
+
+cheat1_desc = "#无限子弹"
+cheat1_code = "80062AB0 000A"
+cheat1_enable = false
+
+

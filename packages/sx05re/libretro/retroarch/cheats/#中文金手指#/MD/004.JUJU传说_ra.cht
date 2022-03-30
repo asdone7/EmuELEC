@@ -1,0 +1,70 @@
+cheats = 17
+
+cheat0_desc = "[TIME]9分钟"
+cheat0_code = "FF1B83:09"
+cheat0_enable = false
+
+cheat1_desc = "[JUJU]50命"
+cheat1_code = "FF1B87:32"
+cheat1_enable = false
+
+cheat2_desc = "[FOOD]加命"
+cheat2_code = "FF1B86:50"
+cheat2_enable = false
+
+cheat3_desc = "[攻击方式]蓄力+FF强1(推荐)"
+cheat3_code = "FF1B88:06+FF1B89:63+FF1D0E:FF"
+cheat3_enable = false
+
+cheat4_desc = "[攻击方式]蓄力+FF强2"
+cheat4_code = "FF1B88:06+FF1B89:63+FF1D0E:FF+FF1D0F:01"
+cheat4_enable = false
+
+cheat5_desc = "[攻击方式]召唤精灵"
+cheat5_code = "FF1B88:08+FF1B89:63"
+cheat5_enable = false
+
+cheat6_desc = "[攻击方式]初始"
+cheat6_code = "FF1B88:00+FF1B89:63"
+cheat6_enable = false
+
+cheat7_desc = "[攻击方式]抛物线"
+cheat7_code = "FF1B88:01+FF1B89:63"
+cheat7_enable = false
+
+cheat8_desc = "[攻击方式]直线"
+cheat8_code = "FF1B88:02+FF1B89:63"
+cheat8_enable = false
+
+cheat9_desc = "[攻击方式]火焰"
+cheat9_code = "FF1B88:03+FF1B89:63"
+cheat9_enable = false
+
+cheat10_desc = "[攻击方式]散弹"
+cheat10_code = "FF1B88:04+FF1B89:63"
+cheat10_enable = false
+
+cheat11_desc = "[攻击方式]环型"
+cheat11_code = "FF1B88:05+FF1B89:63"
+cheat11_enable = false
+
+cheat12_desc = "[攻击方式]蓄力"
+cheat12_code = "FF1B88:06+FF1B89:63"
+cheat12_enable = false
+
+cheat13_desc = "[攻击方式]只射右边"
+cheat13_code = "FF1B88:07+FF1B89:63"
+cheat13_enable = false
+
+cheat14_desc = "[召唤精灵时间]锁"
+cheat14_code = "FF1D7B:03"
+cheat14_enable = false
+
+cheat15_desc = "[跳跃加强]锁"
+cheat15_code = "FF1D24:B8"
+cheat15_enable = false
+
+cheat16_desc = "[无敌闪烁]锁"
+cheat16_code = "FF1D27:02"
+cheat16_enable = false
+

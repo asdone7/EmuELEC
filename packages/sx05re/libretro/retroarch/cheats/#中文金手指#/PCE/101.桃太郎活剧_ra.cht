@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[只数]ON"
+cheat0_code = "1F1BB8:09+1F1BB9:09"
+cheat0_enable = false
+
+cheat1_desc = "[金钱]ON"
+cheat1_code = "1F1B42:FF+1F1B43:FF+1F1B44:00+1F1B44:FF+1F1B45:FF+1F1B46:00"
+cheat1_enable = false
+
+cheat2_desc = "[无敌]ON"
+cheat2_code = "1F199A:01+1F199B:3C"
+cheat2_enable = false
+

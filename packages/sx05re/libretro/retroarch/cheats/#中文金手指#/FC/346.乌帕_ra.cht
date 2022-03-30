@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[人数无限]ON"
+cheat0_code = "0034:63"
+cheat0_enable = false
+
+cheat1_desc = "[体力不减]ON"
+cheat1_code = "008A:0A"
+cheat1_enable = false
+
+cheat2_desc = "[无敌（对BOSS及陷阱无效）]ON"
+cheat2_code = "008C:9E+00A3:01"
+cheat2_enable = false
+
+cheat3_desc = "[状态]正常"
+cheat3_code = "00A1:00"
+cheat3_enable = false
+
+cheat4_desc = "[状态]游泳"
+cheat4_code = "00A1:01"
+cheat4_enable = false
+
+cheat5_desc = "[状态]爬行"
+cheat5_code = "00A1:02"
+cheat5_enable = false
+
+cheat6_desc = "[状态]倒挂"
+cheat6_code = "00A1:03"
+cheat6_enable = false
+

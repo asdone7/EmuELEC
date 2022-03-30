@@ -1,0 +1,19 @@
+cheats = 4
+
+cheat0_desc = "鸭嘴"
+cheat0_code = "020400B1 00000003"
+cheat0_enable = false
+
+cheat1_desc = "饭团"
+cheat1_code = "0204198D 00000063"
+cheat1_enable = false
+
+cheat2_desc = "人数"
+cheat2_code = "0204198C 00000063"
+cheat2_enable = false
+
+cheat3_desc = "时间"
+cheat3_code = "020400B4 00000063"
+cheat3_enable = false
+
+

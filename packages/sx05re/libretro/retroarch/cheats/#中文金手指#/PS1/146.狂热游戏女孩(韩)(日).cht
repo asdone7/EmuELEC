@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#无限金钱（30000）"
+cheat0_code = "800810C6 7530"
+cheat0_enable = false
+
+cheat1_desc = "#无限HP"
+cheat1_code = "800810B9 8800"
+cheat1_enable = false
+
+

@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[进球数]ON"
+cheat0_code = "03A7:63"
+cheat0_enable = false
+

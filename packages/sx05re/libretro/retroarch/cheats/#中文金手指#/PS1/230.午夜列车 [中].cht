@@ -1,0 +1,39 @@
+cheats = 9
+
+cheat0_desc = "#解锁保护"
+cheat0_code = "D00EA6DE 1040+800EA6DE 1000"
+cheat0_enable = false
+
+cheat1_desc = "#Inf Hp"
+cheat1_code = "80010402 1000"
+cheat1_enable = false
+
+cheat2_desc = "#开始游戏有特殊枪"
+cheat2_code = "3001045D 0033+3001045F 0036+30010461 0002+30010463 002E"
+cheat2_enable = false
+
+cheat3_desc = "#无限健康包"
+cheat3_code = "80010464 00FF"
+cheat3_enable = false
+
+cheat4_desc = "#无限数量的子弹请保存后重新启动，一旦加载数据，无限子弹！"
+cheat4_code = "800103D4 FFF0+800103D6 FFFF"
+cheat4_enable = false
+
+cheat5_desc = "#全部文件"
+cheat5_code = "50001C02 0101+8001088C 1D01"
+cheat5_enable = false
+
+cheat6_desc = "#Christina用于保存"
+cheat6_code = "30010405 0001"
+cheat6_enable = false
+
+cheat7_desc = "#特殊电影测试/声音测试（L1 + L2）"
+cheat7_code = "D00DDFDA FAFF+301B21DC 0003"
+cheat7_enable = false
+
+cheat8_desc = "#特别电影测试/声音测试"
+cheat8_code = "301B21DC 0003"
+cheat8_enable = false
+
+

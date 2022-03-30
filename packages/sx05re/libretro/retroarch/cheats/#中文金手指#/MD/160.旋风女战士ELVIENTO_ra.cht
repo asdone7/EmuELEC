@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[HP]ON"
+cheat0_code = "FFAB3A:0F+FFAB3B:27+FFAB3C:0F+FFAB3D:27"
+cheat0_enable = false
+
+cheat1_desc = "[MP]ON"
+cheat1_code = "FFAC90:17"
+cheat1_enable = false
+

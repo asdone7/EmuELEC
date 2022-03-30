@@ -1,0 +1,162 @@
+cheats = 40
+
+cheat0_desc = "[P1生命无限]ON"
+cheat0_code = "00B4:09"
+cheat0_enable = false
+
+cheat1_desc = "[P1子弹无限]ON"
+cheat1_code = "00A2:63"
+cheat1_enable = false
+
+cheat2_desc = "[P1炸药无限]ON"
+cheat2_code = "00A0:63"
+cheat2_enable = false
+
+cheat3_desc = "[P1钥匙无限]ON"
+cheat3_code = "00A8:04"
+cheat3_enable = false
+
+cheat4_desc = "[P1霰弹威力]ON"
+cheat4_code = "009E:42"
+cheat4_enable = false
+
+cheat5_desc = "[P1霰雷炸弹]ON"
+cheat5_code = "009C:3D"
+cheat5_enable = false
+
+cheat6_desc = "[P1超强机枪]ON"
+cheat6_code = "00AB:01"
+cheat6_enable = false
+
+cheat7_desc = "[P1无敌]ON"
+cheat7_code = "0401:80"
+cheat7_enable = false
+
+cheat8_desc = "[P1雷选择]Blue Bomb"
+cheat8_code = "009C:3C"
+cheat8_enable = false
+
+cheat9_desc = "[P1雷选择]Red Exploding Flames"
+cheat9_code = "009C:3D"
+cheat9_enable = false
+
+cheat10_desc = "[P1雷选择]Whirling Stars"
+cheat10_code = "009C:3E"
+cheat10_enable = false
+
+cheat11_desc = "[P1雷选择]Blue Flame"
+cheat11_code = "009C:3F"
+cheat11_enable = false
+
+cheat12_desc = "[P1武器选择]Normal Gun"
+cheat12_code = "009E:40"
+cheat12_enable = false
+
+cheat13_desc = "[P1武器选择]Double Shot Gun"
+cheat13_code = "009E:41"
+cheat13_enable = false
+
+cheat14_desc = "[P1武器选择]5 Shot Gun"
+cheat14_code = "009E:42"
+cheat14_enable = false
+
+cheat15_desc = "[P1武器选择]Flame Thrower"
+cheat15_code = "009E:43"
+cheat15_enable = false
+
+cheat16_desc = "[P2生命无限]ON"
+cheat16_code = "00B5:09"
+cheat16_enable = false
+
+cheat17_desc = "[P2子弹无限]ON"
+cheat17_code = "00A3:63"
+cheat17_enable = false
+
+cheat18_desc = "[P2炸药无限]ON"
+cheat18_code = "00A1:63"
+cheat18_enable = false
+
+cheat19_desc = "[P2钥匙无限]ON"
+cheat19_code = "00A9:04"
+cheat19_enable = false
+
+cheat20_desc = "[P2霰弹威力]ON"
+cheat20_code = "009F:42"
+cheat20_enable = false
+
+cheat21_desc = "[P2霰雷炸弹]ON"
+cheat21_code = "009D:3D"
+cheat21_enable = false
+
+cheat22_desc = "[P2超强机枪]ON"
+cheat22_code = "00AC:01"
+cheat22_enable = false
+
+cheat23_desc = "[P12无敌]ON"
+cheat23_code = "0421:80"
+cheat23_enable = false
+
+cheat24_desc = "[P2雷选择]Blue Bomb"
+cheat24_code = "009D:3C"
+cheat24_enable = false
+
+cheat25_desc = "[P2雷选择]Red Exploding Flames"
+cheat25_code = "009D:3D"
+cheat25_enable = false
+
+cheat26_desc = "[P2雷选择]Whirling Stars"
+cheat26_code = "009D:3E"
+cheat26_enable = false
+
+cheat27_desc = "[P2雷选择]Blue Flame"
+cheat27_code = "009D:3F"
+cheat27_enable = false
+
+cheat28_desc = "[P3武器选择]Normal Gun"
+cheat28_code = "009F:40"
+cheat28_enable = false
+
+cheat29_desc = "[P3武器选择]Double Shot Gun"
+cheat29_code = "009F:41"
+cheat29_enable = false
+
+cheat30_desc = "[P3武器选择]5 Shot Gun"
+cheat30_code = "009F:42"
+cheat30_enable = false
+
+cheat31_desc = "[P3武器选择]Flame Thrower"
+cheat31_code = "009F:43"
+cheat31_enable = false
+
+cheat32_desc = "[关卡选择]第1关"
+cheat32_code = "0096:00"
+cheat32_enable = false
+
+cheat33_desc = "[关卡选择]第2关"
+cheat33_code = "0096:01"
+cheat33_enable = false
+
+cheat34_desc = "[关卡选择]第3关"
+cheat34_code = "0096:02"
+cheat34_enable = false
+
+cheat35_desc = "[关卡选择]第4关"
+cheat35_code = "0096:03"
+cheat35_enable = false
+
+cheat36_desc = "[关卡选择]第5关"
+cheat36_code = "0096:04"
+cheat36_enable = false
+
+cheat37_desc = "[关卡选择]第6关"
+cheat37_code = "0096:05"
+cheat37_enable = false
+
+cheat38_desc = "[关卡选择]第7关"
+cheat38_code = "0096:06"
+cheat38_enable = false
+
+cheat39_desc = "[关卡选择]第8关"
+cheat39_code = "0096:07"
+cheat39_enable = false
+

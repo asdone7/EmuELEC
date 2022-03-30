@@ -1,0 +1,31 @@
+cheats = 7
+
+cheat0_desc = "#Hp 999"
+cheat0_code = "801929FC 03E7+801929FE 03E7"
+cheat0_enable = false
+
+cheat1_desc = "#MP 999"
+cheat1_code = "80192A00 03E7+80192A02 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#榆木9999"
+cheat2_code = "80194304 270F"
+cheat2_enable = false
+
+cheat3_desc = "#统计999"
+cheat3_code = "801929E8 03E7+801929E6 03E7"
+cheat3_enable = false
+
+cheat4_desc = "#统计255"
+cheat4_code = "801929EC 00FF+801929EA FFFF"
+cheat4_enable = false
+
+cheat5_desc = "#99级"
+cheat5_code = "801929E4 6300"
+cheat5_enable = false
+
+cheat6_desc = "#升级"
+cheat6_code = "801929F0 0001"
+cheat6_enable = false
+
+

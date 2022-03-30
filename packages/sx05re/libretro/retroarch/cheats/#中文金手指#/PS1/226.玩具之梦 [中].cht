@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "#无限金钱"
+cheat0_code = "8007910C EA60"
+cheat0_enable = false
+
+cheat1_desc = "#无限耐力Mia"
+cheat1_code = "8007721C 0050"
+cheat1_enable = false
+
+cheat2_desc = "#最大重量"
+cheat2_code = "8007714A 03E7"
+cheat2_enable = false
+
+

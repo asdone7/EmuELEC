@@ -1,0 +1,31 @@
+cheats = 7
+
+cheat0_desc = "#无限能量皮特"
+cheat0_code = "800ADDCC 000C"
+cheat0_enable = false
+
+cheat1_desc = "#无限时间"
+cheat1_code = "800ADDA2 003B"
+cheat1_enable = false
+
+cheat2_desc = "#无限的生命皮特"
+cheat2_code = "800ADDD4 0002"
+cheat2_enable = false
+
+cheat3_desc = "#无限炸弹皮特"
+cheat3_code = "800ADDD6 0002"
+cheat3_enable = false
+
+cheat4_desc = "#无限能量丹尼"
+cheat4_code = "800ADE28 000C"
+cheat4_enable = false
+
+cheat5_desc = "#无限生活丹尼"
+cheat5_code = "800ADE30 0002"
+cheat5_enable = false
+
+cheat6_desc = "#无限炸弹丹尼"
+cheat6_code = "800ADE32 0002"
+cheat6_enable = false
+
+

@@ -1,0 +1,207 @@
+cheats = 51
+
+cheat0_desc = "#无限健康"
+cheat0_code = "8009A0FC 2020"
+cheat0_enable = false
+
+cheat1_desc = "#Ultra Buster Shot"
+cheat1_code = "8009A13C FFFF"
+cheat1_enable = false
+
+cheat2_desc = "#无限C射击"
+cheat2_code = "8009A14A 0121"
+cheat2_enable = false
+
+cheat3_desc = "#无限的生命"
+cheat3_code = "300D1C45 0004"
+cheat3_enable = false
+
+cheat4_desc = "#拥有所有武器"
+cheat4_code = "3009A169 00FF"
+cheat4_enable = false
+
+cheat5_desc = "#允许您踩钉"
+cheat5_code = "D0074634 72E8+80074634 5F90+D0038B9C 0012+80038B9E 1000+D0038BF0 0018+80038BF2 1000"
+cheat5_enable = false
+
+cheat6_desc = "#Infinite C-Shot / Dark Hold（Xero）"
+cheat6_code = "8009A14A 0120"
+cheat6_enable = false
+
+cheat7_desc = "#Infinite Dark Hold / Cflasher（Xero）"
+cheat7_code = "8009A14C 0120"
+cheat7_enable = false
+
+cheat8_desc = "#Infinite Goo Shaver / Twin Dream（Xero）"
+cheat8_code = "8009A14E 0120"
+cheat8_enable = false
+
+cheat9_desc = "#无限地面火"
+cheat9_code = "8009A150 0120"
+cheat9_enable = false
+
+cheat10_desc = "#Infinite Tri-Thunder"
+cheat10_code = "8009A152 0120"
+cheat10_enable = false
+
+cheat11_desc = "#无限F激光"
+cheat11_code = "8009A154 0120"
+cheat11_enable = false
+
+cheat12_desc = "#无限尖刺球"
+cheat12_code = "8009A156 0120"
+cheat12_enable = false
+
+cheat13_desc = "#无限翼螺旋"
+cheat13_code = "8009A158 0120"
+cheat13_enable = false
+
+cheat14_desc = "#无限所有弹药"
+cheat14_code = "D003F82C 1823+8003F832 2400"
+cheat14_enable = false
+
+cheat15_desc = "#无限小时碰撞"
+cheat15_code = "800D1CAE 0040"
+cheat15_enable = false
+
+cheat16_desc = "#启用X-Buster"
+cheat16_code = "300D4F56 0001"
+cheat16_enable = false
+
+cheat17_desc = "#启用机翼螺旋"
+cheat17_code = "300D4F57 0001"
+cheat17_enable = false
+
+cheat18_desc = "#启用C-Shot"
+cheat18_code = "300D4F58 0001"
+cheat18_enable = false
+
+cheat19_desc = "#启用尖刺球"
+cheat19_code = "300D4F59 0001"
+cheat19_enable = false
+
+cheat20_desc = "#启用三雷"
+cheat20_code = "300D4F5A 0001"
+cheat20_enable = false
+
+cheat21_desc = "#启用暗保持"
+cheat21_code = "300D4F5B 0001"
+cheat21_enable = false
+
+cheat22_desc = "#启用F激光"
+cheat22_code = "300D4F5C 0001"
+cheat22_enable = false
+
+cheat23_desc = "#启用地面火力"
+cheat23_code = "300D4F5D 0001"
+cheat23_enable = false
+
+cheat24_desc = "#启用Goo Shaver"
+cheat24_code = "300D4F5E 0001"
+cheat24_enable = false
+
+cheat25_desc = "#启用千兆攻击"
+cheat25_code = "300D4F5F 0001"
+cheat25_enable = false
+
+cheat26_desc = "#启用恢复生命量规"
+cheat26_code = "300D4F60 0001"
+cheat26_enable = false
+
+cheat27_desc = "#启用生命表"
+cheat27_code = "300D4F61 0001"
+cheat27_enable = false
+
+cheat28_desc = "#启用还原武器能量计"
+cheat28_code = "300D4F62 0001"
+cheat28_enable = false
+
+cheat29_desc = "#启用A级出口"
+cheat29_code = "300D4F63 0001"
+cheat29_enable = false
+
+cheat30_desc = "#启用更改按钮配置"
+cheat30_code = "300D4F64 0001"
+cheat30_enable = false
+
+cheat31_desc = "#启用返回游戏"
+cheat31_code = "300D4F65 0001"
+cheat31_enable = false
+
+cheat32_desc = "#启用更改屏幕配置"
+cheat32_code = "300D4F66 0001"
+cheat32_enable = false
+
+cheat33_desc = "#启用防爆"
+cheat33_code = "300D4F67 0001"
+cheat33_enable = false
+
+cheat34_desc = "#Infinite All Ammo（零）"
+cheat34_code = "D0041D8C 00AC+80041D8E 2400+D0043C44 00AE+80043C46 2400+D0046E84 2023+80046E8A 2400"
+cheat34_enable = false
+
+cheat35_desc = "#在追逐者级别拥有所有能量球"
+cheat35_code = "D00D51A2 7FFF+800D1C26 0008"
+cheat35_enable = false
+
+cheat36_desc = "#Level介绍级别从主标题屏幕中选择“培训”，您将被带到该级别"
+cheat36_code = "D00D1C0C 0016+300D1C0C 0000"
+cheat36_enable = false
+
+cheat37_desc = "#Level Grizzly Slash从主标题屏幕选择Training，您将被带到该级别"
+cheat37_code = "D00D1C0C 0016+300D1C0C 0001"
+cheat37_enable = false
+
+cheat38_desc = "#Level Dark Dizzy从主标题屏幕中选择Training，您将被带到该级别"
+cheat38_code = "D00D1C0C 0016+300D1C0C 0002"
+cheat38_enable = false
+
+cheat39_desc = "#Level Duff McWhalen从主标题屏幕中选择“培训”，您将被带到该级别"
+cheat39_code = "D00D1C0C 0016+300D1C0C 0003"
+cheat39_enable = false
+
+cheat40_desc = "#Level MattRex从主标题屏幕中选择“培训”，您将被带到该级别"
+cheat40_code = "D00D1C0C 0016+300D1C0C 0004"
+cheat40_enable = false
+
+cheat41_desc = "#Level Squid Adler从主标题屏幕中选择“培训”，您将被带到该级别"
+cheat41_code = "D00D1C0C 0016+300D1C0C 0005"
+cheat41_enable = false
+
+cheat42_desc = "#Level Izzy Glowr从主标题屏幕中选择“培训”，您将被带到该级别"
+cheat42_code = "D00D1C0C 0016+300D1C0C 0006"
+cheat42_enable = false
+
+cheat43_desc = "#Level AxleTheRed从主标题屏幕中选择“训练”，您将被带到该级别"
+cheat43_code = "D00D1C0C 0016+300D1C0C 0007"
+cheat43_enable = false
+
+cheat44_desc = "#Level Skiver从主标题屏幕选择Training，您将被带到该级别"
+cheat44_code = "D00D1C0C 0016+300D1C0C 0008"
+cheat44_enable = false
+
+cheat45_desc = "#Level 1st Fight with Dynamo，从主标题屏幕中选择“训练”，您将被带到该级别"
+cheat45_code = "D00D1C0C 0016+300D1C0C 0009"
+cheat45_enable = false
+
+cheat46_desc = "#Level 2nd Fighting with Dynamo，从主标题屏幕中选择“训练”，您将被带到该级别"
+cheat46_code = "D00D1C0C 0016+300D1C0C 000A"
+cheat46_enable = false
+
+cheat47_desc = "#Level Sigma Level的第一部分，从主标题屏幕中选择“培训”，您将被带到该级别"
+cheat47_code = "D00D1C0C 0016+300D1C0C 0010"
+cheat47_enable = false
+
+cheat48_desc = "#Level Sigma Level的第二部分，从主标题屏幕中选择“培训”，您将被带到该级别"
+cheat48_code = "D00D1C0C 0016+300D1C0C 0011"
+cheat48_enable = false
+
+cheat49_desc = "#Level Sigma Level第三部分从主标题屏幕中选择“培训”，您将被带到该级别"
+cheat49_code = "D00D1C0C 0016+300D1C0C 0012"
+cheat49_enable = false
+
+cheat50_desc = "#Level Sigma Level的最后一个部分，从主标题屏幕中选择Training，您将被带到该级别"
+cheat50_code = "D00D1C0C 0016+300D1C0C 000c"
+cheat50_enable = false
+
+

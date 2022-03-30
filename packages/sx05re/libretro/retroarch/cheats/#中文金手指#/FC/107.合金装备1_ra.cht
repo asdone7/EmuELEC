@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[全部装备]ON"
+cheat0_code = "0075:FF+0078:FF"
+cheat0_enable = false
+
+cheat1_desc = "[全部武器弹药全满]ON"
+cheat1_code = "0076:FF+0077:FF+007A:FF+007B:FF+007C:FF+007D:FF+007E:5A+007F:1E"
+cheat1_enable = false
+
+cheat2_desc = "[生命值最大]ON"
+cheat2_code = "006D:0F"
+cheat2_enable = false
+
+cheat3_desc = "[等级]ON"
+cheat3_code = "006E:04"
+cheat3_enable = false
+
+cheat4_desc = "[全部武器]ON"
+cheat4_code = "0070:FF"
+cheat4_enable = false
+
+cheat5_desc = "[直接跳到游戏最后一处（出现计时器）出现计时器后死一次后再接关即可]ON"
+cheat5_code = "0071:FF"
+cheat5_enable = false
+

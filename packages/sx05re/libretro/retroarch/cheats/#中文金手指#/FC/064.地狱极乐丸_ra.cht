@@ -1,0 +1,46 @@
+cheats = 11
+
+cheat0_desc = "[无限时间(过关前解锁)]ON"
+cheat0_code = "0691:09+0692:09+0693:09"
+cheat0_enable = false
+
+cheat1_desc = "[生命数]ON"
+cheat1_code = "06C0:09"
+cheat1_enable = false
+
+cheat2_desc = "[体力值(过关前解锁)]ON"
+cheat2_code = "068C:0F"
+cheat2_enable = false
+
+cheat3_desc = "[能量值(过关前解锁)]ON"
+cheat3_code = "068E:1E"
+cheat3_enable = false
+
+cheat4_desc = "[透明]ON"
+cheat4_code = "0083:04+0089:2B"
+cheat4_enable = false
+
+cheat5_desc = "[选择关卡]第一关"
+cheat5_code = "068B:01"
+cheat5_enable = false
+
+cheat6_desc = "[选择关卡]第二关"
+cheat6_code = "068B:02"
+cheat6_enable = false
+
+cheat7_desc = "[选择关卡]第三关"
+cheat7_code = "068B:05"
+cheat7_enable = false
+
+cheat8_desc = "[选择关卡]第四关"
+cheat8_code = "068B:07"
+cheat8_enable = false
+
+cheat9_desc = "[选择关卡]第五关"
+cheat9_code = "068B:09"
+cheat9_enable = false
+
+cheat10_desc = "[选择关卡]第六关"
+cheat10_code = "068B:0C"
+cheat10_enable = false
+

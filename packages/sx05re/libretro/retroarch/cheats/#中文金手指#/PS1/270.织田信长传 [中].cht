@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#战斗中无限和最大能量的主要角色"
+cheat0_code = "800B2140 03E7+800B20E0 03E7"
+cheat0_enable = false
+
+cheat1_desc = "#无限金钱99999"
+cheat1_code = "800C8E70 869F+800C8E72 0001"
+cheat1_enable = false
+
+

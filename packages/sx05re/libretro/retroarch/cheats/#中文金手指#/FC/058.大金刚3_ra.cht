@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[红色子弹]ON"
+cheat0_code = "0055:48"
+cheat0_enable = false
+
+cheat1_desc = "[生命数]ON"
+cheat1_code = "0090:0A+0092:09"
+cheat1_enable = false
+
+cheat2_desc = "[第99关]ON"
+cheat2_code = "0061:99"
+cheat2_enable = false
+

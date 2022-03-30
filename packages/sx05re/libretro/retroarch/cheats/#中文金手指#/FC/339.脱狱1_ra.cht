@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[命]ON"
+cheat0_code = "043A:63"
+cheat0_enable = false
+
+cheat1_desc = "[血]ON"
+cheat1_code = "0424:20"
+cheat1_enable = false
+
+cheat2_desc = "[枪]ON"
+cheat2_code = "0438:9B"
+cheat2_enable = false
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[无限体力]ON"
+cheat0_code = "FFAEDA:0C"
+cheat0_enable = false
+
+cheat1_desc = "[无限生命]ON"
+cheat1_code = "FFA1A2:09"
+cheat1_enable = false
+

@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#得分99"
+cheat0_code = "800DB4E8 0063"
+cheat0_enable = false
+
+cheat1_desc = "#时间"
+cheat1_code = "800B4AFC 0050"
+cheat1_enable = false
+
+

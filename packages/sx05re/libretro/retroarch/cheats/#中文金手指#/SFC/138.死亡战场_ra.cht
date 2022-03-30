@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[1PHP]ON"
+cheat0_code = "7E0A1064"
+cheat0_enable = false
+
+cheat1_desc = "[1PMAX]ON"
+cheat1_code = "7E09D8FF"
+cheat1_enable = false
+
+cheat2_desc = "[2PHP]最大HP"
+cheat2_code = "7E0A1264"
+cheat2_enable = false
+
+cheat3_desc = "[2PHP]一击必死"
+cheat3_code = "7E0A1200"
+cheat3_enable = false
+
+cheat4_desc = "[2PMAX]无法使用必杀"
+cheat4_code = "7E09DA00"
+cheat4_enable = false
+
+cheat5_desc = "[2PMAX]无限必杀技"
+cheat5_code = "7E09DAFF"
+cheat5_enable = false
+

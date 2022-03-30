@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[升级点数]ON"
+cheat0_code = "7E00D288+7E00D313"
+cheat0_enable = false
+
+cheat1_desc = "[生命锁定]ON"
+cheat1_code = "7E00C580"
+cheat1_enable = false
+

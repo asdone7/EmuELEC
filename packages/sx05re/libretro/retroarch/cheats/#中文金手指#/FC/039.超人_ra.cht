@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[HP不减]ON"
+cheat0_code = "05CC:AA"
+cheat0_enable = false
+
+cheat1_desc = "[X-RAY VISION]ON"
+cheat1_code = "05C0:AA"
+cheat1_enable = false
+
+cheat2_desc = "[SUPER FLIGHT]ON"
+cheat2_code = "05C1:AA"
+cheat2_enable = false
+
+cheat3_desc = "[SUPER SPIN]ON"
+cheat3_code = "05C2:AA"
+cheat3_enable = false
+
+cheat4_desc = "[HEAT VISION]ON"
+cheat4_code = "05C3:AA"
+cheat4_enable = false
+
+cheat5_desc = "[SUPER BREATH-1]ON"
+cheat5_code = "05C4:AA"
+cheat5_enable = false
+
+cheat6_desc = "[SUPER BREATH-2]ON"
+cheat6_code = "05C5:AA"
+cheat6_enable = false
+

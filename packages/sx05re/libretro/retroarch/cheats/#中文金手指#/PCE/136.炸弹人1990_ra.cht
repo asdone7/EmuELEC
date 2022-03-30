@@ -1,0 +1,150 @@
+cheats = 37
+
+cheat0_desc = "[选大关]第8大关"
+cheat0_code = "1F084A:07"
+cheat0_enable = false
+
+cheat1_desc = "[选大关]第7大关"
+cheat1_code = "1F084A:06"
+cheat1_enable = false
+
+cheat2_desc = "[选大关]第6大关"
+cheat2_code = "1F084A:05"
+cheat2_enable = false
+
+cheat3_desc = "[选大关]第5大关"
+cheat3_code = "1F084A:04"
+cheat3_enable = false
+
+cheat4_desc = "[选大关]第4大关"
+cheat4_code = "1F084A:03"
+cheat4_enable = false
+
+cheat5_desc = "[选大关]第3大关"
+cheat5_code = "1F084A:02"
+cheat5_enable = false
+
+cheat6_desc = "[选大关]第2大关"
+cheat6_code = "1F084A:01"
+cheat6_enable = false
+
+cheat7_desc = "[选大关]第1大关"
+cheat7_code = "1F084A:00"
+cheat7_enable = false
+
+cheat8_desc = "[选大关的小关]每关第8小关"
+cheat8_code = "1F084B:07"
+cheat8_enable = false
+
+cheat9_desc = "[选大关的小关]每关第7小关"
+cheat9_code = "1F084B:06"
+cheat9_enable = false
+
+cheat10_desc = "[选大关的小关]每关第6小关"
+cheat10_code = "1F084B:05"
+cheat10_enable = false
+
+cheat11_desc = "[选大关的小关]每关第5小关"
+cheat11_code = "1F084B:04"
+cheat11_enable = false
+
+cheat12_desc = "[选大关的小关]每关第4小关"
+cheat12_code = "1F084B:03"
+cheat12_enable = false
+
+cheat13_desc = "[选大关的小关]每关第3小关"
+cheat13_code = "1F084B:02"
+cheat13_enable = false
+
+cheat14_desc = "[选大关的小关]每关第2小关"
+cheat14_code = "1F084B:01"
+cheat14_enable = false
+
+cheat15_desc = "[选大关的小关]每关第1小关"
+cheat15_code = "1F084B:00"
+cheat15_enable = false
+
+cheat16_desc = "[火威力]超长火"
+cheat16_code = "1F084D:FF"
+cheat16_enable = false
+
+cheat17_desc = "[火威力]长火"
+cheat17_code = "1F084D:99"
+cheat17_enable = false
+
+cheat18_desc = "[火威力]长火2"
+cheat18_code = "1F084D:80"
+cheat18_enable = false
+
+cheat19_desc = "[火威力]9格"
+cheat19_code = "1F084D:89"
+cheat19_enable = false
+
+cheat20_desc = "[火威力]8格"
+cheat20_code = "1F084D:88"
+cheat20_enable = false
+
+cheat21_desc = "[火威力]7格"
+cheat21_code = "1F084D:87"
+cheat21_enable = false
+
+cheat22_desc = "[火威力]6格"
+cheat22_code = "1F084D:86"
+cheat22_enable = false
+
+cheat23_desc = "[火威力]5格"
+cheat23_code = "1F084D:85"
+cheat23_enable = false
+
+cheat24_desc = "[火威力]4格"
+cheat24_code = "1F084D:84"
+cheat24_enable = false
+
+cheat25_desc = "[火威力]3格"
+cheat25_code = "1F084D:83"
+cheat25_enable = false
+
+cheat26_desc = "[火威力]2格"
+cheat26_code = "1F084D:82"
+cheat26_enable = false
+
+cheat27_desc = "[火威力]1格"
+cheat27_code = "1F084D:81"
+cheat27_enable = false
+
+cheat28_desc = "[炸弹数]放9个炸弹"
+cheat28_code = "1F084C:89+1F084D:FF"
+cheat28_enable = false
+
+cheat29_desc = "[炸弹数]放无限炸弹"
+cheat29_code = "1F084C:99+1F084D:FF"
+cheat29_enable = false
+
+cheat30_desc = "[定时炸弹]遥控引爆"
+cheat30_code = "1F043B:03"
+cheat30_enable = false
+
+cheat31_desc = "[穿过炸弹]穿炸弹"
+cheat31_code = "1F043A:30"
+cheat31_enable = false
+
+cheat32_desc = "[穿墙]穿墙"
+cheat32_code = "1F043A:70"
+cheat32_enable = false
+
+cheat33_desc = "[生命数]ON"
+cheat33_code = "1F0438:09"
+cheat33_enable = false
+
+cheat34_desc = "[不怕炸弹炸]避弹衣"
+cheat34_code = "1F0437:00+1F0438:09+1F0439:00+1F043A:F0"
+cheat34_enable = false
+
+cheat35_desc = "[定住一般敌人]任你炸"
+cheat35_code = "1F0DF4:C8+1F0DF5:28+1F0DF5:28+1F0DF6:D9+1F0DF6:D9+1F0DF6:D9+1F0DF7:78+1F0DF7:78+1F0DF7:78+1F0DF7:78"
+cheat35_enable = false
+
+cheat36_desc = "[定住BOSS]任人鱼肉"
+cheat36_code = "1F0E15:00+1F0E16:00+1F0E17:00+1F0E18:79+1F0E98:02+1F0E99:0A+1F0E9A:0A+1F0E9B:0A"
+cheat36_enable = false
+

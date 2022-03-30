@@ -1,0 +1,19 @@
+cheats = 4
+
+cheat0_desc = "蜗牛数"
+cheat0_code = "02002B08 00000028"
+cheat0_enable = false
+
+cheat1_desc = "血"
+cheat1_code = "0201B0D0 00000004+0201C150 00000004+0201CDA8 00000004+02022ED8 00000004+020249A8 00000004"
+cheat1_enable = false
+
+cheat2_desc = "时间"
+cheat2_code = "02005FB8 00000000+02005FB9 00000000"
+cheat2_enable = false
+
+cheat3_desc = "炸药"
+cheat3_code = "02002AD6 00000001"
+cheat3_enable = false
+
+

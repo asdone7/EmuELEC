@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[时间]ON"
+cheat0_code = "036E:FF"
+cheat0_enable = false
+
+cheat1_desc = "[人数]ON"
+cheat1_code = "036A:63"
+cheat1_enable = false
+
+cheat2_desc = "[耀奇金币]ON"
+cheat2_code = "036C:09"
+cheat2_enable = false
+
+cheat3_desc = "[状态]变大"
+cheat3_code = "0624:01"
+cheat3_enable = false
+
+cheat4_desc = "[状态]子弹"
+cheat4_code = "0624:02"
+cheat4_enable = false
+
+cheat5_desc = "[状态]披风"
+cheat5_code = "0624:03"
+cheat5_enable = false
+
+cheat6_desc = "[骑恐龙]ON"
+cheat6_code = "061F:01"
+cheat6_enable = false
+

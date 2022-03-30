@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[子弹无限]ON"
+cheat0_code = "06C0:99"
+cheat0_enable = false
+
+cheat1_desc = "[体力值]ON"
+cheat1_code = "0070:0C"
+cheat1_enable = false
+

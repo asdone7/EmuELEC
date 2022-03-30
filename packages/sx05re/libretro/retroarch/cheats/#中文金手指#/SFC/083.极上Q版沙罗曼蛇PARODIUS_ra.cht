@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[透明]ON"
+cheat0_code = "7E1DCCFF"
+cheat0_enable = false
+

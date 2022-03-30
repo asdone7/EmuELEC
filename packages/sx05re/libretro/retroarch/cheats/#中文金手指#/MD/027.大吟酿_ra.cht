@@ -1,0 +1,50 @@
+cheats = 12
+
+cheat0_desc = "[HP]ON"
+cheat0_code = "FFFE20:63"
+cheat0_enable = false
+
+cheat1_desc = "[蓄力]ON"
+cheat1_code = "FFC3AF:08"
+cheat1_enable = false
+
+cheat2_desc = "[续关次数]ON"
+cheat2_code = "FFF624:09"
+cheat2_enable = false
+
+cheat3_desc = "[选关]第1关"
+cheat3_code = "FFFE1C:00"
+cheat3_enable = false
+
+cheat4_desc = "[选关]第2关"
+cheat4_code = "FFFE1C:01"
+cheat4_enable = false
+
+cheat5_desc = "[选关]第3关"
+cheat5_code = "FFFE1C:02"
+cheat5_enable = false
+
+cheat6_desc = "[选关]第4关"
+cheat6_code = "FFFE1C:03"
+cheat6_enable = false
+
+cheat7_desc = "[选关]第5关"
+cheat7_code = "FFFE1C:04"
+cheat7_enable = false
+
+cheat8_desc = "[选关]第6关"
+cheat8_code = "FFFE1C:05"
+cheat8_enable = false
+
+cheat9_desc = "[选关]第7关"
+cheat9_code = "FFFE1C:06"
+cheat9_enable = false
+
+cheat10_desc = "[选关]第8关"
+cheat10_code = "FFFE1C:07"
+cheat10_enable = false
+
+cheat11_desc = "[选关]最终BOSS"
+cheat11_code = "FFFE1C:08"
+cheat11_enable = false
+

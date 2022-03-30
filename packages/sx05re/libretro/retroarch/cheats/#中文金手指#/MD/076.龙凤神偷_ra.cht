@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[时间]ON"
+cheat0_code = "FF6C4C:09"
+cheat0_enable = false
+
+cheat1_desc = "[人数]ON"
+cheat1_code = "FFC054:63"
+cheat1_enable = false
+

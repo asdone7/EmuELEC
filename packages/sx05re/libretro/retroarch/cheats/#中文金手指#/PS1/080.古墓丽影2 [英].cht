@@ -1,0 +1,135 @@
+cheats = 33
+
+cheat0_desc = "#Infinite Health Barkhang修道院"
+cheat0_code = "801E31C6 03E8"
+cheat0_enable = false
+
+cheat1_desc = "#Infinite Health Bartoli的藏身处"
+cheat1_code = "801D0CBE 03E8"
+cheat1_enable = false
+
+cheat2_desc = "#The Talion的无限健康地下墓穴"
+cheat2_code = "801C5852 03E8"
+cheat2_enable = false
+
+cheat3_desc = "#无限健康潜水区"
+cheat3_code = "801BDDA2 03E8"
+cheat3_enable = false
+
+cheat4_desc = "#无限健康龙的巢穴"
+cheat4_code = "801A2A5E 03E8"
+cheat4_enable = false
+
+cheat5_desc = "#一枪杀死龙老板"
+cheat5_code = "D008AAD4 0040+801A31CA 0000"
+cheat5_enable = false
+
+cheat6_desc = "#无限健康Health"
+cheat6_code = "801BB482 03E8"
+cheat6_enable = false
+
+cheat7_desc = "#无限健康浮岛"
+cheat7_code = "801D1E42 03E8"
+cheat7_enable = false
+
+cheat8_desc = "#无限健康长城"
+cheat8_code = "8019CF52 03E8"
+cheat8_enable = false
+
+cheat9_desc = "#无限健康之家甜蜜的家"
+cheat9_code = "801B2CCE 03E8"
+cheat9_enable = false
+
+cheat10_desc = "#无限健康冰宫"
+cheat10_code = "801C8456 03E8"
+cheat10_enable = false
+
+cheat11_desc = "#一枪杀死冰宫老板"
+cheat11_code = "D008AAD4 0040+801C9F0E 0000"
+cheat11_enable = false
+
+cheat12_desc = "#无限健康生活区"
+cheat12_code = "801B6916 03E8"
+cheat12_enable = false
+
+cheat13_desc = "#无限健康海上钻机"
+cheat13_code = "801BEC86 03E8"
+cheat13_enable = false
+
+cheat14_desc = "#无限健康歌剧院"
+cheat14_code = "801CF2F6 03E"
+cheat14_enable = false
+
+cheat15_desc = "#西安无限健康寺"
+cheat15_code = "801DB426 03E8"
+cheat15_enable = false
+
+cheat16_desc = "#无限健康甲板"
+cheat16_code = "801DCD1A 03E8"
+cheat16_enable = false
+
+cheat17_desc = "#无限健康的藏族山麓"
+cheat17_code = "801DB6F2 03E8"
+cheat17_enable = false
+
+cheat18_desc = "#无限健康威尼斯"
+cheat18_code = "801C19E6 03E8"
+cheat18_enable = false
+
+cheat19_desc = "#Maria Doria的无限健康残骸"
+cheat19_code = "801CFE86 03E8"
+cheat19_enable = false
+
+cheat20_desc = "玛丽亚·多里亚（Maria Doria）的残骸拥有所有3个断路器"
+cheat20_code = "80088B48 0003"
+cheat20_enable = false
+
+cheat21_desc = "#Lara的家庭秘密门打开"
+cheat21_code = "8017D04A 0001+8010BA08 1672"
+cheat21_enable = false
+
+cheat22_desc = "#无限氧气"
+cheat22_code = "8008C4FE 0708"
+cheat22_enable = false
+
+cheat23_desc = "#无限大号医疗包"
+cheat23_code = "80088AB8 03E7"
+cheat23_enable = false
+
+cheat24_desc = "#拥有所有特殊物品"
+cheat24_code = "80088B34 0009"
+cheat24_enable = false
+
+cheat25_desc = "#拥有所有武器"
+cheat25_code = "80088AA0 000B"
+cheat25_enable = false
+
+cheat26_desc = "#无限自动手枪弹药"
+cheat26_code = "8008C5AC 0028"
+cheat26_enable = false
+
+cheat27_desc = "#无限耀斑"
+cheat27_code = "80088AAA 03E7"
+cheat27_enable = false
+
+cheat28_desc = "#无限榴弹发射器弹药"
+cheat28_code = "8008C5BC 0008"
+cheat28_enable = false
+
+cheat29_desc = "#无限M-16弹药"
+cheat29_code = "8008C5C0 0050"
+cheat29_enable = false
+
+cheat30_desc = "#无限Shot弹枪"
+cheat30_code = "8008C5B4 0012"
+cheat30_enable = false
+
+cheat31_desc = "#无限Uzis弹药"
+cheat31_code = "8008C5B0 00A0"
+cheat31_enable = false
+
+cheat32_desc = "#具有所有级别（您必须加载已保存的游戏）"
+cheat32_code = "D006E678 0821+8006E67C 0013+D006E678 0821+8006E67E 2402"
+cheat32_enable = false
+
+

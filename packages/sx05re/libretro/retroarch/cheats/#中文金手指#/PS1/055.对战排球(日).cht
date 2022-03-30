@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "#得分15 P1"
+cheat0_code = "8019CFF0 000F"
+cheat0_enable = false
+
+cheat1_desc = "#TP（训练点）999"
+cheat1_code = "801F02D8 03E7"
+cheat1_enable = false
+
+

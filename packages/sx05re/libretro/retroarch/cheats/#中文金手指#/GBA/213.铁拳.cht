@@ -1,0 +1,151 @@
+cheats = 37
+
+cheat0_desc = "无限时间"
+cheat0_code = "02042442 0000003B+02042443 0000000E"
+cheat0_enable = false
+
+cheat1_desc = "P1 角色 *HEIHACHI"
+cheat1_code = "020442B3 00000009"
+cheat1_enable = false
+
+cheat2_desc = "P1 角色 JIN"
+cheat2_code = "020442B3 00000000"
+cheat2_enable = false
+
+cheat3_desc = "P1 角色 PAUL"
+cheat3_code = "020442B3 00000001"
+cheat3_enable = false
+
+cheat4_desc = "P1 角色 HWOARANG"
+cheat4_code = "020442B3 00000002"
+cheat4_enable = false
+
+cheat5_desc = "P1 角色 LAW"
+cheat5_code = "020442B3 00000003"
+cheat5_enable = false
+
+cheat6_desc = "P1 角色 NINA"
+cheat6_code = "020442B3 00000004"
+cheat6_enable = false
+
+cheat7_desc = "P1 角色 GUNJACK"
+cheat7_code = "020442B3 00000005"
+cheat7_enable = false
+
+cheat8_desc = "P1 角色 YOSHIMITSU"
+cheat8_code = "020442B3 00000006"
+cheat8_enable = false
+
+cheat9_desc = "P1 角色 KING"
+cheat9_code = "020442B3 00000007"
+cheat9_enable = false
+
+cheat10_desc = "P1 角色 XIAOYU"
+cheat10_code = "020442B3 00000008"
+cheat10_enable = false
+
+cheat11_desc = "P1 第一人-体力值"
+cheat11_code = "020447A2 0000008C+020447A4 0000008C"
+cheat11_enable = false
+
+cheat12_desc = "P1 第二人-体力值"
+cheat12_code = "02044D32 0000008C+02044D34 0000008C"
+cheat12_enable = false
+
+cheat13_desc = "P1 第三人-体力值"
+cheat13_code = "020452C2 0000008C+020452C4 0000008C"
+cheat13_enable = false
+
+cheat14_desc = "P2 角色 *HEIHACHI"
+cheat14_code = "02045363 00000009"
+cheat14_enable = false
+
+cheat15_desc = "P2 角色 JIN"
+cheat15_code = "02045363 00000000"
+cheat15_enable = false
+
+cheat16_desc = "P2 角色 PAUL"
+cheat16_code = "02045363 00000001"
+cheat16_enable = false
+
+cheat17_desc = "P2 角色 HWOARANG"
+cheat17_code = "02045363 00000002"
+cheat17_enable = false
+
+cheat18_desc = "P2 角色 LAW"
+cheat18_code = "02045363 00000003"
+cheat18_enable = false
+
+cheat19_desc = "P2 角色 NINA"
+cheat19_code = "02045363 00000004"
+cheat19_enable = false
+
+cheat20_desc = "P2 角色 GUNJACK"
+cheat20_code = "02045363 00000005"
+cheat20_enable = false
+
+cheat21_desc = "P2 角色 YOSHIMITSU"
+cheat21_code = "02045363 00000006"
+cheat21_enable = false
+
+cheat22_desc = "P2 角色 KING"
+cheat22_code = "02045363 00000007"
+cheat22_enable = false
+
+cheat23_desc = "P2 角色 XIAOYU"
+cheat23_code = "02045363 00000008"
+cheat23_enable = false
+
+cheat24_desc = "P2 第一人-体力值"
+cheat24_code = "02045852 0000008C+02045854 0000008C"
+cheat24_enable = false
+
+cheat25_desc = "P2 第二人-体力值"
+cheat25_code = "02045DE2 0000008C+02045DE4 0000008C"
+cheat25_enable = false
+
+cheat26_desc = "P2 第三人-体力值"
+cheat26_code = "02046372 0000008C+02046374 0000008C"
+cheat26_enable = false
+
+cheat27_desc = "选择关卡 .NONE."
+cheat27_code = "02000000 00000000"
+cheat27_enable = false
+
+cheat28_desc = "选择关卡 第一关"
+cheat28_code = "0204244A 00000000"
+cheat28_enable = false
+
+cheat29_desc = "选择关卡 第二关"
+cheat29_code = "0204244A 00000001"
+cheat29_enable = false
+
+cheat30_desc = "选择关卡 第三关"
+cheat30_code = "0204244A 00000002"
+cheat30_enable = false
+
+cheat31_desc = "选择关卡 第四关"
+cheat31_code = "0204244A 00000003"
+cheat31_enable = false
+
+cheat32_desc = "选择关卡 第五关"
+cheat32_code = "0204244A 00000004"
+cheat32_enable = false
+
+cheat33_desc = "选择关卡 第六关"
+cheat33_code = "0204244A 00000005"
+cheat33_enable = false
+
+cheat34_desc = "选择关卡 第七关"
+cheat34_code = "0204244A 00000006"
+cheat34_enable = false
+
+cheat35_desc = "选择关卡 第八关"
+cheat35_code = "0204244A 00000007"
+cheat35_enable = false
+
+cheat36_desc = "选择关卡 第九关"
+cheat36_code = "0204244A 00000008"
+cheat36_enable = false
+
+

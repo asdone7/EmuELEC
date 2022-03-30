@@ -1,0 +1,978 @@
+cheats = 244
+
+cheat0_desc = "[赛车1耐久值]ON"
+cheat0_code = "7E0AB400+7E0AB507"
+cheat0_enable = false
+
+cheat1_desc = "[赛车1爆走值]ON"
+cheat1_code = "7E0AB000+7E0AB107"
+cheat1_enable = false
+
+cheat2_desc = "[赛车1必杀技]ON"
+cheat2_code = "7E0AC828+7E0AC900"
+cheat2_enable = false
+
+cheat3_desc = "[赛车1圈数]1圈"
+cheat3_code = "7E0A7401"
+cheat3_enable = false
+
+cheat4_desc = "[赛车1圈数]2圈"
+cheat4_code = "7E0A7402"
+cheat4_enable = false
+
+cheat5_desc = "[赛车1圈数]3圈"
+cheat5_code = "7E0A7403"
+cheat5_enable = false
+
+cheat6_desc = "[赛车2耐久值]最大"
+cheat6_code = "7E0B3E00+7E0B3F07"
+cheat6_enable = false
+
+cheat7_desc = "[赛车2耐久值]最小"
+cheat7_code = "7E0B3E00+7E0B3F00"
+cheat7_enable = false
+
+cheat8_desc = "[赛车2爆走值]最大"
+cheat8_code = "7E0B3A00+7E0B3B07"
+cheat8_enable = false
+
+cheat9_desc = "[赛车2爆走值]最小"
+cheat9_code = "7E0B3A00+7E0B3B00"
+cheat9_enable = false
+
+cheat10_desc = "[赛车2必杀技]可启动"
+cheat10_code = "7E0B5228+7E0B5300"
+cheat10_enable = false
+
+cheat11_desc = "[赛车2必杀技]启动不能"
+cheat11_code = "7E0B52FF+7E0B53FF"
+cheat11_enable = false
+
+cheat12_desc = "[赛车2圈数]1圈"
+cheat12_code = "7E0AFE01"
+cheat12_enable = false
+
+cheat13_desc = "[赛车2圈数]2圈"
+cheat13_code = "7E0AFE02"
+cheat13_enable = false
+
+cheat14_desc = "[赛车2圈数]3圈"
+cheat14_code = "7E0AFE03"
+cheat14_enable = false
+
+cheat15_desc = "[赛车3耐久值]最大"
+cheat15_code = "7E0BC800+7E0BC907"
+cheat15_enable = false
+
+cheat16_desc = "[赛车3耐久值]最小"
+cheat16_code = "7E0BC800+7E0BC900"
+cheat16_enable = false
+
+cheat17_desc = "[赛车3爆走值]最大"
+cheat17_code = "7E0BC400+7E0BC507"
+cheat17_enable = false
+
+cheat18_desc = "[赛车3爆走值]最小"
+cheat18_code = "7E0BC400+7E0BC500"
+cheat18_enable = false
+
+cheat19_desc = "[赛车3必杀技]可启动"
+cheat19_code = "7E0BDC28+7E0BDD00"
+cheat19_enable = false
+
+cheat20_desc = "[赛车3必杀技]启动不能"
+cheat20_code = "7E0BDCFF+7E0BDDFF"
+cheat20_enable = false
+
+cheat21_desc = "[赛车3圈数]1圈"
+cheat21_code = "7E0B8801"
+cheat21_enable = false
+
+cheat22_desc = "[赛车3圈数]2圈"
+cheat22_code = "7E0B8802"
+cheat22_enable = false
+
+cheat23_desc = "[赛车3圈数]3圈"
+cheat23_code = "7E0B8803"
+cheat23_enable = false
+
+cheat24_desc = "[赛车4耐久值]最大"
+cheat24_code = "7E0C5200+7E0C5307"
+cheat24_enable = false
+
+cheat25_desc = "[赛车4耐久值]最小"
+cheat25_code = "7E0C5200+7E0C5300"
+cheat25_enable = false
+
+cheat26_desc = "[赛车4爆走值]最大"
+cheat26_code = "7E0C4E00+7E0C4F07"
+cheat26_enable = false
+
+cheat27_desc = "[赛车4爆走值]最小"
+cheat27_code = "7E0C4E00+7E0C4F00"
+cheat27_enable = false
+
+cheat28_desc = "[赛车4必杀技]可启动"
+cheat28_code = "7E0C6628+7E0C6700"
+cheat28_enable = false
+
+cheat29_desc = "[赛车4必杀技]启动不能"
+cheat29_code = "7E0C66FF+7E0C67FF"
+cheat29_enable = false
+
+cheat30_desc = "[赛车4圈数]1圈"
+cheat30_code = "7E0C1201"
+cheat30_enable = false
+
+cheat31_desc = "[赛车4圈数]2圈"
+cheat31_code = "7E0C1202"
+cheat31_enable = false
+
+cheat32_desc = "[赛车4圈数]3圈"
+cheat32_code = "7E0C1203"
+cheat32_enable = false
+
+cheat33_desc = "[赛车5耐久值]最大"
+cheat33_code = "7E0CDC00+7E0CDD07"
+cheat33_enable = false
+
+cheat34_desc = "[赛车5耐久值]最小"
+cheat34_code = "7E0CDC00+7E0CDD00"
+cheat34_enable = false
+
+cheat35_desc = "[赛车5爆走值]最大"
+cheat35_code = "7E0CD800+7E0CD907"
+cheat35_enable = false
+
+cheat36_desc = "[赛车5爆走值]最小"
+cheat36_code = "7E0CD800+7E0CD900"
+cheat36_enable = false
+
+cheat37_desc = "[赛车5必杀技]可启动"
+cheat37_code = "7E0CF028+7E0CF100"
+cheat37_enable = false
+
+cheat38_desc = "[赛车5必杀技]启动不能"
+cheat38_code = "7E0CF0FF+7E0CF1FF"
+cheat38_enable = false
+
+cheat39_desc = "[赛车5圈数]1圈"
+cheat39_code = "7E0C9C01"
+cheat39_enable = false
+
+cheat40_desc = "[赛车5圈数]2圈"
+cheat40_code = "7E0C9C02"
+cheat40_enable = false
+
+cheat41_desc = "[赛车5圈数]3圈"
+cheat41_code = "7E0C9C03"
+cheat41_enable = false
+
+cheat42_desc = "[赛车6耐久值]最大"
+cheat42_code = "7E0D6600+7E0D6707"
+cheat42_enable = false
+
+cheat43_desc = "[赛车6耐久值]最小"
+cheat43_code = "7E0D6600+7E0D6700"
+cheat43_enable = false
+
+cheat44_desc = "[赛车6爆走值]最大"
+cheat44_code = "7E0D6200+7E0D6307"
+cheat44_enable = false
+
+cheat45_desc = "[赛车6爆走值]最小"
+cheat45_code = "7E0D6200+7E0D6300"
+cheat45_enable = false
+
+cheat46_desc = "[赛车6必杀技]可启动"
+cheat46_code = "7E0D7A28+7E0D7B00"
+cheat46_enable = false
+
+cheat47_desc = "[赛车6必杀技]启动不能"
+cheat47_code = "7E0D7AFF+7E0D7BFF"
+cheat47_enable = false
+
+cheat48_desc = "[赛车6圈数]1圈"
+cheat48_code = "7E0D2601"
+cheat48_enable = false
+
+cheat49_desc = "[赛车6圈数]2圈"
+cheat49_code = "7E0D2602"
+cheat49_enable = false
+
+cheat50_desc = "[赛车6圈数]3圈"
+cheat50_code = "7E0D2603"
+cheat50_enable = false
+
+cheat51_desc = "[赛车7耐久值]最大"
+cheat51_code = "7E0DF000+7E0DF107"
+cheat51_enable = false
+
+cheat52_desc = "[赛车7耐久值]最小"
+cheat52_code = "7E0DF000+7E0DF100"
+cheat52_enable = false
+
+cheat53_desc = "[赛车7爆走值]最大"
+cheat53_code = "7E0DEC00+7E0DED07"
+cheat53_enable = false
+
+cheat54_desc = "[赛车7爆走值]最小"
+cheat54_code = "7E0DEC00+7E0DED00"
+cheat54_enable = false
+
+cheat55_desc = "[赛车7必杀技]可启动"
+cheat55_code = "7E0E0428+7E0E0500"
+cheat55_enable = false
+
+cheat56_desc = "[赛车7必杀技]启动不能"
+cheat56_code = "7E0E04FF+7E0E05FF"
+cheat56_enable = false
+
+cheat57_desc = "[赛车7圈数]1圈"
+cheat57_code = "7E0DB001"
+cheat57_enable = false
+
+cheat58_desc = "[赛车7圈数]2圈"
+cheat58_code = "7E0DB002"
+cheat58_enable = false
+
+cheat59_desc = "[赛车7圈数]3圈"
+cheat59_code = "7E0DB003"
+cheat59_enable = false
+
+cheat60_desc = "[赛车8耐久值]最大"
+cheat60_code = "7E0E7A00+7E0E7B07"
+cheat60_enable = false
+
+cheat61_desc = "[赛车8耐久值]最小"
+cheat61_code = "7E0E7A00+7E0E7B00"
+cheat61_enable = false
+
+cheat62_desc = "[赛车8爆走值]最大"
+cheat62_code = "7E0E7600+7E0E7707"
+cheat62_enable = false
+
+cheat63_desc = "[赛车8爆走值]最小"
+cheat63_code = "7E0E7600+7E0E7700"
+cheat63_enable = false
+
+cheat64_desc = "[赛车8必杀技]可启动"
+cheat64_code = "7E0E8E28+7E0E8F00"
+cheat64_enable = false
+
+cheat65_desc = "[赛车8必杀技]启动不能"
+cheat65_code = "7E0E8EFF+7E0E8FFF"
+cheat65_enable = false
+
+cheat66_desc = "[赛车8圈数]1圈"
+cheat66_code = "7E0E3A01"
+cheat66_enable = false
+
+cheat67_desc = "[赛车8圈数]2圈"
+cheat67_code = "7E0E3A02"
+cheat67_enable = false
+
+cheat68_desc = "[赛车8圈数]3圈"
+cheat68_code = "7E0E3A03"
+cheat68_enable = false
+
+cheat69_desc = "[赛车9耐久值]最大"
+cheat69_code = "7E0F0400+7E0F0507"
+cheat69_enable = false
+
+cheat70_desc = "[赛车9耐久值]最小"
+cheat70_code = "7E0F0400+7E0F0500"
+cheat70_enable = false
+
+cheat71_desc = "[赛车9爆走值]最大"
+cheat71_code = "7E0F0000+7E0F0107"
+cheat71_enable = false
+
+cheat72_desc = "[赛车9爆走值]最小"
+cheat72_code = "7E0F0000+7E0F0100"
+cheat72_enable = false
+
+cheat73_desc = "[赛车9必杀技]可启动"
+cheat73_code = "7E0F1828+7E0F1900"
+cheat73_enable = false
+
+cheat74_desc = "[赛车9必杀技]启动不能"
+cheat74_code = "7E0F18FF+7E0F19FF"
+cheat74_enable = false
+
+cheat75_desc = "[赛车9圈数]1圈"
+cheat75_code = "7E0EC401"
+cheat75_enable = false
+
+cheat76_desc = "[赛车9圈数]1圈"
+cheat76_code = "7E0EC402"
+cheat76_enable = false
+
+cheat77_desc = "[赛车9圈数]1圈"
+cheat77_code = "7E0EC403"
+cheat77_enable = false
+
+cheat78_desc = "[赛车10耐久值]最大"
+cheat78_code = "7E0F8E00+7E0F8F07"
+cheat78_enable = false
+
+cheat79_desc = "[赛车10耐久值]最小"
+cheat79_code = "7E0F8E00+7E0F8F00"
+cheat79_enable = false
+
+cheat80_desc = "[赛车10爆走值]最大"
+cheat80_code = "7E0F8A00+7E0F8B07"
+cheat80_enable = false
+
+cheat81_desc = "[赛车10爆走值]最小"
+cheat81_code = "7E0F8A00+7E0F8B00"
+cheat81_enable = false
+
+cheat82_desc = "[赛车10必杀技]可启动"
+cheat82_code = "7E0FA228+7E0FA300"
+cheat82_enable = false
+
+cheat83_desc = "[赛车10必杀技]启动不能"
+cheat83_code = "7E0FA2FF+7E0FA3FF"
+cheat83_enable = false
+
+cheat84_desc = "[赛车10圈数]1圈"
+cheat84_code = "7E0F4E01"
+cheat84_enable = false
+
+cheat85_desc = "[赛车10圈数]2圈"
+cheat85_code = "7E0F4E02"
+cheat85_enable = false
+
+cheat86_desc = "[赛车10圈数]3圈"
+cheat86_code = "7E0F4E03"
+cheat86_enable = false
+
+cheat87_desc = "[星马豪LV]ON"
+cheat87_code = "7EB6F463"
+cheat87_enable = false
+
+cheat88_desc = "[星马豪EXP]ON"
+cheat88_code = "7EB6F690+7EB6F71A"
+cheat88_enable = false
+
+cheat89_desc = "[星马豪全能力]ON"
+cheat89_code = "7EB6F8FA+7EB6F900+7EB6FAFA+7EB6FB00+7EB6FCFA+7EB6FD00+7EB6FEFA+7EB6FF00+7EB700E7+7EB70103+7EB702FA+7EB70300+7EB704FA+7EB70500"
+cheat89_enable = false
+
+cheat90_desc = "[星马豪车种变更]跃动冲锋"
+cheat90_code = "7EB71000"
+cheat90_enable = false
+
+cheat91_desc = "[星马豪车种变更]强棒音速"
+cheat91_code = "7EB71001"
+cheat91_enable = false
+
+cheat92_desc = "[星马豪车种变更]三角箭ZMC"
+cheat92_code = "7EB71002"
+cheat92_enable = false
+
+cheat93_desc = "[星马豪车种变更]疾速腹蛇"
+cheat93_code = "7EB71003"
+cheat93_enable = false
+
+cheat94_desc = "[星马豪车种变更]原始战神进化者"
+cheat94_code = "7EB71004"
+cheat94_enable = false
+
+cheat95_desc = "[星马豪车种变更]跳跃者"
+cheat95_code = "7EB71005"
+cheat95_enable = false
+
+cheat96_desc = "[星马豪车种变更]铁狼号R"
+cheat96_code = "7EB71006"
+cheat96_enable = false
+
+cheat97_desc = "[星马豪车种变更]铁狼号L"
+cheat97_code = "7EB71007"
+cheat97_enable = false
+
+cheat98_desc = "[星马豪车种变更]奥米加"
+cheat98_code = "7EB71008"
+cheat98_enable = false
+
+cheat99_desc = "[星马豪车种变更]奥米加"
+cheat99_code = "7EB71009"
+cheat99_enable = false
+
+cheat100_desc = "[星马豪车种变更]BS斑马号"
+cheat100_code = "7EB7100A"
+cheat100_enable = false
+
+cheat101_desc = "[星马豪车种变更]神剑号"
+cheat101_code = "7EB7100B"
+cheat101_enable = false
+
+cheat102_desc = "[星马豪车种变更]天蝎座"
+cheat102_code = "7EB7100C"
+cheat102_enable = false
+
+cheat103_desc = "[星马豪车种变更]库伦号"
+cheat103_code = "7EB7100D"
+cheat103_enable = false
+
+cheat104_desc = "[星马豪车种变更]土著号"
+cheat104_code = "7EB7100E"
+cheat104_enable = false
+
+cheat105_desc = "[星马豪车种变更]レヴァンクルズ"
+cheat105_code = "7EB7100F"
+cheat105_enable = false
+
+cheat106_desc = "[星马豪车种变更]ピラミタルスフィンクス"
+cheat106_code = "7EB71010"
+cheat106_enable = false
+
+cheat107_desc = "[星马豪车种变更]ブラックセイバー"
+cheat107_code = "7EB71011"
+cheat107_enable = false
+
+cheat108_desc = "[星马豪车种变更]蜘蛛王"
+cheat108_code = "7EB71012"
+cheat108_enable = false
+
+cheat109_desc = "[星马豪车种变更]战神600"
+cheat109_code = "7EB71013"
+cheat109_enable = false
+
+cheat110_desc = "[星马豪车种变更]レディセイバー"
+cheat110_code = "7EB71014"
+cheat110_enable = false
+
+cheat111_desc = "[星马豪车种变更]マックスブレイカーZ+7E2"
+cheat111_code = "7EB71015"
+cheat111_enable = false
+
+cheat112_desc = "[星马豪车种变更]マックスブレイカーZ+7E3"
+cheat112_code = "7EB71016"
+cheat112_enable = false
+
+cheat113_desc = "[星马烈LV]ON"
+cheat113_code = "7EB73663"
+cheat113_enable = false
+
+cheat114_desc = "[星马烈EXP]ON"
+cheat114_code = "7EB73890+7EB7391A"
+cheat114_enable = false
+
+cheat115_desc = "[星马烈全能力]ON"
+cheat115_code = "7EB73AFA+7EB73B00+7EB73CFA+7EB73D00+7EB73EFA+7EB73F00+7EB740FA+7EB74100+7EB742E7+7EB74303+7EB744FA+7EB74500+7EB746FA+7EB74700"
+cheat115_enable = false
+
+cheat116_desc = "[星马烈车种变更]跃动冲锋"
+cheat116_code = "7EB75200"
+cheat116_enable = false
+
+cheat117_desc = "[星马烈车种变更]强棒音速"
+cheat117_code = "7EB75201"
+cheat117_enable = false
+
+cheat118_desc = "[星马烈车种变更]三角箭ZMC"
+cheat118_code = "7EB75202"
+cheat118_enable = false
+
+cheat119_desc = "[星马烈车种变更]疾速腹蛇"
+cheat119_code = "7EB75203"
+cheat119_enable = false
+
+cheat120_desc = "[星马烈车种变更]原始战神进化者"
+cheat120_code = "7EB75204"
+cheat120_enable = false
+
+cheat121_desc = "[星马烈车种变更]跳跃者"
+cheat121_code = "7EB75205"
+cheat121_enable = false
+
+cheat122_desc = "[星马烈车种变更]铁狼号R"
+cheat122_code = "7EB75206"
+cheat122_enable = false
+
+cheat123_desc = "[星马烈车种变更]铁狼号L"
+cheat123_code = "7EB75207"
+cheat123_enable = false
+
+cheat124_desc = "[星马烈车种变更]奥米加"
+cheat124_code = "7EB75208"
+cheat124_enable = false
+
+cheat125_desc = "[星马烈车种变更]奥米加"
+cheat125_code = "7EB75209"
+cheat125_enable = false
+
+cheat126_desc = "[星马烈车种变更]BS斑马号"
+cheat126_code = "7EB7520A"
+cheat126_enable = false
+
+cheat127_desc = "[星马烈车种变更]神剑号"
+cheat127_code = "7EB7520B"
+cheat127_enable = false
+
+cheat128_desc = "[星马烈车种变更]天蝎座"
+cheat128_code = "7EB7520C"
+cheat128_enable = false
+
+cheat129_desc = "[星马烈车种变更]库伦号"
+cheat129_code = "7EB7520D"
+cheat129_enable = false
+
+cheat130_desc = "[星马烈车种变更]土著号"
+cheat130_code = "7EB7520E"
+cheat130_enable = false
+
+cheat131_desc = "[星马烈车种变更]レヴァンクルズ"
+cheat131_code = "7EB7520F"
+cheat131_enable = false
+
+cheat132_desc = "[星马烈车种变更]ピラミタルスフィンクス"
+cheat132_code = "7EB75210"
+cheat132_enable = false
+
+cheat133_desc = "[星马烈车种变更]ブラックセイバー"
+cheat133_code = "7EB75211"
+cheat133_enable = false
+
+cheat134_desc = "[星马烈车种变更]蜘蛛王"
+cheat134_code = "7EB75212"
+cheat134_enable = false
+
+cheat135_desc = "[星马烈车种变更]战神600"
+cheat135_code = "7EB75213"
+cheat135_enable = false
+
+cheat136_desc = "[星马烈车种变更]レディセイバー"
+cheat136_code = "7EB75214"
+cheat136_enable = false
+
+cheat137_desc = "[星马烈车种变更]マックスブレイカーZ+7E2"
+cheat137_code = "7EB75215"
+cheat137_enable = false
+
+cheat138_desc = "[星马烈车种变更]マックスブレイカーZ+7E3"
+cheat138_code = "7EB75216"
+cheat138_enable = false
+
+cheat139_desc = "[藤吉LV]ON"
+cheat139_code = "7EB77863"
+cheat139_enable = false
+
+cheat140_desc = "[藤吉EXP]ON"
+cheat140_code = "7EB77A90+7EB77B1A"
+cheat140_enable = false
+
+cheat141_desc = "[藤吉全能力]ON"
+cheat141_code = "7EB77CFA+7EB77D00+7EB77EFA+7EB77F00+7EB780FA+7EB78100+7EB782FA+7EB78300+7EB784E7+7EB78503+7EB786FA+7EB78700+7EB788FA+7EB78900"
+cheat141_enable = false
+
+cheat142_desc = "[藤吉车种变更]跃动冲锋"
+cheat142_code = "7EB79400"
+cheat142_enable = false
+
+cheat143_desc = "[藤吉车种变更]强棒音速"
+cheat143_code = "7EB79401"
+cheat143_enable = false
+
+cheat144_desc = "[藤吉车种变更]三角箭ZMC"
+cheat144_code = "7EB79402"
+cheat144_enable = false
+
+cheat145_desc = "[藤吉车种变更]疾速腹蛇"
+cheat145_code = "7EB79403"
+cheat145_enable = false
+
+cheat146_desc = "[藤吉车种变更]原始战神进化者"
+cheat146_code = "7EB79404"
+cheat146_enable = false
+
+cheat147_desc = "[藤吉车种变更]跳跃者"
+cheat147_code = "7EB79405"
+cheat147_enable = false
+
+cheat148_desc = "[藤吉车种变更]铁狼号R"
+cheat148_code = "7EB79406"
+cheat148_enable = false
+
+cheat149_desc = "[藤吉车种变更]铁狼号L"
+cheat149_code = "7EB79407"
+cheat149_enable = false
+
+cheat150_desc = "[藤吉车种变更]奥米加"
+cheat150_code = "7EB79408"
+cheat150_enable = false
+
+cheat151_desc = "[藤吉车种变更]奥米加"
+cheat151_code = "7EB79409"
+cheat151_enable = false
+
+cheat152_desc = "[藤吉车种变更]BS斑马号"
+cheat152_code = "7EB7940A"
+cheat152_enable = false
+
+cheat153_desc = "[藤吉车种变更]神剑号"
+cheat153_code = "7EB7940B"
+cheat153_enable = false
+
+cheat154_desc = "[藤吉车种变更]天蝎座"
+cheat154_code = "7EB7940C"
+cheat154_enable = false
+
+cheat155_desc = "[藤吉车种变更]库伦号"
+cheat155_code = "7EB7940D"
+cheat155_enable = false
+
+cheat156_desc = "[藤吉车种变更]土著号"
+cheat156_code = "7EB7940E"
+cheat156_enable = false
+
+cheat157_desc = "[藤吉车种变更]レヴァンクルズ"
+cheat157_code = "7EB7940F"
+cheat157_enable = false
+
+cheat158_desc = "[藤吉车种变更]ピラミタルスフィンクス"
+cheat158_code = "7EB79410"
+cheat158_enable = false
+
+cheat159_desc = "[藤吉车种变更]ブラックセイバー"
+cheat159_code = "7EB79411"
+cheat159_enable = false
+
+cheat160_desc = "[藤吉车种变更]蜘蛛王"
+cheat160_code = "7EB79412"
+cheat160_enable = false
+
+cheat161_desc = "[藤吉车种变更]战神600"
+cheat161_code = "7EB79413"
+cheat161_enable = false
+
+cheat162_desc = "[藤吉车种变更]レディセイバー"
+cheat162_code = "7EB79414"
+cheat162_enable = false
+
+cheat163_desc = "[藤吉车种变更]マックスブレイカーZ+7E2"
+cheat163_code = "7EB79415"
+cheat163_enable = false
+
+cheat164_desc = "[藤吉车种变更]マックスブレイカーZ+7E3"
+cheat164_code = "7EB79416"
+cheat164_enable = false
+
+cheat165_desc = "[阿吉LV]ON"
+cheat165_code = "7EB7BA63"
+cheat165_enable = false
+
+cheat166_desc = "[阿吉EXP]ON"
+cheat166_code = "7EB7BC90+7EB7BD1A"
+cheat166_enable = false
+
+cheat167_desc = "[阿吉全能力]ON"
+cheat167_code = "7EB7BEFA+7EB7BF00+7EB7C0FA+7EB7C100+7EB7C2FA+7EB7C300+7EB7C4FA+7EB7C500+7EB7C6E7+7EB7C703+7EB7C8FA+7EB7C900+7EB7CAFA+7EB7CB00"
+cheat167_enable = false
+
+cheat168_desc = "[阿吉车种变更]跃动冲锋"
+cheat168_code = "7EB7D600"
+cheat168_enable = false
+
+cheat169_desc = "[阿吉车种变更]强棒音速"
+cheat169_code = "7EB7D601"
+cheat169_enable = false
+
+cheat170_desc = "[阿吉车种变更]三角箭ZMC"
+cheat170_code = "7EB7D602"
+cheat170_enable = false
+
+cheat171_desc = "[阿吉车种变更]疾速腹蛇"
+cheat171_code = "7EB7D603"
+cheat171_enable = false
+
+cheat172_desc = "[阿吉车种变更]原始战神进化者"
+cheat172_code = "7EB7D604"
+cheat172_enable = false
+
+cheat173_desc = "[阿吉车种变更]跳跃者"
+cheat173_code = "7EB7D605"
+cheat173_enable = false
+
+cheat174_desc = "[阿吉车种变更]铁狼号R"
+cheat174_code = "7EB7D606"
+cheat174_enable = false
+
+cheat175_desc = "[阿吉车种变更]铁狼号L"
+cheat175_code = "7EB7D607"
+cheat175_enable = false
+
+cheat176_desc = "[阿吉车种变更]奥米加"
+cheat176_code = "7EB7D608"
+cheat176_enable = false
+
+cheat177_desc = "[阿吉车种变更]奥米加"
+cheat177_code = "7EB7D609"
+cheat177_enable = false
+
+cheat178_desc = "[阿吉车种变更]BS斑马号"
+cheat178_code = "7EB7D60A"
+cheat178_enable = false
+
+cheat179_desc = "[阿吉车种变更]神剑号"
+cheat179_code = "7EB7D60B"
+cheat179_enable = false
+
+cheat180_desc = "[阿吉车种变更]天蝎座"
+cheat180_code = "7EB7D60C"
+cheat180_enable = false
+
+cheat181_desc = "[阿吉车种变更]库伦号"
+cheat181_code = "7EB7D60D"
+cheat181_enable = false
+
+cheat182_desc = "[阿吉车种变更]土著号"
+cheat182_code = "7EB7D60E"
+cheat182_enable = false
+
+cheat183_desc = "[阿吉车种变更]レヴァンクルズ"
+cheat183_code = "7EB7D60F"
+cheat183_enable = false
+
+cheat184_desc = "[阿吉车种变更]ピラミタルスフィンクス"
+cheat184_code = "7EB7D610"
+cheat184_enable = false
+
+cheat185_desc = "[阿吉车种变更]ブラックセイバー"
+cheat185_code = "7EB7D611"
+cheat185_enable = false
+
+cheat186_desc = "[阿吉车种变更]蜘蛛王"
+cheat186_code = "7EB7D612"
+cheat186_enable = false
+
+cheat187_desc = "[阿吉车种变更]战神600"
+cheat187_code = "7EB7D613"
+cheat187_enable = false
+
+cheat188_desc = "[阿吉车种变更]レディセイバー"
+cheat188_code = "7EB7D614"
+cheat188_enable = false
+
+cheat189_desc = "[阿吉车种变更]マックスブレイカーZ+7E2"
+cheat189_code = "7EB7D615"
+cheat189_enable = false
+
+cheat190_desc = "[阿吉车种变更]マックスブレイカーZ+7E3"
+cheat190_code = "7EB7D616"
+cheat190_enable = false
+
+cheat191_desc = "[鹰羽龙LV]ON"
+cheat191_code = "7EB7FC63"
+cheat191_enable = false
+
+cheat192_desc = "[鹰羽龙EXP]ON"
+cheat192_code = "7EB7FE90+7EB7FF1A"
+cheat192_enable = false
+
+cheat193_desc = "[鹰羽龙全能力]ON"
+cheat193_code = "7EB800FA+7EB80100+7EB802FA+7EB80300+7EB804FA+7EB80500+7EB806FA+7EB80700+7EB808E7+7EB80903+7EB80AFA+7EB80B00+7EB80CFA+7EB80D00"
+cheat193_enable = false
+
+cheat194_desc = "[鹰羽龙车种变更]跃动冲锋"
+cheat194_code = "7EB81800"
+cheat194_enable = false
+
+cheat195_desc = "[鹰羽龙车种变更]强棒音速"
+cheat195_code = "7EB81801"
+cheat195_enable = false
+
+cheat196_desc = "[鹰羽龙车种变更]三角箭ZMC"
+cheat196_code = "7EB81802"
+cheat196_enable = false
+
+cheat197_desc = "[鹰羽龙车种变更]疾速腹蛇"
+cheat197_code = "7EB81803"
+cheat197_enable = false
+
+cheat198_desc = "[鹰羽龙车种变更]原始战神进化者"
+cheat198_code = "7EB81804"
+cheat198_enable = false
+
+cheat199_desc = "[鹰羽龙车种变更]跳跃者"
+cheat199_code = "7EB81805"
+cheat199_enable = false
+
+cheat200_desc = "[鹰羽龙车种变更]铁狼号R"
+cheat200_code = "7EB81806"
+cheat200_enable = false
+
+cheat201_desc = "[鹰羽龙车种变更]铁狼号L"
+cheat201_code = "7EB81807"
+cheat201_enable = false
+
+cheat202_desc = "[鹰羽龙车种变更]奥米加"
+cheat202_code = "7EB81808"
+cheat202_enable = false
+
+cheat203_desc = "[鹰羽龙车种变更]奥米加"
+cheat203_code = "7EB81809"
+cheat203_enable = false
+
+cheat204_desc = "[鹰羽龙车种变更]BS斑马号"
+cheat204_code = "7EB8180A"
+cheat204_enable = false
+
+cheat205_desc = "[鹰羽龙车种变更]神剑号"
+cheat205_code = "7EB8180B"
+cheat205_enable = false
+
+cheat206_desc = "[鹰羽龙车种变更]天蝎座"
+cheat206_code = "7EB8180C"
+cheat206_enable = false
+
+cheat207_desc = "[鹰羽龙车种变更]库伦号"
+cheat207_code = "7EB8180D"
+cheat207_enable = false
+
+cheat208_desc = "[鹰羽龙车种变更]土著号"
+cheat208_code = "7EB8180E"
+cheat208_enable = false
+
+cheat209_desc = "[鹰羽龙车种变更]レヴァンクルズ"
+cheat209_code = "7EB8180F"
+cheat209_enable = false
+
+cheat210_desc = "[鹰羽龙车种变更]ピラミタルスフィンクス"
+cheat210_code = "7EB81810"
+cheat210_enable = false
+
+cheat211_desc = "[鹰羽龙车种变更]ブラックセイバー"
+cheat211_code = "7EB81811"
+cheat211_enable = false
+
+cheat212_desc = "[鹰羽龙车种变更]蜘蛛王"
+cheat212_code = "7EB81812"
+cheat212_enable = false
+
+cheat213_desc = "[鹰羽龙车种变更]战神600"
+cheat213_code = "7EB81813"
+cheat213_enable = false
+
+cheat214_desc = "[鹰羽龙车种变更]レディセイバー"
+cheat214_code = "7EB81814"
+cheat214_enable = false
+
+cheat215_desc = "[鹰羽龙车种变更]マックスブレイカーZ+7E2"
+cheat215_code = "7EB81815"
+cheat215_enable = false
+
+cheat216_desc = "[鹰羽龙车种变更]マックスブレイカーZ+7E3"
+cheat216_code = "7EB81816"
+cheat216_enable = false
+
+cheat217_desc = "[冲田海LV]ON"
+cheat217_code = "7EB83E63"
+cheat217_enable = false
+
+cheat218_desc = "[冲田海EXP]ON"
+cheat218_code = "7EB84090+7EB8411A"
+cheat218_enable = false
+
+cheat219_desc = "[冲田海全能力]ON"
+cheat219_code = "7EB842FA+7EB84300+7EB844FA+7EB84500+7EB846FA+7EB84700+7EB848FA+7EB84900+7EB84AE7+7EB84B03+7EB84CFA+7EB84D00+7EB84EFA+7EB84F00"
+cheat219_enable = false
+
+cheat220_desc = "[冲田海车种变更]跃动冲锋"
+cheat220_code = "7EB85A00"
+cheat220_enable = false
+
+cheat221_desc = "[冲田海车种变更]强棒音速"
+cheat221_code = "7EB85A01"
+cheat221_enable = false
+
+cheat222_desc = "[冲田海车种变更]三角箭ZMC"
+cheat222_code = "7EB85A02"
+cheat222_enable = false
+
+cheat223_desc = "[冲田海车种变更]疾速腹蛇"
+cheat223_code = "7EB85A03"
+cheat223_enable = false
+
+cheat224_desc = "[冲田海车种变更]原始战神进化者"
+cheat224_code = "7EB85A04"
+cheat224_enable = false
+
+cheat225_desc = "[冲田海车种变更]跳跃者"
+cheat225_code = "7EB85A05"
+cheat225_enable = false
+
+cheat226_desc = "[冲田海车种变更]铁狼号R"
+cheat226_code = "7EB85A06"
+cheat226_enable = false
+
+cheat227_desc = "[冲田海车种变更]铁狼号L"
+cheat227_code = "7EB85A07"
+cheat227_enable = false
+
+cheat228_desc = "[冲田海车种变更]奥米加"
+cheat228_code = "7EB85A08"
+cheat228_enable = false
+
+cheat229_desc = "[冲田海车种变更]奥米加"
+cheat229_code = "7EB85A09"
+cheat229_enable = false
+
+cheat230_desc = "[冲田海车种变更]BS斑马号"
+cheat230_code = "7EB85A0A"
+cheat230_enable = false
+
+cheat231_desc = "[冲田海车种变更]神剑号"
+cheat231_code = "7EB85A0B"
+cheat231_enable = false
+
+cheat232_desc = "[冲田海车种变更]天蝎座"
+cheat232_code = "7EB85A0C"
+cheat232_enable = false
+
+cheat233_desc = "[冲田海车种变更]库伦号"
+cheat233_code = "7EB85A0D"
+cheat233_enable = false
+
+cheat234_desc = "[冲田海车种变更]土著号"
+cheat234_code = "7EB85A0E"
+cheat234_enable = false
+
+cheat235_desc = "[冲田海车种变更]レヴァンクルズ"
+cheat235_code = "7EB85A0F"
+cheat235_enable = false
+
+cheat236_desc = "[冲田海车种变更]ピラミタルスフィンクス"
+cheat236_code = "7EB85A10"
+cheat236_enable = false
+
+cheat237_desc = "[冲田海车种变更]ブラックセイバー"
+cheat237_code = "7EB85A11"
+cheat237_enable = false
+
+cheat238_desc = "[冲田海车种变更]蜘蛛王"
+cheat238_code = "7EB85A12"
+cheat238_enable = false
+
+cheat239_desc = "[冲田海车种变更]战神600"
+cheat239_code = "7EB85A13"
+cheat239_enable = false
+
+cheat240_desc = "[冲田海车种变更]レディセイバー"
+cheat240_code = "7EB85A14"
+cheat240_enable = false
+
+cheat241_desc = "[冲田海车种变更]マックスブレイカーZ+7E2"
+cheat241_code = "7EB85A15"
+cheat241_enable = false
+
+cheat242_desc = "[冲田海车种变更]マックスブレイカーZ+7E3"
+cheat242_code = "7EB85A16"
+cheat242_enable = false
+
+cheat243_desc = "[全装备]ON"
+cheat243_code = "7EBAAB63+7EBAAC63+7EBAAD63+7EBAAE63+7EBAAF63+7EBAB063+7EBAB163+7EBAB263+7EBAB363+7EBAB463+7EBAB563+7EBAB663+7EBAB763+7EBAB863+7EBAB963+7EBABA63+7EBABB63+7EBABC63+7EBABD63+7EBABE63+7EBABF63+7EBAC063+7EBAC163+7EBAC263+7EBAC363+7EBAC463+7EBAC563+7EBAC663+7EBAC763+7EBAC863+7EBAC963+7EBACA63+7EBACB63+7EBACC63+7EBACD63+7EBACE63+7EBACF63+7EBAD063+7EBAD163+7EBAD263+7EBAD363+7EBAD463+7EBAD563+7EBAD663+7EBAD763+7EBAD863+7EBAD963+7EBADA63+7EBADB63+7EBADC63+7EBADD63+7EBADE63+7EBADF63+7EBAE063+7EBAE163+7EBAE263+7EBAE363+7EBAE463+7EBAE563+7EBAE663+7EBAE763+7EBAE863+7EBAE963+7EBAEA63+7EBAEB63+7EBAEC63+7EBAED63+7EBAEE63+7EBAEF63+7EBAF063+7EBAF163+7EBAF263+7EBAF363+7EBAF463+7EBAF563+7EBAF663+7EBAF763+7EBAF863+7EBAF963+7EBAFA63+7EBAFB63+7EBAFC63+7EBAFD63+7EBAFE63+7EBAFF63+7EBB0063+7EBB0163+7EBB0263+7EBB0363+7EBB0463+7EBB0563+7EBB0663+7EBB0763+7EBB0863+7EBB0963+7EBB0A63+7EBB0B63+7EBB0C63+7EBB0D63+7EBB0E63+7EBB0F63+7EBB1063+7EBB1163+7EBB1263+7EBB1363+7EBB1463+7EBB1563+7EBB1663+7EBB1763+7EBB1863+7EBB1963+7EBB1A63+7EBB1B63+7EBB1C63+7EBB1D63+7EBB1E63+7EBB1F63+7EBB2063+7EBB2163+7EBB2263+7EBB2363+7EBB2463+7EBB2563+7EBB2663+7EBB2763+7EBB2863+7EBB2963+7EBB2A63+7EBB2B63+7EBB2C63+7EBB2D63+7EBB2E63+7EBB2F63+7EBB3063+7EBB3163+7EBB3263+7EBB3363+7EBB3463+7EBB3563+7EBB3663+7EBB3763+7EBB3863+7EBB3963+7EBB3A63+7EBB3B63+7EBB3C63+7EBB3D63+7EBB3E63+7EBB3F63+7EBB4063+7EBB4163+7EBB4263+7EBB4363+7EBB4463+7EBB4563+7EBB4663+7EBB4763+7EBB4863+7EBB4963+7EBB4A63+7EBB4B63+7EBB4C63+7EBB4D63+7EBB4E63+7EBB4F63+7EBB5063+7EBB5163+7EBB5263+7EBB5363+7EBB5463+7EBB5563+7EBB5663+7EBB5763+7EBB5863+7EBB5963+7EBB5A63+7EBB5B63+7EBB5C63+7EBB5D63+7EBB5E63+7EBB5F63+7EBB6063+7EBB6163+7EBB6263+7EBB6363+7EBB6463+7EBB6563+7EBB6663+7EBB6763+7EBB6863+7EBB6963+7EBB6A63+7EBB6B63+7EBB6C63+7EBB6D63+7EBB6E63+7EBB6F63+7EBB7063+7EBB7163+7EBB7263+7EBB7363+7EBB7463+7EBB7563+7EBB7663+7EBB7763+7EBB7863+7EBB7963+7EBB7A63+7EBB7B63+7EBB7C63+7EBB7D63+7EBB7E63+7EBB7F63+7EBB8063+7EBB8163+7EBB8263+7EBB8363+7EBB8463+7EBB8563+7EBB8663+7EBB8763+7EBB8863+7EBB8963+7EBB8A63+7EBB8B63+7EBB8C63+7EBB8D63+7EBB8E63+7EBB8F63+7EBB9063+7EBB9163+7EBB9263+7EBB9363+7EBB9463+7EBB9563+7EBB9663+7EBB9763+7EBB9863+7EBB9963+7EBB9A63+7EBB9B63+7EBB9C63+7EBB9D63+7EBB9E63+7EBB9F63+7EBBA063+7EBBA163+7EBBA263+7EBBA363+7EBBA463+7EBBA563+7EBBA663+7EBBA763+7EBBA863+7EBBA963+7EBBAA63+7EBBAB63+7EBBAC63+7EBBAD63+7EBBAE63+7EBBAF63+7EBBB063+7EBBB163+7EBBB263+7EBBB363+7EBBB463+7EBBB563+7EBBB663+7EBBB763+7EBBB863+7EBBB963+7EBBBA63+7EBBBB63+7EBBBC63+7EBBBD63+7EBBBE63+7EBBBF63+7EBBC063+7EBBC163+7EBBC263+7EBBC363+7EBBC463+7EBBC563+7EBBC663+7EBBC763+7EBBC863+7EBBC963+7EBBCA63+7EBBCB63+7EBBCC63+7EBBCD63+7EBBCE63+7EBBCF63+7EBBD063+7EBBD163+7EBBD263+7EBBD363+7EBBD463+7EBBD563+7EBBD663+7EBBD763+7EBBD863+7EBBD963+7EBBDA63+7EBBDB63+7EBBDC63+7EBBDD63+7EBBDE63+7EBBDF63+7EBBE063+7EBBE163+7EBBE263+7EBBE363+7EBBE463+7EBBE563+7EBBE663+7EBBE763+7EBBE863+7EBBE963+7EBBEA63+7EBBEB63+7EBBEC63+7EBBED63+7EBBEE63+7EBBEF63+7EBBF063+7EBBF163+7EBBF263+7EBBF363+7EBBF463+7EBBF563+7EBBF663+7EBBF763+7EBBF863+7EBBF963+7EBBFA63+7EBBFB63+7EBBFC63+7EBBFD63+7EBBFE63+7EBBFF63+7EBC0063+7EBC0163+7EBC0263+7EBC0363+7EBC0463+7EBC0563+7EBC0663+7EBC0763+7EBC0863+7EBC0963+7EBC0A63+7EBC0B63+7EBC0C63+7EBC0D63+7EBC0E63+7EBC0F63+7EBC1063+7EBC1163+7EBC1263+7EBC1363+7EBC1463+7EBC1563+7EBC1663+7EBC1763+7EBC1863+7EBC1963+7EBC1A63+7EBC1B63+7EBC1C63+7EBC1D63+7EBC1E63+7EBC1F63+7EBC2063+7EBC2163+7EBC2263+7EBC2363+7EBC2463+7EBC2563+7EBC2663+7EBC2763+7EBC2863+7EBC2963+7EBC2A63+7EBC2B63+7EBC2C63+7EBC2D63+7EBC2E63+7EBC2F63+7EBC3063+7EBC3163+7EBC3263+7EBC3363+7EBC3463+7EBC3563+7EBC3663+7EBC3763+7EBC3863+7EBC3963+7EBC3A63+7EBC3B63+7EBC3C63+7EBC3D63+7EBC3E63+7EBC3F63+7EBC4063+7EBC4163+7EBC4263+7EBC4363+7EBC4463+7EBC4563+7EBC4663+7EBC4763+7EBC4863+7EBC4963+7EBC4A63+7EBC4B63+7EBC4C63+7EBC4D63+7EBC4E63+7EBC4F63+7EBC5063+7EBC5163+7EBC5263+7EBC5363+7EBC5463+7EBC5563+7EBC5663+7EBC5763+7EBC5863+7EBC5963+7EBC5A63+7EBC5B63+7EBC5C63+7EBC5D63+7EBC5E63+7EBC5F63+7EBC6063+7EBC6163+7EBC6263+7EBC6363+7EBC6463+7EBC6563+7EBC6663+7EBC6763+7EBC6863+7EBC6963+7EBC6A63+7EBC6B63+7EBC6C63+7EBC6D63+7EBC6E63+7EBC6F63+7EBC7063+7EBC7163+7EBC7263+7EBC7363+7EBC7463+7EBC7563+7EBC7663+7EBC7763+7EBC7863+7EBC7963+7EBC7A63+7EBC7B63+7EBC7C63+7EBC7D63+7EBC7E63+7EBC7F63+7EBC8063+7EBC8163+7EBC8263+7EBC8363+7EBC8463+7EBC8563+7EBC8663+7EBC8763+7EBC8863+7EBC8963+7EBC8A63+7EBC8B63+7EBC8C63+7EBC8D63+7EBC8E63+7EBC8F63+7EBC9063+7EBC9163+7EBC9263+7EBC9363+7EBC9463+7EBC9563+7EBC9663+7EBC9763+7EBC9863+7EBC9963+7EBC9A63+7EBC9B63+7EBC9C63+7EBC9D63+7EBC9E63+7EBC9F63+7EBCA063+7EBCA163+7EBCA263+7EBCA363+7EBCA463+7EBCA563+7EBCA663+7EBCA763+7EBCA863+7EBCA963+7EBCAA63+7EBCAB63+7EBCAC63+7EBCAD63+7EBCAE63+7EBCAF63+7EBCB063+7EBCB163+7EBCB263+7EBCB363+7EBCB463+7EBCB563+7EBCB663+7EBCB763+7EBCB863+7EBCB963+7EBCBA63+7EBCBB63+7EBCBC63+7EBCBD63+7EBCBE63+7EBCBF63+7EBCC063+7EBCC163+7EBCC263+7EBCC363+7EBCC463+7EBCC563+7EBCC663+7EBCC763+7EBCC863+7EBCC963+7EBCCA63+7EBCCB63+7EBCCC63+7EBCCD63+7EBCCE63+7EBCCF63+7EBCD063+7EBCD163+7EBCD263+7EBCD363+7EBCD463+7EBCD563+7EBCD663+7EBCD763+7EBCD863+7EBCD963+7EBCDA63+7EBCDB63+7EBCDC63+7EBCDD63+7EBCDE63+7EBCDF63+7EBCE063+7EBCE163+7EBCE263+7EBCE363+7EBCE463+7EBCE563+7EBCE663+7EBCE763+7EBCE863+7EBCE963+7EBCEA63+7EBCEB63+7EBCEC63+7EBCED63+7EBCEE63+7EBCEF63+7EBCF063+7EBCF163+7EBCF263+7EBCF363+7EBCF463+7EBCF563+7EBCF663+7EBCF763+7EBCF863+7EBCF963+7EBCFA63+7EBCFB63+7EBCFC63+7EBCFD63+7EBCFE63+7EBCFF63+7EBD0063+7EBD0163+7EBD0263+7EBD0363+7EBD0463+7EBD0563+7EBD0663+7EBD0763+7EBD0863+7EBD0963+7EBD0A63+7EBD0B63+7EBD0C63+7EBD0D63+7EBD0E63+7EBD0F63+7EBD1063+7EBD1163+7EBD1263+7EBD1363+7EBD1463+7EBD1563+7EBD1663+7EBD1763+7EBD1863+7EBD1963+7EBD1A63+7EBD1B63+7EBD1C63+7EBD1D63+7EBD1E63+7EBD1F63+7EBD2063+7EBD2163+7EBD2263+7EBD2363+7EBD2463+7EBD2563+7EBD2663+7EBD2763+7EBD2863+7EBD2963+7EBD2A63+7EBD2B63+7EBD2C63+7EBD2D63+7EBD2E63+7EBD2F63+7EBD3063+7EBD3163+7EBD3263+7EBD3363+7EBD3463+7EBD3563+7EBD3663+7EBD3763+7EBD3863+7EBD3963+7EBD3A63+7EBD3B63+7EBD3C63+7EBD3D63+7EBD3E63+7EBD3F63+7EBD4063+7EBD4163+7EBD4263+7EBD4363+7EBD4463+7EBD4563+7EBD4663+7EBD4763+7EBD4863+7EBD4963+7EBD4A63+7EBD4B63+7EBD4C63+7EBD4D63+7EBD4E63+7EBD4F63+7EBD5063+7EBD5163+7EBD5263+7EBD5363+7EBD5463+7EBD5563+7EBD5663+7EBD5763+7EBD5863+7EBD5963+7EBD5A63+7EBD5B63+7EBD5C63+7EBD5D63+7EBD5E63+7EBD5F63+7EBD6063+7EBD6163+7EBD6263+7EBD6363+7EBD6463+7EBD6563+7EBD6663+7EBD6763+7EBD6863+7EBD6963+7EBD6A63+7EBD6B63+7EBD6C63+7EBD6D63+7EBD6E63+7EBD6F63+7EBD7063+7EBD7163+7EBD7263+7EBD7363+7EBD7463+7EBD7563+7EBD7663+7EBD7763+7EBD7863+7EBD7963+7EBD7A63+7EBD7B63+7EBD7C63+7EBD7D63+7EBD7E63+7EBD7F63+7EBD8063+7EBD8163+7EBD8263+7EBD8363+7EBD8463+7EBD8563+7EBD8663+7EBD8763+7EBD8863+7EBD8963+7EBD8A63+7EBD8B63+7EBD8C63+7EBD8D63+7EBD8E63+7EBD8F63+7EBD9063+7EBD9163+7EBD9263+7EBD9363+7EBD9463+7EBD9563+7EBD9663+7EBD9763+7EBD9863+7EBD9963+7EBD9A63+7EBD9B63+7EBD9C63+7EBD9D63+7EBD9E63+7EBD9F63+7EBDA063+7EBDA163+7EBDA263+7EBDA363+7EBDA463+7EBDA563+7EBDA663+7EBDA763+7EBDA863+7EBDA963+7EBDAA63+7EBDAB63+7EBDAC63+7EBDAD63+7EBDAE63+7EBDAF63+7EBDB063+7EBDB163+7EBDB263+7EBDB363+7EBDB463+7EBDB563+7EBDB663+7EBDB763+7EBDB863+7EBDB963+7EBDBA63+7EBDBB63+7EBDBC63+7EBDBD63+7EBDBE63+7EBDBF63+7EBDC063+7EBDC163+7EBDC263+7EBDC363+7EBDC463+7EBDC563+7EBDC663+7EBDC763+7EBDC863+7EBDC963+7EBDCA63+7EBDCB63+7EBDCC63+7EBDCD63+7EBDCE63+7EBDCF63+7EBDD063+7EBDD163+7EBDD263+7EBDD363+7EBDD463+7EBDD563+7EBDD663+7EBDD763+7EBDD863+7EBDD963+7EBDDA63+7EBDDB63+7EBDDC63+7EBDDD63+7EBDDE63+7EBDDF63+7EBDE063+7EBDE163+7EBDE263+7EBDE363+7EBDE463+7EBDE563+7EBDE663+7EBDE763+7EBDE863+7EBDE963+7EBDEA63+7EBDEB63+7EBDEC63+7EBDED63+7EBDEE63+7EBDEF63+7EBDF063+7EBDF163+7EBDF263+7EBDF363+7EBDF463+7EBDF563+7EBDF663+7EBDF763+7EBDF863+7EBDF963+7EBDFA63+7EBDFB63+7EBDFC63+7EBDFD63+7EBDFE63+7EBDFF63+7EBE0063+7EBE0163+7EBE0263+7EBE0363+7EBE0463+7EBE0563+7EBE0663+7EBE0763+7EBE0863+7EBE0963+7EBE0A63+7EBE0B63+7EBE0C63+7EBE0D63+7EBE0E63+7EBE0F63+7EBE1063+7EBE1163+7EBE1263+7EBE1363+7EBE1463+7EBE1563+7EBE1663+7EBE1763+7EBE1863+7EBE1963+7EBE1A63+7EBE1B63+7EBE1C63+7EBE1D63+7EBE1E63+7EBE1F63+7EBE2063+7EBE2163+7EBE2263+7EBE2363+7EBE2463+7EBE2563+7EBE2663+7EBE2763+7EBE2863+7EBE2963+7EBE2A63+7EBE2B63+7EBE2C63+7EBE2D63+7EBE2E63+7EBE2F63+7EBE3063+7EBE3163+7EBE3263+7EBE3363+7EBE3463+7EBE3563+7EBE3663+7EBE3763+7EBE3863+7EBE3963+7EBE3A63+7EBE3B63+7EBE3C63+7EBE3D63+7EBE3E63+7EBE3F63+7EBE4063+7EBE4163+7EBE4263+7EBE4363+7EBE4463+7EBE4563+7EBE4663+7EBE4763+7EBE4863+7EBE4963+7EBE4A63+7EBE4B63+7EBE4C63+7EBE4D63+7EBE4E63+7EBE4F63+7EBE5063+7EBE5163+7EBE5263+7EBE5363+7EBE5463+7EBE5563+7EBE5663+7EBE5763+7EBE5863+7EBE5963+7EBE5A63+7EBE5B63+7EBE5C63+7EBE5D63+7EBE5E63+7EBE5F63+7EBE6063+7EBE6163+7EBE6263+7EBE6363+7EBE6463+7EBE6563+7EBE6663+7EBE6763+7EBE6863+7EBE6963+7EBE6A63+7EBE6B63+7EBE6C63+7EBE6D63+7EBE6E63+7EBE6F63+7EBE7063+7EBE7163+7EBE7263+7EBE7363+7EBE7463+7EBE7563+7EBE7663+7EBE7763+7EBE7863+7EBE7963+7EBE7A63+7EBE7B63+7EBE7C63+7EBE7D63+7EBE7E63+7EBE7F63+7EBE8063+7EBE8163+7EBE8263+7EBE8363+7EBE8463+7EBE8563+7EBE8663+7EBE8763+7EBE8863+7EBE8963+7EBE8A63+7EBE8B63+7EBE8C63+7EBE8D63+7EBE8E63+7EBE8F63+7EBE9063+7EBE9163+7EBE9263+7EBE9363+7EBE9463+7EBE9563+7EBE9663+7EBE9763+7EBE9863+7EBE9963+7EBE9A63+7EBE9B63+7EBE9C63+7EBE9D63+7EBE9E63+7EBE9F63+7EBEA063+7EBEA163+7EBEA263+7EBEA363+7EBEA463+7EBEA563+7EBEA663+7EBEA763+7EBEA863+7EBEA963+7EBEAA63+7EBEAB63+7EBEAC63+7EBEAD63+7EBEAE63+7EBEAF63+7EBEB063+7EBEB163+7EBEB263+7EBEB363+7EBEB463+7EBEB563+7EBEB663+7EBEB763+7EBEB863+7EBEB963+7EBEBA63+7EBEBB63+7EBEBC63+7EBEBD63+7EBEBE63+7EBEBF63+7EBEC063+7EBEC163+7EBEC263+7EBEC363+7EBEC463+7EBEC563+7EBEC663+7EBEC763+7EBEC863+7EBEC963+7EBECA63+7EBECB63+7EBECC63+7EBECD63+7EBECE63+7EBECF63+7EBED063+7EBED163+7EBED263+7EBED363+7EBED463+7EBED563+7EBED663+7EBED763+7EBED863+7EBED963+7EBEDA63+7EBEDB63+7EBEDC63+7EBEDD63+7EBEDE63+7EBEDF63+7EBEE063+7EBEE163+7EBEE263+7EBEE363+7EBEE463+7EBEE563+7EBEE663+7EBEE763+7EBEE863+7EBEE963+7EBEEA63+7EBEEB63+7EBEEC63+7EBEED63+7EBEEE63+7EBEEF63+7EBEF063+7EBEF163+7EBEF263+7EBEF363+7EBEF463+7EBEF563+7EBEF663+7EBEF763+7EBEF863+7EBEF963+7EBEFA63+7EBEFB63+7EBEFC63+7EBEFD63+7EBEFE63+7EBEFF63+7EBF0063+7EBF0163+7EBF0263+7EBF0363+7EBF0463+7EBF0563"
+cheat243_enable = false
+

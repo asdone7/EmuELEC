@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[不遇敌]ON"
+cheat0_code = "7E037300"
+cheat0_enable = false
+

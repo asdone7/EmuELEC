@@ -1,0 +1,19 @@
+cheats = 4
+
+cheat0_desc = "#Infinite Hp P1直到战斗中才启用"
+cheat0_code = "8017B554 6000"
+cheat0_enable = false
+
+cheat1_desc = "#无限时间"
+cheat1_code = "80186F18 0063+80186F1C 003C"
+cheat1_enable = false
+
+cheat2_desc = "#无限弹药P1"
+cheat2_code = "8017B566 01F4"
+cheat2_enable = false
+
+cheat3_desc = "#一切解锁"
+cheat3_code = "50001C02 0000+800DF37E 0101"
+cheat3_enable = false
+
+

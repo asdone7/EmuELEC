@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[A上尉 血值]ON"
+cheat0_code = "03D9:05"
+cheat0_enable = false
+
+cheat1_desc = "[H上尉 血值]ON"
+cheat1_code = "03DA:05"
+cheat1_enable = false
+

@@ -1,0 +1,19 @@
+cheats = 4
+
+cheat0_desc = "#无限的生命"
+cheat0_code = "800C98FA 0063"
+cheat0_enable = false
+
+cheat1_desc = "#无限炸弹"
+cheat1_code = "800ED7DE 0063"
+cheat1_enable = false
+
+cheat2_desc = "#另一个任务Infinite Gold Press L1"
+cheat2_code = "D00D4428 0400+800FF484 6FFF"
+cheat2_enable = false
+
+cheat3_desc = "#从最后一级开始"
+cheat3_code = "D00ED634 0000+800ED634 0005"
+cheat3_enable = false
+
+

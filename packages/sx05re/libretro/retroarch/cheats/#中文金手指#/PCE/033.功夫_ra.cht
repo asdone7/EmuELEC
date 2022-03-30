@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[血不减]ON"
+cheat0_code = "1F0BC3:0A"
+cheat0_enable = false
+

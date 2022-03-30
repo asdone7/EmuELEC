@@ -1,0 +1,191 @@
+cheats = 47
+
+cheat0_desc = "#无限健康"
+cheat0_code = "800B9574 04B0"
+cheat0_enable = false
+
+cheat1_desc = "#拥有所有地图"
+cheat1_code = "800C15D0 FFFF+800C15D2 FFFF+800C15D4 FFFF+800C15D6 FFFF+800C15D8 FFFF+800C15DA FFFF"
+cheat1_enable = false
+
+cheat2_desc = "#All Weapons（里贾纳）"
+cheat2_code = "800C15A8 FFFF"
+cheat2_enable = false
+
+cheat3_desc = "#拥有所有物品（里贾纳）"
+cheat3_code = "800C15A4 FFFF+800C15A6 FFFF+800C15AC FFFF+800C15AE FFFF+800C15B0 FFFF+800C15B2 FFFF+800C15B4 FFFF+800C15B6 FFFF+800C15B8 FFFF+800C15BA FFFF+800C15BC FFFF"
+cheat3_enable = false
+
+cheat4_desc = "#Max Supplies Codes（Regina）\\ Slot 1"
+cheat4_code = "300C18CD 00FF"
+cheat4_enable = false
+
+cheat5_desc = "#Max Supplies Codes（Regina）\\ Slot 2"
+cheat5_code = "300C18D1 00FF"
+cheat5_enable = false
+
+cheat6_desc = "#Max Supplies Codes（Regina）\\ Slot 3"
+cheat6_code = "300C18D5 00FF"
+cheat6_enable = false
+
+cheat7_desc = "#Max Supplies Codes（Regina）\\ Slot 4"
+cheat7_code = "300C18D9 00FF"
+cheat7_enable = false
+
+cheat8_desc = "#Max Supplies Codes（Regina）\\ Slot 5"
+cheat8_code = "300C18DD 00FF"
+cheat8_enable = false
+
+cheat9_desc = "#Max Supplies Codes（Regina）\\ Slot 6"
+cheat9_code = "300C18E1 00FF"
+cheat9_enable = false
+
+cheat10_desc = "#Max Supplies Codes（Regina）\\ Slot 7"
+cheat10_code = "300C18E5 00FF"
+cheat10_enable = false
+
+cheat11_desc = "#Max Supplies Codes（Regina）\\ Slot 8"
+cheat11_code = "300C18E9 00FF"
+cheat11_enable = false
+
+cheat12_desc = "#Max Supplies Codes（Regina）\\ Slot 9"
+cheat12_code = "300C18ED 00FF"
+cheat12_enable = false
+
+cheat13_desc = "#Max Supplies Codes（Regina）\\ Slot 10"
+cheat13_code = "300C18F1 00FF"
+cheat13_enable = false
+
+cheat14_desc = "#查看第一个结尾（按“选择”，使用这些代码，请勿在FMV场景中按按钮查看结尾）"
+cheat14_code = "D00B1418 0100+800B7A48 000A+D00B1418 0100+300B7A5B 0000"
+cheat14_enable = false
+
+cheat15_desc = "#查看第二个结尾（按“选择”，使用这些代码，请勿在FMV场景中按按钮查看结尾）"
+cheat15_code = "D00B1418 0100+800B7A48 000A+D00B1418 0100+300B7A5B 0001"
+cheat15_enable = false
+
+cheat16_desc = "#查看第三个结尾（按“选择”使用这些代码，请勿在FMV场景中按按钮查看结尾）"
+cheat16_code = "D00B1418 0100+800B7A48 000A+D00B1418 0100+300B7A5B 0002"
+cheat16_enable = false
+
+cheat17_desc = "#Turbo Boost（按X）"
+cheat17_code = "D00B1418 0040+800B94A0 0100"
+cheat17_enable = false
+
+cheat18_desc = "#保存任何位置（按L1和L2）"
+cheat18_code = "D00B1418 0005+800B7A48 0007"
+cheat18_enable = false
+
+cheat19_desc = "#Mini Me（里贾纳）"
+cheat19_code = "800B9500 0500+800B9504 0500+800B9508 0600"
+cheat19_enable = false
+
+cheat20_desc = "#巨人（里贾纳）"
+cheat20_code = "800B9500 1F00+800B9504 1F00+800B9508 1F00"
+cheat20_enable = false
+
+cheat21_desc = "#无限弹药和物品"
+cheat21_code = "8006AC06 2400"
+cheat21_enable = false
+
+cheat22_desc = "#启用服装更改"
+cheat22_code = "D00C1CF4 0001+800C1CF4 000F+D00C7C42 0003+800C7C42 0503"
+cheat22_enable = false
+
+cheat23_desc = "#启用额外任务"
+cheat23_code = "800C7C42 0403"
+cheat23_enable = false
+
+cheat24_desc = "#启用额外任务（在主菜单上按R1 + R2）"
+cheat24_code = "D00B1418 000A+800C7C42 0403"
+cheat24_enable = false
+
+cheat25_desc = "#无限时间消灭任务"
+cheat25_code = "800480CA 2400"
+cheat25_enable = false
+
+cheat26_desc = "#清除时间为0:00:00"
+cheat26_code = "800C14C4 0000+800C14C6 0000"
+cheat26_enable = false
+
+cheat27_desc = "#使用0继续"
+cheat27_code = "300C14CA 0005"
+cheat27_enable = false
+
+cheat28_desc = "#未保存"
+cheat28_code = "300C14C3 0000"
+cheat28_enable = false
+
+cheat29_desc = "#接机时有很多插头"
+cheat29_code = "800C1B00 00FF"
+cheat29_enable = false
+
+cheat30_desc = "#Max Item Box Codes \\ Slot 1"
+cheat30_code = "300C1745 00FF"
+cheat30_enable = false
+
+cheat31_desc = "#Max Item Box Codes \\ Slot 2"
+cheat31_code = "300C1749 00FF"
+cheat31_enable = false
+
+cheat32_desc = "#Max物品箱代码\\插槽3"
+cheat32_code = "300C174D 00FF"
+cheat32_enable = false
+
+cheat33_desc = "#Max Item Box Codes \\ Slot 4"
+cheat33_code = "300C1751 00FF"
+cheat33_enable = false
+
+cheat34_desc = "#Max物品箱代码\\插槽5"
+cheat34_code = "300C1755 00FF"
+cheat34_enable = false
+
+cheat35_desc = "#Max物品箱代码\\插槽6"
+cheat35_code = "300C1759 00FF"
+cheat35_enable = false
+
+cheat36_desc = "#Max Item Box Codes \\ Slot 7"
+cheat36_code = "300C175D 00FF"
+cheat36_enable = false
+
+cheat37_desc = "#Max物品箱代码\\插槽8"
+cheat37_code = "300C1761 00FF"
+cheat37_enable = false
+
+cheat38_desc = "#Max物品箱代码\\插槽9"
+cheat38_code = "300C1765 00FF"
+cheat38_enable = false
+
+cheat39_desc = "#Max物品箱代码\\插槽10"
+cheat39_code = "300C1769 00FF"
+cheat39_enable = false
+
+cheat40_desc = "#Invisible Regina"
+cheat40_code = "800B9472 FFFF"
+cheat40_enable = false
+
+cheat41_desc = "#涡轮射击＆不重装"
+cheat41_code = "D00B949A 0102+800B949A 0101+300B96A0 0063+300B96A2 0063+300B96A4 0063"
+cheat41_enable = false
+
+cheat42_desc = "#在任何地方更改Regina尺寸（按L1表示较小，按R2表示较大）"
+cheat42_code = "D00B1418 0001+D30B9500 0500+110B9500 0010+D00B1418 0002+D20B9500 1F00+100B9500 0010+D00B1418 0001+D30B9504 0500+110B9504 0010+D00B1418 0002+D20B9504 1F00+100B9504 0010+D00B1418 0001+D30B9508 0500+110B9508 0010+D00B1418 0002+D20B9508 1F00+100B9508 0010"
+cheat42_enable = false
+
+cheat43_desc = "#无限时间消灭任务"
+cheat43_code = "800C1D04 1EC8+800C1D08 184F+800C1D0C 10D1"
+cheat43_enable = false
+
+cheat44_desc = "#走墙"
+cheat44_code = "80080916 2400+8008093A 2400"
+cheat44_enable = false
+
+cheat45_desc = "#慢动作"
+cheat45_code = "800ABF28 A803"
+cheat45_enable = false
+
+cheat46_desc = "#随时改变恐龙的大小（按L2表示较小，按L1表示较大）"
+cheat46_code = "D00B1418 0001+D30B7D40 0200+110B7D40 0010+D00B1418 0001+D30B7D44 0200+110B7D44 0010+D00B1418 0001+D30B7D48 0200+110B7D48 0010+D00B1418 0004+D20B7D48 3500+100B7D48 0010+D00B1418 0004+D20B7D44 3500+100B7D44 0010+D00B1418 0004+D20B7D40 3500+100B7D40 0010"
+cheat46_enable = false
+
+

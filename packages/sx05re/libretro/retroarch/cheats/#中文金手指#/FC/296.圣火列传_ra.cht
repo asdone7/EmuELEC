@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[金钱无限]ON"
+cheat0_code = "0421:09+0422:09+0423:09+0424:09+0425:09"
+cheat0_enable = false
+
+cheat1_desc = "[粮草无限]ON"
+cheat1_code = "042A:09+042B:09+042C:09"
+cheat1_enable = false
+
+cheat2_desc = "[少主HP，MP无限]ON"
+cheat2_code = "0740:FF+0748:FF"
+cheat2_enable = false
+
+cheat3_desc = "[少主全能力最强]ON"
+cheat3_code = "0507:63+0514:63+0521:63+0596:09+0597:09+0598:09+0599:09+059A:09+059B:09+059C:09+059D:09+059E:09"
+cheat3_enable = false
+

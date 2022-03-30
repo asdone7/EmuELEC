@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1P血不减]ON"
+cheat0_code = "1F0C40:64"
+cheat0_enable = false
+
+cheat1_desc = "[闪烁状态(非无敌)]ON"
+cheat1_code = "1F0830:FD"
+cheat1_enable = false
+

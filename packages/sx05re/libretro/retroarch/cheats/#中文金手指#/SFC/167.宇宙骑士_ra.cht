@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[生命]ON"
+cheat0_code = "7E0EB003"
+cheat0_enable = false
+
+cheat1_desc = "[血格]ON"
+cheat1_code = "7E09A000"
+cheat1_enable = false
+

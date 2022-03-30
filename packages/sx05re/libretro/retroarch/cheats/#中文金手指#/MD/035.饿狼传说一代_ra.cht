@@ -1,0 +1,110 @@
+cheats = 27
+
+cheat0_desc = "[1P血槽不减]ON"
+cheat0_code = "FFD816:58+FFD817:58"
+cheat0_enable = false
+
+cheat1_desc = "[2P血槽不减]ON"
+cheat1_code = "FFD896:58+FFD897:58"
+cheat1_enable = false
+
+cheat2_desc = "[时间不减]ON"
+cheat2_code = "FF00BE:60"
+cheat2_enable = false
+
+cheat3_desc = "[1P使用饿狼三人组]泰利"
+cheat3_code = "FFD802:00"
+cheat3_enable = false
+
+cheat4_desc = "[1P使用饿狼三人组]安迪"
+cheat4_code = "FFD802:04"
+cheat4_enable = false
+
+cheat5_desc = "[1P使用饿狼三人组]东丈"
+cheat5_code = "FFD802:08"
+cheat5_enable = false
+
+cheat6_desc = "[1P总是使用吉斯(故事模式战胜CPU会卡版,建议将人物换回饿狼3人组任一人即可通过,情节过后再换回)]ON"
+cheat6_code = "FFD802:20"
+cheat6_enable = false
+
+cheat7_desc = "[1P使用敌人角色(故事模式战胜CPU会卡版,建议将人物换回饿狼3人组任一人即可通过,情节过后再换回)]唐葫芦"
+cheat7_code = "FFD802:0C"
+cheat7_enable = false
+
+cheat8_desc = "[1P使用敌人角色(故事模式战胜CPU会卡版,建议将人物换回饿狼3人组任一人即可通过,情节过后再换回)]达克.金"
+cheat8_code = "FFD802:10"
+cheat8_enable = false
+
+cheat9_desc = "[1P使用敌人角色(故事模式战胜CPU会卡版,建议将人物换回饿狼3人组任一人即可通过,情节过后再换回)]迈克尔.麦斯"
+cheat9_code = "FFD802:14"
+cheat9_enable = false
+
+cheat10_desc = "[1P使用敌人角色(故事模式战胜CPU会卡版,建议将人物换回饿狼3人组任一人即可通过,情节过后再换回)]里查德.米亚"
+cheat10_code = "FFD802:18"
+cheat10_enable = false
+
+cheat11_desc = "[1P使用敌人角色(故事模式战胜CPU会卡版,建议将人物换回饿狼3人组任一人即可通过,情节过后再换回)]雷电"
+cheat11_code = "FFD802:1C"
+cheat11_enable = false
+
+cheat12_desc = "[2P使用饿狼三人组]泰利"
+cheat12_code = "FFD882:00"
+cheat12_enable = false
+
+cheat13_desc = "[2P使用饿狼三人组]安迪"
+cheat13_code = "FFD882:04"
+cheat13_enable = false
+
+cheat14_desc = "[2P使用饿狼三人组]东丈"
+cheat14_code = "FFD882:08"
+cheat14_enable = false
+
+cheat15_desc = "[2P使用敌人角色]唐葫芦"
+cheat15_code = "FFD882:0C"
+cheat15_enable = false
+
+cheat16_desc = "[2P使用敌人角色]达克.金"
+cheat16_code = "FFD882:10"
+cheat16_enable = false
+
+cheat17_desc = "[2P使用敌人角色]迈克尔.麦斯"
+cheat17_code = "FFD882:14"
+cheat17_enable = false
+
+cheat18_desc = "[2P使用敌人角色]里查德.米亚"
+cheat18_code = "FFD882:18"
+cheat18_enable = false
+
+cheat19_desc = "[2P使用敌人角色]雷电"
+cheat19_code = "FFD882:1C"
+cheat19_enable = false
+
+cheat20_desc = "[2P总是使用吉斯(故事模式锁定的话,战胜CPU会卡版)]ON"
+cheat20_code = "FFD882:20"
+cheat20_enable = false
+
+cheat21_desc = "[场景选择(最好在选择场景时激活)]Pao pao cafe(里查德.米亚)"
+cheat21_code = "FF202A:11"
+cheat21_enable = false
+
+cheat22_desc = "[场景选择(最好在选择场景时激活)]the west sub way(达克.金)"
+cheat22_code = "FF202A:12"
+cheat22_enable = false
+
+cheat23_desc = "[场景选择(最好在选择场景时激活)]Howard Arena(唐葫芦)"
+cheat23_code = "FF202A:13"
+cheat23_enable = false
+
+cheat24_desc = "[场景选择(最好在选择场景时激活)]Sound Beach(迈克尔.麦斯)"
+cheat24_code = "FF202A:14"
+cheat24_enable = false
+
+cheat25_desc = "[场景选择(最好在选择场景时激活)]Dream Amusement Park(雷电,故事模式不建议)"
+cheat25_code = "FF202A:15"
+cheat25_enable = false
+
+cheat26_desc = "[场景选择(最好在选择场景时激活)]Geese Building(吉斯,故事模式不建议)"
+cheat26_code = "FF202A:16"
+cheat26_enable = false
+

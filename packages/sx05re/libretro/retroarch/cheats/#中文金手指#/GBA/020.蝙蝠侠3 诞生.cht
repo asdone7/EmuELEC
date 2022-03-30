@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "生命"
+cheat0_code = "02008170 00000062"
+cheat0_enable = false
+
+cheat1_desc = "辅助武器"
+cheat1_code = "0200817B 00000001+0200817C 00000001+0200817D 00000001"
+cheat1_enable = false
+
+cheat2_desc = "全标志"
+cheat2_code = "02008174 000000FF+02008175 000000FF"
+cheat2_enable = false
+
+

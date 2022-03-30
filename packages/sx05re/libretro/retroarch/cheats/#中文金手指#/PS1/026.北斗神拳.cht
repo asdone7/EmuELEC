@@ -1,0 +1,95 @@
+cheats = 23
+
+cheat0_desc = "#无限能量P1"
+cheat0_code = "80172FFC 0800"
+cheat0_enable = false
+
+cheat1_desc = "#无限护栏P1"
+cheat1_code = "801730F4 0000"
+cheat1_enable = false
+
+cheat2_desc = "#无限能量P2"
+cheat2_code = "8017341C 0800"
+cheat2_enable = false
+
+cheat3_desc = "#无限护栏P2"
+cheat3_code = "80173514 0000"
+cheat3_enable = false
+
+cheat4_desc = "#特殊模式"
+cheat4_code = "8008FD8C 0001"
+cheat4_enable = false
+
+cheat5_desc = "#Hit按钮输入成功！"
+cheat5_code = "D00E8DE2 1443+800E8DE2 1400+D00F617E 14A2+800F617E 1400"
+cheat5_enable = false
+
+cheat6_desc = "#2玩家模式"
+cheat6_code = "8008FD90 0001"
+cheat6_enable = false
+
+cheat7_desc = "#Abeshi模式"
+cheat7_code = "8008FD8E 0001"
+cheat7_enable = false
+
+cheat8_desc = "#Stop Timer（Abeshi模式）"
+cheat8_code = "8017355C 0708"
+cheat8_enable = false
+
+cheat9_desc = "#杀人修饰语"
+cheat9_code = "8007734C 03E7"
+cheat9_enable = false
+
+cheat10_desc = "#使用世纪剧院"
+cheat10_code = "8008FD8A 0008+8008FD8C 0001"
+cheat10_enable = false
+
+cheat11_desc = "#整个世纪剧院开张"
+cheat11_code = "8008FC78 0001+8008FD5A 0001"
+cheat11_enable = false
+
+cheat12_desc = "#整个世纪剧院解锁并充满"
+cheat12_code = "50007202 0000+8008FC78 0101"
+cheat12_enable = false
+
+cheat13_desc = "#所有字符（2P模式）"
+cheat13_code = "50000E02 0000+8008FDAE 0001"
+cheat13_enable = false
+
+cheat14_desc = "#所有阶段（2P模式）"
+cheat14_code = "50000E02 0000+8008FDD0 0001"
+cheat14_enable = false
+
+cheat15_desc = "#Level选择第一章-弥赛亚降临"
+cheat15_code = "8008FD8A 0000"
+cheat15_enable = false
+
+cheat16_desc = "#Level选择第二章-恶魔的化身"
+cheat16_code = "8008FD8A 0001"
+cheat16_enable = false
+
+cheat17_desc = "#Level选择第三章-Nanto Man"
+cheat17_code = "8008FD8A 0002"
+cheat17_enable = false
+
+cheat18_desc = "#Level选择第四章-恢复悲剧"
+cheat18_code = "8008FD8A 0003"
+cheat18_enable = false
+
+cheat19_desc = "#Level选择第五章-世纪冠军"
+cheat19_code = "8008FD8A 0004"
+cheat19_enable = false
+
+cheat20_desc = "#Level选择第六章-Souther"
+cheat20_code = "8008FD8A 0005"
+cheat20_enable = false
+
+cheat21_desc = "#Level选择第七章-最后的南多未来"
+cheat21_code = "8008FD8A 0006"
+cheat21_enable = false
+
+cheat22_desc = "#Level选择第八章-永别决赛"
+cheat22_code = "8008FD8A 0008"
+cheat22_enable = false
+
+

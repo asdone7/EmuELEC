@@ -1,0 +1,91 @@
+cheats = 22
+
+cheat0_desc = "#最大生命值"
+cheat0_code = "80074888 03E7+8007488A 03E7"
+cheat0_enable = false
+
+cheat1_desc = "#最大MP"
+cheat1_code = "8007488C 03E7+8007488E 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#无限子弹"
+cheat2_code = "D00B7736 2462+800B7734 0000+D00BBCF0 0002+800BBCF0 8446"
+cheat2_enable = false
+
+cheat3_desc = "#Infinite HP Kyle's"
+cheat3_code = "D010BB82 0043+8010BB82 0040"
+cheat3_enable = false
+
+cheat4_desc = "#无限的平安夜"
+cheat4_code = "D010CA9E 0062+8010CA9E 0060"
+cheat4_enable = false
+
+cheat5_desc = "#HP不降低"
+cheat5_code = "D010AADE 0051+8010AADE 0040"
+cheat5_enable = false
+
+cheat6_desc = "#不减少MP"
+cheat6_code = "D00A3C72 0062+800A3C72 0060"
+cheat6_enable = false
+
+cheat7_desc = "#不减少弹药"
+cheat7_code = "D00B7736 2462+800B7734 0000+D00BBCF0 0002+800BBCF0 8446"
+cheat7_enable = false
+
+cheat8_desc = "#已在LEVEL.3中获得所有寄生虫能量"
+cheat8_code = "800736A0 0303+800736A2 0303+800736A4 0303+800736A6 0303+800736A8 0303+800736AA 0303"
+cheat8_enable = false
+
+cheat9_desc = "#立即触发寄生虫能量"
+cheat9_code = "80114EA2 0000"
+cheat9_enable = false
+
+cheat10_desc = "#子弹不会减少所有武器"
+cheat10_code = "800B773C 0000+800B773E 0000+800B7798 0000+800B779A 0000"
+cheat10_enable = false
+
+cheat11_desc = "#所有关键物品"
+cheat11_code = "800733FC 9FFE+800733FE CFFE+80073400 B1BF+80073402 0001"
+cheat11_enable = false
+
+cheat12_desc = "#Para Lee网站能源不可用"
+cheat12_code = "800A39A8 0000+800A39AA 0000"
+cheat12_enable = false
+
+cheat13_desc = "#最终BOSS DISC 2按NEW GAME Boss A"
+cheat13_code = "80072E56 0430+80072E58 0101+80072E60 0303"
+cheat13_enable = false
+
+cheat14_desc = "#最终BOSS DISC 2按NEW GAME Boss B"
+cheat14_code = "80072E56 0416+80072E58 0101+80072E60 013F"
+cheat14_enable = false
+
+cheat15_desc = "#DEBUG MAP（选择）"
+cheat15_code = "D0071E9A FFFE+30072E54 0001"
+cheat15_enable = false
+
+cheat16_desc = "#所有武器"
+cheat16_code = "80073008 0080+8007300C 0081+80073010 0082+80073014 0083+80073018 0084+8007301C 008A+80073020 008B+80073024 008C+80073028 008D+8007302C 008E+80073030 008F+80073034 0090+80073038 0093+8007303C 0094+80073040 0095+80073044 0096+80073048 0098+8007304C 0099+80073050 009A+80073054 009B+80073058 009C+8007305C 009D+80073060 009E+80073064 009F+3007340D 0064"
+cheat16_enable = false
+
+cheat17_desc = "#BULLET全部"
+cheat17_code = "80073068 00A0+8007306A 01F4+8007306C 00A1+8007306E 01F4+80073070 00A2+80073072 01F4+80073074 00A6+80073076 01F4+80073078 00AF+8007307A 0320+8007307C 00A7+8007307E 01F4+80073080 00A9+80073082 0064+80073084 00AA+80073086 0064+80073088 00AB+8007308A 0064+8007308C 00AC+8007308E 00C8+80073090 00AD+80073092 00C8+80073094 00AE+80073096 00C8"
+cheat17_enable = false
+
+cheat18_desc = "#体验最大值"
+cheat18_code = "80074878 423F+8007487A 000F"
+cheat18_enable = false
+
+cheat19_desc = "#Aya的连衣裙没有毛衣和牛仔裤"
+cheat19_code = "30074896 0000"
+cheat19_enable = false
+
+cheat20_desc = "#Aya皮革外套和牛仔裤的连衣裙"
+cheat20_code = "30074896 0001"
+cheat20_enable = false
+
+cheat21_desc = "#Aya突击大衣和紧身裙连衣裙"
+cheat21_code = "30074896 0002"
+cheat21_enable = false
+
+

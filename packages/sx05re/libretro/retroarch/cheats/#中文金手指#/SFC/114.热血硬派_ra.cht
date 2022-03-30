@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[血槽]锁"
+cheat0_code = "7E010E40"
+cheat0_enable = false
+
+cheat1_desc = "[一击杀敌]锁"
+cheat1_code = "7E12A800+7E12A900+7E12AA00+7E12AB00+7E12AC00+7E12B300"
+cheat1_enable = false
+
+cheat2_desc = "[不遇敌]锁"
+cheat2_code = "7E122A00"
+cheat2_enable = false
+
+cheat3_desc = "[大量经验]ON"
+cheat3_code = "7E0108FF+7E0109FF"
+cheat3_enable = false
+
+cheat4_desc = "[强属性]ON"
+cheat4_code = "7E0104FF+7E010500+7E0106FF+7E010700+7E0110FF+7E011100+7E0112FF+7E011300+7E0114FF+7E011500+7E011AFF"
+cheat4_enable = false
+

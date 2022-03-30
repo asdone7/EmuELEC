@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[无敌]ON"
+cheat0_code = "0070:01+0071:06"
+cheat0_enable = false
+
+cheat1_desc = "[子弹]ON"
+cheat1_code = "06C0:01+06C1:40"
+cheat1_enable = false
+

@@ -1,0 +1,71 @@
+cheats = 17
+
+cheat0_desc = "#Arcade Mode \\ P1无限能量"
+cheat0_code = "300AAAB6 008C"
+cheat0_enable = false
+
+cheat1_desc = "#Arcade Mode \\ P1无限能量"
+cheat1_code = "300AC342 008C"
+cheat1_enable = false
+
+cheat2_desc = "#Arcade Mode \\ P1 No Energy"
+cheat2_code = "800AAAB6 0000"
+cheat2_enable = false
+
+cheat3_desc = "#Arcade Mode \\ P2 No Energy"
+cheat3_code = "800AC342 0000"
+cheat3_enable = false
+
+cheat4_desc = "#Arcade模式\\大多数角色包括其他服装"
+cheat4_code = "800992C8 FFFF+800992CA 001F+800992CE 0005"
+cheat4_enable = false
+
+cheat5_desc = "#Arcade Mode \\ Enable Tiger。您需要进入角色选择屏幕中的Eddy，然后按开始按钮才能使用Tiger。"
+cheat5_code = "800992CC 0382"
+cheat5_enable = false
+
+cheat6_desc = "#Arcade模式\\总时间"
+cheat6_code = "800B0F4C 0000"
+cheat6_enable = false
+
+cheat7_desc = "#Arcade模式\\启用剧院模式"
+cheat7_code = "300992FE 0003"
+cheat7_enable = false
+
+cheat8_desc = "#Arcade Mode \\在剧院模式下启用所有电影"
+cheat8_code = "800992D0 FFFF+800992D2 FFFF+800992D4 FFFF"
+cheat8_enable = false
+
+cheat9_desc = "#Arcade Mode \\ Enable Tekken Ball Mode"
+cheat9_code = "300992FF 0003"
+cheat9_enable = false
+
+cheat10_desc = "#Arcade模式\\无限时间选择角色"
+cheat10_code = "80119D0C 0713"
+cheat10_enable = false
+
+cheat11_desc = "#Tekken Force Mode \\ Infinite Hp"
+cheat11_code = "300AAAB6 008C"
+cheat11_enable = false
+
+cheat12_desc = "#铁拳部队模式\\没有健康敌人"
+cheat12_code = "800AC342 0000+800ADBCE 0000"
+cheat12_enable = false
+
+cheat13_desc = "#铁拳部队模式\\无限时间"
+cheat13_code = "800AF064 FFFF"
+cheat13_enable = false
+
+cheat14_desc = "#Tekken强制模式\\具有所有键"
+cheat14_code = "800992F0 0103"
+cheat14_enable = false
+
+cheat15_desc = "#Tekken Force Mode \\有趣的开启，它将在第二次开启时生效"
+cheat15_code = "300992F8 0002"
+cheat15_enable = false
+
+cheat16_desc = "#Tekken Force Mode \\ Warp进入最后阶段"
+cheat16_code = "800B0F44 0009"
+cheat16_enable = false
+
+

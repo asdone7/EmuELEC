@@ -1,0 +1,67 @@
+cheats = 16
+
+cheat0_desc = "属性"
+cheat0_code = "02000690 000000E7+02000691 00000003+02000692 000000E7+02000693 00000003+02000694 000000E7+02000695 00000003+02000696 000000E7+02000697 00000003+02000698 000000E7+02000699 00000003+0200069A 000000E7+0200069B 00000003+0200069E 000000E7+0200069F 00000003"
+cheat0_enable = false
+
+cheat1_desc = "钱"
+cheat1_code = "020006DC 0000000F+020006DD 00000027"
+cheat1_enable = false
+
+cheat2_desc = "经验值"
+cheat2_code = "020006E4 00000060+020006E5 000000EA"
+cheat2_enable = false
+
+cheat3_desc = "无敌"
+cheat3_code = "020177C8 000000C8"
+cheat3_enable = false
+
+cheat4_desc = "金钱"
+cheat4_code = "020006DC 0000009F+020006DD 00000086+020006DE 00000001"
+cheat4_enable = false
+
+cheat5_desc = "体力"
+cheat5_code = "02000690 000000E7+02000691 00000003"
+cheat5_enable = false
+
+cheat6_desc = "气力"
+cheat6_code = "02000692 000000E7+02000693 00000003"
+cheat6_enable = false
+
+cheat7_desc = "攻击"
+cheat7_code = "02000698 000000E7+02000699 00000003"
+cheat7_enable = false
+
+cheat8_desc = "防御"
+cheat8_code = "0200069A 000000E7+0200069B 00000003"
+cheat8_enable = false
+
+cheat9_desc = "脚力"
+cheat9_code = "0200069E 000000E7+0200069F 00000003"
+cheat9_enable = false
+
+cheat10_desc = "经验"
+cheat10_code = "020006E4 00000080+020006E5 00000084+020006E6 0000001E"
+cheat10_enable = false
+
+cheat11_desc = "全装备"
+cheat11_code = "0200070C 000000FF+0200070D 000000FF+0200070E 000000FF+0200070F 000000FF+02000710 000000FF+02000711 000000FF+02000712 000000FF+02000713 000000FF+02000714 000000FF+02000715 000000FF+02000716 000000FF+02000717 000000FF+02000718 000000FF+02000719 000000FF+0200071A 000000FF+0200071B 000000FF+0200071C 000000FF+0200071D 000000FF+0200071E 000000FF+0200071F 000000FF"
+cheat11_enable = false
+
+cheat12_desc = "全图鉴"
+cheat12_code = "0200077A 000000FF"
+cheat12_enable = false
+
+cheat13_desc = "战斗体力"
+cheat13_code = "02000694 000000E7+02000695 00000003"
+cheat13_enable = false
+
+cheat14_desc = "战斗气力"
+cheat14_code = "02000696 000000E7+02000697 00000003"
+cheat14_enable = false
+
+cheat15_desc = "战斗隐身"
+cheat15_code = "020177C8 000000FF"
+cheat15_enable = false
+
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[无敌状态]ON"
+cheat0_code = "0057:57"
+cheat0_enable = false
+
+cheat1_desc = "[翅膀]on"
+cheat1_code = "009E:01"
+cheat1_enable = false
+

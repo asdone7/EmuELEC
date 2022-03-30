@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[主角无限移动]ON"
+cheat0_code = "0FC0:00"
+cheat0_enable = false
+
+cheat1_desc = "[主角等级]ON"
+cheat1_code = "12FA:01"
+cheat1_enable = false
+
+cheat2_desc = "[主角经验]ON"
+cheat2_code = "0FB2:FF"
+cheat2_enable = false
+

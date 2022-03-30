@@ -1,0 +1,19 @@
+cheats = 4
+
+cheat0_desc = "#所有活动阶段均已解锁"
+cheat0_code = "50000C04 0000+800165B8 0003"
+cheat0_enable = false
+
+cheat1_desc = "#所有活动-金牌"
+cheat1_code = "50000C04 0000+80016D64 0006"
+cheat1_enable = false
+
+cheat2_desc = "#所有培训完成"
+cheat2_code = "50007E02 0000+800165E8 6464"
+cheat2_enable = false
+
+cheat3_desc = "#解锁街机传奇难度"
+cheat3_code = "300A0ADC 0003"
+cheat3_enable = false
+
+

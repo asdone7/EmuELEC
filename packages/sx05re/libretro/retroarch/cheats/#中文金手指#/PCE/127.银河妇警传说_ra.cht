@@ -1,0 +1,38 @@
+cheats = 9
+
+cheat0_desc = "[选关]STAGE 5"
+cheat0_code = "1F069C:04"
+cheat0_enable = false
+
+cheat1_desc = "[选关]STAGE 4"
+cheat1_code = "1F069C:03"
+cheat1_enable = false
+
+cheat2_desc = "[选关]STAGE 3"
+cheat2_code = "1F069C:02"
+cheat2_enable = false
+
+cheat3_desc = "[选关]STAGE 2"
+cheat3_code = "1F069C:01"
+cheat3_enable = false
+
+cheat4_desc = "[选关]STAGE 1"
+cheat4_code = "1F069C:00"
+cheat4_enable = false
+
+cheat5_desc = "[credits]ON"
+cheat5_code = "1F06BC:63+1F06BD:63"
+cheat5_enable = false
+
+cheat6_desc = "[LEVEL]hard"
+cheat6_code = "1F0699:02"
+cheat6_enable = false
+
+cheat7_desc = "[LEVEL]normal"
+cheat7_code = "1F0699:01"
+cheat7_enable = false
+
+cheat8_desc = "[LEVEL]easy"
+cheat8_code = "1F0699:00"
+cheat8_enable = false
+

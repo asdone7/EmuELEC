@@ -1,0 +1,74 @@
+cheats = 18
+
+cheat0_desc = "[体力无限]ON"
+cheat0_code = "0034:28+0035:16+0068:00"
+cheat0_enable = false
+
+cheat1_desc = "[命无限]ON"
+cheat1_code = "040B:09"
+cheat1_enable = false
+
+cheat2_desc = "[半透明]ON"
+cheat2_code = "0068:C0+0069:3B"
+cheat2_enable = false
+
+cheat3_desc = "[道具全满]ON"
+cheat3_code = "008F:FF+0090:03+00BB:99+00BC:99+00BD:99+00BE:99+00BF:99"
+cheat3_enable = false
+
+cheat4_desc = "[时间无限]ON"
+cheat4_code = "0094:A4+0095:A9"
+cheat4_enable = false
+
+cheat5_desc = "[强化]武器威力"
+cheat5_code = "0065:02"
+cheat5_enable = false
+
+cheat6_desc = "[强化]回力镖"
+cheat6_code = "0065:08"
+cheat6_enable = false
+
+cheat7_desc = "[强化]加高跳+武器威力"
+cheat7_code = "0065:82"
+cheat7_enable = false
+
+cheat8_desc = "[强化]加高跳+回力镖"
+cheat8_code = "0065:88"
+cheat8_enable = false
+
+cheat9_desc = "[强化]盾+武器威力"
+cheat9_code = "0016:19+0065:12"
+cheat9_enable = false
+
+cheat10_desc = "[强化]盾+回力镖"
+cheat10_code = "0016:19+0065:18"
+cheat10_enable = false
+
+cheat11_desc = "[强化]加高跳+盾+武器威力"
+cheat11_code = "0016:19+0065:92"
+cheat11_enable = false
+
+cheat12_desc = "[强化]加高跳+盾+回力镖"
+cheat12_code = "0016:19+0065:98"
+cheat12_enable = false
+
+cheat13_desc = "[强化]面具+武器威力（游泳）"
+cheat13_code = "0016:0C+0065:22"
+cheat13_enable = false
+
+cheat14_desc = "[强化]面具+回力镖（游泳）"
+cheat14_code = "0016:0C+0065:28"
+cheat14_enable = false
+
+cheat15_desc = "[特殊(激活后关闭)]飞行"
+cheat15_code = "0062:0F"
+cheat15_enable = false
+
+cheat16_desc = "[特殊(激活后关闭)]游泳"
+cheat16_code = "0062:11"
+cheat16_enable = false
+
+cheat17_desc = "[特殊(激活后关闭)]OFF"
+cheat17_code = "0062:00"
+cheat17_enable = false
+

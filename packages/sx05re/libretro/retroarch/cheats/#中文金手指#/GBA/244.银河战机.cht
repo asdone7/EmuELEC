@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "血"
+cheat0_code = "02045CBE 00000004"
+cheat0_enable = false
+
+cheat1_desc = "炸弹数"
+cheat1_code = "02045D02 00000005"
+cheat1_enable = false
+
+cheat2_desc = "只数"
+cheat2_code = "02045CBB 00000009"
+cheat2_enable = false
+
+

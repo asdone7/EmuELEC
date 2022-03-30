@@ -1,0 +1,46 @@
+cheats = 11
+
+cheat0_desc = "[HP]ON"
+cheat0_code = "7E0D1680"
+cheat0_enable = false
+
+cheat1_desc = "[大炮弹]ON"
+cheat1_code = "7E2002FF+7E2003FF+7E200400"
+cheat1_enable = false
+
+cheat2_desc = "[燃烧弹]ON"
+cheat2_code = "7E2006FF+7E2007FF+7E200800"
+cheat2_enable = false
+
+cheat3_desc = "[子母弹]ON"
+cheat3_code = "7E200AFF+7E200BFF+7E200C00"
+cheat3_enable = false
+
+cheat4_desc = "[炸弹]ON"
+cheat4_code = "7E200EFF+7E200FFF+7E201000"
+cheat4_enable = false
+
+cheat5_desc = "[大炸弹]ON"
+cheat5_code = "7E2012FF+7E2013FF+7E201400"
+cheat5_enable = false
+
+cheat6_desc = "[CF弹数]ON"
+cheat6_code = "7E2016FF+7E2017FF+7E201800"
+cheat6_enable = false
+
+cheat7_desc = "[梯子]ON"
+cheat7_code = "7E201AFF+7E201BFF"
+cheat7_enable = false
+
+cheat8_desc = "[白球]ON"
+cheat8_code = "7E201EFF+7E201FFF+7E202000"
+cheat8_enable = false
+
+cheat9_desc = "[导弹]ON"
+cheat9_code = "7E2022FF+7E2023FF+7E202400"
+cheat9_enable = false
+
+cheat10_desc = "[架数]ON"
+cheat10_code = "7E01FB09"
+cheat10_enable = false
+

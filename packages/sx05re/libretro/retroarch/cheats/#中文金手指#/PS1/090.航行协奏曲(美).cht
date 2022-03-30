@@ -1,0 +1,39 @@
+cheats = 9
+
+cheat0_desc = "#无限能量机器人"
+cheat0_code = "800CD742 012C"
+cheat0_enable = false
+
+cheat1_desc = "#无限健康"
+cheat1_code = "800CD744 0064"
+cheat1_enable = false
+
+cheat2_desc = "#无敌"
+cheat2_code = "800CD756 0025"
+cheat2_enable = false
+
+cheat3_desc = "#停止计时器"
+cheat3_code = "800D42E8 0000"
+cheat3_enable = false
+
+cheat4_desc = "#时间00:00:00"
+cheat4_code = "800D42E8 0000+800D42EA 0000"
+cheat4_enable = false
+
+cheat5_desc = "#Max Whistles"
+cheat5_code = "300D42CB 0063"
+cheat5_enable = false
+
+cheat6_desc = "#带有黑烟的无限喷气背包燃料LocoGamer@aol.com"
+cheat6_code = "800CD742 FFFF"
+cheat6_enable = false
+
+cheat7_desc = "#打开所有图片"
+cheat7_code = "50000F01 0000+300D4288 000F"
+cheat7_enable = false
+
+cheat8_desc = "#Open Bonus Pictures / Movies /＆在游戏结束时！"
+cheat8_code = "50003301 0000+300D4297 00FF"
+cheat8_enable = false
+
+

@@ -1,0 +1,23 @@
+cheats = 5
+
+cheat0_desc = "#无限能量P1"
+cheat0_code = "801E997E 008C"
+cheat0_enable = false
+
+cheat1_desc = "#无限能量P2"
+cheat1_code = "801E9B1E 008C"
+cheat1_enable = false
+
+cheat2_desc = "#无限炸弹P1"
+cheat2_code = "801EBC8C 0003"
+cheat2_enable = false
+
+cheat3_desc = "#无限炸弹P2"
+cheat3_code = "801EC32C 0003"
+cheat3_enable = false
+
+cheat4_desc = "#Invincible“ P1＆2"
+cheat4_code = "80017FE6 1000"
+cheat4_enable = false
+
+

@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "08D3:FF+08D4:E0+08D5:F5+08D6:05"
+cheat0_enable = false
+

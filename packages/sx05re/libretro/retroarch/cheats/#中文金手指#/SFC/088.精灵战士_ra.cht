@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[生命数锁定]ON"
+cheat0_code = "7E1ABBE09"
+cheat0_enable = false
+
+cheat1_desc = "[装甲能量值锁定]ON"
+cheat1_code = "7E1ABC090"
+cheat1_enable = false
+
+cheat2_desc = "[武器等级最高锁定]ON"
+cheat2_code = "7E1ABC203"
+cheat2_enable = false
+

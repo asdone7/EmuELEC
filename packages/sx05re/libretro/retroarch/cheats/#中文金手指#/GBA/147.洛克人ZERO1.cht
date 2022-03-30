@@ -1,0 +1,39 @@
+cheats = 9
+
+cheat0_desc = "隐身"
+cheat0_code = "0202B634 00000064"
+cheat0_enable = false
+
+cheat1_desc = "无限接关"
+cheat1_code = "0202A5D0 00000005+E水晶+0202B79E 0000000F"
+cheat1_enable = false
+
+cheat2_desc = "HP"
+cheat2_code = "0202B62C 0000002C"
+cheat2_enable = false
+
+cheat3_desc = "无敌"
+cheat3_code = "0202B634 0000000A"
+cheat3_enable = false
+
+cheat4_desc = "全妖精入手"
+cheat4_code = "0202B744 000000FE"
+cheat4_enable = false
+
+cheat5_desc = "妖精次数无限"
+cheat5_code = "0202B758 00000000+0202B759 00000000+0202B75A 00000000+0202B75B 00000000+0202B75C 00000000+0202B75D 00000000+0202B75E 00000000"
+cheat5_enable = false
+
+cheat6_desc = "杀敌数"
+cheat6_code = "02022B2C 000000FF+BOSS一击必杀(对某些BOSS无效)+0202CC3C 00000001"
+cheat6_enable = false
+
+cheat7_desc = "持有全道具"
+cheat7_code = "0202B728 0000000F+0202B729 0000000F+0202B71B 00000004"
+cheat7_enable = false
+
+cheat8_desc = "武器LV金手指"
+cheat8_code = "0202B734 00000003+0202B735 00000006+0202B736 00000004+0202B737 00000002"
+cheat8_enable = false
+
+

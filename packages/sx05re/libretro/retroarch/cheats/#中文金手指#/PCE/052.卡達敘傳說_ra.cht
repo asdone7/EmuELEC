@@ -1,0 +1,38 @@
+cheats = 9
+
+cheat0_desc = "[Argent Infini]On"
+cheat0_code = "1F1C01:FF+1F1C02:FF"
+cheat0_enable = false
+
+cheat1_desc = "[Niveau 20 J1]On"
+cheat1_code = "1F1BFE:FF"
+cheat1_enable = false
+
+cheat2_desc = "[Energie Infinie J1]On"
+cheat2_code = "1F1BF7:C8"
+cheat2_enable = false
+
+cheat3_desc = "[Invincible J1]On"
+cheat3_code = "1F0A04:45"
+cheat3_enable = false
+
+cheat4_desc = "[Magie Infinie J1]On"
+cheat4_code = "1F1BFB:82"
+cheat4_enable = false
+
+cheat5_desc = "[Niveau 20 J2]On"
+cheat5_code = "1F1C00:FF"
+cheat5_enable = false
+
+cheat6_desc = "[Energie Infinie J2]On"
+cheat6_code = "1F1BF8:C8"
+cheat6_enable = false
+
+cheat7_desc = "[Invincible J2]On"
+cheat7_code = "1F0A0C:45"
+cheat7_enable = false
+
+cheat8_desc = "[Magie Infinie J2]On"
+cheat8_code = "1F1BFC:82"
+cheat8_enable = false
+

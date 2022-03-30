@@ -1,0 +1,19 @@
+cheats = 4
+
+cheat0_desc = "子弹"
+cheat0_code = "020463A0 00000009+020463A2 00000063"
+cheat0_enable = false
+
+cheat1_desc = "手雷"
+cheat1_code = "020463A4 00000009+020463A6 00000063"
+cheat1_enable = false
+
+cheat2_desc = "杀敌数"
+cheat2_code = "02045C44 00000063"
+cheat2_enable = false
+
+cheat3_desc = "生命值"
+cheat3_code = "02042667 00000008"
+cheat3_enable = false
+
+

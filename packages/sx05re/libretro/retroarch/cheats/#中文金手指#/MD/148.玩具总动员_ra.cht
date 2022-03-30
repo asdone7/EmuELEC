@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[生命数]MAX"
+cheat0_code = "FF04A0:05"
+cheat0_enable = false
+
+cheat1_desc = "[体力值]MAX"
+cheat1_code = "FF04A2:04+FF04A5:40+FF04A7:40"
+cheat1_enable = false
+
+cheat2_desc = "[电动车能源（某些关卡有用）]MAX"
+cheat2_code = "FF0C04:28+FF0C06:07"
+cheat2_enable = false
+
+cheat3_desc = "[游戏时间（某些关卡有用）]MAX"
+cheat3_code = "FF0B0C:80+FF0B0D:02+FF0B0E:00+FF0B0F:00"
+cheat3_enable = false
+

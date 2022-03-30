@@ -1,0 +1,15 @@
+cheats = 3
+
+cheat0_desc = "#无限HP主要角色"
+cheat0_code = "801C2D0C 03E7+801C2D10 03E7"
+cheat0_enable = false
+
+cheat1_desc = "#无限HP第二个角色"
+cheat1_code = "801C30A8 03E7+801C30AC 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#最大金钱"
+cheat2_code = "800EC400 423F+800EC402 000F"
+cheat2_enable = false
+
+

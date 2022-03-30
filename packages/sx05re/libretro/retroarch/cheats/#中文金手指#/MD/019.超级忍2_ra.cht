@@ -1,0 +1,22 @@
+cheats = 5
+
+cheat0_desc = "[生命数]ON"
+cheat0_code = "FF37E1:09"
+cheat0_enable = false
+
+cheat1_desc = "[飞镖数]ON"
+cheat1_code = "FF37E2:E7+FF37E3:03"
+cheat1_enable = false
+
+cheat2_desc = "[体力格]ON"
+cheat2_code = "FF37E8:10"
+cheat2_enable = false
+
+cheat3_desc = "[无限特殊项]ON"
+cheat3_code = "FF37E7:09"
+cheat3_enable = false
+
+cheat4_desc = "[无限防护体]ON"
+cheat4_code = "FF415E:04"
+cheat4_enable = false
+

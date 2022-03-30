@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[hp]ON"
+cheat0_code = "7E1F3A05"
+cheat0_enable = false
+
+cheat1_desc = "[ming]ON"
+cheat1_code = "7E1F3807"
+cheat1_enable = false
+

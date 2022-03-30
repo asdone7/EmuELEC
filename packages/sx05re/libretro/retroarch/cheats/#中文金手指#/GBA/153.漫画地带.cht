@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "HP不减"
+cheat0_code = "020022B4 00000063"
+cheat0_enable = false
+
+

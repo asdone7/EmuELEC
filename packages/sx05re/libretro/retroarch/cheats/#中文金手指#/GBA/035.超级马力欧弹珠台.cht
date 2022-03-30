@@ -1,0 +1,95 @@
+cheats = 23
+
+cheat0_desc = "人数"
+cheat0_code = "02040000 00000063"
+cheat0_enable = false
+
+cheat1_desc = "星星"
+cheat1_code = "02040014 00000023"
+cheat1_enable = false
+
+cheat2_desc = "积分"
+cheat2_code = "02040004 000000FF+02040005 000000E0+02040006 000000F5+02040007 00000005"
+cheat2_enable = false
+
+cheat3_desc = "金色货币"
+cheat3_code = "02040008 000000E7+02040009 00000003"
+cheat3_enable = false
+
+cheat4_desc = "蓝色货币"
+cheat4_code = "0204000C 00000063"
+cheat4_enable = false
+
+cheat5_desc = "铁管时间"
+cheat5_code = "020401EA 00000030+020401EB 00000075"
+cheat5_enable = false
+
+cheat6_desc = "小游戏时间"
+cheat6_code = "02045A10 00000008+02045A11 00000007"
+cheat6_enable = false
+
+cheat7_desc = "红宝石时间"
+cheat7_code = "02040188 00000080+02040189 00000016"
+cheat7_enable = false
+
+cheat8_desc = "道具选择 蘑菇，球变大"
+cheat8_code = "0204002C 00000000"
+cheat8_enable = false
+
+cheat9_desc = "道具选择 蛋，增加一个球"
+cheat9_code = "0204002C 00000001"
+cheat9_enable = false
+
+cheat10_desc = "道具选择 水管，挡住出口"
+cheat10_code = "0204002C 00000002"
+cheat10_enable = false
+
+cheat11_desc = "道具选择 星星，球无敌"
+cheat11_code = "0204002C 00000003"
+cheat11_enable = false
+
+cheat12_desc = "道具选择 小蘑菇，球缩小"
+cheat12_code = "0204002C 00000004"
+cheat12_enable = false
+
+cheat13_desc = "道具选择 闪电，瞬间消灭所有敌人"
+cheat13_code = "0204002C 00000005"
+cheat13_enable = false
+
+cheat14_desc = "道具选择 蘑菇x2，球变大，2次机会"
+cheat14_code = "0204002C 00000006"
+cheat14_enable = false
+
+cheat15_desc = "道具选择 蛋X2，增加一个球，2次机会"
+cheat15_code = "0204002C 00000007"
+cheat15_enable = false
+
+cheat16_desc = "道具选择 水管X2，挡住出口，2次机会"
+cheat16_code = "0204002C 00000008"
+cheat16_enable = false
+
+cheat17_desc = "道具选择 星星X2，球无敌，2次机会"
+cheat17_code = "0204002C 00000009"
+cheat17_enable = false
+
+cheat18_desc = "道具选择 小蘑菇X2，球缩小，2次机会"
+cheat18_code = "0204002C 0000000A"
+cheat18_enable = false
+
+cheat19_desc = "道具选择 闪电X2，瞬间消灭所有敌人，2次机会"
+cheat19_code = "0204002C 0000000B"
+cheat19_enable = false
+
+cheat20_desc = "道具选择 抛出蛋，且球变大"
+cheat20_code = "0204002C 0000000C"
+cheat20_enable = false
+
+cheat21_desc = "挑战模式开启"
+cheat21_code = "02046368 00000001+02046369 00000001+0204636A 00000001+0204636B 00000001+0204636C 00000001+BOSS一击死(勿锁) 娱乐园+02040594 00000002+BOSS一击死(勿锁) 风车关+02042EB8 00000002+BOSS一击死(勿锁) 雪地关+0204089C 00000002+BOSS一击死(勿锁) 金字塔+0204274C 00000002+BOSS一击死(勿锁) 城堡关+02040644 00000002"
+cheat21_enable = false
+
+cheat22_desc = "全收集"
+cheat22_code = "02040038 00000004+02040040 00000004+02040044 00000004+02040048 00000004+02040050 00000014+02040054 00000005+0204005C 00000016+02040060 00000004+0204006C 00000004+02040070 00000025+02040074 00000004+0204007C 00000007+02040080 00000004+02040084 00000004+02040088 00000004+0204008C 00000004+02040090 00000004+02040094 00000006+02040098 00000004+0204009C 00000004+020400A0 00000005+020400A4 00000005+020400AC 00000004+020400B0 00000005+020400B8 00000005+020400BC 00000006+020400C0 00000004+020400C4 00000005+020400C8 00000005+020400CC 00000005+020400D4 00000005+020400D8 000000C7+020400DC 000000C7+020400E4 000000C7+020400E8 000000C7+02040128 00000001+0204012C 00000001+02040134 00000001+02040138 00000001"
+cheat22_enable = false
+
+

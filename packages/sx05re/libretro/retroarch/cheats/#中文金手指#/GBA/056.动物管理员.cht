@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "时间"
+cheat0_code = "020438DD 00000078+020438DE 00000002+020438E6 00000000"
+cheat0_enable = false
+
+

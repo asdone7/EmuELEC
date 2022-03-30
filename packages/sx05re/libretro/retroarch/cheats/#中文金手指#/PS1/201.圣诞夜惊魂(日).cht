@@ -1,0 +1,71 @@
+cheats = 17
+
+cheat0_desc = "#SPEED始终120km / h按R1"
+cheat0_code = "D009AAFE 0008+800A367A 4140"
+cheat0_enable = false
+
+cheat1_desc = "#SPEED始终120km / h"
+cheat1_code = "800A367A 4140"
+cheat1_enable = false
+
+cheat2_desc = "#满载汽油"
+cheat2_code = "300A3658 0078"
+cheat2_enable = false
+
+cheat3_desc = "#不减少汽油"
+cheat3_code = "D0108718 FFFF+80108718 0000"
+cheat3_enable = false
+
+cheat4_desc = "#它不会增加更多的睡眠时间"
+cheat4_code = "D0025110 0321+80025110 0000+D0025112 A385+80025110 0000"
+cheat4_enable = false
+
+cheat5_desc = "#所有地图"
+cheat5_code = "300A34EF 00FF"
+cheat5_enable = false
+
+cheat6_desc = "#组织者/角色"
+cheat6_code = "300A350F 00FF"
+cheat6_enable = false
+
+cheat7_desc = "#组织者/电话号码"
+cheat7_code = "300A350F 00FF"
+cheat7_enable = false
+
+cheat8_desc = "#无限战斗力玩家"
+cheat8_code = "300A3774 0078"
+cheat8_enable = false
+
+cheat9_desc = "#战斗力量敌人0"
+cheat9_code = "300A3776 0000"
+cheat9_enable = false
+
+cheat10_desc = "#战斗/敌人和熊的伤害次数"
+cheat10_code = "30107854 0009"
+cheat10_enable = false
+
+cheat11_desc = "#战斗/熊的身体健康"
+cheat11_code = "30107857 0064"
+cheat11_enable = false
+
+cheat12_desc = "#战斗/耐力计和熊"
+cheat12_code = "30107858 0064"
+cheat12_enable = false
+
+cheat13_desc = "#战斗/熊没有身体健康"
+cheat13_code = "30107857 0000"
+cheat13_enable = false
+
+cheat14_desc = "#战斗/没有耐力计和熊"
+cheat14_code = "30107858 0000"
+cheat14_enable = false
+
+cheat15_desc = "#战斗/子弹和熊的数量"
+cheat15_code = "300A36D8 0007"
+cheat15_enable = false
+
+cheat16_desc = "#DaY 7游戏结束"
+cheat16_code = "300A373C 0007"
+cheat16_enable = false
+
+

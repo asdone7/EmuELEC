@@ -1,0 +1,1274 @@
+cheats = 318
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "7E760610+7E760727"
+cheat0_enable = false
+
+cheat1_desc = "[刘备经验值]ON"
+cheat1_code = "7E202D63"
+cheat1_enable = false
+
+cheat2_desc = "[关羽经验值]ON"
+cheat2_code = "7E205863"
+cheat2_enable = false
+
+cheat3_desc = "[张飞经验值]ON"
+cheat3_code = "7E208363"
+cheat3_enable = false
+
+cheat4_desc = "[赵云经验值]ON"
+cheat4_code = "7E291463"
+cheat4_enable = false
+
+cheat5_desc = "[简雍经验值]ON"
+cheat5_code = "7E2DF363"
+cheat5_enable = false
+
+cheat6_desc = "[潘宫经验值]ON"
+cheat6_code = "7E452163"
+cheat6_enable = false
+
+cheat7_desc = "[耿武经验值]ON"
+cheat7_code = "7E29C063"
+cheat7_enable = false
+
+cheat8_desc = "[关纯经验值]ON"
+cheat8_code = "7E29EB63"
+cheat8_enable = false
+
+cheat9_desc = "[孙干经验值]ON"
+cheat9_code = "7E2AC263"
+cheat9_enable = false
+
+cheat10_desc = "[李明经验值]ON"
+cheat10_code = "7E5F2A63"
+cheat10_enable = false
+
+cheat11_desc = "[董梁经验值]ON"
+cheat11_code = "7E467A63"
+cheat11_enable = false
+
+cheat12_desc = "[赵何经验值]ON"
+cheat12_code = "7E45A263"
+cheat12_enable = false
+
+cheat13_desc = "[糜芳经验值]ON"
+cheat13_code = "7E2DC863"
+cheat13_enable = false
+
+cheat14_desc = "[糜竺经验值]ON"
+cheat14_code = "7E2AED63"
+cheat14_enable = false
+
+cheat15_desc = "[关平经验值]ON"
+cheat15_code = "7E358263"
+cheat15_enable = false
+
+cheat16_desc = "[周仓经验值]ON"
+cheat16_code = "7E3A0B63"
+cheat16_enable = false
+
+cheat17_desc = "[刘辟经验值]ON"
+cheat17_code = "7E49AA63"
+cheat17_enable = false
+
+cheat18_desc = "[伊藉经验值]ON"
+cheat18_code = "7E332863"
+cheat18_enable = false
+
+cheat19_desc = "[徐庶经验值]ON"
+cheat19_code = "7E32D263"
+cheat19_enable = false
+
+cheat20_desc = "[马谡经验值]ON"
+cheat20_code = "7E253763"
+cheat20_enable = false
+
+cheat21_desc = "[马良经验值]ON"
+cheat21_code = "7E3D6763"
+cheat21_enable = false
+
+cheat22_desc = "[魏延经验值]ON"
+cheat22_code = "7E355763"
+cheat22_enable = false
+
+cheat23_desc = "[黄忠经验值]ON"
+cheat23_code = "7E3C9063"
+cheat23_enable = false
+
+cheat24_desc = "[蒋琬经验值]ON"
+cheat24_code = "7E5F8063"
+cheat24_enable = false
+
+cheat25_desc = "[费铱经验值]ON"
+cheat25_code = "7E5FAB63"
+cheat25_enable = false
+
+cheat26_desc = "[庞统经验值]ON"
+cheat26_code = "7E365963"
+cheat26_enable = false
+
+cheat27_desc = "[法正经验值]ON"
+cheat27_code = "7E3F9663"
+cheat27_enable = false
+
+cheat28_desc = "[严颜经验值]ON"
+cheat28_code = "7E421B63"
+cheat28_enable = false
+
+cheat29_desc = "[吴兰经验值]ON"
+cheat29_code = "7E41C563"
+cheat29_enable = false
+
+cheat30_desc = "[李严经验值]ON"
+cheat30_code = "7E4AAC63"
+cheat30_enable = false
+
+cheat31_desc = "[吴懿经验值]ON"
+cheat31_code = "7E419A63"
+cheat31_enable = false
+
+cheat32_desc = "[雷铜经验值]ON"
+cheat32_code = "7E41F063"
+cheat32_enable = false
+
+cheat33_desc = "[费观经验值]ON"
+cheat33_code = "7E4AD763"
+cheat33_enable = false
+
+cheat34_desc = "[马超经验值]ON"
+cheat34_code = "7E3FEC63"
+cheat34_enable = false
+
+cheat35_desc = "[马岱经验值]ON"
+cheat35_code = "7E424663"
+cheat35_enable = false
+
+cheat36_desc = "[吴班经验值]ON"
+cheat36_code = "7E2F4B63"
+cheat36_enable = false
+
+cheat37_desc = "[沙摩柯经验值]ON"
+cheat37_code = "7E25E363"
+cheat37_enable = false
+
+cheat38_desc = "[黄权经验值]ON"
+cheat38_code = "7E240A63"
+cheat38_enable = false
+
+cheat39_desc = "[孟达经验值]ON"
+cheat39_code = "7E401763"
+cheat39_enable = false
+
+cheat40_desc = "[霍峻经验值]ON"
+cheat40_code = "7E42F263"
+cheat40_enable = false
+
+cheat41_desc = "[陈式经验值]ON"
+cheat41_code = "7E431D63"
+cheat41_enable = false
+
+cheat42_desc = "[王平经验值]ON"
+cheat42_code = "7E4A5663"
+cheat42_enable = false
+
+cheat43_desc = "[赵累经验值]ON"
+cheat43_code = "7E268F63"
+cheat43_enable = false
+
+cheat44_desc = "[廖化经验值]ON"
+cheat44_code = "7E25B863"
+cheat44_enable = false
+
+cheat45_desc = "[王甫经验值]ON"
+cheat45_code = "7E266463"
+cheat45_enable = false
+
+cheat46_desc = "[刘禅经验值]ON"
+cheat46_code = "7E4A8163"
+cheat46_enable = false
+
+cheat47_desc = "[关兴经验值]ON"
+cheat47_code = "7E250C63"
+cheat47_enable = false
+
+cheat48_desc = "[张苞经验值]ON"
+cheat48_code = "7E276663"
+cheat48_enable = false
+
+cheat49_desc = "[丁奉经验值]ON"
+cheat49_code = "7E3BB963"
+cheat49_enable = false
+
+cheat50_desc = "[徐盛经验值]ON"
+cheat50_code = "7E3BE463"
+cheat50_enable = false
+
+cheat51_desc = "[张获经验值]ON"
+cheat51_code = "7E47A663"
+cheat51_enable = false
+
+cheat52_desc = "[程德经验值]ON"
+cheat52_code = "7E477B63"
+cheat52_enable = false
+
+cheat53_desc = "[高仓经验值]ON"
+cheat53_code = "7E47D163"
+cheat53_enable = false
+
+cheat54_desc = "[姜维经验值]ON"
+cheat54_code = "7E48FE63"
+cheat54_enable = false
+
+cheat55_desc = "[张辽经验值]ON"
+cheat55_code = "7E2D7263"
+cheat55_enable = false
+
+cheat56_desc = "[韩英经验值]ON"
+cheat56_code = "7E492963"
+cheat56_enable = false
+
+cheat57_desc = "[郭适经验值]ON"
+cheat57_code = "7E495463"
+cheat57_enable = false
+
+cheat58_desc = "[刘备武器防具]倚天剑(+7E8)"
+cheat58_code = "7E202E09+7E202F7B"
+cheat58_enable = false
+
+cheat59_desc = "[刘备武器防具]青讧剑(+7E9)"
+cheat59_code = "7E202E0A+7E202F7B"
+cheat59_enable = false
+
+cheat60_desc = "[刘备武器防具]七星剑(+7E7)"
+cheat60_code = "7E202E0B+7E202F7B"
+cheat60_enable = false
+
+cheat61_desc = "[刘备武器防具]青龙偃月刀(+7E8)"
+cheat61_code = "7E202E0C+7E202F7B"
+cheat61_enable = false
+
+cheat62_desc = "[刘备武器防具]三尖刀(+7E7)"
+cheat62_code = "7E202E0D+7E202F7B"
+cheat62_enable = false
+
+cheat63_desc = "[刘备武器防具]方天画戟(+7E9)"
+cheat63_code = "7E202E0E+7E202F7B"
+cheat63_enable = false
+
+cheat64_desc = "[刘备武器防具]蛇矛(+7E7)"
+cheat64_code = "7E202E0F+7E202F7B"
+cheat64_enable = false
+
+cheat65_desc = "[刘备武器防具]雌雄一对剑(+7E9)"
+cheat65_code = "7E202E39+7E202F7B"
+cheat65_enable = false
+
+cheat66_desc = "[刘备武器防具]英杰之剑(+7E10)"
+cheat66_code = "7E202E3A+7E202F7B"
+cheat66_enable = false
+
+cheat67_desc = "[刘备武器防具]霸者之剑(+7E10)"
+cheat67_code = "7E202E3B+7E202F7B"
+cheat67_enable = false
+
+cheat68_desc = "[刘备马匹]骏马(+7E1)"
+cheat68_code = "7E203074"
+cheat68_enable = false
+
+cheat69_desc = "[刘备马匹]爪黄飞电(+7E2)"
+cheat69_code = "7E203005"
+cheat69_enable = false
+
+cheat70_desc = "[刘备马匹]的卢(+7E2)"
+cheat70_code = "7E203006"
+cheat70_enable = false
+
+cheat71_desc = "[刘备马匹]赤兔马(+7E3)"
+cheat71_code = "7E203007"
+cheat71_enable = false
+
+cheat72_desc = "[刘备兵书]孙子兵法(+7E7)"
+cheat72_code = "7E203103"
+cheat72_enable = false
+
+cheat73_desc = "[刘备兵书]孟德新书(+7E6)"
+cheat73_code = "7E203104"
+cheat73_enable = false
+
+cheat74_desc = "[刘备兵书]六韬(+7E5)"
+cheat74_code = "7E20313C"
+cheat74_enable = false
+
+cheat75_desc = "[刘备兵书]三略(+7E5)"
+cheat75_code = "7E20313D"
+cheat75_enable = false
+
+cheat76_desc = "[刘备兵书]吴子兵法(+7E6)"
+cheat76_code = "7E20313E"
+cheat76_enable = false
+
+cheat77_desc = "[刘备辅助物品]玉玺(全回复)"
+cheat77_code = "7E203208"
+cheat77_enable = false
+
+cheat78_desc = "[刘备辅助物品]敕命书(MP回复)"
+cheat78_code = "7E203237"
+cheat78_enable = false
+
+cheat79_desc = "[刘备辅助物品]援军报告(HP回复)"
+cheat79_code = "7E203238"
+cheat79_enable = false
+
+cheat80_desc = "[刘备转职道具]ON"
+cheat80_code = "7E203313+7E203414"
+cheat80_enable = false
+
+cheat81_desc = "[关羽武器防具(白银甲)]倚天剑(+7E8)"
+cheat81_code = "7E205909+7E205A7B"
+cheat81_enable = false
+
+cheat82_desc = "[关羽武器防具(白银甲)]青讧剑(+7E9)"
+cheat82_code = "7E20590A+7E205A7B"
+cheat82_enable = false
+
+cheat83_desc = "[关羽武器防具(白银甲)]七星剑(+7E7)"
+cheat83_code = "7E20590B+7E205A7B"
+cheat83_enable = false
+
+cheat84_desc = "[关羽武器防具(白银甲)]青龙偃月刀(+7E8)"
+cheat84_code = "7E20590C+7E205A7B"
+cheat84_enable = false
+
+cheat85_desc = "[关羽武器防具(白银甲)]三尖刀(+7E7)"
+cheat85_code = "7E20590D+7E205A7B"
+cheat85_enable = false
+
+cheat86_desc = "[关羽武器防具(白银甲)]方天画戟(+7E9)"
+cheat86_code = "7E20590E+7E205A7B"
+cheat86_enable = false
+
+cheat87_desc = "[关羽武器防具(白银甲)]蛇矛(+7E7)"
+cheat87_code = "7E20590F+7E205A7B"
+cheat87_enable = false
+
+cheat88_desc = "[关羽武器防具(白银甲)]雌雄一对剑(+7E9)"
+cheat88_code = "7E205939+7E205A7B"
+cheat88_enable = false
+
+cheat89_desc = "[关羽武器防具(白银甲)]英杰之剑(+7E10)"
+cheat89_code = "7E20593A+7E205A7B"
+cheat89_enable = false
+
+cheat90_desc = "[关羽武器防具(白银甲)]霸者之剑(+7E10)"
+cheat90_code = "7E20593B+7E205A7B"
+cheat90_enable = false
+
+cheat91_desc = "[关羽马匹]骏马(+7E1)"
+cheat91_code = "7E205B74"
+cheat91_enable = false
+
+cheat92_desc = "[关羽马匹]爪黄飞电(+7E2)"
+cheat92_code = "7E205B05"
+cheat92_enable = false
+
+cheat93_desc = "[关羽马匹]的卢(+7E2)"
+cheat93_code = "7E205B06"
+cheat93_enable = false
+
+cheat94_desc = "[关羽马匹]赤兔马(+7E3)"
+cheat94_code = "7E205B07"
+cheat94_enable = false
+
+cheat95_desc = "[关羽兵书]孙子兵法(+7E7)"
+cheat95_code = "7E205C03"
+cheat95_enable = false
+
+cheat96_desc = "[关羽兵书]孟德新书(+7E6)"
+cheat96_code = "7E205C04"
+cheat96_enable = false
+
+cheat97_desc = "[关羽兵书]六韬(+7E5)"
+cheat97_code = "7E205C3C"
+cheat97_enable = false
+
+cheat98_desc = "[关羽兵书]三略(+7E5)"
+cheat98_code = "7E205C3D"
+cheat98_enable = false
+
+cheat99_desc = "[关羽兵书]吴子兵法(+7E6)"
+cheat99_code = "7E205C3E"
+cheat99_enable = false
+
+cheat100_desc = "[关羽辅助物品]玉玺(全回复)"
+cheat100_code = "7E205D08"
+cheat100_enable = false
+
+cheat101_desc = "[关羽辅助物品]敕命书(MP回复)"
+cheat101_code = "7E205D37"
+cheat101_enable = false
+
+cheat102_desc = "[关羽辅助物品]援军报告(HP回复)"
+cheat102_code = "7E205D38"
+cheat102_enable = false
+
+cheat103_desc = "[关羽转职道具]ON"
+cheat103_code = "7E205E17+7E205F18"
+cheat103_enable = false
+
+cheat104_desc = "[张飞武器防具]倚天剑(+7E8)"
+cheat104_code = "7E208409+7E20857B"
+cheat104_enable = false
+
+cheat105_desc = "[张飞武器防具]青讧剑(+7E9)"
+cheat105_code = "7E20840A+7E20857B"
+cheat105_enable = false
+
+cheat106_desc = "[张飞武器防具]七星剑(+7E7)"
+cheat106_code = "7E20840B+7E20857B"
+cheat106_enable = false
+
+cheat107_desc = "[张飞武器防具]青龙偃月刀(+7E8)"
+cheat107_code = "7E20840C+7E20857B"
+cheat107_enable = false
+
+cheat108_desc = "[张飞武器防具]三尖刀(+7E7)"
+cheat108_code = "7E20840D+7E20857B"
+cheat108_enable = false
+
+cheat109_desc = "[张飞武器防具]方天画戟(+7E9)"
+cheat109_code = "7E20840E+7E20857B"
+cheat109_enable = false
+
+cheat110_desc = "[张飞武器防具]蛇矛(+7E7)"
+cheat110_code = "7E20840F+7E20857B"
+cheat110_enable = false
+
+cheat111_desc = "[张飞武器防具]雌雄一对剑(+7E9)"
+cheat111_code = "7E208439+7E20857B"
+cheat111_enable = false
+
+cheat112_desc = "[张飞武器防具]英杰之剑(+7E10)"
+cheat112_code = "7E20843A+7E20857B"
+cheat112_enable = false
+
+cheat113_desc = "[张飞武器防具]霸者之剑(+7E10)"
+cheat113_code = "7E20843B+7E20857B"
+cheat113_enable = false
+
+cheat114_desc = "[张飞马匹]骏马(+7E1)"
+cheat114_code = "7E208674"
+cheat114_enable = false
+
+cheat115_desc = "[张飞马匹]爪黄飞电(+7E2)"
+cheat115_code = "7E208605"
+cheat115_enable = false
+
+cheat116_desc = "[张飞马匹]的卢(+7E2)"
+cheat116_code = "7E208606"
+cheat116_enable = false
+
+cheat117_desc = "[张飞马匹]赤兔马(+7E3)"
+cheat117_code = "7E208607"
+cheat117_enable = false
+
+cheat118_desc = "[张飞兵书]孙子兵法(+7E7)"
+cheat118_code = "7E208703"
+cheat118_enable = false
+
+cheat119_desc = "[张飞兵书]孟德新书(+7E6)"
+cheat119_code = "7E208704"
+cheat119_enable = false
+
+cheat120_desc = "[张飞兵书]六韬(+7E5)"
+cheat120_code = "7E20873C"
+cheat120_enable = false
+
+cheat121_desc = "[张飞兵书]三略(+7E5)"
+cheat121_code = "7E20873D"
+cheat121_enable = false
+
+cheat122_desc = "[张飞兵书]吴子兵法(+7E6)"
+cheat122_code = "7E20873E"
+cheat122_enable = false
+
+cheat123_desc = "[张飞辅助物品]玉玺(全回复)"
+cheat123_code = "7E208808"
+cheat123_enable = false
+
+cheat124_desc = "[张飞辅助物品]敕命书(MP回复)"
+cheat124_code = "7E208837"
+cheat124_enable = false
+
+cheat125_desc = "[张飞辅助物品]援军报告(HP回复)"
+cheat125_code = "7E208838"
+cheat125_enable = false
+
+cheat126_desc = "[张飞转职道具]骑兵"
+cheat126_code = "7E208917+7E208A18"
+cheat126_enable = false
+
+cheat127_desc = "[赵云武器防具]倚天剑(+7E8)"
+cheat127_code = "7E291509+7E29167B"
+cheat127_enable = false
+
+cheat128_desc = "[赵云武器防具]青讧剑(+7E9)"
+cheat128_code = "7E29150A+7E29167B"
+cheat128_enable = false
+
+cheat129_desc = "[赵云武器防具]七星剑(+7E7)"
+cheat129_code = "7E29150B+7E29167B"
+cheat129_enable = false
+
+cheat130_desc = "[赵云武器防具]青龙偃月刀(+7E8)"
+cheat130_code = "7E29150C+7E29167B"
+cheat130_enable = false
+
+cheat131_desc = "[赵云武器防具]三尖刀(+7E7)"
+cheat131_code = "7E29150D+7E29167B"
+cheat131_enable = false
+
+cheat132_desc = "[赵云武器防具]方天画戟(+7E9)"
+cheat132_code = "7E29150E+7E29167B"
+cheat132_enable = false
+
+cheat133_desc = "[赵云武器防具]蛇矛(+7E7)"
+cheat133_code = "7E29150F+7E29167B"
+cheat133_enable = false
+
+cheat134_desc = "[赵云武器防具]雌雄一对剑(+7E9)"
+cheat134_code = "7E291539+7E29167B"
+cheat134_enable = false
+
+cheat135_desc = "[赵云武器防具]英杰之剑(+7E10)"
+cheat135_code = "7E29153A+7E29167B"
+cheat135_enable = false
+
+cheat136_desc = "[赵云武器防具]霸者之剑(+7E10)"
+cheat136_code = "7E29153B+7E29167B"
+cheat136_enable = false
+
+cheat137_desc = "[赵云马匹]骏马(+7E1)"
+cheat137_code = "7E291774"
+cheat137_enable = false
+
+cheat138_desc = "[赵云马匹]爪黄飞电(+7E2)"
+cheat138_code = "7E291705"
+cheat138_enable = false
+
+cheat139_desc = "[赵云马匹]的卢(+7E2)"
+cheat139_code = "7E291706"
+cheat139_enable = false
+
+cheat140_desc = "[赵云马匹]赤兔马(+7E3)"
+cheat140_code = "7E291707"
+cheat140_enable = false
+
+cheat141_desc = "[赵云兵书]孙子兵法(+7E7)"
+cheat141_code = "7E291803"
+cheat141_enable = false
+
+cheat142_desc = "[赵云兵书]孟德新书(+7E6)"
+cheat142_code = "7E291804"
+cheat142_enable = false
+
+cheat143_desc = "[赵云兵书]六韬(+7E5)"
+cheat143_code = "7E29183C"
+cheat143_enable = false
+
+cheat144_desc = "[赵云兵书]三略(+7E5)"
+cheat144_code = "7E29183D"
+cheat144_enable = false
+
+cheat145_desc = "[赵云兵书]吴子兵法(+7E6)"
+cheat145_code = "7E29183E"
+cheat145_enable = false
+
+cheat146_desc = "[赵云辅助物品]玉玺(全回复)"
+cheat146_code = "7E291908"
+cheat146_enable = false
+
+cheat147_desc = "[赵云辅助物品]敕命书(MP回复)"
+cheat147_code = "7E291937"
+cheat147_enable = false
+
+cheat148_desc = "[赵云辅助物品]援军报告(HP回复)"
+cheat148_code = "7E291938"
+cheat148_enable = false
+
+cheat149_desc = "[赵云转职道具]骑兵印绶"
+cheat149_code = "7E291A17+7E291B18"
+cheat149_enable = false
+
+cheat150_desc = "[简雍物品]ON"
+cheat150_code = "7E2DF49E+7E2DF57B+7E2DF674+7E2DF73C+7E2DF808+7E2DF915+7E2DFA16"
+cheat150_enable = false
+
+cheat151_desc = "[潘宫物品]ON"
+cheat151_code = "7E4522A6+7E45237B+7E452474+7E45253C+7E452608"
+cheat151_enable = false
+
+cheat152_desc = "[耿武物品]ON"
+cheat152_code = "7E29C189+7E29C27B+7E29C374+7E29C43D+7E29C508+7E29C613+7E29C714"
+cheat152_enable = false
+
+cheat153_desc = "[关纯物品]ON"
+cheat153_code = "7E29EC9E+7E29ED7B+7E29EE74+7E29EF3C+7E29F008+7E29F115+7E29F216"
+cheat153_enable = false
+
+cheat154_desc = "[孙干物品]ON"
+cheat154_code = "7E2AC3B4+7E2AC47B+7E2AC574+7E2AC63D+7E2AC708"
+cheat154_enable = false
+
+cheat155_desc = "[李明物品]ON"
+cheat155_code = "7E5F2BA9+7E5F2C7B+7E5F2D05+7E5F2E3C+7E5F2F08"
+cheat155_enable = false
+
+cheat156_desc = "[董梁物品]ON"
+cheat156_code = "7E467B4D+7E467C7B+7E467D74+7E467E3C+7E467F08+7E468019+7E46811A"
+cheat156_enable = false
+
+cheat157_desc = "[赵何物品]ON"
+cheat157_code = "7E45A34D+7E45A47B+7E45A574+7E45A63C+7E45A708+7E45A819+7E45A91A"
+cheat157_enable = false
+
+cheat158_desc = "[糜芳物品]ON"
+cheat158_code = "7E2DC989+7E2DCA7B+7E2DCB74+7E2DCC3D+7E2DCD08+7E2DCE13+7E2DCF14"
+cheat158_enable = false
+
+cheat159_desc = "[糜竺物品]ON"
+cheat159_code = "7E2AEEAF+7E2AEF7B+7E2AF074+7E2AF13C+7E2AF208"
+cheat159_enable = false
+
+cheat160_desc = "[关平物品]ON"
+cheat160_code = "7E35830E+7E35847B+7E358507+7E358604+7E358708"
+cheat160_enable = false
+
+cheat161_desc = "[周仓物品]ON"
+cheat161_code = "7E3A0C0D+7E3A0D7B+7E3A0E06+7E3A0F04+7E3A1008"
+cheat161_enable = false
+
+cheat162_desc = "[刘辟物品]ON"
+cheat162_code = "7E49AB4D+7E49AC7B+7E49AD74+7E49AE3C+7E49AF08+7E49B01A"
+cheat162_enable = false
+
+cheat163_desc = "[伊藉物品]ON"
+cheat163_code = "7E332989+7E332A7B+7E332B74+7E332C3D+7E332D08+7E332E14"
+cheat163_enable = false
+
+cheat164_desc = "[刘封物品]ON"
+cheat164_code = "7E33AA89+7E33AB7B+7E33AC74+7E33AD3C+7E33AE08+7E33AF14"
+cheat164_enable = false
+
+cheat165_desc = "[徐庶物品]ON"
+cheat165_code = "7E32D3B2+7E32D47B+7E32D506+7E32D603+7E32D708"
+cheat165_enable = false
+
+cheat166_desc = "[诸葛亮物品]ON"
+cheat166_code = "7E352D3A+7E352E7B+7E352F07+7E353003+7E353108"
+cheat166_enable = false
+
+cheat167_desc = "[马谡物品]ON"
+cheat167_code = "7E2538AF+7E25397B+7E253A74+7E253B3C+7E253C08"
+cheat167_enable = false
+
+cheat168_desc = "[马良物品]ON"
+cheat168_code = "7E3D68B4+7E3D697B+7E3D6A06+7E3D6B3E+7E3D6C08"
+cheat168_enable = false
+
+cheat169_desc = "[魏延物品]ON"
+cheat169_code = "7E355809+7E35597B+7E355A07+7E355B04+7E355C08"
+cheat169_enable = false
+
+cheat170_desc = "[黄忠物品]ON"
+cheat170_code = "7E3C913A+7E3C927B+7E3C9307+7E3C9404+7E3C9508"
+cheat170_enable = false
+
+cheat171_desc = "[蒋琬物品]ON"
+cheat171_code = "7E5F819E+7E5F827B+7E5F8374+7E5F843C+7E5F8508"
+cheat171_enable = false
+
+cheat172_desc = "[费铱物品]ON"
+cheat172_code = "7E5FAC9E+7E5FAD7B+7E5FAE74+7E5FAF3C+7E5FB008"
+cheat172_enable = false
+
+cheat173_desc = "[庞统物品]ON"
+cheat173_code = "7E365A0B+7E365B7B+7E365C07+7E365D03+7E365E08"
+cheat173_enable = false
+
+cheat174_desc = "[法正物品]ON"
+cheat174_code = "7E3F9789+7E3F987B+7E3F9974+7E3F9A3C+7E3F9B08"
+cheat174_enable = false
+
+cheat175_desc = "[严颜物品]ON"
+cheat175_code = "7E421C89+7E421D7B+7E421E74+7E421F3C+7E422008"
+cheat175_enable = false
+
+cheat176_desc = "[吴兰物品]ON"
+cheat176_code = "7E41C689+7E41C77B+7E41C874+7E41C93C+7E41CA08"
+cheat176_enable = false
+
+cheat177_desc = "[李严物品]ON"
+cheat177_code = "7E4AAB9E+7E4AAC7B+7E4AAD05+7E4AAE3C+7E4AAF08"
+cheat177_enable = false
+
+cheat178_desc = "[吴懿物品]ON"
+cheat178_code = "7E419B9E+7E419C7B+7E419D05+7E419E3C+7E419F08"
+cheat178_enable = false
+
+cheat179_desc = "[雷铜物品]ON"
+cheat179_code = "7E41F189+7E41F27B+7E41F374+7E41F43C+7E41F508"
+cheat179_enable = false
+
+cheat180_desc = "[费观物品]ON"
+cheat180_code = "7E4AD889+7E4AD97B+7E4ADA74+7E4ADB3C+7E4ADC08"
+cheat180_enable = false
+
+cheat181_desc = "[马超物品]ON"
+cheat181_code = "7E3FED09+7E3FEE7B+7E3FEF07+7E3FF004+7E3FF108"
+cheat181_enable = false
+
+cheat182_desc = "[马岱物品]ON"
+cheat182_code = "7E42470B+7E42487B+7E424906+7E424A04+7E424B08"
+cheat182_enable = false
+
+cheat183_desc = "[吴班物品]ON"
+cheat183_code = "7E2F4C9E+7E2F4D7B+7E2F4E74+7E2F4F3C+7E2F5008"
+cheat183_enable = false
+
+cheat184_desc = "[沙摩柯物品]ON"
+cheat184_code = "7E25E44D+7E25E57B+7E25E605+7E25E73C+7E25E808"
+cheat184_enable = false
+
+cheat185_desc = "[黄权物品]ON"
+cheat185_code = "7E240B89+7E240C7B+7E240D74+7E240E3C+7E240F08"
+cheat185_enable = false
+
+cheat186_desc = "[孟达物品]ON"
+cheat186_code = "7E401889+7E40197B+7E401A74+7E401B3C+7E401C08"
+cheat186_enable = false
+
+cheat187_desc = "[霍峻物品]ON"
+cheat187_code = "7E42F3A9+7E42F47B+7E42F574+7E42F63C+7E42F708"
+cheat187_enable = false
+
+cheat188_desc = "[陈式物品]ON"
+cheat188_code = "7E431EA6+7E431F7B+7E432074+7E43213C+7E432208"
+cheat188_enable = false
+
+cheat189_desc = "[王平物品]ON"
+cheat189_code = "7E4A5789+7E4A587B+7E4A5974+7E4A5A3C+7E4A5B08"
+cheat189_enable = false
+
+cheat190_desc = "[赵累物品]ON"
+cheat190_code = "7E26909E+7E26917B+7E269274+7E26933C+7E269408"
+cheat190_enable = false
+
+cheat191_desc = "[廖化物品]ON"
+cheat191_code = "7E25B989+7E25BA7B+7E25BB74+7E25BC3C+7E25BD08"
+cheat191_enable = false
+
+cheat192_desc = "[王甫物品]ON"
+cheat192_code = "7E266589+7E26667B+7E266774+7E26683C+7E266908"
+cheat192_enable = false
+
+cheat193_desc = "[刘禅物品]ON"
+cheat193_code = "7E4A823B+7E4A837B+7E4A8407+7E4A8503+7E4A8608"
+cheat193_enable = false
+
+cheat194_desc = "[关兴物品]ON"
+cheat194_code = "7E250D0E+7E250E7B+7E250F07+7E251004+7E251108"
+cheat194_enable = false
+
+cheat195_desc = "[张苞物品]ON"
+cheat195_code = "7E27670F+7E27687B+7E276907+7E276A3E+7E276B08"
+cheat195_enable = false
+
+cheat196_desc = "[丁奉物品]ON"
+cheat196_code = "7E3BBA89+7E3BBB7B+7E3BBC74+7E3BBD3D+7E3BBE08"
+cheat196_enable = false
+
+cheat197_desc = "[徐盛物品]ON"
+cheat197_code = "7E3BE589+7E3BE67B+7E3BE774+7E3BE83D+7E3BE908"
+cheat197_enable = false
+
+cheat198_desc = "[程德物品]ON"
+cheat198_code = "7E477C4D+7E477D7B+7E477E74+7E477F3C+7E478008"
+cheat198_enable = false
+
+cheat199_desc = "[张获物品]ON"
+cheat199_code = "7E47A74D+7E47A87B+7E47A974+7E47AA3C+7E47AB08"
+cheat199_enable = false
+
+cheat200_desc = "[高仓物品]ON"
+cheat200_code = "7E47D24D+7E47D37B+7E47D474+7E47D53C+7E47D608"
+cheat200_enable = false
+
+cheat201_desc = "[姜维物品]ON"
+cheat201_code = "7E48FF0E+7E49007B+7E490107+7E490203+7E490308"
+cheat201_enable = false
+
+cheat202_desc = "[张辽物品]ON"
+cheat202_code = "7E2D733A+7E2D747B+7E2D7507+7E2D7604+7E2D7708"
+cheat202_enable = false
+
+cheat203_desc = "[韩英物品]ON"
+cheat203_code = "7E492A89+7E492B7B+7E492C74+7E492D3D+7E492E08"
+cheat203_enable = false
+
+cheat204_desc = "[郭适物品]ON"
+cheat204_code = "7E49554D+7E49567B+7E495774+7E49583C+7E495908+7E495A19+7E495B1A"
+cheat204_enable = false
+
+cheat205_desc = "[HAYPA吕布]ON"
+cheat205_code = "7E20D080+7E20D164+7E20D266+7E20D345+7E20D863+7E20D963+7E20DA0E+7E20DB7B+7E20DC07+7E20DD04+7E20DE08"
+cheat205_enable = false
+
+cheat206_desc = "[曹操]ON"
+cheat206_code = "7E00217C80"
+cheat206_enable = false
+
+cheat207_desc = "[曹操]OFF"
+cheat207_code = "7E00217C81"
+cheat207_enable = false
+
+cheat208_desc = "[曹真]ON"
+cheat208_code = "7E00489F80"
+cheat208_enable = false
+
+cheat209_desc = "[曹真]OFF"
+cheat209_code = "7E00489F81"
+cheat209_enable = false
+
+cheat210_desc = "[郝昭]ON"
+cheat210_code = "7E0048CA80"
+cheat210_enable = false
+
+cheat211_desc = "[郝昭]OFF"
+cheat211_code = "7E0048CA81"
+cheat211_enable = false
+
+cheat212_desc = "[曹仁]ON"
+cheat212_code = "7E00232A80"
+cheat212_enable = false
+
+cheat213_desc = "[曹仁]OFF"
+cheat213_code = "7E00232A81"
+cheat213_enable = false
+
+cheat214_desc = "[曹洪]ON"
+cheat214_code = "7E00235580"
+cheat214_enable = false
+
+cheat215_desc = "[曹洪]OFF"
+cheat215_code = "7E00235581"
+cheat215_enable = false
+
+cheat216_desc = "[郭嘉]ON"
+cheat216_code = "7E002A6380"
+cheat216_enable = false
+
+cheat217_desc = "[郭嘉]OFF"
+cheat217_code = "7E002A6381"
+cheat217_enable = false
+
+cheat218_desc = "[苟彧]ON"
+cheat218_code = "7E0048CA80"
+cheat218_enable = false
+
+cheat219_desc = "[苟彧]OFF"
+cheat219_code = "7E0048CA81"
+cheat219_enable = false
+
+cheat220_desc = "[夏侯敦]ON"
+cheat220_code = "7E0022D480"
+cheat220_enable = false
+
+cheat221_desc = "[夏侯敦]OFF"
+cheat221_code = "7E0022D481"
+cheat221_enable = false
+
+cheat222_desc = "[夏侯渊]ON"
+cheat222_code = "7E0022FF80"
+cheat222_enable = false
+
+cheat223_desc = "[夏侯渊]OFF"
+cheat223_code = "7E0022FF81"
+cheat223_enable = false
+
+cheat224_desc = "[曹丕]ON"
+cheat224_code = "7E0043C080"
+cheat224_enable = false
+
+cheat225_desc = "[曹丕]OFF"
+cheat225_code = "7E0043C081"
+cheat225_enable = false
+
+cheat226_desc = "[司马懿]ON"
+cheat226_code = "7E0043EB80"
+cheat226_enable = false
+
+cheat227_desc = "[司马懿]OFF"
+cheat227_code = "7E0043EB81"
+cheat227_enable = false
+
+cheat228_desc = "[司马师]ON"
+cheat228_code = "7E00484980"
+cheat228_enable = false
+
+cheat229_desc = "[司马师]OFF"
+cheat229_code = "7E00484981"
+cheat229_enable = false
+
+cheat230_desc = "[司马昭]ON"
+cheat230_code = "7E00487480"
+cheat230_enable = false
+
+cheat231_desc = "[司马昭]OFF"
+cheat231_code = "7E00487481"
+cheat231_enable = false
+
+cheat232_desc = "[庞德]ON"
+cheat232_code = "7E00444180"
+cheat232_enable = false
+
+cheat233_desc = "[庞德]OFF"
+cheat233_code = "7E00444181"
+cheat233_enable = false
+
+cheat234_desc = "[苟攸]ON"
+cheat234_code = "7E002CE880"
+cheat234_enable = false
+
+cheat235_desc = "[苟攸]OFF"
+cheat235_code = "7E002CE881"
+cheat235_enable = false
+
+cheat236_desc = "[许楮]ON"
+cheat236_code = "7E002B6580"
+cheat236_enable = false
+
+cheat237_desc = "[许楮]OFF"
+cheat237_code = "7E002B6581"
+cheat237_enable = false
+
+cheat238_desc = "[贾诩]ON"
+cheat238_code = "7E002FC380"
+cheat238_enable = false
+
+cheat239_desc = "[贾诩]OFF"
+cheat239_code = "7E002FC381"
+cheat239_enable = false
+
+cheat240_desc = "[李典]ON"
+cheat240_code = "7E00337580"
+cheat240_enable = false
+
+cheat241_desc = "[李典]OFF"
+cheat241_code = "7E00337581"
+cheat241_enable = false
+
+cheat242_desc = "[程昱]ON"
+cheat242_code = "7E002D1380"
+cheat242_enable = false
+
+cheat243_desc = "[程昱]OFF"
+cheat243_code = "7E002D1381"
+cheat243_enable = false
+
+cheat244_desc = "[杨修]ON"
+cheat244_code = "7E004A2280"
+cheat244_enable = false
+
+cheat245_desc = "[杨修]OFF"
+cheat245_code = "7E004A2281"
+cheat245_enable = false
+
+cheat246_desc = "[牛金]ON"
+cheat246_code = "7E003CB280"
+cheat246_enable = false
+
+cheat247_desc = "[牛金]OFF"
+cheat247_code = "7E003CB281"
+cheat247_enable = false
+
+cheat248_desc = "[车胄]ON"
+cheat248_code = "7E002F1780"
+cheat248_enable = false
+
+cheat249_desc = "[车胄]OFF"
+cheat249_code = "7E002F1781"
+cheat249_enable = false
+
+cheat250_desc = "[曹植]ON"
+cheat250_code = "7E00481E80"
+cheat250_enable = false
+
+cheat251_desc = "[曹植]OFF"
+cheat251_code = "7E00481E81"
+cheat251_enable = false
+
+cheat252_desc = "[孙坚]ON"
+cheat252_code = "7E0021D280"
+cheat252_enable = false
+
+cheat253_desc = "[孙坚]OFF"
+cheat253_code = "7E0021D282"
+cheat253_enable = false
+
+cheat254_desc = "[孙权]ON"
+cheat254_code = "7E0037D380"
+cheat254_enable = false
+
+cheat255_desc = "[孙权]OFF"
+cheat255_code = "7E0037D382"
+cheat255_enable = false
+
+cheat256_desc = "[周瑜]ON"
+cheat256_code = "7E0037FE80"
+cheat256_enable = false
+
+cheat257_desc = "[周瑜]OFF"
+cheat257_code = "7E0037FE82"
+cheat257_enable = false
+
+cheat258_desc = "[鲁肃]ON"
+cheat258_code = "7E00382980"
+cheat258_enable = false
+
+cheat259_desc = "[鲁肃]OFF"
+cheat259_code = "7E00382982"
+cheat259_enable = false
+
+cheat260_desc = "[张昭]ON"
+cheat260_code = "7E00385480"
+cheat260_enable = false
+
+cheat261_desc = "[张昭]OFF"
+cheat261_code = "7E00385482"
+cheat261_enable = false
+
+cheat262_desc = "[诸葛瑾]ON"
+cheat262_code = "7E00387F80"
+cheat262_enable = false
+
+cheat263_desc = "[诸葛瑾]OFF"
+cheat263_code = "7E00387F82"
+cheat263_enable = false
+
+cheat264_desc = "[甘宁]ON"
+cheat264_code = "7E0038D580"
+cheat264_enable = false
+
+cheat265_desc = "[甘宁]OFF"
+cheat265_code = "7E0038D582"
+cheat265_enable = false
+
+cheat266_desc = "[吕蒙]ON"
+cheat266_code = "7E00390080"
+cheat266_enable = false
+
+cheat267_desc = "[吕蒙]OFF"
+cheat267_code = "7E00390082"
+cheat267_enable = false
+
+cheat268_desc = "[陆逊]ON"
+cheat268_code = "7E00395680"
+cheat268_enable = false
+
+cheat269_desc = "[陆逊]OFF"
+cheat269_code = "7E00395682"
+cheat269_enable = false
+
+cheat270_desc = "[周泰]ON"
+cheat270_code = "7E003B5A80"
+cheat270_enable = false
+
+cheat271_desc = "[周泰]OFF"
+cheat271_code = "7E003B5A82"
+cheat271_enable = false
+
+cheat272_desc = "[黄盖]ON"
+cheat272_code = "7E00227E80"
+cheat272_enable = false
+
+cheat273_desc = "[黄盖]OFF"
+cheat273_code = "7E00227E82"
+cheat273_enable = false
+
+cheat274_desc = "[公孙瓒]ON"
+cheat274_code = "7E00222880"
+cheat274_enable = false
+
+cheat275_desc = "[公孙瓒]OFF"
+cheat275_code = "7E00222883"
+cheat275_enable = false
+
+cheat276_desc = "[袁绍]ON"
+cheat276_code = "7E0021A780"
+cheat276_enable = false
+
+cheat277_desc = "[袁绍]OFF"
+cheat277_code = "7E0021A784"
+cheat277_enable = false
+
+cheat278_desc = "[田丰]ON"
+cheat278_code = "7E00285F80"
+cheat278_enable = false
+
+cheat279_desc = "[田丰]OFF"
+cheat279_code = "7E00285F84"
+cheat279_enable = false
+
+cheat280_desc = "[颜良]ON"
+cheat280_code = "7E0028B580"
+cheat280_enable = false
+
+cheat281_desc = "[颜良]OFF"
+cheat281_code = "7E0028B584"
+cheat281_enable = false
+
+cheat282_desc = "[文丑]ON"
+cheat282_code = "7E0028E080"
+cheat282_enable = false
+
+cheat283_desc = "[文丑]OFF"
+cheat283_code = "7E0028E084"
+cheat283_enable = false
+
+cheat284_desc = "[张合]ON"
+cheat284_code = "7E00314680"
+cheat284_enable = false
+
+cheat285_desc = "[张合]OFF"
+cheat285_code = "7E00314684"
+cheat285_enable = false
+
+cheat286_desc = "[董卓]ON"
+cheat286_code = "7E0020A580"
+cheat286_enable = false
+
+cheat287_desc = "[董卓]OFF"
+cheat287_code = "7E0020A585"
+cheat287_enable = false
+
+cheat288_desc = "[华雄]ON"
+cheat288_code = "7E0020FB80"
+cheat288_enable = false
+
+cheat289_desc = "[华雄]OFF"
+cheat289_code = "7E0020FB85"
+cheat289_enable = false
+
+cheat290_desc = "[袁术]ON"
+cheat290_code = "7E0021FD80"
+cheat290_enable = false
+
+cheat291_desc = "[袁术]OFF"
+cheat291_code = "7E0021FD86"
+cheat291_enable = false
+
+cheat292_desc = "[吕布]ON"
+cheat292_code = "7E0020D080"
+cheat292_enable = false
+
+cheat293_desc = "[吕布]OFF"
+cheat293_code = "7E0020D087"
+cheat293_enable = false
+
+cheat294_desc = "[陶谦]ON"
+cheat294_code = "7E0022A980"
+cheat294_enable = false
+
+cheat295_desc = "[陶谦]OFF"
+cheat295_code = "7E0022A988"
+cheat295_enable = false
+
+cheat296_desc = "[刘表]ON"
+cheat296_code = "7E002FEE80"
+cheat296_enable = false
+
+cheat297_desc = "[刘表]OFF"
+cheat297_code = "7E002FEE89"
+cheat297_enable = false
+
+cheat298_desc = "[蔡瑁]ON"
+cheat298_code = "7E0032F480"
+cheat298_enable = false
+
+cheat299_desc = "[蔡瑁]OFF"
+cheat299_code = "7E0032F489"
+cheat299_enable = false
+
+cheat300_desc = "[刘璋]ON"
+cheat300_code = "7E003FB880"
+cheat300_enable = false
+
+cheat301_desc = "[刘璋]OFF"
+cheat301_code = "7E003FB88A"
+cheat301_enable = false
+
+cheat302_desc = "[张鲁]ON"
+cheat302_code = "7E00426880"
+cheat302_enable = false
+
+cheat303_desc = "[张鲁]OFF"
+cheat303_code = "7E0042688B"
+cheat303_enable = false
+
+cheat304_desc = "[马腾]ON"
+cheat304_code = "7E00306F80"
+cheat304_enable = false
+
+cheat305_desc = "[马腾]OFF"
+cheat305_code = "7E00306F8C"
+cheat305_enable = false
+
+cheat306_desc = "[孔融]ON"
+cheat306_code = "7E00215180"
+cheat306_enable = false
+
+cheat307_desc = "[孔融]OFF"
+cheat307_code = "7E0021518D"
+cheat307_enable = false
+
+cheat308_desc = "[太史慈]ON"
+cheat308_code = "7E00392B80"
+cheat308_enable = false
+
+cheat309_desc = "[太史慈]OFF"
+cheat309_code = "7E00392B8D"
+cheat309_enable = false
+
+cheat310_desc = "[姜维]ON"
+cheat310_code = "7E0048F580"
+cheat310_enable = false
+
+cheat311_desc = "[姜维]OFF"
+cheat311_code = "7E0048F58E"
+cheat311_enable = false
+
+cheat312_desc = "[庞统]ON"
+cheat312_code = "7E00365080"
+cheat312_enable = false
+
+cheat313_desc = "[庞统]OFF"
+cheat313_code = "7E0036508E"
+cheat313_enable = false
+
+cheat314_desc = "[徐庶]ON"
+cheat314_code = "7E0032C980"
+cheat314_enable = false
+
+cheat315_desc = "[徐庶]OFF"
+cheat315_code = "7E0032C98E"
+cheat315_enable = false
+
+cheat316_desc = "[刘琦]ON"
+cheat316_code = "7E00334A80"
+cheat316_enable = false
+
+cheat317_desc = "[刘琦]OFF"
+cheat317_code = "7E00334A8E"
+cheat317_enable = false
+

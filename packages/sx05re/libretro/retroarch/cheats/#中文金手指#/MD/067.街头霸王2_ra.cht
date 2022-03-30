@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[1P满血]ON"
+cheat0_code = "FF803C:B0+FF8046:B0+FF80E8:B0"
+cheat0_enable = false
+
+cheat1_desc = "[无限时间]ON"
+cheat1_code = "FF972B:99"
+cheat1_enable = false
+
+cheat2_desc = "[P1 体力值]ON"
+cheat2_code = "FF8042:B0+FF80E8:B0"
+cheat2_enable = false
+
+cheat3_desc = "[P2 体力值]ON"
+cheat3_code = "FF82C2:B0+FF8368:B0"
+cheat3_enable = false
+

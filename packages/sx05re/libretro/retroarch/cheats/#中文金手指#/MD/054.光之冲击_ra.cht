@@ -1,0 +1,330 @@
+cheats = 39
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "FF0BD0:FF+FF0BD1:FF"
+cheat0_enable = false
+
+cheat1_desc = "[不遇敌]ON"
+cheat1_code = "FF1432:00+FF1433:00"
+cheat1_enable = false
+
+cheat2_desc = "[全魔法]ON"
+cheat2_code = "FF3224:FF+FF3225:FF+FF3226:FF+FF3227:FF+FF3228:FF+FF3229:FF"
+cheat2_enable = false
+
+cheat3_desc = "[首位道具]"
+
+cheat3_desc = "[剑]カタール=3136,1,1"
+
+cheat3_desc = "[剑]ククル=3136,2,1"
+
+cheat3_desc = "[剑]フィランギ=3136,3,1"
+
+cheat3_desc = "[剑]ダルワール=3136,4,1"
+
+cheat3_desc = "[剑]シャムシール=3136,5,1"
+
+cheat3_desc = "[剑]フォールション=3136,6,1"
+
+cheat3_desc = "[剑]青龍刀=3136,7,1"
+
+cheat3_desc = "[剑]波動剣=3136,8,1"
+
+cheat3_desc = "[剑]鮮斬刀=3136,9,1"
+
+cheat3_desc = "[剑]曲刃丸=3136,A,1"
+
+cheat3_desc = "[剑]白狼剣=3136,B,1"
+
+cheat3_desc = "[剑]輝曲剣=3136,C,1"
+
+cheat3_desc = "[剑]爆炎剣=3136,D,1"
+
+cheat3_desc = "[剑]魔呪剣=3136,E,1"
+
+cheat3_desc = "[剑]幻呪剣=3136,F,1"
+
+cheat3_desc = "[剑]戦斧=3136,10,1"
+
+cheat3_desc = "[剑]鬼神斧=3136,11,1"
+
+cheat3_desc = "[剑]トライデント=3136,12,1"
+
+cheat3_desc = "[剑]紫光鎚=3136,13,1"
+
+cheat3_desc = "[剑]ウインドソード=3136,14,1"
+
+cheat3_desc = "[剑]弓=3136,1C,1"
+
+cheat3_desc = "[剑]神明弓=3136,1D,1"
+
+cheat3_desc = "[剑]狼吠弓=3136,1E,1"
+
+cheat3_desc = "[剑]スピア=3136,20,1"
+
+cheat3_desc = "[剑]翔龍弓=3136,21,1"
+
+cheat3_desc = "[剑]チャクラム=3136,22,1"
+
+cheat3_desc = "[剑]木の杖=3136,25,1"
+
+cheat3_desc = "[剑]鉄の杖=3136,26,1"
+
+cheat3_desc = "[剑]火炎杖=3136,27,1"
+
+cheat3_desc = "[剑]竜牙杖=3136,28,1"
+
+cheat3_desc = "[剑]雷杖=3136,29,1"
+
+cheat3_desc = "[剑]太陽杖=3136,2A,1"
+
+cheat3_desc = "[剑]真红のバラ=3136,2B,1"
+
+cheat3_desc = "[盾]木の楯=3136,1,2"
+
+cheat3_desc = "[盾]鉄の楯=3136,2,2"
+
+cheat3_desc = "[盾]破邪楯=3136,3,2"
+
+cheat3_desc = "[盾]革の楯=3136,4,2"
+
+cheat3_desc = "[盾]鉄の楯=3136,5,2"
+
+cheat3_desc = "[盾]大きな楯=3136,6,2"
+
+cheat3_desc = "[盾]鋼の楯=3136,7,2"
+
+cheat3_desc = "[盾]バックラー=3136,8,2"
+
+cheat3_desc = "[盾]茨の楯=3136,9,2"
+
+cheat3_desc = "[盾]金腕の輪=3136,A,2"
+
+cheat3_desc = "[铠]法衣=3136,2,3"
+
+cheat3_desc = "[铠]紫法衣=3136,3,3"
+
+cheat3_desc = "[铠]天法衣=3136,4,3"
+
+cheat3_desc = "[铠]光の法衣=3136,5,3"
+
+cheat3_desc = "[铠]革の鎧=3136,6,3"
+
+cheat3_desc = "[铠]チェーンメイル=3136,7,3"
+
+cheat3_desc = "[铠]鉄の鎧=3136,8,3"
+
+cheat3_desc = "[铠]炎の鎧=3136,9,3"
+
+cheat3_desc = "[铠]招呪鎧=3136,A,3"
+
+cheat3_desc = "[铠]硬革鎧=3136,B,3"
+
+cheat3_desc = "[铠]怒りの鎧=3136,C,3"
+
+cheat3_desc = "[铠]プレートメイル=3136,D,3"
+
+cheat3_desc = "[铠]ウインドメイル=3136,E,3"
+
+cheat3_desc = "[铠]アイスプレート=3136,F,3"
+
+cheat3_desc = "[披风]マント=3136,1,4"
+
+cheat3_desc = "[披风]ワニ革マント=3136,2,4"
+
+cheat3_desc = "[披风]幻ノマント=3136,3,4"
+
+cheat3_desc = "[披风]エラー=3136,6,4"
+
+cheat3_desc = "[披风]聖なるローブ=3136,7,4"
+
+cheat3_desc = "[披风]うろこマント=3136,9,4"
+
+cheat3_desc = "[披风]革のローブ=3136,A,4"
+
+cheat3_desc = "[披风]火炎のマント=3136,B,4"
+
+cheat3_desc = "[披风]疾風マント=3136,D,4"
+
+cheat3_desc = "[帽]帽子=3136,1,5"
+
+cheat3_desc = "[帽]かみ饰り=3136,2,5"
+
+cheat3_desc = "[帽]かんむり=3136,3,5"
+
+cheat3_desc = "[帽]ティアラ=3136,4,5"
+
+cheat3_desc = "[帽]兜=3136,5,5"
+
+cheat3_desc = "[帽]ターバン=3136,7,5"
+
+cheat3_desc = "[帽]フード=3136,8,5"
+
+cheat3_desc = "[帽]バンダナ=3136,A,5"
+
+cheat3_desc = "[帽]つの兜=3136,C,5"
+
+cheat3_desc = "[帽]鉄の兜=3136,D,5"
+
+cheat3_desc = "[帽]炎の兜=3136,E,5"
+
+cheat3_desc = "[帽]風のティアラ=3136,F,5"
+
+cheat3_desc = "[环]地の指輪=3136,1,6"
+
+cheat3_desc = "[环]炎の指輪=3136,2,6"
+
+cheat3_desc = "[环]水の指輪=3136,3,6"
+
+cheat3_desc = "[环]風の指輪=3136,4,6"
+
+cheat3_desc = "[环]ネックレス=3136,5,6"
+
+cheat3_desc = "[环]かわしのごふ=3136,6,6"
+
+cheat3_desc = "[环]まもりのごふ=3136,7,6"
+
+cheat3_desc = "[环]鉄ゲタ=3136,8,6いやしの水"
+cheat3_code = "FF3136:01+FF3137:07"
+cheat3_enable = false
+
+cheat4_desc = "[环]鉄ゲタ=3136,8,6固の法典"
+cheat4_code = "FF3136:02+FF3137:07"
+cheat4_enable = false
+
+cheat5_desc = "[环]鉄ゲタ=3136,8,6大いやしの水"
+cheat5_code = "FF3136:04+FF3137:07"
+cheat5_enable = false
+
+cheat6_desc = "[环]鉄ゲタ=3136,8,6全快薬"
+cheat6_code = "FF3136:05+FF3137:07"
+cheat6_enable = false
+
+cheat7_desc = "[环]鉄ゲタ=3136,8,6パワージェム"
+cheat7_code = "FF3136:07+FF3137:07"
+cheat7_enable = false
+
+cheat8_desc = "[环]鉄ゲタ=3136,8,6ハイパワージェム"
+cheat8_code = "FF3136:08+FF3137:07"
+cheat8_enable = false
+
+cheat9_desc = "[环]鉄ゲタ=3136,8,6なわばしご"
+cheat9_code = "FF3136:09+FF3137:07"
+cheat9_enable = false
+
+cheat10_desc = "[环]鉄ゲタ=3136,8,6牢の键"
+cheat10_code = "FF3136:0A+FF3137:07"
+cheat10_enable = false
+
+cheat11_desc = "[环]鉄ゲタ=3136,8,6鉄ゲタ"
+cheat11_code = "FF3136:0B+FF3137:07"
+cheat11_enable = false
+
+cheat12_desc = "[环]鉄ゲタ=3136,8,6砦の键"
+cheat12_code = "FF3136:0C+FF3137:07"
+cheat12_enable = false
+
+cheat13_desc = "[环]鉄ゲタ=3136,8,6コダムの書"
+cheat13_code = "FF3136:0D+FF3137:07"
+cheat13_enable = false
+
+cheat14_desc = "[环]鉄ゲタ=3136,8,6竜の石"
+cheat14_code = "FF3136:0E+FF3137:07"
+cheat14_enable = false
+
+cheat15_desc = "[环]鉄ゲタ=3136,8,6地下牢の键"
+cheat15_code = "FF3136:0F+FF3137:07"
+cheat15_enable = false
+
+cheat16_desc = "[环]鉄ゲタ=3136,8,6秘薬"
+cheat16_code = "FF3136:10+FF3137:07"
+cheat16_enable = false
+
+cheat17_desc = "[环]鉄ゲタ=3136,8,6念の法典"
+cheat17_code = "FF3136:11+FF3137:07"
+cheat17_enable = false
+
+cheat18_desc = "[环]鉄ゲタ=3136,8,6液の法典"
+cheat18_code = "FF3136:12+FF3137:07"
+cheat18_enable = false
+
+cheat19_desc = "[环]鉄ゲタ=3136,8,6気の法典"
+cheat19_code = "FF3136:13+FF3137:07"
+cheat19_enable = false
+
+cheat20_desc = "[环]鉄ゲタ=3136,8,6光の法典"
+cheat20_code = "FF3136:14+FF3137:07"
+cheat20_enable = false
+
+cheat21_desc = "[环]鉄ゲタ=3136,8,6ふっかつの石"
+cheat21_code = "FF3136:15+FF3137:07"
+cheat21_enable = false
+
+cheat22_desc = "[环]鉄ゲタ=3136,8,6五元の宝玉"
+cheat22_code = "FF3136:16+FF3137:07"
+cheat22_enable = false
+
+cheat23_desc = "[环]鉄ゲタ=3136,8,6げどくざい"
+cheat23_code = "FF3136:17+FF3137:07"
+cheat23_enable = false
+
+cheat24_desc = "[环]鉄ゲタ=3136,8,6カセイの書"
+cheat24_code = "FF3136:18+FF3137:07"
+cheat24_enable = false
+
+cheat25_desc = "[环]鉄ゲタ=3136,8,6モテモテの玉"
+cheat25_code = "FF3136:19+FF3137:07"
+cheat25_enable = false
+
+cheat26_desc = "[环]鉄ゲタ=3136,8,6塔の键"
+cheat26_code = "FF3136:1A+FF3137:07"
+cheat26_enable = false
+
+cheat27_desc = "[环]鉄ゲタ=3136,8,6ハリーフの键"
+cheat27_code = "FF3136:1B+FF3137:07"
+cheat27_enable = false
+
+cheat28_desc = "[环]鉄ゲタ=3136,8,6アズールの键"
+cheat28_code = "FF3136:1C+FF3137:07"
+cheat28_enable = false
+
+cheat29_desc = "[HP]ON"
+cheat29_code = "FFF31A:0F+FFF31B:27"
+cheat29_enable = false
+
+cheat30_desc = "[MP]ON"
+cheat30_code = "FFF32C:FF"
+cheat30_enable = false
+
+cheat31_desc = "[经验值]ON"
+cheat31_code = "FFF338:00+FFF339:02+FFF33A:00+FFF33B:00+FFF348:00+FFF349:02+FFF34A:00+FFF34B:00"
+cheat31_enable = false
+
+cheat32_desc = "[等级]ON"
+cheat32_code = "FFF340:3C+FFF350:3C"
+cheat32_enable = false
+
+cheat33_desc = "[HP上限]ON"
+cheat33_code = "FFF33C:0F+FFF33D:27+FFF34C:0F+FFF34D:27"
+cheat33_enable = false
+
+cheat34_desc = "[MP上限]ON"
+cheat34_code = "FFF33F:FF+FFF34F:FF"
+cheat34_enable = false
+
+cheat35_desc = "[ヒット能力]ON"
+cheat35_code = "FFF334:E7+FFF335:03+FFF344:E7+FFF345:03"
+cheat35_enable = false
+
+cheat36_desc = "[回避能力]ON"
+cheat36_code = "FFF336:E7+FFF337:03+FFF346:E7+FFF347:03"
+cheat36_enable = false
+
+cheat37_desc = "[行动速度]ON"
+cheat37_code = "FFF33E:00+FFF34E:00"
+cheat37_enable = false
+
+cheat38_desc = "[敌人速死]ON"
+cheat38_code = "FFF01A:01+FFF01B:00"
+cheat38_enable = false
+

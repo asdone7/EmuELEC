@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[1P生命]ON"
+cheat0_code = "FFA0D8:64"
+cheat0_enable = false
+
+cheat1_desc = "[1P炸弹]ON"
+cheat1_code = "FF8937:09"
+cheat1_enable = false
+
+cheat2_desc = "[1P生命数]ON"
+cheat2_code = "FFA140:0A"
+cheat2_enable = false
+
+cheat3_desc = "[2P生命]ON"
+cheat3_code = "FFA0DA:64"
+cheat3_enable = false
+
+cheat4_desc = "[2P炸弹]ON"
+cheat4_code = "FF8936:09"
+cheat4_enable = false
+
+cheat5_desc = "[2P生命数]ON"
+cheat5_code = "FFA142:0A"
+cheat5_enable = false
+
+cheat6_desc = "[时间无限]ON"
+cheat6_code = "FF8780:63"
+cheat6_enable = false
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[体力不减]ON"
+cheat0_code = "0080:10"
+cheat0_enable = false
+
+cheat1_desc = "[人数最大]ON"
+cheat1_code = "0081:09"
+cheat1_enable = false
+

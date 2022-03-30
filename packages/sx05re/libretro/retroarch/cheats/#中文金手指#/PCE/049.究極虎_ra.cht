@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[机体数不减]ON"
+cheat0_code = "1F167B:03"
+cheat0_enable = false
+
+cheat1_desc = "[炸弹数不减]ON"
+cheat1_code = "1F1671:09"
+cheat1_enable = false
+

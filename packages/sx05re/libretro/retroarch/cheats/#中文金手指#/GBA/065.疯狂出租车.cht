@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "游戏时间"
+cheat0_code = "020016A8 00000030+020016A9 00000075"
+cheat0_enable = false
+
+cheat1_desc = "客人的时间"
+cheat1_code = "020016AC 00000030+020016AD 00000075+COMBOS+02009AA6 00000063"
+cheat1_enable = false
+
+

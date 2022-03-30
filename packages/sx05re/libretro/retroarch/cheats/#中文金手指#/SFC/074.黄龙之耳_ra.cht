@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[无敌]锁"
+cheat0_code = "7E0D40FF"
+cheat0_enable = false
+
+cheat1_desc = "[血槽不减]锁"
+cheat1_code = "7E09C040"
+cheat1_enable = false
+
+cheat2_desc = "[恶搞]锁"
+cheat2_code = "7E06C000"
+cheat2_enable = false
+

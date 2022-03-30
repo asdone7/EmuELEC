@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[无限能源]ON"
+cheat0_code = "00DA:40"
+cheat0_enable = false
+
+cheat1_desc = "[大量时间]ON"
+cheat1_code = "00E8:09"
+cheat1_enable = false
+
+cheat2_desc = "[敌一击死]ON"
+cheat2_code = "0404:00+0405:00+0406:00+0407:00"
+cheat2_enable = false
+
+cheat3_desc = "[敌自杀(BOSS时需关闭)]ON"
+cheat3_code = "03F0:0C+03F1:0C+03F2:0C+03F3:0C"
+cheat3_enable = false
+
+cheat4_desc = "[道具(因关卡不同会导致花版)]桶"
+cheat4_code = "03DB:58+03EF:04"
+cheat4_enable = false
+
+cheat5_desc = "[道具(因关卡不同会导致花版)]筐"
+cheat5_code = "03DB:D5+03EF:0C"
+cheat5_enable = false
+
+cheat6_desc = "[道具(因关卡不同会导致花版)]棒"
+cheat6_code = "03DB:7C+03EF:08+040D:03"
+cheat6_enable = false
+

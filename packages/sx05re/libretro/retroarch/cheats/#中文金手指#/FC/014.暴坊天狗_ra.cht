@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[体力不减]ON"
+cheat0_code = "0017:7F+001C:7F"
+cheat0_enable = false
+
+cheat1_desc = "[等级最高]ON"
+cheat1_code = "0019:01+001A:FF"
+cheat1_enable = false
+
+cheat2_desc = "[无敌]ON"
+cheat2_code = "0017:7F+001C:7F+00CA:09"
+cheat2_enable = false
+

@@ -1,0 +1,38 @@
+cheats = 9
+
+cheat0_desc = "[审案进度]包公审石碑"
+cheat0_code = "007F:04"
+cheat0_enable = false
+
+cheat1_desc = "[审案进度]皇亲不法案"
+cheat1_code = "007F:03"
+cheat1_enable = false
+
+cheat2_desc = "[审案进度]乌盆鸣冤记"
+cheat2_code = "007F:02"
+cheat2_enable = false
+
+cheat3_desc = "[审案进度]狸猫换太子"
+cheat3_code = "007F:01"
+cheat3_enable = false
+
+cheat4_desc = "[审案进度]怒铡陈世美"
+cheat4_code = "007F:00"
+cheat4_enable = false
+
+cheat5_desc = "[BOSS立死]ON"
+cheat5_code = "00B6:40+00B7:40+00B8:0F+00B9:08"
+cheat5_enable = false
+
+cheat6_desc = "[慢死]ON"
+cheat6_code = "00BE:81+00BF:00+00C0:44+00C1:FF"
+cheat6_enable = false
+
+cheat7_desc = "[血量不减]ON"
+cheat7_code = "006D:0F"
+cheat7_enable = false
+
+cheat8_desc = "[9条命]ON"
+cheat8_code = "006E:09"
+cheat8_enable = false
+

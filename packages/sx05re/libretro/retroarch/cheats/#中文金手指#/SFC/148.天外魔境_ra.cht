@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[金钱]ON"
+cheat0_code = "7E19CFFF+7E19D0FF+7E19D1FF"
+cheat0_enable = false
+
+cheat1_desc = "[最大经验]ON"
+cheat1_code = "7E1950FF+7E1951FF"
+cheat1_enable = false
+
+cheat2_desc = "[主角体力与法力]ON"
+cheat2_code = "7E16C8E7+7E16C903+7E1694E7+7E169503"
+cheat2_enable = false
+

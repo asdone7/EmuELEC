@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#Inf Energy Pachamama"
+cheat0_code = "80164742 1000+801692CA 1000"
+cheat0_enable = false
+
+cheat1_desc = "#Inf Energy Katoh"
+cheat1_code = "8016470A 1000+80169292 1000"
+cheat1_enable = false
+
+cheat2_desc = "#Inf Energy史蒂夫"
+cheat2_code = "801647B2 1000+8016933A 1000+8014E1E2 1000"
+cheat2_enable = false
+
+cheat3_desc = "#Inf Energy朱莉娅"
+cheat3_code = "8016477A 1000+80169302 1000"
+cheat3_enable = false
+
+cheat4_desc = "#Inf Energy洛佩兹"
+cheat4_code = "80169372 1000+80169372 1000"
+cheat4_enable = false
+
+cheat5_desc = "#无限时间"
+cheat5_code = "80170B9C 0DEA"
+cheat5_enable = false
+
+

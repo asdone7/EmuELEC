@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[手雷]ON"
+cheat0_code = "EDEC:63"
+cheat0_enable = false
+
+cheat1_desc = "[子弹无限]ON"
+cheat1_code = "EDF2:E7+EDF3:03"
+cheat1_enable = false
+
+cheat2_desc = "[机器弹药]ON"
+cheat2_code = "EDAC:09"
+cheat2_enable = false
+

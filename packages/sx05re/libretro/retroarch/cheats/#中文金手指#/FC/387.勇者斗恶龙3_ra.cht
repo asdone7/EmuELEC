@@ -1,0 +1,1454 @@
+cheats = 363
+
+cheat0_desc = "[城镇移动]亚利安王国(澳洲)"
+cheat0_code = "002A:AC+002B:DB"
+cheat0_enable = false
+
+cheat1_desc = "[城镇移动]雷贝村"
+cheat1_code = "002A:9F+002B:C1"
+cheat1_enable = false
+
+cheat2_desc = "[城镇移动]罗马尼亚城(意大利)"
+cheat2_code = "002A:34+002B:59"
+cheat2_enable = false
+
+cheat3_desc = "[城镇移动]卡萨布村"
+cheat3_code = "002A:41+002B:27"
+cheat3_enable = false
+
+cheat4_desc = "[城镇移动]诺亚尼村"
+cheat4_code = "002A:38+002B:15"
+cheat4_enable = false
+
+cheat5_desc = "[城镇移动]阿萨拉姆镇(伊拉克)"
+cheat5_code = "002A:56+002B:6F"
+cheat5_enable = false
+
+cheat6_desc = "[城镇移动]金字塔(阿尔及利亚)"
+cheat6_code = "002A:22+002B:76"
+cheat6_enable = false
+
+cheat7_desc = "[城镇移动]伊西斯城"
+cheat7_code = "002A:24+002B:8B"
+cheat7_enable = false
+
+cheat8_desc = "[城镇移动]波特加城(西班牙)"
+cheat8_code = "002A:19+002B:62"
+cheat8_enable = false
+
+cheat9_desc = "[城镇移动]巴哈拉达镇(印度)"
+cheat9_code = "002A:71+002B:9A"
+cheat9_enable = false
+
+cheat10_desc = "[城镇移动]达马神殿(西安)"
+cheat10_code = "002A:7B+002B:82"
+cheat10_enable = false
+
+cheat11_desc = "[城镇移动]特恩村"
+cheat11_code = "002A:2A+002B:BE"
+cheat11_enable = false
+
+cheat12_desc = "[城镇移动]无人城"
+cheat12_code = "002A:33+002B:AC"
+cheat12_enable = false
+
+cheat13_desc = "[城镇移动]盖亚洞窟"
+cheat13_code = "002A:3E+002B:AA"
+cheat13_enable = false
+
+cheat14_desc = "[城镇移动]不死鸟蛋卵"
+cheat14_code = "002A:35+002B:F6"
+cheat14_enable = false
+
+cheat15_desc = "[遇敌机率小]ON"
+cheat15_code = "0700:63+00AD:7F+00A4:FF+001C:A5+001D:00"
+cheat15_enable = false
+
+cheat16_desc = "[不死鸟和船,亚利安王国(移动解锁)]ON"
+cheat16_code = "009E:AC+009F:DB+002D:A8+002E:DA"
+cheat16_enable = false
+
+cheat17_desc = "[致命一击]ON"
+cheat17_code = "0567:20"
+cheat17_enable = false
+
+cheat18_desc = "[自动攻击,全打+魔法反弹]ON"
+cheat18_code = "073C:FF+073D:8F"
+cheat18_enable = false
+
+cheat19_desc = "[一击杀敌]ON"
+cheat19_code = "0520:00+0521:00+0522:00+0523:00+0524:00+0525:00+0526:00+0527:00+0528:00+0529:00+052A:00+052B:00+052C:00+052D:00+052E:00+052F:00+0500:00+0501:00+0502:00+0503:00+0504:00+0505:00+0506:00+0507:00+0508:00+0509:00+050A:00+050B:00+050C:00+050D:00+050E:00+050F:00"
+cheat19_enable = false
+
+cheat20_desc = "[战后经验和钱]零"
+cheat20_code = "005D:00+005E:00+0060:00+0061:00"
+cheat20_enable = false
+
+cheat21_desc = "[战后经验和钱]万"
+cheat21_code = "005D:10+005E:27+0060:10+0061:27"
+cheat21_enable = false
+
+cheat22_desc = "[所有人等级]01"
+cheat22_code = "0700:01+0701:01+0702:01+0703:01"
+cheat22_enable = false
+
+cheat23_desc = "[所有人等级]99"
+cheat23_code = "0700:63+0701:63+0702:63+0703:63"
+cheat23_enable = false
+
+cheat24_desc = "[所有人能力]最大"
+cheat24_code = "0704:FF+0705:FF+0706:FF+0707:FF+0708:FF+0709:FF+070A:FF+070B:FF+070C:FF+070D:FF+070E:FF+070F:FF+0710:FF+0711:FF+0712:FF+0713:FF+0714:FF+0715:FF+0716:FF+0717:FF+071C:E7+071D:03+071E:E7+071F:03+0720:E7+0721:03+0722:E7+0723:03+0724:E7+0725:03+0726:E7+0727:03+0728:E7+0729:03+072A:E7+072B:03+072C:E7+072D:03+072E:E7+072F:03+0730:E7+0731:03+0732:E7+0733:03+0734:E7+0735:03+0736:E7+0737:03+0738:E7+0739:03+073A:E7+073B:03"
+cheat24_enable = false
+
+cheat25_desc = "[所有人咒语]最全"
+cheat25_code = "078C:FF+078D:FF+078E:FF+078F:FF+0790:FF+0791:FF+0792:FF+0793:FF+0794:FF+0795:FF+0796:FF+0797:FF+0798:FF+0799:FF+079A:FF+079B:FF+079C:FF+079D:FF+079E:FF+079F:FF+07A0:FF+07A1:FF+07A2:FF+07A3:FF+07A4:FF+07A5:FF+07A6:FF+07A7:FF+07A8:FF+07A9:FF+07AA:FF+07AB:FF"
+cheat25_enable = false
+
+cheat26_desc = "[敌1出现数量]1个(锁)"
+cheat26_code = "0571:01"
+cheat26_enable = false
+
+cheat27_desc = "[敌1出现数量]4个"
+cheat27_code = "0571:04"
+cheat27_enable = false
+
+cheat28_desc = "[敌1出现数量]8个"
+cheat28_code = "0571:08"
+cheat28_enable = false
+
+cheat29_desc = "[选择1号敌人]史菜姆"
+cheat29_code = "056D:00"
+cheat29_enable = false
+
+cheat30_desc = "[选择1号敌人]大乌鸦"
+cheat30_code = "056D:01"
+cheat30_enable = false
+
+cheat31_desc = "[选择1号敌人]一角兔"
+cheat31_code = "056D:02"
+cheat31_enable = false
+
+cheat32_desc = "[选择1号敌人]大食蚁兽"
+cheat32_code = "056D:03"
+cheat32_enable = false
+
+cheat33_desc = "[选择1号敌人]人面碟"
+cheat33_code = "056D:04"
+cheat33_enable = false
+
+cheat34_desc = "[选择1号敌人]毒蛙怪"
+cheat34_code = "056D:05"
+cheat34_enable = false
+
+cheat35_desc = "[选择1号敌人]泡史菜姆"
+cheat35_code = "056D:06"
+cheat35_enable = false
+
+cheat36_desc = "[选择1号敌人]魔法师"
+cheat36_code = "056D:07"
+cheat36_enable = false
+
+cheat37_desc = "[选择1号敌人]蝎子蜂"
+cheat37_code = "056D:08"
+cheat37_enable = false
+
+cheat38_desc = "[选择1号敌人]荷史菜姆"
+cheat38_code = "056D:09"
+cheat38_enable = false
+
+cheat39_desc = "[选择1号敌人]食蚁兽怪"
+cheat39_code = "056D:0A"
+cheat39_enable = false
+
+cheat40_desc = "[选择1号敌人]阿米吉"
+cheat40_code = "056D:0B"
+cheat40_enable = false
+
+cheat41_desc = "[选择1号敌人]波兹特"
+cheat41_code = "056D:0C"
+cheat41_enable = false
+
+cheat42_desc = "[选择1号敌人]凯特比拉"
+cheat42_code = "056D:0D"
+cheat42_enable = false
+
+cheat43_desc = "[选择1号敌人]蝙蝠人"
+cheat43_code = "056D:0E"
+cheat43_enable = false
+
+cheat44_desc = "[选择1号敌人]怪力兽"
+cheat44_code = "056D:0F"
+cheat44_enable = false
+
+cheat45_desc = "[选择1号敌人]杀人鬼"
+cheat45_code = "056D:10"
+cheat45_enable = false
+
+cheat46_desc = "[选择1号敌人]军队蟹"
+cheat46_code = "056D:11"
+cheat46_enable = false
+
+cheat47_desc = "[选择1号敌人]基兹魔"
+cheat47_code = "056D:12"
+cheat47_enable = false
+
+cheat48_desc = "[选择1号敌人]香菇怪"
+cheat48_code = "056D:13"
+cheat48_enable = false
+
+cheat49_desc = "[选择1号敌人]毒芋虫"
+cheat49_code = "056D:14"
+cheat49_enable = false
+
+cheat50_desc = "[选择1号敌人]德弗拉德"
+cheat50_code = "056D:15"
+cheat50_enable = false
+
+cheat51_desc = "[选择1号敌人]巴利多狗"
+cheat51_code = "056D:16"
+cheat51_enable = false
+
+cheat52_desc = "[选择1号敌人]玛塔高"
+cheat52_code = "056D:17"
+cheat52_enable = false
+
+cheat53_desc = "[选择1号敌人]怪影"
+cheat53_code = "056D:18"
+cheat53_enable = false
+
+cheat54_desc = "[选择1号敌人]蝙蝠魔"
+cheat54_code = "056D:19"
+cheat54_enable = false
+
+cheat55_desc = "[选择1号敌人]食人蛾"
+cheat55_code = "056D:1A"
+cheat55_enable = false
+
+cheat56_desc = "[选择1号敌人]流浪人"
+cheat56_code = "056D:1B"
+cheat56_enable = false
+
+cheat57_desc = "[选择1号敌人]飞猫"
+cheat57_code = "056D:1C"
+cheat57_enable = false
+
+cheat58_desc = "[选择1号敌人]蛤蟆大王"
+cheat58_code = "056D:1D"
+cheat58_enable = false
+
+cheat59_desc = "[选择1号敌人]凶暴猿"
+cheat59_code = "056D:1E"
+cheat59_enable = false
+
+cheat60_desc = "[选择1号敌人]笑袋"
+cheat60_code = "056D:1F"
+cheat60_enable = false
+
+cheat61_desc = "[选择1号敌人]木乃伊人"
+cheat61_code = "056D:20"
+cheat61_enable = false
+
+cheat62_desc = "[选择1号敌人]地狱剪"
+cheat62_code = "056D:21"
+cheat62_enable = false
+
+cheat63_desc = "[选择1号敌人]德鲁伊道"
+cheat63_code = "056D:22"
+cheat63_enable = false
+
+cheat64_desc = "[选择1号敌人]火焰蜈蚣"
+cheat64_code = "056D:23"
+cheat64_enable = false
+
+cheat65_desc = "[选择1号敌人]玛米"
+cheat65_code = "056D:24"
+cheat65_enable = false
+
+cheat66_desc = "[选择1号敌人]玛吉塔高"
+cheat66_code = "056D:25"
+cheat66_enable = false
+
+cheat67_desc = "[选择1号敌人]猎人蜂"
+cheat67_code = "056D:26"
+cheat67_enable = false
+
+cheat68_desc = "[选择1号敌人]狗僵尸"
+cheat68_code = "056D:27"
+cheat68_enable = false
+
+cheat69_desc = "[选择1号敌人]幻术师"
+cheat69_code = "056D:28"
+cheat69_enable = false
+
+cheat70_desc = "[选择1号敌人]热基斯魔"
+cheat70_code = "056D:29"
+cheat70_enable = false
+
+cheat71_desc = "[选择1号敌人]按特贝亚"
+cheat71_code = "056D:2A"
+cheat71_enable = false
+
+cheat72_desc = "[选择1号敌人]伯荷马姆"
+cheat72_code = "056D:2B"
+cheat72_enable = false
+
+cheat73_desc = "[选择1号敌人]牛羊怪"
+cheat73_code = "056D:2C"
+cheat73_enable = false
+
+cheat74_desc = "[选择1号敌人]蝙蝠猫"
+cheat74_code = "056D:2D"
+cheat74_enable = false
+
+cheat75_desc = "[选择1号敌人]埃比玛吉"
+cheat75_code = "056D:2E"
+cheat75_enable = false
+
+cheat76_desc = "[选择1号敌人]基拉埃布"
+cheat76_code = "056D:2F"
+cheat76_enable = false
+
+cheat77_desc = "[选择1号敌人]卡鲁达"
+cheat77_code = "056D:30"
+cheat77_enable = false
+
+cheat78_desc = "[选择1号敌人]金史菜姆"
+cheat78_code = "056D:31"
+cheat78_enable = false
+
+cheat79_desc = "[选择1号敌人]高道羊"
+cheat79_code = "056D:32"
+cheat79_enable = false
+
+cheat80_desc = "[选择1号敌人]杀人鬼1"
+cheat80_code = "056D:33"
+cheat80_enable = false
+
+cheat81_desc = "[选择1号敌人]贝撒塔"
+cheat81_code = "056D:34"
+cheat81_enable = false
+
+cheat82_desc = "[选择1号敌人]鬼面道士"
+cheat82_code = "056D:35"
+cheat82_enable = false
+
+cheat83_desc = "[选择1号敌人]食人箱"
+cheat83_code = "056D:36"
+cheat83_enable = false
+
+cheat84_desc = "[选择1号敌人]埃利塔"
+cheat84_code = "056D:37"
+cheat84_enable = false
+
+cheat85_desc = "[选择1号敌人]长嘴怪"
+cheat85_code = "056D:38"
+cheat85_enable = false
+
+cheat86_desc = "[选择1号敌人]史菜姆螺"
+cheat86_code = "056D:39"
+cheat86_enable = false
+
+cheat87_desc = "[选择1号敌人]飞龙"
+cheat87_code = "056D:3A"
+cheat87_enable = false
+
+cheat88_desc = "[选择1号敌人]巴那巴斯"
+cheat88_code = "056D:3B"
+cheat88_enable = false
+
+cheat89_desc = "[选择1号敌人]魔女"
+cheat89_code = "056D:3C"
+cheat89_enable = false
+
+cheat90_desc = "[选择1号敌人]德特贝加"
+cheat90_code = "056D:3D"
+cheat90_enable = false
+
+cheat91_desc = "[选择1号敌人]地狱甲胃"
+cheat91_code = "056D:3E"
+cheat91_enable = false
+
+cheat92_desc = "[选择1号敌人]海史菜姆"
+cheat92_code = "056D:3F"
+cheat92_enable = false
+
+cheat93_desc = "[选择1号敌人]毒海蛰"
+cheat93_code = "056D:40"
+cheat93_enable = false
+
+cheat94_desc = "[选择1号敌人]半人鱼"
+cheat94_code = "056D:41"
+cheat94_enable = false
+
+cheat95_desc = "[选择1号敌人]章鱼王"
+cheat95_code = "056D:42"
+cheat95_enable = false
+
+cheat96_desc = "[选择1号敌人]蟹怪"
+cheat96_code = "056D:43"
+cheat96_enable = false
+
+cheat97_desc = "[选择1号敌人]变形鱼"
+cheat97_code = "056D:44"
+cheat97_enable = false
+
+cheat98_desc = "[选择1号敌人]蓝秃鹰"
+cheat98_code = "056D:45"
+cheat98_enable = false
+
+cheat99_desc = "[选择1号敌人]豪杰熊"
+cheat99_code = "056D:46"
+cheat99_enable = false
+
+cheat100_desc = "[选择1号敌人]腐败尸体"
+cheat100_code = "056D:47"
+cheat100_enable = false
+
+cheat101_desc = "[选择1号敌人]大角兽"
+cheat101_code = "056D:48"
+cheat101_enable = false
+
+cheat102_desc = "[选择1号敌人]毒蝴蝶"
+cheat102_code = "056D:49"
+cheat102_enable = false
+
+cheat103_desc = "[选择1号敌人]毒僵尸"
+cheat103_code = "056D:4A"
+cheat103_enable = false
+
+cheat104_desc = "[选择1号敌人]金属怪"
+cheat104_code = "056D:4B"
+cheat104_enable = false
+
+cheat105_desc = "[选择1号敌人]甲胃魔"
+cheat105_code = "056D:4C"
+cheat105_enable = false
+
+cheat106_desc = "[选择1号敌人]德斯特加"
+cheat106_code = "056D:4D"
+cheat106_enable = false
+
+cheat107_desc = "[选择1号敌人]溶岩魔人"
+cheat107_code = "056D:4E"
+cheat107_enable = false
+
+cheat108_desc = "[选择1号敌人]夏曼"
+cheat108_code = "056D:4F"
+cheat108_enable = false
+
+cheat109_desc = "[选择1号敌人]巫婆"
+cheat109_code = "056D:50"
+cheat109_enable = false
+
+cheat110_desc = "[选择1号敌人]影怪"
+cheat110_code = "056D:51"
+cheat110_enable = false
+
+cheat111_desc = "[选择1号敌人]冰河魔人"
+cheat111_code = "056D:52"
+cheat111_enable = false
+
+cheat112_desc = "[选择1号敌人]狮头怪"
+cheat112_code = "056D:53"
+cheat112_enable = false
+
+cheat113_desc = "[选择1号敌人]？"
+cheat113_code = "056D:54"
+cheat113_enable = false
+
+cheat114_desc = "[选择1号敌人]冰基斯魔"
+cheat114_code = "056D:55"
+cheat114_enable = false
+
+cheat115_desc = "[选择1号敌人]舞蹈宝石"
+cheat115_code = "056D:56"
+cheat115_enable = false
+
+cheat116_desc = "[选择1号敌人]迷你德蒙"
+cheat116_code = "056D:57"
+cheat116_enable = false
+
+cheat117_desc = "[选择1号敌人]天库罗斯"
+cheat117_code = "056D:58"
+cheat117_enable = false
+
+cheat118_desc = "[选择1号敌人]骷髅剑士"
+cheat118_code = "056D:59"
+cheat118_enable = false
+
+cheat119_desc = "[选择1号敌人]米米克"
+cheat119_code = "056D:5A"
+cheat119_enable = false
+
+cheat120_desc = "[选择1号敌人]地狱骑士"
+cheat120_code = "056D:5B"
+cheat120_enable = false
+
+cheat121_desc = "[选择1号敌人]罗高斯特"
+cheat121_code = "056D:5C"
+cheat121_enable = false
+
+cheat122_desc = "[选择1号敌人]八头大蛇"
+cheat122_code = "056D:5D"
+cheat122_enable = false
+
+cheat123_desc = "[选择1号敌人]石头"
+cheat123_code = "056D:5E"
+cheat123_enable = false
+
+cheat124_desc = "[选择1号敌人]喷火龙"
+cheat124_code = "056D:5F"
+cheat124_enable = false
+
+cheat125_desc = "[选择1号敌人]菜姆贝斯"
+cheat125_code = "056D:60"
+cheat125_enable = false
+
+cheat126_desc = "[选择1号敌人]玛道汉特"
+cheat126_code = "056D:61"
+cheat126_enable = false
+
+cheat127_desc = "[选择1号敌人]小恶魔"
+cheat127_code = "056D:62"
+cheat127_enable = false
+
+cheat128_desc = "[选择1号敌人]玛罗贝塔"
+cheat128_code = "056D:63"
+cheat128_enable = false
+
+cheat129_desc = "[选择1号敌人]美达尔"
+cheat129_code = "056D:64"
+cheat129_enable = false
+
+cheat130_desc = "[选择1号敌人]库尔"
+cheat130_code = "056D:65"
+cheat130_enable = false
+
+cheat131_desc = "[选择1号敌人]拉奥贝特"
+cheat131_code = "056D:66"
+cheat131_enable = false
+
+cheat132_desc = "[选择1号敌人]波特罗尔"
+cheat132_code = "056D:67"
+cheat132_enable = false
+
+cheat133_desc = "[选择1号敌人]高鲁道曼"
+cheat133_code = "056D:68"
+cheat133_enable = false
+
+cheat134_desc = "[选择1号敌人]斯卡尔曼"
+cheat134_code = "056D:69"
+cheat134_enable = false
+
+cheat135_desc = "[选择1号敌人]人鱼王"
+cheat135_code = "056D:6A"
+cheat135_enable = false
+
+cheat136_desc = "[选择1号敌人]古拉高"
+cheat136_code = "056D:6B"
+cheat136_enable = false
+
+cheat137_desc = "[选择1号敌人]达斯卡特(经验高)"
+cheat137_code = "056D:6C"
+cheat137_enable = false
+
+cheat138_desc = "[选择1号敌人]大魔神"
+cheat138_code = "056D:6D"
+cheat138_enable = false
+
+cheat139_desc = "[选择1号敌人]拉高奴"
+cheat139_code = "056D:6E"
+cheat139_enable = false
+
+cheat140_desc = "[选择1号敌人]阿克玛吉"
+cheat140_code = "056D:6F"
+cheat140_enable = false
+
+cheat141_desc = "[选择1号敌人]美吉克拉"
+cheat141_code = "056D:70"
+cheat141_enable = false
+
+cheat142_desc = "[选择1号敌人]撒塔巴比"
+cheat142_code = "056D:71"
+cheat142_enable = false
+
+cheat143_desc = "[选择1号敌人]水蛇"
+cheat143_code = "056D:72"
+cheat143_enable = false
+
+cheat144_desc = "[选择1号敌人]特鲁克"
+cheat144_code = "056D:73"
+cheat144_enable = false
+
+cheat145_desc = "[选择1号敌人]巨龙"
+cheat145_code = "056D:74"
+cheat145_enable = false
+
+cheat146_desc = "[选择1号敌人]巴鲁罗克"
+cheat146_code = "056D:75"
+cheat146_enable = false
+
+cheat147_desc = "[选择1号敌人]巨龙僵尸"
+cheat147_code = "056D:76"
+cheat147_enable = false
+
+cheat148_desc = "[选择1号敌人]马特高拉"
+cheat148_code = "056D:77"
+cheat148_enable = false
+
+cheat149_desc = "[选择1号敌人]苏特伊德"
+cheat149_code = "056D:78"
+cheat149_enable = false
+
+cheat150_desc = "[选择1号敌人]水蛇王"
+cheat150_code = "056D:79"
+cheat150_enable = false
+
+cheat151_desc = "[选择1号敌人]魔布罗斯"
+cheat151_code = "056D:7A"
+cheat151_enable = false
+
+cheat152_desc = "[选择1号敌人]魔王僵尸"
+cheat152_code = "056D:7B"
+cheat152_enable = false
+
+cheat153_desc = "[选择1号敌人]魔王"
+cheat153_code = "056D:7C"
+cheat153_enable = false
+
+cheat154_desc = "[选择1号敌人]大魔王"
+cheat154_code = "056D:7D"
+cheat154_enable = false
+
+cheat155_desc = "[选择1号敌人]大魔王1"
+cheat155_code = "056D:7E"
+cheat155_enable = false
+
+cheat156_desc = "[选择1号敌人]欧特加"
+cheat156_code = "056D:7F"
+cheat156_enable = false
+
+cheat157_desc = "[选择1号敌人]加坦达"
+cheat157_code = "056D:80"
+cheat157_enable = false
+
+cheat158_desc = "[选择1号敌人]加坦达1"
+cheat158_code = "056D:81"
+cheat158_enable = false
+
+cheat159_desc = "[选择1号敌人]加坦达羽"
+cheat159_code = "056D:82"
+cheat159_enable = false
+
+cheat160_desc = "[选择1号敌人]？？"
+cheat160_code = "056D:83"
+cheat160_enable = false
+
+cheat161_desc = "[选择1号敌人]蛇"
+cheat161_code = "056D:84"
+cheat161_enable = false
+
+cheat162_desc = "[选择1号敌人]特鲁克1"
+cheat162_code = "056D:85"
+cheat162_enable = false
+
+cheat163_desc = "[选择1号敌人]巨龙1"
+cheat163_code = "056D:86"
+cheat163_enable = false
+
+cheat164_desc = "[选择1号敌人]巴鲁罗克1"
+cheat164_code = "056D:87"
+cheat164_enable = false
+
+cheat165_desc = "[第一人物品多个]普通类"
+cheat165_code = "076C:65+076D:66+076E:67+076F:68+0770:6C+0771:74+0772:56+0773:73"
+cheat165_enable = false
+
+cheat166_desc = "[第一人物品多个]火种类"
+cheat166_code = "076C:77+076D:78+076E:79+076F:7A+0770:7B+0771:7C+0772:FF+0773:FF"
+cheat166_enable = false
+
+cheat167_desc = "[第一人物品多个]提升类"
+cheat167_code = "076C:5F+076D:60+076E:61+076F:62+0770:63+0771:64+0772:FF+0773:FF"
+cheat167_enable = false
+
+cheat168_desc = "[第一人物品多个]特殊类1"
+cheat168_code = "076C:47+076D:48+076E:49+076F:4A+0770:4B+0771:4C+0772:4D+0773:FF"
+cheat168_enable = false
+
+cheat169_desc = "[第一人物品多个]特殊类2"
+cheat169_code = "076C:4E+076D:50+076E:51+076F:52+0770:53+0771:54+0772:55+0773:FF"
+cheat169_enable = false
+
+cheat170_desc = "[第一人物品多个]特殊类3"
+cheat170_code = "076C:57+076D:58+076E:59+076F:5A+0770:5B+0771:69+0772:6A+0773:FF"
+cheat170_enable = false
+
+cheat171_desc = "[第一人物品多个]特殊类4"
+cheat171_code = "076C:6B+076D:6D+076E:6E+076F:6F+0770:70+0771:71+0772:72+0773:FF"
+cheat171_enable = false
+
+cheat172_desc = "[第一人物品多个]特殊类5"
+cheat172_code = "076C:75+076D:76+076E:5C+076F:4F+0770:5D+0771:5E+0772:2A+0773:FF"
+cheat172_enable = false
+
+cheat173_desc = "[第一人物品1个]无"
+cheat173_code = "076C:FF"
+cheat173_enable = false
+
+cheat174_desc = "[第一人物品1个]柏木棒"
+cheat174_code = "076C:00"
+cheat174_enable = false
+
+cheat175_desc = "[第一人物品1个]棍棒"
+cheat175_code = "076C:01"
+cheat175_enable = false
+
+cheat176_desc = "[第一人物品1个]铜剑"
+cheat176_code = "076C:02"
+cheat176_enable = false
+
+cheat177_desc = "[第一人物品1个]圣匕首"
+cheat177_code = "076C:03"
+cheat177_enable = false
+
+cheat178_desc = "[第一人物品1个]铁矛"
+cheat178_code = "076C:04"
+cheat178_enable = false
+
+cheat179_desc = "[第一人物品1个]铁斧"
+cheat179_code = "076C:05"
+cheat179_enable = false
+
+cheat180_desc = "[第一人物品1个]钢剑"
+cheat180_code = "076C:06"
+cheat180_enable = false
+
+cheat181_desc = "[第一人物品1个]魔道杖"
+cheat181_code = "076C:07"
+cheat181_enable = false
+
+cheat182_desc = "[第一人物品1个]毒针"
+cheat182_code = "076C:08"
+cheat182_enable = false
+
+cheat183_desc = "[第一人物品1个]铁爪"
+cheat183_code = "076C:09"
+cheat183_enable = false
+
+cheat184_desc = "[第一人物品1个]荆棘鞭"
+cheat184_code = "076C:0A"
+cheat184_enable = false
+
+cheat185_desc = "[第一人物品1个]大剪刀"
+cheat185_code = "076C:0B"
+cheat185_enable = false
+
+cheat186_desc = "[第一人物品1个]链条刀"
+cheat186_code = "076C:0C"
+cheat186_enable = false
+
+cheat187_desc = "[第一人物品1个]雷神剑"
+cheat187_code = "076C:0D"
+cheat187_enable = false
+
+cheat188_desc = "[第一人物品1个]吹雪剑"
+cheat188_code = "076C:0E"
+cheat188_enable = false
+
+cheat189_desc = "[第一人物品1个]魔神斧 增加致命一击机率"
+cheat189_code = "076C:0F"
+cheat189_enable = false
+
+cheat190_desc = "[第一人物品1个]云雨杖"
+cheat190_code = "076C:10"
+cheat190_enable = false
+
+cheat191_desc = "[第一人物品1个]盖亚剑"
+cheat191_code = "076C:11"
+cheat191_enable = false
+
+cheat192_desc = "[第一人物品1个]微波杖"
+cheat192_code = "076C:12"
+cheat192_enable = false
+
+cheat193_desc = "[第一人物品1个]破坏剑"
+cheat193_code = "076C:13"
+cheat193_enable = false
+
+cheat194_desc = "[第一人物品1个]双刃剑"
+cheat194_code = "076C:14"
+cheat194_enable = false
+
+cheat195_desc = "[第一人物品1个]力量杖"
+cheat195_code = "076C:15"
+cheat195_enable = false
+
+cheat196_desc = "[第一人物品1个]诱惑剑"
+cheat196_code = "076C:16"
+cheat196_enable = false
+
+cheat197_desc = "[第一人物品1个]神力剑"
+cheat197_code = "076C:17"
+cheat197_enable = false
+
+cheat198_desc = "[第一人物品1个]游集剑"
+cheat198_code = "076C:18"
+cheat198_enable = false
+
+cheat199_desc = "[第一人物品1个]大榔头"
+cheat199_code = "076C:19"
+cheat199_enable = false
+
+cheat200_desc = "[第一人物品1个]闪电剑"
+cheat200_code = "076C:1A"
+cheat200_enable = false
+
+cheat201_desc = "[第一人物品1个]雷神杖"
+cheat201_code = "076C:1B"
+cheat201_enable = false
+
+cheat202_desc = "[第一人物品1个]王者剑"
+cheat202_code = "076C:1C"
+cheat202_enable = false
+
+cheat203_desc = "[第一人物品1个]草芷剑"
+cheat203_code = "076C:1D"
+cheat203_enable = false
+
+cheat204_desc = "[第一人物品1个]屠龙剑"
+cheat204_code = "076C:1E"
+cheat204_enable = false
+
+cheat205_desc = "[第一人物品1个]审判杖"
+cheat205_code = "076C:1F"
+cheat205_enable = false
+
+cheat206_desc = "[第一人物品1个]布衣"
+cheat206_code = "076C:20"
+cheat206_enable = false
+
+cheat207_desc = "[第一人物品1个]练功服"
+cheat207_code = "076C:21"
+cheat207_enable = false
+
+cheat208_desc = "[第一人物品1个]皮铠"
+cheat208_code = "076C:22"
+cheat208_enable = false
+
+cheat209_desc = "[第一人物品1个]华服"
+cheat209_code = "076C:23"
+cheat209_enable = false
+
+cheat210_desc = "[第一人物品1个]铁铠"
+cheat210_code = "076C:24"
+cheat210_enable = false
+
+cheat211_desc = "[第一人物品1个]钢铠"
+cheat211_code = "076C:25"
+cheat211_enable = false
+
+cheat212_desc = "[第一人物品1个]魔铠"
+cheat212_code = "076C:26"
+cheat212_enable = false
+
+cheat213_desc = "[第一人物品1个]闪躲服"
+cheat213_code = "076C:27"
+cheat213_enable = false
+
+cheat214_desc = "[第一人物品1个]光之铠"
+cheat214_code = "076C:28"
+cheat214_enable = false
+
+cheat215_desc = "[第一人物品1个]铁围裙"
+cheat215_code = "076C:29"
+cheat215_enable = false
+
+cheat216_desc = "[第一人物品1个]演出服"
+cheat216_code = "076C:2A"
+cheat216_enable = false
+
+cheat217_desc = "[第一人物品1个]武斗装"
+cheat217_code = "076C:2B"
+cheat217_enable = false
+
+cheat218_desc = "[第一人物品1个]魔法衣"
+cheat218_code = "076C:2C"
+cheat218_enable = false
+
+cheat219_desc = "[第一人物品1个]地狱铠"
+cheat219_code = "076C:2D"
+cheat219_enable = false
+
+cheat220_desc = "[第一人物品1个]防火衣"
+cheat220_code = "076C:2E"
+cheat220_enable = false
+
+cheat221_desc = "[第一人物品1个]锁子甲"
+cheat221_code = "076C:2F"
+cheat221_enable = false
+
+cheat222_desc = "[第一人物品1个]旅人服"
+cheat222_code = "076C:30"
+cheat222_enable = false
+
+cheat223_desc = "[第一人物品1个]救生服"
+cheat223_code = "076C:31"
+cheat223_enable = false
+
+cheat224_desc = "[第一人物品1个]魔法甲"
+cheat224_code = "076C:32"
+cheat224_enable = false
+
+cheat225_desc = "[第一人物品1个]龟壳甲"
+cheat225_code = "076C:33"
+cheat225_enable = false
+
+cheat226_desc = "[第一人物品1个]大地甲"
+cheat226_code = "076C:34"
+cheat226_enable = false
+
+cheat227_desc = "[第一人物品1个]公龙甲"
+cheat227_code = "076C:35"
+cheat227_enable = false
+
+cheat228_desc = "[第一人物品1个]利刃甲"
+cheat228_code = "076C:36"
+cheat228_enable = false
+
+cheat229_desc = "[第一人物品1个]天使袍"
+cheat229_code = "076C:37"
+cheat229_enable = false
+
+cheat230_desc = "[第一人物品1个]皮盾"
+cheat230_code = "076C:38"
+cheat230_enable = false
+
+cheat231_desc = "[第一人物品1个]铁盾"
+cheat231_code = "076C:39"
+cheat231_enable = false
+
+cheat232_desc = "[第一人物品1个]力盾"
+cheat232_code = "076C:3A"
+cheat232_enable = false
+
+cheat233_desc = "[第一人物品1个]勇者盾"
+cheat233_code = "076C:3B"
+cheat233_enable = false
+
+cheat234_desc = "[第一人物品1个]悲伤盾"
+cheat234_code = "076C:3C"
+cheat234_enable = false
+
+cheat235_desc = "[第一人物品1个]青铜盾"
+cheat235_code = "076C:3D"
+cheat235_enable = false
+
+cheat236_desc = "[第一人物品1个]猫形盾"
+cheat236_code = "076C:3E"
+cheat236_enable = false
+
+cheat237_desc = "[第一人物品1个]金冠"
+cheat237_code = "076C:3F"
+cheat237_enable = false
+
+cheat238_desc = "[第一人物品1个]铁盔"
+cheat238_code = "076C:40"
+cheat238_enable = false
+
+cheat239_desc = "[第一人物品1个]神奇帽"
+cheat239_code = "076C:41"
+cheat239_enable = false
+
+cheat240_desc = "[第一人物品1个]魔头盔"
+cheat240_code = "076C:42"
+cheat240_enable = false
+
+cheat241_desc = "[第一人物品1个]头巾"
+cheat241_code = "076C:43"
+cheat241_enable = false
+
+cheat242_desc = "[第一人物品1个]鬼面具"
+cheat242_code = "076C:44"
+cheat242_enable = false
+
+cheat243_desc = "[第一人物品1个]皮帽"
+cheat243_code = "076C:45"
+cheat243_enable = false
+
+cheat244_desc = "[第一人物品1个]铁假面"
+cheat244_code = "076C:46"
+cheat244_enable = false
+
+cheat245_desc = "[第一人物品1个]圣守护"
+cheat245_code = "076C:47"
+cheat245_enable = false
+
+cheat246_desc = "[第一人物品1个]戒指"
+cheat246_code = "076C:48"
+cheat246_enable = false
+
+cheat247_desc = "[第一人物品1个]幸福鞋"
+cheat247_code = "076C:49"
+cheat247_enable = false
+
+cheat248_desc = "[第一人物品1个]黄金爪"
+cheat248_code = "076C:4A"
+cheat248_enable = false
+
+cheat249_desc = "[第一人物品1个]星手镯"
+cheat249_code = "076C:4B"
+cheat249_enable = false
+
+cheat250_desc = "[第一人物品1个]悟道书"
+cheat250_code = "076C:4C"
+cheat250_enable = false
+
+cheat251_desc = "[第一人物品1个]小徽章"
+cheat251_code = "076C:4D"
+cheat251_enable = false
+
+cheat252_desc = "[第一人物品1个]大戒指"
+cheat252_code = "076C:4E"
+cheat252_enable = false
+
+cheat253_desc = "[第一人物品1个]黑胡椒"
+cheat253_code = "076C:4F"
+cheat253_enable = false
+
+cheat254_desc = "[第一人物品1个]贤者石"
+cheat254_code = "076C:50"
+cheat254_enable = false
+
+cheat255_desc = "[第一人物品1个]太阳镜"
+cheat255_code = "076C:51"
+cheat255_enable = false
+
+cheat256_desc = "[第一人物品1个]干渴壶"
+cheat256_code = "076C:52"
+cheat256_enable = false
+
+cheat257_desc = "[第一人物品1个]暗之灯"
+cheat257_code = "076C:53"
+cheat257_enable = false
+
+cheat258_desc = "[第一人物品1个]变身杖"
+cheat258_code = "076C:54"
+cheat258_enable = false
+
+cheat259_desc = "[第一人物品1个]生命石"
+cheat259_code = "076C:55"
+cheat259_enable = false
+
+cheat260_desc = "[第一人物品1个]隐身草"
+cheat260_code = "076C:56"
+cheat260_enable = false
+
+cheat261_desc = "[第一人物品1个]魔法球"
+cheat261_code = "076C:57"
+cheat261_enable = false
+
+cheat262_desc = "[第一人物品1个]贼锁匙"
+cheat262_code = "076C:58"
+cheat262_enable = false
+
+cheat263_desc = "[第一人物品1个]法锁匙"
+cheat263_code = "076C:59"
+cheat263_enable = false
+
+cheat264_desc = "[第一人物品1个]魔锁匙"
+cheat264_code = "076C:5A"
+cheat264_enable = false
+
+cheat265_desc = "[第一人物品1个]梦宝石"
+cheat265_code = "076C:5B"
+cheat265_enable = false
+
+cheat266_desc = "[第一人物品1个]觉醒粉"
+cheat266_code = "076C:5C"
+cheat266_enable = false
+
+cheat267_desc = "[第一人物品1个]御书"
+cheat267_code = "076C:5D"
+cheat267_enable = false
+
+cheat268_desc = "[第一人物品1个]异金属"
+cheat268_code = "076C:5E"
+cheat268_enable = false
+
+cheat269_desc = "[第一人物品1个]力量果"
+cheat269_code = "076C:5F"
+cheat269_enable = false
+
+cheat270_desc = "[第一人物品1个]速度果"
+cheat270_code = "076C:60"
+cheat270_enable = false
+
+cheat271_desc = "[第一人物品1个]体力果"
+cheat271_code = "076C:61"
+cheat271_enable = false
+
+cheat272_desc = "[第一人物品1个]幸运果"
+cheat272_code = "076C:62"
+cheat272_enable = false
+
+cheat273_desc = "[第一人物品1个]聪明果"
+cheat273_code = "076C:63"
+cheat273_enable = false
+
+cheat274_desc = "[第一人物品1个]生命果"
+cheat274_code = "076C:64"
+cheat274_enable = false
+
+cheat275_desc = "[第一人物品1个]药草"
+cheat275_code = "076C:65"
+cheat275_enable = false
+
+cheat276_desc = "[第一人物品1个]解毒草"
+cheat276_code = "076C:66"
+cheat276_enable = false
+
+cheat277_desc = "[第一人物品1个]圣水"
+cheat277_code = "076C:67"
+cheat277_enable = false
+
+cheat278_desc = "[第一人物品1个]飞行翼"
+cheat278_code = "076C:68"
+cheat278_enable = false
+
+cheat279_desc = "[第一人物品1个]树叶"
+cheat279_code = "076C:69"
+cheat279_enable = false
+
+cheat280_desc = "[第一人物品1个]自鸣琴"
+cheat280_code = "076C:6A"
+cheat280_enable = false
+
+cheat281_desc = "[第一人物品1个]回忆"
+cheat281_code = "076C:6B"
+cheat281_enable = false
+
+cheat282_desc = "[第一人物品1个]满月草"
+cheat282_code = "076C:6C"
+cheat282_enable = false
+
+cheat283_desc = "[第一人物品1个]水枪"
+cheat283_code = "076C:6D"
+cheat283_enable = false
+
+cheat284_desc = "[第一人物品1个]船员骨"
+cheat284_code = "076C:6E"
+cheat284_enable = false
+
+cheat285_desc = "[第一人物品1个]回音笛"
+cheat285_code = "076C:6F"
+cheat285_enable = false
+
+cheat286_desc = "[第一人物品1个]妖精笛"
+cheat286_code = "076C:70"
+cheat286_enable = false
+
+cheat287_desc = "[第一人物品1个]银竖琴"
+cheat287_code = "076C:71"
+cheat287_enable = false
+
+cheat288_desc = "[第一人物品1个]光之球"
+cheat288_code = "076C:72"
+cheat288_enable = false
+
+cheat289_desc = "[第一人物品1个]毒蛾粉"
+cheat289_code = "076C:73"
+cheat289_enable = false
+
+cheat290_desc = "[第一人物品1个]蜘蛛丝"
+cheat290_code = "076C:74"
+cheat290_enable = false
+
+cheat291_desc = "[第一人物品1个]太阳石"
+cheat291_code = "076C:75"
+cheat291_enable = false
+
+cheat292_desc = "[第一人物品1个]彩虹"
+cheat292_code = "076C:76"
+cheat292_enable = false
+
+cheat293_desc = "[第一人物品1个]银水晶"
+cheat293_code = "076C:77"
+cheat293_enable = false
+
+cheat294_desc = "[第一人物品1个]红水晶"
+cheat294_code = "076C:78"
+cheat294_enable = false
+
+cheat295_desc = "[第一人物品1个]黄水晶"
+cheat295_code = "076C:79"
+cheat295_enable = false
+
+cheat296_desc = "[第一人物品1个]紫水晶"
+cheat296_code = "076C:7A"
+cheat296_enable = false
+
+cheat297_desc = "[第一人物品1个]蓝水晶"
+cheat297_code = "076C:7B"
+cheat297_enable = false
+
+cheat298_desc = "[第一人物品1个]绿水晶"
+cheat298_code = "076C:7C"
+cheat298_enable = false
+
+cheat299_desc = "[第一人职业]男勇者"
+cheat299_code = "0718:00"
+cheat299_enable = false
+
+cheat300_desc = "[第一人职业]男魔法师"
+cheat300_code = "0718:01"
+cheat300_enable = false
+
+cheat301_desc = "[第一人职业]男僧侣"
+cheat301_code = "0718:02"
+cheat301_enable = false
+
+cheat302_desc = "[第一人职业]男贤者"
+cheat302_code = "0718:03"
+cheat302_enable = false
+
+cheat303_desc = "[第一人职业]男战士"
+cheat303_code = "0718:04"
+cheat303_enable = false
+
+cheat304_desc = "[第一人职业]男商人"
+cheat304_code = "0718:05"
+cheat304_enable = false
+
+cheat305_desc = "[第一人职业]男武术家"
+cheat305_code = "0718:06"
+cheat305_enable = false
+
+cheat306_desc = "[第一人职业]男游人"
+cheat306_code = "0718:07"
+cheat306_enable = false
+
+cheat307_desc = "[第一人职业]女勇者"
+cheat307_code = "0718:08"
+cheat307_enable = false
+
+cheat308_desc = "[第一人职业]女魔法师"
+cheat308_code = "0718:09"
+cheat308_enable = false
+
+cheat309_desc = "[第一人职业]女僧侣"
+cheat309_code = "0718:0A"
+cheat309_enable = false
+
+cheat310_desc = "[第一人职业]女贤者"
+cheat310_code = "0718:0B"
+cheat310_enable = false
+
+cheat311_desc = "[第一人职业]女战士"
+cheat311_code = "0718:0C"
+cheat311_enable = false
+
+cheat312_desc = "[第一人职业]女商人"
+cheat312_code = "0718:0D"
+cheat312_enable = false
+
+cheat313_desc = "[第一人职业]女武术家"
+cheat313_code = "0718:0E"
+cheat313_enable = false
+
+cheat314_desc = "[第一人职业]女游人"
+cheat314_code = "0718:0F"
+cheat314_enable = false
+
+cheat315_desc = "[第二人职业]男勇者"
+cheat315_code = "0719:00"
+cheat315_enable = false
+
+cheat316_desc = "[第二人职业]男魔法师"
+cheat316_code = "0719:01"
+cheat316_enable = false
+
+cheat317_desc = "[第二人职业]男僧侣"
+cheat317_code = "0719:02"
+cheat317_enable = false
+
+cheat318_desc = "[第二人职业]男贤者"
+cheat318_code = "0719:03"
+cheat318_enable = false
+
+cheat319_desc = "[第二人职业]男战士"
+cheat319_code = "0719:04"
+cheat319_enable = false
+
+cheat320_desc = "[第二人职业]男商人"
+cheat320_code = "0719:05"
+cheat320_enable = false
+
+cheat321_desc = "[第二人职业]男武术家"
+cheat321_code = "0719:06"
+cheat321_enable = false
+
+cheat322_desc = "[第二人职业]男游人"
+cheat322_code = "0719:07"
+cheat322_enable = false
+
+cheat323_desc = "[第二人职业]女勇者"
+cheat323_code = "0719:08"
+cheat323_enable = false
+
+cheat324_desc = "[第二人职业]女魔法师"
+cheat324_code = "0719:09"
+cheat324_enable = false
+
+cheat325_desc = "[第二人职业]女僧侣"
+cheat325_code = "0719:0A"
+cheat325_enable = false
+
+cheat326_desc = "[第二人职业]女贤者"
+cheat326_code = "0719:0B"
+cheat326_enable = false
+
+cheat327_desc = "[第二人职业]女战士"
+cheat327_code = "0719:0C"
+cheat327_enable = false
+
+cheat328_desc = "[第二人职业]女商人"
+cheat328_code = "0719:0D"
+cheat328_enable = false
+
+cheat329_desc = "[第二人职业]女武术家"
+cheat329_code = "0719:0E"
+cheat329_enable = false
+
+cheat330_desc = "[第二人职业]女游人"
+cheat330_code = "0719:0F"
+cheat330_enable = false
+
+cheat331_desc = "[第三人职业]男勇者"
+cheat331_code = "071A:00"
+cheat331_enable = false
+
+cheat332_desc = "[第三人职业]男魔法师"
+cheat332_code = "071A:01"
+cheat332_enable = false
+
+cheat333_desc = "[第三人职业]男僧侣"
+cheat333_code = "071A:02"
+cheat333_enable = false
+
+cheat334_desc = "[第三人职业]男贤者"
+cheat334_code = "071A:03"
+cheat334_enable = false
+
+cheat335_desc = "[第三人职业]男战士"
+cheat335_code = "071A:04"
+cheat335_enable = false
+
+cheat336_desc = "[第三人职业]男商人"
+cheat336_code = "0071:05"
+cheat336_enable = false
+
+cheat337_desc = "[第三人职业]男武术家"
+cheat337_code = "0071:06"
+cheat337_enable = false
+
+cheat338_desc = "[第三人职业]男游人"
+cheat338_code = "0071:07"
+cheat338_enable = false
+
+cheat339_desc = "[第三人职业]女勇者"
+cheat339_code = "071A:08"
+cheat339_enable = false
+
+cheat340_desc = "[第三人职业]女魔法师"
+cheat340_code = "071A:09"
+cheat340_enable = false
+
+cheat341_desc = "[第三人职业]女僧侣"
+cheat341_code = "071A:0A"
+cheat341_enable = false
+
+cheat342_desc = "[第三人职业]女贤者"
+cheat342_code = "071A:0B"
+cheat342_enable = false
+
+cheat343_desc = "[第三人职业]女战士"
+cheat343_code = "071A:0C"
+cheat343_enable = false
+
+cheat344_desc = "[第三人职业]女商人"
+cheat344_code = "071A:0D"
+cheat344_enable = false
+
+cheat345_desc = "[第三人职业]女武术家"
+cheat345_code = "071A:0E"
+cheat345_enable = false
+
+cheat346_desc = "[第三人职业]女游人"
+cheat346_code = "071A:0F"
+cheat346_enable = false
+
+cheat347_desc = "[第四人职业]男勇者"
+cheat347_code = "071B:00"
+cheat347_enable = false
+
+cheat348_desc = "[第四人职业]男魔法师"
+cheat348_code = "071B:01"
+cheat348_enable = false
+
+cheat349_desc = "[第四人职业]男僧侣"
+cheat349_code = "071B:02"
+cheat349_enable = false
+
+cheat350_desc = "[第四人职业]男贤者"
+cheat350_code = "071B:03"
+cheat350_enable = false
+
+cheat351_desc = "[第四人职业]男战士"
+cheat351_code = "071B:04"
+cheat351_enable = false
+
+cheat352_desc = "[第四人职业]男商人"
+cheat352_code = "071B:05"
+cheat352_enable = false
+
+cheat353_desc = "[第四人职业]男武术家"
+cheat353_code = "071B:06"
+cheat353_enable = false
+
+cheat354_desc = "[第四人职业]男游人"
+cheat354_code = "071B:07"
+cheat354_enable = false
+
+cheat355_desc = "[第四人职业]女勇者"
+cheat355_code = "071B:08"
+cheat355_enable = false
+
+cheat356_desc = "[第四人职业]女魔法师"
+cheat356_code = "071B:09"
+cheat356_enable = false
+
+cheat357_desc = "[第四人职业]女僧侣"
+cheat357_code = "071B:0A"
+cheat357_enable = false
+
+cheat358_desc = "[第四人职业]女贤者"
+cheat358_code = "071B:0B"
+cheat358_enable = false
+
+cheat359_desc = "[第四人职业]女战士"
+cheat359_code = "071B:0C"
+cheat359_enable = false
+
+cheat360_desc = "[第四人职业]女商人"
+cheat360_code = "071B:0D"
+cheat360_enable = false
+
+cheat361_desc = "[第四人职业]女武术家"
+cheat361_code = "071B:0E"
+cheat361_enable = false
+
+cheat362_desc = "[第四人职业]女游人"
+cheat362_code = "071B:0F"
+cheat362_enable = false
+

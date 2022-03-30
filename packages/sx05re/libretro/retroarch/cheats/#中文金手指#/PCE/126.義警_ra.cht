@@ -1,0 +1,18 @@
+cheats = 4
+
+cheat0_desc = "[Energie Infinie]On"
+cheat0_code = "1F07C9:70"
+cheat0_enable = false
+
+cheat1_desc = "[Avoir le Nunchaku]On"
+cheat1_code = "1F0757:01"
+cheat1_enable = false
+
+cheat2_desc = "[Temps Infini]On"
+cheat2_code = "1F070F:9A"
+cheat2_enable = false
+
+cheat3_desc = "[Vies Infinies]On"
+cheat3_code = "1F0755:05"
+cheat3_enable = false
+

@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[生命数]ON"
+cheat0_code = "0050:14"
+cheat0_enable = false
+
+cheat1_desc = "[能力值]ON"
+cheat1_code = "0053:14"
+cheat1_enable = false
+

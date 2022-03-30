@@ -1,0 +1,26 @@
+cheats = 6
+
+cheat0_desc = "[血不减]ON"
+cheat0_code = "1F1117:32"
+cheat0_enable = false
+
+cheat1_desc = "[接关数]ON"
+cheat1_code = "1F0081:09"
+cheat1_enable = false
+
+cheat2_desc = "[弹药不减]ON"
+cheat2_code = "1F0093:64"
+cheat2_enable = false
+
+cheat3_desc = "[变身型态]刀"
+cheat3_code = "1F1118:00"
+cheat3_enable = false
+
+cheat4_desc = "[变身型态]枪"
+cheat4_code = "1F1118:01"
+cheat4_enable = false
+
+cheat5_desc = "[变身型态]回力镖"
+cheat5_code = "1F1118:02"
+cheat5_enable = false
+

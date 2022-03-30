@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[血]ON"
+cheat0_code = "06DD:64"
+cheat0_enable = false
+
+cheat1_desc = "[武器]ON"
+cheat1_code = "06D2:63+06D3:63+06D4:63+06D5:63+06D6:63+06D7:63+06D8:63+06D9:63+06DA:63+06DB:63"
+cheat1_enable = false
+

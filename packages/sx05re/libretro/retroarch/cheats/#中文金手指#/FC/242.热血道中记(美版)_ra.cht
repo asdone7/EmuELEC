@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[1血]ON"
+cheat0_code = "2200:3F"
+cheat0_enable = false
+
+cheat1_desc = "[2血]ON"
+cheat1_code = "2201:3F"
+cheat1_enable = false
+

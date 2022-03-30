@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[主角无限体力]ON"
+cheat0_code = "06AD:FF"
+cheat0_enable = false
+
+cheat1_desc = "[主角无限生命]ON"
+cheat1_code = "0053:09"
+cheat1_enable = false
+
+cheat2_desc = "[所有武器]ON"
+cheat2_code = "06D1:02+06D2:01+06D3:03+06D4:04+06D5:05+06D6:06+06D7:07+06D8:08+06D9:09+06DA:0A+06DB:0B+06DC:0C+06DD:0D+06DE:0E+06DF:0F"
+cheat2_enable = false
+

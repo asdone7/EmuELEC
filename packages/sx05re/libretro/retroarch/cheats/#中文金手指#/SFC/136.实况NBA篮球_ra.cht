@@ -1,0 +1,14 @@
+cheats = 3
+
+cheat0_desc = "[本队999分]ON"
+cheat0_code = "7E00A6E7+7E00A703"
+cheat0_enable = false
+
+cheat1_desc = "[对手0分]0分"
+cheat1_code = "7E00A800"
+cheat1_enable = false
+
+cheat2_desc = "[10秒作赛]解锁速战速决"
+cheat2_code = "7E00AE0A"
+cheat2_enable = false
+

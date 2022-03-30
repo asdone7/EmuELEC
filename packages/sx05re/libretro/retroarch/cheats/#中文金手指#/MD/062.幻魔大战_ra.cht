@@ -1,0 +1,30 @@
+cheats = 7
+
+cheat0_desc = "[血量不减]ON"
+cheat0_code = "FFF2F9:07+FFF2FB:07"
+cheat0_enable = false
+
+cheat1_desc = "[威力最强]ON"
+cheat1_code = "FFF301:90"
+cheat1_enable = false
+
+cheat2_desc = "[武器选择]‖"
+cheat2_code = "FFF2FD:00"
+cheat2_enable = false
+
+cheat3_desc = "[武器选择]●"
+cheat3_code = "FFF2FD:01"
+cheat3_enable = false
+
+cheat4_desc = "[武器选择]∩"
+cheat4_code = "FFF2FD:02"
+cheat4_enable = false
+
+cheat5_desc = "[武器选择]★"
+cheat5_code = "FFF2FD:03"
+cheat5_enable = false
+
+cheat6_desc = "[武器选择]＊"
+cheat6_code = "FFF2FD:04"
+cheat6_enable = false
+

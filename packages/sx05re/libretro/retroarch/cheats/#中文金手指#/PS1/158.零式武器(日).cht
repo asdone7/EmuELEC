@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "#无限能量零"
+cheat0_code = "80088B70 05DC+800BD5B4 05DC+801BF754 05DC+801BF794 2E88"
+cheat0_enable = false
+
+cheat1_desc = "#无限炸弹零"
+cheat1_code = "801BF782 0063"
+cheat1_enable = false
+
+cheat2_desc = "#无限特殊攻击零"
+cheat2_code = "801BF77F 0063"
+cheat2_enable = false
+
+cheat3_desc = "#无限能量队长哈洛克"
+cheat3_code = "80088B70 05DC+800BD5B4 05DC+801BDF4C 05DC"
+cheat3_enable = false
+
+cheat4_desc = "#无限炸弹哈洛克船长"
+cheat4_code = "801BDF7A 0063"
+cheat4_enable = false
+
+cheat5_desc = "#无限特攻队长哈洛克"
+cheat5_code = "801BDF77 0063"
+cheat5_enable = false
+
+

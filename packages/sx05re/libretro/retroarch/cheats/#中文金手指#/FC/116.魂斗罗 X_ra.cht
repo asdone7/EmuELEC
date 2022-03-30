@@ -1,0 +1,42 @@
+cheats = 10
+
+cheat0_desc = "[1P生命]ON"
+cheat0_code = "00B7:03"
+cheat0_enable = false
+
+cheat1_desc = "[2P生命]ON"
+cheat1_code = "00B8:03"
+cheat1_enable = false
+
+cheat2_desc = "[1P 武器选择]武器 N"
+cheat2_code = "0063:01"
+cheat2_enable = false
+
+cheat3_desc = "[1P 武器选择]武器 S"
+cheat3_code = "0063:02"
+cheat3_enable = false
+
+cheat4_desc = "[1P 武器选择]武器 L"
+cheat4_code = "0063:03"
+cheat4_enable = false
+
+cheat5_desc = "[1P 武器选择]武器 F"
+cheat5_code = "0063:04"
+cheat5_enable = false
+
+cheat6_desc = "[2P 武器选择]武器 N"
+cheat6_code = "009D:01"
+cheat6_enable = false
+
+cheat7_desc = "[2P 武器选择]武器 S"
+cheat7_code = "009D:02"
+cheat7_enable = false
+
+cheat8_desc = "[2P 武器选择]武器 L"
+cheat8_code = "009D:03"
+cheat8_enable = false
+
+cheat9_desc = "[2P 武器选择]武器 F"
+cheat9_code = "009D:04"
+cheat9_enable = false
+

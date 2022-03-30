@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "时间"
+cheat0_code = "0202383F 00000000+02023840 00000000"
+cheat0_enable = false
+
+cheat1_desc = "宝石"
+cheat1_code = "0204306F 00000009+02043070 00000009+02043071 00000009"
+cheat1_enable = false
+
+

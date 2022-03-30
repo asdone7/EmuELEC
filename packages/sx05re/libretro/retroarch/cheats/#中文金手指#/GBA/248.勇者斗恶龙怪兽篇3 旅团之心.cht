@@ -1,0 +1,27 @@
+cheats = 6
+
+cheat0_desc = "移动力"
+cheat0_code = "0204509A 00000064"
+cheat0_enable = false
+
+cheat1_desc = "H"
+cheat1_code = "020143E0 000000E7+020143E1 00000003+020143E2 000000E7+020143E3 00000003"
+cheat1_enable = false
+
+cheat2_desc = "M"
+cheat2_code = "020143E4 000000E7+020143E5 00000003+020143E6 000000E7+020143E7 00000003"
+cheat2_enable = false
+
+cheat3_desc = "各项属性"
+cheat3_code = "020143E8 000000E7+020143E9 00000003+020143EA 000000E7+020143EB 00000003+020143EC 000000E7+020143ED 00000003+020143EE 000000E7+020143EF 00000003"
+cheat3_enable = false
+
+cheat4_desc = "经验值"
+cheat4_code = "020143DC 0000007F+020143DD 00000096+020143DE 00000098"
+cheat4_enable = false
+
+cheat5_desc = "钱"
+cheat5_code = "0204507C 0000007F+0204507D 00000096+0204507E 00000098"
+cheat5_enable = false
+
+

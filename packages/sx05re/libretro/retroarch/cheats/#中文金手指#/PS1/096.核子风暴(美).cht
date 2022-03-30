@@ -1,0 +1,199 @@
+cheats = 49
+
+cheat0_desc = "#无限的装甲与生命"
+cheat0_code = "80081A94 000F"
+cheat0_enable = false
+
+cheat1_desc = "#无限燃料（BPC）"
+cheat1_code = "80039998 0000+8003999A 0000"
+cheat1_enable = false
+
+cheat2_desc = "#Mission Island Mission"
+cheat2_code = "80081A88 0102"
+cheat2_enable = false
+
+cheat3_desc = "#任务和平任务第1部分"
+cheat3_code = "80081A88 0202"
+cheat3_enable = false
+
+cheat4_desc = "#任务和平任务第2部分"
+cheat4_code = "80081A88 0302"
+cheat4_enable = false
+
+cheat5_desc = "#Mission Dmz任务"
+cheat5_code = "80081A88 0402"
+cheat5_enable = false
+
+cheat6_desc = "#Mission Fortress Mission"
+cheat6_code = "80081A88 0502"
+cheat6_enable = false
+
+cheat7_desc = "#任务闪电任务"
+cheat7_code = "80081A88 0602"
+cheat7_enable = false
+
+cheat8_desc = "#Delta Apache代码\\无限加油"
+cheat8_code = "800F5982 3B20"
+cheat8_enable = false
+
+cheat9_desc = "#Delta Apache代码\\无限的装甲"
+cheat9_code = "800F5900 05DC"
+cheat9_enable = false
+
+cheat10_desc = "#Delta Apache代码\\无限翼提示"
+cheat10_code = "800EF454 0008"
+cheat10_enable = false
+
+cheat11_desc = "#Delta Apache代码\\无限导弹"
+cheat11_code = "800EF438 0008"
+cheat11_enable = false
+
+cheat12_desc = "#Delta Apache代码\\无限火箭"
+cheat12_code = "800EF41C 0026"
+cheat12_enable = false
+
+cheat13_desc = "#Delta Apache代码\\无限链枪"
+cheat13_code = "800EF400 049A"
+cheat13_enable = false
+
+cheat14_desc = "#Delta Huey代码\\无限加油"
+cheat14_code = "800F5AF0 04A6"
+cheat14_enable = false
+
+cheat15_desc = "#Delta Huey代码\\无限的装甲"
+cheat15_code = "800F5B72 767E"
+cheat15_enable = false
+
+cheat16_desc = "#Delta Huey密码\\无限翼提示"
+cheat16_code = "800EF3E4 0008"
+cheat16_enable = false
+
+cheat17_desc = "#Delta休伊代码\\无限火箭"
+cheat17_code = "800EF3AC 0026"
+cheat17_enable = false
+
+cheat18_desc = "#Island Apache Codes \\ Infinite Fuel"
+cheat18_code = "800F3DCA 638B"
+cheat18_enable = false
+
+cheat19_desc = "#Island Apache Codes \\ Infinite Armor"
+cheat19_code = "800F3D48 05DC"
+cheat19_enable = false
+
+cheat20_desc = "#Island Apache Codes \\ Infinite Wing Tips"
+cheat20_code = "800EF13C 0004"
+cheat20_enable = false
+
+cheat21_desc = "#Island Apache代码\\无限导弹"
+cheat21_code = "800EF120 000C"
+cheat21_enable = false
+
+cheat22_desc = "#Island Apache代码\\无限火箭"
+cheat22_code = "800EF104 0026"
+cheat22_enable = false
+
+cheat23_desc = "#Island Apache Codes \\ Infinite Chain Gun"
+cheat23_code = "800EF0E8 049A"
+cheat23_enable = false
+
+cheat24_desc = "#和平斩波器代码\\无限燃料"
+cheat24_code = "800F2EA2 6107"
+cheat24_enable = false
+
+cheat25_desc = "#和平斩波器代码\\无限的装甲"
+cheat25_code = "800F2E20 03E8"
+cheat25_enable = false
+
+cheat26_desc = "#Peace Chopper代码\\无限Tgas"
+cheat26_code = "800EE0BC 0008"
+cheat26_enable = false
+
+cheat27_desc = "#Dmz Apache代码\\无限加油"
+cheat27_code = "800F65CA 62F5"
+cheat27_enable = false
+
+cheat28_desc = "#Dmz Apache代码\\无限的装甲"
+cheat28_code = "800F6548 07D0"
+cheat28_enable = false
+
+cheat29_desc = "#Dmz Apache代码\\无限翼技巧"
+cheat29_code = "800EF00C 0008"
+cheat29_enable = false
+
+cheat30_desc = "#Dmz Apache代码\\无限枪"
+cheat30_code = "800EEFB8 05DC"
+cheat30_enable = false
+
+cheat31_desc = "#Dmz油箱代码\\无限燃料"
+cheat31_code = "8008203C 3939"
+cheat31_enable = false
+
+cheat32_desc = "#Dmz坦克代码\\无限装甲"
+cheat32_code = "800F5B70 0FA0"
+cheat32_enable = false
+
+cheat33_desc = "#Dmz坦克代码\\无限大炮"
+cheat33_code = "800EEEBC 0064"
+cheat33_enable = false
+
+cheat34_desc = "#Delta气垫船代码\\无限燃料"
+cheat34_code = "800F57E2 C742"
+cheat34_enable = false
+
+cheat35_desc = "#Delta气垫船代码\\无限装甲"
+cheat35_code = "800F5760 0BB8"
+cheat35_enable = false
+
+cheat36_desc = "#Delta气垫船代码\\无限枪"
+cheat36_code = "800EF374 2710"
+cheat36_enable = false
+
+cheat37_desc = "#Delta气垫船代码\\无限大炮"
+cheat37_code = "800EF33C 0064"
+cheat37_enable = false
+
+cheat38_desc = "#Delta气垫船代码\\无限火箭"
+cheat38_code = "800EF358 0018"
+cheat38_enable = false
+
+cheat39_desc = "#Dmz Bradley代码\\无限加油"
+cheat39_code = "800F60B2 602F"
+cheat39_enable = false
+
+cheat40_desc = "#Dmz Bradley代码\\无限装甲"
+cheat40_code = "800F6030 07D0"
+cheat40_enable = false
+
+cheat41_desc = "#Dmz Bradley Codes \\ Infinite Guns"
+cheat41_code = "800EEF64 04B0"
+cheat41_enable = false
+
+cheat42_desc = "#Dmz Bradley代码\\无限导弹"
+cheat42_code = "800EEF80 000A"
+cheat42_enable = false
+
+cheat43_desc = "#Dmz A10X疣猪代码\\无限燃料"
+cheat43_code = "800F63F2 62F2"
+cheat43_enable = false
+
+cheat44_desc = "#Dmz A10X疣猪密码\\无限的装甲"
+cheat44_code = "800F6370 1B58"
+cheat44_enable = false
+
+cheat45_desc = "#Dmz A10X疣猪代码\\无限翼提示"
+cheat45_code = "800EEEA0 0008"
+cheat45_enable = false
+
+cheat46_desc = "#Dmz A10X疣猪代码\\无限火箭"
+cheat46_code = "800EEE68 0190"
+cheat46_enable = false
+
+cheat47_desc = "#Dmz A10X疣猪代码\\无限导弹"
+cheat47_code = "800EEE84 0030"
+cheat47_enable = false
+
+cheat48_desc = "#Dmz A10X疣猪密码\\无限大炮"
+cheat48_code = "800EEE4C 1B58"
+cheat48_enable = false
+
+

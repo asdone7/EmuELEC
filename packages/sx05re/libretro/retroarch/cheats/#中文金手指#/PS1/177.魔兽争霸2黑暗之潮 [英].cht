@@ -1,0 +1,59 @@
+cheats = 14
+
+cheat0_desc = "#Cheat Selector。按L1 + SELECT进行快速构建和升级按L2 + SELECT进行无敌的单位和建筑物按R1 + SELECT进行全面升级按R2 + SELECT进行显示地图"
+cheat0_code = "D01619C8 0104+80160314 0002+D01619C8 0101+80160314 0006+D01619C8 0108+80160314 0017+D01619C8 0102+80160314 0007"
+cheat0_enable = false
+
+cheat1_desc = "#潮汐\\无限金钱"
+cheat1_code = "800101C4 FFFF"
+cheat1_enable = false
+
+cheat2_desc = "#潮汐\\无限木"
+cheat2_code = "80010184 FFFF"
+cheat2_enable = false
+
+cheat3_desc = "#潮汐\\无限油"
+cheat3_code = "80010124 FFFF"
+cheat3_enable = false
+
+cheat4_desc = "#潮汐\\无限食物"
+cheat4_code = "800995B4 FFFF"
+cheat4_enable = false
+
+cheat5_desc = "#Tides of Darkness \\ Production Modmber木材+25"
+cheat5_code = "80099454 0001"
+cheat5_enable = false
+
+cheat6_desc = "#Human Alliance \\ Infinite Money"
+cheat6_code = "80010188 FFFF"
+cheat6_enable = false
+
+cheat7_desc = "#Human Alliance \\ Infinite Wood"
+cheat7_code = "800101C8 FFFF"
+cheat7_enable = false
+
+cheat8_desc = "#人类联盟\\无限油"
+cheat8_code = "80010208 FFFF"
+cheat8_enable = false
+
+cheat9_desc = "#人类联盟\\无限食物"
+cheat9_code = "800995B6 FFFF"
+cheat9_enable = false
+
+cheat10_desc = "#Human Alliance \\生产修饰剂木材+25"
+cheat10_code = "80099456 0001"
+cheat10_enable = false
+
+cheat11_desc = "#超越黑暗之门\\无限金钱"
+cheat11_code = "800101D8 FFFF"
+cheat11_enable = false
+
+cheat12_desc = "#Beyond the Dark Portal \\ Infinite Wood"
+cheat12_code = "80010198 FFFF"
+cheat12_enable = false
+
+cheat13_desc = "#超越黑暗之门\\无限油"
+cheat13_code = "80010218 FFFF"
+cheat13_enable = false
+
+

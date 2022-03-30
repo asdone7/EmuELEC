@@ -1,0 +1,163 @@
+cheats = 40
+
+cheat0_desc = "#无限能量"
+cheat0_code = "8015E282 2800"
+cheat0_enable = false
+
+cheat1_desc = "#无敌"
+cheat1_code = "8015E2AA 2D00"
+cheat1_enable = false
+
+cheat2_desc = "#1-杀死老板"
+cheat2_code = "8015B1BA 0100"
+cheat2_enable = false
+
+cheat3_desc = "#一击必杀"
+cheat3_code = "801074BE 2400"
+cheat3_enable = false
+
+cheat4_desc = "#最后一曲"
+cheat4_code = "D00FFC8C 0840+800FFC98 000A+D00FFC8C 0840+800FFC9A 2403+D00FFC8C 0840+800FFCC0 0000+D00FFC8C 0840+800FFCC2 2402"
+cheat4_enable = false
+
+cheat5_desc = "#Wily的阶段级别选择简介阶段"
+cheat5_code = "301C336D 0000+00简介阶段"
+cheat5_enable = false
+
+cheat6_desc = "#Wily的舞台关卡精选冰霜男人"
+cheat6_code = "301C336D 0001"
+cheat6_enable = false
+
+cheat7_desc = "#Wily的舞台水平选择小丑人舞台"
+cheat7_code = "301C336D 0002"
+cheat7_enable = false
+
+cheat8_desc = "#Wily's Stage Level选择天狗人舞台"
+cheat8_code = "301C336D 0003"
+cheat8_enable = false
+
+cheat9_desc = "#Wily的关卡选择榴弹关卡"
+cheat9_code = "301C336D 0004"
+cheat9_enable = false
+
+cheat10_desc = "#Wily的舞台等级选择剑侠舞台"
+cheat10_code = "301C336D 0005"
+cheat10_enable = false
+
+cheat11_desc = "#Wily的舞台级别选择水上男人舞台"
+cheat11_code = "301C336D 0006"
+cheat11_enable = false
+
+cheat12_desc = "#Wily的舞台关卡选择Astro Man舞台"
+cheat12_code = "301C336D 0007"
+cheat12_enable = false
+
+cheat13_desc = "#Wily的阶段级别选择搜索人员阶段"
+cheat13_code = "301C336D 0008"
+cheat13_enable = false
+
+cheat14_desc = "#Wily的舞台关卡选择双人组合舞台"
+cheat14_code = "301C336D 0009"
+cheat14_enable = false
+
+cheat15_desc = "#Wily的舞台级别选择Wily Tower 1舞台"
+cheat15_code = "301C336D 000A"
+cheat15_enable = false
+
+cheat16_desc = "#Wily的舞台级别选择Wily Tower 2舞台"
+cheat16_code = "301C336D 000B"
+cheat16_enable = false
+
+cheat17_desc = "#Wily的舞台级别选择Wily Tower 3舞台"
+cheat17_code = "301C336D 000C"
+cheat17_enable = false
+
+cheat18_desc = "#Wily的舞台级别选择Wily Tower 4舞台"
+cheat18_code = "301C336D 000D"
+cheat18_enable = false
+
+cheat19_desc = "#总是有巨型球"
+cheat19_code = "801B1EB0 0001"
+cheat19_enable = false
+
+cheat20_desc = "#无限巨型球"
+cheat20_code = "801B1EB2 2D00"
+cheat20_enable = false
+
+cheat21_desc = "#总是有炸弹"
+cheat21_code = "801B1EB4 0001"
+cheat21_enable = false
+
+cheat22_desc = "#无限闪光弹"
+cheat22_code = "801B1EB6 2D00"
+cheat22_enable = false
+
+cheat23_desc = "#总是有雷爪"
+cheat23_code = "801B1EB8 0001"
+cheat23_enable = false
+
+cheat24_desc = "#无限的雷爪"
+cheat24_code = "801B1EBA 2D00"
+cheat24_enable = false
+
+cheat25_desc = "#总是有冰浪"
+cheat25_code = "801B1EBC 0001"
+cheat25_enable = false
+
+cheat26_desc = "#无限的冰浪"
+cheat26_code = "801B1EBE 2D00"
+cheat26_enable = false
+
+cheat27_desc = "#总是有龙卷风要塞"
+cheat27_code = "801B1EC0 0001"
+cheat27_enable = false
+
+cheat28_desc = "#无限龙卷风"
+cheat28_code = "801B1EC2 2D00"
+cheat28_enable = false
+
+cheat29_desc = "#总是有水气球"
+cheat29_code = "801B1EC4 0001"
+cheat29_enable = false
+
+cheat30_desc = "#无限水气球"
+cheat30_code = "801B1EC6 2D00"
+cheat30_enable = false
+
+cheat31_desc = "#总是有火焰之剑"
+cheat31_code = "801B1EC8 0001"
+cheat31_enable = false
+
+cheat32_desc = "#无限火焰之剑"
+cheat32_code = "801B1ECA 2D00"
+cheat32_enable = false
+
+cheat33_desc = "#总是有狙击手"
+cheat33_code = "801B1ECC 0001"
+cheat33_enable = false
+
+cheat34_desc = "#无限寻宝狙击手"
+cheat34_code = "801B1ECE 2D00"
+cheat34_enable = false
+
+cheat35_desc = "#总是有Astro Crush"
+cheat35_code = "801B1ED0 0001"
+cheat35_enable = false
+
+cheat36_desc = "#无限天文粉碎"
+cheat36_code = "801B1ED2 2D00"
+cheat36_enable = false
+
+cheat37_desc = "#无限的生命"
+cheat37_code = "801C3370 0005"
+cheat37_enable = false
+
+cheat38_desc = "#无限螺栓"
+cheat38_code = "8016D2F0 0009"
+cheat38_enable = false
+
+cheat39_desc = "#无限冲刺能量"
+cheat39_code = "801B2990 0027"
+cheat39_enable = false
+
+

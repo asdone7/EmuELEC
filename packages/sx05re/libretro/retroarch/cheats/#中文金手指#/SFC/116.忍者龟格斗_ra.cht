@@ -1,0 +1,38 @@
+cheats = 9
+
+cheat0_desc = "[无限时间]ON"
+cheat0_code = "7E008E60"
+cheat0_enable = false
+
+cheat1_desc = "[P1 体力值]ON"
+cheat1_code = "7E0EE460"
+cheat1_enable = false
+
+cheat2_desc = "[P1 能量槽]ON"
+cheat2_code = "7E1AC460"
+cheat2_enable = false
+
+cheat3_desc = "[P1 隐藏角色]R.KING"
+cheat3_code = "7E1ACE0A"
+cheat3_enable = false
+
+cheat4_desc = "[P1 隐藏角色]KARAI"
+cheat4_code = "7E1ACE0B"
+cheat4_enable = false
+
+cheat5_desc = "[P2 体力值]ON"
+cheat5_code = "7E0FC460"
+cheat5_enable = false
+
+cheat6_desc = "[P2 能量槽]ON"
+cheat6_code = "7E1B1460"
+cheat6_enable = false
+
+cheat7_desc = "[P2 隐藏角色]R.KING"
+cheat7_code = "7E1B1E0A"
+cheat7_enable = false
+
+cheat8_desc = "[P2 隐藏角色]KARAI"
+cheat8_code = "7E1B1E0B"
+cheat8_enable = false
+

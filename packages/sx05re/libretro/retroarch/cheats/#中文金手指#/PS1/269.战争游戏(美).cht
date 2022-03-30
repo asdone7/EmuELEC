@@ -1,0 +1,35 @@
+cheats = 8
+
+cheat0_desc = "#无限能量吉普车"
+cheat0_code = "800EF9D4 0500"
+cheat0_enable = false
+
+cheat1_desc = "#无限能量龙骑坦克"
+cheat1_code = "800EFA84 1180"
+cheat1_enable = false
+
+cheat2_desc = "#无限时间"
+cheat2_code = "800A9780 2F00"
+cheat2_enable = false
+
+cheat3_desc = "#无限弹药"
+cheat3_code = "800EFAEC 0064+800EFB9C 0064+800EFC4C 0064+800EFA3C 0064"
+cheat3_enable = false
+
+cheat4_desc = "#无限护甲"
+cheat4_code = "800EF9D4 1400+800EFB34 1400+800EFBE4 1400+800EFA84 1400"
+cheat4_enable = false
+
+cheat5_desc = "#所有级别（Norad）"
+cheat5_code = "800AA814 0101+800AA816 0101+800AA818 0101+800AA81A 0101+800AA81C 0101+800AA81E 0101+800AA820 0101"
+cheat5_enable = false
+
+cheat6_desc = "#所有级别（Wopr）"
+cheat6_code = "800AA844 0101+800AA846 0101+800AA848 0101+800AA84A 0101+800AA84C 0101+800AA84E 0101+800AA850 0101"
+cheat6_enable = false
+
+cheat7_desc = "#车辆无限能量"
+cheat7_code = "800EF37C 0500+800EF42C 1180+800EF4DC 1180+800EF58C 1680+800EF63C 1400+800EF6A4 0063+800EF494 0063+800EF544 0130+800EF5F4 0063+800EF754 0063+800EF6EC 1680+800EF3E4 0063+800EF79C 2580+800EF804 00C8+800EF84C 1680"
+cheat7_enable = false
+
+

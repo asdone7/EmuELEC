@@ -1,0 +1,98 @@
+cheats = 24
+
+cheat0_desc = "[主角无限生命]ON"
+cheat0_code = "00A8:09"
+cheat0_enable = false
+
+cheat1_desc = "[主角速度]最低"
+cheat1_code = "00A6:00"
+cheat1_enable = false
+
+cheat2_desc = "[主角速度]一级"
+cheat2_code = "00A6:01"
+cheat2_enable = false
+
+cheat3_desc = "[主角速度]二级"
+cheat3_code = "00A6:02"
+cheat3_enable = false
+
+cheat4_desc = "[主角速度]三级"
+cheat4_code = "00A6:03"
+cheat4_enable = false
+
+cheat5_desc = "[主角速度]四级"
+cheat5_code = "00A6:04"
+cheat5_enable = false
+
+cheat6_desc = "[主角速度]五级"
+cheat6_code = "00A6:05"
+cheat6_enable = false
+
+cheat7_desc = "[主角速度]六级"
+cheat7_code = "00A6:06"
+cheat7_enable = false
+
+cheat8_desc = "[主角速度]七级"
+cheat8_code = "00A6:07"
+cheat8_enable = false
+
+cheat9_desc = "[主角速度]八级(不提倡)"
+cheat9_code = "00A6:08"
+cheat9_enable = false
+
+cheat10_desc = "[主角速度]九级(不建议)"
+cheat10_code = "00A6:09"
+cheat10_enable = false
+
+cheat11_desc = "[主角武器最强]ON"
+cheat11_code = "00A3:06+00A2:15"
+cheat11_enable = false
+
+cheat12_desc = "[主角法术]四界火"
+cheat12_code = "00A4:00"
+cheat12_enable = false
+
+cheat13_desc = "[主角法术]炎二宝"
+cheat13_code = "00A4:01"
+cheat13_enable = false
+
+cheat14_desc = "[主角法术]炎三宝"
+cheat14_code = "00A4:02"
+cheat14_enable = false
+
+cheat15_desc = "[主角法术]火龙"
+cheat15_code = "00A4:03"
+cheat15_enable = false
+
+cheat16_desc = "[主角法术]分身"
+cheat16_code = "00A4:04"
+cheat16_enable = false
+
+cheat17_desc = "[主角法术]月光"
+cheat17_code = "00A4:05"
+cheat17_enable = false
+
+cheat18_desc = "[主角法术]乱月光"
+cheat18_code = "00A4:06"
+cheat18_enable = false
+
+cheat19_desc = "[主角法术]地裂弹"
+cheat19_code = "00A4:07"
+cheat19_enable = false
+
+cheat20_desc = "[主角法术]地曲弹"
+cheat20_code = "00A4:08"
+cheat20_enable = false
+
+cheat21_desc = "[主角法术]地平弹"
+cheat21_code = "00A4:09"
+cheat21_enable = false
+
+cheat22_desc = "[主角法术]贯地弹"
+cheat22_code = "00A4:0A"
+cheat22_enable = false
+
+cheat23_desc = "[主角法术]凤仙花"
+cheat23_code = "00A4:0B"
+cheat23_enable = false
+

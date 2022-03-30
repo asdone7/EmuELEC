@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[保险]ON"
+cheat0_code = "FF3302:10"
+cheat0_enable = false
+
+cheat1_desc = "[飞机]ON"
+cheat1_code = "FFC068:99"
+cheat1_enable = false
+

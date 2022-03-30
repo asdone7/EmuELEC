@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[时间不减]ON"
+cheat0_code = "FFC050:4B"
+cheat0_enable = false
+

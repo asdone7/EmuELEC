@@ -1,0 +1,19 @@
+cheats = 4
+
+cheat0_desc = "#1角色无限生命"
+cheat0_code = "8012C984 02BC"
+cheat0_enable = false
+
+cheat1_desc = "#1角色无限空中"
+cheat1_code = "8012C9C1 0027"
+cheat1_enable = false
+
+cheat2_desc = "#2角色无限生命"
+cheat2_code = "8012C988 0258"
+cheat2_enable = false
+
+cheat3_desc = "#2角色无限空中"
+cheat3_code = "8012C9C5 0027"
+cheat3_enable = false
+
+

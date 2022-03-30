@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "#有9999钱"
+cheat0_code = "80100318 270F"
+cheat0_enable = false
+
+

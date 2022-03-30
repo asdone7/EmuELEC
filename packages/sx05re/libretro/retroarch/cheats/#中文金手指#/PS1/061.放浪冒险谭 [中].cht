@@ -1,0 +1,67 @@
+cheats = 16
+
+cheat0_desc = "#无限和最大生命值"
+cheat0_code = "8011F258 03E7+8011F25A 03E7"
+cheat0_enable = false
+
+cheat1_desc = "#无限＆最大Mp"
+cheat1_code = "8011F25C 03E7+8011F25E 03E7"
+cheat1_enable = false
+
+cheat2_desc = "#传送并保存到任何地方"
+cheat2_code = "D0100960 0001+80100962 3002"
+cheat2_enable = false
+
+cheat3_desc = "#不降低HP和敌人的死亡打击"
+cheat3_code = "D0087E88 0003+80087E8A 1680+D0087E8C 1023+80087E8E 0080"
+cheat3_enable = false
+
+cheat4_desc = "#总是零风险"
+cheat4_code = "D0008528 0000+8011F260 0000"
+cheat4_enable = false
+
+cheat5_desc = "#魔术开启"
+cheat5_code = "80061644 0105"
+cheat5_enable = false
+
+cheat6_desc = "#解锁所有传送"
+cheat6_code = "50001202 0000+800616E6 0101"
+cheat6_enable = false
+
+cheat7_desc = "#立即了解战斗能力"
+cheat7_code = "D0070A48 0001+80070A48 7FFF"
+cheat7_enable = false
+
+cheat8_desc = "#立即记住打破艺术"
+cheat8_code = "D0085E24 0001+80085E24 7FFF"
+cheat8_enable = false
+
+cheat9_desc = "#Learn魔术Blake Arts战斗能力ON的负载数据：状态"
+cheat9_code = "D00F9860 0004+800F987C 8000+D00F9860 0004+800F987E 3402"
+cheat9_enable = false
+
+cheat10_desc = "#武器攻击范围无限"
+cheat10_code = "8011F278 0000+3011F279 0000"
+cheat10_enable = false
+
+cheat11_desc = "#Library MAX"
+cheat11_code = "8005FF34 FFFF+8005FF36 FFFF+8005FF38 FFFF+8005FF3A FFFF+8005FF3C FFFF+8005FF3E FFFF+8005FF40 FFFF+8005FF42 FFFF+8005FF44 FFFF+8005FF46 FFFF+8005FF48 00FF+3005FF53 00F0"
+cheat11_enable = false
+
+cheat12_desc = "#MAX标题"
+cheat12_code = "8005FE98 FFFF+8005FE9A FFFF"
+cheat12_enable = false
+
+cheat13_desc = "#速度码"
+cheat13_code = "D001F8BC FFE9+8001FE8C 0001"
+cheat13_enable = false
+
+cheat14_desc = "#Playtime 00:00:00"
+cheat14_code = "D004267E 0062+80042682 ACA0"
+cheat14_enable = false
+
+cheat15_desc = "#Debug Room进入调试室，然后按L1 + R2"
+cheat15_code = "D005E1B8 0006+800F3098 00FA+D005E1B8 0006+800F3030 0002"
+cheat15_enable = false
+
+

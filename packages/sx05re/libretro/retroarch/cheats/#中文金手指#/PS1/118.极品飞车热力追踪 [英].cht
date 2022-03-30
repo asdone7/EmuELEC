@@ -1,0 +1,51 @@
+cheats = 12
+
+cheat0_desc = "#从第4圈开始（比赛）"
+cheat0_code = "D011DD30 0000+8011DD30 0003"
+cheat0_enable = false
+
+cheat1_desc = "#第2圈开始播放（淘汰赛）"
+cheat1_code = "D011DD30 0000+8011DD30 0001"
+cheat1_enable = false
+
+cheat2_desc = "#启用帝国城和厄尔尼诺"
+cheat2_code = "800FA9E0 003D"
+cheat2_enable = false
+
+cheat3_desc = "#启用Nazda C2"
+cheat3_code = "8004392E 0101"
+cheat3_enable = false
+
+cheat4_desc = "#启用法拉利550和《暗黑破坏神》"
+cheat4_code = "80043930 0101"
+cheat4_enable = false
+
+cheat5_desc = "#启用Jaguar Xjr-15和Mercedes"
+cheat5_code = "80043932 0101"
+cheat5_enable = false
+
+cheat6_desc = "#解锁所有汽车，所有奖金和隐藏的轨道"
+cheat6_code = "80125F10 01FF"
+cheat6_enable = false
+
+cheat7_desc = "#启用Ferrari 355 F1（热追踪模式）"
+cheat7_code = "8004392C 0101"
+cheat7_enable = false
+
+cheat8_desc = "#热追踪模式下的德语警语"
+cheat8_code = "800F9F7C 0020"
+cheat8_enable = false
+
+cheat9_desc = "#热追踪模式下的警察法语"
+cheat9_code = "800F9F7C 0040"
+cheat9_enable = false
+
+cheat10_desc = "#热追踪模式中的西班牙警用语言"
+cheat10_code = "800F9F7C 0080"
+cheat10_enable = false
+
+cheat11_desc = "#热追踪模式下的警察意大利语"
+cheat11_code = "800F9F7C 0100"
+cheat11_enable = false
+
+

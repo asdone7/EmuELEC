@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[主角最大生命]ON"
+cheat0_code = "0139:09"
+cheat0_enable = false
+

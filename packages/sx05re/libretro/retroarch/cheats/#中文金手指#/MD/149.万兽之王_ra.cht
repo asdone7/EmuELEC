@@ -1,0 +1,46 @@
+cheats = 11
+
+cheat0_desc = "[第1位MP]9999"
+cheat0_code = "FF2126:0F+FF2127:27"
+cheat0_enable = false
+
+cheat1_desc = "[第2位MP]9999"
+cheat1_code = "FF2128:0F+FF2129:27"
+cheat1_enable = false
+
+cheat2_desc = "[第3位MP]9999"
+cheat2_code = "FF212A:0F+FF212B:27"
+cheat2_enable = false
+
+cheat3_desc = "[第4位MP]9999"
+cheat3_code = "FF212C:0F+FF212D:27"
+cheat3_enable = false
+
+cheat4_desc = "[第一军部队快速升级]ON"
+cheat4_code = "FF2854:E7+FF2855:03+FF2866:E7+FF2867:03+FF2878:E7+FF2879:03+FF288A:E7+FF288B:03+FF289C:E7+FF289D:03+FF28AE:E7+FF28AF:03+FF291A:E7+FF291B:03+FF2A04:E7+FF2A05:03+FF2A5E:E7+FF2A5F:03+FF2A70:E7+FF2A71:03+FF2A82:E7+FF2A83:03+FF2A94:E7+FF2A95:03+FF2AA6:E7+FF2AA7:03+FF2AB8:E7+FF2AB9:03+FF2ACA:E7+FF2ACB:03+FF2ADC:E7+FF2ADD:03+FF2AEE:E7+FF2AEF:03+FF2B00:E7+FF2B01:03"
+cheat4_enable = false
+
+cheat5_desc = "[第二军部队快速升级]ON"
+cheat5_code = "FF28E4:E7+FF28E5:03+FF28F6:E7+FF28F7:03+FF2908:E7+FF2909:03+FF2A28:E7+FF2A29:03+FF2A3A:E7+FF2A3B:03+FF2B24:E7+FF2B25:03+FF2B36:E7+FF2B37:03+FF2B48:E7+FF2B49:03+FF2B5A:E7+FF2B5B:03+FF2B6C:E7+FF2B6D:03+FF2B7E:E7+FF2B7F:03+FF2B90:E7+FF2B91:03+FF2BA2:E7+FF2BA3:03+FF2BB4:E7+FF2BB5:03"
+cheat5_enable = false
+
+cheat6_desc = "[第四军部队快速升级]ON"
+cheat6_code = "FF2998:E7+FF2999:03+FF29AA:E7+FF29AB:03+FF29BC:E7+FF29BD:03+FF29CE:E7+FF29CF:03+FF29E0:E7+FF29E1:03+FF29F2:E7+FF29F3:03"
+cheat6_enable = false
+
+cheat7_desc = "[第一军塔数]30"
+cheat7_code = "FF2101:1E"
+cheat7_enable = false
+
+cheat8_desc = "[第二军塔数]30"
+cheat8_code = "FF2100:1E"
+cheat8_enable = false
+
+cheat9_desc = "[第三军塔数]30"
+cheat9_code = "FF2103:1E"
+cheat9_enable = false
+
+cheat10_desc = "[第四军塔数]30"
+cheat10_code = "FF2102:1E"
+cheat10_enable = false
+

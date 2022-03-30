@@ -1,0 +1,614 @@
+cheats = 153
+
+cheat0_desc = "[刘军无限行动]ON"
+cheat0_code = "FF1EEF:00+FF1EF0:00+FF1EF1:00+FF1EF2:00+FF1EF3:00+FF1EF4:00+FF1EF5:00+FF1EF6:00"
+cheat0_enable = false
+
+cheat1_desc = "[刘军一击升级]ON"
+cheat1_code = "FF1658:F4+FF1659:01+FF165A:F4+FF165B:01+FF165C:F4+FF165D:01"
+cheat1_enable = false
+
+cheat2_desc = "[刘备职业]按此选择(激活解锁)"
+cheat2_code = "FF"
+cheat2_enable = false
+
+cheat3_desc = "[刘备职业]士兵"
+cheat3_code = "FF1A6D:01"
+cheat3_enable = false
+
+cheat4_desc = "[刘备职业]勇士"
+cheat4_code = "FF1A6D:02"
+cheat4_enable = false
+
+cheat5_desc = "[刘备职业]骑兵"
+cheat5_code = "FF1A6D:03"
+cheat5_enable = false
+
+cheat6_desc = "[刘备职业]弓兵"
+cheat6_code = "FF1A6D:04"
+cheat6_enable = false
+
+cheat7_desc = "[刘备职业]文官"
+cheat7_code = "FF1A6D:05"
+cheat7_enable = false
+
+cheat8_desc = "[刘备职业]自由战士"
+cheat8_code = "FF1A6D:06"
+cheat8_enable = false
+
+cheat9_desc = "[刘备职业]青铜战士"
+cheat9_code = "FF1A6D:07"
+cheat9_enable = false
+
+cheat10_desc = "[刘备职业]铁骑兵"
+cheat10_code = "FF1A6D:08"
+cheat10_enable = false
+
+cheat11_desc = "[刘备职业]轻骑兵"
+cheat11_code = "FF1A6D:09"
+cheat11_enable = false
+
+cheat12_desc = "[刘备职业]弩手"
+cheat12_code = "FF1A6D:0A"
+cheat12_enable = false
+
+cheat13_desc = "[刘备职业]神箭手"
+cheat13_code = "FF1A6D:0B"
+cheat13_enable = false
+
+cheat14_desc = "[刘备职业]军师"
+cheat14_code = "FF1A6D:0C"
+cheat14_enable = false
+
+cheat15_desc = "[刘备职业]谋士"
+cheat15_code = "FF1A6D:0D"
+cheat15_enable = false
+
+cheat16_desc = "[刘备职业]神剑战士"
+cheat16_code = "FF1A6D:0E"
+cheat16_enable = false
+
+cheat17_desc = "[刘备职业]巨斧斗士"
+cheat17_code = "FF1A6D:0F"
+cheat17_enable = false
+
+cheat18_desc = "[刘备职业]金甲术士"
+cheat18_code = "FF1A6D:10"
+cheat18_enable = false
+
+cheat19_desc = "[刘备职业]魔龙战将"
+cheat19_code = "FF1A6D:11"
+cheat19_enable = false
+
+cheat20_desc = "[刘备职业]巨龙骑士"
+cheat20_code = "FF1A6D:12"
+cheat20_enable = false
+
+cheat21_desc = "[刘备职业]魔兽骑士"
+cheat21_code = "FF1A6D:13"
+cheat21_enable = false
+
+cheat22_desc = "[刘备职业]神龙骑士"
+cheat22_code = "FF1A6D:14"
+cheat22_enable = false
+
+cheat23_desc = "[刘备职业]飞龙战士"
+cheat23_code = "FF1A6D:15"
+cheat23_enable = false
+
+cheat24_desc = "[刘备职业]巨炮战将"
+cheat24_code = "FF1A6D:16"
+cheat24_enable = false
+
+cheat25_desc = "[刘备职业]长枪战士"
+cheat25_code = "FF1A6D:17"
+cheat25_enable = false
+
+cheat26_desc = "[刘备职业]龙之使者"
+cheat26_code = "FF1A6D:18"
+cheat26_enable = false
+
+cheat27_desc = "[刘备职业]神之使者"
+cheat27_code = "FF1A6D:19"
+cheat27_enable = false
+
+cheat28_desc = "[刘备职业]魔法师"
+cheat28_code = "FF1A6D:1A"
+cheat28_enable = false
+
+cheat29_desc = "[关羽职业]按此选择(激活解锁)"
+cheat29_code = "FF"
+cheat29_enable = false
+
+cheat30_desc = "[关羽职业]士兵"
+cheat30_code = "FF1A6C:01"
+cheat30_enable = false
+
+cheat31_desc = "[关羽职业]勇士"
+cheat31_code = "FF1A6C:02"
+cheat31_enable = false
+
+cheat32_desc = "[关羽职业]骑兵"
+cheat32_code = "FF1A6C:03"
+cheat32_enable = false
+
+cheat33_desc = "[关羽职业]弓兵"
+cheat33_code = "FF1A6C:04"
+cheat33_enable = false
+
+cheat34_desc = "[关羽职业]文官"
+cheat34_code = "FF1A6C:05"
+cheat34_enable = false
+
+cheat35_desc = "[关羽职业]自由战士"
+cheat35_code = "FF1A6C:06"
+cheat35_enable = false
+
+cheat36_desc = "[关羽职业]青铜战士"
+cheat36_code = "FF1A6C:07"
+cheat36_enable = false
+
+cheat37_desc = "[关羽职业]铁骑兵"
+cheat37_code = "FF1A6C:08"
+cheat37_enable = false
+
+cheat38_desc = "[关羽职业]轻骑兵"
+cheat38_code = "FF1A6C:09"
+cheat38_enable = false
+
+cheat39_desc = "[关羽职业]弩手"
+cheat39_code = "FF1A6C:0A"
+cheat39_enable = false
+
+cheat40_desc = "[关羽职业]神箭手"
+cheat40_code = "FF1A6C:0B"
+cheat40_enable = false
+
+cheat41_desc = "[关羽职业]军师"
+cheat41_code = "FF1A6C:0C"
+cheat41_enable = false
+
+cheat42_desc = "[关羽职业]谋士"
+cheat42_code = "FF1A6C:0D"
+cheat42_enable = false
+
+cheat43_desc = "[关羽职业]神剑战士"
+cheat43_code = "FF1A6C:0E"
+cheat43_enable = false
+
+cheat44_desc = "[关羽职业]巨斧斗士"
+cheat44_code = "FF1A6C:0F"
+cheat44_enable = false
+
+cheat45_desc = "[关羽职业]金甲术士"
+cheat45_code = "FF1A6C:10"
+cheat45_enable = false
+
+cheat46_desc = "[关羽职业]魔龙战将"
+cheat46_code = "FF1A6C:11"
+cheat46_enable = false
+
+cheat47_desc = "[关羽职业]巨龙骑士"
+cheat47_code = "FF1A6C:12"
+cheat47_enable = false
+
+cheat48_desc = "[关羽职业]魔兽骑士"
+cheat48_code = "FF1A6C:13"
+cheat48_enable = false
+
+cheat49_desc = "[关羽职业]神龙骑士"
+cheat49_code = "FF1A6C:14"
+cheat49_enable = false
+
+cheat50_desc = "[关羽职业]飞龙战士"
+cheat50_code = "FF1A6C:15"
+cheat50_enable = false
+
+cheat51_desc = "[关羽职业]巨炮战将"
+cheat51_code = "FF1A6C:16"
+cheat51_enable = false
+
+cheat52_desc = "[关羽职业]长枪战士"
+cheat52_code = "FF1A6C:17"
+cheat52_enable = false
+
+cheat53_desc = "[关羽职业]龙之使者"
+cheat53_code = "FF1A6C:18"
+cheat53_enable = false
+
+cheat54_desc = "[关羽职业]神之使者"
+cheat54_code = "FF1A6C:19"
+cheat54_enable = false
+
+cheat55_desc = "[关羽职业]魔法师"
+cheat55_code = "FF1A6C:1A"
+cheat55_enable = false
+
+cheat56_desc = "[金钱￥]ON"
+cheat56_code = "FF14E8:88+FF14E9:13"
+cheat56_enable = false
+
+cheat57_desc = "[刘军全人物]ON(城里激活后解锁)"
+cheat57_code = "FF1EEA:0E+FF17F4:1B+FF17F5:1A+FF17F6:1D+FF17F7:1C+FF17F8:28+FF17F9:6F+FF17FA:70+FF17FB:1E+FF17FC:5D+FF17FD:29+FF17FE:1F+FF17FF:20+FF1800:6E+FF1801:71"
+cheat57_enable = false
+
+cheat58_desc = "[刘备头像]按此选择(城里激活后解锁)"
+cheat58_code = "FF"
+cheat58_enable = false
+
+cheat59_desc = "[刘备头像]刘备"
+cheat59_code = "FF17F5:1A"
+cheat59_enable = false
+
+cheat60_desc = "[刘备头像]关羽"
+cheat60_code = "FF17F5:1B"
+cheat60_enable = false
+
+cheat61_desc = "[刘备头像]张飞"
+cheat61_code = "FF17F5:1C"
+cheat61_enable = false
+
+cheat62_desc = "[刘备头像]貂禅"
+cheat62_code = "FF17F5:1D"
+cheat62_enable = false
+
+cheat63_desc = "[刘备头像]吕布"
+cheat63_code = "FF17F5:1F"
+cheat63_enable = false
+
+cheat64_desc = "[刘备头像]虞姬"
+cheat64_code = "FF17F5:1E"
+cheat64_enable = false
+
+cheat65_desc = "[刘备头像]赵云"
+cheat65_code = "FF17F5:20"
+cheat65_enable = false
+
+cheat66_desc = "[刘备头像]孔明"
+cheat66_code = "FF17F5:21"
+cheat66_enable = false
+
+cheat67_desc = "[刘备头像]秦琼"
+cheat67_code = "FF17F5:22"
+cheat67_enable = false
+
+cheat68_desc = "[刘备头像]花木兰"
+cheat68_code = "FF17F5:23"
+cheat68_enable = false
+
+cheat69_desc = "[刘备头像]孙二娘"
+cheat69_code = "FF17F5:24"
+cheat69_enable = false
+
+cheat70_desc = "[刘备头像]马超"
+cheat70_code = "FF17F5:25"
+cheat70_enable = false
+
+cheat71_desc = "[刘备头像]方世玉"
+cheat71_code = "FF17F5:26"
+cheat71_enable = false
+
+cheat72_desc = "[刘备头像]黄飞鸿"
+cheat72_code = "FF17F5:27"
+cheat72_enable = false
+
+cheat73_desc = "[刘备头像]西施"
+cheat73_code = "FF17F5:28"
+cheat73_enable = false
+
+cheat74_desc = "[刘备头像]王昭君"
+cheat74_code = "FF17F5:29"
+cheat74_enable = false
+
+cheat75_desc = "[刘备头像]成吉思汗"
+cheat75_code = "FF17F5:2A"
+cheat75_enable = false
+
+cheat76_desc = "[刘备头像]黄忠"
+cheat76_code = "FF17F5:2B"
+cheat76_enable = false
+
+cheat77_desc = "[刘备头像]扈三娘"
+cheat77_code = "FF17F5:2C"
+cheat77_enable = false
+
+cheat78_desc = "[刘备头像]土匪"
+cheat78_code = "FF17F5:2D"
+cheat78_enable = false
+
+cheat79_desc = "[刘备头像]山贼"
+cheat79_code = "FF17F5:2E"
+cheat79_enable = false
+
+cheat80_desc = "[刘备头像]弓兵"
+cheat80_code = "FF17F5:2F"
+cheat80_enable = false
+
+cheat81_desc = "[刘备头像]谋士"
+cheat81_code = "FF17F5:30"
+cheat81_enable = false
+
+cheat82_desc = "[刘备头像]强盗"
+cheat82_code = "FF17F5:31"
+cheat82_enable = false
+
+cheat83_desc = "[刘备头像]士兵"
+cheat83_code = "FF17F5:32"
+cheat83_enable = false
+
+cheat84_desc = "[刘备头像]刘邦"
+cheat84_code = "FF17F5:33"
+cheat84_enable = false
+
+cheat85_desc = "[刘备头像]韩信"
+cheat85_code = "FF17F5:34"
+cheat85_enable = false
+
+cheat86_desc = "[刘备头像]乾隆"
+cheat86_code = "FF17F5:35"
+cheat86_enable = false
+
+cheat87_desc = "[刘备头像]华雄"
+cheat87_code = "FF17F5:36"
+cheat87_enable = false
+
+cheat88_desc = "[刘备头像]李儒"
+cheat88_code = "FF17F5:37"
+cheat88_enable = false
+
+cheat89_desc = "[刘备头像]董卓"
+cheat89_code = "FF17F5:38"
+cheat89_enable = false
+
+cheat90_desc = "[刘备头像]陈宫"
+cheat90_code = "FF17F5:39"
+cheat90_enable = false
+
+cheat91_desc = "[刘备头像]项羽"
+cheat91_code = "FF17F5:3A"
+cheat91_enable = false
+
+cheat92_desc = "[刘备头像]妲己"
+cheat92_code = "FF17F5:3B"
+cheat92_enable = false
+
+cheat93_desc = "[刘备头像]曹操"
+cheat93_code = "FF17F5:3C"
+cheat93_enable = false
+
+cheat94_desc = "[刘备头像]夏侯渊"
+cheat94_code = "FF17F5:3D"
+cheat94_enable = false
+
+cheat95_desc = "[刘备头像]夏侯淳"
+cheat95_code = "FF17F5:3E"
+cheat95_enable = false
+
+cheat96_desc = "[刘备头像]典韦"
+cheat96_code = "FF17F5:3F"
+cheat96_enable = false
+
+cheat97_desc = "[刘备头像]郭嘉"
+cheat97_code = "FF17F5:40"
+cheat97_enable = false
+
+cheat98_desc = "[刘备头像]红孩儿"
+cheat98_code = "FF17F5:41"
+cheat98_enable = false
+
+cheat99_desc = "[刘备头像]张辽"
+cheat99_code = "FF17F5:42"
+cheat99_enable = false
+
+cheat100_desc = "[刘备头像]程咬金"
+cheat100_code = "FF17F5:43"
+cheat100_enable = false
+
+cheat101_desc = "[刘备头像]罗成"
+cheat101_code = "FF17F5:44"
+cheat101_enable = false
+
+cheat102_desc = "[刘备头像]单雄信"
+cheat102_code = "FF17F5:45"
+cheat102_enable = false
+
+cheat103_desc = "[刘备头像]李世民"
+cheat103_code = "FF17F5:46"
+cheat103_enable = false
+
+cheat104_desc = "[刘备头像]赛金花"
+cheat104_code = "FF17F5:47"
+cheat104_enable = false
+
+cheat105_desc = "[刘备头像]杨林"
+cheat105_code = "FF17F5:48"
+cheat105_enable = false
+
+cheat106_desc = "[刘备头像]宇文成都"
+cheat106_code = "FF17F5:49"
+cheat106_enable = false
+
+cheat107_desc = "[刘备头像]李元霸"
+cheat107_code = "FF17F5:4A"
+cheat107_enable = false
+
+cheat108_desc = "[刘备头像]武士"
+cheat108_code = "FF17F5:4B"
+cheat108_enable = false
+
+cheat109_desc = "[刘备头像]司马懿"
+cheat109_code = "FF17F5:4C"
+cheat109_enable = false
+
+cheat110_desc = "[刘备头像]文丑"
+cheat110_code = "FF17F5:4D"
+cheat110_enable = false
+
+cheat111_desc = "[刘备头像]颜良"
+cheat111_code = "FF17F5:4E"
+cheat111_enable = false
+
+cheat112_desc = "[刘备头像]武松"
+cheat112_code = "FF17F5:4F"
+cheat112_enable = false
+
+cheat113_desc = "[刘备头像]林冲"
+cheat113_code = "FF17F5:50"
+cheat113_enable = false
+
+cheat114_desc = "[刘备头像]李逵"
+cheat114_code = "FF17F5:51"
+cheat114_enable = false
+
+cheat115_desc = "[刘备头像]阮小二"
+cheat115_code = "FF17F5:52"
+cheat115_enable = false
+
+cheat116_desc = "[刘备头像]时迁"
+cheat116_code = "FF17F5:53"
+cheat116_enable = false
+
+cheat117_desc = "[刘备头像]宋江"
+cheat117_code = "FF17F5:54"
+cheat117_enable = false
+
+cheat118_desc = "[刘备头像]吴用"
+cheat118_code = "FF17F5:55"
+cheat118_enable = false
+
+cheat119_desc = "[刘备头像]顾大嫂"
+cheat119_code = "FF17F5:56"
+cheat119_enable = false
+
+cheat120_desc = "[刘备头像]武大郎"
+cheat120_code = "FF17F5:57"
+cheat120_enable = false
+
+cheat121_desc = "[刘备头像]高俅"
+cheat121_code = "FF17F5:58"
+cheat121_enable = false
+
+cheat122_desc = "[刘备头像]西门庆"
+cheat122_code = "FF17F5:59"
+cheat122_enable = false
+
+cheat123_desc = "[刘备头像]女兵"
+cheat123_code = "FF17F5:5A"
+cheat123_enable = false
+
+cheat124_desc = "[刘备头像]女巫师"
+cheat124_code = "FF17F5:5B"
+cheat124_enable = false
+
+cheat125_desc = "[刘备头像]李师师"
+cheat125_code = "FF17F5:5C"
+cheat125_enable = false
+
+cheat126_desc = "[刘备头像]杨玉环"
+cheat126_code = "FF17F5:5D"
+cheat126_enable = false
+
+cheat127_desc = "[刘备头像]武则天"
+cheat127_code = "FF17F5:5E"
+cheat127_enable = false
+
+cheat128_desc = "[刘备头像]韦小宝"
+cheat128_code = "FF17F5:5F"
+cheat128_enable = false
+
+cheat129_desc = "[刘备头像]白玉堂"
+cheat129_code = "FF17F5:60"
+cheat129_enable = false
+
+cheat130_desc = "[刘备头像]游侠"
+cheat130_code = "FF17F5:61"
+cheat130_enable = false
+
+cheat131_desc = "[刘备头像]孙权"
+cheat131_code = "FF17F5:62"
+cheat131_enable = false
+
+cheat132_desc = "[刘备头像]黄盖"
+cheat132_code = "FF17F5:63"
+cheat132_enable = false
+
+cheat133_desc = "[刘备头像]太史慈"
+cheat133_code = "FF17F5:64"
+cheat133_enable = false
+
+cheat134_desc = "[刘备头像]甘宁"
+cheat134_code = "FF17F5:65"
+cheat134_enable = false
+
+cheat135_desc = "[刘备头像]陆逊"
+cheat135_code = "FF17F5:66"
+cheat135_enable = false
+
+cheat136_desc = "[刘备头像]吕蒙"
+cheat136_code = "FF17F5:67"
+cheat136_enable = false
+
+cheat137_desc = "[刘备头像]周瑜"
+cheat137_code = "FF17F5:68"
+cheat137_enable = false
+
+cheat138_desc = "[刘备头像]安禄山"
+cheat138_code = "FF17F5:69"
+cheat138_enable = false
+
+cheat139_desc = "[刘备头像]吴三桂"
+cheat139_code = "FF17F5:6A"
+cheat139_enable = false
+
+cheat140_desc = "[刘备头像]袁世凯"
+cheat140_code = "FF17F5:6B"
+cheat140_enable = false
+
+cheat141_desc = "[刘备头像]李靖"
+cheat141_code = "FF17F5:6C"
+cheat141_enable = false
+
+cheat142_desc = "[刘备头像]孙悟空"
+cheat142_code = "FF17F5:6D"
+cheat142_enable = false
+
+cheat143_desc = "[刘备头像]猪八戒"
+cheat143_code = "FF17F5:6E"
+cheat143_enable = false
+
+cheat144_desc = "[刘备头像]姜子牙"
+cheat144_code = "FF17F5:6F"
+cheat144_enable = false
+
+cheat145_desc = "[刘备头像]伍子胥"
+cheat145_code = "FF17F5:70"
+cheat145_enable = false
+
+cheat146_desc = "[刘备头像]孙武"
+cheat146_code = "FF17F5:71"
+cheat146_enable = false
+
+cheat147_desc = "[刘备头像]袁绍"
+cheat147_code = "FF17F5:72"
+cheat147_enable = false
+
+cheat148_desc = "[刘备头像]田丰"
+cheat148_code = "FF17F5:73"
+cheat148_enable = false
+
+cheat149_desc = "[刘备头像]程普"
+cheat149_code = "FF17F5:74"
+cheat149_enable = false
+
+cheat150_desc = "[刘备头像]鲁智深"
+cheat150_code = "FF17F5:75"
+cheat150_enable = false
+
+cheat151_desc = "[刘备头像]潘金莲"
+cheat151_code = "FF17F5:76"
+cheat151_enable = false
+
+cheat152_desc = "[刘备头像]蓝博"
+cheat152_code = "FF17F5:77"
+cheat152_enable = false
+

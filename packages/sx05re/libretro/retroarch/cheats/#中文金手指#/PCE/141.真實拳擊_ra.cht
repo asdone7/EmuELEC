@@ -1,0 +1,6 @@
+cheats = 1
+
+cheat0_desc = "[生命值最大]ON"
+cheat0_code = "1F020E:38"
+cheat0_enable = false
+

@@ -1,0 +1,11 @@
+cheats = 2
+
+cheat0_desc = "HP"
+cheat0_code = "0203E4B8 00000014"
+cheat0_enable = false
+
+cheat1_desc = "隐身"
+cheat1_code = "02046002 0000000F"
+cheat1_enable = false
+
+

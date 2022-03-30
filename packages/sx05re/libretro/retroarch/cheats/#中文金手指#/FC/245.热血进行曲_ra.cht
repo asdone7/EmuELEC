@@ -1,0 +1,146 @@
+cheats = 36
+
+cheat0_desc = "[热血第一人体力]ON"
+cheat0_code = "04B4:FF"
+cheat0_enable = false
+
+cheat1_desc = "[热血第二人体力]ON"
+cheat1_code = "04B5:FF"
+cheat1_enable = false
+
+cheat2_desc = "[热血第三人体力]ON"
+cheat2_code = "04B6:FF"
+cheat2_enable = false
+
+cheat3_desc = "[热血第四人体力]ON"
+cheat3_code = "04B7:FF"
+cheat3_enable = false
+
+cheat4_desc = "[热血第五人体力]ON"
+cheat4_code = "04B8:FF"
+cheat4_enable = false
+
+cheat5_desc = "[热血第六人体力]ON"
+cheat5_code = "04B9:FF"
+cheat5_enable = false
+
+cheat6_desc = "[花园第一人体力]ON"
+cheat6_code = "04BA:FF"
+cheat6_enable = false
+
+cheat7_desc = "[花园第二人体力]ON"
+cheat7_code = "04BB:FF"
+cheat7_enable = false
+
+cheat8_desc = "[花园第三人体力]ON"
+cheat8_code = "04BC:FF"
+cheat8_enable = false
+
+cheat9_desc = "[花园第四人体力]ON"
+cheat9_code = "04BD:FF"
+cheat9_enable = false
+
+cheat10_desc = "[花园第五人体力]ON"
+cheat10_code = "04BE:FF"
+cheat10_enable = false
+
+cheat11_desc = "[花园第六人体力]ON"
+cheat11_code = "04BF:FF"
+cheat11_enable = false
+
+cheat12_desc = "[冷峰第一人体力]ON"
+cheat12_code = "04C0:FF"
+cheat12_enable = false
+
+cheat13_desc = "[冷峰第二人体力]ON"
+cheat13_code = "04C1:FF"
+cheat13_enable = false
+
+cheat14_desc = "[冷峰第三人体力]ON"
+cheat14_code = "04C2:FF"
+cheat14_enable = false
+
+cheat15_desc = "[冷峰第四人体力]ON"
+cheat15_code = "04C3:FF"
+cheat15_enable = false
+
+cheat16_desc = "[冷峰第五人体力]ON"
+cheat16_code = "04C4:FF"
+cheat16_enable = false
+
+cheat17_desc = "[冷峰第六人体力]ON"
+cheat17_code = "04C5:FF"
+cheat17_enable = false
+
+cheat18_desc = "[连合第一人体力]ON"
+cheat18_code = "04C6:FF"
+cheat18_enable = false
+
+cheat19_desc = "[连合第二人体力]ON"
+cheat19_code = "04C7:FF"
+cheat19_enable = false
+
+cheat20_desc = "[连合第三人体力]ON"
+cheat20_code = "04C8:FF"
+cheat20_enable = false
+
+cheat21_desc = "[连合第四人体力]ON"
+cheat21_code = "04C9:FF"
+cheat21_enable = false
+
+cheat22_desc = "[连合第五人体力]ON"
+cheat22_code = "04CA:FF"
+cheat22_enable = false
+
+cheat23_desc = "[连合第六人体力]ON"
+cheat23_code = "04CB:FF"
+cheat23_enable = false
+
+cheat24_desc = "[轮次]1轮"
+cheat24_code = "04F4:01"
+cheat24_enable = false
+
+cheat25_desc = "[轮次]2轮"
+cheat25_code = "04F4:02"
+cheat25_enable = false
+
+cheat26_desc = "[轮次]3轮"
+cheat26_code = "04F4:03"
+cheat26_enable = false
+
+cheat27_desc = "[轮次]4轮"
+cheat27_code = "04F4:04"
+cheat27_enable = false
+
+cheat28_desc = "[轮次]5轮"
+cheat28_code = "04F4:05"
+cheat28_enable = false
+
+cheat29_desc = "[轮次]6轮"
+cheat29_code = "04F4:06"
+cheat29_enable = false
+
+cheat30_desc = "[轮次]7轮"
+cheat30_code = "04F4:07"
+cheat30_enable = false
+
+cheat31_desc = "[轮次]8轮"
+cheat31_code = "04F4:08"
+cheat31_enable = false
+
+cheat32_desc = "[轮次]9轮"
+cheat32_code = "04F4:09"
+cheat32_enable = false
+
+cheat33_desc = "[时间(分)]ON"
+cheat33_code = "0563:09"
+cheat33_enable = false
+
+cheat34_desc = "[时间(秒)]ON"
+cheat34_code = "0562:55"
+cheat34_enable = false
+
+cheat35_desc = "[时间锁定]ON"
+cheat35_code = "0565:56"
+cheat35_enable = false
+

@@ -1,0 +1,70 @@
+cheats = 17
+
+cheat0_desc = "[炸弹人和小猫发光无敌]闪烁无敌"
+cheat0_code = "1F14EE:FF"
+cheat0_enable = false
+
+cheat1_desc = "[炸弹人隐身无敌]完全无敌"
+cheat1_code = "1F14C6:FF"
+cheat1_enable = false
+
+cheat2_desc = "[选大关]第5关"
+cheat2_code = "1F00B2:04"
+cheat2_enable = false
+
+cheat3_desc = "[选大关]第4关"
+cheat3_code = "1F00B2:03"
+cheat3_enable = false
+
+cheat4_desc = "[选大关]第3关"
+cheat4_code = "1F00B2:02"
+cheat4_enable = false
+
+cheat5_desc = "[选大关]第2关"
+cheat5_code = "1F00B2:01"
+cheat5_enable = false
+
+cheat6_desc = "[选大关]第1关"
+cheat6_code = "1F00B2:00"
+cheat6_enable = false
+
+cheat7_desc = "[选大关的小关]STAGE4"
+cheat7_code = "1F00B4:03"
+cheat7_enable = false
+
+cheat8_desc = "[选大关的小关]STAGE3"
+cheat8_code = "1F00B4:02"
+cheat8_enable = false
+
+cheat9_desc = "[选大关的小关]STAGE2"
+cheat9_code = "1F00B4:01"
+cheat9_enable = false
+
+cheat10_desc = "[选大关的小关]STAGE1"
+cheat10_code = "1F00B4:00"
+cheat10_enable = false
+
+cheat11_desc = "[选大关的小关]STAGE5"
+cheat11_code = "1F00B4:04"
+cheat11_enable = false
+
+cheat12_desc = "[选大关的小关]STAGE6"
+cheat12_code = "1F00B4:05"
+cheat12_enable = false
+
+cheat13_desc = "[选大关的小关]STAGE7"
+cheat13_code = "1F00B4:06"
+cheat13_enable = false
+
+cheat14_desc = "[选大关的小关]STAGE8"
+cheat14_code = "1F00B4:07"
+cheat14_enable = false
+
+cheat15_desc = "[选大关的小关]STAGE9"
+cheat15_code = "1F00B4:08"
+cheat15_enable = false
+
+cheat16_desc = "[选大关的小关]STAGE10"
+cheat16_code = "1F00B4:09"
+cheat16_enable = false
+

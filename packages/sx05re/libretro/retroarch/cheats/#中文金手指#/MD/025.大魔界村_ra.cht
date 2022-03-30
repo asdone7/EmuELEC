@@ -1,0 +1,42 @@
+cheats = 10
+
+cheat0_desc = "[无敌]ON"
+cheat0_code = "FFB316:FF"
+cheat0_enable = false
+
+cheat1_desc = "[只数不减]ON"
+cheat1_code = "FFB212:09"
+cheat1_enable = false
+
+cheat2_desc = "[时间不减]ON"
+cheat2_code = "FFB048:30"
+cheat2_enable = false
+
+cheat3_desc = "[武器 建议进入游戏前使用]长矛"
+cheat3_code = "FFB22D:00"
+cheat3_enable = false
+
+cheat4_desc = "[武器 建议进入游戏前使用]小刀"
+cheat4_code = "FFB22D:01"
+cheat4_enable = false
+
+cheat5_desc = "[武器 建议进入游戏前使用]火球"
+cheat5_code = "FFB22D:02"
+cheat5_enable = false
+
+cheat6_desc = "[武器 建议进入游戏前使用]剑"
+cheat6_code = "FFB22D:03"
+cheat6_enable = false
+
+cheat7_desc = "[武器 建议进入游戏前使用]斧头"
+cheat7_code = "FFB22D:04"
+cheat7_enable = false
+
+cheat8_desc = "[武器 建议进入游戏前使用]圆盘"
+cheat8_code = "FFB22D:05"
+cheat8_enable = false
+
+cheat9_desc = "[武器 建议进入游戏前使用]光球"
+cheat9_code = "FFB22D:06"
+cheat9_enable = false
+

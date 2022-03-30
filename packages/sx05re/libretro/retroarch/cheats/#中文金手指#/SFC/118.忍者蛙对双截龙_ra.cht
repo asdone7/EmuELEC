@@ -1,0 +1,54 @@
+cheats = 13
+
+cheat0_desc = "[体力不减]ON"
+cheat0_code = "7E003A30"
+cheat0_enable = false
+
+cheat1_desc = "[心数最多]ON"
+cheat1_code = "7E002605"
+cheat1_enable = false
+
+cheat2_desc = "[半透明]ON"
+cheat2_code = "7E111264"
+cheat2_enable = false
+
+cheat3_desc = "[无敌(体力不可为零)]ON"
+cheat3_code = "7E10D200+7E10D300"
+cheat3_enable = false
+
+cheat4_desc = "[改变角色(改变后解锁)]忍者蛙"
+cheat4_code = "7E0F5200"
+cheat4_enable = false
+
+cheat5_desc = "[改变角色(改变后解锁)]双截龙"
+cheat5_code = "7E0F5201"
+cheat5_enable = false
+
+cheat6_desc = "[绳索(存在问题?)]ON"
+cheat6_code = "7E0F9201"
+cheat6_enable = false
+
+cheat7_desc = "[绳索(存在问题?)]OFF"
+cheat7_code = "7E0F9200"
+cheat7_enable = false
+
+cheat8_desc = "[爬墙(存在问题?)]ON"
+cheat8_code = "7E0F0601"
+cheat8_enable = false
+
+cheat9_desc = "[爬墙(存在问题?)]OFF"
+cheat9_code = "7E0F0600"
+cheat9_enable = false
+
+cheat10_desc = "[特殊状态(存在问题?)]漂浮"
+cheat10_code = "7E0F5340"
+cheat10_enable = false
+
+cheat11_desc = "[特殊状态(存在问题?)]铁棍攻击"
+cheat11_code = "7E0F5310+7E125610"
+cheat11_enable = false
+
+cheat12_desc = "[特殊状态(存在问题?)]投弹攻击"
+cheat12_code = "7E0F5310+7E125613"
+cheat12_enable = false
+

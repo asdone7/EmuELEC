@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[作赛时间]ON"
+cheat0_code = "7E1A4630+7E1A4700"
+cheat0_enable = false
+
+cheat1_desc = "[对手0分]ON"
+cheat1_code = "7E177400"
+cheat1_enable = false
+

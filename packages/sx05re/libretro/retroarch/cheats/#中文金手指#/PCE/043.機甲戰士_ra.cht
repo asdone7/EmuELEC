@@ -1,0 +1,10 @@
+cheats = 2
+
+cheat0_desc = "[Bombes Infines]On"
+cheat0_code = "1F0381:09"
+cheat0_enable = false
+
+cheat1_desc = "[Vies Infinies]On"
+cheat1_code = "1F037D:09"
+cheat1_enable = false
+

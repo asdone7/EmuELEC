@@ -1,0 +1,7 @@
+cheats = 1
+
+cheat0_desc = "#敌人分数始终为0"
+cheat0_code = "8006931E 0000"
+cheat0_enable = false
+
+

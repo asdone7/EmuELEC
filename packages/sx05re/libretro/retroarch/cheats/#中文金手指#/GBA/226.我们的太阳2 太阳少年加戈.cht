@@ -1,0 +1,771 @@
+cheats = 192
+
+cheat0_desc = "金钱"
+cheat0_code = "0203CFA8 0000000F+0203CFA9 00000027"
+cheat0_enable = false
+
+cheat1_desc = "等级"
+cheat1_code = "0203C6D8 00000063"
+cheat1_enable = false
+
+cheat2_desc = "生命"
+cheat2_code = "02009974 000000DE+02009975 00000003+02009976 000000DE+02009977 00000003+02008CF4 000000DE+02008CF5 00000003+02008CF6 000000DE+02008CF7 00000003"
+cheat2_enable = false
+
+cheat3_desc = "能量"
+cheat3_code = "02009978 00000053+02009979 00000002+0200997A 00000053+0200997B 00000002+02008CF8 00000053+02008CF9 00000002+02008CFA 00000053+02008CFB 00000002"
+cheat3_enable = false
+
+cheat4_desc = "能力点数"
+cheat4_code = "02006E20 00000026+02006E21 00000001"
+cheat4_enable = false
+
+cheat5_desc = "能力全满"
+cheat5_code = "0200996C 00000063+0200996E 00000063+02009970 00000063+02009972 00000063+02008CEC 00000063+02008CEE 00000063+02008CF0 00000063+02008CF2 00000063"
+cheat5_enable = false
+
+cheat6_desc = "经验值"
+cheat6_code = "0203C6E8 000000FF+0203C6E9 000000E0+0203C6EA 000000F5+0203C6EB 00000005"
+cheat6_enable = false
+
+cheat7_desc = "全魔法"
+cheat7_code = "0203C6EC 000000FF+0203C6ED 000000FF+0203C6EE 000000FF"
+cheat7_enable = false
+
+cheat8_desc = "首位道具 大地の实"
+cheat8_code = "0203C708 00000000"
+cheat8_enable = false
+
+cheat9_desc = "首位道具 太阳の实"
+cheat9_code = "0203C708 00000001"
+cheat9_enable = false
+
+cheat10_desc = "首位道具 はやさの实"
+cheat10_code = "0203C708 00000002"
+cheat10_enable = false
+
+cheat11_desc = "首位道具 しのびの实"
+cheat11_code = "0203C708 00000003"
+cheat11_enable = false
+
+cheat12_desc = "首位道具 ちからの实"
+cheat12_code = "0203C708 00000004"
+cheat12_enable = false
+
+cheat13_desc = "首位道具 チョコバナナ"
+cheat13_code = "0203C708 00000005"
+cheat13_enable = false
+
+cheat14_desc = "首位道具 がまんの实"
+cheat14_code = "0203C708 00000006"
+cheat14_enable = false
+
+cheat15_desc = "首位道具 千里眼の实"
+cheat15_code = "0203C708 00000007"
+cheat15_enable = false
+
+cheat16_desc = "首位道具 くさった实"
+cheat16_code = "0203C708 00000008"
+cheat16_enable = false
+
+cheat17_desc = "首位道具 赤いキノコ"
+cheat17_code = "0203C708 00000009"
+cheat17_enable = false
+
+cheat18_desc = "首位道具 青いキノコ"
+cheat18_code = "0203C708 0000000A"
+cheat18_enable = false
+
+cheat19_desc = "首位道具 恶いキノコ"
+cheat19_code = "0203C708 0000000B"
+cheat19_enable = false
+
+cheat20_desc = "首位道具 太阳のしずく"
+cheat20_code = "0203C708 0000000C"
+cheat20_enable = false
+
+cheat21_desc = "首位道具 トマトジュ一ス"
+cheat21_code = "0203C708 0000000D"
+cheat21_enable = false
+
+cheat22_desc = "首位道具 くさった水"
+cheat22_code = "0203C708 0000000E"
+cheat22_enable = false
+
+cheat23_desc = "首位道具 おいしい肉"
+cheat23_code = "0203C708 0000000F"
+cheat23_enable = false
+
+cheat24_desc = "首位道具 干し肉"
+cheat24_code = "0203C708 00000010"
+cheat24_enable = false
+
+cheat25_desc = "首位道具 くさった肉"
+cheat25_code = "0203C708 00000011"
+cheat25_enable = false
+
+cheat26_desc = "首位道具 チョコレ一ト"
+cheat26_code = "0203C708 00000012"
+cheat26_enable = false
+
+cheat27_desc = "首位道具 溶けたチョコ"
+cheat27_code = "0203C708 00000013"
+cheat27_enable = false
+
+cheat28_desc = "首位道具 チョコまみれ"
+cheat28_code = "0203C708 00000014"
+cheat28_enable = false
+
+cheat29_desc = "首位道具 デラックスチョコ"
+cheat29_code = "0203C708 00000015"
+cheat29_enable = false
+
+cheat30_desc = "首位道具 回复药"
+cheat30_code = "0203C708 00000016"
+cheat30_enable = false
+
+cheat31_desc = "首位道具 魔法药"
+cheat31_code = "0203C708 00000017"
+cheat31_enable = false
+
+cheat32_desc = "首位道具 毒消し"
+cheat32_code = "0203C708 00000018"
+cheat32_enable = false
+
+cheat33_desc = "首位道具 万能药"
+cheat33_code = "0203C708 00000019"
+cheat33_enable = false
+
+cheat34_desc = "首位道具 日烧け止め"
+cheat34_code = "0203C708 0000001A"
+cheat34_enable = false
+
+cheat35_desc = "首位道具 テルテルボ一ズ"
+cheat35_code = "0203C708 0000001B"
+cheat35_enable = false
+
+cheat36_desc = "首位道具 ズ一ボルテルテ"
+cheat36_code = "0203C708 0000001C"
+cheat36_enable = false
+
+cheat37_desc = "首位道具 おてんきゲタ"
+cheat37_code = "0203C708 0000001D"
+cheat37_enable = false
+
+cheat38_desc = "首位道具 转移の叶"
+cheat38_code = "0203C708 0000001E"
+cheat38_enable = false
+
+cheat39_desc = "首位贵重品 愚者のカ一ド"
+cheat39_code = "0203C7C8 0000001F"
+cheat39_enable = false
+
+cheat40_desc = "首位贵重品 女教皇のカ一ド"
+cheat40_code = "0203C7C8 00000020"
+cheat40_enable = false
+
+cheat41_desc = "首位贵重品 女帝のカ一ド"
+cheat41_code = "0203C7C8 00000021"
+cheat41_enable = false
+
+cheat42_desc = "首位贵重品 皇帝のカ一ド"
+cheat42_code = "0203C7C8 00000022"
+cheat42_enable = false
+
+cheat43_desc = "首位贵重品 恋人のカ一ド"
+cheat43_code = "0203C7C8 00000023"
+cheat43_enable = false
+
+cheat44_desc = "首位贵重品 战车のカ一ド"
+cheat44_code = "0203C7C8 00000024"
+cheat44_enable = false
+
+cheat45_desc = "首位贵重品 力のカ一ド"
+cheat45_code = "0203C7C8 00000025"
+cheat45_enable = false
+
+cheat46_desc = "首位贵重品 命の轮のカ一ド"
+cheat46_code = "0203C7C8 00000026"
+cheat46_enable = false
+
+cheat47_desc = "首位贵重品 正义のカ一ド"
+cheat47_code = "0203C7C8 00000027"
+cheat47_enable = false
+
+cheat48_desc = "首位贵重品 吊るされた男のカ一ド"
+cheat48_code = "0203C7C8 00000028"
+cheat48_enable = false
+
+cheat49_desc = "首位贵重品 死神のカ一ド"
+cheat49_code = "0203C7C8 00000029"
+cheat49_enable = false
+
+cheat50_desc = "首位贵重品 节制のカ一ド"
+cheat50_code = "0203C7C8 0000002A"
+cheat50_enable = false
+
+cheat51_desc = "首位贵重品 恶魔のカ一ド"
+cheat51_code = "0203C7C8 0000002B"
+cheat51_enable = false
+
+cheat52_desc = "首位贵重品 塔のカ一ド"
+cheat52_code = "0203C7C8 0000002C"
+cheat52_enable = false
+
+cheat53_desc = "首位贵重品 星のカ一ド"
+cheat53_code = "0203C7C8 0000002D"
+cheat53_enable = false
+
+cheat54_desc = "首位贵重品 月のカ一ド"
+cheat54_code = "0203C7C8 0000002E"
+cheat54_enable = false
+
+cheat55_desc = "首位贵重品 太阳のカ一ド"
+cheat55_code = "0203C7C8 0000002F"
+cheat55_enable = false
+
+cheat56_desc = "首位贵重品 审判のカ一ド"
+cheat56_code = "0203C7C8 00000030"
+cheat56_enable = false
+
+cheat57_desc = "首位贵重品 暗黑のカ一ド"
+cheat57_code = "0203C7C8 00000031"
+cheat57_enable = false
+
+cheat58_desc = "首位贵重品 PET"
+cheat58_code = "0203C7C8 00000032"
+cheat58_enable = false
+
+cheat59_desc = "首位贵重品 スペ一ドの纹章"
+cheat59_code = "0203C7C8 00000033"
+cheat59_enable = false
+
+cheat60_desc = "首位贵重品 ハ一トの纹章"
+cheat60_code = "0203C7C8 00000034"
+cheat60_enable = false
+
+cheat61_desc = "首位贵重品 ダイヤの纹章"
+cheat61_code = "0203C7C8 00000035"
+cheat61_enable = false
+
+cheat62_desc = "首位贵重品 クラブの纹章"
+cheat62_code = "0203C7C8 00000036"
+cheat62_enable = false
+
+cheat63_desc = "首位贵重品 ジョ一カ一の纹章"
+cheat63_code = "0203C7C8 00000037"
+cheat63_enable = false
+
+cheat64_desc = "首位贵重品 オ一クコフィン"
+cheat64_code = "0203C7C8 00000038"
+cheat64_enable = false
+
+cheat65_desc = "首位贵重品 ブロンズコフィン"
+cheat65_code = "0203C7C8 00000039"
+cheat65_enable = false
+
+cheat66_desc = "首位贵重品 アイアンコフィン"
+cheat66_code = "0203C7C8 0000003A"
+cheat66_enable = false
+
+cheat67_desc = "首位贵重品 シルバ一コフィン"
+cheat67_code = "0203C7C8 0000003B"
+cheat67_enable = false
+
+cheat68_desc = "首位贵重品 太阳コフィン"
+cheat68_code = "0203C7C8 0000003C"
+cheat68_enable = false
+
+cheat69_desc = "首位贵重品 棺桶兽エレファン"
+cheat69_code = "0203C7C8 0000003D"
+cheat69_enable = false
+
+cheat70_desc = "首位贵重品 ヴァンパイアの棺"
+cheat70_code = "0203C7C8 0000003E"
+cheat70_enable = false
+
+cheat71_desc = "首位贵重品 アイアンメイデン"
+cheat71_code = "0203C7C8 0000003F"
+cheat71_enable = false
+
+cheat72_desc = "首位贵重品 仓库のカギ"
+cheat72_code = "0203C7C8 00000040"
+cheat72_enable = false
+
+cheat73_desc = "首位贵重品 ○のカギ"
+cheat73_code = "0203C7C8 00000041"
+cheat73_enable = false
+
+cheat74_desc = "首位贵重品 △のカギ"
+cheat74_code = "0203C7C8 00000042"
+cheat74_enable = false
+
+cheat75_desc = "首位贵重品 □のカギ"
+cheat75_code = "0203C7C8 00000043"
+cheat75_enable = false
+
+cheat76_desc = "首位贵重品 赤の水晶"
+cheat76_code = "0203C7C8 00000044"
+cheat76_enable = false
+
+cheat77_desc = "首位贵重品 青の水晶"
+cheat77_code = "0203C7C8 00000045"
+cheat77_enable = false
+
+cheat78_desc = "首位贵重品 绿の水晶"
+cheat78_code = "0203C7C8 00000046"
+cheat78_enable = false
+
+cheat79_desc = "首位贵重品 黄の水晶"
+cheat79_code = "0203C7C8 00000047"
+cheat79_enable = false
+
+cheat80_desc = "首位贵重品 石版のかけら"
+cheat80_code = "0203C7C8 00000048"
+cheat80_enable = false
+
+cheat81_desc = "首位贵重品 おいしい水"
+cheat81_code = "0203C7C8 00000049"
+cheat81_enable = false
+
+cheat82_desc = "首位贵重品 魔术师のカ一ド"
+cheat82_code = "0203C7C8 0000004A"
+cheat82_enable = false
+
+cheat83_desc = "首位贵重品 教皇のカ一ド"
+cheat83_code = "0203C7C8 0000004B"
+cheat83_enable = false
+
+cheat84_desc = "首位贵重品 隐者のカ一ド"
+cheat84_code = "0203C7C8 0000004C"
+cheat84_enable = false
+
+cheat85_desc = "首位贵重品 世界のカ一ド"
+cheat85_code = "0203C7C8 0000004D"
+cheat85_enable = false
+
+cheat86_desc = "首位武器 ゲラディウス　　　LV.01 威力:05"
+cheat86_code = "0203CA68 00000001"
+cheat86_enable = false
+
+cheat87_desc = "首位武器 ショ一トソ一ド　　LV.05 威力:12"
+cheat87_code = "0203CA68 00000002"
+cheat87_enable = false
+
+cheat88_desc = "首位武器 ブロ一ドソ一ド　　LV.09 威力:16"
+cheat88_code = "0203CA68 00000003"
+cheat88_enable = false
+
+cheat89_desc = "首位武器 ロングソ一ド　　　LV.13 威力:21"
+cheat89_code = "0203CA68 00000004"
+cheat89_enable = false
+
+cheat90_desc = "首位武器 なまくら　　　　　LV.01 威力:01"
+cheat90_code = "0203CA68 00000005"
+cheat90_enable = false
+
+cheat91_desc = "首位武器 ツヴァイハンダ一　LV.17 威力:25"
+cheat91_code = "0203CA68 00000006"
+cheat91_enable = false
+
+cheat92_desc = "首位武器 フランベルジェ　　LV.21 威力:30"
+cheat92_code = "0203CA68 00000007"
+cheat92_enable = false
+
+cheat93_desc = "首位武器 クレイモア　　　　LV.25 威力:34"
+cheat93_code = "0203CA68 00000008"
+cheat93_enable = false
+
+cheat94_desc = "首位武器 マジックソ一ド　　LV.29 威力:39"
+cheat94_code = "0203CA68 00000009"
+cheat94_enable = false
+
+cheat95_desc = "首位武器 刀　　　　　　　　LV.17 威力:34"
+cheat95_code = "0203CA68 0000000A"
+cheat95_enable = false
+
+cheat96_desc = "首位武器 バスタ一ドソ一ド　LV.33 威力:43"
+cheat96_code = "0203CA68 0000000B"
+cheat96_enable = false
+
+cheat97_desc = "首位武器 グレ一トソ一ド　　LV.37 威力:48"
+cheat97_code = "0203CA68 0000000C"
+cheat97_enable = false
+
+cheat98_desc = "首位武器 武士道ブレ一ド　　LV.41 威力:42"
+cheat98_code = "0203CA68 0000000D"
+cheat98_enable = false
+
+cheat99_desc = "首位武器 ブラッドソ一ド　　LV.45 威力:57"
+cheat99_code = "0203CA68 0000000E"
+cheat99_enable = false
+
+cheat100_desc = "首位武器 村正　　　　　　　LV.33 威力:52"
+cheat100_code = "0203CA68 0000000F"
+cheat100_enable = false
+
+cheat101_desc = "首位武器 ヴォ一パルソ一ド　LV.49 威力:61"
+cheat101_code = "0203CA68 00000010"
+cheat101_enable = false
+
+cheat102_desc = "首位武器 太阳の剑　　　　　LV.53 威力:66"
+cheat102_code = "0203CA68 00000011"
+cheat102_enable = false
+
+cheat103_desc = "首位武器 暗黑の么　　　　桊LV.53 威力:66"
+cheat103_code = "0203CA68 00000012"
+cheat103_enable = false
+
+cheat104_desc = "首位武器 グラム　　　　　　LV.57 威力:70"
+cheat104_code = "0203CA68 00000013"
+cheat104_enable = false
+
+cheat105_desc = "首位武器 ショ一トスピア　　LV.01 威力:08"
+cheat105_code = "0203CA68 00000014"
+cheat105_enable = false
+
+cheat106_desc = "首位武器 グレイブ　　　　　LV.05 威力:15"
+cheat106_code = "0203CA68 00000015"
+cheat106_enable = false
+
+cheat107_desc = "首位武器 ロングスピア　　　LV.09 威力:20"
+cheat107_code = "0203CA68 00000016"
+cheat107_enable = false
+
+cheat108_desc = "首位武器 ランス　　　　　　LV.13 威力:25"
+cheat108_code = "0203CA68 00000017"
+cheat108_enable = false
+
+cheat109_desc = "首位武器 六尺棒　　　　　　LV.01 威力:04"
+cheat109_code = "0203CA68 00000018"
+cheat109_enable = false
+
+cheat110_desc = "首位武器 コルセスカ　　　　LV.17 威力:30"
+cheat110_code = "0203CA68 00000019"
+cheat110_enable = false
+
+cheat111_desc = "首位武器 ファイヤ一ポ一　　LV.21 威力:35"
+cheat111_code = "0203CA68 0000001A"
+cheat111_enable = false
+
+cheat112_desc = "首位武器 バルディッシュ　　LV.25 威力:40"
+cheat112_code = "0203CA68 0000001B"
+cheat112_enable = false
+
+cheat113_desc = "首位武器 アイスグレイブ　　LV.29 威力:45"
+cheat113_code = "0203CA68 0000001C"
+cheat113_enable = false
+
+cheat114_desc = "首位武器 ル一ングレイブ　　LV.17 威力:40"
+cheat114_code = "0203CA68 0000001D"
+cheat114_enable = false
+
+cheat115_desc = "首位武器 パルチザン　　　　LV.33 威力:50"
+cheat115_code = "0203CA68 0000001E"
+cheat115_enable = false
+
+cheat116_desc = "首位武器 サンダ一スピア　　LV.37 威力:55"
+cheat116_code = "0203CA68 0000001F"
+cheat116_enable = false
+
+cheat117_desc = "首位武器 ブラッドスピア　　LV.41 威力:60"
+cheat117_code = "0203CA68 00000020"
+cheat117_enable = false
+
+cheat118_desc = "首位武器 グランドランス　　LV.45 威力:65"
+cheat118_code = "0203CA68 00000021"
+cheat118_enable = false
+
+cheat119_desc = "首位武器 ル一ンスピア　　　LV.33 威力:60"
+cheat119_code = "0203CA68 00000022"
+cheat119_enable = false
+
+cheat120_desc = "首位武器 ハルバ一ド　　　　LV.49 威力:70"
+cheat120_code = "0203CA68 00000023"
+cheat120_enable = false
+
+cheat121_desc = "首位武器 ホワイトクイ一ン　LV.53 威力:75"
+cheat121_code = "0203CA68 00000024"
+cheat121_enable = false
+
+cheat122_desc = "首位武器 ブラッククイ一ン　LV.53 威力:75"
+cheat122_code = "0203CA68 00000025"
+cheat122_enable = false
+
+cheat123_desc = "首位武器 クングニル　　　　LV.57 威力:80"
+cheat123_code = "0203CA68 00000026"
+cheat123_enable = false
+
+cheat124_desc = "首位武器 クラブ　　　　　　LV.01 威力:11"
+cheat124_code = "0203CA68 00000027"
+cheat124_enable = false
+
+cheat125_desc = "首位武器 ハンマ一　　　　　LV.05 威力:18"
+cheat125_code = "0203CA68 00000028"
+cheat125_enable = false
+
+cheat126_desc = "首位武器 メイス　　　　　　LV.09 威力:24"
+cheat126_code = "0203CA68 00000029"
+cheat126_enable = false
+
+cheat127_desc = "首位武器 フレイル　　　　　LV.13 威力:29"
+cheat127_code = "0203CA68 0000002A"
+cheat127_enable = false
+
+cheat128_desc = "首位武器 とんかち　　　　　LV.01 威力:07"
+cheat128_code = "0203CA68 0000002B"
+cheat128_enable = false
+
+cheat129_desc = "首位武器 アックス　　　　　LV.17 威力:35"
+cheat129_code = "0203CA68 0000002C"
+cheat129_enable = false
+
+cheat130_desc = "首位武器 モ一ル　　　　　　LV.21 威力:40"
+cheat130_code = "0203CA68 0000002D"
+cheat130_enable = false
+
+cheat131_desc = "首位武器 シルバ一メイス　　LV.25 威力:46"
+cheat131_code = "0203CA68 0000002E"
+cheat131_enable = false
+
+cheat132_desc = "首位武器 シルバ一フレイル　LV.29 威力:51"
+cheat132_code = "0203CA68 0000002F"
+cheat132_enable = false
+
+cheat133_desc = "首位武器 ヘヴィメイス　　　LV.17 威力:46"
+cheat133_code = "0203CA68 00000030"
+cheat133_enable = false
+
+cheat134_desc = "首位武器 バトルアックス　　LV.33 威力:57"
+cheat134_code = "0203CA68 00000031"
+cheat134_enable = false
+
+cheat135_desc = "首位武器 ウォ一ハンマ一　　LV.37 威力:62"
+cheat135_code = "0203CA68 00000032"
+cheat135_enable = false
+
+cheat136_desc = "首位武器 ブラッディメイス　LV.41 威力:68"
+cheat136_code = "0203CA68 00000033"
+cheat136_enable = false
+
+cheat137_desc = "首位武器 モ一ニングスタ一　LV.45 威力:73"
+cheat137_code = "0203CA68 00000034"
+cheat137_enable = false
+
+cheat138_desc = "首位武器 ヘヴィアックス　　LV.33 威力:68"
+cheat138_code = "0203CA68 00000035"
+cheat138_enable = false
+
+cheat139_desc = "首位武器 ア一スシェ一カ一　LV.49 威力:79"
+cheat139_code = "0203CA68 00000036"
+cheat139_enable = false
+
+cheat140_desc = "首位武器 あかつき　　　　　LV.53 威力:84"
+cheat140_code = "0203CA68 00000037"
+cheat140_enable = false
+
+cheat141_desc = "首位武器 たそがれ　　　　　LV.53 威力:84"
+cheat141_code = "0203CA68 00000038"
+cheat141_enable = false
+
+cheat142_desc = "首位武器 ミョルニル　　　　LV.57 威力:90"
+cheat142_code = "0203CA68 00000039"
+cheat142_enable = false
+
+cheat143_desc = "首位武器 坏れた太阳铳　　　LV.?? 威力:01"
+cheat143_code = "0203CA68 0000003A"
+cheat143_enable = false
+
+cheat144_desc = "首位武器 ガン·デル·ンル　LV.?? 威力:75"
+cheat144_code = "0203CA68 0000003B"
+cheat144_enable = false
+
+cheat145_desc = "首位武器 ガン·デル·ヘル　LV.?? 威力:80"
+cheat145_code = "0203CA68 0000003C"
+cheat145_enable = false
+
+cheat146_desc = "首位武器 ロックバスタ一　　LV.?? 威力:85"
+cheat146_code = "0203CA68 0000003D"
+cheat146_enable = false
+
+cheat147_desc = "首位武器 星のかけら"
+cheat147_code = "0203CA68 0000003E"
+cheat147_enable = false
+
+cheat148_desc = "首位武器 アストロソ一ド　　LV.?? 威力:06"
+cheat148_code = "0203CA68 0000003F"
+cheat148_enable = false
+
+cheat149_desc = "首位武器 アストロスピア　　LV.?? 威力:06"
+cheat149_code = "0203CA68 00000040"
+cheat149_enable = false
+
+cheat150_desc = "首位武器 アストロハンマ一　LV.?? 威力:06"
+cheat150_code = "0203C7D0 00000041"
+cheat150_enable = false
+
+cheat151_desc = "首位防具 クロスア一マ一　　耐久力:10 重量:05"
+cheat151_code = "0203C7E8 00000000"
+cheat151_enable = false
+
+cheat152_desc = "首位防具 レザ一ア一マ一　　耐久力:15 重量:10"
+cheat152_code = "0203C7E8 00000001"
+cheat152_enable = false
+
+cheat153_desc = "首位防具 チェインメイル　　耐久力:20 重量:15"
+cheat153_code = "0203C7E8 00000002"
+cheat153_enable = false
+
+cheat154_desc = "首位防具 シルバ一チェイン　耐久力:25 重量:20"
+cheat154_code = "0203C7E8 00000003"
+cheat154_enable = false
+
+cheat155_desc = "首位防具 スケイルメイル　　耐久力:30 重量:25"
+cheat155_code = "0203C7E8 00000004"
+cheat155_enable = false
+
+cheat156_desc = "首位防具 武者铠　　　　　　耐久力:35 重量:30"
+cheat156_code = "0203C7E8 00000005"
+cheat156_enable = false
+
+cheat157_desc = "首位防具 プレ一トメイル　　耐久力:40 重量:35"
+cheat157_code = "0203C7E8 00000006"
+cheat157_enable = false
+
+cheat158_desc = "首位防具 ブリガンダイン　　耐久力:45 重量:40"
+cheat158_code = "0203C7E8 00000007"
+cheat158_enable = false
+
+cheat159_desc = "首位防具 メイルオブンル　　耐久力:25 重量:22"
+cheat159_code = "0203C7E8 00000008"
+cheat159_enable = false
+
+cheat160_desc = "首位防具 メイルオブダ一ク　耐久力:30 重量:22"
+cheat160_code = "0203C7E8 00000009"
+cheat160_enable = false
+
+cheat161_desc = "首位防具 メイルオブルナ　　耐久力:25 重量:22"
+cheat161_code = "0203C7E8 0000000A"
+cheat161_enable = false
+
+cheat162_desc = "首位防具 火龙の牙　　　　　耐久力:30 重量:33"
+cheat162_code = "0203C7E8 0000000B"
+cheat162_enable = false
+
+cheat163_desc = "首位防具 水龙の尾　　　　　耐久力:30 重量:33"
+cheat163_code = "0203C7E8 0000000C"
+cheat163_enable = false
+
+cheat164_desc = "首位防具 风龙の翼　　　　　耐久力:30 重量:33"
+cheat164_code = "0203C7E8 0000000D"
+cheat164_enable = false
+
+cheat165_desc = "首位防具 地龙の爪　　　　　耐久力:30 重量:33"
+cheat165_code = "0203C7E8 0000000E"
+cheat165_enable = false
+
+cheat166_desc = "首位防具 ドラゴンスケイル　耐久力:28 重量:24"
+cheat166_code = "0203C7E8 0000000F"
+cheat166_enable = false
+
+cheat167_desc = "首位防具 妖精の衣　　　　　耐久力:16 重量:04"
+cheat167_code = "0203C7E8 00000010"
+cheat167_enable = false
+
+cheat168_desc = "首位防具 大地の衣　　　　　耐久力:28 重量:08"
+cheat168_code = "0203C7E8 00000011"
+cheat168_enable = false
+
+cheat169_desc = "首位防具 レインコ一ト　　　耐久力:12 重量:06"
+cheat169_code = "0203C7E8 00000012"
+cheat169_enable = false
+
+cheat170_desc = "首位防具 光のガ一ブ　　　　耐久力:30 重量:12"
+cheat170_code = "0203C7E8 00000013"
+cheat170_enable = false
+
+cheat171_desc = "首位防具 暗のガ一ブ　　　　耐久力:30 重量:12"
+cheat171_code = "0203C7E8 00000014"
+cheat171_enable = false
+
+cheat172_desc = "首位防具 マジックロ一ブ　　耐久力:26 重量:16"
+cheat172_code = "0203C7E8 00000015"
+cheat172_enable = false
+
+cheat173_desc = "首位防具 血涂れのマント　　耐久力:22 重量:12"
+cheat173_code = "0203C7E8 00000016"
+cheat173_enable = false
+
+cheat174_desc = "首位防具 スカルス一ツ　　　耐久力:20 重量:16"
+cheat174_code = "0203C7E8 00000017"
+cheat174_enable = false
+
+cheat175_desc = "首位防具 トラックス一ツ　　耐久力:25 重量:16"
+cheat175_code = "0203C7E8 00000018"
+cheat175_enable = false
+
+cheat176_desc = "首位防具 盗人の服　　　　　耐久力:18 重量:24"
+cheat176_code = "0203C7E8 00000019"
+cheat176_enable = false
+
+cheat177_desc = "首位防具 狩人の服　　　　　耐久力:24 重量:24"
+cheat177_code = "0203C7E8 0000001A"
+cheat177_enable = false
+
+cheat178_desc = "首位防具 ポイズンガ一ド　　耐久力:18 重量:28"
+cheat178_code = "0203C7E8 0000001B"
+cheat178_enable = false
+
+cheat179_desc = "首位防具 ウエポンガ一ド　　耐久力:24 重量:28"
+cheat179_code = "0203C7E8 0000001C"
+cheat179_enable = false
+
+cheat180_desc = "首位防具 パレ一ドア一マ一　耐久力:32 重量:28"
+cheat180_code = "0203C7E8 0000001D"
+cheat180_enable = false
+
+cheat181_desc = "首位防具 忍装术　　　　　　耐久力:18 重量:28"
+cheat181_code = "0203C7E8 0000001E"
+cheat181_enable = false
+
+cheat182_desc = "首位防具 スパイクメイル　　耐久力:40 重量:40"
+cheat182_code = "0203C7E8 0000001F"
+cheat182_enable = false
+
+cheat183_desc = "首位防具 黑の铠　　　　　　耐久力:50 重量:50"
+cheat183_code = "0203C7E8 00000020"
+cheat183_enable = false
+
+cheat184_desc = "首位防具 ロックパワ一　　　耐久力:25 重量:30"
+cheat184_code = "0203C7E8 00000021"
+cheat184_enable = false
+
+cheat185_desc = "首位防具 ガッシパワ一　　　耐久力:30 重量:40"
+cheat185_code = "0203C7E8 00000022"
+cheat185_enable = false
+
+cheat186_desc = "首位防具 ブル一スパワ一　　耐久力:25 重量:20"
+cheat186_code = "0203C7E8 00000023"
+cheat186_enable = false
+
+cheat187_desc = "首位防具 ト一ドパワ一　　　耐久力:20 重量:20"
+cheat187_code = "0203C7E8 00000024"
+cheat187_enable = false
+
+cheat188_desc = "武器开启"
+cheat188_code = "02003D7B 00000001"
+cheat188_enable = false
+
+cheat189_desc = "防具开启"
+cheat189_code = "02003D7C 00000001"
+cheat189_enable = false
+
+cheat190_desc = "魔法开启"
+cheat190_code = "02003D7D 00000001"
+cheat190_enable = false
+
+cheat191_desc = "存档开启"
+cheat191_code = "02003D81 00000001"
+cheat191_enable = false
+
+

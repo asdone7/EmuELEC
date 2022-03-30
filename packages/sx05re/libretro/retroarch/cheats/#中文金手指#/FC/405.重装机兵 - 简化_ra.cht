@@ -1,0 +1,338 @@
+cheats = 84
+
+cheat0_desc = "[-钱- !]ON"
+cheat0_code = "0C5D:7F+0C5E:96+0C5F:98"
+cheat0_enable = false
+
+cheat1_desc = "[-穿墙过壁-]拉多镇南方山洞1f"
+cheat1_code = "0358:5A+035C:EA"
+cheat1_enable = false
+
+cheat2_desc = "[-穿墙过壁-]2f"
+cheat2_code = "0358:1E+035C:14"
+cheat2_enable = false
+
+cheat3_desc = "[-穿墙过壁-]3f"
+cheat3_code = "0358:03+035C:18"
+cheat3_enable = false
+
+cheat4_desc = "[-穿墙过壁-]水怪洞(拉多北方)1f"
+cheat4_code = "0358:21+035C:0E"
+cheat4_enable = false
+
+cheat5_desc = "[-穿墙过壁-]2f"
+cheat5_code = "0358:0E+035C:11"
+cheat5_enable = false
+
+cheat6_desc = "[-穿墙过壁-]3f"
+cheat6_code = "0358:11+035C:1C"
+cheat6_enable = false
+
+cheat7_desc = "[-穿墙过壁-]4f"
+cheat7_code = "0358:09+035C:10"
+cheat7_enable = false
+
+cheat8_desc = "[-穿墙过壁-]波布镇东-工厂"
+cheat8_code = "0358:17+035C:0C"
+cheat8_enable = false
+
+cheat9_desc = "[-穿墙过壁-]奥多东北-工厂(黄色)"
+cheat9_code = "0358:0B+035C:05"
+cheat9_enable = false
+
+cheat10_desc = "[-不遇敌-]ON"
+cheat10_code = "043F:00"
+cheat10_enable = false
+
+cheat11_desc = "[-全角色金刚不坏身-]ON"
+cheat11_code = "0C7B:00+0C7C:00+0C7D:00"
+cheat11_enable = false
+
+cheat12_desc = "[-所有角色-]只有角色1"
+cheat12_code = "0C78:01+0C79:00+0C7A:00"
+cheat12_enable = false
+
+cheat13_desc = "[-所有角色-]只有角色2"
+cheat13_code = "0C78:00+0C79:01+0C7A:00"
+cheat13_enable = false
+
+cheat14_desc = "[-所有角色-]只有角色3"
+cheat14_code = "0C78:00+0C79:00+0C7A:01"
+cheat14_enable = false
+
+cheat15_desc = "[-所有角色-]角色1,2"
+cheat15_code = "0C78:01+0C79:01+0C7A:00"
+cheat15_enable = false
+
+cheat16_desc = "[-所有角色-]角色2,3"
+cheat16_code = "0C78:00+0C79:01+0C7A:01"
+cheat16_enable = false
+
+cheat17_desc = "[-所有角色-]全部到位"
+cheat17_code = "0C78:01+0C79:01+0C7A:01"
+cheat17_enable = false
+
+cheat18_desc = "[-各战车在拉多镇(1村)车房守候-]战车1,停泊位置:1号位"
+cheat18_code = "0413:04+041E:09+0429:03"
+cheat18_enable = false
+
+cheat19_desc = "[-各战车在拉多镇(1村)车房守候-]战车2,停泊位置:2号位"
+cheat19_code = "0414:04+041F:0D+042A:03"
+cheat19_enable = false
+
+cheat20_desc = "[-各战车在拉多镇(1村)车房守候-]战车3,停泊位置:3号位"
+cheat20_code = "0415:04+0420:09+042B:05"
+cheat20_enable = false
+
+cheat21_desc = "[-各战车在拉多镇(1村)车房守候-]战车4,停泊位置:4号位"
+cheat21_code = "0416:04+0421:0D+042C:05"
+cheat21_enable = false
+
+cheat22_desc = "[-各战车在拉多镇(1村)车房守候-]战车5,停泊位置:5号位"
+cheat22_code = "0417:04+0422:09+042D:07"
+cheat22_enable = false
+
+cheat23_desc = "[-各战车在拉多镇(1村)车房守候-]战车6,停泊位置:6号位"
+cheat23_code = "0418:04+0423:0D+042E:07"
+cheat23_enable = false
+
+cheat24_desc = "[-各战车在拉多镇(1村)车房守候-]战车7,停泊位置:7号位"
+cheat24_code = "0419:04+0424:09+042F:09"
+cheat24_enable = false
+
+cheat25_desc = "[-各战车在拉多镇(1村)车房守候-]战车8,停播位置:8号位"
+cheat25_code = "041A:04+0425:0D+0430:09"
+cheat25_enable = false
+
+cheat26_desc = "[-各战车在拉多镇(1村)车房守候-]全部到位!!"
+cheat26_code = "0413:04+0414:04+0415:04+0416:04+0417:04+0418:04+0419:04+041A:04+041E:09+041F:0D+0420:09+0421:0D+0422:09+0423:0D+0424:09+0425:0D+0429:03+042A:03+042B:05+042C:05+042D:07+042E:07+042F:09+0430:09"
+cheat26_enable = false
+
+cheat27_desc = "[战车 1 -主炮,S-E- 弹仓不减]ON"
+cheat27_code = "0D35:3F+0D4B:3F"
+cheat27_enable = false
+
+cheat28_desc = "[战车 1 -弹仓上限-]最大"
+cheat28_code = "0D1F:FF"
+cheat28_enable = false
+
+cheat29_desc = "[战车 1 -底盘防御-]500"
+cheat29_code = "0CFE:F4+0CFF:01"
+cheat29_enable = false
+
+cheat30_desc = "[战车 1 -底盘防御-]999"
+cheat30_code = "0CFE:E7+0CFF:03"
+cheat30_enable = false
+
+cheat31_desc = "[战车 1 -底盘防御-]5000"
+cheat31_code = "0CFE:88+0CFF:13"
+cheat31_enable = false
+
+cheat32_desc = "[战车 1 -底盘重量-]0吨"
+cheat32_code = "0CD2:00+0CD3:00"
+cheat32_enable = false
+
+cheat33_desc = "[战车 1 -底盘重量-]?吨(后果自负!)"
+cheat33_code = "0CD2:F8+0CD3:FD"
+cheat33_enable = false
+
+cheat34_desc = "[战车 1 -炮弹- 数量]全部数量为255!"
+cheat34_code = "0D8D:FF+0D8E:FF+0D8F:FF+0D90:FF+0D91:FF+0D92:FF"
+cheat34_enable = false
+
+cheat35_desc = "[战车 2 -主炮,S-E- 弹仓不减]ON"
+cheat35_code = "0D36:3F+0D4C:3F"
+cheat35_enable = false
+
+cheat36_desc = "[战车 2 -弹仓上限-]最大"
+cheat36_code = "0D20:FF"
+cheat36_enable = false
+
+cheat37_desc = "[战车 2 -底盘防御-]500"
+cheat37_code = "0D00:F4+0D01:01"
+cheat37_enable = false
+
+cheat38_desc = "[战车 2 -底盘防御-]999"
+cheat38_code = "0D00:E7+0D01:03"
+cheat38_enable = false
+
+cheat39_desc = "[战车 2 -底盘防御-]5000"
+cheat39_code = "0D00:88+0D01:13"
+cheat39_enable = false
+
+cheat40_desc = "[战车 2 -底盘重量-]0吨"
+cheat40_code = "0CD4:00+0CD5:00"
+cheat40_enable = false
+
+cheat41_desc = "[战车 2 -炮弹- 数量]全部数量为255!"
+cheat41_code = "0D93:FF+0D94:FF+0D95:FF+0D96:FF+0D97:FF+0D98:FF"
+cheat41_enable = false
+
+cheat42_desc = "[战车 3 -主炮,S-E- 弹仓不减]ON"
+cheat42_code = "0D37:3F+0D4D:3F"
+cheat42_enable = false
+
+cheat43_desc = "[战车 3 -弹仓上限-]最大"
+cheat43_code = "0D21:FF"
+cheat43_enable = false
+
+cheat44_desc = "[战车 3 -底盘防御-]500"
+cheat44_code = "0D02:F4+0D03:01"
+cheat44_enable = false
+
+cheat45_desc = "[战车 3 -底盘防御-]999"
+cheat45_code = "0D02:E7+0D03:03"
+cheat45_enable = false
+
+cheat46_desc = "[战车 3 -底盘防御-]5000"
+cheat46_code = "0D02:88+0D03:13"
+cheat46_enable = false
+
+cheat47_desc = "[战车 3 -底盘重量-]0吨"
+cheat47_code = "0CD6:00+0CD7:00"
+cheat47_enable = false
+
+cheat48_desc = "[战车 3 -炮弹- 数量]全部数量为255!"
+cheat48_code = "0D99:FF+0D9A:FF+0D9B:FF+0D9C:FF+0D9D:FF+0D9E:FF"
+cheat48_enable = false
+
+cheat49_desc = "[战车 4 -主炮,S-E- 弹仓不减]ON"
+cheat49_code = "0D38:3F+0D4E:3F"
+cheat49_enable = false
+
+cheat50_desc = "[战车 4 -弹仓上限-]最大"
+cheat50_code = "0D22:FF"
+cheat50_enable = false
+
+cheat51_desc = "[战车 4 -底盘防御-]500"
+cheat51_code = "0D04:F4+0D05:01"
+cheat51_enable = false
+
+cheat52_desc = "[战车 4 -底盘防御-]999"
+cheat52_code = "0D04:E7+0D05:03"
+cheat52_enable = false
+
+cheat53_desc = "[战车 4 -底盘防御-]5000"
+cheat53_code = "0D04:88+0D05:13"
+cheat53_enable = false
+
+cheat54_desc = "[战车 4 -底盘重量-]0吨"
+cheat54_code = "0CD8:00+0CD9:00"
+cheat54_enable = false
+
+cheat55_desc = "[战车 4 -炮弹- 数量]全部数量为255!"
+cheat55_code = "0D9F:FF+0DA0:FF+0DA1:FF+0DA2:FF+0DA3:FF+0DA4:FF"
+cheat55_enable = false
+
+cheat56_desc = "[战车 5 -主炮,S-E- 弹仓不减]ON"
+cheat56_code = "0D39:3F+0D4F:3F"
+cheat56_enable = false
+
+cheat57_desc = "[战车 5 -弹仓上限-]最大"
+cheat57_code = "0D23:FF"
+cheat57_enable = false
+
+cheat58_desc = "[战车 5 -底盘防御-]500"
+cheat58_code = "0D06:F4+0D07:01"
+cheat58_enable = false
+
+cheat59_desc = "[战车 5 -底盘防御-]999"
+cheat59_code = "0D06:E7+0D07:03"
+cheat59_enable = false
+
+cheat60_desc = "[战车 5 -底盘防御-]5000"
+cheat60_code = "0D06:88+0D07:13"
+cheat60_enable = false
+
+cheat61_desc = "[战车 5 -底盘重量-]0吨"
+cheat61_code = "0CDA:00+0CDB:00"
+cheat61_enable = false
+
+cheat62_desc = "[战车 5 -炮弹- 数量]全部数量为255!"
+cheat62_code = "0DA5:FF+0DA6:FF+0DA7:FF+0DA8:FF+0DA9:FF+0DAA:FF"
+cheat62_enable = false
+
+cheat63_desc = "[战车 6 -主炮,S-E- 弹仓不减]ON"
+cheat63_code = "0D3A:3F+0D50:3F"
+cheat63_enable = false
+
+cheat64_desc = "[战车 6 -弹仓上限-]最大"
+cheat64_code = "0D24:FF"
+cheat64_enable = false
+
+cheat65_desc = "[战车 6 -底盘防御-]500"
+cheat65_code = "0D08:F4+0D09:01"
+cheat65_enable = false
+
+cheat66_desc = "[战车 6 -底盘防御-]999"
+cheat66_code = "0D08:E7+0D09:03"
+cheat66_enable = false
+
+cheat67_desc = "[战车 6 -底盘防御-]5000"
+cheat67_code = "0D08:88+0D09:13"
+cheat67_enable = false
+
+cheat68_desc = "[战车 6 -底盘重量-]0吨"
+cheat68_code = "0CDC:00+0CDD:00"
+cheat68_enable = false
+
+cheat69_desc = "[战车 6 -炮弹- 数量]全部数量为255!"
+cheat69_code = "0DAB:FF+0DAC:FF+0DAD:FF+0DAE:FF+0DAF:FF+0DB0:FF"
+cheat69_enable = false
+
+cheat70_desc = "[战车 7 -主炮,S-E- 弹仓不减]ON"
+cheat70_code = "0D3B:3F+0D51:3F"
+cheat70_enable = false
+
+cheat71_desc = "[战车 7 -弹仓上限-]最大"
+cheat71_code = "0D25:FF"
+cheat71_enable = false
+
+cheat72_desc = "[战车 7 -底盘防御-]500"
+cheat72_code = "0D0A:F4+0D0B:01"
+cheat72_enable = false
+
+cheat73_desc = "[战车 7 -底盘防御-]999"
+cheat73_code = "0D0A:E7+0D0B:03"
+cheat73_enable = false
+
+cheat74_desc = "[战车 7 -底盘防御-]5000"
+cheat74_code = "0D0A:88+0D0B:13"
+cheat74_enable = false
+
+cheat75_desc = "[战车 7 -底盘重量-]0吨"
+cheat75_code = "0CDE:00+0CDF:00"
+cheat75_enable = false
+
+cheat76_desc = "[战车 7 -炮弹- 数量]全部数量为255!"
+cheat76_code = "0DB2:FF+0DB3:FF+0DB4:FF+0DB5:FF+0DB6:FF+0DB7:FF"
+cheat76_enable = false
+
+cheat77_desc = "[战车 8 -主炮,S-E- 弹仓不减]ON"
+cheat77_code = "0D3E:3F+0D51:3F"
+cheat77_enable = false
+
+cheat78_desc = "[战车 8 -弹仓上限-]最大"
+cheat78_code = "0D26:FF"
+cheat78_enable = false
+
+cheat79_desc = "[战车 8 -底盘防御-]500"
+cheat79_code = "0D0C:F4+0D0D:01"
+cheat79_enable = false
+
+cheat80_desc = "[战车 8 -底盘防御-]999"
+cheat80_code = "0D0C:E7+0D0D:03"
+cheat80_enable = false
+
+cheat81_desc = "[战车 8 -底盘防御-]5000"
+cheat81_code = "0D0C:88+0D0D:13"
+cheat81_enable = false
+
+cheat82_desc = "[战车 8 -底盘重量-]0吨"
+cheat82_code = "0CE0:00+0CE1:00"
+cheat82_enable = false
+
+cheat83_desc = "[战车 8 -炮弹- 数量]全部数量为255!"
+cheat83_code = "0DB8:FF+0DB9:FF+0DBA:FF+0DBB:FF+0DBC:FF+0DBD:FF"
+cheat83_enable = false
+
