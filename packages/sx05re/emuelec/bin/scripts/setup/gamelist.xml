@@ -47,7 +47,7 @@
 	</game>
 	<game>
 		<path>./skyscraper.sh</path>
-		<name>Skyscraper</name>
+		<name>ROM元数据抓取工具</name>
 		<desc>替代 ROM 抓取元数据. 需要配置!</desc>
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>

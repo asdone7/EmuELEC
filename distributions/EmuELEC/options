@@ -12,8 +12,8 @@
 # Welcome Message for e.g. SSH Server (up to 5 Lines)
   GREETING0="###############################################"
   GREETING1="#             EmuELEC - PENG                  #"
-  GREETING2="#   仅晶晨、瑞芯微设备的仿真器,基于CoreELEC     #"
-  GREETING3="#       官方 - EmuELEC 是免费的! 不出售!       #"
+  GREETING2="#   仅晶晨、瑞芯微设备的仿真器,基于CoreELEC   #"
+  GREETING3="#       官方 - EmuELEC 是免费的! 不出售!      #"
   GREETING4="###############################################"
 
 # Root password to integrate in the target system
