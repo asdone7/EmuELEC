@@ -2,13 +2,13 @@
 # Copyright (C) 2019-present Shanti Gilbert (https://github.com/shantigilbert)
 
 PKG_NAME="Ultimate-EmuELEC"
-PKG_VERSION="1"
-PKG_SHA256="f6af82454dca0d5d1a52e84fee24fb24baa85334de5afb7e6ef2fd1a9a36d067"
+PKG_VERSION="381d0221bd1ccac6ecb218d7345e91a7927d2fcd"
+PKG_SHA256="d81ae24aca09de339be6e3e4709a2358700850017e9944c12dad84813bd73a9c"
 PKG_REV="1"
 PKG_ARCH="any"
 PKG_LICENSE="GPL"
 PKG_SITE="https://www.deviantart.com/masterq2"
-PKG_URL="https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbzBxb2U5eUt6RzRnWkJBcVJidWNwR3VHc1Vvb3c_ZT1FOGVJWEQ.zip"
+PKG_URL="https://github.com/asdone7/Ultimate-EmuELEC/archive/$PKG_VERSION.tar.gz"
 PKG_DEPENDS_TARGET="toolchain"
 PKG_SECTION="emuelec"
 PKG_SHORTDESC="This EmulationStation theme is Ultimate Pie's Fork, with changes for EmuELEC by PENG"
