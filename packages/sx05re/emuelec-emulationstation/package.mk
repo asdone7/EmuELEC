@@ -80,6 +80,10 @@ makeinstall_target() {
 # If used es-theme-EmuELEC-carbon themese, uncomment	
 #	mkdir -p $INSTALL/usr/config/emulationstation/themesettings
 #	cp -rf $PKG_DIR/themesettings/*.cfg $INSTALL/usr/config/emulationstation/themesettings
+
+#Fix some text that cannot be translated
+	mkdir -p $INSTALL/usr/config/emuelec/configs/locale/zh_CN
+	cp -rf $PKG_DIR/translated/* $INSTALL/usr/config/emuelec/configs/locale/zh_CN
 	
 	# Vertical Games are only supported in the OdroidGoAdvance
     if [[ ${DEVICE} != "OdroidGoAdvance" ]]; then
