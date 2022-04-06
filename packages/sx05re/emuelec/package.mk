@@ -150,4 +150,8 @@ fi
 
 #For automatic updates we use the buildate
 	date +"%m%d%Y" > $INSTALL/usr/buildate
+
+#Fix text that ES cannot translate
+	mkdir -p $INSTALL/usr/config/emuelec/configs/locale/zh_CN
+	cp -rf $PKG_DIR/translated/* $INSTALL/usr/config/emuelec/configs/locale/zh_CN
 } 

@@ -43,7 +43,7 @@
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
-		<image>./downloaded_images/help.png</image>
+		<image>./downloaded_images/sselphs.png</image>
 	</game>
 	<game>
 		<path>./skyscraper.sh</path>
@@ -52,7 +52,7 @@
 		<developer>shantigilbert </developer>
 		<publisher>Emuelec</publisher>
 		<genre>script</genre>
-		<image>./downloaded_images/sh.png</image>
+		<image>./downloaded_images/skyscraper.png</image>
 	</game>
 	<game>
 		<path>./send_logs.sh</path>

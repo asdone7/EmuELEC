@@ -2,7 +2,7 @@
 # Copyright (C) 2019-present Shanti Gilbert (https://github.com/shantigilbert)
 
 PKG_NAME="emuelec-emulationstation"
-PKG_VERSION="003703c36121ffa8abdad8f3eb8cccb0c2adc298"
+PKG_VERSION="3b9d31e033162cb572cd1370bac207a2074f983c"
 PKG_GIT_CLONE_BRANCH="EmuELEC"
 PKG_REV="1"
 PKG_ARCH="any"
@@ -80,10 +80,6 @@ makeinstall_target() {
 # If used es-theme-EmuELEC-carbon themese, uncomment	
 #	mkdir -p $INSTALL/usr/config/emulationstation/themesettings
 #	cp -rf $PKG_DIR/themesettings/*.cfg $INSTALL/usr/config/emulationstation/themesettings
-
-#Fix some text that cannot be translated
-	mkdir -p $INSTALL/usr/config/emuelec/configs/locale/zh_CN
-	cp -rf $PKG_DIR/translated/* $INSTALL/usr/config/emuelec/configs/locale/zh_CN
 	
 	# Vertical Games are only supported in the OdroidGoAdvance
     if [[ ${DEVICE} != "OdroidGoAdvance" ]]; then
