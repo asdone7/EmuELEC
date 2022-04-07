@@ -173,7 +173,7 @@ case ${PLATFORM} in
 		;;
 	"psx")
 		if [ "$EMU" = "duckstation" ]; then
-            set_kill_keys "duckstation-nogui"
+            set_kill_keys "duckstation-qt"
             RUNTHIS='${TBASH} duckstation.sh "${ROMNAME}"'
         fi
 		;;

@@ -81,7 +81,7 @@
  
  	// DIP 1
  	{0,		0xFE, 0,	2,	  "Setting mode"},
-@@ -20918,3 +20918,2880 @@
+@@ -21107,3 +21107,2881 @@
  	NeoInit, NeoExit, NeoFrame, NeoRender, NeoScan, &NeoRecalcPalette,
  	0x1000, 304, 224, 4, 3
 -};

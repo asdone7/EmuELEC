@@ -378,7 +378,8 @@ if [ "${1}" = "release" -o "${1}" = "mkimage" -o "${1}" = "noobs" ]; then
     else
       if [ -n "${SUBDEVICES}" ]; then
         [ "${PROJECT}" = "Amlogic-ce" ] && SUBDEVICES+=" Generic"
-        for SUBDEVICE in ${SUBDEVICES}; do
+#        for SUBDEVICE in ${SUBDEVICES}; do
+        for SUBDEVICE in Generic; do
           do_mkimage "${IMAGE_NAME}"
         done
       else
@@ -455,11 +456,12 @@ if [ "${1}" = "release" -o "${1}" = "mkimage" -o "${1}" = "noobs" ]; then
     cp ${TARGET_IMG}/${IMAGE_NAME}.system ${RELEASE_DIR}/${NOOBS_DISTRO}/System/SYSTEM
     cp ${TARGET_IMG}/${IMAGE_NAME}.kernel ${RELEASE_DIR}/${NOOBS_DISTRO}/System/kernel.img
 
-    for dtb in ${INSTALL}/usr/share/bootloader/*.dtb; do
-      if [ -f ${dtb} ]; then
-        cp -PR ${dtb} ${RELEASE_DIR}/${NOOBS_DISTRO}/System
-      fi
-    done
+#    for dtb in ${INSTALL}/usr/share/bootloader/*.dtb; do
+#      if [ -f ${dtb} ]; then
+#        cp -PR ${dtb} ${RELEASE_DIR}/${NOOBS_DISTRO}/System
+        cp ${INSTALL}/usr/share/bootloader/sm1_s905x3_4g_1gbit.dtb ${RELEASE_DIR}/${NOOBS_DISTRO}/System/dtb.img
+#      fi
+#    done
 
     for overlay in ${INSTALL}/usr/share/bootloader/overlays/*; do
       if [ -f ${overlay} ]; then
