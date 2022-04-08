@@ -24,8 +24,8 @@ pre_configure_target() {
 	                         -DENABLE_DISCORD_PRESENCE=OFF \
 	                         -DUSE_X11=OFF \
 	                         -DBUILD_GO2_FRONTEND=OFF \
-	                         -DBUILD_QT_FRONTEND=ON \
-	                         -DBUILD_NOGUI_FRONTEND=OFF \
+	                         -DBUILD_QT_FRONTEND=OFF \
+	                         -DBUILD_NOGUI_FRONTEND=ON \
 	                         -DCMAKE_BUILD_TYPE=Release \
 	                         -DBUILD_SHARED_LIBS=OFF \
 	                         -DUSE_SDL2=ON \
@@ -36,15 +36,13 @@ pre_configure_target() {
 
 makeinstall_target() {
   mkdir -p ${INSTALL}/usr/bin
-  cp -rf ${PKG_BUILD}/.${TARGET_NAME}/bin/duckstation-qt ${INSTALL}/usr/bin
+  cp -rf ${PKG_BUILD}/.${TARGET_NAME}/bin/duckstation-nogui ${INSTALL}/usr/bin
   cp -rf ${PKG_DIR}/scripts/* ${INSTALL}/usr/bin
   
   mkdir -p ${INSTALL}/usr/config/emuelec/configs/duckstation
   cp -rf ${PKG_BUILD}/.${TARGET_NAME}/bin/* ${INSTALL}/usr/config/emuelec/configs/duckstation 
   cp -rf ${PKG_DIR}/config/* ${INSTALL}/usr/config/emuelec/configs/duckstation
   
-  rm -rf ${INSTALL}/usr/config/emuelec/configs/duckstation/duckstation-qt
+  rm -rf ${INSTALL}/usr/config/emuelec/configs/duckstation/duckstation-nogui
   rm -rf ${INSTALL}/usr/config/emuelec/configs/duckstation/common-tests
-  
-  cp -rf ${PKG_BUILD}/.${TARGET_NAME}/bin/translations/* ${INSTALL}/usr/config/emuelec/configs/duckstation/translations
 }

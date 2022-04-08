@@ -24,7 +24,7 @@ if [ ! -L "${LOCAL_CONFIG}/duckstation" ]; then
 fi
 
 if [[ "${1}" == *"duckstation_gui.pbp"* ]]; then
-    duckstation-qt -fullscreen
+    duckstation-nogui -fullscreen
 else
-    duckstation-qt -fullscreen -settings "${CONFIG_DIR}/settings.ini" -- "${1}" > /dev/null 2>&1
+    duckstation-nogui -fullscreen -settings "${CONFIG_DIR}/settings.ini" -- "${1}" > /dev/null 2>&1
 fi
