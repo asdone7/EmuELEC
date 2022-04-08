@@ -2,8 +2,8 @@
 # Copyright (C) 2021-present Team LibreELEC (https://libreelec.tv)
 
 PKG_NAME="Jinja2"
-PKG_VERSION="3.0.x"
-PKG_SHA256="66c6d2140b1c92bade3b4b9423b5a6ce0967a4e68dcb4d76bfd67f1a0807d2d9"
+PKG_VERSION="3.1.1"
+PKG_SHA256="640bed4bb501cbd17194b3cace1dc2126f5b619cf068a726b98192a0fde74ae9"
 PKG_LICENSE="BSD"
 PKG_SITE="https://pypi.org/project/Jinja2/"
 PKG_URL="https://github.com/pallets/jinja/archive/bb7f3a51091d91010deb1e01e69f4f255d3b3eb6.tar.gz"
