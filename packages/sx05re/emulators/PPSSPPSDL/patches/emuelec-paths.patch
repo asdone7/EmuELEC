@@ -5,7 +5,7 @@
  		return pspDirectory;
  	case DIRECTORY_CHEATS:
 -		return pspDirectory / "Cheats";
-+		return Path("/storage/roms/savestates/PPSSPPSDL/PSP/Cheats/");
++		return Path("/storage/.config/ppsspp/PSP/Cheats/");
  	case DIRECTORY_GAME:
 -		return pspDirectory / "GAME";
 +		return Path("/storage/roms/savestates/PPSSPPSDL/PSP/GAME/");
