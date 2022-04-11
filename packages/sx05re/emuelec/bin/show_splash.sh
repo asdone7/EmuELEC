@@ -27,7 +27,7 @@ PLATFORM=${PLATFORM,,}
 PLAYER="ffplay"
 
 case $PLATFORM in
- "arcade"|"fba"|"fbn"|"neogeo"|"mame"|cps*)
+ "arcade"|"fba"|"fbn"|"fbnh"|"neogeo"|"mame"|cps*)
    PLATFORM="arcade"
   ;;
  "retropie"|"setup")
