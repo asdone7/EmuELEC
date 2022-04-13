@@ -73,6 +73,10 @@ makeinstall_target() {
 	cp -rf ${PKG_DIR}/config/scripts ${INSTALL}/usr/config/emulationstation
 	cp -rf ${PKG_DIR}/config/*.cfg ${INSTALL}/usr/config/emulationstation
 
+#add translated file
+	mkdir -p ${INSTALL}/usr/config/emuelec/configs/locale/zh_CN/LC_MESSAGES
+	cp -rf ${PKG_DIR}/translated/* ${INSTALL}/usr/config/emuelec/configs/locale/zh_CN/LC_MESSAGES
+
 	chmod +x ${INSTALL}/usr/config/emulationstation/scripts/*
 	chmod +x ${INSTALL}/usr/config/emulationstation/scripts/configscripts/*
 	find ${INSTALL}/usr/config/emulationstation/scripts/ -type f -exec chmod o+x {} \; 

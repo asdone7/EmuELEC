@@ -2,8 +2,8 @@
 # Copyright (C) 2019-present Shanti Gilbert (https://github.com/shantigilbert)
 
 PKG_NAME="es-theme-EmuELEC-demonslayer"
-PKG_VERSION="3608a7a487d1b0fc78e6769750ba5eed296bc8a5"
-PKG_SHA256="45f330edeff4db63ad3f41615ff784a420bb286e21f7371b245b286c19e31503"
+PKG_VERSION="f9cfe7b6fb1ee3a6e134f8052e61f1b79f9a5656"
+PKG_SHA256="a7d4b0a5adfde0352d89a7da48bf986e5a653ab8680636f9dbf687f2d049557d"
 PKG_REV="1"
 PKG_ARCH="any"
 PKG_LICENSE="GPL"
