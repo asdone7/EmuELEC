@@ -17,7 +17,7 @@ PKG_AUTORECONF="no"
 PKG_TOOLCHAIN="make"
 PKG_NEED_UNPACK="$(get_pkg_directory busybox)"
 
-PKG_EXPERIMENTAL="munt nestopiaCV quasi88 xmil hypseus-singe dosbox-x yabasanshiroSA"
+PKG_EXPERIMENTAL="munt nestopiaCV quasi88 xmil hypseus-singe yabasanshiroSA"
 PKG_EMUS="$LIBRETRO_CORES PPSSPPSDL amiberry hatarisa openbor dosbox-staging mupen64plus-nx-alt dosbox-pure pcsx_rearmed potator freej2me duckstation flycastsa fmsx-libretro mupen64plussa liberation-core-supplement"
 PKG_TOOLS="emuelec-tools"
 PKG_DEPENDS_TARGET+=" $PKG_TOOLS $PKG_EMUS $PKG_EXPERIMENTAL"
