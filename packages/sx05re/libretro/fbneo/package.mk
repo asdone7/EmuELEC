@@ -2,13 +2,13 @@
 # Copyright (C) 2019-present Shanti Gilbert (https://github.com/shantigilbert)
 
 PKG_NAME="fbneo"
-PKG_VERSION="84b50d45652f37029f4a3db03dadfeae175a385e"
-PKG_SHA256=""
+PKG_VERSION="dcc108849b15cde3fffbccb5741e86547751f422"
+PKG_SHA256="a0182f4552a4defa3526ef8a9294f0588d7b07f4475442bd5227f7d0702eb57e"
 PKG_REV="1"
 PKG_ARCH="any"
 PKG_LICENSE="Non-commercial"
 PKG_SITE="https://github.com/asdone77/FBNeo"
-PKG_URL="$PKG_SITE.git"
+PKG_URL="$PKG_SITE/archive/$PKG_VERSION.tar.gz"
 PKG_DEPENDS_TARGET="toolchain"
 PKG_SECTION="libretro"
 PKG_SHORTDESC="Port of Final Burn Neo to Libretro (v1.0.0.3)."
@@ -30,7 +30,7 @@ if [ "$DEVICE" == "OdroidGoAdvance" ] || [ "$DEVICE" == "GameForce" ]; then
 	PKG_MAKE_OPTS_TARGET+=" platform=classic_armv8_a35"
 	fi
 fi
-perl ./src/dep/scripts/gamelist.pl -o ./src/dep/generated/driverlist.h ./src/burn/drv/atari ./src/burn/drv/capcom ./src/burn/drv/cave ./src/burn/drv/channelf ./src/burn/drv/coleco ./src/burn/drv/cps3 ./src/burn/drv/dataeast ./src/burn/drv/galaxian ./src/burn/drv/irem ./src/burn/drv/konami ./src/burn/drv/megadrive ./src/burn/drv/midway ./src/burn/drv/msx ./src/burn/drv/neogeo ./src/burn/drv/pce ./src/burn/drv/pgm ./src/burn/drv/pst90s ./src/burn/drv/psikyo ./src/burn/drv/sega ./src/burn/drv/sg1000 ./src/burn/drv/spectrum ./src/burn/drv/taito ./src/burn/drv/toaplan  ./src/burn/drv/sms ./src/burn/drv/nes ./src/burn/drv
+
 }
 
 makeinstall_target() {

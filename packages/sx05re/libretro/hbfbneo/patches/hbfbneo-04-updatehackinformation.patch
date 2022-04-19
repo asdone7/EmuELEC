@@ -1,0 +1,18 @@
+--- a/src/dep/generated/driverlist.h	2022-01-16 17:43:00.000000000 +0800
++++ b/src/dep/generated/driverlist.h	2022-04-15 13:08:21.686090700 +0800
+@@ -14402,6 +14402,7 @@
+ DRV		BurnDrvCpsSfz3a;
+ DRV		BurnDrvCpsSfz3j;
+ DRV		BurnDrvCpsSfz3te;
++DRV		BurnDrvCpssfz3mix7b;
+ DRV		BurnDrvSftm110;
+ DRV		BurnDrvSftm111;
+ DRV		BurnDrvSftm;
+@@ -32552,6 +32553,7 @@
+ 	&BurnDrvCpsSfz3a,			// Street Fighter Zero 3 (980904 Asia)
+ 	&BurnDrvCpsSfz3j,			// Street Fighter Zero 3 (980904 Japan)
+ 	&BurnDrvCpsSfz3te,			// Street Fighter Zero 3 Training Edition v1.1 (980629 Japan)
++   &BurnDrvCpssfz3mix7b,		// Street Fighter Zero 3 (mix 07b JH)
+ 	&BurnDrvSftm110,			// Street Fighter: The Movie (v1.10)
+ 	&BurnDrvSftm111,			// Street Fighter: The Movie (v1.11)
+ 	&BurnDrvSftm,				// Street Fighter: The Movie (v1.12)

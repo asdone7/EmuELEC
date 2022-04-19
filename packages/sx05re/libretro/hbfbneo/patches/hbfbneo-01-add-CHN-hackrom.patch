@@ -3080,7 +3080,7 @@
  STD_ROM_PICK(Sfz3ar1)
  STD_ROM_FN(Sfz3ar1)
  
-+static struct BurnRomInfo sfz3mixRomDesc[] = {
++static struct BurnRomInfo sfz3mix7bRomDesc[] = {
 +	{ "sfz3mix.03",        0x080000, 0xe6747e9b, CPS2_PRG_68K | BRF_ESS | BRF_PRG },
 +	{ "sfz3mix.04",        0x080000, 0x4ef3bbe9, CPS2_PRG_68K | BRF_ESS | BRF_PRG },
 +	{ "sfz3mix.05",        0x080000, 0xbaa534fc, CPS2_PRG_68K | BRF_ESS | BRF_PRG },
@@ -3108,8 +3108,8 @@
 +	{ "phoenix.key",       0x000014, 0x2cf772b0, CPS2_ENCRYPTION_KEY },
 +};
 +
-+STD_ROM_PICK(sfz3mix)
-+STD_ROM_FN(sfz3mix)
++STD_ROM_PICK(sfz3mix7b)
++STD_ROM_FN(sfz3mix7b)
 +
  static struct BurnRomInfo Sfz3jRomDesc[] = {
  	{ "sz3j.03c",      0x080000, 0xcadf4a51, CPS2_PRG_68K | BRF_ESS | BRF_PRG },
@@ -3119,12 +3119,12 @@
  	&CpsRecalcPal, 0x1000, 384, 224, 4, 3
  };
 +
-+struct BurnDriver BurnDrvCpssfz3mix = {
-+	"sfz3mix", "sfa3", NULL, NULL, "2022",
-+	"Street Fighter Zero 3 (mix)\0", NULL, "Capcom", "CPS2",
++struct BurnDriver BurnDrvCpssfz3mix7b = {
++	"sfz3mix7b", "sfa3", NULL, NULL, "2022",
++	"Street Fighter Zero 3 (mix 07b JH)\0", NULL, "Capcom", "CPS2",
 +	NULL, NULL, NULL, NULL,
 +	BDF_GAME_WORKING | BDF_CLONE | BDF_HISCORE_SUPPORTED | BDF_HACK, 2, HARDWARE_CAPCOM_CPS2, GBF_VSFIGHT, FBF_SF,
-+	NULL, sfz3mixRomInfo, sfz3mixRomName, NULL, NULL, NULL, NULL, Cps2FightingInputInfo, NULL,
++	NULL, sfz3mix7bRomInfo, sfz3mix7bRomName, NULL, NULL, NULL, NULL, Cps2FightingInputInfo, NULL,
 +	Cps2Init, DrvExit, Cps2Frame, CpsRedraw, CpsAreaScan,
 +	&CpsRecalcPal, 0x1000, 384, 224, 4, 3
 +};
