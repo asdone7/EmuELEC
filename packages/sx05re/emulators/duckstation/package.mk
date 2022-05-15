@@ -2,10 +2,10 @@
 # Copyright (C) 2021-present Shanti Gilbert (https://github.com/shantigilbert)
 
 PKG_NAME="duckstation"
-PKG_VERSION="a991bb20c8e71d6e905b3ef84aaf4077e2dc15d0"
+PKG_VERSION="833114f05927e6857ea203dc94f52a5d04a805af"
 PKG_ARCH="aarch64"
 PKG_LICENSE="GPLv3"
-PKG_SITE="https://github.com/stenzek/duckstation"
+PKG_SITE="https://github.com/asdone7/duckstation"
 PKG_URL="${PKG_SITE}.git"
 PKG_DEPENDS_TARGET="toolchain SDL2 nasm:host ${OPENGLES} libevdev"
 PKG_SECTION="libretro"
