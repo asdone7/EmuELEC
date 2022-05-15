@@ -1,0 +1,38 @@
+--- a/data/database/chtdb.txt	2022-04-13 23:26:23.089250100 +0800
++++ b/data/database/chtdb.txt	2022-04-20 16:04:55.133168000 +0800
+@@ -82061,9 +82061,32 @@
+ 801759D2 3000
+ 801759D4 0030
+ 
+-; [ Shachou Eiyuuden - The Eagle Shooting Heroes (Asia) (2000?) (SCEI) {SCPS-45510} <shacheyu> ]
+-;:SCPS-45510
+-;This game currently has no cheats
++;   *[ Shachou Eiyuuden - The Eagle Shooting Heroes (Asia) (2000?) (SCEI) {SCPS-45510} <shacheyu> ]
++; [ Shediao Yingxiongzhuan (Asia) (SCEI) {SCPS-45510} <shacheyu> ]
++;   *:SCPS-45510
++:SCPS-45510
++;   *This game currently has no cheats
++#999HP
++8008C262 03E7
++8008C264 03E7
++
++#999MP
++8008C266 03E7
++8008C264 03E7
++
++#999AP
++8008C26A 03E7
++8008C268 03E7
++
++#zui da jing yan - max exp
++8008C268 03E7
++8008C26C FFFF
++
++#zui da fang yu he gong ji li - max power defense
++8008C26E 03E7
++
++#wu xian jin qian - max money
++8008C254 FFFF
+ 
+ ; [ Shiibas 1-2-3 - Destiny! Unmei O Kaerusha! (Jpn) (2000) (Jaleco) {SLPS-01893} <shiba123> ]
+ :SLPS-01893

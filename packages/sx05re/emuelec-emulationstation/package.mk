@@ -18,7 +18,7 @@ GET_HANDLER_SUPPORT="git"
 
 # themes for Emulationstation
 #PKG_DEPENDS_TARGET="$PKG_DEPENDS_TARGET Crystal es-theme-EmuELEC-carbon Ultimate-EmuELEC es-theme-EmuELEC-demonslayer"
-PKG_DEPENDS_TARGET="$PKG_DEPENDS_TARGET Crystal es-theme-EmuELEC-demonslayer"
+PKG_DEPENDS_TARGET="$PKG_DEPENDS_TARGET Crystal"
 
 pre_configure_target() {
 PKG_CMAKE_OPTS_TARGET=" -DENABLE_EMUELEC=1 -DDISABLE_KODI=1 -DENABLE_FILEMANAGER=1 -DGLES2=1"

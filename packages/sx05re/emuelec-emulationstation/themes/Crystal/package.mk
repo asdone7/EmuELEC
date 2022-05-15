@@ -12,6 +12,7 @@ PKG_DEPENDS_TARGET="toolchain"
 PKG_SECTION="emuelec"
 PKG_SHORTDESC="Crystal theme for EMUELEC by Dim (fagnerpc)"
 PKG_TOOLCHAIN="manual"
+PKG_GIT_CLONE_BRANCH="emuelec"
 GET_HANDLER_SUPPORT="git"
 
 make_target() {
