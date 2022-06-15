@@ -19,7 +19,7 @@
 ################################################################################
 
 PKG_NAME="retroarch"
-PKG_VERSION="720cca5e45f169cee128f11a27654fd8086356e0"
+PKG_VERSION="56ca328d958bc41a1fb4cf44a325bd335a454d2b"
 PKG_SITE="https://github.com/libretro/RetroArch"
 PKG_URL="$PKG_SITE.git"
 PKG_LICENSE="GPLv3"
@@ -27,7 +27,7 @@ PKG_DEPENDS_TARGET="toolchain SDL2 alsa-lib openssl freetype zlib retroarch-asse
 PKG_LONGDESC="Reference frontend for the libretro API."
 GET_HANDLER_SUPPORT="git"
 
-if [ "${DEVICE}" = "Amlogic-ng" ] || [ "${DEVICE}" = "Amlogic" ]; then
+if [ "${DEVICE}" = "Amlogic-ng" ] || [ "${DEVICE}" = "Amlogic-old" ]; then
   PKG_PATCH_DIRS="${DEVICE}"
 fi
 

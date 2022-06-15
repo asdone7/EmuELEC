@@ -2,7 +2,7 @@
 # Copyright (C) 2019-present Shanti Gilbert (https://github.com/shantigilbert)
 
 PKG_NAME="emuelec-emulationstation"
-PKG_VERSION="a6a88c446e63a806030ae26b3b4a1b01f1dba4a8"
+PKG_VERSION="8277829bfacc31ab4d30f2537d3b36143861af80"
 PKG_GIT_CLONE_BRANCH="EmuELEC"
 PKG_REV="1"
 PKG_ARCH="any"
@@ -91,7 +91,7 @@ makeinstall_target() {
     fi
 	
 	# Amlogic project has an issue with mixed audio
-    if [[ "${DEVICE}" == "Amlogic" ]]; then
+    if [[ "${DEVICE}" == "Amlogic-old" ]]; then
         sed -i "s|</config>|	<bool name=\"StopMusicOnScreenSaver\" value=\"false\" />\n</config>|g" "${INSTALL}/usr/config/emulationstation/es_settings.cfg"
     fi
 
@@ -112,8 +112,8 @@ CORESFILE="${INSTALL}/usr/config/emulationstation/es_systems.cfg"
 if [ "${DEVICE}" != "Amlogic-ng" ]; then
     if [[ ${DEVICE} == "OdroidGoAdvance" || "$DEVICE" == "GameForce" ]]; then
         remove_cores="mesen-s quicknes mame2016 mesen"
-    elif [ "${DEVICE}" == "Amlogic" ]; then
-        remove_cores="mesen-s quicknes mame2016 mesen"
+    elif [ "${DEVICE}" == "Amlogic-old" ]; then
+        remove_cores="mesen-s quicknes mame2016 mesen yabasanshiroSA yabasanshiro"
         xmlstarlet ed -L -P -d "/systemList/system[name='saturn']" ${CORESFILE}
     fi
     
