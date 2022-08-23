@@ -48,7 +48,8 @@ PKG_DEPENDS_TARGET+=" ffmpeg \
                       iotop \
                       usb-modeswitch \
                       vim \
-                      grep"
+                      grep \
+                      eemount"
 
 if [ "${PROJECT}" == "Amlogic-ce" ]; then
                       PKG_DEPENDS_TARGET+=" CoreELEC-Debug-Scripts"
